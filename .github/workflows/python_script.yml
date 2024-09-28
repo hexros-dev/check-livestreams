@@ -10,6 +10,8 @@ jobs:
   run-script:
     runs-on: ubuntu-latest
     steps:
+      - name: Set TERM environment variable
+        run: echo "TERM=xterm" >> $GITHUB_ENV
       - name: Checkout Repository
         uses: actions/checkout@v4.2.0
         with:
