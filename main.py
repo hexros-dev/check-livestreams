@@ -154,7 +154,7 @@ def get_info_upcoming_livestream(channel_urls: list[str]) -> list:
     return live_streams
 
 if __name__ == '__main__':
-    os.system("cls")
+    os.system('cls' if os.name=='nt' else 'clear')
     channel_urls = get_channel_url("channel_url.txt")
     live_streams = get_info_upcoming_livestream(channel_urls)
 
