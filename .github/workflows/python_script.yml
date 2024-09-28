@@ -5,7 +5,7 @@ on:
   pull_request:
     branches: [ "master" ]
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '*/5 * * * *'
 jobs:
   run-script:
     runs-on: ubuntu-latest
