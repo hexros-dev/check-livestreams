@@ -87,7 +87,7 @@ def send_email(live_streams: str) -> None:
             pass
 
     with open("./prev_hash.md5", mode='r+', encoding='utf-8') as file:
-        prev_hash = file.readline()
+        prev_hash = file.readline().strip()
         print_text(f"prev_hash: {prev_hash}")
         print_text(f"curr_hash: {current_hash}")
         if prev_hash != current_hash:
