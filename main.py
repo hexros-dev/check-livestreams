@@ -110,7 +110,7 @@ def send_email(live_streams: str) -> None:
             except Exception as e:
                 print_text(f"Failed to send email: {e}", 'E')
         else:
-            prev_hash("Nothing changed!")
+            print_text("Nothing changed!", "S")
 
 def get_info_upcoming_livestream(channel_urls: list[str]) -> list:
     yt_opts = {
