@@ -155,7 +155,7 @@ def get_info_upcoming_livestream(channel_urls: list[str]) -> list:
 
 if __name__ == '__main__':
     os.system("cls")
-    channel_urls = get_channel_url("Z:\\CheckLivestream\\channel_url.txt")
+    channel_urls = get_channel_url("channel_url.txt")
     live_streams = get_info_upcoming_livestream(channel_urls)
 
     send_email(live_streams)
