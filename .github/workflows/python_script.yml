@@ -34,5 +34,9 @@ jobs:
           git config --global user.name "github-actions [BOT]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "Update prev_hash.md5 file via GitHub Actions"
-          git push origin master
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update prev_hash.md5 file via GitHub Actions"
+            git push origin master
+          fi
