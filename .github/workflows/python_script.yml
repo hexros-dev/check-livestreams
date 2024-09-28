@@ -34,6 +34,5 @@ jobs:
           git config --global user.name "github-actions [BOT]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add .
-          SHORT_SHA = $(echo "${GITHUB_SHA}" | cut -c1-7)
-          git commit -m "[$SHORT_SHA] Update prev_hash.md5 file via GitHub Actions"
+          git commit -m "Update prev_hash.md5 file via GitHub Actions"
           git push origin master
