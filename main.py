@@ -49,7 +49,7 @@ def get_channel_url(file_path: str) -> list[str] | None:
     return result
 
 def send_email(live_streams: str) -> None:
-    subject = "Upcoming YouTube Live Streams Notification"
+    subject = f"Upcoming YouTube Live Streams Notification {datetime.now()}"
     body = f'''
                 <h1>Upcoming YouTube Live Streams</h1>
                 <br />
@@ -82,6 +82,7 @@ def send_email(live_streams: str) -> None:
     
     is_exists = Path('./prev_hash.md5').exists()
     if not is_exists:
+        print("create file")
         with open("./prev_hash.md5", mode='w', encoding='utf-8') as file:
             pass
 
@@ -90,6 +91,7 @@ def send_email(live_streams: str) -> None:
         print_text(f"prev_hash: {prev_hash}")
         print_text(f"curr_hash: {current_hash}")
         if prev_hash != current_hash:
+            file.seek(0, 0)
             file.write(current_hash)
             msg = MIMEMultipart()
             msg['From'] = SENDER_EMAIL
@@ -131,8 +133,8 @@ def get_info_upcoming_livestream(channel_urls: list[str]) -> list:
                     title = entry.get('title', '')
                     is_upcoming = entry.get('live_status')
                     if is_upcoming == 'is_upcoming':
-                        print_text('Found upcoming live stream!', prefix='S')
-                        print_text(f"Title: {title}")
+                        # print_text('Found upcoming live stream!', prefix='S')
+                        # print_text(f"Title: {title}")
                         video_id = entry.get('id')
                         scheduled_time = entry.get('release_timestamp')
                         scheduled_time_readable = datetime.fromtimestamp(scheduled_time).strftime('%d/%m/%Y %H:%M:%S (GMT+7)')
