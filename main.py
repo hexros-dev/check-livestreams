@@ -81,6 +81,7 @@ def send_email_upcoming(live_streams: str) -> None:
     now_ = datetime.strptime(now_, "%d/%m/%Y %H:%M:%S")
     flag = False
     need_red = False
+    is_bold = False
     body = f'''<html>
                 <h1>📹 Upcoming YouTube Live Streams</h1>
                 <br />
@@ -97,7 +98,9 @@ def send_email_upcoming(live_streams: str) -> None:
                 schedule_date = datetime.strptime(video['date'].split(" (GMT+7)")[0], "%d/%m/%Y %H:%M:%S")
                 delta = schedule_date - now_
                 seconds = delta.total_seconds()
-
+                if "unarchive" in video['title'].lower():
+                    is_bold = True
+                    need_red = True
                 if seconds <= LIMIT * 60:
                     flag = True
                     need_red = True
@@ -105,7 +108,7 @@ def send_email_upcoming(live_streams: str) -> None:
                 emoji = get_clock_emoji(schedule_date)
                 body += f'''
                             <hr />
-                            <li style="list-style-type: none; {"color:red;" if flag else ""}">
+                            <li style="list-style-type: none; {"color:red;" if need_red else ""} {"font-weight: bold; font-style: oblique;" if is_bold else ""} ">
                                 <strong>🏷️ Title: </strong> <span>{video['title']}</span>
                                 <br />
                                 <span><strong>🖼️ Thumbnail: </strong> <img src='{video['thumbnail']}'/></span>
