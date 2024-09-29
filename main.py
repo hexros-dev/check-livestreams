@@ -90,7 +90,7 @@ def send_email(live_streams: str) -> None:
 
     body += '</ul>'
 
-    current_hash = md5(body.encode('utf-8')).hexdigest()
+    current_hash = md5(str(live_streams).encode('utf-8')).hexdigest()
     
     is_exists = Path('./prev_hash_upcoming.md5').exists()
     if not is_exists:
@@ -152,7 +152,7 @@ def send_email_live(live_streams: str) -> None:
 
     body += '</ul>'
 
-    current_hash = md5(body.encode('utf-8')).hexdigest()
+    current_hash = md5(str(live_streams).encode('utf-8')).hexdigest()
     
     is_exists = Path('./prev_hash_live.md5').exists()
     if not is_exists:
@@ -193,7 +193,7 @@ def get_info_livestream(channel_urls: list[str]):
         'quiet': True
     }
     upcoming = {}
-    livestreams = {}
+    live_streams = {}
     with yt_dlp.YoutubeDL(yt_opts) as ydl:
         for channel_url in channel_urls:
             try:
@@ -218,6 +218,11 @@ def get_info_livestream(channel_urls: list[str]):
                         scheduled_time = entry.get('release_timestamp')
                         tz = pytz.timezone('Asia/Ho_Chi_Minh')
                         scheduled_time_readable = datetime.fromtimestamp(scheduled_time, tz).strftime('%d/%m/%Y %H:%M:%S (GMT+7)')
+                        scheduled_date = datetime.fromtimestamp(scheduled_time)
+                        current = datetime.now()
+                        delta = scheduled_date - current
+                        if delta.days > 100:
+                            continue
                         videos_upcoming.append({
                             "video_id": video_id,
                             "title": title,
@@ -237,7 +242,7 @@ def get_info_livestream(channel_urls: list[str]):
                     "channel_name": channel_name,
                     "videos": videos_upcoming
                 }
-                livestreams[channel_id] = {
+                live_streams[channel_id] = {
                     "channel_url": channel_url,
                     "channel_name": channel_name,
                     "videos": videos_live
@@ -245,7 +250,7 @@ def get_info_livestream(channel_urls: list[str]):
             except Exception as e:
                 print_text(f"Failed to fetch data for {channel_url}: {e}", prefix='E')
     
-    return upcoming, livestreams
+    return upcoming, live_streams
 
 if __name__ == '__main__':
     os.system('cls' if os.name=='nt' else 'clear')
