@@ -50,7 +50,9 @@ def get_channel_url(file_path: str) -> list[str] | None:
     return result
 
 def send_email(live_streams: str) -> None:
-    subject = f"Upcoming YouTube Live Streams Notification {datetime.now(pytz.timezone('Asia/Ho_Chi_Minh')).strftime("%d/%m/%Y %H:%M:%S")}"
+    now_ = datetime.now(pytz.timezone('Asia/Ho_Chi_Minh')).strftime("%d/%m/%Y %H:%M:%S")
+    subject = f"Upcoming YouTube Live Streams Notification {now_}"
+    now_ = datetime.strptime(now_, "%d/%m/%Y %H:%M:%S")
     body = f'''
                 <h1>Upcoming YouTube Live Streams</h1>
                 <br />
@@ -64,12 +66,14 @@ def send_email(live_streams: str) -> None:
                             <ul>
                     '''
             for video in info['videos']:
+                schedule_date = datetime.strptime(video['date'].split(" (GMT+7)")[0], "%d/%m/%Y %H:%M:%S")
+                delta = str(schedule_date - now_)
                 body += f'''
                             <hr />
                             <li style="list-style-type: none;">
                                 <strong>Title: </strong> <span>{video['title']}</span>
                                 <br />
-                                <strong>Scheduled for: </strong> <span>{video['date']}</span>
+                                <strong>Scheduled for: </strong> <span>{video['date']} ({delta} from now)</span>
                                 <br />
                                 <a href="https://www.youtube.com/watch?v={video['video_id']}"><strong>Open Video</strong></a>
                             </li>
