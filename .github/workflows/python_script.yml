@@ -32,17 +32,6 @@ jobs:
           RECEIVER_EMAIL: ${{secrets.RECEIVER_EMAIL}}
         run: |
           python main.py
-      - uses: actions/upload-artifact@v4
-        with:
-          name: _code_
-          path: ~/*
-  push-code:
-    runs-on: ubuntu-latest
-    needs: [run-script]
-    steps:
-      - uses: actions/download-artifact@v4
-        with:
-          name: _code_
       - name: Pushing to master
         run: |
           git config --global user.name "github-actions [BOT]"
