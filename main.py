@@ -160,7 +160,8 @@ def send_email_live(live_streams: str) -> None:
                             <li style="list-style-type: none;">
                                 <strong>🏷️ Title: </strong> <span>{video['title']}</span>
                                 <br />
-                                <span><strong>🖼️ Thumbnail: </strong> <img src='{video['thumbnail']}'/></span>
+                                <span><strong>🖼️ Thumbnail: </strong> <img src='{video["thumbnail"]}'/></span>
+                                <br />
                                 <a href="https://www.youtube.com/watch?v={video['video_id']}"><strong>▶️ Open Video</strong></a>
                             </li>
                         '''
