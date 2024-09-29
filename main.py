@@ -191,6 +191,14 @@ def send_email_live(live_streams: str) -> None:
         else:
             print_text("Nothing changed!", "S")
 
+def sort_obj(obj):
+    obj = dict(sorted(obj.items(), key=lambda item:item[0]))
+
+    for id_obj in obj.values():
+        id_obj["videos"] = sorted(id_obj["videos"], key=lambda video:video["video_id"])
+        
+    return obj
+
 def get_info_livestream(channel_url: str):
     yt_opts = {
         'extract_flat': True,
@@ -259,6 +267,9 @@ def get_info_livestream(channel_url: str):
         except Exception as e:
             print_text(f"Failed to fetch data for {channel_url}: {e}", prefix='E')
 
+    upcoming = sort_obj(upcoming)
+    live_streams = sort_obj(live_streams)
+    
     return upcoming, live_streams
 
 def process_channels(channel_urls: list[str], max_workers=5):
@@ -277,6 +288,9 @@ def process_channels(channel_urls: list[str], max_workers=5):
                     live_streams_all[channel_id] = data
             except Exception as e:
                 print_text(f"Error processing {url}: {e}", "E")
+
+    upcoming_all = sort_obj(upcoming_all)
+    live_streams_all = sort_obj(live_streams_all)
     
     return upcoming_all, live_streams_all
 
