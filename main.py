@@ -60,10 +60,7 @@ def send_email(live_streams: str) -> None:
     subject = f"🗓️ Upcoming YouTube Live Streams Notification {now_}"
     now_ = datetime.strptime(now_, "%d/%m/%Y %H:%M:%S")
     body = f'''
-                <div style="display: flex; align-items: center;">
-                    <span>📹</span>
-                    <h1>Upcoming YouTube Live Streams</h1>
-                </div>
+                <h1>📹 Upcoming YouTube Live Streams</h1>
                 <br />
                 <ul>
             '''
@@ -121,7 +118,7 @@ def send_email(live_streams: str) -> None:
                 text = msg.as_string()
                 server.sendmail(SENDER_EMAIL, RECEIVER_EMAIL, text)
                 server.quit()
-                print_text("Email sent successfully!", 'S')
+                print_text("Email upcoming sent successfully!", 'S')
             except Exception as e:
                 print_text(f"Failed to send email: {e}", 'E')
         else:
@@ -130,10 +127,7 @@ def send_email(live_streams: str) -> None:
 def send_email_live(live_streams: str) -> None:
     subject = f"🔴 YouTube Live Streams Notification {datetime.now(pytz.timezone('Asia/Ho_Chi_Minh')).strftime("%d/%m/%Y %H:%M:%S")}"
     body = f'''
-                <div style="display: flex; align-items: center;">
-                    <span>🔴</span>
-                    <h1>YouTube Live Streams</h1>
-                </div>
+                <h1>🔴 YouTube Live Streams</h1>
                 <br />
                 <ul>
             '''
@@ -186,7 +180,7 @@ def send_email_live(live_streams: str) -> None:
                 text = msg.as_string()
                 server.sendmail(SENDER_EMAIL, RECEIVER_EMAIL, text)
                 server.quit()
-                print_text("Email sent successfully!", 'S')
+                print_text("Email live streams sent successfully!", 'S')
             except Exception as e:
                 print_text(f"Failed to send email: {e}", 'E')
         else:
@@ -230,7 +224,7 @@ def get_info_livestream(channel_urls: list[str]):
                             "date": scheduled_time_readable
                         })
                     elif status == 'is_live':
-                        print_text('Found upcoming live stream!', prefix='S')
+                        print_text('Found live stream!', prefix='S')
                         print_text(f"Title: {title}")
                         video_id = entry.get('id')
                         videos_live.append({
@@ -241,12 +235,12 @@ def get_info_livestream(channel_urls: list[str]):
                 upcoming[channel_id] = {
                     "channel_url": channel_url,
                     "channel_name": channel_name,
-                    "videos": videos
+                    "videos": videos_upcoming
                 }
                 livestreams[channel_id] = {
                     "channel_url": channel_url,
                     "channel_name": channel_name,
-                    "videos": videos
+                    "videos": videos_live
                 }
             except Exception as e:
                 print_text(f"Failed to fetch data for {channel_url}: {e}", prefix='E')
