@@ -21,6 +21,12 @@ class Color:
     CYAN = '\033[96m'
     RESET = '\033[0m'
 
+def get_clock_emoji(dt: datetime) -> str:
+    emojis = ["🕛","🕧","🕐","🕜","🕑","🕝","🕒","🕞","🕓","🕟","🕔","🕠","🕕","🕡","🕖","🕢","🕗","🕣","🕘","🕤","🕙","🕥","🕚","🕦"]
+
+    index = (dt.hour % 12 * 2 + (1 if dt.minute >= 15 else 0) + (1 if dt.minute >= 45 else 0)) % len(emojis)
+    return emojis[index]
+
 def print_text(text: str, prefix: str = 'I', suffix: str = '\n') -> None:
     _type = prefix.upper()
     match(_type):
@@ -34,7 +40,7 @@ def print_text(text: str, prefix: str = 'I', suffix: str = '\n') -> None:
             print(f"{Color.RED}", end='')
         case 'Q':
             print(f"{Color.PURPLE}", end='')
-        case default:
+        case _:
             pass
     print(f"<{prefix if prefix else '?'}> {text}{Color.RESET}", end=suffix)
 
@@ -51,10 +57,13 @@ def get_channel_url(file_path: str) -> list[str] | None:
 
 def send_email(live_streams: str) -> None:
     now_ = datetime.now(pytz.timezone('Asia/Ho_Chi_Minh')).strftime("%d/%m/%Y %H:%M:%S")
-    subject = f"Upcoming YouTube Live Streams Notification {now_}"
+    subject = f"🗓️ Upcoming YouTube Live Streams Notification {now_}"
     now_ = datetime.strptime(now_, "%d/%m/%Y %H:%M:%S")
     body = f'''
-                <h1>Upcoming YouTube Live Streams</h1>
+                <div style="display: flex; align-items: center;">
+                    <span>📹</span>
+                    <h1>Upcoming YouTube Live Streams</h1>
+                </div>
                 <br />
                 <ul>
             '''
@@ -68,14 +77,15 @@ def send_email(live_streams: str) -> None:
             for video in info['videos']:
                 schedule_date = datetime.strptime(video['date'].split(" (GMT+7)")[0], "%d/%m/%Y %H:%M:%S")
                 delta = str(schedule_date - now_)
+                emoji = get_clock_emoji(schedule_date)
                 body += f'''
                             <hr />
                             <li style="list-style-type: none;">
-                                <strong>Title: </strong> <span>{video['title']}</span>
+                                <strong>🏷️ Title: </strong> <span>{video['title']}</span>
                                 <br />
-                                <strong>Scheduled for: </strong> <span>{video['date']} ({delta} from now)</span>
+                                <strong>{emoji} Scheduled for: </strong> <span>{video['date']} ({delta} from now)</span>
                                 <br />
-                                <a href="https://www.youtube.com/watch?v={video['video_id']}"><strong>Open Video</strong></a>
+                                <a href="https://www.youtube.com/watch?v={video['video_id']}"><strong>▶️ Open Video</strong></a>
                             </li>
                         '''
         
