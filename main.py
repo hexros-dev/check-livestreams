@@ -219,7 +219,7 @@ def get_info_livestream(channel_urls: list[str]):
                         scheduled_date = datetime.fromtimestamp(scheduled_time)
                         current = datetime.now()
                         delta = scheduled_date - current
-                        if delta.days > 100:
+                        if delta.days > 50:
                             continue
                         videos_upcoming.append({
                             "video_id": video_id,
