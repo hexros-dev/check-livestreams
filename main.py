@@ -7,6 +7,7 @@ import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from hashlib import md5
+import pytz
 
 SENDER_EMAIL = os.getenv('SENDER_EMAIL')
 SENDER_PWD = os.getenv('SENDER_PWD')
@@ -49,7 +50,7 @@ def get_channel_url(file_path: str) -> list[str] | None:
     return result
 
 def send_email(live_streams: str) -> None:
-    subject = f"Upcoming YouTube Live Streams Notification {datetime.now()}"
+    subject = f"Upcoming YouTube Live Streams Notification {datetime.now(pytz.timezone('Asia/Ho_Chi_Minh')).strftime("%d/%m/%Y %H:%M:%S")}"
     body = f'''
                 <h1>Upcoming YouTube Live Streams</h1>
                 <br />
@@ -133,11 +134,12 @@ def get_info_upcoming_livestream(channel_urls: list[str]) -> list:
                     title = entry.get('title', '')
                     is_upcoming = entry.get('live_status')
                     if is_upcoming == 'is_upcoming':
-                        # print_text('Found upcoming live stream!', prefix='S')
-                        # print_text(f"Title: {title}")
+                        print_text('Found upcoming live stream!', prefix='S')
+                        print_text(f"Title: {title}")
                         video_id = entry.get('id')
                         scheduled_time = entry.get('release_timestamp')
-                        scheduled_time_readable = datetime.fromtimestamp(scheduled_time).strftime('%d/%m/%Y %H:%M:%S (GMT+7)')
+                        tz = pytz.timezone('Asia/Ho_Chi_Minh')
+                        scheduled_time_readable = datetime.fromtimestamp(scheduled_time, tz).strftime('%d/%m/%Y %H:%M:%S (GMT+7)')
                         videos.append({
                             "video_id": video_id,
                             "title": title,
