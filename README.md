@@ -1,1 +1,1 @@
-[![Run Python Script](https://github.com/hexros-dev/upcoming-livestreams/actions/workflows/python_script.yml/badge.svg?branch=master)](https://github.com/hexros-dev/upcoming-livestreams/actions/workflows/python_script.yml)
+[![Run Python Script](https://github.com/hexros-dev/check-livestreams/actions/workflows/python_script.yml/badge.svg?branch=master)](https://github.com/hexros-dev/check-livestreams/actions/workflows/python_script.yml)
