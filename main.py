@@ -125,8 +125,8 @@ def send_email_upcoming(live_streams: str) -> None:
 
     with open("./prev_hash_upcoming.md5", mode='r+', encoding='utf-8') as file:
         prev_hash = file.readline().strip()
-        print_text(f"prev_hash: {prev_hash}")
-        print_text(f"curr_hash: {current_hash}")
+        print_text(f"prev_upcoming_hash: {prev_hash}")
+        print_text(f"curr_upcoming_hash: {current_hash}")
         if prev_hash != current_hash:
             file.seek(0, 0)
             file.write(current_hash)
@@ -175,8 +175,8 @@ def send_email_live(live_streams: str) -> None:
 
     with open("./prev_hash_live.md5", mode='r+', encoding='utf-8') as file:
         prev_hash = file.readline().strip()
-        print_text(f"prev_hash: {prev_hash}")
-        print_text(f"curr_hash: {current_hash}")
+        print_text(f"prev_live_hash: {prev_hash}")
+        print_text(f"curr_live_hash: {current_hash}")
         if prev_hash != current_hash:
             file.seek(0, 0)
             file.write(current_hash)
