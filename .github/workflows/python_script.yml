@@ -21,21 +21,23 @@ jobs:
         with:
           python-version: "3.12"
       - name: Install Dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
-  run-script:
-    runs-on: setup-env
-    steps:
-      - name: Run Python Script
         env:
           SENDER_EMAIL: ${{secrets.SENDER_EMAIL}}
           SENDER_PWD: ${{secrets.SENDER_PWD}}
           RECEIVER_EMAIL: ${{secrets.RECEIVER_EMAIL}}
         run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+  run-script:
+    needs: setup-env
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run Python Script
+        run: |
           python main.py
-  pushing:
-    runs-on: setup-env
+  push-code:
+    needs: setup-env
+    runs-on: ubuntu-latest
     steps:
       - name: Pushing to master
         run: |
