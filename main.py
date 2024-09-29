@@ -80,6 +80,7 @@ def send_email_upcoming(live_streams: str) -> None:
     subject = f"🗓️ Upcoming YouTube Live Streams Notification {now_}"
     now_ = datetime.strptime(now_, "%d/%m/%Y %H:%M:%S")
     flag = False
+    need_red = False
     body = f'''<html>
                 <h1>📹 Upcoming YouTube Live Streams</h1>
                 <br />
@@ -99,6 +100,7 @@ def send_email_upcoming(live_streams: str) -> None:
 
                 if seconds <= LIMIT * 60:
                     flag = True
+                    need_red = True
                     
                 emoji = get_clock_emoji(schedule_date)
                 body += f'''
@@ -113,7 +115,7 @@ def send_email_upcoming(live_streams: str) -> None:
                                 <a href="https://www.youtube.com/watch?v={video['video_id']}"><strong>▶️ Open Video</strong></a>
                             </li>
                         '''
-        
+                need_red = False
             body += '</ul></li>'
 
     body += '</ul></html>'
