@@ -8,6 +8,7 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from hashlib import md5
 import pytz
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 SENDER_EMAIL = os.getenv('SENDER_EMAIL')
 SENDER_PWD = os.getenv('SENDER_PWD')
@@ -79,7 +80,7 @@ def send_email_upcoming(live_streams: str) -> None:
     subject = f"🗓️ Upcoming YouTube Live Streams Notification {now_}"
     now_ = datetime.strptime(now_, "%d/%m/%Y %H:%M:%S")
     flag = False
-    body = f'''
+    body = f'''<html>
                 <h1>📹 Upcoming YouTube Live Streams</h1>
                 <br />
                 <ul>
@@ -105,6 +106,8 @@ def send_email_upcoming(live_streams: str) -> None:
                             <li style="list-style-type: none;">
                                 <strong>🏷️ Title: </strong> <span>{video['title']}</span>
                                 <br />
+                                <span><strong>🖼️ Thumbnail: </strong> <img src='{video['thumbnail']}'/></span>
+                                <br />
                                 <strong>{emoji} Scheduled for: </strong> <span>{video['date']} ({str(delta)} from now)</span>
                                 <br />
                                 <a href="https://www.youtube.com/watch?v={video['video_id']}"><strong>▶️ Open Video</strong></a>
@@ -113,7 +116,7 @@ def send_email_upcoming(live_streams: str) -> None:
         
             body += '</ul></li>'
 
-    body += '</ul>'
+    body += '</ul></html>'
 
     current_hash = md5(str(live_streams).encode('utf-8')).hexdigest()
     
@@ -139,7 +142,7 @@ def send_email_upcoming(live_streams: str) -> None:
 
 def send_email_live(live_streams: str) -> None:
     subject = f"🔴 YouTube Live Streams Notification {datetime.now(pytz.timezone('Asia/Ho_Chi_Minh')).strftime("%d/%m/%Y %H:%M:%S")}"
-    body = f'''
+    body = f'''<html>
                 <h1>🔴 YouTube Live Streams</h1>
                 <br />
                 <ul>
@@ -157,13 +160,14 @@ def send_email_live(live_streams: str) -> None:
                             <li style="list-style-type: none;">
                                 <strong>🏷️ Title: </strong> <span>{video['title']}</span>
                                 <br />
-                                <a href="https://www.youtube.com/watch?v={video['video_id']}"><strong>Open Video</strong></a>
+                                <span><strong>🖼️ Thumbnail: </strong> <img src='{video['thumbnail']}'/></span>
+                                <a href="https://www.youtube.com/watch?v={video['video_id']}"><strong>▶️ Open Video</strong></a>
                             </li>
                         '''
         
             body += '</ul></li>'
 
-    body += '</ul>'
+    body += '</ul></html>'
 
     current_hash = md5(str(live_streams).encode('utf-8')).hexdigest()
     
@@ -184,7 +188,7 @@ def send_email_live(live_streams: str) -> None:
         else:
             print_text("Nothing changed!", "S")
 
-def get_info_livestream(channel_urls: list[str]):
+def get_info_livestream(channel_url: str):
     yt_opts = {
         'extract_flat': True,
         'skip_download': True,
@@ -193,67 +197,94 @@ def get_info_livestream(channel_urls: list[str]):
     upcoming = {}
     live_streams = {}
     with yt_dlp.YoutubeDL(yt_opts) as ydl:
-        for channel_url in channel_urls:
-            try:
-                if not channel_url.endswith('streams'):
-                    live_url = channel_url + '/streams'
-                result = ydl.extract_info(live_url, download=False)
-                channel_id = result.get('uploader_id')
-                print_text(f'Searching from channel: {channel_id}')
-                channel_name = result.get('channel')
-                videos_upcoming = []
-                videos_live = []
-                count = 0
-                for entry in result.get('entries', []):
-                    if count > 10:
-                        break
-                    title = entry.get('title', '')
-                    status = entry.get('live_status')
-                    if status == 'is_upcoming':
-                        print_text('Found upcoming live stream!', prefix='S')
-                        print_text(f"Title: {title}")
-                        video_id = entry.get('id')
-                        scheduled_time = entry.get('release_timestamp')
-                        tz = pytz.timezone('Asia/Ho_Chi_Minh')
-                        scheduled_time_readable = datetime.fromtimestamp(scheduled_time, tz).strftime('%d/%m/%Y %H:%M:%S (GMT+7)')
-                        scheduled_date = datetime.fromtimestamp(scheduled_time)
-                        current = datetime.now()
-                        delta = scheduled_date - current
-                        if delta.days > 50:
-                            continue
-                        videos_upcoming.append({
-                            "video_id": video_id,
-                            "title": title,
-                            "date": scheduled_time_readable
-                        })
-                    elif status == 'is_live':
-                        print_text('Found live stream!', prefix='S')
-                        print_text(f"Title: {title}")
-                        video_id = entry.get('id')
-                        videos_live.append({
-                            "video_id": video_id,
-                            "title": title,
-                        })
-                    count += 1
-                upcoming[channel_id] = {
-                    "channel_url": channel_url,
-                    "channel_name": channel_name,
-                    "videos": videos_upcoming
-                }
-                live_streams[channel_id] = {
-                    "channel_url": channel_url,
-                    "channel_name": channel_name,
-                    "videos": videos_live
-                }
-            except Exception as e:
-                print_text(f"Failed to fetch data for {channel_url}: {e}", prefix='E')
-    
+        try:
+            if not channel_url.endswith('streams'):
+                live_url = channel_url + '/streams'
+            result = ydl.extract_info(live_url, download=False)
+            channel_id = result.get('uploader_id')
+            print_text(f'Searching from channel: {channel_id}')
+            channel_name = result.get('channel')
+            videos_upcoming = []
+            videos_live = []
+            count = 0
+            for entry in result.get('entries', []):
+                if count > 10:
+                    break
+                title = entry.get('title', '')
+                status = entry.get('live_status', '')
+                thumbnail = entry.get('thumbnails')[-1].get('url')
+                if status == 'is_upcoming':
+                    print_text('Found upcoming live stream!', prefix='S')
+                    print_text(f"Title: {title}", "T")
+                    video_id = entry.get('id')
+                    scheduled_time = entry.get('release_timestamp')
+                    tz = pytz.timezone('Asia/Ho_Chi_Minh')
+                    scheduled_time_readable = datetime.fromtimestamp(scheduled_time, tz).strftime('%d/%m/%Y %H:%M:%S (GMT+7)')
+                    scheduled_date = datetime.fromtimestamp(scheduled_time)
+                    current = datetime.now()
+                    delta = scheduled_date - current
+                    if delta.days > 50:
+                        continue
+                    videos_upcoming.append({
+                        "video_id": video_id,
+                        "title": title,
+                        "date": scheduled_time_readable,
+                        "thumbnail": thumbnail
+                    })
+                elif status == 'is_live':
+                    print_text('Found live stream!', prefix='S')
+                    print_text(f"Title: {title}")
+                    video_id = entry.get('id')
+                    videos_live.append({
+                        "video_id": video_id,
+                        "title": title,
+                        "thumbnail": thumbnail
+                    })
+                else:
+                    continue
+                count += 1
+            upcoming[channel_id] = {
+                "channel_url": channel_url,
+                "channel_name": channel_name,
+                "videos": videos_upcoming
+            }
+            live_streams[channel_id] = {
+                "channel_url": channel_url,
+                "channel_name": channel_name,
+                "videos": videos_live
+            }
+        except Exception as e:
+            print_text(f"Failed to fetch data for {channel_url}: {e}", prefix='E')
+
     return upcoming, live_streams
+
+def process_channels(channel_urls: list[str], max_workers=5):
+    upcoming_all = {}
+    live_streams_all = {}
+    with ThreadPoolExecutor(max_workers=max_workers) as executor:
+        future_to_url = {executor.submit(get_info_livestream, url): url for url in channel_urls}
+
+        for future in as_completed(future_to_url):
+            url = future_to_url[future]
+            print_text(f'Processing {url}', 'Q')
+            try:
+                upcoming, live_streams = future.result()
+                for channel_id, data in upcoming.items():
+                    upcoming_all[channel_id] = data
+                for channel_id, data in live_streams.items():
+                    live_streams_all[channel_id] = data
+                print_text(f"Get data from {url} successfully!", "S")
+            except Exception as e:
+                print_text(f"Error processing {url}: {e}", "E")
+    
+    return upcoming_all, live_streams_all
+
+
 
 if __name__ == '__main__':
     os.system('cls' if os.name=='nt' else 'clear')
     channel_urls = get_channel_url("channel_url.txt")
-    upcoming, live_streams = get_info_livestream(channel_urls)
+    upcoming, live_streams = process_channels(channel_urls, 10)
 
     send_email_upcoming(upcoming)
     send_email_live(live_streams)
