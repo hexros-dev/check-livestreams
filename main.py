@@ -134,7 +134,10 @@ def get_info_upcoming_livestream(channel_urls: list[str]) -> list:
                 print_text(f'Searching from channel: {channel_id}')
                 channel_name = result.get('channel')
                 videos = []
+                count = 0
                 for entry in result.get('entries', []):
+                    if count > 10:
+                        break
                     title = entry.get('title', '')
                     is_upcoming = entry.get('live_status')
                     if is_upcoming == 'is_upcoming':
@@ -149,8 +152,7 @@ def get_info_upcoming_livestream(channel_urls: list[str]) -> list:
                             "title": title,
                             "date": scheduled_time_readable
                         })
-                    else:
-                        break
+                    count += 1
                 live_streams[channel_id] = {
                     "channel_url": channel_url,
                     "channel_name": channel_name,
