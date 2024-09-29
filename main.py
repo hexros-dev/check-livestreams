@@ -282,7 +282,7 @@ def process_channels(channel_urls: list[str], max_workers=5):
 if __name__ == '__main__':
     os.system('cls' if os.name=='nt' else 'clear')
     channel_urls = get_channel_url("channel_url.txt")
-    upcoming, live_streams = process_channels(channel_urls, 20)
+    upcoming, live_streams = process_channels(channel_urls, 15)
 
     send_email_upcoming(upcoming)
     send_email_live(live_streams)
