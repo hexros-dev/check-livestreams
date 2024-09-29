@@ -266,14 +266,12 @@ def process_channels(channel_urls: list[str], max_workers=5):
 
         for future in as_completed(future_to_url):
             url = future_to_url[future]
-            print_text(f'Processing {url}', 'Q')
             try:
                 upcoming, live_streams = future.result()
                 for channel_id, data in upcoming.items():
                     upcoming_all[channel_id] = data
                 for channel_id, data in live_streams.items():
                     live_streams_all[channel_id] = data
-                print_text(f"Get data from {url} successfully!", "S")
             except Exception as e:
                 print_text(f"Error processing {url}: {e}", "E")
     
@@ -284,7 +282,7 @@ def process_channels(channel_urls: list[str], max_workers=5):
 if __name__ == '__main__':
     os.system('cls' if os.name=='nt' else 'clear')
     channel_urls = get_channel_url("channel_url.txt")
-    upcoming, live_streams = process_channels(channel_urls, 10)
+    upcoming, live_streams = process_channels(channel_urls, 20)
 
     send_email_upcoming(upcoming)
     send_email_live(live_streams)
