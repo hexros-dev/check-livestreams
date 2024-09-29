@@ -142,7 +142,7 @@ def send_email_live(live_streams: str) -> None:
                 body += f'''
                             <hr />
                             <li style="list-style-type: none;">
-                                <strong>Title: </strong> <span>{video['title']}</span>
+                                <strong>🏷️ Title: </strong> <span>{video['title']}</span>
                                 <br />
                                 <a href="https://www.youtube.com/watch?v={video['video_id']}"><strong>Open Video</strong></a>
                             </li>
