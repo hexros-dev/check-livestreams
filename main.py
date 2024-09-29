@@ -12,6 +12,7 @@ import pytz
 SENDER_EMAIL = os.getenv('SENDER_EMAIL')
 SENDER_PWD = os.getenv('SENDER_PWD')
 RECEIVER_EMAIL = os.getenv('RECEIVER_EMAIL')
+LIMIT = 15 # minutes
 
 class Color:
     RED = '\033[91m'
@@ -55,10 +56,29 @@ def get_channel_url(file_path: str) -> list[str] | None:
     
     return result
 
-def send_email(live_streams: str) -> None:
+def send_email(subject: str, body: str) -> None:
+    msg = MIMEMultipart()
+    msg['From'] = SENDER_EMAIL
+    msg['To'] = RECEIVER_EMAIL
+    msg['Subject'] = subject
+    msg.attach(MIMEText(body, 'html'))
+
+    try:
+        server = smtplib.SMTP('smtp.gmail.com', 587)
+        server.starttls()
+        server.login(SENDER_EMAIL, SENDER_PWD)
+        text = msg.as_string()
+        server.sendmail(SENDER_EMAIL, RECEIVER_EMAIL, text)
+        server.quit()
+        print_text("Email sent successfully!", 'S')
+    except Exception as e:
+        print_text(f"Failed to send email: {e}", 'E')
+
+def send_email_upcoming(live_streams: str) -> None:
     now_ = datetime.now(pytz.timezone('Asia/Ho_Chi_Minh')).strftime("%d/%m/%Y %H:%M:%S")
     subject = f"🗓️ Upcoming YouTube Live Streams Notification {now_}"
     now_ = datetime.strptime(now_, "%d/%m/%Y %H:%M:%S")
+    flag = False
     body = f'''
                 <h1>📹 Upcoming YouTube Live Streams</h1>
                 <br />
@@ -73,14 +93,19 @@ def send_email(live_streams: str) -> None:
                     '''
             for video in info['videos']:
                 schedule_date = datetime.strptime(video['date'].split(" (GMT+7)")[0], "%d/%m/%Y %H:%M:%S")
-                delta = str(schedule_date - now_)
+                delta = schedule_date - now_
+                seconds = delta.total_seconds()
+
+                if seconds <= LIMIT * 60:
+                    flag = True
+                    
                 emoji = get_clock_emoji(schedule_date)
                 body += f'''
                             <hr />
                             <li style="list-style-type: none;">
                                 <strong>🏷️ Title: </strong> <span>{video['title']}</span>
                                 <br />
-                                <strong>{emoji} Scheduled for: </strong> <span>{video['date']} ({delta} from now)</span>
+                                <strong>{emoji} Scheduled for: </strong> <span>{video['date']} ({str(delta)} from now)</span>
                                 <br />
                                 <a href="https://www.youtube.com/watch?v={video['video_id']}"><strong>▶️ Open Video</strong></a>
                             </li>
@@ -105,24 +130,12 @@ def send_email(live_streams: str) -> None:
         if prev_hash != current_hash:
             file.seek(0, 0)
             file.write(current_hash)
-            msg = MIMEMultipart()
-            msg['From'] = SENDER_EMAIL
-            msg['To'] = RECEIVER_EMAIL
-            msg['Subject'] = subject
-            msg.attach(MIMEText(body, 'html'))
-
-            try:
-                server = smtplib.SMTP('smtp.gmail.com', 587)
-                server.starttls()
-                server.login(SENDER_EMAIL, SENDER_PWD)
-                text = msg.as_string()
-                server.sendmail(SENDER_EMAIL, RECEIVER_EMAIL, text)
-                server.quit()
-                print_text("Email upcoming sent successfully!", 'S')
-            except Exception as e:
-                print_text(f"Failed to send email: {e}", 'E')
+            send_email(subject, body)
         else:
-            print_text("Nothing changed!", "S")
+            if flag:
+                send_email(subject, body)
+            else:
+                print_text("Nothing changed!", "S")
 
 def send_email_live(live_streams: str) -> None:
     subject = f"🔴 YouTube Live Streams Notification {datetime.now(pytz.timezone('Asia/Ho_Chi_Minh')).strftime("%d/%m/%Y %H:%M:%S")}"
@@ -167,22 +180,7 @@ def send_email_live(live_streams: str) -> None:
         if prev_hash != current_hash:
             file.seek(0, 0)
             file.write(current_hash)
-            msg = MIMEMultipart()
-            msg['From'] = SENDER_EMAIL
-            msg['To'] = RECEIVER_EMAIL
-            msg['Subject'] = subject
-            msg.attach(MIMEText(body, 'html'))
-
-            try:
-                server = smtplib.SMTP('smtp.gmail.com', 587)
-                server.starttls()
-                server.login(SENDER_EMAIL, SENDER_PWD)
-                text = msg.as_string()
-                server.sendmail(SENDER_EMAIL, RECEIVER_EMAIL, text)
-                server.quit()
-                print_text("Email live streams sent successfully!", 'S')
-            except Exception as e:
-                print_text(f"Failed to send email: {e}", 'E')
+            send_email(subject, body)
         else:
             print_text("Nothing changed!", "S")
 
@@ -257,7 +255,7 @@ if __name__ == '__main__':
     channel_urls = get_channel_url("channel_url.txt")
     upcoming, live_streams = get_info_livestream(channel_urls)
 
-    send_email(upcoming)
+    send_email_upcoming(upcoming)
     send_email_live(live_streams)
     with open('./live_streams.json', mode='w', encoding='utf-8') as file:
         file.write(json.dumps(live_streams, ensure_ascii=False))
