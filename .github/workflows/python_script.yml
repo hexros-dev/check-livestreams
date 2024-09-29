@@ -1,11 +1,11 @@
 name: Run Python Script
 on:
   push:
-    branches: [ "master" ]
+    branches: ["master"]
   pull_request:
-    branches: [ "master" ]
+    branches: ["master"]
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 jobs:
   run-script:
@@ -35,7 +35,6 @@ jobs:
       - uses: actions/upload-artifact@v4
         with:
           name: _code_
-          path: ~/runner/
   push-code:
     runs-on: ubuntu-latest
     needs: [run-script]
@@ -43,7 +42,6 @@ jobs:
       - uses: actions/download-artifact@v4
         with:
           name: _code_
-          path: ~/runner/
       - name: Pushing to master
         run: |
           git config --global user.name "github-actions [BOT]"
