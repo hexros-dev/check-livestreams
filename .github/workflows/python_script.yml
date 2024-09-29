@@ -36,7 +36,7 @@ jobs:
         run: |
           python main.py
   push-code:
-    needs: setup-env
+    needs: run-script
     runs-on: ubuntu-latest
     steps:
       - name: Pushing to master
