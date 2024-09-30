@@ -83,6 +83,7 @@ def send_email_upcoming(live_streams: str) -> None:
     need_red = False
     is_bold = False
     is_unarchived = False
+    body = ""
     for channel_id, info in live_streams.items():
         if info['videos']:
             body += f'''
