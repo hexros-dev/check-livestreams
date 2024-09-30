@@ -82,11 +82,7 @@ def send_email_upcoming(live_streams: str) -> None:
     flag = False
     need_red = False
     is_bold = False
-    body = f'''<html>
-                <h1>📹 Upcoming YouTube Live Streams</h1>
-                <br />
-                <ul>
-            '''
+    is_unarchived = False
     for channel_id, info in live_streams.items():
         if info['videos']:
             body += f'''
@@ -101,6 +97,7 @@ def send_email_upcoming(live_streams: str) -> None:
                 if "unarchive" in video['title'].lower():
                     is_bold = True
                     need_red = True
+                    is_unarchived = True
                 if seconds <= LIMIT * 60:
                     flag = True
                     need_red = True
@@ -119,10 +116,17 @@ def send_email_upcoming(live_streams: str) -> None:
                             </li>
                         '''
                 need_red = False
+                is_bold = False
             body += '</ul></li>'
 
     body += '</ul></html>'
-
+    body_first = f'''<html>
+                <h1>📹 Upcoming YouTube Live Streams</h1>
+                {"<h2> Have Unarchived Live Streams</h2>" if is_unarchived else ""}
+                <br />
+                <ul>
+            '''
+    body = body_first + body
     current_hash = md5(str(live_streams).encode('utf-8')).hexdigest()
     
     is_exists = Path('./prev_hash_upcoming.md5').exists()
