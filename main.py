@@ -95,7 +95,7 @@ def send_email_upcoming(live_streams: str) -> None:
                 schedule_date = datetime.strptime(video['date'].split(" (GMT+7)")[0], "%d/%m/%Y %H:%M:%S")
                 delta = schedule_date - now_
                 seconds = delta.total_seconds()
-                if "unarchive" in video['title'].lower():
+                if "free" in video['title'].lower():
                     is_bold = True
                     need_red = True
                     is_unarchived = True
