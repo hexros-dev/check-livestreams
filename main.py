@@ -95,7 +95,7 @@ def send_email_upcoming(live_streams: str) -> None:
                 schedule_date = datetime.strptime(video['date'].split(" (GMT+7)")[0], "%d/%m/%Y %H:%M:%S")
                 delta = schedule_date - now_
                 seconds = delta.total_seconds()
-                if "free" in video['title'].lower():
+                if "unarchive" in video['title'].lower():
                     is_bold = True
                     need_red = True
                     is_unarchived = True
@@ -123,7 +123,7 @@ def send_email_upcoming(live_streams: str) -> None:
     body += '</ul></html>'
     body_first = f'''<html>
                 <h1>📹 Upcoming YouTube Live Streams</h1>
-                {"<h2> Have Unarchived Live Streams</h2>" if is_unarchived else ""}
+                {"<h2>🗣 Have Unarchived Live Streams</h2>" if is_unarchived else ""}
                 <br />
                 <ul>
             '''
