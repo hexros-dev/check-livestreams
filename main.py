@@ -79,7 +79,7 @@ def send_email_upcoming(live_streams: str) -> None:
     now_ = datetime.now(pytz.timezone('Asia/Ho_Chi_Minh')).strftime("%d/%m/%Y %H:%M:%S")
     subject = f"🗓️ Upcoming YouTube Live Streams Notification {now_}"
     now_ = datetime.strptime(now_, "%d/%m/%Y %H:%M:%S")
-    flag = False
+    flag = 0
     need_red = False
     is_bold = False
     is_unarchived = 0
@@ -100,7 +100,7 @@ def send_email_upcoming(live_streams: str) -> None:
                     need_red = True
                     is_unarchived = is_unarchived + 1
                 if seconds <= LIMIT * 60:
-                    flag = True
+                    flag = flag + 1
                     need_red = True
                     
                 emoji = get_clock_emoji(schedule_date)
@@ -124,7 +124,8 @@ def send_email_upcoming(live_streams: str) -> None:
     body_first = f'''<html>
                 <h1>📹 Upcoming YouTube Live Streams</h1>
                 <br />
-                {f"<h2>🗣 Have {is_unarchived} Unarchived Live Streams</h2><br />" if is_unarchived > 0 else ""}
+                {f'<h2 style="color: green; font-weight: bold;">🗣 {is_unarchived} Unarchived Live Streams</h2><br />' if is_unarchived > 0 else ""}
+                {f'<h2 style="color: orange; font-weight: bold;">💠 {flag} Live Streams will live soon!</h2><br />' if flag > 0 else ""}
                 <ul>
             '''
     body = body_first + body
@@ -183,7 +184,7 @@ def send_email_live(live_streams: str) -> None:
     body_first = f'''<html>
                 <h1>🔴 YouTube Live Streams</h1>
                 <br />
-                {f"<h2>🗣 Have {is_unarchived} Unarchived Live Streams</h2><br />" if is_unarchived > 0 else ""}              <ul>
+                {f'<h2 style="color: green; font-weight: bold;">🗣 {is_unarchived} Unarchived Live Streams Now!</h2><br />' if is_unarchived > 0 else ""}              <ul>
             '''
     body = body_first + body
     current_hash = md5(str(live_streams).encode('utf-8')).hexdigest()
