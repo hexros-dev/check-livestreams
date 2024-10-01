@@ -124,7 +124,7 @@ def send_email_upcoming(live_streams: str) -> None:
     body_first = f'''<html>
                 <h1>📹 Upcoming YouTube Live Streams</h1>
                 <br />
-                {"<h2>🗣 Have {is_unarchived} Unarchived Live Streams</h2><br />" if is_unarchived > 0 else ""}
+                {f"<h2>🗣 Have {is_unarchived} Unarchived Live Streams</h2><br />" if is_unarchived > 0 else ""}
                 <ul>
             '''
     body = body_first + body
@@ -183,7 +183,7 @@ def send_email_live(live_streams: str) -> None:
     body_first = f'''<html>
                 <h1>🔴 YouTube Live Streams</h1>
                 <br />
-                {"<h2>🗣 Have {is_unarchived} Unarchived Live Streams</h2><br />" if is_unarchived > 0 else ""}              <ul>
+                {f"<h2>🗣 Have {is_unarchived} Unarchived Live Streams</h2><br />" if is_unarchived > 0 else ""}              <ul>
             '''
     body = body_first + body
     current_hash = md5(str(live_streams).encode('utf-8')).hexdigest()
