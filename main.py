@@ -105,7 +105,7 @@ def send_email_upcoming(live_streams: str) -> None:
                 emoji = get_clock_emoji(schedule_date)
                 body += f'''
                             <hr />
-                            <li style="list-style-type: none; {"color:red;" if need_red else ""} {"color: green; font-weight: bold; font-style: oblique;" if is_bold else ""} ">
+                            <li style="list-style-type: none; {"color:red;" if need_red else ""} {"color: blue; font-weight: bold; font-style: oblique;" if is_bold else ""} ">
                                 <strong>🏷️ Title: </strong> <span>{video['title']}</span>
                                 <br />
                                 <span><strong>🖼️ Thumbnail: </strong> <img src='{video['thumbnail']}'/></span>
