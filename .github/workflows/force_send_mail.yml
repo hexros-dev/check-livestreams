@@ -5,4 +5,5 @@ jobs:
   reset-hash:
     uses: hexros-dev/check-livestreams/.github/workflows/reset.yml@master
   run-script:
+    needs: reset-hash
     uses: hexros-dev/check-livestreams/.github/workflows/python_script.yml@master
