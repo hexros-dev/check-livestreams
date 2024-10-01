@@ -82,7 +82,7 @@ def send_email_upcoming(live_streams: str) -> None:
     flag = False
     need_red = False
     is_bold = False
-    is_unarchived = False
+    is_unarchived = 0
     body = ""
     for channel_id, info in live_streams.items():
         if info['videos']:
@@ -98,7 +98,7 @@ def send_email_upcoming(live_streams: str) -> None:
                 if "unarchive" in video['title'].lower():
                     is_bold = True
                     need_red = True
-                    is_unarchived = True
+                    is_unarchived = is_unarchived + 1
                 if seconds <= LIMIT * 60:
                     flag = True
                     need_red = True
@@ -124,7 +124,7 @@ def send_email_upcoming(live_streams: str) -> None:
     body_first = f'''<html>
                 <h1>📹 Upcoming YouTube Live Streams</h1>
                 <br />
-                {"<h2>🗣 Have Unarchived Live Streams</h2><br />" if is_unarchived else ""}
+                {"<h2>🗣 Have {is_unarchived} Unarchived Live Streams</h2><br />" if is_unarchived > 0 else ""}
                 <ul>
             '''
     body = body_first + body
@@ -152,7 +152,7 @@ def send_email_upcoming(live_streams: str) -> None:
 
 def send_email_live(live_streams: str) -> None:
     subject = f"🔴 YouTube Live Streams Notification {datetime.now(pytz.timezone('Asia/Ho_Chi_Minh')).strftime("%d/%m/%Y %H:%M:%S")}"
-    is_unarchived = False
+    is_unarchived = 0
     flag = False
     body = ""
     for channel_id, info in live_streams.items():
@@ -164,7 +164,7 @@ def send_email_live(live_streams: str) -> None:
                     '''
             for video in info['videos']:
                 if "unarchive" in video['title'].lower():
-                    is_unarchived = True
+                    is_unarchived = is_unarchived + 1
                     flag = True
                 body += f'''
                             <hr />
@@ -183,7 +183,7 @@ def send_email_live(live_streams: str) -> None:
     body_first = f'''<html>
                 <h1>🔴 YouTube Live Streams</h1>
                 <br />
-                {"<h2>🗣 Have Unarchived Live Streams</h2><br />" if is_unarchived else ""}              <ul>
+                {"<h2>🗣 Have {is_unarchived} Unarchived Live Streams</h2><br />" if is_unarchived > 0 else ""}              <ul>
             '''
     body = body_first + body
     current_hash = md5(str(live_streams).encode('utf-8')).hexdigest()
