@@ -1,9 +1,9 @@
 name: Run Python Script
 on:
   push:
-    branches: ["master"]
+    branches: ["master", "output"]
   pull_request:
-    branches: ["master"]
+    branches: ["master", "output"]
   schedule:
     - cron: "*/5 * * * *"
   workflow_dispatch:
@@ -17,7 +17,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4.2.0
         with:
-          ref: master
+          ref: master, output
       - name: Set Up Python
         uses: actions/setup-python@v5.2.0
         with:
@@ -36,10 +36,11 @@ jobs:
         run: |
           git config --global user.name "github-actions [BOT]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add .
+          git checkout -b output || git checkout output
+          git add upcoming.json live_streams.json prev_hash_live.md5 prev_hash_upcoming.md5
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "Update prev_hash.md5 file via GitHub Actions"
-            git push origin master
+            git commit -m "Update files via GitHub Actions"
+            git push origin output
           fi
