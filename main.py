@@ -112,7 +112,7 @@ def send_email_upcoming(live_streams: str) -> None:
                                 <br />
                                 <strong>{emoji} Scheduled for: </strong> <span>{video['date']} ({str(delta)} from now)</span>
                                 <br />
-                                <a href="https://www.youtube.com/watch?v={video['video_id']}"><strong>▶️ Open Video</strong></a>
+                                <a href="https://www.youtube.com/watch?v={video['video_id']}"><strong>▶️ Open Stream</strong></a>
                             </li>
                         '''
                 need_red = False
@@ -173,7 +173,7 @@ def send_email_live(live_streams: str) -> None:
                                 <br />
                                 <span><strong>🖼️ Thumbnail: </strong> <img src='{video["thumbnail"]}'/></span>
                                 <br />
-                                <a href="https://www.youtube.com/watch?v={video['video_id']}"><strong>▶️ Open Video</strong></a>
+                                <a href="https://www.youtube.com/watch?v={video['video_id']}"><strong>▶️ Watch Stream</strong></a>
                             </li>
                         '''
                 flag = False
