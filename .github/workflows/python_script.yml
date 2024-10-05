@@ -19,6 +19,8 @@ jobs:
           ref: master
       - name: Pull Output Branch
         run: |
+          git config --global user.name "github-actions [BOT]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git fetch origin output
           git checkout output
           git pull origin output
@@ -38,10 +40,8 @@ jobs:
           RECEIVER_EMAIL: ${{secrets.RECEIVER_EMAIL}}
         run: |
           python main.py
-      - name: Pushing to master
+      - name: Pushing to output
         run: |
-          git config --global user.name "github-actions [BOT]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git checkout -b output || git checkout output
           git add upcoming.json live_streams.json prev_hash_live.md5 prev_hash_upcoming.md5
           if git diff --cached --quiet; then
