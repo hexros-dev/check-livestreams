@@ -1,9 +1,8 @@
 name: Run Python Script
 on:
   push:
-    branches: ["master", "output"]
-  pull_request:
-    branches: ["master", "output"]
+    branches: 
+      - "master"
   schedule:
     - cron: "*/5 * * * *"
   workflow_dispatch:
@@ -14,11 +13,17 @@ jobs:
     steps:
       - name: Set TERM environment variable
         run: echo "TERM=xterm" >> $GITHUB_ENV
-      - name: Checkout Repository
+      - name: Checkout Master Branch
         uses: actions/checkout@v4.2.0
-      - run: |
-          git checkout master
+        with:
+          ref: master
+      - name: Pull Output Branch
+        run: |
+          git fetch origin output
           git checkout output
+          git pull origin output
+          git checkout master
+          git merge output --allow-unrelated-histories
       - name: Set Up Python
         uses: actions/setup-python@v5.2.0
         with:
