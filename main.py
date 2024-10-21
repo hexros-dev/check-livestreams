@@ -108,7 +108,9 @@ def send_email_upcoming(live_streams: str) -> None:
                             <li style="list-style-type: none; {"color:red;" if need_red else ""} {"color: blue; font-weight: bold; font-style: oblique;" if is_bold else ""} ">
                                 <strong>🏷️ Title: </strong> <span>{video['title']}</span>
                                 <br />
-                                <span><strong>🖼️ Thumbnail: </strong> <img src='{video['thumbnail']}'/></span>
+                                <span><strong>🆔 Stream ID: </strong>{video['video_id']}</span>
+                                <br />
+                                <span><strong>🖼️ Thumbnail: </strong> <img src="{video['thumbnail']}"/></span>
                                 <br />
                                 <strong>{emoji} Scheduled for: </strong> <span>{video['date']} ({str(delta)} from now)</span>
                                 <br />
@@ -171,7 +173,9 @@ def send_email_live(live_streams: str) -> None:
                             <li style="list-style-type: none; {'color: red; font-weight: bold; font-style: oblique;' if flag else ''}">
                                 <strong>🏷️ Title: </strong> <span>{video['title']}</span>
                                 <br />
-                                <span><strong>🖼️ Thumbnail: </strong> <img src='{video["thumbnail"]}'/></span>
+                                <span><strong>🆔 Stream ID: </strong>{video['video_id']}</span>
+                                <br />
+                                <span><strong>🖼️ Thumbnail: </strong> <img src="{video['thumbnail']}"/></span>
                                 <br />
                                 <a href="https://www.youtube.com/watch?v={video['video_id']}"><strong>▶️ Watch Stream</strong></a>
                             </li>
