@@ -87,8 +87,8 @@ def send_email_upcoming(live_streams: str) -> None:
     is_bold = False
     is_unarchived = 0
     body = ""
-    unarchived_label = '<span style="font-weight: bold; background-color: palevioletred; padding: 1.5px; border-style: dashed;">UNARCHIVED</span>'
-    new_label = '<span style="font-weight: bold; background-color: greenyellow; padding: 3px; border-radius: 30%;">New!</span>'
+    unarchived_label = '<span style="font-weight: bold; background-color: palevioletred; padding: 1.5px; margin: 4px; border-style: dashed;">UNARCHIVED</span>'
+    new_label = '<span style="font-weight: bold; background-color: greenyellow; padding: 3px; margin: 4px; border-radius: 30%;">New!</span>'
     prev_upcoming_streams = {}
     with open("./upcoming.json", "r", encoding="utf-8") as file:
         prev_upcoming_streams = json.load(file)
@@ -168,8 +168,8 @@ def send_email_live(live_streams: str) -> None:
     is_unarchived = 0
     flag = False
     body = ""
-    unarchived_label = '<span style="font-weight: bold; background-color: palevioletred; padding: 1.5px; border-style: dashed;">UNARCHIVED</span>'
-    new_label = '<span style="font-weight: bold; background-color: greenyellow; padding: 3px; border-radius: 30%;">New!</span>'
+    unarchived_label = '<span style="font-weight: bold; background-color: palevioletred; padding: 1.5px; margin: 4px; border-style: dashed;">UNARCHIVED</span>'
+    new_label = '<span style="font-weight: bold; background-color: greenyellow; padding: 3px; margin: 4px; border-radius: 30%;">New!</span>'
     prev_live_streams = {}
     with open("./live_streams.json", "r", encoding="utf-8") as file:
         prev_live_streams = json.load(file)
