@@ -118,7 +118,7 @@ def send_email_upcoming(live_streams: str) -> None:
                             <hr />
                             <li style="list-style-type: none; {"color:red;" if need_red else ""} {"color: blue; font-weight: bold; font-style: oblique;" if is_bold else ""} ">
                                 <span><strong>🏷️ Title: </strong>{video['title']}</span> {unarchived_label if is_bold else ""} {"" if exists else new_label}
-                                <br />
+                                <br /><br />
                                 <span><strong>🆔 Stream ID: </strong>{video['video_id']}</span>
                                 <br />
                                 <span><strong>🖼️ Thumbnail: </strong> <img src="{video['thumbnail']}"/></span>
@@ -190,7 +190,7 @@ def send_email_live(live_streams: str) -> None:
                             <hr />
                             <li style="list-style-type: none; {'color: red; font-weight: bold; font-style: oblique;' if flag else ''}">
                                 <span><strong>🏷️ Title: </strong>{video['title']}</span> {unarchived_label if flag else ""} {"" if exists else new_label}
-                                <br />
+                                <br /><br />
                                 <span><strong>🆔 Stream ID: </strong>{video['video_id']}</span>
                                 <br />
                                 <span><strong>🖼️ Thumbnail: </strong> <img src="{video['thumbnail']}"/></span>
