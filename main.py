@@ -9,6 +9,9 @@ from email.mime.multipart import MIMEMultipart
 from hashlib import md5
 import pytz
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from dotenv import load_dotenv
+
+load_dotenv()
 
 SENDER_EMAIL = os.getenv('SENDER_EMAIL')
 SENDER_PWD = os.getenv('SENDER_PWD')
@@ -84,6 +87,12 @@ def send_email_upcoming(live_streams: str) -> None:
     is_bold = False
     is_unarchived = 0
     body = ""
+    unarchived_label = '<span style="font-weight: bold; background-color: palevioletred; padding: 3px; border-style: dashed;">UNARCHIVED</span>'
+    new_label = '<span style="font-weight: bold; background-color: greenyellow; padding: 3px; border-radius: 30%;">New!</span>'
+    prev_upcoming_streams = {}
+    with open("./upcoming.json", "r", encoding="utf-8") as file:
+        prev_upcoming_streams = json.load(file)
+
     for channel_id, info in live_streams.items():
         if info['videos']:
             body += f'''
@@ -92,6 +101,8 @@ def send_email_upcoming(live_streams: str) -> None:
                             <ul>
                     '''
             for video in info['videos']:
+                if prev_upcoming_streams != {}:
+                    exists = any(item["video_id"] == video["video_id"] for item in prev_upcoming_streams.get(channel_id)["videos"])
                 schedule_date = datetime.strptime(video['date'].split(" (GMT+7)")[0], "%d/%m/%Y %H:%M:%S")
                 delta = schedule_date - now_
                 seconds = delta.total_seconds()
@@ -106,13 +117,13 @@ def send_email_upcoming(live_streams: str) -> None:
                 body += f'''
                             <hr />
                             <li style="list-style-type: none; {"color:red;" if need_red else ""} {"color: blue; font-weight: bold; font-style: oblique;" if is_bold else ""} ">
-                                <strong>🏷️ Title: </strong> <span>{video['title']}</span>
+                                <span><strong>🏷️ Title: </strong>{video['title']}</span> {unarchived_label if is_bold else ""} {"" if exists else new_label}
                                 <br />
                                 <span><strong>🆔 Stream ID: </strong>{video['video_id']}</span>
                                 <br />
                                 <span><strong>🖼️ Thumbnail: </strong> <img src="{video['thumbnail']}"/></span>
                                 <br />
-                                <strong>{emoji} Scheduled for: </strong> <span>{video['date']} ({str(delta)} from now)</span>
+                                <span><strong>{emoji} Scheduled for: </strong>{video['date']} ({str(delta)} from now)</span>
                                 <br />
                                 <a href="https://www.youtube.com/watch?v={video['video_id']}"><strong>▶️ Open Stream</strong></a>
                             </li>
@@ -157,6 +168,11 @@ def send_email_live(live_streams: str) -> None:
     is_unarchived = 0
     flag = False
     body = ""
+    unarchived_label = '<span style="font-weight: bold; background-color: palevioletred; padding: 3px; border-style: dashed;">UNARCHIVED</span>'
+    new_label = '<span style="font-weight: bold; background-color: greenyellow; padding: 3px; border-radius: 30%;">New!</span>'
+    prev_live_streams = {}
+    with open("./live_streams.json", "r", encoding="utf-8") as file:
+        prev_live_streams = json.load(file)
     for channel_id, info in live_streams.items():
         if info['videos']:
             body += f'''
@@ -168,10 +184,12 @@ def send_email_live(live_streams: str) -> None:
                 if "unarchive" in video['title'].lower():
                     is_unarchived = is_unarchived + 1
                     flag = True
+                if prev_live_streams != {}:
+                    exists = any(item["video_id"] == video["video_id"] for item in prev_live_streams.get(channel_id)["videos"])
                 body += f'''
                             <hr />
                             <li style="list-style-type: none; {'color: red; font-weight: bold; font-style: oblique;' if flag else ''}">
-                                <strong>🏷️ Title: </strong> <span>{video['title']}</span>
+                                <span><strong>🏷️ Title: </strong>{video['title']}</span> {unarchived_label if flag else ""} {"" if exists else new_label}
                                 <br />
                                 <span><strong>🆔 Stream ID: </strong>{video['video_id']}</span>
                                 <br />
@@ -187,7 +205,8 @@ def send_email_live(live_streams: str) -> None:
     body_first = f'''<html>
                 <h1>🔴 YouTube Live Streams</h1>
                 <br />
-                {f'<h2 style="color: green; font-weight: bold;">🗣 {is_unarchived} Unarchived Live Streams Now!</h2><br />' if is_unarchived > 0 else ""}              <ul>
+                {f'<h2 style="color: green; font-weight: bold;">🗣 {is_unarchived} Unarchived Live Streams Now!</h2><br />' if is_unarchived > 0 else ""}
+                <ul>
             '''
     body = body_first + body
     current_hash = md5(str(live_streams).encode('utf-8')).hexdigest()
@@ -312,8 +331,6 @@ def process_channels(channel_urls: list[str], max_workers=5):
     
     return upcoming_all, live_streams_all
 
-
-
 if __name__ == '__main__':
     os.system('cls' if os.name=='nt' else 'clear')
     channel_urls = get_channel_url("channel_url.txt")
@@ -321,10 +338,11 @@ if __name__ == '__main__':
 
     send_email_upcoming(upcoming)
     send_email_live(live_streams)
+
     with open('./live_streams.json', mode='w', encoding='utf-8') as file:
         file.write(json.dumps(live_streams, ensure_ascii=False))
 
     with open('./upcoming.json', mode='w', encoding='utf-8') as file:
         file.write(json.dumps(upcoming, ensure_ascii=False))
-    
+
     print_text("Done!", prefix='S')
