@@ -1,3 +1,4 @@
+# ====================== IMPORTS ======================
 from datetime import datetime
 from pathlib import Path
 import yt_dlp
@@ -10,14 +11,17 @@ from hashlib import md5
 import pytz
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from dotenv import load_dotenv
-
 load_dotenv()
 
+# ====================== CONSTANTS ======================
 SENDER_EMAIL = os.getenv('SENDER_EMAIL')
 SENDER_PWD = os.getenv('SENDER_PWD')
 RECEIVER_EMAIL = os.getenv('RECEIVER_EMAIL')
 LIMIT = 15 # minutes
+UNARCHIVE_FILTERS = ["unarchive", "unarchived", "no archive", "no archived"]
+KARAOKE_FILTERS = ["karaoke", "sing", "singing", "歌枠"]
 
+# ====================== CLASSES ======================
 class Color:
     RED = '\033[91m'
     GREEN = '\033[92m'
@@ -26,13 +30,30 @@ class Color:
     CYAN = '\033[96m'
     RESET = '\033[0m'
 
+# ====================== HELPER FUNCTIONS ======================
 def get_clock_emoji(dt: datetime) -> str:
+    '''
+    Returns a clock emoji based on time.
+    Parameters:
+        dt: Datetime variable have time.
+    Returns:
+        str: Corresponding emoji
+    '''
     emojis = ["🕛","🕧","🕐","🕜","🕑","🕝","🕒","🕞","🕓","🕟","🕔","🕠","🕕","🕡","🕖","🕢","🕗","🕣","🕘","🕤","🕙","🕥","🕚","🕦"]
 
     index = (dt.hour % 12 * 2 + (1 if dt.minute >= 15 else 0) + (1 if dt.minute >= 45 else 0)) % len(emojis)
     return emojis[index]
 
 def print_text(text: str, prefix: str = 'I', suffix: str = '\n') -> None:
+    '''
+    Returns text with format and color: <{prefix}> {text}{suffix}\n
+    Parameters:
+        text: Message want to print
+        prefix: Prefix for color applied to text, default is I. I: Cyan, S: Green,W: Yellow,E: Red, Q: Purple.
+        suffix: suffix for text, default is \\n
+    Returns:
+        None
+    '''
     _type = prefix.upper()
     match(_type):
         case 'I':
@@ -60,6 +81,19 @@ def get_channel_url(file_path: str) -> list[str] | None:
     
     return result
 
+def counter(num: int, text: str = "", filter: list[str] = None) -> int:
+    if filter is None:
+        num += 1
+        return num
+    is_count_up = False
+    for i_filter in filter:
+        if i_filter in text:
+            num += 1
+            is_count_up = True
+            break
+    
+    return num, is_count_up
+
 def send_email(subject: str, body: str) -> None:
     msg = MIMEMultipart()
     msg['From'] = SENDER_EMAIL
@@ -78,18 +112,40 @@ def send_email(subject: str, body: str) -> None:
     except Exception as e:
         print_text(f"Failed to send email: {e}", 'E')
 
+def sort_obj(obj):
+    obj = dict(sorted(obj.items(), key=lambda item:item[0]))
+
+    for id_obj in obj.values():
+        id_obj["videos"] = sorted(id_obj["videos"], key=lambda video:video["video_id"])
+        
+    return obj
+
+# ====================== UTILITY FUNCTIONS ======================
 def send_email_upcoming(live_streams: str) -> None:
+    # format time (now)
     now_ = datetime.now(pytz.timezone('Asia/Ho_Chi_Minh')).strftime("%d/%m/%Y %H:%M:%S")
-    subject = f"🗓️ Upcoming YouTube Live Streams Notification {now_}"
     now_ = datetime.strptime(now_, "%d/%m/%Y %H:%M:%S")
-    flag = 0
-    need_red = False
-    is_bold = False
-    is_unarchived = 0
+
+    # subject and body when send email
+    subject = f"🗓️ Upcoming YouTube Live Streams Notification {now_}"
     body = ""
-    unarchived_label = '<span style="font-weight: bold; background-color: palevioletred; padding: 1.5px; margin: 4px; border-style: dashed;">UNARCHIVED</span>'
-    new_label = '<span style="font-weight: bold; background-color: greenyellow; padding: 3px; margin: 4px; border-radius: 30%;">New!</span>'
+
+    # variables
+    need_red = False # change text to red
+    is_unarchived = False
     prev_upcoming_streams = {}
+
+    # count variables
+    upcoming_counter = 0 
+    unarchive_counter = 0 # count number unarchived video
+    karaoke_counter = 0
+    new_counter = 0
+
+    # label template
+    unarchive_label = '<span style="font-weight: bold; background-color: palevioletred; padding: 1.5px; margin: 4px; border-style: dashed;">UNARCHIVED</span>'
+    new_label = '<span style="font-weight: bold; background-color: greenyellow; padding: 3px; margin: 4px; border-radius: 30%;">New!</span>'
+    
+    # load previous upcoming streams save in file json
     with open("./upcoming.json", "r", encoding="utf-8") as file:
         prev_upcoming_streams = json.load(file)
 
@@ -101,23 +157,31 @@ def send_email_upcoming(live_streams: str) -> None:
                             <ul>
                     '''
             for video in info['videos']:
+                # Check new streams
                 if prev_upcoming_streams != {}:
                     exists = any(item["video_id"] == video["video_id"] for item in prev_upcoming_streams.get(channel_id)["videos"])
+                    new_counter = new_counter if exists else new_counter + 1
+                # Get delta time
                 schedule_date = datetime.strptime(video['date'].split(" (GMT+7)")[0], "%d/%m/%Y %H:%M:%S")
                 delta = schedule_date - now_
                 seconds = delta.total_seconds()
-                if "unarchive" in video['title'].lower():
-                    is_bold = True
-                    is_unarchived = is_unarchived + 1
+                
+                # Check delta if time smaller limit
                 if seconds <= LIMIT * 60:
-                    flag = flag + 1
+                    upcoming_counter += 1
                     need_red = True
-                    
+                
+                # Count
+                unarchive_counter, is_unarchived = counter(unarchive_counter, video['title'].lower(), UNARCHIVE_FILTERS)
+                karaoke_counter, _ = counter(karaoke_counter, video['title'].lower(), KARAOKE_FILTERS)
+                
+                # Get emoji
                 emoji = get_clock_emoji(schedule_date)
+
                 body += f'''
                             <hr />
-                            <li style="list-style-type: none; {"color:red;" if need_red else ""} {"color: blue; font-weight: bold; font-style: oblique;" if is_bold else ""} ">
-                                <span><strong>🏷️ Title: </strong>{video['title']}</span> {unarchived_label if is_bold else ""} {"" if exists else new_label}
+                            <li style="list-style-type: none; {"color:red;" if need_red else ""} {"color: blue; font-weight: bold; font-style: oblique;" if is_unarchived else ""} ">
+                                <span><strong>🏷️ Title: </strong>{video['title']}</span> {unarchive_label if is_unarchived else ""} {"" if exists else new_label}
                                 <br /><br />
                                 <span><strong>🆔 Stream ID: </strong>{video['video_id']}</span>
                                 <br />
@@ -129,15 +193,17 @@ def send_email_upcoming(live_streams: str) -> None:
                             </li>
                         '''
                 need_red = False
-                is_bold = False
+                is_unarchived = False
             body += '</ul></li>'
 
     body += '</ul></html>'
     body_first = f'''<html>
                 <h1>📹 Upcoming YouTube Live Streams</h1>
                 <br />
-                {f'<h2 style="color: green; font-weight: bold;">🗣 {is_unarchived} Unarchived Live Streams</h2><br />' if is_unarchived > 0 else ""}
-                {f'<h2 style="color: orange; font-weight: bold;">💠 {flag} Live Streams will live soon!</h2><br />' if flag > 0 else ""}
+                {f'<h2 style="color: green; font-weight: bold;">🚨 {unarchive_counter} Unarchived Live Streams</h2><br />' if unarchive_counter > 0 else ""}
+                {f'<h2 style="color: purple; font-weight: bold;">🎤 {karaoke_counter} Karaoke Live Streams</h2><br />' if karaoke_counter > 0 else ""}
+                {f'<h2 style="color: blue; font-weight: bold;">🆕 {new_counter} New Live Streams</h2><br />' if new_counter > 0 else ""}
+                {f'<h2 style="color: orange; font-weight: bold;">💠 {upcoming_counter} Live Streams will live soon!</h2><br />' if upcoming_counter > 0 else ""}
                 <ul>
             '''
     body = body_first + body
@@ -158,21 +224,29 @@ def send_email_upcoming(live_streams: str) -> None:
             file.write(current_hash)
             send_email(subject, body)
         else:
-            if flag:
+            if upcoming_counter:
                 send_email(subject, body)
             else:
                 print_text("Nothing changed!", "S")
 
 def send_email_live(live_streams: str) -> None:
     subject = f"🔴 YouTube Live Streams Notification {datetime.now(pytz.timezone('Asia/Ho_Chi_Minh')).strftime("%d/%m/%Y %H:%M:%S")}"
-    is_unarchived = 0
-    flag = False
     body = ""
+    
     unarchived_label = '<span style="font-weight: bold; background-color: palevioletred; padding: 1.5px; margin: 4px; border-style: dashed;">UNARCHIVED</span>'
     new_label = '<span style="font-weight: bold; background-color: greenyellow; padding: 3px; margin: 4px; border-radius: 30%;">New!</span>'
+    
     prev_live_streams = {}
+    
+    is_unarchived = False
+
+    new_counter = 0
+    unarchive_counter = 0
+    karaoke_counter = 0
+
     with open("./live_streams.json", "r", encoding="utf-8") as file:
         prev_live_streams = json.load(file)
+
     for channel_id, info in live_streams.items():
         if info['videos']:
             body += f'''
@@ -181,15 +255,17 @@ def send_email_live(live_streams: str) -> None:
                             <ul>
                     '''
             for video in info['videos']:
-                if "unarchive" in video['title'].lower():
-                    is_unarchived = is_unarchived + 1
-                    flag = True
                 if prev_live_streams != {}:
                     exists = any(item["video_id"] == video["video_id"] for item in prev_live_streams.get(channel_id)["videos"])
+                    new_counter = new_counter if exists else new_counter + 1
+                    
+                unarchive_counter, is_unarchived = counter(unarchive_counter, video['title'].lower(), UNARCHIVE_FILTERS)
+                karaoke_counter, _ = counter(karaoke_counter, video['title'].lower(), KARAOKE_FILTERS)
+
                 body += f'''
                             <hr />
-                            <li style="list-style-type: none; {'color: red; font-weight: bold; font-style: oblique;' if flag else ''}">
-                                <span><strong>🏷️ Title: </strong>{video['title']}</span> {unarchived_label if flag else ""} {"" if exists else new_label}
+                            <li style="list-style-type: none; {'color: red; font-weight: bold; font-style: oblique;' if is_unarchived else ''}">
+                                <span><strong>🏷️ Title: </strong>{video['title']}</span> {unarchived_label if is_unarchived else ""} {"" if exists else new_label}
                                 <br /><br />
                                 <span><strong>🆔 Stream ID: </strong>{video['video_id']}</span>
                                 <br />
@@ -198,14 +274,16 @@ def send_email_live(live_streams: str) -> None:
                                 <a href="https://www.youtube.com/watch?v={video['video_id']}"><strong>▶️ Watch Stream</strong></a>
                             </li>
                         '''
-                flag = False
+                is_unarchived = False
             body += '</ul></li>'
 
     body += '</ul></html>'
     body_first = f'''<html>
                 <h1>🔴 YouTube Live Streams</h1>
                 <br />
-                {f'<h2 style="color: green; font-weight: bold;">🗣 {is_unarchived} Unarchived Live Streams Now!</h2><br />' if is_unarchived > 0 else ""}
+                {f'<h2 style="color: green; font-weight: bold;">🚨 {unarchive_counter} Unarchived Live Streams</h2><br />' if unarchive_counter > 0 else ""}
+                {f'<h2 style="color: purple; font-weight: bold;">🎤 {karaoke_counter} Karaoke Live Streams</h2><br />' if karaoke_counter > 0 else ""}
+                {f'<h2 style="color: blue; font-weight: bold;">🆕 {new_counter} New Live Streams</h2><br />' if new_counter > 0 else ""}
                 <ul>
             '''
     body = body_first + body
@@ -227,14 +305,6 @@ def send_email_live(live_streams: str) -> None:
             send_email(subject, body)
         else:
             print_text("Nothing changed!", "S")
-
-def sort_obj(obj):
-    obj = dict(sorted(obj.items(), key=lambda item:item[0]))
-
-    for id_obj in obj.values():
-        id_obj["videos"] = sorted(id_obj["videos"], key=lambda video:video["video_id"])
-        
-    return obj
 
 def get_info_livestream(channel_url: str):
     yt_opts = {
