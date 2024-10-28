@@ -32,7 +32,7 @@ jobs:
           python-version: "3.12.6"
       - name: Install Dependencies
         run: |
-          pip install -r requirements.txt -q
+          pip install -r requirements.txt
       - name: Run Python Script
         env:
           SENDER_EMAIL: ${{secrets.SENDER_EMAIL}}
