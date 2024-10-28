@@ -178,7 +178,7 @@ def send_email_upcoming(live_streams: str) -> None:
                             <li style="list-style-type: none; {"color:red;" if need_red else ""} {"color: blue; font-weight: bold; font-style: oblique;" if is_unarchived else ""} ">
                                 <span><strong>🏷️ Title: </strong>{video['title']}</span> {karaoke_label if is_karaoke else ""} {unarchive_label if is_unarchived else ""} {"" if exists else new_label}
                                 <br /><br />
-                                <span><strong>🆔 Stream ID: </strong><span style="font-weight: bold; font-family: monospace; font-size:x-large;">{video['video_id']}</span></span>
+                                <span><strong>🆔 Stream ID: </strong><span style="font-weight: bold; font-family: consolas; font-size:x-large;">{video['video_id']}</span></span>
                                 <br />
                                 <span><strong>🖼️ Thumbnail: </strong> <img src="{video['thumbnail']}"/></span>
                                 <br />
@@ -270,7 +270,7 @@ def send_email_live(live_streams: str) -> None:
                             <li style="list-style-type: none; {'color: red; font-weight: bold; font-style: oblique;' if is_unarchived else ''}">
                                 <span><strong>🏷️ Title: </strong>{video['title']}</span> {karaoke_label if is_karaoke else ""} {unarchived_label if is_unarchived else ""} {"" if exists else new_label}
                                 <br /><br />
-                                <span><strong>🆔 Stream ID: </strong><span style="font-weight: bold; font-family: monospace; font-size:x-large;">{video['video_id']}</span></span>
+                                <span><strong>🆔 Stream ID: </strong><span style="font-weight: bold; font-family: consolas; font-size:x-large;">{video['video_id']}</span></span>
                                 <br />
                                 <span><strong>🖼️ Thumbnail: </strong> <img src="{video['thumbnail']}"/></span>
                                 <br />
