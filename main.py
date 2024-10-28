@@ -200,8 +200,13 @@ def send_email_upcoming(live_streams: str) -> None:
                 is_unarchived = False
             body += '</ul></li>'
 
-    body += '</ul></html>'
-    body_first = f'''<html>
+    body += '</ul></body></html>'
+    body_first = f'''<!DOCTYPE html>
+                <html>
+                <head>
+                    <meta charset="UTF-8">
+                </head>
+                <body>
                 <h1>📹 Upcoming YouTube Live Streams</h1>
                 <br />
                 {f'<h2 style="color: green; font-weight: bold;">🚨 {unarchive_counter} Unarchived Live Streams</h2><br />' if unarchive_counter > 0 else ""}
