@@ -11,6 +11,7 @@ from hashlib import md5
 import pytz
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from dotenv import load_dotenv
+
 load_dotenv()
 
 # ====================== CONSTANTS ======================
@@ -176,7 +177,7 @@ def send_email_upcoming(live_streams: str) -> None:
                 # Count
                 unarchive_counter, is_unarchived = counter(unarchive_counter, video['title'].lower(), UNARCHIVE_FILTERS)
                 karaoke_counter, is_karaoke = counter(karaoke_counter, video['title'].lower(), KARAOKE_FILTERS)
-                
+
                 # Get emoji
                 emoji = get_clock_emoji(schedule_date)
 
