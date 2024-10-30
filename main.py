@@ -20,9 +20,35 @@ SENDER_PWD = os.getenv('SENDER_PWD')
 RECEIVER_EMAIL = os.getenv('RECEIVER_EMAIL')
 ENV = os.getenv('ENV') or 'production'
 LIMIT = 15 # minutes
+
+
 UNARCHIVE_FILTERS = ["unarchive", "unarchived", "no archive", "no archived"]
 KARAOKE_FILTERS = ["karaoke", "sing", "singing", "歌枠", "ヒトカラ", "カラ"]
+LIARS_BAR_FILTERS = ["liar's bar", "liars bar", "liar bar"]
 
+FILTERS = {
+    "Unarchived": {
+        "counter": 0,
+        "icon": "🚨",
+        "is_true": False,
+        "filter": UNARCHIVE_FILTERS,
+        "label": '<span style="font-weight: bold; background-color: palevioletred; padding: 1.5px; margin: 4px; border-style: dashed;">UNARCHIVED</span>'
+    },
+    "Karaoke": {
+        "counter": 0,
+        "icon": "🎤",
+        "is_true": False,
+        "filter": KARAOKE_FILTERS,
+        "label": '<span style="font-weight: bold; background-color: burlywood; padding: 1.5px; margin: 4px; border-style: dashed;">Karaoke</span>'
+    },
+    "Liar's Bar": {
+        "counter": 0,
+        "icon": "🤥",
+        "is_true": False,
+        "filter": LIARS_BAR_FILTERS,
+        "label": '<span style="font-weight: bold; background-color: #2F131E; padding: 3px; margin: 4px; border-radius: 30%; color: #87F5FB;">Liar</span>'
+    }
+}
 UPCOMING_SUBJECT = "🗓️ Upcoming YouTube Live Streams Notification"
 LIVE_SUBJECT = "🔴 YouTube Live Streams Notification"
 
@@ -75,12 +101,13 @@ def get_channel_url(file_path: str) -> list[str] | None:
     return result
 
 def counter(num: int, text: str = "", filter: list[str] = None) -> int:
+    f_text = text.lower()
     if filter is None:
         num += 1
         return num
     is_count_up = False
     for i_filter in filter:
-        if i_filter in text:
+        if i_filter in f_text:
             num += 1
             is_count_up = True
             break
@@ -125,20 +152,16 @@ def send_email_upcoming(live_streams: str) -> None:
 
     # variables
     need_red = False # change text to red
-    is_unarchived = False
-    is_karaoke = False
     prev_upcoming_streams = {}
 
     # count variables
     upcoming_counter = 0 
-    unarchive_counter = 0 # count number unarchived video
-    karaoke_counter = 0
+    for filters in FILTERS.items():
+        filters[1]["counter"] = 0
     new_counter = 0
 
     # label template 
-    unarchive_label = '<span style="font-weight: bold; background-color: palevioletred; padding: 1.5px; margin: 4px; border-style: dashed;">UNARCHIVED</span>'
     new_label = '<span style="font-weight: bold; background-color: greenyellow; padding: 3px; margin: 4px; border-radius: 30%;">New!</span>'
-    karaoke_label = '<span style="font-weight: bold; background-color: burlywood; padding: 1.5px; margin: 4px; border-style: dashed;">Karaoke</span>'
     
     # load previous upcoming streams save in file json
     with open("./upcoming.json", "r", encoding="utf-8") as file:
@@ -168,16 +191,21 @@ def send_email_upcoming(live_streams: str) -> None:
                     need_red = True
                 
                 # Count
-                unarchive_counter, is_unarchived = counter(unarchive_counter, video['title'].lower(), UNARCHIVE_FILTERS)
-                karaoke_counter, is_karaoke = counter(karaoke_counter, video['title'].lower(), KARAOKE_FILTERS)
+                # unarchive_counter, is_unarchived = counter(unarchive_counter, video['title'].lower(), UNARCHIVE_FILTERS)
+                # karaoke_counter, is_karaoke = counter(karaoke_counter, video['title'].lower(), KARAOKE_FILTERS)
 
+                for filters in FILTERS.items():
+                    num = filters[1].get("counter", 0)
+                    _filter = filters[1].get("filter", [])
+                    filters[1]["counter"], filters[1]["is_true"] = counter(num, video['title'], _filter)
+                    
                 # Get emoji
                 emoji = get_clock_emoji(schedule_date)
 
                 body += f'''
                             <hr />
-                            <li style="list-style-type: none; {"color:red;" if need_red else ""} {"color: blue; font-weight: bold; font-style: oblique;" if is_unarchived else ""} ">
-                                <span><strong>🏷️ Title: </strong>{video['title']}</span> {karaoke_label if is_karaoke else ""} {unarchive_label if is_unarchived else ""} {"" if exists else new_label}
+                            <li style="list-style-type: none; {"color:red;" if need_red else ""} {"color: blue; font-weight: bold; font-style: oblique;" if FILTERS["Unarchived"].get("is_true") else ""} ">
+                                <span><strong>🏷️ Title: </strong>{video['title']}</span> {"".join(filters[1].get("label", "") if filters[1].get("is_true", False) else "" for filters in FILTERS.items())} {"" if exists else new_label}
                                 <br /><br />
                                 <span><strong>🆔 Stream ID: </strong><span style="font-weight: bold; font-family: consolas, 'Times New Roman', tahoma; font-size:x-large;">{video['video_id']}</span></span>
                                 <br />
@@ -189,8 +217,8 @@ def send_email_upcoming(live_streams: str) -> None:
                             </li>
                         '''
                 need_red = False
-                is_karaoke = False
-                is_unarchived = False
+                for filters in FILTERS.items():
+                    filters[1]["is_true"] = False
             body += '</ul></li>'
 
     body += '</ul></body></html>'
@@ -202,12 +230,13 @@ def send_email_upcoming(live_streams: str) -> None:
                 <body>
                 <h1>📹 Upcoming YouTube Live Streams</h1>
                 <br />
-                {f'<h2 style="color: green; font-weight: bold;">🚨 {unarchive_counter} Unarchived Live Streams</h2><br />' if unarchive_counter > 0 else ""}
-                {f'<h2 style="color: purple; font-weight: bold;">🎤 {karaoke_counter} Karaoke Live Streams</h2><br />' if karaoke_counter > 0 else ""}
+                {''.join(f'<h2 style="color: green; font-weight: bold;">{filters[1].get("icon", "📣")} {filters[1].get("counter")} {filters[0]} Live Streams</h2><br/>' if filters[1].get("counter") > 0 else "" for filters in FILTERS.items())}
                 {f'<h2 style="color: blue; font-weight: bold;">🆕 {new_counter} New Live Streams</h2><br />' if new_counter > 0 else ""}
                 {f'<h2 style="color: orange; font-weight: bold;">💠 {upcoming_counter} Live Streams will live soon!</h2><br />' if upcoming_counter > 0 else ""}
                 <ul>
             '''
+    # {f'<h2 style="color: green; font-weight: bold;">🚨 {FILTERS.get("Unarchived").get("counter")} Unarchived Live Streams</h2><br />' if FILTERS.get("Unarchived").get("counter") > 0 else ""}
+    # {f'<h2 style="color: purple; font-weight: bold;">🎤 {FILTERS.get("Karaoke").get("counter")} Karaoke Live Streams</h2><br />' if FILTERS.get("Karaoke").get("counter") > 0 else ""}
     body = body_first + body
     current_hash = md5(str(live_streams).encode('utf-8')).hexdigest()
     
@@ -235,19 +264,14 @@ def send_email_live(live_streams: str) -> None:
     subject = f"{LIVE_SUBJECT} {datetime.now(pytz.timezone('Asia/Ho_Chi_Minh')).strftime("%d/%m/%Y %H:%M:%S")}"
     body = ""
     
-    unarchived_label = '<span style="font-weight: bold; background-color: palevioletred; padding: 1.5px; margin: 4px; border-style: dashed;">UNARCHIVED</span>'
     new_label = '<span style="font-weight: bold; background-color: greenyellow; padding: 3px; margin: 4px; border-radius: 30%;">New!</span>'
-    karaoke_label = '<span style="font-weight: bold; background-color: burlywood; padding: 1.5px; margin: 4px; border-style: dashed;">Karaoke</span>'
     
     prev_live_streams = {}
-    
-    is_unarchived = False
-    is_karaoke = False
 
     new_counter = 0
-    unarchive_counter = 0
-    karaoke_counter = 0
-
+    for filters in FILTERS.items():
+        filters[1]["counter"] = 0
+    new_counter = 0
     with open("./live_streams.json", "r", encoding="utf-8") as file:
         prev_live_streams = json.load(file)
 
@@ -264,13 +288,18 @@ def send_email_live(live_streams: str) -> None:
                     exists = any(item["video_id"] == video["video_id"] for item in prev_live_streams.get(channel_id)["videos"])
                     new_counter = new_counter if exists else new_counter + 1
                     
-                unarchive_counter, is_unarchived = counter(unarchive_counter, video['title'].lower(), UNARCHIVE_FILTERS)
-                karaoke_counter, is_karaoke = counter(karaoke_counter, video['title'].lower(), KARAOKE_FILTERS)
+                # unarchive_counter, is_unarchived = counter(unarchive_counter, video['title'].lower(), UNARCHIVE_FILTERS)
+                # karaoke_counter, is_karaoke = counter(karaoke_counter, video['title'].lower(), KARAOKE_FILTERS)
+                
+                for filters in FILTERS.items():
+                    num = filters[1].get("counter", 0)
+                    _filter = filters[1].get("filter", [])
+                    filters[1]["counter"], filters[1]["is_true"] = counter(num, video['title'], _filter)
 
                 body += f'''
                             <hr />
-                            <li style="list-style-type: none; {'color: red; font-weight: bold; font-style: oblique;' if is_unarchived else ''}">
-                                <span><strong>🏷️ Title: </strong>{video['title']}</span> {karaoke_label if is_karaoke else ""} {unarchived_label if is_unarchived else ""} {"" if exists else new_label}
+                            <li style="list-style-type: none; {'color: red; font-weight: bold; font-style: oblique;' if FILTERS["Unarchived"].get("is_true") else ''}">
+                                <span><strong>🏷️ Title: </strong>{video['title']}</span> {"".join(filters[1].get("label", "") if filters[1].get("is_true", False) else "" for filters in FILTERS.items())} {"" if exists else new_label}
                                 <br /><br />
                                 <span><strong>🆔 Stream ID: </strong><span style="font-weight: bold; font-family: consolas, 'Times New Roman', tahoma; font-size:x-large;">{video['video_id']}</span></span>
                                 <br />
@@ -279,8 +308,8 @@ def send_email_live(live_streams: str) -> None:
                                 <a href="https://www.youtube.com/watch?v={video['video_id']}"><strong>▶️ Watch Stream</strong></a>
                             </li>
                         '''
-                is_karaoke = False
-                is_unarchived = False
+                for filters in FILTERS.items():
+                    filters[1]["is_true"] = False
             body += '</ul></li>'
 
     body += '</ul></body></html>'
@@ -292,8 +321,7 @@ def send_email_live(live_streams: str) -> None:
                 <body>
                 <h1>🔴 YouTube Live Streams</h1>
                 <br />
-                {f'<h2 style="color: green; font-weight: bold;">🚨 {unarchive_counter} Unarchived Live Streams</h2><br />' if unarchive_counter > 0 else ""}
-                {f'<h2 style="color: purple; font-weight: bold;">🎤 {karaoke_counter} Karaoke Live Streams</h2><br />' if karaoke_counter > 0 else ""}
+                {''.join(f'<h2 style="color: green; font-weight: bold;">{filters[1].get("icon", "📣")} {filters[1].get("counter")} {filters[0]} Live Streams</h2><br/>' if filters[1].get("counter") > 0 else "" for filters in FILTERS.items())}
                 {f'<h2 style="color: blue; font-weight: bold;">🆕 {new_counter} New Live Streams</h2><br />' if new_counter > 0 else ""}
                 <ul>
             '''

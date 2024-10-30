@@ -1,12 +1,12 @@
 name: Run Python Script
 on:
-    # push:
-    #     branches:
-    #         - 'master'
-    # schedule:
-    #     - cron: '*/15 * * * *'
+    push:
+        branches:
+            - 'master'
+    schedule:
+        - cron: '*/30 * * * *'
     workflow_dispatch:
-    # workflow_call:
+    workflow_call:
 jobs:
     run-script:
         runs-on: ubuntu-latest
