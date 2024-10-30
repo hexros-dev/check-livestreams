@@ -21,7 +21,7 @@ RECEIVER_EMAIL = os.getenv('RECEIVER_EMAIL')
 ENV = os.getenv('ENV') or 'production'
 LIMIT = 15 # minutes
 UNARCHIVE_FILTERS = ["unarchive", "unarchived", "no archive", "no archived"]
-KARAOKE_FILTERS = ["karaoke", "sing", "singing", "歌枠"]
+KARAOKE_FILTERS = ["karaoke", "sing", "singing", "歌枠", "ヒトカラ", "カラ"]
 
 UPCOMING_SUBJECT = "🗓️ Upcoming YouTube Live Streams Notification"
 LIVE_SUBJECT = "🔴 YouTube Live Streams Notification"
