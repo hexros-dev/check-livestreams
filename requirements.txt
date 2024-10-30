@@ -9,4 +9,4 @@ pytz==2024.2
 requests==2.32.3
 urllib3==2.2.3
 websockets==13.1
-yt-dlp==2024.8.6
+yt-dlp==2024.10.22
