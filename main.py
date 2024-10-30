@@ -153,6 +153,7 @@ def send_email_upcoming(live_streams: str) -> None:
                     '''
             for video in info['videos']:
                 # Check new streams
+                exists = False
                 if prev_upcoming_streams != {}:
                     exists = any(item["video_id"] == video["video_id"] for item in prev_upcoming_streams.get(channel_id)["videos"])
                     new_counter = new_counter if exists else new_counter + 1
@@ -258,6 +259,7 @@ def send_email_live(live_streams: str) -> None:
                             <ul>
                     '''
             for video in info['videos']:
+                exists = False
                 if prev_live_streams != {}:
                     exists = any(item["video_id"] == video["video_id"] for item in prev_live_streams.get(channel_id)["videos"])
                     new_counter = new_counter if exists else new_counter + 1
@@ -414,12 +416,7 @@ if __name__ == '__main__':
     os.system('cls' if os.name=='nt' else 'clear')
     print(f"You are in {ENV} environment!")
     channel_urls = get_channel_url("channel_url.txt")
-    # upcoming, live_streams = process_channels(channel_urls, 10)
-
-    upcoming, live_streams = get_info_livestream(channel_urls)
-    upcoming = sort_obj(upcoming)
-    live_streams = sort_obj(live_streams)
-    
+    upcoming, live_streams = process_channels(channel_urls, 10)
 
     send_email_upcoming(upcoming)
     send_email_live(live_streams)
