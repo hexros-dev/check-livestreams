@@ -176,7 +176,7 @@ def send_email_upcoming(live_streams: str) -> None:
                     '''
             for video in info['videos']:
                 # Check new streams
-                exists = False
+                exists = True
                 if prev_upcoming_streams != {}:
                     exists = any(item["video_id"] == video["video_id"] for item in prev_upcoming_streams.get(channel_id)["videos"])
                     new_counter = new_counter if exists else new_counter + 1
@@ -235,8 +235,6 @@ def send_email_upcoming(live_streams: str) -> None:
                 {f'<h2 style="color: orange; font-weight: bold;">💠 {upcoming_counter} Live Streams will live soon!</h2><br />' if upcoming_counter > 0 else ""}
                 <ul>
             '''
-    # {f'<h2 style="color: green; font-weight: bold;">🚨 {FILTERS.get("Unarchived").get("counter")} Unarchived Live Streams</h2><br />' if FILTERS.get("Unarchived").get("counter") > 0 else ""}
-    # {f'<h2 style="color: purple; font-weight: bold;">🎤 {FILTERS.get("Karaoke").get("counter")} Karaoke Live Streams</h2><br />' if FILTERS.get("Karaoke").get("counter") > 0 else ""}
     body = body_first + body
     current_hash = md5(str(live_streams).encode('utf-8')).hexdigest()
     
@@ -283,7 +281,7 @@ def send_email_live(live_streams: str) -> None:
                             <ul>
                     '''
             for video in info['videos']:
-                exists = False
+                exists = True
                 if prev_live_streams != {}:
                     exists = any(item["video_id"] == video["video_id"] for item in prev_live_streams.get(channel_id)["videos"])
                     new_counter = new_counter if exists else new_counter + 1
