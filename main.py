@@ -453,4 +453,4 @@ if __name__ == '__main__':
     with open('./upcoming.json', mode='w', encoding='utf-8') as file:
         file.write(json.dumps(upcoming, ensure_ascii=False))
 
-    print_text("Done!", prefix='S')
+    print_text(f"Done at {datetime.now(pytz.timezone('Asia/Ho_Chi_Minh')).strftime("%d/%m/%Y %H:%M:%S")}", prefix='S')
