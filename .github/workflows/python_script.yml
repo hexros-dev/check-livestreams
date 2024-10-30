@@ -4,7 +4,7 @@ on:
         branches:
             - 'master'
     schedule:
-        - cron: '*/30 * * * *'
+        - cron: '*/59 * * * *'
     workflow_dispatch:
     workflow_call:
 jobs:
