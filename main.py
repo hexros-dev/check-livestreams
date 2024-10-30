@@ -414,7 +414,7 @@ if __name__ == '__main__':
     os.system('cls' if os.name=='nt' else 'clear')
     print(f"You are in {ENV} environment!")
     channel_urls = get_channel_url("channel_url.txt")
-    upcoming, live_streams = process_channels(channel_urls, 15)
+    upcoming, live_streams = process_channels(channel_urls, 10)
 
     send_email_upcoming(upcoming)
     send_email_live(live_streams)
