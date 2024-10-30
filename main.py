@@ -449,11 +449,12 @@ if __name__ == '__main__':
     for i in range(1, 5):
         print(f">>> LOOP {i}")
         channel_urls = get_channel_url(f"channel_url_{i}.txt")
-        upcoming, live_streams = process_channels(channel_urls, 2)
-        for channel_id, data in upcoming.items():
-            upcoming_all[channel_id] = data
-        for channel_id, data in live_streams.items():
-            live_streams_all[channel_id] = data
+        for channel_url in channel_urls:
+            upcoming, live_streams = get_info_livestream(channel_url)
+            for channel_id, data in upcoming.items():
+                upcoming_all[channel_id] = data
+            for channel_id, data in live_streams.items():
+                live_streams_all[channel_id] = data
         
         time.sleep(5)
 
