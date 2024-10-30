@@ -1,52 +1,52 @@
 name: Run Python Script
 on:
-  push:
-    branches: 
-      - "master"
-  schedule:
-    - cron: "*/10 * * * *"
-  workflow_dispatch:
-  workflow_call:
+    push:
+        branches:
+            - 'master'
+    schedule:
+        - cron: '*/15 * * * *'
+    workflow_dispatch:
+    workflow_call:
 jobs:
-  run-script:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Set TERM environment variable
-        run: echo "TERM=xterm" >> $GITHUB_ENV
-      - name: Checkout Master Branch
-        uses: actions/checkout@v4.2.0
-        with:
-          ref: master
-      - name: Pull Output Branch
-        run: |
-          git config --global user.name "github-actions [BOT]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git fetch origin output
-          git checkout output
-          git pull origin output
-          git checkout master
-          git merge output --allow-unrelated-histories
-      - name: Set Up Python
-        uses: actions/setup-python@v5.2.0
-        with:
-          python-version: "3.12.6"
-      - name: Install Dependencies
-        run: |
-          pip install -r requirements.txt
-      - name: Run Python Script
-        env:
-          SENDER_EMAIL: ${{secrets.SENDER_EMAIL}}
-          SENDER_PWD: ${{secrets.SENDER_PWD}}
-          RECEIVER_EMAIL: ${{secrets.RECEIVER_EMAIL}}
-        run: |
-          python main.py
-      - name: Pushing to output
-        run: |
-          git checkout -b output || git checkout output
-          git add upcoming.json live_streams.json prev_hash_live.md5 prev_hash_upcoming.md5
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
-          else
-            git commit -m "Update files via GitHub Actions"
-            git push origin output
-          fi
+    run-script:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Set TERM environment variable
+              run: echo "TERM=xterm" >> $GITHUB_ENV
+            - name: Checkout Master Branch
+              uses: actions/checkout@v4.2.0
+              with:
+                  ref: master
+            - name: Pull Output Branch
+              run: |
+                  git config --global user.name "github-actions [BOT]"
+                  git config --global user.email "github-actions[bot]@users.noreply.github.com"
+                  git fetch origin output
+                  git checkout output
+                  git pull origin output
+                  git checkout master
+                  git merge output --allow-unrelated-histories
+            - name: Set Up Python
+              uses: actions/setup-python@v5.2.0
+              with:
+                  python-version: '3.12.6'
+            - name: Install Dependencies
+              run: |
+                  pip install -r requirements.txt
+            - name: Run Python Script
+              env:
+                  SENDER_EMAIL: ${{secrets.SENDER_EMAIL}}
+                  SENDER_PWD: ${{secrets.SENDER_PWD}}
+                  RECEIVER_EMAIL: ${{secrets.RECEIVER_EMAIL}}
+              run: |
+                  python main.py
+            - name: Pushing to output
+              run: |
+                  git checkout -b output || git checkout output
+                  git add upcoming.json live_streams.json prev_hash_live.md5 prev_hash_upcoming.md5
+                  if git diff --cached --quiet; then
+                    echo "No changes to commit."
+                  else
+                    git commit -m "Update files via GitHub Actions"
+                    git push origin output
+                  fi
