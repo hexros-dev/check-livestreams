@@ -1,6 +1,7 @@
 # ====================== IMPORTS ======================
 from datetime import datetime
 from pathlib import Path
+import time
 import yt_dlp
 import os
 import json
@@ -443,11 +444,24 @@ def process_channels(channel_urls: list[str], max_workers=5):
 if __name__ == '__main__':
     os.system('cls' if os.name=='nt' else 'clear')
     print(f"You are in {ENV} environment!")
-    channel_urls = get_channel_url("channel_url.txt")
-    upcoming, live_streams = process_channels(channel_urls, 10)
+    upcoming_all = {}
+    live_streams_all = {}
+    for i in range(1, 5):
+        print(f">>> LOOP {i}")
+        channel_urls = get_channel_url(f"channel_url_{i}.txt")
+        upcoming, live_streams = process_channels(channel_urls, 2)
+        for channel_id, data in upcoming.items():
+            upcoming_all[channel_id] = data
+        for channel_id, data in live_streams.items():
+            live_streams_all[channel_id] = data
+        
+        time.sleep(5)
 
-    send_email_upcoming(upcoming)
-    send_email_live(live_streams)
+    upcoming_all = sort_obj(upcoming_all)
+    live_streams_all = sort_obj(live_streams_all)
+
+    send_email_upcoming(upcoming_all)
+    send_email_live(live_streams_all)
 
     with open('./live_streams.json', mode='w', encoding='utf-8') as file:
         file.write(json.dumps(live_streams, ensure_ascii=False))
