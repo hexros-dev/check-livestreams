@@ -11,6 +11,7 @@ from hashlib import md5
 import pytz
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from dotenv import load_dotenv
+import time
 
 load_dotenv()
 
@@ -52,9 +53,14 @@ FILTERS = {
 UPCOMING_SUBJECT = "🗓️ Upcoming YouTube Live Streams Notification"
 LIVE_SUBJECT = "🔴 YouTube Live Streams Notification"
 
+SKIP_STREAMS = ["O9V_EFbgpKQ"] # video id
+
 if ENV == "development":
     UPCOMING_SUBJECT = "[TEST] 🗓️ Upcoming Live Streams"
     LIVE_SUBJECT = "[TEST] 🔴 Live Streams"
+elif ENV == "self-host":
+    UPCOMING_SUBJECT = "[HOST] 🗓️ Upcoming Live Streams Notification"
+    LIVE_SUBJECT = "[HOST] 🔴 Live Streams Notification"
 
 # ====================== CLASSES ======================
 class Color:
@@ -100,19 +106,19 @@ def get_channel_url(file_path: str) -> list[str] | None:
     
     return result
 
-def counter(num: int, text: str = "", filter: list[str] = None) -> int:
+def counter(num: int, text: str = "", filter: list[str] = None, is_true: bool = False):
     f_text = text.lower()
     if filter is None:
         num += 1
         return num
-    is_count_up = False
+    
     for i_filter in filter:
         if i_filter in f_text:
             num += 1
-            is_count_up = True
+            is_true = True
             break
     
-    return num, is_count_up
+    return num, is_true
 
 def send_email(subject: str, body: str) -> None:
     msg = MIMEMultipart()
@@ -195,9 +201,9 @@ def send_email_upcoming(live_streams: str) -> None:
                 # karaoke_counter, is_karaoke = counter(karaoke_counter, video['title'].lower(), KARAOKE_FILTERS)
 
                 for filters in FILTERS.items():
-                    num = filters[1].get("counter", 0)
                     _filter = filters[1].get("filter", [])
-                    filters[1]["counter"], filters[1]["is_true"] = counter(num, video['title'], _filter)
+                    filters[1]["counter"], filters[1]["is_true"] = counter(filters[1]["counter"], video['title'], _filter, filters[1]["is_true"])
+                    filters[1]["counter"], filters[1]["is_true"] = counter(filters[1]["counter"], video['description'], _filter, filters[1]["is_true"])
                     
                 # Get emoji
                 emoji = get_clock_emoji(schedule_date)
@@ -230,9 +236,9 @@ def send_email_upcoming(live_streams: str) -> None:
                 <body>
                 <h1>📹 Upcoming YouTube Live Streams</h1>
                 <br />
-                {''.join(f'<h2 style="color: green; font-weight: bold;">{filters[1].get("icon", "📣")} {filters[1].get("counter")} {filters[0]} Live Streams</h2><br/>' if filters[1].get("counter") > 0 else "" for filters in FILTERS.items())}
-                {f'<h2 style="color: blue; font-weight: bold;">🆕 {new_counter} New Live Streams</h2><br />' if new_counter > 0 else ""}
-                {f'<h2 style="color: orange; font-weight: bold;">💠 {upcoming_counter} Live Streams will live soon!</h2><br />' if upcoming_counter > 0 else ""}
+                {''.join(f'<h2 style="color: green; font-weight: bold;">{filters[1].get("icon", "📣")} {filters[1].get("counter")} {filters[0]} Live Streams</h2>' if filters[1].get("counter") > 0 else "" for filters in FILTERS.items())}
+                {f'<h2 style="color: blue; font-weight: bold;">🆕 {new_counter} New Live Streams</h2>' if new_counter > 0 else ""}
+                {f'<h2 style="color: orange; font-weight: bold;">💠 {upcoming_counter} Live Streams will live soon!</h2>' if upcoming_counter > 0 else ""}
                 <ul>
             '''
     body = body_first + body
@@ -290,9 +296,10 @@ def send_email_live(live_streams: str) -> None:
                 # karaoke_counter, is_karaoke = counter(karaoke_counter, video['title'].lower(), KARAOKE_FILTERS)
                 
                 for filters in FILTERS.items():
-                    num = filters[1].get("counter", 0)
                     _filter = filters[1].get("filter", [])
-                    filters[1]["counter"], filters[1]["is_true"] = counter(num, video['title'], _filter)
+                    filters[1]["counter"], filters[1]["is_true"] = counter(filters[1]["counter"], video['title'], _filter, filters[1]["is_true"])
+                    filters[1]["counter"], filters[1]["is_true"] = counter(filters[1]["counter"], video['description'], _filter, filters[1]["is_true"])
+
 
                 body += f'''
                             <hr />
@@ -319,8 +326,8 @@ def send_email_live(live_streams: str) -> None:
                 <body>
                 <h1>🔴 YouTube Live Streams</h1>
                 <br />
-                {''.join(f'<h2 style="color: green; font-weight: bold;">{filters[1].get("icon", "📣")} {filters[1].get("counter")} {filters[0]} Live Streams</h2><br/>' if filters[1].get("counter") > 0 else "" for filters in FILTERS.items())}
-                {f'<h2 style="color: blue; font-weight: bold;">🆕 {new_counter} New Live Streams</h2><br />' if new_counter > 0 else ""}
+                {''.join(f'<h2 style="color: green; font-weight: bold;">{filters[1].get("icon", "📣")} {filters[1].get("counter")} {filters[0]} Live Streams</h2>' if filters[1].get("counter") > 0 else "" for filters in FILTERS.items())}
+                {f'<h2 style="color: blue; font-weight: bold;">🆕 {new_counter} New Live Streams</h2>' if new_counter > 0 else ""}
                 <ul>
             '''
     body = body_first + body
@@ -368,10 +375,13 @@ def get_info_livestream(channel_url: str):
                 title = entry.get('title', '')
                 status = entry.get('live_status', '')
                 thumbnail = entry.get('thumbnails')[-1].get('url')
+                description = entry.get('description')
                 if status == 'is_upcoming':
                     print_text('Found upcoming live stream!', prefix='S')
                     print_text(f"Title: {title}", "T")
                     video_id = entry.get('id')
+                    if video_id in SKIP_STREAMS:
+                        continue
                     scheduled_time = entry.get('release_timestamp')
                     tz = pytz.timezone('Asia/Ho_Chi_Minh')
                     scheduled_time_readable = datetime.fromtimestamp(scheduled_time, tz).strftime('%d/%m/%Y %H:%M:%S (GMT+7)')
@@ -384,7 +394,8 @@ def get_info_livestream(channel_url: str):
                         "video_id": video_id,
                         "title": title,
                         "date": scheduled_time_readable,
-                        "thumbnail": thumbnail
+                        "thumbnail": thumbnail,
+                        "description": description
                     })
                 elif status == 'is_live':
                     print_text('Found live stream!', prefix='S')
@@ -393,7 +404,8 @@ def get_info_livestream(channel_url: str):
                     videos_live.append({
                         "video_id": video_id,
                         "title": title,
-                        "thumbnail": thumbnail
+                        "thumbnail": thumbnail,
+                        "description": description
                     })
                 else:
                     continue
@@ -454,3 +466,4 @@ if __name__ == '__main__':
         file.write(json.dumps(upcoming, ensure_ascii=False))
 
     print_text(f"Done at {datetime.now(pytz.timezone('Asia/Ho_Chi_Minh')).strftime("%d/%m/%Y %H:%M:%S")}", prefix='S')
+    time.sleep(5)
