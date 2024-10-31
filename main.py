@@ -12,7 +12,6 @@ import pytz
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from dotenv import load_dotenv
 import time
-import random
 
 load_dotenv()
 
