@@ -12,6 +12,7 @@ import pytz
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from dotenv import load_dotenv
 import time
+import random
 
 load_dotenv()
 
@@ -363,7 +364,9 @@ def get_info_livestream(channel_url: str):
             if not channel_url.endswith('streams'):
                 live_url = channel_url + '/streams'
             result = ydl.extract_info(live_url, download=False)
-            channel_id = result.get('uploader_id')
+            with open(f"./out/result_{random.randint(1,4)}.json", "w", encoding="utf-8") as f:
+                json.dump(result, f, ensure_ascii=False)
+            channel_id = result.get('uploader_id', channel_url.split("/")[-1])
             print_text(f'Searching from channel: {channel_id}')
             channel_name = result.get('channel')
             videos_upcoming = []
