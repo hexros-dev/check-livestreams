@@ -53,7 +53,7 @@ FILTERS = {
 UPCOMING_SUBJECT = "🗓️ Upcoming YouTube Live Streams Notification"
 LIVE_SUBJECT = "🔴 YouTube Live Streams Notification"
 
-SKIP_STREAMS = ["O9V_EFbgpKQ"] # video id
+SKIP_STREAMS = [""] # video id
 
 if ENV == "development":
     UPCOMING_SUBJECT = "[TEST] 🗓️ Upcoming Live Streams"
@@ -184,7 +184,14 @@ def send_email_upcoming(live_streams: str) -> None:
                 # Check new streams
                 exists = True
                 if prev_upcoming_streams != {}:
-                    exists = any(item["video_id"] == video["video_id"] for item in prev_upcoming_streams.get(channel_id)["videos"])
+                    try:
+                        if prev_upcoming_streams.get(channel_id).get("videos") == []:
+                            exists = False
+                        else:
+                            exists = any(item["video_id"] == video["video_id"] for item in prev_upcoming_streams.get(channel_id).get("videos"))
+                    except TypeError as e:
+                        print(f"ERROR: {e}")
+                        print(f"Channel_id at upcoming: {channel_id}")
                     new_counter = new_counter if exists else new_counter + 1
                 # Get delta time
                 schedule_date = datetime.strptime(video['date'].split(" (GMT+7)")[0], "%d/%m/%Y %H:%M:%S")
@@ -289,7 +296,15 @@ def send_email_live(live_streams: str) -> None:
             for video in info['videos']:
                 exists = True
                 if prev_live_streams != {}:
-                    exists = any(item["video_id"] == video["video_id"] for item in prev_live_streams.get(channel_id)["videos"])
+                    try:
+                        if prev_live_streams.get(channel_id).get("videos") == []:
+                            exists = False
+                        else:
+                            exists = any(item["video_id"] == video["video_id"] for item in prev_live_streams.get(channel_id).get("videos", []))
+                    except TypeError as e:
+                        print(f"ERROR: {e}")
+                        print(f"Channel_id at live: {channel_id}")
+                    
                     new_counter = new_counter if exists else new_counter + 1
                     
                 # unarchive_counter, is_unarchived = counter(unarchive_counter, video['title'].lower(), UNARCHIVE_FILTERS)
