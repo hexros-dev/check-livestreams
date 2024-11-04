@@ -22,6 +22,13 @@ RECEIVER_EMAIL = os.getenv('RECEIVER_EMAIL')
 ENV = os.getenv('ENV') or 'production'
 LIMIT = 15 # minutes
 
+ENV_LIST = {
+    "production": "AUTO",
+    "development": "DEV",
+    "self-host": "HOST",
+    "raspberry": "RPI",
+    "test": "TEST"
+}
 
 UNARCHIVE_FILTERS = ["unarchive", "unarchived", "no archive", "no archived"]
 KARAOKE_FILTERS = ["karaoke", "sing", "singing", "歌枠", "ヒトカラ", "カラ"]
@@ -31,6 +38,7 @@ FILTERS = {
     "Unarchived": {
         "counter": 0,
         "icon": "🚨",
+        "color": "#FF4500",
         "is_true": False,
         "filter": UNARCHIVE_FILTERS,
         "label": '<span style="font-weight: bold; background-color: palevioletred; padding: 1.5px; margin: 4px; border-style: dashed;">UNARCHIVED</span>'
@@ -38,6 +46,7 @@ FILTERS = {
     "Karaoke": {
         "counter": 0,
         "icon": "🎤",
+        "color": "#32CD32",
         "is_true": False,
         "filter": KARAOKE_FILTERS,
         "label": '<span style="font-weight: bold; background-color: burlywood; padding: 1.5px; margin: 4px; border-style: dashed;">Karaoke</span>'
@@ -45,6 +54,7 @@ FILTERS = {
     "Liar's Bar": {
         "counter": 0,
         "icon": "🤥",
+        "color": "#8B4513",
         "is_true": False,
         "filter": LIARS_BAR_FILTERS,
         "label": '<span style="font-weight: bold; background-color: #2F131E; padding: 3px; margin: 4px; border-radius: 30%; color: #87F5FB;">Liar</span>'
@@ -53,14 +63,17 @@ FILTERS = {
 UPCOMING_SUBJECT = "🗓️ Upcoming YouTube Live Streams Notification"
 LIVE_SUBJECT = "🔴 YouTube Live Streams Notification"
 
-SKIP_STREAMS = [""] # video id
+SKIP_STREAMS = ["VoWHIX4tp5k", "INFI9FahPY0", "L701Sxy3ohw", "9vaxfw1qFcY"] # video id
 
-if ENV == "development":
-    UPCOMING_SUBJECT = "[TEST] 🗓️ Upcoming Live Streams"
-    LIVE_SUBJECT = "[TEST] 🔴 Live Streams"
-elif ENV == "self-host":
-    UPCOMING_SUBJECT = "[HOST] 🗓️ Upcoming Live Streams Notification"
-    LIVE_SUBJECT = "[HOST] 🔴 Live Streams Notification"
+UPCOMING_SUBJECT = f"[{ENV_LIST.get(ENV, "UNKNOWN")}] 🗓️ Upcoming Live Streams Notification"
+LIVE_SUBJECT = f"[{ENV_LIST.get(ENV, "UNKNOWN")}] 🔴 Live Streams Notification"
+
+# if ENV == "development":
+#     UPCOMING_SUBJECT = "[TEST] 🗓️ Upcoming Live Streams"
+#     LIVE_SUBJECT = "[TEST] 🔴 Live Streams"
+# elif ENV == "self-host":
+#     UPCOMING_SUBJECT = "[HOST] 🗓️ Upcoming Live Streams Notification"
+#     LIVE_SUBJECT = "[HOST] 🔴 Live Streams Notification"
 
 # ====================== CLASSES ======================
 class Color:
@@ -78,19 +91,19 @@ def get_clock_emoji(dt: datetime) -> str:
     index = (dt.hour % 12 * 2 + (1 if dt.minute >= 15 else 0) + (1 if dt.minute >= 45 else 0)) % len(emojis)
     return emojis[index]
 
-def print_text(text: str, prefix: str = 'I', suffix: str = '\n') -> None:
+def print_text(text: str, prefix: str = "I", suffix: str = "\n") -> None:
     _type = prefix.upper()
     match(_type):
-        case 'I':
-            print(f"{Color.CYAN}", end='')
-        case 'S':
-            print(f"{Color.GREEN}", end='')
-        case 'W':
-            print(f"{Color.YELLOW}", end='')
-        case 'E':
-            print(f"{Color.RED}", end='')
-        case 'Q':
-            print(f"{Color.PURPLE}", end='')
+        case "I":
+            print(f"{Color.CYAN}", end="")
+        case "S":
+            print(f"{Color.GREEN}", end="")
+        case "W":
+            print(f"{Color.YELLOW}", end="")
+        case "E":
+            print(f"{Color.RED}", end="")
+        case "Q":
+            print(f"{Color.PURPLE}", end="")
         case _:
             pass
     print(f"<{prefix if prefix else '?'}> {text}{Color.RESET}", end=suffix)
@@ -120,23 +133,37 @@ def counter(num: int, text: str = "", filter: list[str] = None, is_true: bool = 
     
     return num, is_true
 
+def count_title_description(num: int, title: str = "", description: str = "", filter: list[str] = None):
+    f_title = title.lower()
+    f_description = description.lower()
+
+    is_true = False
+
+    for i_filter in filter:
+        if i_filter in f_title or i_filter in f_description:
+            num += 1
+            is_true = True
+            break
+    
+    return num, is_true
+
 def send_email(subject: str, body: str) -> None:
     msg = MIMEMultipart()
-    msg['From'] = SENDER_EMAIL
-    msg['To'] = RECEIVER_EMAIL
-    msg['Subject'] = subject
-    msg.attach(MIMEText(body, 'html'))
+    msg["From"] = SENDER_EMAIL
+    msg["To"] = RECEIVER_EMAIL
+    msg["Subject"] = subject
+    msg.attach(MIMEText(body, "html"))
 
     try:
-        server = smtplib.SMTP('smtp.gmail.com', 587)
+        server = smtplib.SMTP("smtp.gmail.com", 587)
         server.starttls()
         server.login(SENDER_EMAIL, SENDER_PWD)
         text = msg.as_string()
         server.sendmail(SENDER_EMAIL, RECEIVER_EMAIL, text)
         server.quit()
-        print_text("Email sent successfully!", 'S')
+        print_text("Email sent successfully!", "S")
     except Exception as e:
-        print_text(f"Failed to send email: {e}", 'E')
+        print_text(f"Failed to send email: {e}", "E")
 
 def sort_obj(obj):
     obj = dict(sorted(obj.items(), key=lambda item:item[0]))
@@ -149,13 +176,13 @@ def sort_obj(obj):
 # ====================== UTILITY FUNCTIONS ======================
 def send_email_upcoming(live_streams: str) -> None:
     # format time (now)
-    now_ = datetime.now(pytz.timezone('Asia/Ho_Chi_Minh')).strftime("%d/%m/%Y %H:%M:%S")
-    now_ = datetime.strptime(now_, "%d/%m/%Y %H:%M:%S")
+    now_ = datetime.now(pytz.timezone("Asia/Ho_Chi_Minh")).strftime("%Y/%m/%d %H:%M:%S")
 
     # subject and body when send email
     subject = f"{UPCOMING_SUBJECT} {now_}"
     body = ""
 
+    now_ = datetime.strptime(now_, "%Y/%m/%d %H:%M:%S")
     # variables
     need_red = False # change text to red
     prev_upcoming_streams = {}
@@ -165,6 +192,7 @@ def send_email_upcoming(live_streams: str) -> None:
     for filters in FILTERS.items():
         filters[1]["counter"] = 0
     new_counter = 0
+    total_streams = 0
 
     # label template 
     new_label = '<span style="font-weight: bold; background-color: greenyellow; padding: 3px; margin: 4px; border-radius: 30%;">New!</span>'
@@ -174,27 +202,26 @@ def send_email_upcoming(live_streams: str) -> None:
         prev_upcoming_streams = json.load(file)
 
     for channel_id, info in live_streams.items():
-        if info['videos']:
+        if info["videos"]:
             body += f'''
                         <li>
                             <strong style="font-size: 18px;">{info['channel_name']} ({channel_id})</strong> - <a href="{info['channel_url']}"><strong>Visit Channel</strong></a>
                             <ul>
                     '''
-            for video in info['videos']:
+            for video in info["videos"]:
                 # Check new streams
                 exists = True
-                if prev_upcoming_streams != {}:
-                    try:
-                        if prev_upcoming_streams.get(channel_id).get("videos") == []:
-                            exists = False
-                        else:
-                            exists = any(item["video_id"] == video["video_id"] for item in prev_upcoming_streams.get(channel_id).get("videos"))
-                    except TypeError as e:
-                        print(f"ERROR: {e}")
-                        print(f"Channel_id at upcoming: {channel_id}")
-                    new_counter = new_counter if exists else new_counter + 1
+                try:
+                    if prev_upcoming_streams.get(channel_id).get("videos") == []:
+                        exists = False
+                    else:
+                        exists = any(item["video_id"] == video["video_id"] for item in prev_upcoming_streams.get(channel_id).get("videos"))
+                except TypeError as e:
+                    print(f"ERROR: {e}")
+                    print(f"Channel_id at upcoming: {channel_id}")
+                new_counter = new_counter if exists else new_counter + 1
                 # Get delta time
-                schedule_date = datetime.strptime(video['date'].split(" (GMT+7)")[0], "%d/%m/%Y %H:%M:%S")
+                schedule_date = datetime.strptime(video["date"], "%Y/%m/%d %H:%M:%S")
                 delta = schedule_date - now_
                 seconds = delta.total_seconds()
                 
@@ -209,12 +236,12 @@ def send_email_upcoming(live_streams: str) -> None:
 
                 for filters in FILTERS.items():
                     _filter = filters[1].get("filter", [])
-                    filters[1]["counter"], filters[1]["is_true"] = counter(filters[1]["counter"], video['title'], _filter, filters[1]["is_true"])
-                    filters[1]["counter"], filters[1]["is_true"] = counter(filters[1]["counter"], video['description'], _filter, filters[1]["is_true"])
+                    filters[1]["counter"], filters[1]["is_true"] = count_title_description(filters[1]["counter"], video["title"],video["description"], _filter)
+                    # filters[1]["counter"], filters[1]["is_true"] = counter(filters[1]["counter"], video['description'], _filter, filters[1].get("is_true", False))
                     
                 # Get emoji
                 emoji = get_clock_emoji(schedule_date)
-
+                total_streams += 1
                 body += f'''
                             <hr />
                             <li style="list-style-type: none; {"color:red;" if need_red else ""} {"color: blue; font-weight: bold; font-style: oblique;" if FILTERS["Unarchived"].get("is_true") else ""} ">
@@ -232,6 +259,7 @@ def send_email_upcoming(live_streams: str) -> None:
                 need_red = False
                 for filters in FILTERS.items():
                     filters[1]["is_true"] = False
+                    # print(filters)
             body += '</ul></li>'
 
     body += '</ul></body></html>'
@@ -243,9 +271,10 @@ def send_email_upcoming(live_streams: str) -> None:
                 <body>
                 <h1>📹 Upcoming YouTube Live Streams</h1>
                 <br />
-                {''.join(f'<h2 style="color: green; font-weight: bold;">{filters[1].get("icon", "📣")} {filters[1].get("counter")} {filters[0]} Live Streams</h2>' if filters[1].get("counter") > 0 else "" for filters in FILTERS.items())}
+                {''.join(f'<h2 style="color: {filters[1].get("color", "green")}; font-weight: bold;">{filters[1].get("icon", "📣")} {filters[1].get("counter")} {filters[0]} Live Streams</h2>' if filters[1].get("counter") > 0 else "" for filters in FILTERS.items())}
                 {f'<h2 style="color: blue; font-weight: bold;">🆕 {new_counter} New Live Streams</h2>' if new_counter > 0 else ""}
                 {f'<h2 style="color: orange; font-weight: bold;">💠 {upcoming_counter} Live Streams will live soon!</h2>' if upcoming_counter > 0 else ""}
+                {f'<h2 style="color: #4B0082; font-weight: bold;">📊 {total_streams} Live Streams in total.</h2>'}
                 <ul>
             '''
     body = body_first + body
@@ -272,12 +301,14 @@ def send_email_upcoming(live_streams: str) -> None:
                 print_text("Nothing changed!", "S")
 
 def send_email_live(live_streams: str) -> None:
-    subject = f"{LIVE_SUBJECT} {datetime.now(pytz.timezone('Asia/Ho_Chi_Minh')).strftime("%d/%m/%Y %H:%M:%S")}"
+    subject = f"{LIVE_SUBJECT} {datetime.now(pytz.timezone('Asia/Ho_Chi_Minh')).strftime('%Y/%m/%d %H:%M:%S')}"
     body = ""
     
     new_label = '<span style="font-weight: bold; background-color: greenyellow; padding: 3px; margin: 4px; border-radius: 30%;">New!</span>'
     
     prev_live_streams = {}
+
+    total_streams = 0
 
     new_counter = 0
     for filters in FILTERS.items():
@@ -312,9 +343,10 @@ def send_email_live(live_streams: str) -> None:
                 
                 for filters in FILTERS.items():
                     _filter = filters[1].get("filter", [])
-                    filters[1]["counter"], filters[1]["is_true"] = counter(filters[1]["counter"], video['title'], _filter, filters[1]["is_true"])
-                    filters[1]["counter"], filters[1]["is_true"] = counter(filters[1]["counter"], video['description'], _filter, filters[1]["is_true"])
+                    filters[1]["counter"], filters[1]["is_true"] = count_title_description(filters[1]["counter"], video['title'],video['description'], _filter)
+                    # filters[1]["counter"], filters[1]["is_true"] = counter(filters[1]["counter"], video['description'], _filter, filters[1]["is_true"])
 
+                total_streams += 1
 
                 body += f'''
                             <hr />
@@ -341,8 +373,9 @@ def send_email_live(live_streams: str) -> None:
                 <body>
                 <h1>🔴 YouTube Live Streams</h1>
                 <br />
-                {''.join(f'<h2 style="color: green; font-weight: bold;">{filters[1].get("icon", "📣")} {filters[1].get("counter")} {filters[0]} Live Streams</h2>' if filters[1].get("counter") > 0 else "" for filters in FILTERS.items())}
+                {''.join(f'<h2 style="color: {filters[1].get("color", "green")}; font-weight: bold;">{filters[1].get("icon", "📣")} {filters[1].get("counter")} {filters[0]} Live Streams</h2>' if filters[1].get("counter") > 0 else "" for filters in FILTERS.items())}
                 {f'<h2 style="color: blue; font-weight: bold;">🆕 {new_counter} New Live Streams</h2>' if new_counter > 0 else ""}
+                {f'<h2 style="color: #4B0082; font-weight: bold;">📊 {total_streams} Live Streams in total.</h2>'}
                 <ul>
             '''
     body = body_first + body
@@ -399,7 +432,7 @@ def get_info_livestream(channel_url: str):
                         continue
                     scheduled_time = entry.get('release_timestamp')
                     tz = pytz.timezone('Asia/Ho_Chi_Minh')
-                    scheduled_time_readable = datetime.fromtimestamp(scheduled_time, tz).strftime('%d/%m/%Y %H:%M:%S (GMT+7)')
+                    scheduled_time_readable = datetime.fromtimestamp(scheduled_time, tz).strftime('%Y/%m/%d %H:%M:%S')
                     scheduled_date = datetime.fromtimestamp(scheduled_time)
                     current = datetime.now()
                     delta = scheduled_date - current
@@ -414,7 +447,7 @@ def get_info_livestream(channel_url: str):
                     })
                 elif status == 'is_live':
                     print_text('Found live stream!', prefix='S')
-                    print_text(f"Title: {title}")
+                    print_text(f"Title: {title}", 'T')
                     video_id = entry.get('id')
                     videos_live.append({
                         "video_id": video_id,
@@ -469,16 +502,18 @@ if __name__ == '__main__':
     os.system('cls' if os.name=='nt' else 'clear')
     print(f"You are in {ENV} environment!")
     channel_urls = get_channel_url("channel_url.txt")
-    upcoming, live_streams = process_channels(channel_urls, 10)
+    upcoming, live_streams = process_channels(channel_urls, 20)
 
     send_email_upcoming(upcoming)
     send_email_live(live_streams)
 
     with open('./live_streams.json', mode='w', encoding='utf-8') as file:
-        file.write(json.dumps(live_streams, ensure_ascii=False))
+        json.dump(live_streams, file, ensure_ascii=False)
+        print_text("Saved in to live_streams.json", 'S')
 
     with open('./upcoming.json', mode='w', encoding='utf-8') as file:
-        file.write(json.dumps(upcoming, ensure_ascii=False))
+        json.dump(upcoming, file, ensure_ascii=False)
+        print_text("Saved in to upcoming.json", 'S')
 
-    print_text(f"Done at {datetime.now(pytz.timezone('Asia/Ho_Chi_Minh')).strftime("%d/%m/%Y %H:%M:%S")}", prefix='S')
+    print_text(f"Done at {datetime.now(pytz.timezone('Asia/Ho_Chi_Minh')).strftime('%d/%m/%Y %H:%M:%S')}", prefix='S')
     time.sleep(5)

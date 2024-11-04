@@ -1,6 +1,7 @@
 venv/
 .vscode/
 out/
+loop/
 .env
 live_streams.json
 prev_hash_live.md5
@@ -9,3 +10,7 @@ upcoming.json
 test.py
 run.bat
 run-manual.bat
+clear-hash-win.bat
+num_loop.txt
+run-forever.bat
+test2.py
