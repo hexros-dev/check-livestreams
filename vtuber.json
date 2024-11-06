@@ -1,0 +1,684 @@
+{
+	"@TokinoSora": {
+		"channel_name": "SoraCh. ときのそらチャンネル",
+		"name": "Tokino Sora",
+		"avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
+		"icon": "🐻",
+		"link": {
+			"youtube": "https://www.youtube.com/@TokinoSora",
+			"x": "https://twitter.com/tokino_sora"
+		}
+	},
+	"@Robocosan": {
+		"channel_name": "Roboco Ch. - ロボ子",
+		"name": "Roboco-san",
+		"avatar_url": "https://yt3.googleusercontent.com/GF0wbwZvZAGzYg8s8d6Yh1BDcWAE9UmLAh2uf3IMJ5l_ESi3sWeRqk2XfhW3IgzMeliHpt4cAw",
+		"icon": "🤖",
+		"link": {
+			"youtube": "https://www.youtube.com/@Robocosan",
+			"x": "https://twitter.com/robocosan"
+		}
+	},
+	"@AkiRosenthal": {
+		"channel_name": "AkiRosenthal Ch. hololive-JP",
+		"name": "Aki Rosenthal",
+		"avatar_url": "https://yt3.googleusercontent.com/Mb9fXGVoUZWSKCLz-W0NE_gMihhpESzfEFQ-1C9xZ3FjW6Az3979WPlZ9ga4l8cDPak6fpUQ",
+		"icon": "🍎",
+		"link": {
+			"youtube": "https://www.youtube.com/@AkiRosenthal",
+			"x": "https://twitter.com/akirosenthal"
+		}
+	},
+	"@AkaiHaato": {
+		"channel_name": "HAACHAMA Ch 赤井はあと",
+		"name": "Akai Haato",
+		"avatar_url": "https://yt3.googleusercontent.com/tUHzjVx8_3IchEO64NDOJGFzH-uN7b5QHUBiKqnUmwLlY0ZSxmQ1snRse4jUx0gt8dGh2MzILP4",
+		"icon": "❤️‍🔥",
+		"link": {
+			"youtube": "https://www.youtube.com/@AkaiHaato",
+			"x": "https://twitter.com/akaihaato"
+		}
+	},
+	"@ShirakamiFubuki": {
+		"channel_name": "フブキCh。白上フブキ",
+		"name": "Shirakami Fubuki",
+		"avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
+		"icon": "🌽",
+		"link": {
+			"youtube": "https://www.youtube.com/@ShirakamiFubuki",
+			"x": "https://twitter.com/shirakamifubuki"
+		}
+	},
+	"@NatsuiroMatsuri": {
+		"channel_name": "Matsuri Channel 夏色まつり",
+		"name": "Natsuiro Matsuri",
+		"avatar_url": "https://yt3.googleusercontent.com/wIqM7MWDN94PoibzPmeog7WOt8jFKTKZBOBFEbLBaiUAdKLwoqdLC_CN7B7Gby-FWH-076rN",
+		"icon": "🏮",
+		"link": {
+			"youtube": "https://www.youtube.com/@NatsuiroMatsuri",
+			"x": "https://twitter.com/natsuiromatsuri"
+		}
+	},
+	"@MurasakiShion": {
+		"channel_name": "Shion Ch. 紫咲シオン",
+		"name": "Murasaki Shion",
+		"avatar_url": "https://yt3.googleusercontent.com/V3GVqD-sYadScSd8QYW4x1QTRfu2RyUNyKWVRb0IJxX0gj2PV6xH32d_BJHn3l0fouPLUw6Ref0",
+		"icon": "🌙",
+		"link": {
+			"youtube": "https://www.youtube.com/@MurasakiShion",
+			"x": "https://twitter.com/murasakishionch"
+		}
+	},
+	"@NakiriAyame": {
+		"channel_name": "",
+		"name": "Nakiri Ayame",
+		"avatar_url": "https://yt3.googleusercontent.com/XDGhKwPZcT16Ppg2gQmLHEIYRhw9sY4rqG0HWbeCH68LHkhlVQrrFgxd5hWUuMb2nLfDOhu6",
+		"icon": "😈",
+		"link": {
+			"youtube": "https://www.youtube.com/@NakiriAyame",
+			"x": "https://twitter.com/nakiriayame"
+		}
+	},
+	"@YuzukiChoco": {
+		"channel_name": "Choco Ch. 癒月ちょこ",
+		"name": "Yuzuki Choco",
+		"avatar_url": "https://yt3.googleusercontent.com/eB_qZXKL-jDhGyEstj9BvLL0qO_tHEMaIpkfp8M-qXYweZOpDm7uZgBwbWfxwAT7uKh_5tEj",
+		"icon": "💋",
+		"link": {
+			"youtube": "https://www.youtube.com/@YuzukiChoco",
+			"x": "https://twitter.com/yuzukichococh"
+		}
+	},
+	"@OozoraSubaru": {
+		"channel_name": "Subaru Ch. 大空スバル",
+		"name": "Oozora Subaru",
+		"avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
+		"icon": "🚑",
+		"link": {
+			"youtube": "https://www.youtube.com/@OozoraSubaru",
+			"x": "https://twitter.com/oozorasubaru"
+		}
+	},
+	"@AZKi": {
+		"channel_name": "AZKi Channel",
+		"name": "AZKi",
+		"avatar_url": "https://yt3.googleusercontent.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM",
+		"icon": "⚒️",
+		"link": {
+			"youtube": "https://www.youtube.com/@AZKi",
+			"x": "https://twitter.com/AZKi_VDiVA"
+		}
+	},
+	"@OokamiMio": {
+		"channel_name": "Mio Channel 大神ミオ",
+		"name": "Ookami Mio",
+		"avatar_url": "https://yt3.googleusercontent.com/Z78RNXxUqpOGYKFt-VrJV7nlehOHzl7Ta-l1cgPx5Ewucmr5kY64iGxmPSe7QqIdM1ZhvPlEOg",
+		"icon": "🌲",
+		"link": {
+			"youtube": "https://www.youtube.com/@OokamiMio",
+			"x": "https://twitter.com/ookamimio"
+		}
+	},
+	"@SakuraMiko": {
+		"channel_name": "Miko Ch. さくらみこ",
+		"name": "Sakura Miko",
+		"avatar_url": "https://yt3.googleusercontent.com/gxXHmXJq_kkZ0bvTmz7R1deyOAV44zZr2keaF0ojSq7MeiOGLSzFTCoYgYR4PGDWTCoLR7eK",
+		"icon": "🌸",
+		"link": {
+			"youtube": "https://www.youtube.com/@SakuraMiko",
+			"x": "https://twitter.com/sakuramiko35"
+		}
+	},
+	"@NekomataOkayu": {
+		"channel_name": "Okayu Ch. 猫又おかゆ",
+		"name": "Nekomata Okayu",
+		"avatar_url": "https://yt3.googleusercontent.com/G92yBEhkf9R2mEpayuPvhwlA42tYAPOcNi2r77JeL7ic0ETS_FvTkwkBHjvR6iCqUk7TOlpROQ",
+		"icon": "🍙",
+		"link": {
+			"youtube": "https://www.youtube.com/@NekomataOkayu",
+			"x": "https://twitter.com/nekomataokayu"
+		}
+	},
+	"@InugamiKorone": {
+		"channel_name": "Korone Ch. 戌神ころね",
+		"name": "Inugami Korone",
+		"avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
+		"icon": "🥐",
+		"link": {
+			"youtube": "https://www.youtube.com/@InugamiKorone",
+			"x": "https://twitter.com/inugamikorone"
+		}
+	},
+	"@HoshimachiSuisei": {
+		"channel_name": "Suisei Channel",
+		"name": "Hoshimachi Suisei",
+		"avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
+		"icon": "☄️",
+		"link": {
+			"youtube": "https://www.youtube.com/@HoshimachiSuisei",
+			"x": "https://twitter.com/suisei_hosimati"
+		}
+	},
+	"@usadapekora": {
+		"channel_name": "Pekora Ch. 兎田ぺこら",
+		"name": "Usada Pekora",
+		"avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_n1iH9fDDGm8RHUzoB-XDfnTEwhlgBcP3OLjapDqHYoYVw",
+		"icon": "👯",
+		"link": {
+			"youtube": "https://www.youtube.com/@usadapekora",
+			"x": "https://twitter.com/usadapekora"
+		}
+	},
+	"@ShiranuiFlare": {
+		"channel_name": "Flare Ch. 不知火フレア",
+		"name": "Shiranui Flare",
+		"avatar_url": "https://yt3.googleusercontent.com/d9aIrGtZR0eI4k1Wnev5f_R4llIBsWnQOjkdsqkMycoAxA3g_zz-jyeBl8tEHfbm1iTg0SJj",
+		"icon": "🔥",
+		"link": {
+			"youtube": "https://www.youtube.com/@ShiranuiFlare",
+			"x": "https://twitter.com/shiranuiflare"
+		}
+	},
+	"@ShiroganeNoel": {
+		"channel_name": "Noel Ch. 白銀ノエル",
+		"name": "Shirogane Noel",
+		"avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
+		"icon": "⚔️",
+		"link": {
+			"youtube": "https://www.youtube.com/@ShiroganeNoel",
+			"x": "https://twitter.com/shiroganenoel"
+		}
+	},
+	"@HoushouMarine": {
+		"channel_name": "Marine Ch. 宝鐘マリン",
+		"name": "Houshou Marine",
+		"avatar_url": "https://yt3.googleusercontent.com/Z2QpYUZ4-jKoFR7Ms330gRQzjI2gZ4CB_uVP6f39YysxUe1u8icrtE07ffpRxCtpu9U65MWNDA",
+		"icon": "🏴‍☠️",
+		"link": {
+			"youtube": "https://www.youtube.com/@HoushouMarine",
+			"x": "https://twitter.com/houshoumarine"
+		}
+	},
+	"@AmaneKanata": {
+		"channel_name": "Kanata Ch. Kanata Amane",
+		"name": "Amane Kanata",
+		"avatar_url": "https://yt3.googleusercontent.com/e5wX9w1xSFUjaUdyhFugYZKzDZ_KLTLWBgdtRohHQDu0pshH867pyOv6gLGuqkqy5Ik8bJ9MSZU",
+		"icon": "💫",
+		"link": {
+			"youtube": "https://www.youtube.com/@AmaneKanata",
+			"x": "https://twitter.com/amanekanatach"
+		}
+	},
+	"@TsunomakiWatame": {
+		"channel_name": "Watame Ch. 角巻わため",
+		"name": "Tsunomaki Watame",
+		"avatar_url": "https://yt3.googleusercontent.com/4wLMmSJkzy4vmWfWYkmzn6YO9T__jp1cORNuFXN7YyihwvhGkqXCxNBaklKoXlgdik-Fp0Zu",
+		"icon": "🐏",
+		"link": {
+			"youtube": "https://www.youtube.com/@TsunomakiWatame",
+			"x": "https://twitter.com/tsunomakiwatame"
+		}
+	},
+	"@TokoyamiTowa": {
+		"channel_name": "Towa Ch. 常闇トワ",
+		"name": "Tokoyami Towa",
+		"avatar_url": "https://yt3.googleusercontent.com/meRnxbRUm5yPSwq8Q5QpI5maFApm5QTGQV_LGblQFsoO0yAV4LI-nSZ70GYwMZ_tbfSa_O8MTCU",
+		"icon": "👾",
+		"link": {
+			"youtube": "https://www.youtube.com/@TokoyamiTowa",
+			"x": "https://twitter.com/tokoyamitowa"
+		}
+	},
+	"@HimemoriLuna": {
+		"channel_name": "Luna Ch. 姫森ルーナ",
+		"name": "Himemori Luna",
+		"avatar_url": "https://yt3.googleusercontent.com/CTvZ3dUO8LocQMKbGkjUPysC524gC4asm5roilZmzhpBpWAWpLrhpRv0SpEaJeWm1oVP5v0g",
+		"icon": "🍬",
+		"link": {
+			"youtube": "https://www.youtube.com/@HimemoriLuna",
+			"x": "https://twitter.com/himemoriluna"
+		}
+	},
+	"@YukihanaLamy": {
+		"channel_name": "Lamy Ch. 雪花ラミィ",
+		"name": "Yukihana Lamy",
+		"avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
+		"icon": "☃️",
+		"link": {
+			"youtube": "https://www.youtube.com/@YukihanaLamy",
+			"x": "https://twitter.com/yukihanalamy"
+		}
+	},
+	"@MomosuzuNene": {
+		"channel_name": "Nene Ch.桃鈴ねね",
+		"name": "Momosuzu Nene",
+		"avatar_url": "https://yt3.googleusercontent.com/bMBMxmB1YVDVazU-8KbB6JZqUHn4YzmFiQRWwEUHCeqm5REPW7HHQChC5xE6e36aqqnXgK4a",
+		"icon": "🍑",
+		"link": {
+			"youtube": "https://www.youtube.com/@MomosuzuNene",
+			"x": "https://twitter.com/momosuzunene"
+		}
+	},
+	"@ShishiroBotan": {
+		"channel_name": "Botan Ch.獅白ぼたん",
+		"name": "Shishiro Botan",
+		"avatar_url": "https://yt3.googleusercontent.com/CoKMtt9uQNGPOQP_t0LaCL4N21m0TUNCxzLtKRRTBmpH0xPc0s2cZQ-uUuQkxqerbGkxJkGU",
+		"icon": "♌",
+		"link": {
+			"youtube": "https://www.youtube.com/@ShishiroBotan",
+			"x": "https://twitter.com/shishirobotan"
+		}
+	},
+	"@OmaruPolka": {
+		"channel_name": "Polka Ch. 尾丸ポルカ",
+		"name": "Omaru Polka",
+		"avatar_url": "https://yt3.googleusercontent.com/KE2NpU0fd43SXO-G46SSyPOEgyjHW7FnU_SAly2t5URFS4X-I85ILTAOzhrSZ6_3_jU4d6IjRvY",
+		"icon": "🎪",
+		"link": {
+			"youtube": "https://www.youtube.com/@OmaruPolka",
+			"x": "https://twitter.com/omarupolka"
+		}
+	},
+	"@LaplusDarknesss": {
+		"channel_name": "Laplus ch. ラプラス・ダークネス - holoX -",
+		"name": "La+ Darknesss",
+		"avatar_url": "https://yt3.googleusercontent.com/roGS60A8a_lDbVakIg1JU3u3hbtjHSTilMGHMizuPKh7tuoY2nl46raxuW2f_83IKFGMjL6Z",
+		"icon": "🛸",
+		"link": {
+			"youtube": "https://www.youtube.com/@LaplusDarknesss",
+			"x": "https://twitter.com/LaplusDarknesss"
+		}
+	},
+	"@TakaneLui": {
+		"channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+		"name": "Takane Lui",
+		"avatar_url": "https://yt3.googleusercontent.com/gHSAYjapvrPWUKNofcX6zP8izFYK-CbsiZEpkuNgGpPluu7zyC_3yPu0IbpL2Rh_QjBxPKOjLA",
+		"icon": "🥀",
+		"link": {
+			"youtube": "https://www.youtube.com/@TakaneLui",
+			"x": "https://twitter.com/takanelui"
+		}
+	},
+	"@HakuiKoyori": {
+		"channel_name": "Koyori ch. 博衣こより - holoX -",
+		"name": "Hakui Koyori",
+		"avatar_url": "https://yt3.googleusercontent.com/WO7ItKNmy6tW_NQ82g8c1y74CZSw6GsSdynsE5s2csuEok2fHRrAaGcBV3JJO-2BxEOXXA8lvw",
+		"icon": "🧪",
+		"link": {
+			"youtube": "https://www.youtube.com/@HakuiKoyori",
+			"x": "https://twitter.com/hakuikoyori"
+		}
+	},
+	"@SakamataChloe": {
+		"channel_name": "Chloe ch. 沙花叉クロヱ - holoX -",
+		"name": "Sakamata Chloe",
+		"avatar_url": "https://yt3.googleusercontent.com/_xNtPLKQcQxMTnOr4tAcGz0GEeESsi0bQX9mJEP3fx_50a8GUfUyOG1eyLIld2cCz6GvKABwpQ",
+		"icon": "🎣",
+		"link": {
+			"youtube": "https://www.youtube.com/@SakamataChloe",
+			"x": "https://twitter.com/sakamatachloe"
+		}
+	},
+	"@kazamairoha": {
+		"channel_name": "Iroha ch. 風真いろは - holoX -",
+		"name": "Kazama Iroha",
+		"avatar_url": "https://yt3.googleusercontent.com/IzJcA0QlV4JwWH9yXi7Voa3359fHUB182xd_xxs92xd_3kuw_pa45dKeyQ9hvKl_1OhwbT6M3g",
+		"icon": "🍃",
+		"link": {
+			"youtube": "https://www.youtube.com/@kazamairoha",
+			"x": "https://twitter.com/kazamairohach"
+		}
+	},
+	"@AyundaRisu": {
+		"channel_name": "Ayunda Risu Ch. hololive-ID",
+		"name": "Ayunda Risu",
+		"avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
+		"icon": "🐿️",
+		"link": {
+			"youtube": "https://www.youtube.com/@AyundaRisu",
+			"x": "https://twitter.com/ayunda_risu"
+		}
+	},
+	"@MoonaHoshinova": {
+		"channel_name": "Moona Hoshinova hololive-ID",
+		"name": "Moona Hoshinova",
+		"avatar_url": "https://yt3.googleusercontent.com/w8ilN5YMfG3H6SX162Fkg71BaJdYUUoHOc91cryyfdvto94IpypSjvsLaMA1MyODr2V-w-ox-h8",
+		"icon": "🔮",
+		"link": {
+			"youtube": "https://www.youtube.com/@MoonaHoshinova",
+			"x": "https://twitter.com/moonahoshinova"
+		}
+	},
+	"@AiraniIofifteen": {
+		"channel_name": "Airani Iofifteen Channel hololive-ID",
+		"name": "Airani Iofifteen",
+		"avatar_url": "https://yt3.googleusercontent.com/bF91weVtAIL7Uhnr2HVwtCTLVKK5kVsn4FC_Ze3Gl8rkSsEjDwyey3AbQ1PDfJQ1Oeac5cePeg",
+		"icon": "🎨",
+		"link": {
+			"youtube": "https://www.youtube.com/@AiraniIofifteen",
+			"x": "https://twitter.com/airaniiofifteen"
+		}
+	},
+	"@KureijiOllie": {
+		"channel_name": "Kureiji Ollie Ch. hololive-ID",
+		"name": "Kureiji Ollie",
+		"avatar_url": "https://yt3.googleusercontent.com/Df9IibspJL2Dur37_ebWD6n6F0U8Fvp_1QOu5m-d7qqEAn1fRwsMiar4CvSpHrI3wA6uPw2h",
+		"icon": "🧟‍♀️",
+		"link": {
+			"youtube": "https://www.youtube.com/@KureijiOllie",
+			"x": "https://twitter.com/kureijiollie"
+		}
+	},
+	"@AnyaMelfissa": {
+		"channel_name": "Anya Melfissa Ch. hololive-ID",
+		"name": "Anya Melfissa",
+		"avatar_url": "https://yt3.googleusercontent.com/58uF1apTqtovpieDrBCSF5pUeNU2MA6n34bdj2EBEVnySKm-VvEznGNt2puk4v4tAnA3AYh5JA",
+		"icon": "🍂",
+		"link": {
+			"youtube": "https://www.youtube.com/@AnyaMelfissa",
+			"x": "https://twitter.com/anyamelfissa"
+		}
+	},
+	"@PavoliaReine": {
+		"channel_name": "Pavolia Reine Ch. hololive-ID",
+		"name": "Pavolia Reine",
+		"avatar_url": "https://yt3.googleusercontent.com/3Wp-qrvmEyR4I4CcqrzbERgqjZkKWpptZTV9veusoh9ZeIdBTx7WfUB3uT8bnMp5ApebFERHZ9I",
+		"icon": "🦚",
+		"link": {
+			"youtube": "https://www.youtube.com/@PavoliaReine",
+			"x": "https://twitter.com/pavoliareine"
+		}
+	},
+	"@VestiaZeta": {
+		"channel_name": "Vestia Zeta Ch. hololive-ID",
+		"name": "Vestia Zeta",
+		"avatar_url": "https://yt3.googleusercontent.com/-IdVo-vK7pr0VRjJDdza1-t1Edjce1Rd1R1hon_3SRIzuQ-XVBTWOJj-UfwYPp8y40KM197_y4o",
+		"icon": "📜",
+		"link": {
+			"youtube": "https://www.youtube.com/@VestiaZeta",
+			"x": "https://twitter.com/vestiazeta"
+		}
+	},
+	"@KaelaKovalskia": {
+		"channel_name": "Kaela Kovalskia Ch. hololive-ID",
+		"name": "Kaela Kovalskia",
+		"avatar_url": "https://yt3.googleusercontent.com/i-aqA-4BPUKlCYErdtAkp2_s2AsG_8IB1saxXSSBXevz6bA8ptaIm53-SXB1_KIODP4SI4_l",
+		"icon": "🔨",
+		"link": {
+			"youtube": "https://www.youtube.com/@KaelaKovalskia",
+			"x": "https://twitter.com/kaelakovalskia"
+		}
+	},
+	"@KoboKanaeru": {
+		"channel_name": "Kobo Kanaeru Ch. hololive-ID",
+		"name": "Kobo Kanaeru",
+		"avatar_url": "https://yt3.googleusercontent.com/Zi6DMbqTrk8jpNKnJgbw_NxGnggsKX1omQnPeHxrZTmrVmon7zfmg5Q4XbqsHO9AMidW49zCPw",
+		"icon": "☔",
+		"link": {
+			"youtube": "https://www.youtube.com/@KoboKanaeru",
+			"x": "https://twitter.com/kobokanaeru"
+		}
+	},
+	"@MoriCalliope": {
+		"channel_name": "Mori Calliope Ch. hololive-EN",
+		"name": "Mori Calliope",
+		"avatar_url": "https://yt3.googleusercontent.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV",
+		"icon": "💀",
+		"link": {
+			"youtube": "https://www.youtube.com/@MoriCalliope",
+			"x": "https://twitter.com/moricalliope"
+		}
+	},
+	"@TakanashiKiara": {
+		"channel_name": "Takanashi Kiara Ch. hololive-EN",
+		"name": "Takanashi Kiara",
+		"avatar_url": "https://yt3.googleusercontent.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ",
+		"icon": "🐔",
+		"link": {
+			"youtube": "https://www.youtube.com/@TakanashiKiara",
+			"x": "https://twitter.com/takanashikiara"
+		}
+	},
+	"@NinomaeInanis": {
+		"channel_name": "Ninomae Ina'nis Ch. hololive-EN",
+		"name": "Ninomae Ina'nis",
+		"avatar_url": "https://yt3.googleusercontent.com/f4uYWHJxiGwyXm8NUlm818N1MRnywtgL6wM8JdWqWsKBzI7v1eg8dxDWG7igkWuukUSiufydqPg",
+		"icon": "🐙",
+		"link": {
+			"youtube": "https://www.youtube.com/@NinomaeInanis",
+			"x": "https://twitter.com/ninomaeinanis"
+		}
+	},
+	"@GawrGura": {
+		"channel_name": "Gawr Gura Ch. hololive-EN",
+		"name": "Gawr Gura",
+		"avatar_url": "https://yt3.googleusercontent.com/uMUat6yJL2_Sk6Wg2-yn0fSIqUr_D6aKVNVoWbgeZ8N-edT5QJAusk4PI8nmPgT_DxFDTyl8",
+		"icon": "🔱",
+		"link": {
+			"youtube": "https://www.youtube.com/@GawrGura",
+			"x": "https://twitter.com/gawrgura"
+		}
+	},
+	"@WatsonAmelia": {
+		"channel_name": "Watson Amelia Ch. hololive-EN",
+		"name": "Watson Amelia",
+		"avatar_url": "https://yt3.googleusercontent.com/RZ4Fp3L6_zyq6YA7s5WnH8-22iezMLwdJhtkBgs_EAb06mvMCnF59JKMNu9YPCqb7nhaeXMdPvY",
+		"icon": "🔎",
+		"link": {
+			"youtube": "https://www.youtube.com/@WatsonAmelia",
+			"x": "https://twitter.com/watsonameliaEN"
+		}
+	},
+	"@IRyS": {
+		"channel_name": "IRyS Ch. hololive-EN",
+		"name": "IRyS",
+		"avatar_url": "https://yt3.googleusercontent.com/cDSMiVy3Xa49Ci_YyouVNzfCwVXKRYmOeywWQ_UFKzvAp6tvyeMtXMyzWzQ2u8ft4EENsJKt7A",
+		"icon": "💎",
+		"link": {
+			"youtube": "https://www.youtube.com/@IRyS",
+			"x": "https://twitter.com/irys_en"
+		}
+	},
+	"@CeresFauna": {
+		"channel_name": "Ceres Fauna Ch. hololive-EN",
+		"name": "Ceres Fauna",
+		"avatar_url": "https://yt3.googleusercontent.com/cBtserkb211p6If2OewgWd8oriIKRkfwTcP4_Vdq2YETG5TK9Q02v4cYmnLU03KBAJ0gcDha7oQ",
+		"icon": "🌿",
+		"link": {
+			"youtube": "https://www.youtube.com/@CeresFauna",
+			"x": "https://twitter.com/ceresfauna"
+		}
+	},
+	"@OuroKronii": {
+		"channel_name": "Ouro Kronii Ch. hololive-EN",
+		"name": "Ouro Kronii",
+		"avatar_url": "https://yt3.googleusercontent.com/flg7E5XnFWh-NhGZOydJ2QHMpFdkBGbou0OcYUiYjKVisv8UsY-FiPLrTtexXVUqPmIyDvgC",
+		"icon": "⏳",
+		"link": {
+			"youtube": "https://www.youtube.com/@OuroKronii",
+			"x": "https://twitter.com/ourokronii"
+		}
+	},
+	"@NanashiMumei": {
+		"channel_name": "Nanashi Mumei Ch. hololive-EN",
+		"name": "Nanashi Mumei",
+		"avatar_url": "https://yt3.googleusercontent.com/owZmjfnG_SGVmfkl3eS7Lv47pGvIr2SrS36imh6O8i0H3Wy41fYKD26U7wnyRB627fXoq0aQ0Q",
+		"icon": "🪶",
+		"link": {
+			"youtube": "https://www.youtube.com/@NanashiMumei",
+			"x": "https://twitter.com/nanashimumei_en"
+		}
+	},
+	"@HakosBaelz": {
+		"channel_name": "Hakos Baelz Ch. hololive-EN",
+		"name": "Hakos Baelz",
+		"avatar_url": "https://yt3.googleusercontent.com/9FFCT3cu9FxyLJUUFovpPI7WRj0I7_KuApwkEaLsD0NHVVL2OPTtGn8Qga5YFbeC_47-MoEXrA",
+		"icon": "🎲",
+		"link": {
+			"youtube": "https://www.youtube.com/@HakosBaelz",
+			"x": "https://twitter.com/hakosbaelz"
+		}
+	},
+	"@ShioriNovella": {
+		"channel_name": "Shiori Novella Ch. hololive-EN",
+		"name": "Shiori Novella",
+		"avatar_url": "https://yt3.googleusercontent.com/ZlovVsPyh8NgS37S4dfONiCBySiboGPbT9cYuirb8JM3JhSnqlpJk-8SQUEA7jPfqXpMvjaa",
+		"icon": "👁‍🗨",
+		"link": {
+			"youtube": "https://www.youtube.com/@ShioriNovella",
+			"x": "https://twitter.com/shiorinovella"
+		}
+	},
+	"@KosekiBijou": {
+		"channel_name": "Koseki Bijou Ch. hololive-EN",
+		"name": "Koseki Bijou",
+		"avatar_url": "https://yt3.googleusercontent.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg",
+		"icon": "🗿",
+		"link": {
+			"youtube": "https://www.youtube.com/@KosekiBijou",
+			"x": "https://twitter.com/kosekibijou"
+		}
+	},
+	"@NerissaRavencroft": {
+		"channel_name": "Nerissa Ravencroft Ch. hololive-EN",
+		"name": "Nerissa Ravencroft",
+		"avatar_url": "https://yt3.googleusercontent.com/JDCIBWj11TgjY2Uyba_efZ0n5hzjysMB9GxkvHGkIN_sfFQJR5mx3iVPqgJ96IPcYjZpCLsb",
+		"icon": "🎼",
+		"link": {
+			"youtube": "https://www.youtube.com/@NerissaRavencroft",
+			"x": "https://twitter.com/nerissa_en"
+		}
+	},
+	"@FUWAMOCOch": {
+		"channel_name": "FUWAMOCO Ch. hololive-EN",
+		"name": "FUWAMOCO",
+		"avatar_url": "https://yt3.googleusercontent.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag",
+		"icon": "🐾",
+		"link": {
+			"youtube": "https://www.youtube.com/@FUWAMOCOch",
+			"x": "https://twitter.com/fuwamoco_en"
+		}
+	},
+	"@holoen_erbloodflame": {
+		"channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
+		"name": "Elizabeth Rose Bloodflame",
+		"avatar_url": "https://yt3.googleusercontent.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm",
+		"icon": "💄",
+		"link": {
+			"youtube": "https://www.youtube.com/@holoen_erbloodflame",
+			"x": "https://twitter.com/ERBloodflame"
+		}
+	},
+	"@holoen_gigimurin": {
+		"channel_name": "Gigi Murin Ch. hololive-EN",
+		"name": "Gigi Murin",
+		"avatar_url": "https://yt3.googleusercontent.com/AD2BC7S_QlNSZEHrM-pyRR0C9DOPnfK2OnuFjTK8F842WydS1HDMe6TvhESY9Er96Kt3yu0-fQ",
+		"icon": "👧",
+		"link": {
+			"youtube": "https://www.youtube.com/@holoen_gigimurin",
+			"x": "https://twitter.com/gigimurin"
+		}
+	},
+	"@holoen_ceciliaimmergreen": {
+		"channel_name": "Cecilia Immergreen Ch. hololive-EN",
+		"name": "Cecilia Immergreen",
+		"avatar_url": "https://yt3.googleusercontent.com/LnJxTvrkHQFdFlyMY2HPtXVEwA7KHlUp8rNzBepF1GQfPQjUN9yKGIqSYOD31F22Ow9vSTn9",
+		"icon": "🍵",
+		"link": {
+			"youtube": "https://www.youtube.com/@holoen_ceciliaimmergreen",
+			"x": "https://twitter.com/ceciliaimgreen"
+		}
+	},
+	"@holoen_raorapanthera": {
+		"channel_name": "Raora Panthera Ch. hololive-EN",
+		"name": "Raora Panthera",
+		"avatar_url": "https://yt3.googleusercontent.com/8XQlrbkx1vBSpFZQ_GwV6hxep9EX0xHBH-CmWknoHusxXOKGnfVytVRzpt-36PxJOfumNjiBkAI",
+		"icon": "🐱",
+		"link": {
+			"youtube": "https://www.youtube.com/@holoen_raorapanthera",
+			"x": "https://twitter.com/raorapanthera"
+		}
+	},
+	"@HiodoshiAo": {
+		"channel_name": "Ao Ch. 火威青 ‐ ReGLOSS",
+		"name": "Hiodoshi Ao",
+		"avatar_url": "https://yt3.googleusercontent.com/7axTno1zkKS6RhYH7cZ9FecAkjBmZRYTwDeVoqxDdAx0wGfqatlMY10igRFEa1gpAtq5rqnDJg",
+		"icon": "🖋️",
+		"link": {
+			"youtube": "https://www.youtube.com/@HiodoshiAo",
+			"x": "https://twitter.com/hiodoshiao"
+		}
+	},
+	"@OtonoseKanade": {
+		"channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+		"name": "Otonose Kanade",
+		"avatar_url": "https://yt3.googleusercontent.com/f31Dn0ou0ob-VCRtjZTXed4m22A-bdR9ljFw-0LPa9cPicx7gY3e1vdFkrGxgz0ubHD7vCD_",
+		"icon": "🎹",
+		"link": {
+			"youtube": "https://www.youtube.com/@OtonoseKanade",
+			"x": "https://twitter.com/otonosekanade"
+		}
+	},
+	"@IchijouRirika": {
+		"channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+		"name": "Ichijou Ririka",
+		"avatar_url": "https://yt3.googleusercontent.com/JyixAV--9ZFWIMEwRQFbZhkiQTEvb1ALCdX7bW9BarpyLBjAnbbmc98jymhVT_pZlJpWaDwk",
+		"icon": "🌃",
+		"link": {
+			"youtube": "https://www.youtube.com/@IchijouRirika",
+			"x": "https://twitter.com/ichijouririka"
+		}
+	},
+	"@JuufuuteiRaden": {
+		"channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
+		"name": "Juufuutei Raden",
+		"avatar_url": "https://yt3.googleusercontent.com/45G_tYF-zPHIIC9q8ZCeXSabbQCOtGgNDuX6mJbf7wyeor94YTeqOmDC3OZ3Wl89I4xq8Fn3nQ",
+		"icon": "🐚",
+		"link": {
+			"youtube": "https://www.youtube.com/@JuufuuteiRaden",
+			"x": "https://twitter.com/juufuuteiraden"
+		}
+	},
+	"@TodorokiHajime": {
+		"channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+		"name": "Todoroki Hajime",
+		"avatar_url": "https://yt3.googleusercontent.com/YlQvZ9qXXOriEXQzBl6pkIWpSNwa0P9RrMGm7ezpliTF-7OzxcE0_828GSX-0f2ak-HmshPb5mM",
+		"icon": "🐧",
+		"link": {
+			"youtube": "https://www.youtube.com/@TodorokiHajime",
+			"x": "https://twitter.com/todoroki_hajime"
+		}
+	},
+	"@dooby3d": {
+		"channel_name": "dooby",
+		"name": "dooby3D",
+		"avatar_url": "https://yt3.googleusercontent.com/QBddwfs8nHiD5V-Dm9HcRfmjpCMpIGbRfKmk6vmejPEo8hyePLSo4oHm34TSLVHswqbTNjKZOw",
+		"icon": "✴︎",
+		"link": {
+			"youtube": "https://www.youtube.com/@dooby3d",
+			"x": "https://twitter.com/dooby3D",
+			"twitch": "https://twitch.tv/dooby3d",
+			"discord": "discord.gg/dooby3d"
+		}
+	},
+	"@結城さくな": {
+		"channel_name": "Sakuna Ch. 結城さくな",
+		"name": "Yuuki Sakuna",
+		"avatar_url": "https://yt3.googleusercontent.com/t9CcBvjTjs5D_sLZjtGkcfaTyiZCrx0nyOf7ekj3Fut9gZD76G00x12TK8Jg4czmBWjXcUtP9yE",
+		"icon": "🎀",
+		"link": {
+			"youtube": "https://www.youtube.com/@結城さくな",
+			"x": "https://twitter.com/yuki_sakuna"
+		}
+	},
+	"@mikenekoko": {
+		"channel_name": "みけねこch",
+		"name": "みけねこ",
+		"avatar_url": "https://yt3.googleusercontent.com/xp-Gpx4379mUVBgIIKKyABkJZAEZhBdLIL2JsgTiEpvfN7G0J4NHQ2uI3ycywuNKAlXJOSmsbQ",
+		"icon": "❤",
+		"link": {
+			"youtube": "https://www.youtube.com/@mikenekoko",
+			"x": "https://twitter.com/95rn16"
+		}
+	}
+}

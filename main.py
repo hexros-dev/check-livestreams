@@ -12,6 +12,7 @@ import pytz
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from dotenv import load_dotenv
 import time
+import inflect
 
 load_dotenv()
 
@@ -60,20 +61,11 @@ FILTERS = {
         "label": '<span style="font-weight: bold; background-color: #2F131E; padding: 3px; margin: 4px; border-radius: 30%; color: #87F5FB;">Liar</span>'
     }
 }
-UPCOMING_SUBJECT = "🗓️ Upcoming YouTube Live Streams Notification"
-LIVE_SUBJECT = "🔴 YouTube Live Streams Notification"
+
+UPCOMING_SUBJECT = f"[{ENV_LIST.get(ENV, 'UNKNOWN')}] 🗓️ Upcoming Live Streams Notification"
+LIVE_SUBJECT = f"[{ENV_LIST.get(ENV, 'UNKNOWN')}] 🔴 Live Streams Notification"
 
 SKIP_STREAMS = ["VoWHIX4tp5k", "INFI9FahPY0", "L701Sxy3ohw", "9vaxfw1qFcY"] # video id
-
-UPCOMING_SUBJECT = f"[{ENV_LIST.get(ENV, "UNKNOWN")}] 🗓️ Upcoming Live Streams Notification"
-LIVE_SUBJECT = f"[{ENV_LIST.get(ENV, "UNKNOWN")}] 🔴 Live Streams Notification"
-
-# if ENV == "development":
-#     UPCOMING_SUBJECT = "[TEST] 🗓️ Upcoming Live Streams"
-#     LIVE_SUBJECT = "[TEST] 🔴 Live Streams"
-# elif ENV == "self-host":
-#     UPCOMING_SUBJECT = "[HOST] 🗓️ Upcoming Live Streams Notification"
-#     LIVE_SUBJECT = "[HOST] 🔴 Live Streams Notification"
 
 # ====================== CLASSES ======================
 class Color:
@@ -173,6 +165,27 @@ def sort_obj(obj):
         
     return obj
 
+def pretty_time_delta(delta, lang=inflect.engine()):
+    seconds = delta.total_seconds()
+    if not seconds:
+        return f"0 seconds"
+    seconds = abs(int(seconds))
+    days, seconds = divmod(seconds, 86400)
+    hours, seconds = divmod(seconds, 3600)
+    minutes, seconds = divmod(seconds, 60)
+    _, seconds_decimal = divmod(delta.total_seconds(), 1)
+    milliseconds = '%.2f' % float(seconds_decimal*1000)
+    measures = (
+        (days, "day"),
+        (hours, "hour"),
+        (minutes, "minute"),
+        (seconds, "second"),
+        (milliseconds, "millisecond")
+    )
+    return lang.join(
+        [f"{count} {lang.plural(noun, count)}" for (count, noun) in measures if count]
+    )
+
 # ====================== UTILITY FUNCTIONS ======================
 def send_email_upcoming(live_streams: str) -> None:
     # format time (now)
@@ -204,7 +217,8 @@ def send_email_upcoming(live_streams: str) -> None:
     for channel_id, info in live_streams.items():
         if info["videos"]:
             body += f'''
-                        <li>
+                        <li style="list-style-type: none;">
+                            <img src="{info.get("avatar_url")}=s900-c-k-c0x00ffffff-no-rj" style="width: 60px; height: 60px; border-radius: 50%; margin-right: 4px; display: inline-block;" />
                             <strong style="font-size: 18px;">{info['channel_name']} ({channel_id})</strong> - <a href="{info['channel_url']}"><strong>Visit Channel</strong></a>
                             <ul>
                     '''
@@ -221,7 +235,7 @@ def send_email_upcoming(live_streams: str) -> None:
                     print(f"Channel_id at upcoming: {channel_id}")
                 new_counter = new_counter if exists else new_counter + 1
                 # Get delta time
-                schedule_date = datetime.strptime(video["date"], "%Y/%m/%d %H:%M:%S")
+                schedule_date = datetime.strptime(video.get("date", "4444/04/04 04:04:04"), "%Y/%m/%d %H:%M:%S")
                 delta = schedule_date - now_
                 seconds = delta.total_seconds()
                 
@@ -246,7 +260,7 @@ def send_email_upcoming(live_streams: str) -> None:
                             <hr />
                             <li style="list-style-type: none; {"color:red;" if need_red else ""} {"color: blue; font-weight: bold; font-style: oblique;" if FILTERS["Unarchived"].get("is_true") else ""} ">
                                 <span><strong>🏷️ Title: </strong>{video['title']}</span> {"".join(filters[1].get("label", "") if filters[1].get("is_true", False) else "" for filters in FILTERS.items())} {"" if exists else new_label}
-                                <br /><br />
+                                <br />
                                 <span><strong>🆔 Stream ID: </strong><span style="font-weight: bold; font-family: consolas, 'Times New Roman', tahoma; font-size:x-large;">{video['video_id']}</span></span>
                                 <br />
                                 <span><strong>🖼️ Thumbnail: </strong> <img src="{video['thumbnail']}"/></span>
@@ -320,7 +334,8 @@ def send_email_live(live_streams: str) -> None:
     for channel_id, info in live_streams.items():
         if info['videos']:
             body += f'''
-                        <li>
+                        <li style="list-style-type: none;">
+                            <img src="{info.get("avatar_url")}=s900-c-k-c0x00ffffff-no-rj" style="width: 60px; height: 60px; border-radius: 50%; margin-right: 4px;  display: inline-block;" />
                             <strong style="font-size: 18px;">{info['channel_name']} ({channel_id})</strong> - <a href="{info['channel_url']}"><strong>Visit Channel</strong></a>
                             <ul>
                     '''
@@ -338,13 +353,9 @@ def send_email_live(live_streams: str) -> None:
                     
                     new_counter = new_counter if exists else new_counter + 1
                     
-                # unarchive_counter, is_unarchived = counter(unarchive_counter, video['title'].lower(), UNARCHIVE_FILTERS)
-                # karaoke_counter, is_karaoke = counter(karaoke_counter, video['title'].lower(), KARAOKE_FILTERS)
-                
                 for filters in FILTERS.items():
                     _filter = filters[1].get("filter", [])
                     filters[1]["counter"], filters[1]["is_true"] = count_title_description(filters[1]["counter"], video['title'],video['description'], _filter)
-                    # filters[1]["counter"], filters[1]["is_true"] = counter(filters[1]["counter"], video['description'], _filter, filters[1]["is_true"])
 
                 total_streams += 1
 
@@ -352,7 +363,7 @@ def send_email_live(live_streams: str) -> None:
                             <hr />
                             <li style="list-style-type: none; {'color: red; font-weight: bold; font-style: oblique;' if FILTERS["Unarchived"].get("is_true") else ''}">
                                 <span><strong>🏷️ Title: </strong>{video['title']}</span> {"".join(filters[1].get("label", "") if filters[1].get("is_true", False) else "" for filters in FILTERS.items())} {"" if exists else new_label}
-                                <br /><br />
+                                <br />
                                 <span><strong>🆔 Stream ID: </strong><span style="font-weight: bold; font-family: consolas, 'Times New Roman', tahoma; font-size:x-large;">{video['video_id']}</span></span>
                                 <br />
                                 <span><strong>🖼️ Thumbnail: </strong> <img src="{video['thumbnail']}"/></span>
@@ -406,6 +417,7 @@ def get_info_livestream(channel_url: str):
     }
     upcoming = {}
     live_streams = {}
+    avatar_url = ""
     with yt_dlp.YoutubeDL(yt_opts) as ydl:
         try:
             if not channel_url.endswith('streams'):
@@ -458,14 +470,21 @@ def get_info_livestream(channel_url: str):
                 else:
                     continue
                 count += 1
+            
+            with open("./vtuber.json", "r", encoding="utf-8") as file:
+                raw_data = json.load(file)
+                avatar_url = raw_data.get(channel_id, "@dooby3d").get("avatar_url", "https://yt3.googleusercontent.com/U3KyLvyQRzOrgRHZYEYPQCc1QS2Jx5LnQF_5H6aYDluVM8AOnAZ90U0tSY3aVobgVNlRccieDA")
+                
             upcoming[channel_id] = {
                 "channel_url": channel_url,
                 "channel_name": channel_name,
+                "avatar_url": avatar_url,
                 "videos": videos_upcoming
             }
             live_streams[channel_id] = {
                 "channel_url": channel_url,
                 "channel_name": channel_name,
+                "avatar_url": avatar_url,
                 "videos": videos_live
             }
         except Exception as e:
@@ -498,22 +517,31 @@ def process_channels(channel_urls: list[str], max_workers=5):
     
     return upcoming_all, live_streams_all
 
-if __name__ == '__main__':
+def main():
     os.system('cls' if os.name=='nt' else 'clear')
     print(f"You are in {ENV} environment!")
+    start = datetime.now(pytz.timezone('Asia/Ho_Chi_Minh'))
     channel_urls = get_channel_url("channel_url.txt")
-    upcoming, live_streams = process_channels(channel_urls, 20)
+    upcoming, live_streams = process_channels(channel_urls, 10)
 
     send_email_upcoming(upcoming)
     send_email_live(live_streams)
 
     with open('./live_streams.json', mode='w', encoding='utf-8') as file:
         json.dump(live_streams, file, ensure_ascii=False)
-        print_text("Saved in to live_streams.json", 'S')
+        print_text("Saved in to live_streams.json", "S")
 
     with open('./upcoming.json', mode='w', encoding='utf-8') as file:
         json.dump(upcoming, file, ensure_ascii=False)
-        print_text("Saved in to upcoming.json", 'S')
+        print_text("Saved in to upcoming.json", "S")
 
+    end = datetime.now(pytz.timezone('Asia/Ho_Chi_Minh'))
+    delta = end - start
+    with open("./time-run.txt", "a", encoding="utf-8") as file:
+        file.write(f"{start.strftime('%Y/%m/%d-%H:%M:%S')} ::: Script ran {pretty_time_delta(delta)} ({delta.total_seconds()} seconds)\n")
     print_text(f"Done at {datetime.now(pytz.timezone('Asia/Ho_Chi_Minh')).strftime('%d/%m/%Y %H:%M:%S')}", prefix='S')
     time.sleep(5)
+    
+    
+if __name__ == '__main__':
+    main()
