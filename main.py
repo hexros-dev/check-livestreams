@@ -65,7 +65,13 @@ FILTERS = {
 UPCOMING_SUBJECT = f"[{ENV_LIST.get(ENV, 'UNKNOWN')}] 🗓️ Upcoming Live Streams Notification"
 LIVE_SUBJECT = f"[{ENV_LIST.get(ENV, 'UNKNOWN')}] 🔴 Live Streams Notification"
 
-SKIP_STREAMS = ["VoWHIX4tp5k", "INFI9FahPY0", "L701Sxy3ohw", "9vaxfw1qFcY"] # video id
+SKIP_STREAMS = ["VoWHIX4tp5k", # free chat room Aki
+                "INFI9FahPY0", # free chat room Matsuri
+                "L701Sxy3ohw", # free chat room Polka
+                "9vaxfw1qFcY", # free chat room Lui
+                "W-FLIqp3Auw", 
+                "4KfvhCC41bU"
+                ] # video id
 
 # ====================== CLASSES ======================
 class Color:
@@ -461,6 +467,8 @@ def get_info_livestream(channel_url: str):
                     print_text('Found live stream!', prefix='S')
                     print_text(f"Title: {title}", 'T')
                     video_id = entry.get('id')
+                    if video_id in SKIP_STREAMS:
+                        continue
                     videos_live.append({
                         "video_id": video_id,
                         "title": title,
