@@ -7,7 +7,7 @@
             {
                 "video_id": "pwRYe0ljKoA",
                 "title": "【ウツロマユ - Hollow Cocoon -】約束のホラゲーコラボ【ホロライブ / AZKi / 角巻わため】",
-                "date": "2024/12/11 20:00:00",
+                "date": "2024/12/11 19:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/pwRYe0ljKoA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvgdl2iHUDamBRHLUuFYFjRjQkWg",
                 "description": "見守り羊 @TsunomakiWatame \n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\n本ゲームは有限会社レジスタに確認の上、配信・収益化を行なっております。\n\n┈┈┈..."
             }
@@ -23,15 +23,7 @@
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
         "avatar_url": "https://yt3.googleusercontent.com/tUHzjVx8_3IchEO64NDOJGFzH-uN7b5QHUBiKqnUmwLlY0ZSxmQ1snRse4jUx0gt8dGh2MzILP4",
-        "videos": [
-            {
-                "video_id": "_EUz1S3Juv8",
-                "title": "【UNARCHIVED】UwU~~~♪【ホロライブ/赤井はあと】",
-                "date": "2024/12/11 15:15:00",
-                "thumbnail": "https://i.ytimg.com/vi/_EUz1S3Juv8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCA-ZjnSTyw68V3in44zrTno9s4Ew",
-                "description": null
-            }
-        ]
+        "videos": []
     },
     "@AkiRosenthal": {
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
@@ -269,13 +261,6 @@
                 "description": "#OLLIEginal #Kureiji_Ollie #holoID #hololive #aNNIVERSOLLIE\n\n==========================================\n\nDapatkan Merch Ulang Tahun Ollie di link berikut \nSTART 21:00 WIB (23:00 JST)\nGet your..."
             },
             {
-                "video_id": "WRNfVmcud2I",
-                "title": "【DRAWING STREAM】CHILL DOODLING STREAM, LET'S DRAW!!【Kureiji Ollie】",
-                "date": "2024/12/11 15:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/WRNfVmcud2I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZy9fzGCfbQOqiXN4RvkSDxzclOw",
-                "description": "#OLLIEginal #Kureiji_Ollie #holoID #hololive #HOLL13DAY24\n\n==========================================\n\nDapatkan Merch Ulang Tahun Ollie di link berikut \nSTART 21:00 WIB (23:00 JST)\nGet your..."
-            },
-            {
                 "video_id": "WiSRrNe7364",
                 "title": "【LOST BUT FOUND】I FOUND THE LOST!! ER, LOST THE FOUND??【Kureiji Ollie】",
                 "date": "2024/12/14 09:00:00",
@@ -400,12 +385,6 @@
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
         "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/JDCIBWj11TgjY2Uyba_efZ0n5hzjysMB9GxkvHGkIN_sfFQJR5mx3iVPqgJ96IPcYjZpCLsb",
-        "videos": []
-    },
-    "@NinomaeInanis": {
-        "channel_url": "https://www.youtube.com/@NinomaeInanis",
-        "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
-        "avatar_url": "https://yt3.googleusercontent.com/f4uYWHJxiGwyXm8NUlm818N1MRnywtgL6wM8JdWqWsKBzI7v1eg8dxDWG7igkWuukUSiufydqPg",
         "videos": []
     },
     "@OmaruPolka": {
@@ -566,7 +545,15 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/meRnxbRUm5yPSwq8Q5QpI5maFApm5QTGQV_LGblQFsoO0yAV4LI-nSZ70GYwMZ_tbfSa_O8MTCU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Un3oSnfISNY",
+                "title": "【 #VCRGTA3 】DAY10｜ 餓狼ｰGAROｰ 大型チャレンジしないとまずい。【 常闇トワ / ホロライブ 】",
+                "date": "2024/12/11 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Un3oSnfISNY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAniIP9sruuSBSGA3PSk0gpTL2u7w",
+                "description": "この配信はRockstar Gamesの許諾を得て収益化しております。\nThis Streaming is monetized with permission from Rockstar Games\n\n#常闇トワ #ホロライブ #vcrgta  #vcrgta3..."
+            }
+        ]
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
