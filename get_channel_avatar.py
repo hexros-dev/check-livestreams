@@ -32,4 +32,4 @@ if __name__ == "__main__":
         channel_data["avatar_url"] = avatar_url
     
     with open("./vtuber.json", "w", encoding="utf-8") as file:
-        json.dump(vtuber_data, file, ensure_ascii=False)
+        json.dump(vtuber_data, file, ensure_ascii=False, indent=4)
