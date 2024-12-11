@@ -586,7 +586,7 @@ def process_channels(channel_urls: list[str], max_workers=5):
     return upcoming_all, live_streams_all
 
 def main():
-    os.system('cls' if os.name=='nt' else 'clear')
+    # os.system('cls' if os.name=='nt' else 'clear')
     print(f"You are in {ENV} environment!")
     start = datetime.now(pytz.timezone('Asia/Ho_Chi_Minh'))
     channel_urls = get_channel_url("channel_url.txt")
