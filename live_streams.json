@@ -295,14 +295,7 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/3Wp-qrvmEyR4I4CcqrzbERgqjZkKWpptZTV9veusoh9ZeIdBTx7WfUB3uT8bnMp5ApebFERHZ9I",
-        "videos": [
-            {
-                "video_id": "S2_0ojcTKao",
-                "title": "【Balatro】POKER JUMPSCARE【Pavolia Reine/hololiveID 2nd gen】",
-                "thumbnail": "https://i.ytimg.com/vi/S2_0ojcTKao/hqdefault.jpg?v=6759bbd6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjDUppPizXtXn762eOEbApLIu3UA",
-                "description": "Support me here (overseas): https://streamlabs.com/pavoliareinechhololive-id/tip\nSupport me here (Indonesia): https://sociabuzz.com/pavoliareine/tribe\n\nThis game is being streamed and monetized..."
-            }
-        ]
+        "videos": []
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -435,7 +428,14 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/LnJxTvrkHQFdFlyMY2HPtXVEwA7KHlUp8rNzBepF1GQfPQjUN9yKGIqSYOD31F22Ow9vSTn9",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "2CsTZuZ_v7Y",
+                "title": "【PLANET ZOO】Welcome to my Zoo where people are happy and animals...",
+                "thumbnail": "https://i.ytimg.com/vi/2CsTZuZ_v7Y/hqdefault.jpg?v=6759defa&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdYtvGMNonwTn7Vkh9qkVuYYQIgg",
+                "description": "BIRTHDAY MERCH:\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/ceciliaimmergreen_bd2024\nEN: https://shop.hololivepro.com/en/products/ceciliaimmergreen_bd2024..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
