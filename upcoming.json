@@ -144,7 +144,15 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/JyixAV--9ZFWIMEwRQFbZhkiQTEvb1ALCdX7bW9BarpyLBjAnbbmc98jymhVT_pZlJpWaDwk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "HDU4MIIophE",
+                "title": "【#ホロライブサンタバトル】クリスマス企画🎄ホロライブ バトルロワイアル開幕✨説明会【#一条莉々華 #hololive DEV_IS ReGLOSS】",
+                "date": "2024/12/12 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/HDU4MIIophE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCi8rTGwmDhj1T-kkMuMjCQTbiFRw",
+                "description": "🔽企画配信日時\n12月20日(金) 19:00 予定\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行..."
+            }
+        ]
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
