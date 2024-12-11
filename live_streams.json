@@ -84,12 +84,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/CTvZ3dUO8LocQMKbGkjUPysC524gC4asm5roilZmzhpBpWAWpLrhpRv0SpEaJeWm1oVP5v0g",
         "videos": []
     },
-    "@HiodoshiAo": {
-        "channel_url": "https://www.youtube.com/@HiodoshiAo",
-        "channel_name": "Ao Ch. 火威青 ‐ ReGLOSS",
-        "avatar_url": "https://yt3.googleusercontent.com/7axTno1zkKS6RhYH7cZ9FecAkjBmZRYTwDeVoqxDdAx0wGfqatlMY10igRFEa1gpAtq5rqnDJg",
-        "videos": []
-    },
     "@HoshimachiSuisei": {
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
         "channel_name": "Suisei Channel",
@@ -106,14 +100,7 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/cDSMiVy3Xa49Ci_YyouVNzfCwVXKRYmOeywWQ_UFKzvAp6tvyeMtXMyzWzQ2u8ft4EENsJKt7A",
-        "videos": [
-            {
-                "video_id": "UdGFGAWhGNM",
-                "title": "【Mouthwashing】I like mint flavors :D",
-                "thumbnail": "https://i.ytimg.com/vi/UdGFGAWhGNM/hqdefault.jpg?v=6758a66c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPMHY57Pb3TPsxsQScKFuXKZ0vSQ",
-                "description": "Is this game about the horror of having nice breath? \n\nThis game is being streamed and monetized in after confirming with CRITICAL REFLEX.\nhttps://store.steampowered.com/app/2475490/Mouthwashing/..."
-            }
-        ]
+        "videos": []
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -253,6 +240,12 @@
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
         "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/JDCIBWj11TgjY2Uyba_efZ0n5hzjysMB9GxkvHGkIN_sfFQJR5mx3iVPqgJ96IPcYjZpCLsb",
+        "videos": []
+    },
+    "@NinomaeInanis": {
+        "channel_url": "https://www.youtube.com/@NinomaeInanis",
+        "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/f4uYWHJxiGwyXm8NUlm818N1MRnywtgL6wM8JdWqWsKBzI7v1eg8dxDWG7igkWuukUSiufydqPg",
         "videos": []
     },
     "@OmaruPolka": {
