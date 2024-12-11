@@ -39,7 +39,6 @@ jobs:
                   DISCORD_WEBHOOK_URL: ${{secrets.DISCORD_WEBHOOK_URL}}
               run: |
                   python create_cookies_file.py
-                  cat cookies.txt
                   python load-json.py
                   python main.py
             - name: Pushing to output
