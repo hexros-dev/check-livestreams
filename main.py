@@ -13,14 +13,20 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from dotenv import load_dotenv
 import time
 import inflect
+import logging
+from deep_translator import GoogleTranslator
+import requests
 
 load_dotenv()
-
+from_lang = "auto"
+to_lang = "en"
+translator = GoogleTranslator(source=from_lang, target=to_lang)
 # ====================== CONSTANTS ======================
 SENDER_EMAIL = os.getenv('SENDER_EMAIL')
 SENDER_PWD = os.getenv('SENDER_PWD')
 RECEIVER_EMAIL = os.getenv('RECEIVER_EMAIL')
 ENV = os.getenv('ENV') or 'production'
+DISCORD_WEBHOOK_URL = os.getenv('DISCORD_WEBHOOK_URL')
 LIMIT = 15 # minutes
 
 ENV_LIST = {
@@ -31,9 +37,9 @@ ENV_LIST = {
     "test": "TEST"
 }
 
-UNARCHIVE_FILTERS = ["unarchive", "unarchived", "no archive", "no archived"]
-KARAOKE_FILTERS = ["karaoke", "sing", "singing", "歌枠", "ヒトカラ", "カラ"]
-LIARS_BAR_FILTERS = ["liar's bar", "liars bar", "liar bar"]
+UNARCHIVE_FILTERS = ["unarchive", "unarchived", "no archive", "no archived", "archive", "archived", "rebroadcast"]
+KARAOKE_FILTERS = ["karaoke", "sing", "singing", "歌枠", "ヒトカラ", "カラ", "うたう"]
+# LIARS_BAR_FILTERS = ["liar's bar", "liars bar", "liar bar"]
 
 FILTERS = {
     "Unarchived": {
@@ -51,15 +57,15 @@ FILTERS = {
         "is_true": False,
         "filter": KARAOKE_FILTERS,
         "label": '<span style="font-weight: bold; background-color: burlywood; padding: 1.5px; margin: 4px; border-style: dashed;">Karaoke</span>'
-    },
-    "Liar's Bar": {
-        "counter": 0,
-        "icon": "🤥",
-        "color": "#8B4513",
-        "is_true": False,
-        "filter": LIARS_BAR_FILTERS,
-        "label": '<span style="font-weight: bold; background-color: #2F131E; padding: 3px; margin: 4px; border-radius: 30%; color: #87F5FB;">Liar</span>'
     }
+    # "Liar's Bar": {
+    #     "counter": 0,
+    #     "icon": "🤥",
+    #     "color": "#8B4513",
+    #     "is_true": False,
+    #     "filter": LIARS_BAR_FILTERS,
+    #     "label": '<span style="font-weight: bold; background-color: #2F131E; padding: 3px; margin: 4px; border-radius: 30%; color: #87F5FB;">Liar</span>'
+    # }
 }
 
 UPCOMING_SUBJECT = f"[{ENV_LIST.get(ENV, 'UNKNOWN')}] 🗓️ Upcoming Live Streams Notification"
@@ -69,8 +75,6 @@ SKIP_STREAMS = ["VoWHIX4tp5k", # free chat room Aki
                 "INFI9FahPY0", # free chat room Matsuri
                 "L701Sxy3ohw", # free chat room Polka
                 "9vaxfw1qFcY", # free chat room Lui
-                "W-FLIqp3Auw", 
-                "4KfvhCC41bU"
                 ] # video id
 
 # ====================== CLASSES ======================
@@ -83,6 +87,12 @@ class Color:
     RESET = '\033[0m'
 
 # ====================== HELPER FUNCTIONS ======================
+logging.basicConfig(
+    filename='yt-dlp.log',  # File log
+    level=logging.DEBUG,    # Ghi chi tiết log
+    format='%(asctime)s - %(levelname)s - %(message)s'
+)
+
 def get_clock_emoji(dt: datetime) -> str:
     emojis = ["🕛","🕧","🕐","🕜","🕑","🕝","🕒","🕞","🕓","🕟","🕔","🕠","🕕","🕡","🕖","🕢","🕗","🕣","🕘","🕤","🕙","🕥","🕚","🕦"]
 
@@ -132,8 +142,8 @@ def counter(num: int, text: str = "", filter: list[str] = None, is_true: bool = 
     return num, is_true
 
 def count_title_description(num: int, title: str = "", description: str = "", filter: list[str] = None):
-    f_title = title.lower()
-    f_description = description.lower()
+    f_title = title.lower() if title else ""
+    f_description = description.lower() if description else ""
 
     is_true = False
 
@@ -192,11 +202,26 @@ def pretty_time_delta(delta, lang=inflect.engine()):
         [f"{count} {lang.plural(noun, count)}" for (count, noun) in measures if count]
     )
 
+def send_discord_message(webhook_url, message):
+    headers = {
+        "Content-Type": "application/json"
+    }
+    data = {
+        "content": message
+    }
+    response = requests.post(webhook_url, json=data, headers=headers)
+    if response.status_code == 204:
+        print("Message sent successfully!")
+    else:
+        print(f"Failed to send message. Status code: {response.status_code}, Response: {response.text}")
+
 # ====================== UTILITY FUNCTIONS ======================
 def send_email_upcoming(live_streams: str) -> None:
     # format time (now)
     now_ = datetime.now(pytz.timezone("Asia/Ho_Chi_Minh")).strftime("%Y/%m/%d %H:%M:%S")
-
+    message = f"# 📹 Upcoming Unarchived YouTube Live Streams\n"
+    channel_lst = []
+    is_send = False
     # subject and body when send email
     subject = f"{UPCOMING_SUBJECT} {now_}"
     body = ""
@@ -262,10 +287,19 @@ def send_email_upcoming(live_streams: str) -> None:
                 # Get emoji
                 emoji = get_clock_emoji(schedule_date)
                 total_streams += 1
+                if FILTERS['Unarchived'].get("is_true"):
+                    is_send = True
+                    if channel_id not in channel_lst:
+                        message += f"## {info['channel_name']} ({channel_id})\n---\n"
+                        channel_lst.append(channel_id)
+                    message += f"- Title: {video['title']}\n- Stream ID: [{video['video_id']}](https://www.youtube.com/watch?v={video['video_id']})\n- Scheduled for: {video['date']}\n---\n"
+                
                 body += f'''
                             <hr />
                             <li style="list-style-type: none; {"color:red;" if need_red else ""} {"color: blue; font-weight: bold; font-style: oblique;" if FILTERS["Unarchived"].get("is_true") else ""} ">
                                 <span><strong>🏷️ Title: </strong>{video['title']}</span> {"".join(filters[1].get("label", "") if filters[1].get("is_true", False) else "" for filters in FILTERS.items())} {"" if exists else new_label}
+                                <br />
+                                <span><strong>📝 Translated Title: </strong>{translator.translate(video['title'])}</span>
                                 <br />
                                 <span><strong>🆔 Stream ID: </strong><span style="font-weight: bold; font-family: consolas, 'Times New Roman', tahoma; font-size:x-large;">{video['video_id']}</span></span>
                                 <br />
@@ -300,6 +334,8 @@ def send_email_upcoming(live_streams: str) -> None:
     body = body_first + body
     current_hash = md5(str(live_streams).encode('utf-8')).hexdigest()
     
+    message = f"# `Total {FILTERS['Unarchived'].get('counter')} Unarchived Live Streams.`\n" + message
+    
     is_exists = Path('./prev_hash_upcoming.md5').exists()
     if not is_exists:
         print("create file")
@@ -314,15 +350,23 @@ def send_email_upcoming(live_streams: str) -> None:
             file.seek(0, 0)
             file.write(current_hash)
             send_email(subject, body)
+            if is_send:
+                send_discord_message(DISCORD_WEBHOOK_URL, message=message)
         else:
             if upcoming_counter:
                 send_email(subject, body)
+                if is_send:
+                    send_discord_message(DISCORD_WEBHOOK_URL, message=message)
             else:
                 print_text("Nothing changed!", "S")
 
 def send_email_live(live_streams: str) -> None:
     subject = f"{LIVE_SUBJECT} {datetime.now(pytz.timezone('Asia/Ho_Chi_Minh')).strftime('%Y/%m/%d %H:%M:%S')}"
     body = ""
+    
+    message = f"# 🔴 Unarchived YouTube Live Streams\n"
+    channel_lst = []
+    is_send = False
     
     new_label = '<span style="font-weight: bold; background-color: greenyellow; padding: 3px; margin: 4px; border-radius: 30%;">New!</span>'
     
@@ -365,10 +409,19 @@ def send_email_live(live_streams: str) -> None:
 
                 total_streams += 1
 
+                if FILTERS["Unarchived"].get("is_true"):
+                    is_send = True
+                    if channel_id not in channel_lst:
+                        message += f"## {info['channel_name']} ({channel_id})\n---\n"
+                        channel_lst.append(channel_id)
+                    message += f"- Title: {video['title']}\n- Stream ID: [{video['video_id']}](https://www.youtube.com/watch?v={video['video_id']})\n---\n"
+
                 body += f'''
                             <hr />
                             <li style="list-style-type: none; {'color: red; font-weight: bold; font-style: oblique;' if FILTERS["Unarchived"].get("is_true") else ''}">
                                 <span><strong>🏷️ Title: </strong>{video['title']}</span> {"".join(filters[1].get("label", "") if filters[1].get("is_true", False) else "" for filters in FILTERS.items())} {"" if exists else new_label}
+                                <br />
+                                <span><strong>📝 Translated Title: </strong>{translator.translate(video['title'])}</span>
                                 <br />
                                 <span><strong>🆔 Stream ID: </strong><span style="font-weight: bold; font-family: consolas, 'Times New Roman', tahoma; font-size:x-large;">{video['video_id']}</span></span>
                                 <br />
@@ -398,6 +451,8 @@ def send_email_live(live_streams: str) -> None:
     body = body_first + body
     current_hash = md5(str(live_streams).encode('utf-8')).hexdigest()
     
+    message = f"# `Total {FILTERS['Unarchived'].get('counter')} Unarchived Live Streams.`\n" + message
+    
     is_exists = Path('./prev_hash_live.md5').exists()
     if not is_exists:
         print("create file")
@@ -412,14 +467,19 @@ def send_email_live(live_streams: str) -> None:
             file.seek(0, 0)
             file.write(current_hash)
             send_email(subject, body)
+            if is_send:
+                send_discord_message(DISCORD_WEBHOOK_URL, message=message)
         else:
             print_text("Nothing changed!", "S")
 
 def get_info_livestream(channel_url: str):
     yt_opts = {
-        'extract_flat': True,
-        'skip_download': True,
-        'quiet': True
+        "extract_flat": True,
+        "skip_download": True,
+        "quiet": True,
+        "cookiefile": Path("cookies.txt").absolute(),
+        "verbose": True,
+        "logger": logging.getLogger(),
     }
     upcoming = {}
     live_streams = {}
@@ -454,7 +514,7 @@ def get_info_livestream(channel_url: str):
                     scheduled_date = datetime.fromtimestamp(scheduled_time)
                     current = datetime.now()
                     delta = scheduled_date - current
-                    if delta.days > 50:
+                    if delta.days > 10:
                         continue
                     videos_upcoming.append({
                         "video_id": video_id,
@@ -536,11 +596,11 @@ def main():
     send_email_live(live_streams)
 
     with open('./live_streams.json', mode='w', encoding='utf-8') as file:
-        json.dump(live_streams, file, ensure_ascii=False)
+        json.dump(live_streams, file, ensure_ascii=False, indent=4)
         print_text("Saved in to live_streams.json", "S")
 
     with open('./upcoming.json', mode='w', encoding='utf-8') as file:
-        json.dump(upcoming, file, ensure_ascii=False)
+        json.dump(upcoming, file, ensure_ascii=False, indent=4)
         print_text("Saved in to upcoming.json", "S")
 
     end = datetime.now(pytz.timezone('Asia/Ho_Chi_Minh'))
