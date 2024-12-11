@@ -259,6 +259,20 @@
         "avatar_url": "https://yt3.googleusercontent.com/roGS60A8a_lDbVakIg1JU3u3hbtjHSTilMGHMizuPKh7tuoY2nl46raxuW2f_83IKFGMjL6Z",
         "videos": []
     },
+    "@MizumiyaSu": {
+        "channel_url": "https://www.youtube.com/@MizumiyaSu",
+        "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+        "avatar_url": "https://yt3.googleusercontent.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw",
+        "videos": [
+            {
+                "video_id": "TbREPeoJiII",
+                "title": "【メンバーシップ開設】雑談＆説明会！【FLOW GLOW 水宮枢】#hololiveDEV_IS",
+                "date": "2024/12/12 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/TbREPeoJiII/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNcz7BjIdnfFZsRYvGxRmIvld24A",
+                "description": "メンバーシップがはじまったらここに貼るよ⬇️\nI'll post the URL here when membership starts!\n\n▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸◂┄▹◃\n\n💬X ここでも..."
+            }
+        ]
+    },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
@@ -372,7 +386,15 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "zm3H-J1kjAQ",
+                "title": "【#生スバル】 先行プレイだ～！漢字でGO! 集英社マンガ祭 サムネは仮【ホロライブ/大空スバル】",
+                "date": "2024/12/12 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/zm3H-J1kjAQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRhR7CDp15cm5wFdmz3YATOSpJGA",
+                "description": "本ゲームは Gotcha Gotcha Games の確認を得た上で配信・収益化を行なっております。\n🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントす..."
+            }
+        ]
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",

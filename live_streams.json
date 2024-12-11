@@ -209,6 +209,12 @@
             }
         ]
     },
+    "@MizumiyaSu": {
+        "channel_url": "https://www.youtube.com/@MizumiyaSu",
+        "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+        "avatar_url": "https://yt3.googleusercontent.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw",
+        "videos": []
+    },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
@@ -365,14 +371,7 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": [
-            {
-                "video_id": "0EzVbl6drV0",
-                "title": "#01【ネタバレが激しすぎるRPG2】大人気ネタバレシリーズの2作目！12月14日の発売前に先行プレイしちゃいますッ🎮✨【白銀ノエル/ホロライブ】※ネタバレ注意！",
-                "thumbnail": "https://i.ytimg.com/vi/0EzVbl6drV0/hqdefault.jpg?v=6758daf7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8BQ4LULKgUT9_YIBF4r7ZbOqqcQ",
-                "description": "クラウドファンディングで先行プレイ権を頂いたので早速プレイ👀✨\n※SNSに「核心をつくネタバレ」をアップすることは控えてください！..."
-            }
-        ]
+        "videos": []
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
