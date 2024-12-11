@@ -437,7 +437,15 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/flg7E5XnFWh-NhGZOydJ2QHMpFdkBGbou0OcYUiYjKVisv8UsY-FiPLrTtexXVUqPmIyDvgC",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "6o5QWUmMstw",
+                "title": "【Resident Evil Village】Please | #6",
+                "date": "2024/12/12 09:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/6o5QWUmMstw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBgG_M3n4cmDCcC_YYbiHoHIfRHlQ",
+                "description": "Resident Evil Village\n©CAPCOM CO., LTD. ALL RIGHTS RESERVED.\n\n[Twitter]\nhttps://twitter.com/ourokronii\n\n[Thumbnail Art]\nhttps://x.com/elyoellim\n\n---------------------------------------------------..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
@@ -597,12 +605,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/QBddwfs8nHiD5V-Dm9HcRfmjpCMpIGbRfKmk6vmejPEo8hyePLSo4oHm34TSLVHswqbTNjKZOw",
         "videos": []
     },
-    "@holoen_ceciliaimmergreen": {
-        "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
-        "channel_name": "Cecilia Immergreen Ch. hololive-EN",
-        "avatar_url": "https://yt3.googleusercontent.com/LnJxTvrkHQFdFlyMY2HPtXVEwA7KHlUp8rNzBepF1GQfPQjUN9yKGIqSYOD31F22Ow9vSTn9",
-        "videos": []
-    },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -619,7 +621,15 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/8XQlrbkx1vBSpFZQ_GwV6hxep9EX0xHBH-CmWknoHusxXOKGnfVytVRzpt-36PxJOfumNjiBkAI",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "m6RACho9iZ0",
+                "title": "【Monster Hunter World】RAAAAAAAAAAAAAAAAAAAAAOOOOOOOOOOOOOOOOOOO 😾",
+                "date": "2024/12/11 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/m6RACho9iZ0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhgtJEcBMrC0UnbP4uXwbJ7TXs-w",
+                "description": "『 X formely Twitter 』\nhttps://x.com/raorapanthera\n\n\nThis video and livestream are being streamed with permission and under license by CAPCOM CO., LTD.\nMonster Hunter: World\n©CAPCOM CO.,..."
+            }
+        ]
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
