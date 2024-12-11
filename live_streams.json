@@ -214,7 +214,14 @@
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
         "channel_name": "Laplus ch. ラプラス・ダークネス - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/roGS60A8a_lDbVakIg1JU3u3hbtjHSTilMGHMizuPKh7tuoY2nl46raxuW2f_83IKFGMjL6Z",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "4iKqNhqFOKM",
+                "title": "【#vcrgta3 】#4 最後のVCRGTAかもだから今日は一味違う❕👮⟡【ラプラス・ダークネス/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/4iKqNhqFOKM/hqdefault.jpg?v=6759a0fc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCX9jTVJWW8MJU75tJ2w3vNt8xyOg",
+                "description": "サムネ：https://x.com/nemutamuu/status/1861676715329888424?s=46\n\nこの配信はRockstar Gamesの許諾を得て収益化しております。\n﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏..."
+            }
+        ]
     },
     "@MizumiyaSu": {
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
@@ -468,14 +475,7 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/-IdVo-vK7pr0VRjJDdza1-t1Edjce1Rd1R1hon_3SRIzuQ-XVBTWOJj-UfwYPp8y40KM197_y4o",
-        "videos": [
-            {
-                "video_id": "CZgRA0UURxs",
-                "title": "【Mouthwashing】Brush your teeth....? What's this about mouthwashing?",
-                "thumbnail": "https://i.ytimg.com/vi/CZgRA0UURxs/hqdefault.jpg?v=6759722d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDae1ywSLSyz2_9mvQZklSZDNGdsA",
-                "description": "#hololive #holoid #vestiazeta  #vtuber #mouthwashing\n\nThis game is being streamed and monetized in after confirming with CRITICAL REFLEX.\nhttps://store.steampowered.com/app/2475490/Mouthwashing/..."
-            }
-        ]
+        "videos": []
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
