@@ -23,7 +23,15 @@
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
         "avatar_url": "https://yt3.googleusercontent.com/tUHzjVx8_3IchEO64NDOJGFzH-uN7b5QHUBiKqnUmwLlY0ZSxmQ1snRse4jUx0gt8dGh2MzILP4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "JR9o1k0K1kA",
+                "title": "【 帰ってきた 魔界村 】負けられない戦いのはじまりよ！！！【ホロライブ/赤井はあと】",
+                "date": "2024/12/11 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/JR9o1k0K1kA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDSCmTm7PsfRcVHG_jr_f444-tS8A",
+                "description": "#はあちゃまなう 感想ツイートしてねっ！ゼッタイ！！！\n\nこの動画およびライブは\n株式会社カプコンの利用許諾を受けて配信しています\n帰って..."
+            }
+        ]
     },
     "@AkiRosenthal": {
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
@@ -589,12 +597,6 @@
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
         "channel_name": "Choco Ch. 癒月ちょこ",
         "avatar_url": "https://yt3.googleusercontent.com/eB_qZXKL-jDhGyEstj9BvLL0qO_tHEMaIpkfp8M-qXYweZOpDm7uZgBwbWfxwAT7uKh_5tEj",
-        "videos": []
-    },
-    "@dooby3d": {
-        "channel_url": "https://www.youtube.com/@dooby3d",
-        "channel_name": "dooby",
-        "avatar_url": "https://yt3.googleusercontent.com/QBddwfs8nHiD5V-Dm9HcRfmjpCMpIGbRfKmk6vmejPEo8hyePLSo4oHm34TSLVHswqbTNjKZOw",
         "videos": []
     },
     "@holoen_ceciliaimmergreen": {
