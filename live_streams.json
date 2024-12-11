@@ -347,7 +347,14 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/gHSAYjapvrPWUKNofcX6zP8izFYK-CbsiZEpkuNgGpPluu7zyC_3yPu0IbpL2Rh_QjBxPKOjLA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "rEy3cE3Cz_4",
+                "title": "【 HoloCure 】ステージ解放していきたいいいいいいいいいいいい！【鷹嶺ルイ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/rEy3cE3Cz_4/hqdefault.jpg?v=675961c9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAt04sAQkQMWgL9ZxVCBOrGAu9PIg",
+                "description": "キーマウでやるのは鬼畜ゲーなの！？\n\nサムネイラスト：神田もみじ様(@towa_momiji)\n\n✦••┈┈┈••┈┈┈••✦••┈┈┈••┈┈┈••✦..."
+            }
+        ]
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
@@ -365,7 +372,14 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/meRnxbRUm5yPSwq8Q5QpI5maFApm5QTGQV_LGblQFsoO0yAV4LI-nSZ70GYwMZ_tbfSa_O8MTCU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Un3oSnfISNY",
+                "title": "【 #VCRGTA3 】DAY10｜ 餓狼ｰGAROｰ 大型チャレンジしないとまずい。【 常闇トワ / ホロライブ 】",
+                "thumbnail": "https://i.ytimg.com/vi/Un3oSnfISNY/hqdefault.jpg?v=67594d0a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAniIP9sruuSBSGA3PSk0gpTL2u7w",
+                "description": "この配信はRockstar Gamesの許諾を得て収益化しております。\nThis Streaming is monetized with permission from Rockstar Games\n\n#常闇トワ #ホロライブ #vcrgta  #vcrgta3..."
+            }
+        ]
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
@@ -395,6 +409,12 @@
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
         "channel_name": "Choco Ch. 癒月ちょこ",
         "avatar_url": "https://yt3.googleusercontent.com/eB_qZXKL-jDhGyEstj9BvLL0qO_tHEMaIpkfp8M-qXYweZOpDm7uZgBwbWfxwAT7uKh_5tEj",
+        "videos": []
+    },
+    "@dooby3d": {
+        "channel_url": "https://www.youtube.com/@dooby3d",
+        "channel_name": "dooby",
+        "avatar_url": "https://yt3.googleusercontent.com/QBddwfs8nHiD5V-Dm9HcRfmjpCMpIGbRfKmk6vmejPEo8hyePLSo4oHm34TSLVHswqbTNjKZOw",
         "videos": []
     },
     "@holoen_ceciliaimmergreen": {
