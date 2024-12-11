@@ -166,6 +166,13 @@
         "avatar_url": "https://yt3.googleusercontent.com/qufYdKqJ9VaUNhkP3_Wv0RranzAiwtvtOoxI_NRNMP6pCFa3lMnUKXRPd7EL4x-5OlDFp1BSpFE",
         "videos": [
             {
+                "video_id": "E33oRYezjfI",
+                "title": "【初メン限配信】お酒よわよわなので、まずはメン限で♡ 【ホロライブ DEV_IS 響咲リオナ】",
+                "date": "2024/12/13 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/E33oRYezjfI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDm9hmPbozRKrlVGANwpP9TjBuSsg",
+                "description": "寝ちゃったらごめん・・・・（笑）♡\n\n\nhololive DEV_IS からデビューした\nFLOW GLOWのリーダー響咲リオナです！🎤👑\nやりたいように、私は私らしく生..."
+            },
+            {
                 "video_id": "Q4b-Q3LsdH8",
                 "title": "【マリオカート8DX】リスナーのみなさん、強そう・・・(´;ω;｀)【ホロライブ DEV_IS 響咲リオナ】",
                 "date": "2024/12/12 20:00:00",
@@ -601,7 +608,15 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/LnJxTvrkHQFdFlyMY2HPtXVEwA7KHlUp8rNzBepF1GQfPQjUN9yKGIqSYOD31F22Ow9vSTn9",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "2CsTZuZ_v7Y",
+                "title": "【PLANET ZOO】Welcome to my Zoo where people are happy and animals...",
+                "date": "2024/12/12 03:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/2CsTZuZ_v7Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdYtvGMNonwTn7Vkh9qkVuYYQIgg",
+                "description": "BIRTHDAY MERCH:\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/ceciliaimmergreen_bd2024\nEN: https://shop.hololivepro.com/en/products/ceciliaimmergreen_bd2024..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
