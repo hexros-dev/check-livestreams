@@ -9,7 +9,14 @@
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
         "channel_name": "Airani Iofifteen Channel hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/bF91weVtAIL7Uhnr2HVwtCTLVKK5kVsn4FC_Ze3Gl8rkSsEjDwyey3AbQ1PDfJQ1Oeac5cePeg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "5g_lF7fZ2g0",
+                "title": "【Honor of Kings】Coba-coba Hero Baru 🥺👉👈【 iofi / hololiveID 】",
+                "thumbnail": "https://i.ytimg.com/vi/5g_lF7fZ2g0/hqdefault.jpg?v=675a7e08&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDuIbO8Gd5ok6ZvwDAms39l7_OOyA",
+                "description": "#ioLyfe #Airani_Iofifteen #hololive #holoID #HonorofKings #HonorofKingsIndonesia #CobaAjaDulu #MOBAFOREVERYONE\n\nThis video and livestream are being streamed and monetized with permission and..."
+            }
+        ]
     },
     "@AkaiHaato": {
         "channel_url": "https://www.youtube.com/@AkaiHaato",
@@ -21,7 +28,14 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/Mb9fXGVoUZWSKCLz-W0NE_gMihhpESzfEFQ-1C9xZ3FjW6Az3979WPlZ9ga4l8cDPak6fpUQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "bTjWDabqDk8",
+                "title": "【VCR GTA 3】最終日！レッツエンジョイ警察！！【アキロゼ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/bTjWDabqDk8/hqdefault.jpg?v=675a1cf0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBpKk2uXJXuGip093hfuH9vQwJVzg",
+                "description": "いったいどうなっちゃうのー！？いざ突撃！！！！！\nコメントは優しい口調で。指示、ネタバレ、鳩行為基本なしでお願いします！\n不快な場合BAN..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -156,6 +170,12 @@
         "avatar_url": "https://yt3.googleusercontent.com/CCOEFxhq858A_1QNu0VF9Y5vvXm9V4l7klSdL4FfMsOAAnVxoiAcxAlQO9RV0lCib6Fi_EkVrA",
         "videos": []
     },
+    "@KosekiBijou": {
+        "channel_url": "https://www.youtube.com/@KosekiBijou",
+        "channel_name": "Koseki Bijou Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg",
+        "videos": []
+    },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
@@ -166,6 +186,12 @@
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
         "channel_name": "Laplus ch. ラプラス・ダークネス - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/roGS60A8a_lDbVakIg1JU3u3hbtjHSTilMGHMizuPKh7tuoY2nl46raxuW2f_83IKFGMjL6Z",
+        "videos": []
+    },
+    "@MizumiyaSu": {
+        "channel_url": "https://www.youtube.com/@MizumiyaSu",
+        "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+        "avatar_url": "https://yt3.googleusercontent.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw",
         "videos": []
     },
     "@MomosuzuNene": {
