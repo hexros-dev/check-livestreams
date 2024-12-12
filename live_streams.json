@@ -224,6 +224,12 @@
         "avatar_url": "https://yt3.googleusercontent.com/XDGhKwPZcT16Ppg2gQmLHEIYRhw9sY4rqG0HWbeCH68LHkhlVQrrFgxd5hWUuMb2nLfDOhu6",
         "videos": []
     },
+    "@NanashiMumei": {
+        "channel_url": "https://www.youtube.com/@NanashiMumei",
+        "channel_name": "Nanashi Mumei Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/owZmjfnG_SGVmfkl3eS7Lv47pGvIr2SrS36imh6O8i0H3Wy41fYKD26U7wnyRB627fXoq0aQ0Q",
+        "videos": []
+    },
     "@NatsuiroMatsuri": {
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
@@ -270,14 +276,7 @@
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/f31Dn0ou0ob-VCRtjZTXed4m22A-bdR9ljFw-0LPa9cPicx7gY3e1vdFkrGxgz0ubHD7vCD_",
-        "videos": [
-            {
-                "video_id": "2fH0R8Gc2qs",
-                "title": "【 Minecraft 】そういやどうなった？【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-                "thumbnail": "https://i.ytimg.com/vi/2fH0R8Gc2qs/hqdefault.jpg?v=675a45d9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-_7_MbS1LUuNqWKg26N0sRw7E9w",
-                "description": "▽ 最重要！！歌ってみた9作目公開中！ ▽\n「セプテンバーさん」 - 音乃瀬奏（cover）\nhttps://youtu.be/OHQ-npgd2Ok\n\n୨୧♪:*:･･:*:･♪･:*:･･:*:･♪:♪..."
-            }
-        ]
+        "videos": []
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
@@ -313,7 +312,14 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/gxXHmXJq_kkZ0bvTmz7R1deyOAV44zZr2keaF0ojSq7MeiOGLSzFTCoYgYR4PGDWTCoLR7eK",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "6mKZkq39wEU",
+                "title": "【 漢字でGO! 集英社マンガ祭 】先行プレイ！人気マンガの台詞の漢字を読めるのか―――⁉【ホロライブ/さくらみこ】",
+                "thumbnail": "https://i.ytimg.com/vi/6mKZkq39wEU/hqdefault.jpg?v=6759bf0c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0hympkpRg5SPG_LBObzSqRlaHTg",
+                "description": "集英社さんのマンガの難解漢字を読むぜ！！！！！！！！！！！！\n\n🌸 ￤最新情報\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣..."
+            }
+        ]
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
@@ -337,7 +343,14 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "499fIIn4cEY",
+                "title": "#5【#ミリしらパワプロ杯】初めてのパワプロ⚾春の甲子園は確定太郎！スカウトでつよつよ投手＆内野きてくれ～TT【白銀ノエル/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/499fIIn4cEY/hqdefault.jpg?v=6759f31e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDyRo3WPFN0HT23DD_NuQVBcYVkXg",
+                "description": "🎅生誕グッズ販売中！→ https://shop.hololivepro.com/products/shiroganenoel_bd2024\n\n[NEW]秋色のさんぽ道ボイス販売中🍂→ https://shop.hololivepro.com/products/hololive_asm..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -379,7 +392,14 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/4wLMmSJkzy4vmWfWYkmzn6YO9T__jp1cORNuFXN7YyihwvhGkqXCxNBaklKoXlgdik-Fp0Zu",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "MEag6z71gjA",
+                "title": "【 nosh ナッシュ 】一緒に糖質ランキングを当てよう！当たったらわためぇにご褒美が！【角巻わため/ホロライブ４期生】",
+                "thumbnail": "https://i.ytimg.com/vi/MEag6z71gjA/hqdefault.jpg?v=67588299&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBpvX1pOv5r3iCuH25DDKEAjibl3w",
+                "description": "提供：nosh-ナッシュ\n\n【⇩nosh×Watame Ch. 角巻わための限定コラボクーポンはこちら⇩】\nhttps://nosh.jp/influencer-promotion?key=TsunomakiWatame&utm_source=Youtuber&utm_m..."
+            }
+        ]
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",

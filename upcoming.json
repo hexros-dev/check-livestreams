@@ -120,7 +120,15 @@
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
         "channel_name": "Ao Ch. 火威青 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/7axTno1zkKS6RhYH7cZ9FecAkjBmZRYTwDeVoqxDdAx0wGfqatlMY10igRFEa1gpAtq5rqnDJg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "iPmbMNAlOUo",
+                "title": "【#VCRGTA 3】最終曲_僕が大女優さ！【火威青 】#hololiveDEV_IS #ReGLOSS",
+                "date": "2024/12/12 18:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/iPmbMNAlOUo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJTPUdiVHtwOAEPHEjbspn6QN4UQ",
+                "description": "可愛い女の子かと思った？じゃじゃーん青くんでした！\n\n僕の名前は火威青（ひおどしあお）\n初めて見た舞台で「女優」に憧れ、ロスサントスに..."
+            }
+        ]
     },
     "@HoshimachiSuisei": {
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
@@ -166,15 +174,7 @@
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": [
-            {
-                "video_id": "tf3zEPs3qw4",
-                "title": "なんかやるんだよーん",
-                "date": "2024/12/12 21:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/tf3zEPs3qw4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFqGoBIa9EWxuVy-1Nv5reJlYt7w",
-                "description": "Play Game :  (  )\nタグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nころねTwitter▶https://twitter.com/inugamikorone\n\n-----------..."
-            }
-        ]
+        "videos": []
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
@@ -380,6 +380,12 @@
             }
         ]
     },
+    "@NanashiMumei": {
+        "channel_url": "https://www.youtube.com/@NanashiMumei",
+        "channel_name": "Nanashi Mumei Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/owZmjfnG_SGVmfkl3eS7Lv47pGvIr2SrS36imh6O8i0H3Wy41fYKD26U7wnyRB627fXoq0aQ0Q",
+        "videos": []
+    },
     "@NatsuiroMatsuri": {
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
@@ -504,13 +510,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/gxXHmXJq_kkZ0bvTmz7R1deyOAV44zZr2keaF0ojSq7MeiOGLSzFTCoYgYR4PGDWTCoLR7eK",
         "videos": [
             {
-                "video_id": "6mKZkq39wEU",
-                "title": "【 漢字でGO! 集英社マンガ祭 】先行プレイ！人気マンガの台詞の漢字を読めるのか―――⁉【ホロライブ/さくらみこ】",
-                "date": "2024/12/12 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/6mKZkq39wEU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0hympkpRg5SPG_LBObzSqRlaHTg",
-                "description": "集英社さんのマンガの難解漢字を読むぜ！！！！！！！！！！！！\n\n🌸 ￤最新情報\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣..."
-            },
-            {
                 "video_id": "ZzPnpg2f9Ws",
                 "title": "【同時視聴】イナズマイレブン フットボールフロンティア編をみんなで観るにぇ！！！⚽⚡【ホロライブ/さくらみこ】",
                 "date": "2024/12/13 17:00:00",
@@ -541,15 +540,7 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": [
-            {
-                "video_id": "499fIIn4cEY",
-                "title": "#5【#ミリしらパワプロ杯】初めてのパワプロ⚾春の甲子園は確定太郎！スカウトでつよつよ投手＆内野きてくれ～TT【白銀ノエル/ホロライブ】",
-                "date": "2024/12/12 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/499fIIn4cEY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDyRo3WPFN0HT23DD_NuQVBcYVkXg",
-                "description": "🎅生誕グッズ販売中！→ https://shop.hololivepro.com/products/shiroganenoel_bd2024\n\n[NEW]秋色のさんぽ道ボイス販売中🍂→ https://shop.hololivepro.com/products/hololive_asm..."
-            }
-        ]
+        "videos": []
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -599,15 +590,7 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/4wLMmSJkzy4vmWfWYkmzn6YO9T__jp1cORNuFXN7YyihwvhGkqXCxNBaklKoXlgdik-Fp0Zu",
-        "videos": [
-            {
-                "video_id": "MEag6z71gjA",
-                "title": "【 nosh ナッシュ 】一緒に糖質ランキングを当てよう！当たったらわためぇにご褒美が！【角巻わため/ホロライブ４期生】",
-                "date": "2024/12/12 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/MEag6z71gjA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBpvX1pOv5r3iCuH25DDKEAjibl3w",
-                "description": "提供：nosh-ナッシュ\n\n【⇩nosh×Watame Ch. 角巻わための限定コラボクーポンはこちら⇩】\nhttps://nosh.jp/influencer-promotion?key=TsunomakiWatame&utm_source=Youtuber&utm_m..."
-            }
-        ]
+        "videos": []
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -669,7 +652,15 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/8XQlrbkx1vBSpFZQ_GwV6hxep9EX0xHBH-CmWknoHusxXOKGnfVytVRzpt-36PxJOfumNjiBkAI",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "jdrO1QbbCy0",
+                "title": "【HANDCAM STREAM】 BUILDING HOLOLIVE NANOBLOCKS FOR THE FIRST TIME!!!",
+                "date": "2024/12/13 09:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/jdrO1QbbCy0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVc9gW_b9oSDIa8lgQHc56NyD39Q",
+                "description": "『 X formely Twitter 』\nhttps://x.com/raorapanthera\n\n『 Hashtags 』\n╰┈➤ Live  #CiaoRaora\n╰┈➤ Fanarts  #RaorArt\n╰┈➤ Clips  #RaraWara\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
+            }
+        ]
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
