@@ -15,3 +15,5 @@ Add to `ENV` or `GitHub Actions Secrets`:
 - `SENDER_EMAIL`
 - `SENDER_PWD`
 - `RECEIVER_EMAIL`
+- `COOKIES_CONTENT`
+- `DISCORD_WEBHOOK_URL`
