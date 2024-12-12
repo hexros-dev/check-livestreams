@@ -63,27 +63,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/cBtserkb211p6If2OewgWd8oriIKRkfwTcP4_Vdq2YETG5TK9Q02v4cYmnLU03KBAJ0gcDha7oQ",
         "videos": []
     },
-    "@FUWAMOCOch": {
-        "channel_url": "https://www.youtube.com/@FUWAMOCOch",
-        "channel_name": "FUWAMOCO Ch. hololive-EN",
-        "avatar_url": "https://yt3.googleusercontent.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag",
-        "videos": [
-            {
-                "video_id": "rqZlnmqOBFA",
-                "title": "【WOBBLEDOGS】raise and customize our own pet dogs down to their gut biome 🐾【FUWAMOCO】",
-                "date": "2024/12/14 09:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/rqZlnmqOBFA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCGfKYcxmcD3nyJw93XptF1jIHzsg",
-                "description": "what the heck will this game be, the options are limitless ✨\nlovely illustration by @BigguguGugu 💓\n\nThis game is being streamed and monetized after confirming with Secret Mode.\n\n⸜❤︎⸝..."
-            },
-            {
-                "video_id": "yVCzxBigdyU",
-                "title": "【FUWAMOCO ROCK N' RAWR PARTY】happy bday to our ultimate idol momoi haruko ♪ #FWMCbeats【桃井はるこ曲縛り】",
-                "date": "2024/12/13 09:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/yVCzxBigdyU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCIUd_Pb5ANy4y-LqGfWv_n4MfxvA",
-                "description": "our love will never fade, thank you for giving us the strength to be who we are now ✨\nthank you so much for creating this special illustration for us @ShibeDraws 💕\n\n⸜❤︎⸝ 𝔽𝕌𝕎..."
-            }
-        ]
-    },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
         "channel_name": "Gawr Gura Ch. hololive-EN",
@@ -584,7 +563,15 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/meRnxbRUm5yPSwq8Q5QpI5maFApm5QTGQV_LGblQFsoO0yAV4LI-nSZ70GYwMZ_tbfSa_O8MTCU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "w-wsjoUgFQk",
+                "title": "【 #VCRGTA3 】最終日｜ ありがとう餓狼。【 常闇トワ / ホロライブ 】",
+                "date": "2024/12/12 18:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/w-wsjoUgFQk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwedNqZwTb7JuRe1ZeTH9B1wCXtg",
+                "description": "この配信はRockstar Gamesの許諾を得て収益化しております。\nThis Streaming is monetized with permission from Rockstar Games\n\n#常闇トワ #ホロライブ #vcrgta  #vcrgta3..."
+            }
+        ]
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
@@ -640,7 +627,15 @@
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "45FOruWgXVE",
+                "title": "REBROADCAST =【UNARCHIVED KARAOKE】Have Yourself a Merry Little Christmas ~! 💄",
+                "date": "2024/12/12 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/45FOruWgXVE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwKaByqDSee1z45xr7mhwzgvL2kg",
+                "description": "This is a rebroadcast = \nUnarchived karaoke time ♡ \n- Thumbnail Art by @cktheklein_21 https://x.com/cktheklein_21 [ Thankies! ]\n▬▬ι════════ﺤ\nMy first western cover:..."
+            }
+        ]
     },
     "@holoen_gigimurin": {
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
