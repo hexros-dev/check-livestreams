@@ -45,7 +45,14 @@
         "channel_url": "https://www.youtube.com/@CeresFauna",
         "channel_name": "Ceres Fauna Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/cBtserkb211p6If2OewgWd8oriIKRkfwTcP4_Vdq2YETG5TK9Q02v4cYmnLU03KBAJ0gcDha7oQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "z4ZLrg4f6C0",
+                "title": "【Silent Hill 2】 Silent Hill isn't so silent anymore with all this yapping (spoilers)",
+                "thumbnail": "https://i.ytimg.com/vi/z4ZLrg4f6C0/hqdefault.jpg?v=675b5b3c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC79_V4exPGgwvK91cqXLFBwBlqWA",
+                "description": "🧡 @holoen_gigimurin !!!\n\n✿ Artist Credits ✿\nThumbnail:  https://x.com/ambxrry\nThank you so much!! 💚\n\nThis game is streamed and monetized with permission and under license of Konami..."
+            }
+        ]
     },
     "@FUWAMOCOch": {
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
@@ -327,14 +334,7 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ",
-        "videos": [
-            {
-                "video_id": "JGMH_nSOEBw",
-                "title": "【Path Of Exile 2】TOAD PORTAL TOAD PORTAL TOAD PORTAL #kfp #キアライブ",
-                "thumbnail": "https://i.ytimg.com/vi/JGMH_nSOEBw/hqdefault.jpg?v=675ac6d8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4zBZs63UA87_FOzdhiVi4QxaYsQ",
-                "description": "stream my new song, MIRAGE!✨https://cover.lnk.to/DQSp3S\n👀 Takanashi Kiara 1st Album \"Point of View\" 👀\nStreaming: https://cover.lnk.to/PointofView\n\n\n 🏵️[Twitter] 🏵️\nhttps://twitter..."
-            }
-        ]
+        "videos": []
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
