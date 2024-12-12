@@ -415,21 +415,21 @@
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/f31Dn0ou0ob-VCRtjZTXed4m22A-bdR9ljFw-0LPa9cPicx7gY3e1vdFkrGxgz0ubHD7vCD_",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "2fH0R8Gc2qs",
+                "title": "【 Minecraft 】そういやどうなった？【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+                "date": "2024/12/12 13:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/2fH0R8Gc2qs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-_7_MbS1LUuNqWKg26N0sRw7E9w",
+                "description": "▽ 最重要！！歌ってみた9作目公開中！ ▽\n「セプテンバーさん」 - 音乃瀬奏（cover）\nhttps://youtu.be/OHQ-npgd2Ok\n\n୨୧♪:*:･･:*:･♪･:*:･･:*:･♪:♪..."
+            }
+        ]
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/flg7E5XnFWh-NhGZOydJ2QHMpFdkBGbou0OcYUiYjKVisv8UsY-FiPLrTtexXVUqPmIyDvgC",
-        "videos": [
-            {
-                "video_id": "6o5QWUmMstw",
-                "title": "【Resident Evil Village】Please | #6",
-                "date": "2024/12/12 09:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/6o5QWUmMstw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBgG_M3n4cmDCcC_YYbiHoHIfRHlQ",
-                "description": "Resident Evil Village\n©CAPCOM CO., LTD. ALL RIGHTS RESERVED.\n\n[Twitter]\nhttps://twitter.com/ourokronii\n\n[Thumbnail Art]\nhttps://x.com/elyoellim\n\n---------------------------------------------------..."
-            }
-        ]
+        "videos": []
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
@@ -488,15 +488,7 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZlovVsPyh8NgS37S4dfONiCBySiboGPbT9cYuirb8JM3JhSnqlpJk-8SQUEA7jPfqXpMvjaa",
-        "videos": [
-            {
-                "video_id": "bb9m1a3mOfg",
-                "title": "Girl Failure Rapper Arc【UNARCHIVED KARAOKE: Rebroadcast Feb 8, 2024】",
-                "date": "2024/12/12 09:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/bb9m1a3mOfg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOetpnGlayzoKzFBSyplhkbAY9fw",
-                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n\n==============..."
-            }
-        ]
+        "videos": []
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
@@ -598,7 +590,15 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Ok4bk-09gQg",
+                "title": "【スーパー マリオパーティー ジャンボリー】競え！騒げ！4人でマリパだ～っ！！！！【白上フブキ/猫又おかゆ/天音かなた/雪花ラミィ/ホロライブ】",
+                "date": "2024/12/12 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Ok4bk-09gQg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTCjmg4D0Ee4NWttKiZFv8MduNOA",
+                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\nフブキ先輩\nhttps://www.youtube.com/@UCdn5BQ06XqgXoAxIhbqw5Rg \nおかゆん\nhttps://ww..."
+            }
+        ]
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
@@ -610,15 +610,7 @@
         "channel_url": "https://www.youtube.com/@dooby3d",
         "channel_name": "dooby",
         "avatar_url": "https://yt3.googleusercontent.com/QBddwfs8nHiD5V-Dm9HcRfmjpCMpIGbRfKmk6vmejPEo8hyePLSo4oHm34TSLVHswqbTNjKZOw",
-        "videos": [
-            {
-                "video_id": "zfsRf_8Dh0c",
-                "title": "【Infinity Nikki】trying out the CUTE COZY COMFY game~",
-                "date": "2024/12/12 08:15:00",
-                "thumbnail": "https://i.ytimg.com/vi/zfsRf_8Dh0c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEEP_VoDNihMu7xNe4igj9arvvwQ",
-                "description": "ebic gameblay\nawesome artist @buruhas tysmm!!!! \n☆ https://x.com/buruhas/status/1864136085174997081\r\n \r\n【CHAT RULES】(yes the chat is moderated)\r\n☆➡ try to be civil\r\n☆➡ no hate..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_ceciliaimmergreen": {
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
