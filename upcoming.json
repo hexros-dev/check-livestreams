@@ -23,7 +23,15 @@
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
         "avatar_url": "https://yt3.googleusercontent.com/tUHzjVx8_3IchEO64NDOJGFzH-uN7b5QHUBiKqnUmwLlY0ZSxmQ1snRse4jUx0gt8dGh2MzILP4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "7NK783Gzu4s",
+                "title": "【】【ホロライブ/赤井はあと】",
+                "date": "2024/12/12 22:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/7NK783Gzu4s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHbSCwbzKoFdUAfNv0_IwD00lctA",
+                "description": "#はあちゃまなう 実況・感想してねっ！ゼッタイ！！！\n\n❤️‍🔥赤井はあと×はあちゃま「どちらがお好き？♡」ASMRボイス　販売中！\nhttps://shop.h..."
+            }
+        ]
     },
     "@AkiRosenthal": {
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
@@ -62,6 +70,27 @@
         "channel_name": "Ceres Fauna Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/cBtserkb211p6If2OewgWd8oriIKRkfwTcP4_Vdq2YETG5TK9Q02v4cYmnLU03KBAJ0gcDha7oQ",
         "videos": []
+    },
+    "@FUWAMOCOch": {
+        "channel_url": "https://www.youtube.com/@FUWAMOCOch",
+        "channel_name": "FUWAMOCO Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag",
+        "videos": [
+            {
+                "video_id": "rqZlnmqOBFA",
+                "title": "【WOBBLEDOGS】raise and customize our own pet dogs down to their gut biome 🐾【FUWAMOCO】",
+                "date": "2024/12/14 09:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/rqZlnmqOBFA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCGfKYcxmcD3nyJw93XptF1jIHzsg",
+                "description": "what the heck will this game be, the options are limitless ✨\nlovely illustration by @BigguguGugu 💓\n\nThis game is being streamed and monetized after confirming with Secret Mode.\n\n⸜❤︎⸝..."
+            },
+            {
+                "video_id": "yVCzxBigdyU",
+                "title": "【FUWAMOCO ROCK N' RAWR PARTY】happy bday to our ultimate idol momoi haruko ♪ #FWMCbeats【桃井はるこ曲縛り】",
+                "date": "2024/12/13 09:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/yVCzxBigdyU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCIUd_Pb5ANy4y-LqGfWv_n4MfxvA",
+                "description": "our love will never fade, thank you for giving us the strength to be who we are now ✨\nthank you so much for creating this special illustration for us @ShibeDraws 💕\n\n⸜❤︎⸝ 𝔽𝕌𝕎..."
+            }
+        ]
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -119,15 +148,7 @@
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/Z2QpYUZ4-jKoFR7Ms330gRQzjI2gZ4CB_uVP6f39YysxUe1u8icrtE07ffpRxCtpu9U65MWNDA",
-        "videos": [
-            {
-                "video_id": "DP2UsGdsANU",
-                "title": "【ソロライブ新衣装お披露目！】ソロライブ振り返り！！FNS歌謡祭もありがとう！フラスタやファンの推し活、思い出！【ホロライブ/宝鐘マリン】",
-                "date": "2024/12/12 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/DP2UsGdsANU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsObYRp6VZRMEFXNAKxw4iUAAkUA",
-                "description": "｡.｡:+* ﾟ ゜ﾟ *+:｡.｡:+* ﾟ ゜ﾟ *+:｡.｡.｡:+*ﾟ ゜ﾟ *+:｡.｡:+*ﾟ ゜ﾟ *+:｡.｡.｡:+*+:｡.｡｡\n\n🏴‍☠️宝鐘マリン1stライブ「Ahoy!! キミたちみ..."
-            }
-        ]
+        "videos": []
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
@@ -139,15 +160,7 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/JyixAV--9ZFWIMEwRQFbZhkiQTEvb1ALCdX7bW9BarpyLBjAnbbmc98jymhVT_pZlJpWaDwk",
-        "videos": [
-            {
-                "video_id": "HDU4MIIophE",
-                "title": "【#ホロライブサンタバトル】クリスマス企画🎄ホロライブ バトルロワイアル開幕✨説明会【#一条莉々華 #hololive DEV_IS ReGLOSS】",
-                "date": "2024/12/12 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/HDU4MIIophE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCi8rTGwmDhj1T-kkMuMjCQTbiFRw",
-                "description": "🔽企画配信日時\n12月20日(金) 19:00 予定\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行..."
-            }
-        ]
+        "videos": []
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -627,15 +640,7 @@
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm",
-        "videos": [
-            {
-                "video_id": "45FOruWgXVE",
-                "title": "REBROADCAST =【UNARCHIVED KARAOKE】Have Yourself a Merry Little Christmas ~! 💄",
-                "date": "2024/12/12 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/45FOruWgXVE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwKaByqDSee1z45xr7mhwzgvL2kg",
-                "description": "This is a rebroadcast = \nUnarchived karaoke time ♡ \n- Thumbnail Art by @cktheklein_21 https://x.com/cktheklein_21 [ Thankies! ]\n▬▬ι════════ﺤ\nMy first western cover:..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_gigimurin": {
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
