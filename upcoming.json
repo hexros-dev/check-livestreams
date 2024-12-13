@@ -133,7 +133,15 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/qufYdKqJ9VaUNhkP3_Wv0RranzAiwtvtOoxI_NRNMP6pCFa3lMnUKXRPd7EL4x-5OlDFp1BSpFE",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "3zew9bbl6W0",
+                "title": "【漢字でGO！】理系の底力みせてやるううう【ホロライブ DEV_IS 響咲リオナ】",
+                "date": "2024/12/14 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/3zew9bbl6W0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5cwc5UmI_RiNkS5u_FqUC1zl1FA",
+                "description": "本ゲームは、Micelle様の承諾を得て、配信・収益化を行なっております。\n\nサムネ♡\n汐よる様　(X：@ ushio_yoru)\n素敵なイラストありがとうございます..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -495,6 +503,13 @@
                 "date": "2024/12/14 10:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/LL-DYyut6BY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOZ45aODjjAYwwl08f4fTFgCpsRw",
                 "description": "ver.1が終わり・・・続いてver.2だ！！！\n※タイトルの『※ネタバレあり』とは、【ゲーム本編のネタバレが含まれた配信】という意味でネタバレや..."
+            },
+            {
+                "video_id": "ZtAFQy7AjgI",
+                "title": "【 同時視聴/Watchalong 】『ドラゴンクエスト ダイの大冒険(2020)』第59～64話【鷹嶺ルイ/ホロライブ】",
+                "date": "2024/12/14 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ZtAFQy7AjgI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTmyMDsB7Hl6PSsRzTkkvS7mp2Iw",
+                "description": "メンバーシップ限定じゃないよ！\n今日は64話まで～！！！！！！！！\n\nNetflix\nhttps://www.netflix.com/title/81374392\n\nAmazon prime Video (東映アニメチャンネル)..."
             }
         ]
     },
@@ -552,6 +567,12 @@
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
         "channel_name": "Choco Ch. 癒月ちょこ",
         "avatar_url": "https://yt3.googleusercontent.com/eB_qZXKL-jDhGyEstj9BvLL0qO_tHEMaIpkfp8M-qXYweZOpDm7uZgBwbWfxwAT7uKh_5tEj",
+        "videos": []
+    },
+    "@dooby3d": {
+        "channel_url": "https://www.youtube.com/@dooby3d",
+        "channel_name": "dooby",
+        "avatar_url": "https://yt3.googleusercontent.com/QBddwfs8nHiD5V-Dm9HcRfmjpCMpIGbRfKmk6vmejPEo8hyePLSo4oHm34TSLVHswqbTNjKZOw",
         "videos": []
     },
     "@holoen_ceciliaimmergreen": {
