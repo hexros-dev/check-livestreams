@@ -152,6 +152,12 @@
             }
         ]
     },
+    "@KikiraraVivi": {
+        "channel_url": "https://www.youtube.com/@KikiraraVivi",
+        "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+        "avatar_url": "https://yt3.googleusercontent.com/0NYd0NnC9mCjdu6t_i-JylPkwpz-o3IZ1eLqgG4MdXS-KUPrP36e71UysuoV9eZA1-TRG3gZ",
+        "videos": []
+    },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
         "channel_name": "Kobo Kanaeru Ch. hololive-ID",
@@ -332,14 +338,7 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": [
-            {
-                "video_id": "2MZg41zGAig",
-                "title": "【漢字でGO! 集英社マンガ祭】読みたい漢字がそこにある！！！！【ホロライブ/白上フブキ】",
-                "thumbnail": "https://i.ytimg.com/vi/2MZg41zGAig/hqdefault.jpg?v=675cedb1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPVaYGnNAXz1fEslGqIqOUrBvaPQ",
-                "description": "このゲームは１２月１６日発売です！先行プレイさせていただいてます。\n━━━━━━━━━━━━━━━━━━━━━━━\n🌽白上フブキ1stソ..."
-            }
-        ]
+        "videos": []
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
