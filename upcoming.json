@@ -155,27 +155,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/i-aqA-4BPUKlCYErdtAkp2_s2AsG_8IB1saxXSSBXevz6bA8ptaIm53-SXB1_KIODP4SI4_l",
         "videos": []
     },
-    "@KikiraraVivi": {
-        "channel_url": "https://www.youtube.com/@KikiraraVivi",
-        "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
-        "avatar_url": "https://yt3.googleusercontent.com/0NYd0NnC9mCjdu6t_i-JylPkwpz-o3IZ1eLqgG4MdXS-KUPrP36e71UysuoV9eZA1-TRG3gZ",
-        "videos": [
-            {
-                "video_id": "Mk33IhhsKyc",
-                "title": "【パラソーシャル】配信者が主人公のホラーゲームに挑戦！【 綺々羅々ヴィヴィ#hololiveDEV_IS #FLOWGLOW】",
-                "date": "2024/12/14 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Mk33IhhsKyc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9xk1cucXw8nYNqZ88ndcUw51Cng",
-                "description": "本ゲームは © Chilla's Art, LLC® 2023 の承諾を得た上で配信・収益化を行なっております\nーーーーーーーー\n＜ゲームURL＞\nhttps://store.steampowered.com/app/2314..."
-            },
-            {
-                "video_id": "g-bqnqu2fiQ",
-                "title": "【夜間警備】夜勤はじめてです...【 綺々羅々ヴィヴィ#hololiveDEV_IS #FLOWGLOW】",
-                "date": "2024/12/21 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/g-bqnqu2fiQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDk9Axs2tEZoR1h6DbYkWBUHCPW9w",
-                "description": "本ゲームは © Chilla's Art, LLC® 2023 の承諾を得た上で配信・収益化を行なっております\nーーーーーーーー\n＜ 夜間警備＞\nhttps://store.steampowered.com/app/236..."
-            }
-        ]
-    },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
         "channel_name": "Kobo Kanaeru Ch. hololive-ID",
@@ -349,7 +328,15 @@
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/f31Dn0ou0ob-VCRtjZTXed4m22A-bdR9ljFw-0LPa9cPicx7gY3e1vdFkrGxgz0ubHD7vCD_",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "rQrdtqCvTVs",
+                "title": "【 晩酌 】これで6日連続飲酒【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+                "date": "2024/12/14 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/rQrdtqCvTVs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyEBlozv3Ay9ltnuWVLYaaCsTUZg",
+                "description": "▽ 最重要！！歌ってみた9作目公開中！ ▽\n「セプテンバーさん」 - 音乃瀬奏（cover）\nhttps://youtu.be/OHQ-npgd2Ok\n\n୨୧♪:*:･･:*:･♪･:*:･･:*:･♪:♪..."
+            }
+        ]
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
@@ -592,7 +579,15 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_n1iH9fDDGm8RHUzoB-XDfnTEwhlgBcP3OLjapDqHYoYVw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "PQ_XkXkQpM8",
+                "title": "【ドラクエ3リメイク】完全初見！はじめてのドラゴンクエスト３！ぺこ！【ホロライブ/兎田ぺこら】",
+                "date": "2024/12/14 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/PQ_XkXkQpM8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxLafk6l2hiUkv1ksy5fxj2HhMHA",
+                "description": "ドラクエ3自体が初プレイぺこ！いばらの道でプレイ\n\nサムネイラスト：さまてる(@summer_tail720)さん\n　　　　　　　　猫雪風(@yukika_g)さん\n\n⋈ －－－..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
