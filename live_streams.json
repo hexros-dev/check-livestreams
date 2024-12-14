@@ -393,14 +393,7 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/LnJxTvrkHQFdFlyMY2HPtXVEwA7KHlUp8rNzBepF1GQfPQjUN9yKGIqSYOD31F22Ow9vSTn9",
-        "videos": [
-            {
-                "video_id": "zirjWFIf5YE",
-                "title": "【SEKIRO】WE BEAT IT TODAY!!! (game spoilers)",
-                "thumbnail": "https://i.ytimg.com/vi/zirjWFIf5YE/hqdefault.jpg?v=675de141&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlVM5frvF9KpRih80NHxtmtTtqlQ",
-                "description": "BIRTHDAY MERCH:\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/ceciliaimmergreen_bd2024\nEN: https://shop.hololivepro.com/en/products/ceciliaimmergreen_bd2024..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
@@ -412,7 +405,14 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/AD2BC7S_QlNSZEHrM-pyRR0C9DOPnfK2OnuFjTK8F842WydS1HDMe6TvhESY9Er96Kt3yu0-fQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "zh6lLztzmOc",
+                "title": "【DUCK DETECTIVE】i'm on the case for the secret salami",
+                "thumbnail": "https://i.ytimg.com/vi/zh6lLztzmOc/hqdefault.jpg?v=675d667f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzWKMo2AZ8gNoh-1j-zeipnhQ17w",
+                "description": "This game is being streamed and monetized after confirming with Happy Broccoli Games.\n\nthumbnail: https://x.com/Pyrothepyre/status/1867558999140577757\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
