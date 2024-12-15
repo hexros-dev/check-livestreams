@@ -15,7 +15,14 @@
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
         "avatar_url": "https://yt3.googleusercontent.com/tUHzjVx8_3IchEO64NDOJGFzH-uN7b5QHUBiKqnUmwLlY0ZSxmQ1snRse4jUx0gt8dGh2MzILP4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "rRcfVdGbsns",
+                "title": "【帰ってきた 魔界村】負けてたまるか～！！！やれるとこまでやる！【ホロライブ/赤井はあと】",
+                "thumbnail": "https://i.ytimg.com/vi/rRcfVdGbsns/hqdefault.jpg?v=675e9d3e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdqOk39VfuTyGDDCfb_jy6QjRV9w",
+                "description": "#はあちゃまなう ポストもとむ！！！！！\n\nこの動画およびライブは\n株式会社カプコンの利用許諾を受けて配信しています\n帰ってきた 魔界村..."
+            }
+        ]
     },
     "@AkiRosenthal": {
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
@@ -321,7 +328,14 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/GF0wbwZvZAGzYg8s8d6Yh1BDcWAE9UmLAh2uf3IMJ5l_ESi3sWeRqk2XfhW3IgzMeliHpt4cAw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Dk7RKuT6gGg",
+                "title": "【漢字でGO! 集英社マンガ祭】友達になるのにだって資格なんていらない!!そう、漢字ともね!!・・・？【ホロライブ / ロボ子さん】",
+                "thumbnail": "https://i.ytimg.com/vi/Dk7RKuT6gGg/hqdefault.jpg?v=675eb24e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDo7tSpN2BQaqes9H6MXC_MV2cJw",
+                "description": "💬#ロボ子生放送  で呟いてね(*'ω'*)\n\nこのゲームは明日、１２月１６日発売です！\n先行プレイさせていただいております。\n\nsamune irasut:しんたくみ..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -458,7 +472,14 @@
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
         "channel_name": "Choco Ch. 癒月ちょこ",
         "avatar_url": "https://yt3.googleusercontent.com/eB_qZXKL-jDhGyEstj9BvLL0qO_tHEMaIpkfp8M-qXYweZOpDm7uZgBwbWfxwAT7uKh_5tEj",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "qzGDS6fA9P0",
+                "title": "【歌枠】滅びのバーストストリーム【ホロライブ/癒月ちょこ】",
+                "thumbnail": "https://i.ytimg.com/vi/qzGDS6fA9P0/hqdefault.jpg?v=675edb88&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCAV5-GSTPzRiuuVL6BCdOcHzsw6Q",
+                "description": "癒月ちょこ１stアルバム購入はこちら↓\nhttps://shop.hololivepro.com/products/yuzukichoco_burstsongofdestruction\n\nデジタルリリース↓\nhttps://shop.hololivepro.com/products/yuz..."
+            }
+        ]
     },
     "@dooby3d": {
         "channel_url": "https://www.youtube.com/@dooby3d",
@@ -470,6 +491,12 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/LnJxTvrkHQFdFlyMY2HPtXVEwA7KHlUp8rNzBepF1GQfPQjUN9yKGIqSYOD31F22Ow9vSTn9",
+        "videos": []
+    },
+    "@holoen_erbloodflame": {
+        "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
+        "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm",
         "videos": []
     },
     "@holoen_gigimurin": {
@@ -508,11 +535,5 @@
                 "description": "甲子園優勝するぞ！！！！！\n\n初めての3人でチームを育成！12/25(水)に決戦するぺこ！\n@usadapekora \n@ShiroganeNoel \n@HoushouMarine \n\n⋈ －－－－－－－－－－..."
             }
         ]
-    },
-    "@結城さくな": {
-        "channel_url": "https://www.youtube.com/@結城さくな",
-        "channel_name": "Sakuna Ch. 結城さくな",
-        "avatar_url": "https://yt3.googleusercontent.com/t9CcBvjTjs5D_sLZjtGkcfaTyiZCrx0nyOf7ekj3Fut9gZD76G00x12TK8Jg4czmBWjXcUtP9yE",
-        "videos": []
     }
 }
