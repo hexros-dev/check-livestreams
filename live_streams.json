@@ -138,14 +138,7 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/qufYdKqJ9VaUNhkP3_Wv0RranzAiwtvtOoxI_NRNMP6pCFa3lMnUKXRPd7EL4x-5OlDFp1BSpFE",
-        "videos": [
-            {
-                "video_id": "gujIEtVmAsM",
-                "title": "【歌枠】どうしても今日は大好きな歌を歌いたい　#hololiveDEV_IS #FLOWGLOW #響咲リオナ",
-                "thumbnail": "https://i.ytimg.com/vi/gujIEtVmAsM/hqdefault.jpg?v=675e98c2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDGtv3V28I27t0Lsu0GG3VGmQ-fg",
-                "description": "【speical thanks】\n生音風カラオケ屋www.youtube.com/@namakara \n【プロが作る】カラオケちゃんねる【高音質】\nwww.youtube.com/@プロが作るカラオケちゃんねる..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -535,5 +528,11 @@
                 "description": "甲子園優勝するぞ！！！！！\n\n初めての3人でチームを育成！12/25(水)に決戦するぺこ！\n@usadapekora \n@ShiroganeNoel \n@HoushouMarine \n\n⋈ －－－－－－－－－－..."
             }
         ]
+    },
+    "@結城さくな": {
+        "channel_url": "https://www.youtube.com/@結城さくな",
+        "channel_name": "Sakuna Ch. 結城さくな",
+        "avatar_url": "https://yt3.googleusercontent.com/t9CcBvjTjs5D_sLZjtGkcfaTyiZCrx0nyOf7ekj3Fut9gZD76G00x12TK8Jg4czmBWjXcUtP9yE",
+        "videos": []
     }
 }
