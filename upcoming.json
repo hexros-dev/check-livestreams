@@ -233,12 +233,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/bMBMxmB1YVDVazU-8KbB6JZqUHn4YzmFiQRWwEUHCeqm5REPW7HHQChC5xE6e36aqqnXgK4a",
         "videos": []
     },
-    "@MoonaHoshinova": {
-        "channel_url": "https://www.youtube.com/@MoonaHoshinova",
-        "channel_name": "Moona Hoshinova hololive-ID",
-        "avatar_url": "https://yt3.googleusercontent.com/w8ilN5YMfG3H6SX162Fkg71BaJdYUUoHOc91cryyfdvto94IpypSjvsLaMA1MyODr2V-w-ox-h8",
-        "videos": []
-    },
     "@MoriCalliope": {
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
@@ -340,7 +334,15 @@
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/f31Dn0ou0ob-VCRtjZTXed4m22A-bdR9ljFw-0LPa9cPicx7gY3e1vdFkrGxgz0ubHD7vCD_",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "rMErw54APlY",
+                "title": "【 Golf It! 】ゴールに向けてゴールフ！なんちゃってｗ【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+                "date": "2024/12/15 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/rMErw54APlY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBxB_ld0p9SzNMeUQootH0Y7Dfog",
+                "description": "▽ゴルフメンバー💕▽\n@AiraniIofifteen \n@HoshimachiSuisei \n@KikiraraVivi \n@RindoChihaya \n@ShirakamiFubuki \n@TakaneLui \n@TokoyamiTowa \n\n୨୧♪:*:･･:*:･♪･:*:･･:*:･♪:♪..."
+            }
+        ]
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
@@ -382,7 +384,15 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZlovVsPyh8NgS37S4dfONiCBySiboGPbT9cYuirb8JM3JhSnqlpJk-8SQUEA7jPfqXpMvjaa",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "6-NDXiSBIS4",
+                "title": "【Unarchived Karaoke】Anime Girl Goes Through Her Gangsta Arc #shorts - (Rebroadcast July 2, 2024)",
+                "date": "2024/12/16 09:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/6-NDXiSBIS4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcTwq4FNnyLRrHMsQADaQpOX5zBA",
+                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n\n==============..."
+            }
+        ]
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
@@ -461,15 +471,7 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": [
-            {
-                "video_id": "n4B5g6GSkPE",
-                "title": "【ゼルダの伝説 スカイウォードソード HD】蜘蛛の敵はいやああああああ！！【ホロライブ/ときのそら】",
-                "date": "2024/12/15 13:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/n4B5g6GSkPE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_Dr73dspblJRc_uDXtfBjFrtHFA",
-                "description": "なんで蜘蛛さんだけわあああああ！！\nってなるのなんでなんだろ・・・。\n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信して..."
-            }
-        ]
+        "videos": []
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",

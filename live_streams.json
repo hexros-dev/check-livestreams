@@ -186,12 +186,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/bMBMxmB1YVDVazU-8KbB6JZqUHn4YzmFiQRWwEUHCeqm5REPW7HHQChC5xE6e36aqqnXgK4a",
         "videos": []
     },
-    "@MoonaHoshinova": {
-        "channel_url": "https://www.youtube.com/@MoonaHoshinova",
-        "channel_name": "Moona Hoshinova hololive-ID",
-        "avatar_url": "https://yt3.googleusercontent.com/w8ilN5YMfG3H6SX162Fkg71BaJdYUUoHOc91cryyfdvto94IpypSjvsLaMA1MyODr2V-w-ox-h8",
-        "videos": []
-    },
     "@MoriCalliope": {
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
@@ -373,7 +367,14 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "n4B5g6GSkPE",
+                "title": "【ゼルダの伝説 スカイウォードソード HD】蜘蛛の敵はいやああああああ！！【ホロライブ/ときのそら】",
+                "thumbnail": "https://i.ytimg.com/vi/n4B5g6GSkPE/hqdefault.jpg?v=675e64d4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_Dr73dspblJRc_uDXtfBjFrtHFA",
+                "description": "なんで蜘蛛さんだけわあああああ！！\nってなるのなんでなんだろ・・・。\n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信して..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
