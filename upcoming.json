@@ -100,6 +100,12 @@
             }
         ]
     },
+    "@HiodoshiAo": {
+        "channel_url": "https://www.youtube.com/@HiodoshiAo",
+        "channel_name": "Ao Ch. 火威青 ‐ ReGLOSS",
+        "avatar_url": "https://yt3.googleusercontent.com/7axTno1zkKS6RhYH7cZ9FecAkjBmZRYTwDeVoqxDdAx0wGfqatlMY10igRFEa1gpAtq5rqnDJg",
+        "videos": []
+    },
     "@HoshimachiSuisei": {
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
         "channel_name": "Suisei Channel",
@@ -465,7 +471,15 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/YlQvZ9qXXOriEXQzBl6pkIWpSNwa0P9RrMGm7ezpliTF-7OzxcE0_828GSX-0f2ak-HmshPb5mM",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "7sw6xJ44bPM",
+                "title": "♯３【ネタバレあり】Little Nightmares2！最後まで駆け抜ける！【轟はじめ/ReGLOSS】 #hololivedev_is",
+                "date": "2024/12/15 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/7sw6xJ44bPM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCIi4afgbeDgrb7_5iUF3cknZ2vgg",
+                "description": "素敵なサムネお写真：あずましろ様（@az3nnn）\n\nこのゲーム実況は「バンダイナムコエンターテインメント ゲーム実況ポリシー」に基づき制作・配..."
+            }
+        ]
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
