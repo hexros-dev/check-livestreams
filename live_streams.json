@@ -69,7 +69,14 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/WO7ItKNmy6tW_NQ82g8c1y74CZSw6GsSdynsE5s2csuEok2fHRrAaGcBV3JJO-2BxEOXXA8lvw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "LqxtyK6Gh70",
+                "title": "【ロマサガ2リメイク】人生初ロマサガシリーズ！ロマンシングサガ2 リベンジオブザセブンやってみる！！！ #1 【博衣こより/ホロライブ】【ネタバレあり】",
+                "thumbnail": "https://i.ytimg.com/vi/LqxtyK6Gh70/hqdefault.jpg?v=675d8375&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjCPuYgxzRBQMtawAAf5m_6VLaHQ",
+                "description": "2だけどストーリーは独立してるみたいなので、安心して人生初ロマサガやってみます！！！ネタバレ＆指示コメントはNGだよ！\n🎁3周年記念グッ..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -189,7 +196,14 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "-ENf2IMSbqc",
+                "title": "【OFF COLLAB】Free Style Karaoke! With Friends!! #calliolive",
+                "thumbnail": "https://i.ytimg.com/vi/-ENf2IMSbqc/hqdefault.jpg?v=6759c7de&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgpV8QQEi_SNrng9nw58bCuWUMjw",
+                "description": "@KosekiBijou @FUWAMOCOch as guests! Venue tickets going on sale...\n▼More Information for the Tickets \nVenue Tickets Variety\n\nEarly Entry GA Ticket:110 USD\nGA Ticket:95 USD\nBalcony Ticket:120..."
+            }
+        ]
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -225,14 +239,7 @@
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
         "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/JDCIBWj11TgjY2Uyba_efZ0n5hzjysMB9GxkvHGkIN_sfFQJR5mx3iVPqgJ96IPcYjZpCLsb",
-        "videos": [
-            {
-                "video_id": "O3JAvKYqcek",
-                "title": "If I Swear I END Stream | HoloCure: Tower of Suffering",
-                "thumbnail": "https://i.ytimg.com/vi/O3JAvKYqcek/hqdefault.jpg?v=675dde9e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDaK7WdWqypKrlR9tCGNF7-SFENng",
-                "description": "∴∴♪ * Check Out My First EP Here!* ♪∴∴\nhttps://cover.lnk.to/esLvqA\n\n∴∴♪ * Check Out My Music Here!* ♪∴∴\nhttps://www.youtube.com/playlist?list=PLSJG6WXf5JvFn2FWv_B5HP7DklUtde..."
-            }
-        ]
+        "videos": []
     },
     "@NinomaeInanis": {
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
@@ -347,6 +354,12 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/gHSAYjapvrPWUKNofcX6zP8izFYK-CbsiZEpkuNgGpPluu7zyC_3yPu0IbpL2Rh_QjBxPKOjLA",
+        "videos": []
+    },
+    "@TodorokiHajime": {
+        "channel_url": "https://www.youtube.com/@TodorokiHajime",
+        "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+        "avatar_url": "https://yt3.googleusercontent.com/YlQvZ9qXXOriEXQzBl6pkIWpSNwa0P9RrMGm7ezpliTF-7OzxcE0_828GSX-0f2ak-HmshPb5mM",
         "videos": []
     },
     "@TokinoSora": {
