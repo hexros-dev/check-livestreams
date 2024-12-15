@@ -100,12 +100,6 @@
             }
         ]
     },
-    "@HiodoshiAo": {
-        "channel_url": "https://www.youtube.com/@HiodoshiAo",
-        "channel_name": "Ao Ch. 火威青 ‐ ReGLOSS",
-        "avatar_url": "https://yt3.googleusercontent.com/7axTno1zkKS6RhYH7cZ9FecAkjBmZRYTwDeVoqxDdAx0wGfqatlMY10igRFEa1gpAtq5rqnDJg",
-        "videos": []
-    },
     "@HoshimachiSuisei": {
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
         "channel_name": "Suisei Channel",
@@ -142,7 +136,15 @@
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "p8pVNIiahgU",
+                "title": "Ω ΩΩ＜ころさん早く帰ってこーい！！配信してくれー！",
+                "date": "2024/12/15 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/p8pVNIiahgU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJziYUzLIOK4KzO7_cLSeYY_xq7w",
+                "description": "Play Game :  (  )\nタグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nころねTwitter▶https://twitter.com/inugamikorone\n\n-----------..."
+            }
+        ]
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
@@ -457,15 +459,7 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/gHSAYjapvrPWUKNofcX6zP8izFYK-CbsiZEpkuNgGpPluu7zyC_3yPu0IbpL2Rh_QjBxPKOjLA",
-        "videos": [
-            {
-                "video_id": "6C9nVSZ95co",
-                "title": "【 ドラクエⅩ ver.2 】完全初見。オフライン版✨え、この話おもろいやんけ…！【鷹嶺ルイ/ホロライブ】※ネタバレあり",
-                "date": "2024/12/15 14:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/6C9nVSZ95co/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCaQr5CljOwHogNOgxSiO_KX6Xh4g",
-                "description": "ver.2を楽しんでます。\n※タイトルの『※ネタバレあり』とは、【ゲーム本編のネタバレが含まれた配信】という意味でネタバレやアドバイスをし..."
-            }
-        ]
+        "videos": []
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
