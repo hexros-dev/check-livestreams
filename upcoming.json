@@ -397,7 +397,15 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "iqIqePFSDXY",
+                "title": "【VRChat】完全初見で謎解きマップ『Charcoal』へ遊びに行く！！#フブキングダムVRC【ホロライブ/白上フブキ】",
+                "date": "2024/12/15 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/iqIqePFSDXY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlhZRDaFChvzg_4NNg2A3szAmpzQ",
+                "description": "#フブキングダムVRC\n\n遊びに行ったワールド\n▷後ほど記載します\n\n━━━━━━━━━━━━━━━━━━━━━━━\n🌽白上フブキ1stソロライブ..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -473,15 +481,7 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/-IdVo-vK7pr0VRjJDdza1-t1Edjce1Rd1R1hon_3SRIzuQ-XVBTWOJj-UfwYPp8y40KM197_y4o",
-        "videos": [
-            {
-                "video_id": "N2Ucogep3Hs",
-                "title": "【Honor of Kings: Influencer Showmatch】Asik winter edition(beneran dingin)😭w/ Bang Tara & Bang Aldi",
-                "date": "2024/12/15 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/N2Ucogep3Hs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASmlV_02ZzZhGenhFZT3rkE8b9Ug",
-                "description": "#hololiveid   #holoid #vestiazeta  #vtuber #honorofkings #sponsored \nReplacing Kobo for day 2 on the same team (Team 6)!!! Will do my best!!! SORRY FOR MY SKILL ISSUE T_T\nThankyou HOK for this..."
-            }
-        ]
+        "videos": []
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
