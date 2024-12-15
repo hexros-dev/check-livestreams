@@ -53,6 +53,12 @@
         "avatar_url": "https://yt3.googleusercontent.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag",
         "videos": []
     },
+    "@GawrGura": {
+        "channel_url": "https://www.youtube.com/@GawrGura",
+        "channel_name": "Gawr Gura Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/uMUat6yJL2_Sk6Wg2-yn0fSIqUr_D6aKVNVoWbgeZ8N-edT5QJAusk4PI8nmPgT_DxFDTyl8",
+        "videos": []
+    },
     "@HakosBaelz": {
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
@@ -219,7 +225,14 @@
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
         "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/JDCIBWj11TgjY2Uyba_efZ0n5hzjysMB9GxkvHGkIN_sfFQJR5mx3iVPqgJ96IPcYjZpCLsb",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "O3JAvKYqcek",
+                "title": "If I Swear I END Stream | HoloCure: Tower of Suffering",
+                "thumbnail": "https://i.ytimg.com/vi/O3JAvKYqcek/hqdefault.jpg?v=675dde9e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDaK7WdWqypKrlR9tCGNF7-SFENng",
+                "description": "∴∴♪ * Check Out My First EP Here!* ♪∴∴\nhttps://cover.lnk.to/esLvqA\n\n∴∴♪ * Check Out My Music Here!* ♪∴∴\nhttps://www.youtube.com/playlist?list=PLSJG6WXf5JvFn2FWv_B5HP7DklUtde..."
+            }
+        ]
     },
     "@NinomaeInanis": {
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
@@ -309,7 +322,14 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "m2g7nMtdjD4",
+                "title": "【朝活雑談】2週間分のお喋りをしたい💪🌞💪13時からパワプロもよろしゅ！【白銀ノエル/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/m2g7nMtdjD4/hqdefault.jpg?v=675d7c2c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCD0DrMXXxKKseigNkyOXdq-SPhvw",
+                "description": "🎄生誕グッズも好評発売中✨→ https://shop.hololivepro.com/products/shiroganenoel_bd2024\n先週はマリンのソロライブゲストがあったので2週間ぶり！\n13時からパ..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -327,12 +347,6 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/gHSAYjapvrPWUKNofcX6zP8izFYK-CbsiZEpkuNgGpPluu7zyC_3yPu0IbpL2Rh_QjBxPKOjLA",
-        "videos": []
-    },
-    "@TodorokiHajime": {
-        "channel_url": "https://www.youtube.com/@TodorokiHajime",
-        "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
-        "avatar_url": "https://yt3.googleusercontent.com/YlQvZ9qXXOriEXQzBl6pkIWpSNwa0P9RrMGm7ezpliTF-7OzxcE0_828GSX-0f2ak-HmshPb5mM",
         "videos": []
     },
     "@TokinoSora": {
@@ -399,14 +413,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/AD2BC7S_QlNSZEHrM-pyRR0C9DOPnfK2OnuFjTK8F842WydS1HDMe6TvhESY9Er96Kt3yu0-fQ",
-        "videos": [
-            {
-                "video_id": "zh6lLztzmOc",
-                "title": "【DUCK DETECTIVE】i'm on the case for the secret salami",
-                "thumbnail": "https://i.ytimg.com/vi/zh6lLztzmOc/hqdefault.jpg?v=675d667f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzWKMo2AZ8gNoh-1j-zeipnhQ17w",
-                "description": "This game is being streamed and monetized after confirming with Happy Broccoli Games.\n\nthumbnail: https://x.com/Pyrothepyre/status/1867558999140577757\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
