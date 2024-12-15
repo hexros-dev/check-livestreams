@@ -288,7 +288,14 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/3Wp-qrvmEyR4I4CcqrzbERgqjZkKWpptZTV9veusoh9ZeIdBTx7WfUB3uT8bnMp5ApebFERHZ9I",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "R1QzUU0c9w4",
+                "title": "【Balatro】guerrilla stream! outsourcing math to chat【Pavolia Reine/hololiveID 2nd gen】",
+                "thumbnail": "https://i.ytimg.com/vi/R1QzUU0c9w4/hqdefault.jpg?v=675e9e13&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9TtvS18qEmgWmhhcQmEvWxs7Esg",
+                "description": "Support me here (overseas): https://streamlabs.com/pavoliareinechhololive-id/tip\nSupport me here (Indonesia): https://sociabuzz.com/pavoliareine/tribe\n\nThis game is being streamed and monetized..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
