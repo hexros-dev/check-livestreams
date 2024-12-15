@@ -90,7 +90,15 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/CTvZ3dUO8LocQMKbGkjUPysC524gC4asm5roilZmzhpBpWAWpLrhpRv0SpEaJeWm1oVP5v0g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "O89ZH9u_WMM",
+                "title": "【 FF8 】Lv.100で挑む最終回！既プレイが語る全力考察配信！これは愛の物語であるのら！FINAL FANTASY VIII ＃６【姫森ルーナ/ホロライブ】",
+                "date": "2024/12/15 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/O89ZH9u_WMM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbMDXSKQJURtxmKJsMkJEbihW4xg",
+                "description": "※リノアル派なのら(・o・🍬)\n\nファイナルファンタジーVIII再生リスト\nhttps://www.youtube.com/playlist?list=PL6gUpTCMieF4sGDeJoxD0EgyjGQbur0Yv\n\n本動画のゲームプレ..."
+            }
+        ]
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -159,6 +167,13 @@
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/0NYd0NnC9mCjdu6t_i-JylPkwpz-o3IZ1eLqgG4MdXS-KUPrP36e71UysuoV9eZA1-TRG3gZ",
         "videos": [
+            {
+                "video_id": "-0qiA5UB2zU",
+                "title": "【Golf It!】先輩方とコラボ！人生初ゴルフ⛳【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "date": "2024/12/15 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/-0qiA5UB2zU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMvEwBHT015hbEnjg2jNkiakhiPg",
+                "description": "本ゲームは Perfuse Entertainment の確認を得た上で配信・収益化を行なっております\n\n一緒にプレイさせていただく方々✨\n@TokoyamiTowa 　\n@HoshimachiSuisei..."
+            },
             {
                 "video_id": "g-bqnqu2fiQ",
                 "title": "【夜間警備】夜勤はじめてです...【 綺々羅々ヴィヴィ#hololiveDEV_IS #FLOWGLOW】",
@@ -433,13 +448,6 @@
                 "date": "2024/12/15 14:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/6C9nVSZ95co/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCaQr5CljOwHogNOgxSiO_KX6Xh4g",
                 "description": "ver.2を楽しんでます。\n※タイトルの『※ネタバレあり』とは、【ゲーム本編のネタバレが含まれた配信】という意味でネタバレやアドバイスをし..."
-            },
-            {
-                "video_id": "lkn82JYly-Y",
-                "title": "【 朝日杯フューチュリティS 】次のキングはどの馬だ⁉名馬誕生の瞬間を一緒にみるぞ！【鷹嶺ルイ/ホロライブ】",
-                "date": "2024/12/15 12:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/lkn82JYly-Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCc_spXxE5E0BwrrGfTxFMfc_xhVg",
-                "description": "今日もわかりません。\n\n【2024年G1競馬配信】\nブラック企業時代に作っていた競馬口座には61万→77万1千円。\n(退職金口座から移動完了してる)..."
             }
         ]
     },
@@ -473,6 +481,12 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/4wLMmSJkzy4vmWfWYkmzn6YO9T__jp1cORNuFXN7YyihwvhGkqXCxNBaklKoXlgdik-Fp0Zu",
+        "videos": []
+    },
+    "@VestiaZeta": {
+        "channel_url": "https://www.youtube.com/@VestiaZeta",
+        "channel_name": "Vestia Zeta Ch. hololive-ID",
+        "avatar_url": "https://yt3.googleusercontent.com/-IdVo-vK7pr0VRjJDdza1-t1Edjce1Rd1R1hon_3SRIzuQ-XVBTWOJj-UfwYPp8y40KM197_y4o",
         "videos": []
     },
     "@WatsonAmelia": {
