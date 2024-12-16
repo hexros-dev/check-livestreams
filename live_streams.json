@@ -90,12 +90,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/7axTno1zkKS6RhYH7cZ9FecAkjBmZRYTwDeVoqxDdAx0wGfqatlMY10igRFEa1gpAtq5rqnDJg",
         "videos": []
     },
-    "@HoshimachiSuisei": {
-        "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
-        "channel_name": "Suisei Channel",
-        "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
-        "videos": []
-    },
     "@HoushouMarine": {
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
@@ -142,14 +136,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/0NYd0NnC9mCjdu6t_i-JylPkwpz-o3IZ1eLqgG4MdXS-KUPrP36e71UysuoV9eZA1-TRG3gZ",
-        "videos": [
-            {
-                "video_id": "WH7SfdWtzz0",
-                "title": "【Minecraft】初めてのマイクラ！わたしは成長コンテンツ＃ゆるゆるFGマイクラ【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "thumbnail": "https://i.ytimg.com/vi/WH7SfdWtzz0/hqdefault.jpg?v=675fbe19&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHkLrYHbCQ0bwIYd3MXmkmGb2zmw",
-                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n◆FLOW GLOW◆\n@IsakiRiona..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -185,14 +172,7 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw",
-        "videos": [
-            {
-                "video_id": "U4nVYohZiNg",
-                "title": "【 #ゆるゆるFGマイクラ】2 初心者5人マイクラになれる1日目【FLOW GLOW 水宮枢】#hololiveDEV_IS",
-                "thumbnail": "https://i.ytimg.com/vi/U4nVYohZiNg/hqdefault.jpg?v=67601d9a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDshM3ZaoBbbJ1FgBoeFM5WjVkqGg",
-                "description": "イベントまでにマイクラに慣れる為のゆるーい企画です！皆でゆっくりマイクラになれる一日目\n🎀企画内容はこちらから⬇️\nhttps://x.com/mizumiya_su/..."
-            }
-        ]
+        "videos": []
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -290,6 +270,12 @@
         "avatar_url": "https://yt3.googleusercontent.com/3Wp-qrvmEyR4I4CcqrzbERgqjZkKWpptZTV9veusoh9ZeIdBTx7WfUB3uT8bnMp5ApebFERHZ9I",
         "videos": []
     },
+    "@RindoChihaya": {
+        "channel_url": "https://www.youtube.com/@RindoChihaya",
+        "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+        "avatar_url": "https://yt3.googleusercontent.com/r_CG1_hNQIcnrbXOzIKbdq23Dt7lo_QGvdkVT_q1fzSOWPZxFyvlei5N4bJSeTUhwcn3JVmsh_I",
+        "videos": []
+    },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
@@ -354,14 +340,7 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/YlQvZ9qXXOriEXQzBl6pkIWpSNwa0P9RrMGm7ezpliTF-7OzxcE0_828GSX-0f2ak-HmshPb5mM",
-        "videos": [
-            {
-                "video_id": "_J9hHSFa09A",
-                "title": "ゲリラしっとり歌枠【轟はじめ/ReGLOSS】",
-                "thumbnail": "https://i.ytimg.com/vi/_J9hHSFa09A/hqdefault.jpg?v=676037cd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACy1TMO0hCxn7eoPRSD8SIesDaKQ",
-                "description": "素敵なサムネお写真：はな様（@motimoti_0102）\n\nこのライブに用いている一部の音源は、株式会社エクシングより提供されています。\n※轟はじめと関..."
-            }
-        ]
+        "videos": []
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
