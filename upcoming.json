@@ -27,7 +27,15 @@
         "channel_url": "https://www.youtube.com/@AmaneKanata",
         "channel_name": "Kanata Ch. Kanata Amane",
         "avatar_url": "https://yt3.googleusercontent.com/e5wX9w1xSFUjaUdyhFugYZKzDZ_KLTLWBgdtRohHQDu0pshH867pyOv6gLGuqkqy5Ik8bJ9MSZU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "KQvgUAdrrE4",
+                "title": "【配信予定地】かなたそなにする【天音かなた/ホロライブ】",
+                "date": "2024/12/16 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/KQvgUAdrrE4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKHuP2pxKs4NVvuSimk9lgF60a4w",
+                "description": "なにする？\n\n---------------------------------------------------------------------------------\n\n🌌 天音かなた 1st フルアルバム\n　 「Unknown DIVA」全国流通にて発売中!!..."
+            }
+        ]
     },
     "@AnyaMelfissa": {
         "channel_url": "https://www.youtube.com/@AnyaMelfissa",
@@ -167,6 +175,13 @@
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/0NYd0NnC9mCjdu6t_i-JylPkwpz-o3IZ1eLqgG4MdXS-KUPrP36e71UysuoV9eZA1-TRG3gZ",
         "videos": [
+            {
+                "video_id": "WH7SfdWtzz0",
+                "title": "【Minecraft】初めてのマイクラ！わたしは成長コンテンツ＃ゆるゆるFGマイクラ【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "date": "2024/12/16 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/WH7SfdWtzz0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHkLrYHbCQ0bwIYd3MXmkmGb2zmw",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n◆FLOW GLOW◆\n@IsakiRiona..."
+            },
             {
                 "video_id": "g-bqnqu2fiQ",
                 "title": "【夜間警備】夜勤はじめてです...【 綺々羅々ヴィヴィ#hololiveDEV_IS #FLOWGLOW】",
@@ -524,6 +539,12 @@
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm",
+        "videos": []
+    },
+    "@holoen_gigimurin": {
+        "channel_url": "https://www.youtube.com/@holoen_gigimurin",
+        "channel_name": "Gigi Murin Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/AD2BC7S_QlNSZEHrM-pyRR0C9DOPnfK2OnuFjTK8F842WydS1HDMe6TvhESY9Er96Kt3yu0-fQ",
         "videos": []
     },
     "@holoen_raorapanthera": {
