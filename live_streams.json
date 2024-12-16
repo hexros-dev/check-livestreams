@@ -100,14 +100,7 @@
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/Z2QpYUZ4-jKoFR7Ms330gRQzjI2gZ4CB_uVP6f39YysxUe1u8icrtE07ffpRxCtpu9U65MWNDA",
-        "videos": [
-            {
-                "video_id": "ZYPLGtslsDc",
-                "title": "【#ミリしらパワプロ杯】人生初パワプロ！！2年目冬合宿！！もしかして優勝してないのってウチだけ──？【ホロライブ/宝鐘マリン】",
-                "thumbnail": "https://i.ytimg.com/vi/ZYPLGtslsDc/hqdefault.jpg?v=675fad5d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpvFMLiZF99PFzCas-QpFaw_VQMg",
-                "description": "初めての3人でチームを育成！12/25(水)に決戦！\n@usadapekora @ShiroganeNoel \n\nサムネイラスト…A-KA\nデザイン…saku39\n\n本ゲームは株式会社コナミデジタルエ..."
-            }
-        ]
+        "videos": []
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
@@ -427,7 +420,14 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/4wLMmSJkzy4vmWfWYkmzn6YO9T__jp1cORNuFXN7YyihwvhGkqXCxNBaklKoXlgdik-Fp0Zu",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "b9Vxp9tSO24",
+                "title": "【雑談＆お礼】12月が半分終わったね...！【角巻わため/ホロライブ４期生】",
+                "thumbnail": "https://i.ytimg.com/vi/b9Vxp9tSO24/hqdefault.jpg?v=675fa990&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAGjcdpippjrbeicz5pdrNrMhTiVw",
+                "description": "タグ：#ドドドライブ\n\n🐏「hololive friends with u」私服おでかけ衣装ver. 発売開始！\nhttps://shop.hololivepro.com/products/hololivefriendswithu_tsunomakiwatame_casualstreetou..."
+            }
+        ]
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -445,14 +445,7 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": [
-            {
-                "video_id": "Bb9tjeJep7w",
-                "title": "【Get To Work】滑り散らかして働く。【 雪花ラミィ /ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/Bb9tjeJep7w/hqdefault.jpg?v=675fb51f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCaCAfQB0YwaL5AvoBD5PoTZBWYEg",
-                "description": "サムネイルのイラスト：きなこ定食さま\nhttps://x.com/kinakotei\n\n本ゲームは Isto Inc. に確認の上配信・収益化を行なっております。\n\n୨୧┈┈┈┈┈┈..."
-            }
-        ]
+        "videos": []
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
@@ -483,6 +476,19 @@
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/AD2BC7S_QlNSZEHrM-pyRR0C9DOPnfK2OnuFjTK8F842WydS1HDMe6TvhESY9Er96Kt3yu0-fQ",
         "videos": []
+    },
+    "@holoen_raorapanthera": {
+        "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
+        "channel_name": "Raora Panthera Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/8XQlrbkx1vBSpFZQ_GwV6hxep9EX0xHBH-CmWknoHusxXOKGnfVytVRzpt-36PxJOfumNjiBkAI",
+        "videos": [
+            {
+                "video_id": "XUtVjOut5-Y",
+                "title": "【DRAWING】Drawing my cute senpai! #CiaoRaora",
+                "thumbnail": "https://i.ytimg.com/vi/XUtVjOut5-Y/hqdefault.jpg?v=675f9fbe&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdMNzQPVGF8hreN44xJnxonoRpqg",
+                "description": "『 X formely Twitter 』\nhttps://x.com/raorapanthera\n\n『 Hashtags 』\n╰┈➤ Live  #CiaoRaora\n╰┈➤ Fanarts  #RaorArt\n╰┈➤ Clips  #RaraWara\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
+            }
+        ]
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
