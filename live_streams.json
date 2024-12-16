@@ -290,14 +290,7 @@
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/f31Dn0ou0ob-VCRtjZTXed4m22A-bdR9ljFw-0LPa9cPicx7gY3e1vdFkrGxgz0ubHD7vCD_",
-        "videos": [
-            {
-                "video_id": "XcEs-BYKM_8",
-                "title": "【 Minecraft 】ホロ鯖で人生初のアレを作る！・・・ね！🎵 ｼｯ【音乃瀬奏・星街すいせい】#hololiveDEV_IS #ReGLOSS",
-                "thumbnail": "https://i.ytimg.com/vi/XcEs-BYKM_8/hqdefault.jpg?v=675f29ac&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_wSbe-Gbn-ckBG0RecE28VygEMA",
-                "description": "▽心強い先輩💕▽\n@HoshimachiSuisei \n\n୨୧♪:*:･･:*:･♪･:*:･･:*:･♪:♪:*:･･:*:･♪･:*:･･:*:･♪:♪:*:･･:*:･♪･:*:･･:*:･♪:୨୧\n..."
-            }
-        ]
+        "videos": []
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
@@ -364,14 +357,7 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": [
-            {
-                "video_id": "g0rPk3e9t7s",
-                "title": "【#ぽぽえびゃ】≠″ｬ｣ﾚ］ﾗ朮″♡糸半を深め∋...♡【白銀ノエル/尾丸ポルカ/沙花叉クロヱ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/g0rPk3e9t7s/hqdefault.jpg?v=675e395a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDg54A5PDX2EGs4evPd_AkDjnJ2WA",
-                "description": "訳：【#ぽぽえびゃ】ギャルコラボ♡絆を深めよ...♡(ハッシュタグは配信前に決めるね♡)\nお便り募集中！詳細こちら→ https://x.com/shiroganenoel/status/1..."
-            }
-        ]
+        "videos": []
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -395,20 +381,20 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/YlQvZ9qXXOriEXQzBl6pkIWpSNwa0P9RrMGm7ezpliTF-7OzxcE0_828GSX-0f2ak-HmshPb5mM",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "_J9hHSFa09A",
+                "title": "ゲリラしっとり歌枠【轟はじめ/ReGLOSS】",
+                "thumbnail": "https://i.ytimg.com/vi/_J9hHSFa09A/hqdefault.jpg?v=676037cd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACy1TMO0hCxn7eoPRSD8SIesDaKQ",
+                "description": "素敵なサムネお写真：はな様（@motimoti_0102）\n\nこのライブに用いている一部の音源は、株式会社エクシングより提供されています。\n※轟はじめと関..."
+            }
+        ]
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": [
-            {
-                "video_id": "w4Ami58L6_A",
-                "title": "【ゼルダの伝説 スカイウォードソード HD】一人では・・・なにもわからない【ホロライブ/ときのそら】",
-                "thumbnail": "https://i.ytimg.com/vi/w4Ami58L6_A/hqdefault.jpg?v=67600e24&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4e63IK42cKCpFknxFxaRam5NzMg",
-                "description": "探索は好きだけど視野は狭いんだ・・・。\n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n\n★★★★★★★★★★..."
-            }
-        ]
+        "videos": []
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
