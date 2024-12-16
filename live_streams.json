@@ -9,14 +9,7 @@
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
         "channel_name": "Airani Iofifteen Channel hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/bF91weVtAIL7Uhnr2HVwtCTLVKK5kVsn4FC_Ze3Gl8rkSsEjDwyey3AbQ1PDfJQ1Oeac5cePeg",
-        "videos": [
-            {
-                "video_id": "25_IatiTfEI",
-                "title": "Senin Produktif ; Nice Free Talk",
-                "thumbnail": "https://i.ytimg.com/vi/25_IatiTfEI/hqdefault.jpg?v=675ff796&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDA9_LWM8TmI-IB0j60F5l1Ko_xdg",
-                "description": "#ioLyfe #Airani_Iofifteen #hololive #holoID \n\n【Support & Jajanin IOFI】🎨\nIndonesia : https://sociabuzz.com/airaniiofifteen/tribe\nOverseas : https://streamlabs.com/airaniiofifteenchannelhololi..."
-            }
-        ]
+        "videos": []
     },
     "@AkaiHaato": {
         "channel_url": "https://www.youtube.com/@AkaiHaato",
@@ -88,6 +81,12 @@
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
         "channel_name": "Ao Ch. 火威青 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/7axTno1zkKS6RhYH7cZ9FecAkjBmZRYTwDeVoqxDdAx0wGfqatlMY10igRFEa1gpAtq5rqnDJg",
+        "videos": []
+    },
+    "@HoshimachiSuisei": {
+        "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
+        "channel_name": "Suisei Channel",
+        "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
         "videos": []
     },
     "@HoushouMarine": {
