@@ -45,7 +45,15 @@
         "channel_url": "https://www.youtube.com/@CeresFauna",
         "channel_name": "Ceres Fauna Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/cBtserkb211p6If2OewgWd8oriIKRkfwTcP4_Vdq2YETG5TK9Q02v4cYmnLU03KBAJ0gcDha7oQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "nu0m8saCjBs",
+                "title": "【MINECRAFT】 It's the most wonderful time of the weeeeek 🎶🎄",
+                "date": "2024/12/17 06:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/nu0m8saCjBs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBEP1hki16CoDpVobn9FlCP55JhLg",
+                "description": "MINECRAFT. MONDAY.\n\n✿ Artist Credits ✿\nThumbnail:  https://x.com/DDrawins/status/1867723223434989656\nThank you so much!! 💚\n\nThis game is being streamed and monetized after confirming..."
+            }
+        ]
     },
     "@FUWAMOCOch": {
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
@@ -70,27 +78,6 @@
                 "date": "2024/12/17 08:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/D_88e80AwDw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAE4rNpjcM21WcA5PjhTxFJ_7lr0g",
                 "description": "hi there\n\nThumbnail Art: https://x.com/Yahnuko/status/1867466709843816955/photo/1\n\n#telebae #hololiveenglish \n\n««≪ °◇◆◇° ≫ »»\n\nNEW MV 【KOKORONASHI】: https://www.youtube.com/live..."
-            }
-        ]
-    },
-    "@HakuiKoyori": {
-        "channel_url": "https://www.youtube.com/@HakuiKoyori",
-        "channel_name": "Koyori ch. 博衣こより - holoX -",
-        "avatar_url": "https://yt3.googleusercontent.com/WO7ItKNmy6tW_NQ82g8c1y74CZSw6GsSdynsE5s2csuEok2fHRrAaGcBV3JJO-2BxEOXXA8lvw",
-        "videos": [
-            {
-                "video_id": "8yx2TywtjMU",
-                "title": "【 #朝こよ 】告知アリ！落ち着いて聞いてください。今年もあと2週間です。な火曜日の朝も朝こよ～☀ #211 【博衣こより/hololive】",
-                "date": "2024/12/17 05:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/8yx2TywtjMU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKu9Tro2IJHchXe_x9G3kiStcQ9Q",
-                "description": "🎁3周年記念グッズ販売中！（1/6(月)18:00まで）🔽\nhttps://shop.hololivepro.com/products/hakuikoyori_an3rd\n💿博衣こより1stアルバム『FIRST STEP』先行予約受付中..."
-            },
-            {
-                "video_id": "cCdMC3BGdgg",
-                "title": "【風来のシレン2】ニンテンドー64実機で名作ローグライク「風来のシレン2 鬼襲来！シレン城！」を完全初見でやってみる！！！【博衣こより/ホロライブ】",
-                "date": "2024/12/17 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/cCdMC3BGdgg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBstngSvV_H4L28iDOOhn6sM56ZiA",
-                "description": "シレン64をやるためにニンテンドー64を買いました！！！こちらも名作みたい！！楽しみ！！！\n🎁3周年記念グッズ販売中！（1/6(月)18:00まで）🔽..."
             }
         ]
     },
