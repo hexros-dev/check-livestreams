@@ -45,15 +45,7 @@
         "channel_url": "https://www.youtube.com/@CeresFauna",
         "channel_name": "Ceres Fauna Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/cBtserkb211p6If2OewgWd8oriIKRkfwTcP4_Vdq2YETG5TK9Q02v4cYmnLU03KBAJ0gcDha7oQ",
-        "videos": [
-            {
-                "video_id": "nu0m8saCjBs",
-                "title": "【MINECRAFT】 It's the most wonderful time of the weeeeek 🎶🎄",
-                "date": "2024/12/17 06:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/nu0m8saCjBs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBEP1hki16CoDpVobn9FlCP55JhLg",
-                "description": "MINECRAFT. MONDAY.\n\n✿ Artist Credits ✿\nThumbnail:  https://x.com/DDrawins/status/1867723223434989656\nThank you so much!! 💚\n\nThis game is being streamed and monetized after confirming..."
-            }
-        ]
+        "videos": []
     },
     "@FUWAMOCOch": {
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
@@ -458,7 +450,15 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/-IdVo-vK7pr0VRjJDdza1-t1Edjce1Rd1R1hon_3SRIzuQ-XVBTWOJj-UfwYPp8y40KM197_y4o",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "lkqBm4A1EPU",
+                "title": "【Balatro】My 2 friends are addicted so I wanna see what's up :D",
+                "date": "2024/12/17 07:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/lkqBm4A1EPU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB7DNks9uuLF9GcTVi8byeM7pOLIw",
+                "description": "#hololive #holoid #vestiazeta  #vtuber #balatro\n\nThis game is being streamed and monetized after confirming with Playstack.\n\n★  Donasi lokal: https://sociabuzz.com/vestiazeta/tribe\n\n\n\n-----..."
+            }
+        ]
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
