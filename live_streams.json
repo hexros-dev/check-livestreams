@@ -141,19 +141,6 @@
             }
         ]
     },
-    "@IsakiRiona": {
-        "channel_url": "https://www.youtube.com/@IsakiRiona",
-        "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-        "avatar_url": "https://yt3.googleusercontent.com/qufYdKqJ9VaUNhkP3_Wv0RranzAiwtvtOoxI_NRNMP6pCFa3lMnUKXRPd7EL4x-5OlDFp1BSpFE",
-        "videos": [
-            {
-                "video_id": "PWPhCB-LhUc",
-                "title": "【 #ゆるゆるFGマイクラ】おふろの胃袋を掴む。そしてモテる。【ホロライブ DEV_IS 響咲リオナ】",
-                "thumbnail": "https://i.ytimg.com/vi/PWPhCB-LhUc/hqdefault.jpg?v=676169ae&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBR6zdDFUE76aaE9aSpf9XPEeRWCg",
-                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております。\n\nーーーーーとりあえ..."
-            }
-        ]
-    },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -164,7 +151,14 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/i-aqA-4BPUKlCYErdtAkp2_s2AsG_8IB1saxXSSBXevz6bA8ptaIm53-SXB1_KIODP4SI4_l",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "_xtTNgohFD4",
+                "title": "【Crime Scene Cleaner】#2 im just... doing... an... honest.. job... yeah【Kaela Kovalskia / hololiveID】",
+                "thumbnail": "https://i.ytimg.com/vi/_xtTNgohFD4/hqdefault.jpg?v=67614baa&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCt9Kc6YHtL26CcilUr_fC0JZ6TLQ",
+                "description": "【Donasi lokal】Traktir yang pahit-pahit kini sangat EZGGWP!~\nLink: https://sociabuzz.com/kaelakovalskia/tribe\n\n#Kaelaif #KaelaKovalskia #holoID \n-------------------------------------------------..."
+            }
+        ]
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
@@ -323,7 +317,14 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/3Wp-qrvmEyR4I4CcqrzbERgqjZkKWpptZTV9veusoh9ZeIdBTx7WfUB3uT8bnMp5ApebFERHZ9I",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ZDNVhgtXFms",
+                "title": "【Ace Attorney: Spirit of Justice】SPIRITS, YOU SAY? (SPOILERS!)【Pavolia Reine/hololiveID 2nd gen】",
+                "thumbnail": "https://i.ytimg.com/vi/ZDNVhgtXFms/hqdefault.jpg?v=67615c8a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb6MWUCZFZba4ZYY-C2tSQtD7zHg",
+                "description": "Support me here (overseas): https://streamlabs.com/pavoliareinechhololive-id/tip\nSupport me here (Indonesia): https://sociabuzz.com/pavoliareine/tribe\n\nReine's new original song now 「Yummy..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -427,7 +428,14 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/4wLMmSJkzy4vmWfWYkmzn6YO9T__jp1cORNuFXN7YyihwvhGkqXCxNBaklKoXlgdik-Fp0Zu",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "wvEPU6XK-Lw",
+                "title": "【不審者通報しました。】え？わたしは通報する側ですよ？！！【角巻わため/ホロライブ４期生】",
+                "thumbnail": "https://i.ytimg.com/vi/wvEPU6XK-Lw/hqdefault.jpg?v=6760884f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGjbIDieWOS9PxTXlGKAI6h_g2jw",
+                "description": "不審者を探すホラーゲームらしい！\nタグ：#ドドドライブ\n\n※本ゲームは、配信ガイドラインに則り配信、収益化を行っています。\nhttps://store.steampo..."
+            }
+        ]
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
