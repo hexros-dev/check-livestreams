@@ -97,12 +97,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/7axTno1zkKS6RhYH7cZ9FecAkjBmZRYTwDeVoqxDdAx0wGfqatlMY10igRFEa1gpAtq5rqnDJg",
         "videos": []
     },
-    "@HoshimachiSuisei": {
-        "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
-        "channel_name": "Suisei Channel",
-        "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
-        "videos": []
-    },
     "@HoushouMarine": {
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
@@ -167,7 +161,14 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "4yojbs0Yrg8",
+                "title": "【DARK SOULS: REMASTERED】Hit me, I`ll hit back",
+                "thumbnail": "https://i.ytimg.com/vi/4yojbs0Yrg8/hqdefault.jpg?v=6760d68e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGcL8MD_nGRnAcYUob4xENRnLGbA",
+                "description": "NEW MV RELEASE: https://youtu.be/1ulTgWcWWRU\n\nThumbnail art: @decrilus Thank you!\nhttps://x.com/decrilus/status/1863818027583877499\n====================\n✧Twitter: https://twitter.com/kosekibijou..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -391,14 +392,7 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/-IdVo-vK7pr0VRjJDdza1-t1Edjce1Rd1R1hon_3SRIzuQ-XVBTWOJj-UfwYPp8y40KM197_y4o",
-        "videos": [
-            {
-                "video_id": "lkqBm4A1EPU",
-                "title": "【Balatro】My 2 friends are addicted so I wanna see what's up :D",
-                "thumbnail": "https://i.ytimg.com/vi/lkqBm4A1EPU/hqdefault.jpg?v=6760ac37&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB7DNks9uuLF9GcTVi8byeM7pOLIw",
-                "description": "#hololive #holoid #vestiazeta  #vtuber #balatro\n\nThis game is being streamed and monetized after confirming with Playstack.\n\n★  Donasi lokal: https://sociabuzz.com/vestiazeta/tribe\n\n\n\n-----..."
-            }
-        ]
+        "videos": []
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
