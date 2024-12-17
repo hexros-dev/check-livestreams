@@ -341,14 +341,7 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ",
-        "videos": [
-            {
-                "video_id": "HRmFxi0_LVs",
-                "title": "【INSCRYPTION】act 3 beep bop 🤖  #kfp #キアライブ",
-                "thumbnail": "https://i.ytimg.com/vi/HRmFxi0_LVs/hqdefault.jpg?v=676161db&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBD6plIhga662Zgj_pqb00XjQVlrA",
-                "description": "stream my new song, MIRAGE!✨https://cover.lnk.to/DQSp3S\n👀 Takanashi Kiara 1st Album \"Point of View\" 👀\nStreaming: https://cover.lnk.to/PointofView\n\n\n 🏵️[Twitter] 🏵️\nhttps://twitter..."
-            }
-        ]
+        "videos": []
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
@@ -445,6 +438,12 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/IzJcA0QlV4JwWH9yXi7Voa3359fHUB182xd_xxs92xd_3kuw_pa45dKeyQ9hvKl_1OhwbT6M3g",
+        "videos": []
+    },
+    "@mikenekoko": {
+        "channel_url": "https://www.youtube.com/@mikenekoko",
+        "channel_name": "みけねこch",
+        "avatar_url": "https://yt3.googleusercontent.com/xp-Gpx4379mUVBgIIKKyABkJZAEZhBdLIL2JsgTiEpvfN7G0J4NHQ2uI3ycywuNKAlXJOSmsbQ",
         "videos": []
     },
     "@usadapekora": {
