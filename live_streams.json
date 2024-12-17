@@ -16,7 +16,14 @@
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
         "channel_name": "Airani Iofifteen Channel hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/bF91weVtAIL7Uhnr2HVwtCTLVKK5kVsn4FC_Ze3Gl8rkSsEjDwyey3AbQ1PDfJQ1Oeac5cePeg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "LtRmvAe3jkQ",
+                "title": "【Balatro】Naruhodon't【 iofi / hololiveID 】",
+                "thumbnail": "https://i.ytimg.com/vi/LtRmvAe3jkQ/hqdefault.jpg?v=6761115e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBT5B-AjK87AKmcPEOSsG6xukCNvA",
+                "description": "#ioLyfe #Airani_Iofifteen #hololive #holoID #balatro\n\n本ゲームは Playstack に確認の上配信・収益化を行なっております。\n\n【Support & Jajanin IOFI】🎨\nIndonesia :..."
+            }
+        ]
     },
     "@AkaiHaato": {
         "channel_url": "https://www.youtube.com/@AkaiHaato",
@@ -141,11 +148,31 @@
             }
         ]
     },
+    "@IsakiRiona": {
+        "channel_url": "https://www.youtube.com/@IsakiRiona",
+        "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+        "avatar_url": "https://yt3.googleusercontent.com/qufYdKqJ9VaUNhkP3_Wv0RranzAiwtvtOoxI_NRNMP6pCFa3lMnUKXRPd7EL4x-5OlDFp1BSpFE",
+        "videos": [
+            {
+                "video_id": "PWPhCB-LhUc",
+                "title": "【 #ゆるゆるFGマイクラ】おふろの胃袋を掴む。そしてモテる。【ホロライブ DEV_IS 響咲リオナ】",
+                "thumbnail": "https://i.ytimg.com/vi/PWPhCB-LhUc/hqdefault.jpg?v=676169ae&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBR6zdDFUE76aaE9aSpf9XPEeRWCg",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております。\n\nーーーーーとりあえ..."
+            }
+        ]
+    },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/45G_tYF-zPHIIC9q8ZCeXSabbQCOtGgNDuX6mJbf7wyeor94YTeqOmDC3OZ3Wl89I4xq8Fn3nQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "nhlGtNfNC90",
+                "title": "【雑談】もういくつ寝るとクリスマス【儒烏風亭らでん #ReGLOSS 】",
+                "thumbnail": "https://i.ytimg.com/vi/nhlGtNfNC90/hqdefault.jpg?v=676173ca&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAjJGuIz8Fi4dPkX4Si1IwordeQw",
+                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\nサムネイル：RyHi様\nhttps://x.com/ryhi_\n\n◢◤￣￣..."
+            }
+        ]
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -293,7 +320,14 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/Z78RNXxUqpOGYKFt-VrJV7nlehOHzl7Ta-l1cgPx5Ewucmr5kY64iGxmPSe7QqIdM1ZhvPlEOg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "NoksSofx9ZM",
+                "title": "【HoloCure】深夜にコツコツやるぞ！ホロキュア！【ホロライブ/大神ミオ】",
+                "thumbnail": "https://i.ytimg.com/vi/NoksSofx9ZM/hqdefault.jpg?v=67617976&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFxKo3du__-ss6WBcgbjSIxbPD8A",
+                "description": "コツコツ～～\n\n本ゲームはKay Yu様に確認の上配信・収益化を行なっております。\nhttps://kay-yu.itch.io/holocure\n\n✣✣–––––––..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -343,7 +377,14 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/GF0wbwZvZAGzYg8s8d6Yh1BDcWAE9UmLAh2uf3IMJ5l_ESi3sWeRqk2XfhW3IgzMeliHpt4cAw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "tOpDh67fgls",
+                "title": "【🔴KARAOKE】深夜にはまったりバラードだよｎe💤【ホロライブ / ロボ子さん】",
+                "thumbnail": "https://i.ytimg.com/vi/tOpDh67fgls/hqdefault.jpg?v=67615c52&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJ_orXCTCyp-QJyrBxRrF6xPsjuA",
+                "description": "💬#ロボ子生放送  で呟いてね(*'ω'*)\n\n\n\n🧸喉がよわよわ状態なので声は控えめ配信中です！\nでもお水と🍯パワーでたのしんでやっていくよ！..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
