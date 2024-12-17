@@ -413,7 +413,14 @@
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "qXDTjLL4-H0",
+                "title": "【WATCH-A-LONG】The Broken Promise FT. Nerissa Ravencroft~! 💄",
+                "thumbnail": "https://i.ytimg.com/vi/qXDTjLL4-H0/hqdefault.jpg?v=67619fc7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRqr_A3O2GijuaMqMMUlFVPvcfNg",
+                "description": "* Watch The Broken Promise Here! === https://www.youtube.com/live/Oi0WDyT6xTE?si=NYcGHRNspAl1IYip ===\n* #TheBrokenPromise \n* About: hololive English -Promise- 1st Anniversary Musical. For eons,..."
+            }
+        ]
     },
     "@holoen_gigimurin": {
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
