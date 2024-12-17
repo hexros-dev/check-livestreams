@@ -83,15 +83,7 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/CTvZ3dUO8LocQMKbGkjUPysC524gC4asm5roilZmzhpBpWAWpLrhpRv0SpEaJeWm1oVP5v0g",
-        "videos": [
-            {
-                "video_id": "qyQzBoMOqXo",
-                "title": "うな(・o・🍬)【姫森ルーナ/ホロライブ】",
-                "date": "2024/12/17 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/qyQzBoMOqXo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3DWSRQUR4YwHA8l1OYotUtcvufg",
-                "description": "サムネイラスト\n　昼野いすさん　https://twitter.com/tree_isu\n\n▷====================================◁\n\n🎊#hololivefesEXPO25 情報🎊\n🔽特設サイト\nhttps://t.co/yzeGOmxECy..."
-            }
-        ]
+        "videos": []
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -139,7 +131,15 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/45G_tYF-zPHIIC9q8ZCeXSabbQCOtGgNDuX6mJbf7wyeor94YTeqOmDC3OZ3Wl89I4xq8Fn3nQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "nhlGtNfNC90",
+                "title": "【雑談】もういくつ寝るとクリスマス【儒烏風亭らでん #ReGLOSS 】",
+                "date": "2024/12/17 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/nhlGtNfNC90/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAjJGuIz8Fi4dPkX4Si1IwordeQw",
+                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\nサムネイル：RyHi様\nhttps://x.com/ryhi_\n\n◢◤￣￣..."
+            }
+        ]
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
