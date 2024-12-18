@@ -134,6 +134,19 @@
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
         "videos": []
     },
+    "@IsakiRiona": {
+        "channel_url": "https://www.youtube.com/@IsakiRiona",
+        "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+        "avatar_url": "https://yt3.googleusercontent.com/qufYdKqJ9VaUNhkP3_Wv0RranzAiwtvtOoxI_NRNMP6pCFa3lMnUKXRPd7EL4x-5OlDFp1BSpFE",
+        "videos": [
+            {
+                "video_id": "iUJ1o1M7D0I",
+                "title": "【 #ゆるゆるFGマイクラ】最終日！もし１位になれたら枢ちゃんに・・・【ホロライブ DEV_IS 響咲リオナ】",
+                "thumbnail": "https://i.ytimg.com/vi/iUJ1o1M7D0I/hqdefault.jpg?v=6761c63c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzAPKlF0s6nrPDxoO_TuGCHXsf-Q",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております。\n\nーーーーーとりあえ..."
+            }
+        ]
+    },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -144,7 +157,14 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/i-aqA-4BPUKlCYErdtAkp2_s2AsG_8IB1saxXSSBXevz6bA8ptaIm53-SXB1_KIODP4SI4_l",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "D0JX1FikLWA",
+                "title": "【Core Keeper】chill night fighting the boss【hololiveID】",
+                "thumbnail": "https://i.ytimg.com/vi/D0JX1FikLWA/hqdefault.jpg?v=6762c1fd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCy9ytToiq3C8ljbkyonuxYtlmBrQ",
+                "description": "【Donasi lokal】Traktir yang pahit-pahit kini sangat EZGGWP!~\nLink: https://sociabuzz.com/kaelakovalskia/tribe\n\n#Kaelaif #KaelaKovalskia #holoID \n-------------------------------------------------..."
+            }
+        ]
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
@@ -290,7 +310,7 @@
         "videos": [
             {
                 "video_id": "EN_KKdBRj2U",
-                "title": "【全体同時視聴】『探偵はBARはいる』観るなり！GOすすきの！ #ポルカ公演中 【尾丸ポルカ/ホロライブ】",
+                "title": "【全体同時視聴】『探偵はBARにいる』観るなり！GOすすきの！ #ポルカ公演中 【尾丸ポルカ/ホロライブ】",
                 "thumbnail": "https://i.ytimg.com/vi/EN_KKdBRj2U/hqdefault.jpg?v=6762a355&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9nPDnbW8_OQbz_hPJJ-n4KD9Fyg",
                 "description": "アマプラ：https://www.amazon.co.jp/gp/video/detail/amzn1.dv.gti.7ea9f55d-18a7-0880-8a22-5276ae19dec1?autoplay=0&ref_=atv_cf_strg_wb\nゆーねく：https://www.video.unext.jp/title/SID0015628?u..."
             }
@@ -423,14 +443,7 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": [
-            {
-                "video_id": "aE6I_u9Lcds",
-                "title": "【そらでん】２人でオペラ見てきました！【ホロライブ/ときのそら/儒烏風亭らでん】",
-                "thumbnail": "https://i.ytimg.com/vi/aE6I_u9Lcds/hqdefault.jpg?v=676255fe&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWiy5w1-yTCEt8OeUv_E3W4HDXVA",
-                "description": "2人でおでかけしてきたので、お話します！！\n\n～サムネ＆コラボ～\n儒烏風亭らでん\n@JuufuuteiRaden \n\n★★★★★★★★★★★★★★★★★★★★★★..."
-            }
-        ]
+        "videos": []
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
