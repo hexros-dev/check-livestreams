@@ -238,7 +238,14 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/f4uYWHJxiGwyXm8NUlm818N1MRnywtgL6wM8JdWqWsKBzI7v1eg8dxDWG7igkWuukUSiufydqPg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "szOlDE42Rcc",
+                "title": "【SONIC X SHADOW GENERATIONS】 Time to Get Back Up to SPEED (I Think...)",
+                "thumbnail": "https://i.ytimg.com/vi/szOlDE42Rcc/hqdefault.jpg?v=67612c57&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAljMC44Y_ZpmDPYyIJm69UDUU7Pg",
+                "description": "This stream is sponsored by SEGA CORPORATION!\nThank you!\n\n【Thumbnail Art】\n--\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\n__________________________________________________________________..."
+            }
+        ]
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -256,12 +263,6 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": []
-    },
-    "@OtonoseKanade": {
-        "channel_url": "https://www.youtube.com/@OtonoseKanade",
-        "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
-        "avatar_url": "https://yt3.googleusercontent.com/f31Dn0ou0ob-VCRtjZTXed4m22A-bdR9ljFw-0LPa9cPicx7gY3e1vdFkrGxgz0ubHD7vCD_",
         "videos": []
     },
     "@OuroKronii": {
