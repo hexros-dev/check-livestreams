@@ -21,13 +21,27 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/Mb9fXGVoUZWSKCLz-W0NE_gMihhpESzfEFQ-1C9xZ3FjW6Az3979WPlZ9ga4l8cDPak6fpUQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "oe7ss511wyc",
+                "title": "【Philips TAE7009】ロボタールで音を楽しむASA！￤アベレーション【アキロゼ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/oe7ss511wyc/hqdefault.jpg?v=6761b0cc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAB65cRHdezhbMHhMa20I-RhAe8Kg",
+                "description": "提供：Philips Audio\n \n ▼アキ・ローゼンタール＆ロボ子さんタイアップ記念セール実施中▼\n Amazon：https://www.amazon.co.jp/promotion/psp/A2Z10I140YZVIW\n\n ※セー..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
         "channel_name": "Kanata Ch. Kanata Amane",
         "avatar_url": "https://yt3.googleusercontent.com/e5wX9w1xSFUjaUdyhFugYZKzDZ_KLTLWBgdtRohHQDu0pshH867pyOv6gLGuqkqy5Ik8bJ9MSZU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Bmt5naXgOc8",
+                "title": "【漢字でGO! 集英社マンガ祭】漫画のセリフの難関当て字を読む！？【天音かなた/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/Bmt5naXgOc8/hqdefault.jpg?v=6762945e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApp99MUFB0NFCnG9cIgONcUlf6TA",
+                "description": "全てを握り潰す両拳\n\n本ゲームは Gotcha Gotcha Games の確認を得た上で配信・収益化を行なっております。\nHUNTER×HUNTER ©P1998-2024\n\nイラスト：\nhttps://x.com/..."
+            }
+        ]
     },
     "@AnyaMelfissa": {
         "channel_url": "https://www.youtube.com/@AnyaMelfissa",
@@ -69,7 +83,14 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/WO7ItKNmy6tW_NQ82g8c1y74CZSw6GsSdynsE5s2csuEok2fHRrAaGcBV3JJO-2BxEOXXA8lvw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "uqLKNgs4aXI",
+                "title": "【風来のシレン2】ニンテンドー64実機！完全初見で上級クリアしたりするぞ！！！ #2 【博衣こより/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/uqLKNgs4aXI/hqdefault.jpg?v=67626550&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANmkAVKJjyInyLif93LAbWo1bY1Q",
+                "description": "シレン64をやるためにニンテンドー64を買いました！！！こちらも名作みたい！！楽しみ！！！\n🎁3周年記念グッズ販売中！（1/6(月)18:00まで）🔽..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -159,14 +180,7 @@
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/Df9IibspJL2Dur37_ebWD6n6F0U8Fvp_1QOu5m-d7qqEAn1fRwsMiar4CvSpHrI3wA6uPw2h",
-        "videos": [
-            {
-                "video_id": "uOk1qCC0NpA",
-                "title": "【FREETALK】RARE PUBLIC YAPPING- WITH COUGHS (dw about it)【Kureiji Ollie】",
-                "thumbnail": "https://i.ytimg.com/vi/uOk1qCC0NpA/hqdefault.jpg?v=67627346&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAa_OOP0qa1MXjQERgmv83dUsRLUg",
-                "description": "#OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n==========================================\n\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/kureijiollie_bd2024..."
-            }
-        ]
+        "videos": []
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
@@ -317,7 +331,14 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "zZ8xmr3sFSs",
+                "title": "【hololive OFFICIAL CARD GAME】先行開封！！最新弾クインテットスペクトラム #ホロカ【ホロライブ/白上フブキ】",
+                "thumbnail": "https://i.ytimg.com/vi/zZ8xmr3sFSs/hqdefault.jpg?v=67627294&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcmZYNgULleTQJ2pCLIHoK2IVMyw",
+                "description": "hololive OFFICIAL CARD GAME　#ホロカ\nHP▷https://hololive-official-cardgame.com/\nX▷https://x.com/hololive_OCG\n━━━━━━━━━━━━━━━━━━━━━━\n🌽白上フ..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -329,7 +350,14 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "vQJnEywHosM",
+                "title": "#8【#ミリしらパワプロ杯】初めてのパワプロ⚾秋の全国大会優勝！次は春の甲子園に挑戦だ～🔥【白銀ノエル/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/vQJnEywHosM/hqdefault.jpg?v=67623544&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdyepFiXkcUpnCnKqLkpD-HnOwMQ",
+                "description": "🎅生誕グッズ販売中！→ https://shop.hololivepro.com/products/shiroganenoel_bd2024\n\n[NEW]秋色のさんぽ道ボイス販売中🍂→ https://shop.hololivepro.com/products/hololive_asm..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
