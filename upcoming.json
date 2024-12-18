@@ -161,6 +161,12 @@
             }
         ]
     },
+    "@KoboKanaeru": {
+        "channel_url": "https://www.youtube.com/@KoboKanaeru",
+        "channel_name": "Kobo Kanaeru Ch. hololive-ID",
+        "avatar_url": "https://yt3.googleusercontent.com/Zi6DMbqTrk8jpNKnJgbw_NxGnggsKX1omQnPeHxrZTmrVmon7zfmg5Q4XbqsHO9AMidW49zCPw",
+        "videos": []
+    },
     "@KoganeiNiko": {
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
         "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -472,15 +478,7 @@
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm",
-        "videos": [
-            {
-                "video_id": "GakHNOh7fQs",
-                "title": "【UNARCHIVED KARAOKE】Deck The Halls ~! 💄",
-                "date": "2024/12/19 03:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/GakHNOh7fQs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqblfU1f74sKh2hdLEvPXdKTa02g",
-                "description": "Unarchived karaoke time ♡ \n- Thumbnail Art by @macchirei https://x.com/macchirei [ Thank you Yatta! ]\n▬▬ι════════ﺤ\nListen to my new Christmas covers: https://open.spotify.c..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_gigimurin": {
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",

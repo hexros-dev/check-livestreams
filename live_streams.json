@@ -137,6 +137,12 @@
         "avatar_url": "https://yt3.googleusercontent.com/0NYd0NnC9mCjdu6t_i-JylPkwpz-o3IZ1eLqgG4MdXS-KUPrP36e71UysuoV9eZA1-TRG3gZ",
         "videos": []
     },
+    "@KoboKanaeru": {
+        "channel_url": "https://www.youtube.com/@KoboKanaeru",
+        "channel_name": "Kobo Kanaeru Ch. hololive-ID",
+        "avatar_url": "https://yt3.googleusercontent.com/Zi6DMbqTrk8jpNKnJgbw_NxGnggsKX1omQnPeHxrZTmrVmon7zfmg5Q4XbqsHO9AMidW49zCPw",
+        "videos": []
+    },
     "@KoganeiNiko": {
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
         "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -382,14 +388,7 @@
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
         "channel_name": "Choco Ch. 癒月ちょこ",
         "avatar_url": "https://yt3.googleusercontent.com/eB_qZXKL-jDhGyEstj9BvLL0qO_tHEMaIpkfp8M-qXYweZOpDm7uZgBwbWfxwAT7uKh_5tEj",
-        "videos": [
-            {
-                "video_id": "2UcZHr6r3Oo",
-                "title": "【Freetalk】悪魔の保健医の深夜雑談のお時間です⏰【ホロライブ/癒月ちょこ】",
-                "thumbnail": "https://i.ytimg.com/vi/2UcZHr6r3Oo/hqdefault.jpg?v=6762e6e5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADTX3fW8nIkigMir-XYHrh62QSqQ",
-                "description": "癒月ちょこ１stアルバム購入はこちら↓\nhttps://shop.hololivepro.com/products/yuzukichoco_burstsongofdestruction\n\nデジタルリリース↓\nhttps://shop.hololivepro.com/products/yuz..."
-            }
-        ]
+        "videos": []
     },
     "@dooby3d": {
         "channel_url": "https://www.youtube.com/@dooby3d",
@@ -407,7 +406,14 @@
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "GakHNOh7fQs",
+                "title": "【UNARCHIVED KARAOKE】Deck The Halls ~! 💄",
+                "thumbnail": "https://i.ytimg.com/vi/GakHNOh7fQs/hqdefault.jpg?v=67630eb6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqblfU1f74sKh2hdLEvPXdKTa02g",
+                "description": "Unarchived karaoke time ♡ \n- Thumbnail Art by @macchirei https://x.com/macchirei [ Thank you Yatta! ]\n▬▬ι════════ﺤ\nListen to my new Christmas covers: https://open.spotify.c..."
+            }
+        ]
     },
     "@holoen_gigimurin": {
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
