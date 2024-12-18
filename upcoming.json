@@ -328,19 +328,17 @@
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
         "videos": []
     },
+    "@OtonoseKanade": {
+        "channel_url": "https://www.youtube.com/@OtonoseKanade",
+        "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+        "avatar_url": "https://yt3.googleusercontent.com/f31Dn0ou0ob-VCRtjZTXed4m22A-bdR9ljFw-0LPa9cPicx7gY3e1vdFkrGxgz0ubHD7vCD_",
+        "videos": []
+    },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/flg7E5XnFWh-NhGZOydJ2QHMpFdkBGbou0OcYUiYjKVisv8UsY-FiPLrTtexXVUqPmIyDvgC",
-        "videos": [
-            {
-                "video_id": "2b3gCdvU5Sg",
-                "title": "【Just Chatting】Yap Time",
-                "date": "2024/12/18 09:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/2b3gCdvU5Sg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBd3HVZqTTsy6mZVqwAA1vgP0q_9Q",
-                "description": "[Twitter]\nhttps://twitter.com/ourokronii\n\n[Thumbnail Art]\nhttps://x.com/mizuhasi\n\n----------------------------------------------------------------------------\n\n[Viewer Rules]\nThank you for..."
-            }
-        ]
+        "videos": []
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
@@ -358,15 +356,7 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/GF0wbwZvZAGzYg8s8d6Yh1BDcWAE9UmLAh2uf3IMJ5l_ESi3sWeRqk2XfhW3IgzMeliHpt4cAw",
-        "videos": [
-            {
-                "video_id": "XV5g9U-n6dg",
-                "title": "【📸カメラ有】段ボールを開封して片付ける・・・・・・・・・・段ボールくん・・・さぁ【ホロライブ / ロボ子さん】",
-                "date": "2024/12/18 10:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/XV5g9U-n6dg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_iGfPRg43ksXUvFPSvBBAkuVUNA",
-                "description": "💬#ロボ子生放送  で呟いてね(*'ω'*)\n\nふええ・・・\n\n🧸喉がよわよわ状態なので声は控えめ配信中です！\nでもお水と🍯パワーでたのしんでやって..."
-            }
-        ]
+        "videos": []
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -402,7 +392,15 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "vQJnEywHosM",
+                "title": "#8【#ミリしらパワプロ杯】初めてのパワプロ⚾秋の全国大会優勝！次は春の甲子園に挑戦だ～🔥【白銀ノエル/ホロライブ】",
+                "date": "2024/12/18 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/vQJnEywHosM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdyepFiXkcUpnCnKqLkpD-HnOwMQ",
+                "description": "🎅生誕グッズ販売中！→ https://shop.hololivepro.com/products/shiroganenoel_bd2024\n\n[NEW]秋色のさんぽ道ボイス販売中🍂→ https://shop.hololivepro.com/products/hololive_asm..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
