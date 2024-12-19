@@ -358,7 +358,15 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZlovVsPyh8NgS37S4dfONiCBySiboGPbT9cYuirb8JM3JhSnqlpJk-8SQUEA7jPfqXpMvjaa",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "tvSRV0cXr7c",
+                "title": "My Happy Sugar Life with @MoriCalliope 【Stardew Valley】",
+                "date": "2024/12/20 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/tvSRV0cXr7c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQDnJYdqU9aFqESXafqdZrc5U70A",
+                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n\n==============..."
+            }
+        ]
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
@@ -390,7 +398,15 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/CoKMtt9uQNGPOQP_t0LaCL4N21m0TUNCxzLtKRRTBmpH0xPc0s2cZQ-uUuQkxqerbGkxJkGU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "p_KmTCWJPWY",
+                "title": "【ふるさとチョイス】ホロメンの「ふるさと納税」おすすめ品を実食！ #ホロさとチョイス2024 【獅白ぼたん/ホロライブ】",
+                "date": "2024/12/22 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/p_KmTCWJPWY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAuC1IjVPf4v0wgZC8xjPzeq1XamA",
+                "description": "今日は3人でホロメンのふるさと納税おすすめ品のチェックと実食です！\n@ShishiroBotan @JuufuuteiRaden @OtonoseKanade \n\n提供：ふるさとチョイス\nhttps://www.furus..."
+            }
+        ]
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
@@ -466,20 +482,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/QBddwfs8nHiD5V-Dm9HcRfmjpCMpIGbRfKmk6vmejPEo8hyePLSo4oHm34TSLVHswqbTNjKZOw",
         "videos": []
     },
-    "@holoen_ceciliaimmergreen": {
-        "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
-        "channel_name": "Cecilia Immergreen Ch. hololive-EN",
-        "avatar_url": "https://yt3.googleusercontent.com/LnJxTvrkHQFdFlyMY2HPtXVEwA7KHlUp8rNzBepF1GQfPQjUN9yKGIqSYOD31F22Ow9vSTn9",
-        "videos": [
-            {
-                "video_id": "vqBg6SvqimA",
-                "title": "[CHRISTMAS EVENT] holoEN casual christmas celebration!!!",
-                "date": "2024/12/20 06:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/vqBg6SvqimA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAL2p1AWBuNbAaAeFymBFWVQ8-AEQ",
-                "description": "【Christmas Voice Pack】\nEN: https://shop.hololivepro.com/en/products/hololive_christmasvoice2024\n\n【Acrylic Stands】\n▼Official Online Shop▼\nEN：https://shop.hololivepro.com/en/products/ho..."
-            }
-        ]
-    },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -490,6 +492,12 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/AD2BC7S_QlNSZEHrM-pyRR0C9DOPnfK2OnuFjTK8F842WydS1HDMe6TvhESY9Er96Kt3yu0-fQ",
+        "videos": []
+    },
+    "@holoen_raorapanthera": {
+        "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
+        "channel_name": "Raora Panthera Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/8XQlrbkx1vBSpFZQ_GwV6hxep9EX0xHBH-CmWknoHusxXOKGnfVytVRzpt-36PxJOfumNjiBkAI",
         "videos": []
     },
     "@kazamairoha": {
