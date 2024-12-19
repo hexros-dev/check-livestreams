@@ -335,12 +335,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/GF0wbwZvZAGzYg8s8d6Yh1BDcWAE9UmLAh2uf3IMJ5l_ESi3sWeRqk2XfhW3IgzMeliHpt4cAw",
         "videos": []
     },
-    "@SakamataChloe": {
-        "channel_url": "https://www.youtube.com/@SakamataChloe",
-        "channel_name": "Chloe ch. 沙花叉クロヱ - holoX -",
-        "avatar_url": "https://yt3.googleusercontent.com/_xNtPLKQcQxMTnOr4tAcGz0GEeESsi0bQX9mJEP3fx_50a8GUfUyOG1eyLIld2cCz6GvKABwpQ",
-        "videos": []
-    },
     "@SakuraMiko": {
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
@@ -369,7 +363,15 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "zKEEfeL8coU",
+                "title": "【#ホロライブサンタバトル】真のサンタは誰だ！？ノエルってクリスマスって意味...ハッ！？ホロライブバトルロワイヤル！【白銀ノエル/ホロライブ】",
+                "date": "2024/12/20 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/zKEEfeL8coU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCE8nW0iCormjgvIY3Xa3jkTXf8bw",
+                "description": "🎄生誕グッズも好評発売中✨→ https://shop.hololivepro.com/products/shiroganenoel_bd2024\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.c..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -385,7 +387,7 @@
             {
                 "video_id": "xP5wsVA2s0U",
                 "title": "【Fallout: New Vegas】making my way to the end of the game #kfp #キアライブ",
-                "date": "2024/12/20 00:00:00",
+                "date": "2024/12/20 00:10:00",
                 "thumbnail": "https://i.ytimg.com/vi/xP5wsVA2s0U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCUUVQIAx9Y7aOG_Kimob-f6RaSTg",
                 "description": "stream my new song, MIRAGE!✨https://cover.lnk.to/DQSp3S\n👀 Takanashi Kiara 1st Album \"Point of View\" 👀\nStreaming: https://cover.lnk.to/PointofView\n\n\n 🏵️[Twitter] 🏵️\nhttps://twitter..."
             }
