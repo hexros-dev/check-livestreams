@@ -152,7 +152,22 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/i-aqA-4BPUKlCYErdtAkp2_s2AsG_8IB1saxXSSBXevz6bA8ptaIm53-SXB1_KIODP4SI4_l",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "XLZZQIoD4TQ",
+                "title": "【Astro Bot】family friendly in the outer space【Kaela Kovalskia / hololiveID】",
+                "date": "2024/12/20 11:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/XLZZQIoD4TQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZAXwHUJvpvXttsa4mIzwTuXFcrw",
+                "description": "【Donasi lokal】Traktir yang pahit-pahit kini sangat EZGGWP!~\nLink: https://sociabuzz.com/kaelakovalskia/tribe\n\n#Kaelaif #KaelaKovalskia #holoID \n-------------------------------------------------..."
+            },
+            {
+                "video_id": "vq4-B3544pM",
+                "title": "【Crime Scene Cleaner】#4 LAST ONE FOR SURE 🪓【Kaela Kovalskia / hololiveID】",
+                "date": "2024/12/20 08:15:00",
+                "thumbnail": "https://i.ytimg.com/vi/vq4-B3544pM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB76yN15PifRkfKSCHXzrhyGGebuQ",
+                "description": "【Donasi lokal】Traktir yang pahit-pahit kini sangat EZGGWP!~\nLink: https://sociabuzz.com/kaelakovalskia/tribe\n\n#Kaelaif #KaelaKovalskia #holoID \n-------------------------------------------------..."
+            }
+        ]
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
@@ -392,6 +407,12 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
+        "videos": []
+    },
+    "@TokoyamiTowa": {
+        "channel_url": "https://www.youtube.com/@TokoyamiTowa",
+        "channel_name": "Towa Ch. 常闇トワ",
+        "avatar_url": "https://yt3.googleusercontent.com/meRnxbRUm5yPSwq8Q5QpI5maFApm5QTGQV_LGblQFsoO0yAV4LI-nSZ70GYwMZ_tbfSa_O8MTCU",
         "videos": []
     },
     "@TsunomakiWatame": {
