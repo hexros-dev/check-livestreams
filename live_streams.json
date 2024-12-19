@@ -45,7 +45,14 @@
         "channel_url": "https://www.youtube.com/@CeresFauna",
         "channel_name": "Ceres Fauna Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/cBtserkb211p6If2OewgWd8oriIKRkfwTcP4_Vdq2YETG5TK9Q02v4cYmnLU03KBAJ0gcDha7oQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "w1UX1_0ra5A",
+                "title": "【DOTA 2】 I made my genmates play Dota 2 with me",
+                "thumbnail": "https://i.ytimg.com/vi/w1UX1_0ra5A/hqdefault.jpg?v=67636b79&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhwGVaQ1LMAs03hOv4Src1WfXvpg",
+                "description": "DOTA WITH PROMISE LADIES @OuroKronii @IRyS @NanashiMumei @HakosBaelz \n\nThis game is being streamed and monetized which following on Valve Video Policy (https://store.steampowered.com/video_policy)..."
+            }
+        ]
     },
     "@FUWAMOCOch": {
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
@@ -189,14 +196,7 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV",
-        "videos": [
-            {
-                "video_id": "3Y2cz4jT7K0",
-                "title": "【Hololive TCG】Ready for a SIGNED CARD!! Also pulling my OWN rares?! Let's Gacha! #calliolive",
-                "thumbnail": "https://i.ytimg.com/vi/3Y2cz4jT7K0/hqdefault.jpg?v=6762d304&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMxtle3Riicgr-I0cC8GhP44OVAw",
-                "description": "SOLO LIVE TICKETS ON SALE NOW!\nhttps://www.ticketmaster.com/event/0900618BF1E836DE\n\nPrecautions\n*For General Admission area will be all-standing. \n*For Early Entry GA Ticket you will be able..."
-            }
-        ]
+        "videos": []
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
