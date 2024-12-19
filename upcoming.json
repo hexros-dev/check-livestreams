@@ -219,12 +219,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg",
         "videos": []
     },
-    "@KureijiOllie": {
-        "channel_url": "https://www.youtube.com/@KureijiOllie",
-        "channel_name": "Kureiji Ollie Ch. hololive-ID",
-        "avatar_url": "https://yt3.googleusercontent.com/Df9IibspJL2Dur37_ebWD6n6F0U8Fvp_1QOu5m-d7qqEAn1fRwsMiar4CvSpHrI3wA6uPw2h",
-        "videos": []
-    },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
         "channel_name": "Laplus ch. ラプラス・ダークネス - holoX -",
@@ -486,7 +480,15 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/meRnxbRUm5yPSwq8Q5QpI5maFApm5QTGQV_LGblQFsoO0yAV4LI-nSZ70GYwMZ_tbfSa_O8MTCU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "cBmlNNDOduc",
+                "title": "【 雑談 】色々ありました雑談",
+                "date": "2024/12/19 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/cBmlNNDOduc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBG8jIOv1myDw_JkQpidXc5R0HP_Q",
+                "description": "୨୧-------------------------------┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧\n\n🖤👾新着情報 / What's New\n\n୨୧-------------------------------..."
+            }
+        ]
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
@@ -583,10 +585,10 @@
         "videos": [
             {
                 "video_id": "0eZ2dysHb9g",
-                "title": "【配信予定】早めに帰れたらこの時間(・ω・)ぺこ！【ホロライブ/兎田ぺこら】",
+                "title": "【hololive OCG】ホロカ第二弾 12BOX開封！サイン入りSECカード当てるぞ！ぺこ！【ホロライブ/兎田ぺこら】",
                 "date": "2024/12/19 18:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/0eZ2dysHb9g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6wNdaDDRway4vhyC0BALnGECHZg",
-                "description": "サムネイラスト：()さん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ #ぺこらいぶ..."
+                "description": "１００枚当てます\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ #ぺこらいぶ でツイー..."
             }
         ]
     },
