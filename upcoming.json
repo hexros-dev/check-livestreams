@@ -45,6 +45,12 @@
         "avatar_url": "https://yt3.googleusercontent.com/e5wX9w1xSFUjaUdyhFugYZKzDZ_KLTLWBgdtRohHQDu0pshH867pyOv6gLGuqkqy5Ik8bJ9MSZU",
         "videos": []
     },
+    "@AnyaMelfissa": {
+        "channel_url": "https://www.youtube.com/@AnyaMelfissa",
+        "channel_name": "Anya Melfissa Ch. hololive-ID",
+        "avatar_url": "https://yt3.googleusercontent.com/58uF1apTqtovpieDrBCSF5pUeNU2MA6n34bdj2EBEVnySKm-VvEznGNt2puk4v4tAnA3AYh5JA",
+        "videos": []
+    },
     "@AyundaRisu": {
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
@@ -79,7 +85,15 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/WO7ItKNmy6tW_NQ82g8c1y74CZSw6GsSdynsE5s2csuEok2fHRrAaGcBV3JJO-2BxEOXXA8lvw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Hli_4HMLniI",
+                "title": "【 漢字でGO! 集英社マンガ祭 】マンガの難解漢字を読み明かせ！ホロライブの頭脳！！！【博衣こより/ホロライブ】",
+                "date": "2024/12/19 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Hli_4HMLniI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCUYijnhIYwBwyrcMIzo4_nb5pWEg",
+                "description": "この女、アニメ履修だらけである───\n🎁3周年記念グッズ販売中！（1/6(月)18:00まで）🔽\nhttps://shop.hololivepro.com/products/hakuikoyori_an3rd\n💿博衣こよ..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
