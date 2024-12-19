@@ -23,7 +23,15 @@
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
         "avatar_url": "https://yt3.googleusercontent.com/tUHzjVx8_3IchEO64NDOJGFzH-uN7b5QHUBiKqnUmwLlY0ZSxmQ1snRse4jUx0gt8dGh2MzILP4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "KHm4vy9Msq4",
+                "title": "はあちゃまっちゃま～～～～～～～～～～～♡【ホロライブ/赤井はあと】",
+                "date": "2024/12/19 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/KHm4vy9Msq4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7pAhkTqN6dUWdEp6VCZHN08UL2Q",
+                "description": "#はあちゃまなう 感想ツイートしてねっ！ゼッタイ！！！\n\n❤️‍🔥赤井はあと×はあちゃま「どちらがお好き？♡」ASMRボイス　販売中！\nhttps://sho..."
+            }
+        ]
     },
     "@AkiRosenthal": {
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
@@ -314,6 +322,12 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/3Wp-qrvmEyR4I4CcqrzbERgqjZkKWpptZTV9veusoh9ZeIdBTx7WfUB3uT8bnMp5ApebFERHZ9I",
+        "videos": []
+    },
+    "@RindoChihaya": {
+        "channel_url": "https://www.youtube.com/@RindoChihaya",
+        "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+        "avatar_url": "https://yt3.googleusercontent.com/r_CG1_hNQIcnrbXOzIKbdq23Dt7lo_QGvdkVT_q1fzSOWPZxFyvlei5N4bJSeTUhwcn3JVmsh_I",
         "videos": []
     },
     "@Robocosan": {
