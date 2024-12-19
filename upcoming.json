@@ -90,7 +90,15 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/CTvZ3dUO8LocQMKbGkjUPysC524gC4asm5roilZmzhpBpWAWpLrhpRv0SpEaJeWm1oVP5v0g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "70GWeZEbAoQ",
+                "title": "【 HoloCure 】ホロキュアリベンジ！！ナノラ討伐戦…逝くのらああああ！！！【姫森ルーナ/ホロライブ】",
+                "date": "2024/12/20 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/70GWeZEbAoQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA56g8m-FfehPygk3AyNNnniVQ17Q",
+                "description": "サムネイラスト\n　Lily is Asleepさん　https://twitter.com/Kukie_nyan\n　ポテトさん　https://twitter.com/potato7192\n\nホロキュア再生リスト\nhttps://www.youtube.com/playlist?l..."
+            }
+        ]
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -334,7 +342,15 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/r_CG1_hNQIcnrbXOzIKbdq23Dt7lo_QGvdkVT_q1fzSOWPZxFyvlei5N4bJSeTUhwcn3JVmsh_I",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "a9SrIH9wIuo",
+                "title": "【 #ホロライブサンタバトル】真のサンタは誰だ！？千速がサンタさんです！ホロライブバトルロワイヤル！【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "date": "2024/12/20 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/a9SrIH9wIuo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB96OHcaOi2IMNsgtVKAHs_RVkm9w",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n【使用MOD】\n使用MOD：Simp..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -481,6 +497,20 @@
         "channel_name": "dooby",
         "avatar_url": "https://yt3.googleusercontent.com/QBddwfs8nHiD5V-Dm9HcRfmjpCMpIGbRfKmk6vmejPEo8hyePLSo4oHm34TSLVHswqbTNjKZOw",
         "videos": []
+    },
+    "@holoen_ceciliaimmergreen": {
+        "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
+        "channel_name": "Cecilia Immergreen Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/LnJxTvrkHQFdFlyMY2HPtXVEwA7KHlUp8rNzBepF1GQfPQjUN9yKGIqSYOD31F22Ow9vSTn9",
+        "videos": [
+            {
+                "video_id": "vqBg6SvqimA",
+                "title": "[CHRISTMAS EVENT] holoEN casual christmas celebration!!!",
+                "date": "2024/12/20 06:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/vqBg6SvqimA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAL2p1AWBuNbAaAeFymBFWVQ8-AEQ",
+                "description": "【Christmas Voice Pack】\nEN: https://shop.hololivepro.com/en/products/hololive_christmasvoice2024\n\n【Acrylic Stands】\n▼Official Online Shop▼\nEN：https://shop.hololivepro.com/en/products/ho..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
