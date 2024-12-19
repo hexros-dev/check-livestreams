@@ -45,6 +45,13 @@
         "avatar_url": "https://yt3.googleusercontent.com/e5wX9w1xSFUjaUdyhFugYZKzDZ_KLTLWBgdtRohHQDu0pshH867pyOv6gLGuqkqy5Ik8bJ9MSZU",
         "videos": [
             {
+                "video_id": "EPYTbyV9Q7k",
+                "title": "【LUX】ラミィとルーナとLUXさんとのコラボ配信やるよ〜〜〜！！！【天音かなた/ホロライブ】",
+                "date": "2024/12/21 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/EPYTbyV9Q7k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCoZ9JbkJ9oj4mBZFMJB5wcKjZPUg",
+                "description": "トリートメントするしかねえ！！！！\n\n提供：ユニリーバ・ジャパン\n\n▼公式HP\nhttps://www.lux.co.jp/superrichshine_treatment/\n\n▼商品紹介ページ\n・Amazon..."
+            },
+            {
                 "video_id": "IhJW-YPJ-z0",
                 "title": "【3DLIVE】最初で最後の #かなけん3DLIVE !!【天音かなた、沙花叉クロヱ、AZKi  / ホロライブ】",
                 "date": "2024/12/22 19:00:00",
@@ -162,6 +169,20 @@
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/i-aqA-4BPUKlCYErdtAkp2_s2AsG_8IB1saxXSSBXevz6bA8ptaIm53-SXB1_KIODP4SI4_l",
         "videos": []
+    },
+    "@KikiraraVivi": {
+        "channel_url": "https://www.youtube.com/@KikiraraVivi",
+        "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+        "avatar_url": "https://yt3.googleusercontent.com/0NYd0NnC9mCjdu6t_i-JylPkwpz-o3IZ1eLqgG4MdXS-KUPrP36e71UysuoV9eZA1-TRG3gZ",
+        "videos": [
+            {
+                "video_id": "g-bqnqu2fiQ",
+                "title": "【夜間警備】夜勤はじめてです...【 綺々羅々ヴィヴィ#hololiveDEV_IS #FLOWGLOW】",
+                "date": "2024/12/21 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/g-bqnqu2fiQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDk9Axs2tEZoR1h6DbYkWBUHCPW9w",
+                "description": "本ゲームは © Chilla's Art, LLC® 2023 の承諾を得た上で配信・収益化を行なっております\nーーーーーーーー\n＜ 夜間警備＞\nhttps://store.steampowered.com/app/236..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -285,7 +306,15 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/Z78RNXxUqpOGYKFt-VrJV7nlehOHzl7Ta-l1cgPx5Ewucmr5kY64iGxmPSe7QqIdM1ZhvPlEOg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "BZdADPlErfc",
+                "title": "【COFFEE CARAVAN】大忙しのコーヒー屋さん、今日も深夜営業です！【ホロライブ/大神ミオ】",
+                "date": "2024/12/19 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/BZdADPlErfc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUqI8Usza1fS-SQ3LyC2y50-u6rw",
+                "description": "深夜にまったり...と思いきやなゲームでしたが、音はチルいのでご安心を☕✨✨\n\nサムネillustrator：にくにくにんにくさん　https://twitter.com/bignorishio..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
