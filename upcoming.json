@@ -106,12 +106,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/7axTno1zkKS6RhYH7cZ9FecAkjBmZRYTwDeVoqxDdAx0wGfqatlMY10igRFEa1gpAtq5rqnDJg",
         "videos": []
     },
-    "@HoshimachiSuisei": {
-        "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
-        "channel_name": "Suisei Channel",
-        "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
-        "videos": []
-    },
     "@HoushouMarine": {
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
@@ -141,6 +135,13 @@
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/qufYdKqJ9VaUNhkP3_Wv0RranzAiwtvtOoxI_NRNMP6pCFa3lMnUKXRPd7EL4x-5OlDFp1BSpFE",
         "videos": [
+            {
+                "video_id": "4zwdgNVQYxo",
+                "title": "【 #ホロライブサンタバトル】リオーナサンタだぞお！フォッ！フオッオオオ！【ホロライブ DEV_IS 響咲リオナ】",
+                "date": "2024/12/20 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/4zwdgNVQYxo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDyeN0-sPvYQ9-jbpEc_sph7sL4CA",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n【使用MOD】\n使用MOD：Simp..."
+            },
             {
                 "video_id": "gkLw8ToQJuE",
                 "title": "【JumpKing】12時間クリア耐久！！！下水道下にほぼ１２時間はもうやめたい！！！【ホロライブ DEV_IS 響咲リオナ】",
