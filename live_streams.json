@@ -65,12 +65,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/9FFCT3cu9FxyLJUUFovpPI7WRj0I7_KuApwkEaLsD0NHVVL2OPTtGn8Qga5YFbeC_47-MoEXrA",
         "videos": []
     },
-    "@HakuiKoyori": {
-        "channel_url": "https://www.youtube.com/@HakuiKoyori",
-        "channel_name": "Koyori ch. 博衣こより - holoX -",
-        "avatar_url": "https://yt3.googleusercontent.com/WO7ItKNmy6tW_NQ82g8c1y74CZSw6GsSdynsE5s2csuEok2fHRrAaGcBV3JJO-2BxEOXXA8lvw",
-        "videos": []
-    },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
@@ -400,7 +394,14 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/LnJxTvrkHQFdFlyMY2HPtXVEwA7KHlUp8rNzBepF1GQfPQjUN9yKGIqSYOD31F22Ow9vSTn9",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "2ocn3hhyVdM",
+                "title": "[WE WERE HERE] this is what perfect, calm communication and teamwork looks like... CCGG TIME!",
+                "thumbnail": "https://i.ytimg.com/vi/2ocn3hhyVdM/hqdefault.jpg?v=67654699&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDIzKBbuDS-i4rKeYgutNIG2THMkQ",
+                "description": "with: @holoen_gigimurin \n\n【Christmas Voice Pack】\nEN: https://shop.hololivepro.com/en/products/hololive_christmasvoice2024\n\n【Acrylic Stands】\n▼Official Online Shop▼\nEN：https://shop.holo..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
@@ -412,7 +413,14 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/AD2BC7S_QlNSZEHrM-pyRR0C9DOPnfK2OnuFjTK8F842WydS1HDMe6TvhESY9Er96Kt3yu0-fQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "8n0F1Kpwllg",
+                "title": "【WE WERE HERE】CC & GG WERE HERE!!!!!!!!!!!!!!!",
+                "thumbnail": "https://i.ytimg.com/vi/8n0F1Kpwllg/hqdefault.jpg?v=67655ab0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFyr0fnBQGzB3duneQXRWSo0Af2Q",
+                "description": "This game is being streamed and monetized after confirming with Total Mayhem Games.\n\nthumbnail: https://x.com/2nochuu/status/1868476878618796424\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
