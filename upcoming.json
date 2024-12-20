@@ -54,7 +54,7 @@
         "videos": [
             {
                 "video_id": "EPYTbyV9Q7k",
-                "title": "【 #ホロLUX 】ラミィとルーナとLUXさんとのコラボ配信やるよ〜〜〜！！！【天音かなた、姫森ルーナ、雪花ラミィ/ホロライブ】",
+                "title": "【 ホロLUX 】ラミィとルーナとLUXさんとのコラボ配信やるよ〜〜〜！！！【天音かなた、姫森ルーナ、雪花ラミィ/ホロライブ】",
                 "date": "2024/12/21 18:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/EPYTbyV9Q7k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCoZ9JbkJ9oj4mBZFMJB5wcKjZPUg",
                 "description": "トリートメントするしかねえ！！！！\n\n提供：ユニリーバ・ジャパン\n\n▼公式HP\nhttps://www.lux.co.jp/superrichshine_treatment/\n\n▼商品紹介ページ\n・Amazon..."
@@ -382,15 +382,7 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/G92yBEhkf9R2mEpayuPvhwlA42tYAPOcNi2r77JeL7ic0ETS_FvTkwkBHjvR6iCqUk7TOlpROQ",
-        "videos": [
-            {
-                "video_id": "cAFxzBz8M80",
-                "title": "【 DON'T SCREAM 】叫んだら即終了ゲーと聞きました【 猫又おかゆ/ホロライブ 】",
-                "date": "2024/12/20 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/cAFxzBz8M80/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_EqawROtuO2VRGC_UUJELlZohEg",
-                "description": "-\n\n本ゲームは Digital Cybercherries に確認の上配信・収益化を行なっております。\nhttps://store.steampowered.com/app/2497900/DONT_SCREAM/\n❥・・ ┈┈┈┈┈┈┈┈..."
-            }
-        ]
+        "videos": []
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -506,7 +498,15 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "NkxC6jd6OJw",
+                "title": "【＃ホロライブサンタバトル】お　ま　た　せ　❤　白上サンタさんだよ！バトロワでギャンブル♥♥【ホロライブ/白上フブキ】",
+                "date": "2024/12/20 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/NkxC6jd6OJw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBeA2EKj_YwgTfJZ46xpPt1tebxVg",
+                "description": "ドズル社さんありがとーーーーー！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！\n━━━━━━━━━━━━━━━━━━━━..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -714,7 +714,7 @@
                 "title": "【ポケポケ】はじめてのポケポケやってみる！！！Pokémon Trading Card Game Pocket　#結城さくな生放送",
                 "date": "2024/12/20 19:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/8lqdgpGnv4s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOULmK84Bm_idIMHhiiWcmpoQ8kQ",
-                "description": "🎀誕生日グッズ発売！🐾\nhttps://yuki-sakuna.stores.jp/\n\n🎀歌ってみた動画🐾\nhttps://youtube.com/playlist?list=PLErsMirGq93vRw-CcRaaZfR4QVxl2uBsb&si=BRmEr8erE6aR-UJb\n\n🎀メ..."
+                "description": "カードのパックを開封するときが一番生を実感する\n\n🎀誕生日グッズ発売！🐾\nhttps://yuki-sakuna.stores.jp/\n\n🎀歌ってみた動画🐾\nhttps://youtube.com/playlist..."
             }
         ]
     }
