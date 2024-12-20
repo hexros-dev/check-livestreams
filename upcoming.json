@@ -126,7 +126,15 @@
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
         "channel_name": "Suisei Channel",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "pEoYRVaEIP4",
+                "title": "【#AndroidかこってMUSIC】解説配信",
+                "date": "2024/12/21 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/pEoYRVaEIP4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXkrzmM6FSLTk5tIMT97vv09lhjw",
+                "description": "#PR\n提供：Google合同会社\n【特設サイト】　\nhttps://kakotte.withgoogle.com/\n\n【Androidのかこって検索とは】　　　　　　　　　　　　　　　　　　　..."
+            }
+        ]
     },
     "@HoushouMarine": {
         "channel_url": "https://www.youtube.com/@HoushouMarine",
@@ -356,7 +364,15 @@
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/f31Dn0ou0ob-VCRtjZTXed4m22A-bdR9ljFw-0LPa9cPicx7gY3e1vdFkrGxgz0ubHD7vCD_",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "pec4jbaYBKo",
+                "title": "【#ホロライブサンタバトル】真のサンタは誰だ！？誰でもいいからクリスマスプレゼントください！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+                "date": "2024/12/20 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/pec4jbaYBKo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBpGQVd_QT_ntUIUwFaE-lpe-NoPw",
+                "description": "50万人記念グッズ販売ストアはこちら！✨\n受注受付期間 : 2024年12月18日 21時00分 ～ 2025年01月20日 18時00分\nhttps://shop.hololivepro.com/products/otonosekanade_500k..."
+            }
+        ]
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
