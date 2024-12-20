@@ -59,6 +59,12 @@
         "avatar_url": "https://yt3.googleusercontent.com/uMUat6yJL2_Sk6Wg2-yn0fSIqUr_D6aKVNVoWbgeZ8N-edT5QJAusk4PI8nmPgT_DxFDTyl8",
         "videos": []
     },
+    "@HakosBaelz": {
+        "channel_url": "https://www.youtube.com/@HakosBaelz",
+        "channel_name": "Hakos Baelz Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/9FFCT3cu9FxyLJUUFovpPI7WRj0I7_KuApwkEaLsD0NHVVL2OPTtGn8Qga5YFbeC_47-MoEXrA",
+        "videos": []
+    },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
@@ -184,7 +190,14 @@
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
         "channel_name": "Moona Hoshinova hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/w8ilN5YMfG3H6SX162Fkg71BaJdYUUoHOc91cryyfdvto94IpypSjvsLaMA1MyODr2V-w-ox-h8",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "e3w5A-b5MEI",
+                "title": "【Balatro】She asked me to play this.【Moona Hoshinova】",
+                "thumbnail": "https://i.ytimg.com/vi/e3w5A-b5MEI/hqdefault.jpg?v=67651f4b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnsVE7O6U2QY21QQs1nDodKZovEg",
+                "description": "▼Moona Hoshinova「Multiverse」\nhttps://lnk.to/mh_Multiverse\n\n▼Moona Hoshinova「Nightmare」\nhttps://cover.lnk.to/AeV06H\n\nStreamlabs donation link here : https://streamlabs.com/moonahoshinova..."
+            }
+        ]
     },
     "@MoriCalliope": {
         "channel_url": "https://www.youtube.com/@MoriCalliope",
