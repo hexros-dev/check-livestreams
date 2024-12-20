@@ -395,7 +395,15 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/d9aIrGtZR0eI4k1Wnev5f_R4llIBsWnQOjkdsqkMycoAxA3g_zz-jyeBl8tEHfbm1iTg0SJj",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "MDgiZNlbyLg",
+                "title": "【TCG Card Shop Simulator】年超す前に２００万カード出すわね【不知火フレア/ホロライブ】",
+                "date": "2024/12/21 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/MDgiZNlbyLg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2PKeAkBZ0OEpLDTfOQQV0Sb_3Kg",
+                "description": "ホロライブ所属３期生の不知火フレア(Flare Shiranui)だよ～\n今年最後におみくじ引いたら「凶」だったけど\n━━━━━━━━━━━━━━━━━━..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
