@@ -98,15 +98,7 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/CTvZ3dUO8LocQMKbGkjUPysC524gC4asm5roilZmzhpBpWAWpLrhpRv0SpEaJeWm1oVP5v0g",
-        "videos": [
-            {
-                "video_id": "70GWeZEbAoQ",
-                "title": "【 HoloCure 】ホロキュアリベンジ！！ナノラ討伐戦…逝くのらああああ！！！【姫森ルーナ/ホロライブ】",
-                "date": "2024/12/20 21:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/70GWeZEbAoQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA56g8m-FfehPygk3AyNNnniVQ17Q",
-                "description": "サムネイラスト\n　Lily is Asleepさん　https://twitter.com/Kukie_nyan\n　ポテトさん　https://twitter.com/potato7192\n\nホロキュア再生リスト\nhttps://www.youtube.com/playlist?l..."
-            }
-        ]
+        "videos": []
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -144,7 +136,15 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/JyixAV--9ZFWIMEwRQFbZhkiQTEvb1ALCdX7bW9BarpyLBjAnbbmc98jymhVT_pZlJpWaDwk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "CsoVsArngN4",
+                "title": "【朝活】おはよ～まったり🌸ビビッドワールド（体験版）やるよぉ～【一条莉々華/hololive DEV_IS　ReGLOSS】",
+                "date": "2024/12/21 05:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/CsoVsArngN4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC20o5N-IKh8GKeV-Dc7Z9wyQC0cA",
+                "description": "本ゲームは 株式会社アソビズム 様の許諾を受けて配信、収益化を行なっております。\n\n▼サムネイラスト\nみくりうに⁂様\n@mikuriuni\n\n୨୧┈┈┈┈..."
+            }
+        ]
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -222,6 +222,12 @@
         "avatar_url": "https://yt3.googleusercontent.com/roGS60A8a_lDbVakIg1JU3u3hbtjHSTilMGHMizuPKh7tuoY2nl46raxuW2f_83IKFGMjL6Z",
         "videos": []
     },
+    "@MizumiyaSu": {
+        "channel_url": "https://www.youtube.com/@MizumiyaSu",
+        "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+        "avatar_url": "https://yt3.googleusercontent.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw",
+        "videos": []
+    },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
@@ -244,15 +250,7 @@
         "channel_url": "https://www.youtube.com/@MurasakiShion",
         "channel_name": "Shion Ch. 紫咲シオン",
         "avatar_url": "https://yt3.googleusercontent.com/V3GVqD-sYadScSd8QYW4x1QTRfu2RyUNyKWVRb0IJxX0gj2PV6xH32d_BJHn3l0fouPLUw6Ref0",
-        "videos": [
-            {
-                "video_id": "_PFWjSkrHsQ",
-                "title": "【ドラクエ3リメイク】完全初見ドラゴンクエスト⚔️そして伝説になる【ホロライブ/紫咲シオン】",
-                "date": "2024/12/20 21:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/_PFWjSkrHsQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYUZE_mSHP_ITkqFDCF6yuDcqaSA",
-                "description": "そして伝説へ・・・。\n優しく教えて～～～ねっ、優しく！！！！！！！！\n\n💜紫咲シオン4thオリジナル曲💜\nゴメンねメディスン公開されました..."
-            }
-        ]
+        "videos": []
     },
     "@NakiriAyame": {
         "channel_url": "https://www.youtube.com/@NakiriAyame",
@@ -396,7 +394,15 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Ex1wjpOzOCs",
+                "title": "#01【ネタバレが激しすぎるRPG2】大人気ネタバレシリーズの2作目！第2章～やるよ🎮✨【白銀ノエル/ホロライブ】※ネタバレ注意！",
+                "date": "2024/12/21 15:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Ex1wjpOzOCs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFAeZV3MZjH61X-UpfKv15dw75Bw",
+                "description": "前回はこちら→ https://youtube.com/live/zKEEfeL8coU\n※SNSに「核心をつくネタバレ」をアップすることは控えてください！\n(どうしても切り抜きやSNSにネタ..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",

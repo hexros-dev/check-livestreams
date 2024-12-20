@@ -82,7 +82,14 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/CTvZ3dUO8LocQMKbGkjUPysC524gC4asm5roilZmzhpBpWAWpLrhpRv0SpEaJeWm1oVP5v0g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "70GWeZEbAoQ",
+                "title": "【 HoloCure 】ホロキュアリベンジ！！ナノラ討伐戦…逝くのらああああ！！！【姫森ルーナ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/70GWeZEbAoQ/hqdefault.jpg?v=67646684&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA56g8m-FfehPygk3AyNNnniVQ17Q",
+                "description": "サムネイラスト\n　Lily is Asleepさん　https://twitter.com/Kukie_nyan\n　ポテトさん　https://twitter.com/potato7192\n\nホロキュア再生リスト\nhttps://www.youtube.com/playlist?l..."
+            }
+        ]
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -195,6 +202,12 @@
         "avatar_url": "https://yt3.googleusercontent.com/roGS60A8a_lDbVakIg1JU3u3hbtjHSTilMGHMizuPKh7tuoY2nl46raxuW2f_83IKFGMjL6Z",
         "videos": []
     },
+    "@MizumiyaSu": {
+        "channel_url": "https://www.youtube.com/@MizumiyaSu",
+        "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+        "avatar_url": "https://yt3.googleusercontent.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw",
+        "videos": []
+    },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
@@ -224,7 +237,14 @@
         "channel_url": "https://www.youtube.com/@MurasakiShion",
         "channel_name": "Shion Ch. 紫咲シオン",
         "avatar_url": "https://yt3.googleusercontent.com/V3GVqD-sYadScSd8QYW4x1QTRfu2RyUNyKWVRb0IJxX0gj2PV6xH32d_BJHn3l0fouPLUw6Ref0",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "_PFWjSkrHsQ",
+                "title": "【ドラクエ3リメイク】完全初見ドラゴンクエスト⚔️そして伝説になる【ホロライブ/紫咲シオン】",
+                "thumbnail": "https://i.ytimg.com/vi/_PFWjSkrHsQ/hqdefault.jpg?v=67656c08&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYUZE_mSHP_ITkqFDCF6yuDcqaSA",
+                "description": "そして伝説へ・・・。\n優しく教えて～～～ねっ、優しく！！！！！！！！\n\n💜紫咲シオン4thオリジナル曲💜\nゴメンねメディスン公開されました..."
+            }
+        ]
     },
     "@NakiriAyame": {
         "channel_url": "https://www.youtube.com/@NakiriAyame",
@@ -362,14 +382,7 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/gHSAYjapvrPWUKNofcX6zP8izFYK-CbsiZEpkuNgGpPluu7zyC_3yPu0IbpL2Rh_QjBxPKOjLA",
-        "videos": [
-            {
-                "video_id": "EMDwdSrh-P0",
-                "title": "【 #おにかん1ブロック 】久々のおにかんワンブロ・・・！【百鬼あやめ/鷹嶺ルイ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/EMDwdSrh-P0/hqdefault.jpg?v=676487f3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUfirLnH8MjV_ne4QARGaR30_kEA",
-                "description": "おにかんワンブロ生活\n\n😈おにかんメンバー🥀\n@NakiriAyame \n@TakaneLui \n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms)..."
-            }
-        ]
+        "videos": []
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
