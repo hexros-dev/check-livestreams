@@ -286,7 +286,15 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/f4uYWHJxiGwyXm8NUlm818N1MRnywtgL6wM8JdWqWsKBzI7v1eg8dxDWG7igkWuukUSiufydqPg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "PucnxfKb8ZU",
+                "title": "【KUUKIYOMI 4】 I'm Somewhat of an Air-reader Myself + EXCITING ANNOUNCEMENT AT THE END!!!!!!",
+                "date": "2024/12/22 06:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/PucnxfKb8ZU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTyl-7jbF5QNHwJRYSRemrMRU1Fg",
+                "description": "【Thumbnail Art】\n--\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\n__________________________________________________________________________________________\n\nThis game is being streamed..."
+            }
+        ]
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -575,6 +583,14 @@
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/t9CcBvjTjs5D_sLZjtGkcfaTyiZCrx0nyOf7ekj3Fut9gZD76G00x12TK8Jg4czmBWjXcUtP9yE",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Zey9W6Q3X1A",
+                "title": "わ！すごいしゃべる！そして告知がありますと！#結城さくな生放送",
+                "date": "2024/12/21 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Zey9W6Q3X1A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPYYsvfxOtkG2gjKxioyKdgHZb9g",
+                "description": "🎀誕生日グッズ発売！🐾\nhttps://yuki-sakuna.stores.jp/\n\n🎀歌ってみた動画🐾\nhttps://youtube.com/playlist?list=PLErsMirGq93vRw-CcRaaZfR4QVxl2uBsb&si=BRmEr8erE6aR-UJb\n\n🎀メ..."
+            }
+        ]
     }
 }
