@@ -227,7 +227,15 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "yDtcpnLqMqA",
+                "title": "【雑談／freetalk】数の子って野菜じゃないらしいよ。【FLOW GLOW 水宮枢】#hololiveDEV_IS",
+                "date": "2024/12/22 09:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/yDtcpnLqMqA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBuLCrav3yLxTQ7sH7F_RDhBJF7gQ",
+                "description": "ぐっどもーにんぐすぎる朝に聞きたいんだけど重い女の何がいけないんだ？\n\n朝だってコーヒー飲むじゃん\nそれと一緒じゃない？？\n\n▹◃┄▸◂┄..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -392,6 +400,20 @@
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
         "videos": []
+    },
+    "@ShiranuiFlare": {
+        "channel_url": "https://www.youtube.com/@ShiranuiFlare",
+        "channel_name": "Flare Ch. 不知火フレア",
+        "avatar_url": "https://yt3.googleusercontent.com/d9aIrGtZR0eI4k1Wnev5f_R4llIBsWnQOjkdsqkMycoAxA3g_zz-jyeBl8tEHfbm1iTg0SJj",
+        "videos": [
+            {
+                "video_id": "4j9KbtM4yFk",
+                "title": "【HoloCure】朝活でアチーブメント集めるわよ！【不知火フレア/ホロライブ】",
+                "date": "2024/12/22 07:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/4j9KbtM4yFk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHQD1lekvG3L_YZosOh7MRNXBz1Q",
+                "description": "ホロライブ所属３期生の不知火フレア(Flare Shiranui)だよ～\n\n━━━━━━━━━━━━━━━━━━━━━━━\n■Newシングル「マーブル冴える」MV..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
