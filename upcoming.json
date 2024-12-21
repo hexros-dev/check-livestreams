@@ -306,7 +306,15 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/Z78RNXxUqpOGYKFt-VrJV7nlehOHzl7Ta-l1cgPx5Ewucmr5kY64iGxmPSe7QqIdM1ZhvPlEOg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "KEArX1o9sEY",
+                "title": "【オフコラボ】いろはにほへっとあやふぶみ、忘年会で鍋パです【告知・お披露目あり】",
+                "date": "2024/12/21 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/KEArX1o9sEY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAN587-Pfqm8NXC63Y_3ZpG6baePA",
+                "description": "お久しぶりのいろはにほへっとあやふぶみです！\n鍋パしながらまったり～～...ん？告知？お披露目？\nなべ食ってる場合なのかー－－？！？！..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -468,15 +476,7 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": [
-            {
-                "video_id": "OCbVgnMsyyg",
-                "title": "【ネタバレあり】FINAL FANTASY Ⅵ～知識はあるが、クリアしたことはない～【ホロライブ/ときのそら】",
-                "date": "2024/12/21 11:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/OCbVgnMsyyg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQv0VXKQIF2oawz1PMtDrD7nqMnA",
-                "description": "FINAL FANTASY Ⅵ（ピクセルリマスター）\nの実況をしていこうと思います！\n若干遊んだことはある！！\n\n※ネタバレ注意の作品です。切り抜き・スク..."
-            }
-        ]
+        "videos": []
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
