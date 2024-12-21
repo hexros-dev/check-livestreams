@@ -27,7 +27,14 @@
         "channel_url": "https://www.youtube.com/@AmaneKanata",
         "channel_name": "Kanata Ch. Kanata Amane",
         "avatar_url": "https://yt3.googleusercontent.com/e5wX9w1xSFUjaUdyhFugYZKzDZ_KLTLWBgdtRohHQDu0pshH867pyOv6gLGuqkqy5Ik8bJ9MSZU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "EPYTbyV9Q7k",
+                "title": "【 ホロLUX 】ラミィとルーナとLUXさんとのコラボ配信やるよ〜〜〜！！！【天音かなた、姫森ルーナ、雪花ラミィ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/EPYTbyV9Q7k/hqdefault.jpg?v=67641145&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCoZ9JbkJ9oj4mBZFMJB5wcKjZPUg",
+                "description": "トリートメントするしかねえ！！！！\n\n提供：ユニリーバ・ジャパン\n\n▼公式HP\nhttps://www.lux.co.jp/superrichshine_treatment/\n\n▼商品紹介ページ\n・Amazon..."
+            }
+        ]
     },
     "@AnyaMelfissa": {
         "channel_url": "https://www.youtube.com/@AnyaMelfissa",
@@ -87,14 +94,7 @@
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
         "channel_name": "Suisei Channel",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
-        "videos": [
-            {
-                "video_id": "pEoYRVaEIP4",
-                "title": "【#AndroidかこってMUSIC】解説配信",
-                "thumbnail": "https://i.ytimg.com/vi/pEoYRVaEIP4/hqdefault.jpg?v=676438ce&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXkrzmM6FSLTk5tIMT97vv09lhjw",
-                "description": "#PR\n提供：Google合同会社\n【特設サイト】　\nhttps://kakotte.withgoogle.com/\n\n【Androidのかこって検索とは】　　　　　　　　　　　　　　　　　　　..."
-            }
-        ]
+        "videos": []
     },
     "@HoushouMarine": {
         "channel_url": "https://www.youtube.com/@HoushouMarine",
@@ -227,14 +227,7 @@
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/wIqM7MWDN94PoibzPmeog7WOt8jFKTKZBOBFEbLBaiUAdKLwoqdLC_CN7B7Gby-FWH-076rN",
-        "videos": [
-            {
-                "video_id": "oGHK7sqQufg",
-                "title": "【アソビ大全】リバーシ最弱王決定戦！【ホロライブ/夏色まつり】",
-                "thumbnail": "https://i.ytimg.com/vi/oGHK7sqQufg/hqdefault.jpg?v=67652346&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwGqZOtp8BOdb_kfb1yNSY6u13qA",
-                "description": "【よわよわ】\n@TodorokiHajime \n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n...｡oо○**○оo｡...｡oо○**○оo｡...｡o..."
-            }
-        ]
+        "videos": []
     },
     "@NekomataOkayu": {
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
@@ -265,13 +258,27 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/KE2NpU0fd43SXO-G46SSyPOEgyjHW7FnU_SAly2t5URFS4X-I85ILTAOzhrSZ6_3_jU4d6IjRvY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "GYSl-gERzkI",
+                "title": "【ユニコーンオーバーロード】初見実況プレイ⚔️気になってたんです※ネタバレあり #ポルカ公演中 【尾丸ポルカ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/GYSl-gERzkI/hqdefault.jpg?v=67667004&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdaALv2uromkOmVWQ6ev6mjgqnCw",
+                "description": "まいどおなじみ！！！！\nできるかできないかとにかく気になったらプレイだ！！！！！\n\n\nガイドライン\nhttps://www.atlus.co.jp/news/23279/\n\n本動画は株式..."
+            }
+        ]
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/Z78RNXxUqpOGYKFt-VrJV7nlehOHzl7Ta-l1cgPx5Ewucmr5kY64iGxmPSe7QqIdM1ZhvPlEOg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "KEArX1o9sEY",
+                "title": "【オフコラボ】いろはにほへっとあやふぶみ、忘年会で鍋パです【告知・お披露目あり】",
+                "thumbnail": "https://i.ytimg.com/vi/KEArX1o9sEY/hqdefault.jpg?v=67663e84&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAN587-Pfqm8NXC63Y_3ZpG6baePA",
+                "description": "お久しぶりのいろはにほへっとあやふぶみです！\n鍋パしながらまったり～～...ん？告知？お披露目？\nなべ食ってる場合なのかー－－？！？！..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -307,26 +314,33 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/GF0wbwZvZAGzYg8s8d6Yh1BDcWAE9UmLAh2uf3IMJ5l_ESi3sWeRqk2XfhW3IgzMeliHpt4cAw",
-        "videos": [
-            {
-                "video_id": "44gKdvN-pgI",
-                "title": "【hololive OCG】ホロカ第二弾 12BOX開封すりゅぞおおおお👊【ホロライブ / ロボ子さん】",
-                "thumbnail": "https://i.ytimg.com/vi/44gKdvN-pgI/hqdefault.jpg?v=67661cee&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVFg9QZ0dMMPx-2_uK09a5MOMrMw",
-                "description": "💬#ロボ子生放送  で呟いてね(*'ω'*)\n\nふええ・・・今回種類が増えたんだって！！\n\n🧸喉がよわよわ状態なので声は控えめ配信中です！\nでもお水..."
-            }
-        ]
+        "videos": []
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
         "channel_name": "Chloe ch. 沙花叉クロヱ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/_xNtPLKQcQxMTnOr4tAcGz0GEeESsi0bQX9mJEP3fx_50a8GUfUyOG1eyLIld2cCz6GvKABwpQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "42Rdim2lVDk",
+                "title": "【 Get To Work 】お金も髪の毛もナイおじさんを飛ばす【ホロライブ/沙花叉クロヱ】",
+                "thumbnail": "https://i.ytimg.com/vi/42Rdim2lVDk/hqdefault.jpg?v=676694ad&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvt-Hf7h6mOyGzhfO-sGHFFVf6-g",
+                "description": "本ゲームは Isto Inc. に確認の上配信・収益化を行なっております。\n\n︵‿︵‿︵‿︵‿︵‿🐟︵‿︵‿︵‿︵‿︵‿︵‿︵\n\n「沙花叉ニュー―ス！..."
+            }
+        ]
     },
     "@SakuraMiko": {
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/gxXHmXJq_kkZ0bvTmz7R1deyOAV44zZr2keaF0ojSq7MeiOGLSzFTCoYgYR4PGDWTCoLR7eK",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ct7DiFurIps",
+                "title": "【 ギャンブル 】なにもしらないパチスロ🎰GOD当てるまでみこは店を出ない！！３日目【ホロライブ/さくらみこ】",
+                "thumbnail": "https://i.ytimg.com/vi/ct7DiFurIps/hqdefault.jpg?v=67666558&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCi0tf-aJcLxgwY_rDTZvZQZBoMdw",
+                "description": "全然わからんけどGOD当てるにぇ！！！！！！！！！！！\nルール\n・閉店時間２３時までには店を出なければならない\n・GOD当たるまで目標年内！！..."
+            }
+        ]
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
@@ -375,7 +389,14 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/gHSAYjapvrPWUKNofcX6zP8izFYK-CbsiZEpkuNgGpPluu7zyC_3yPu0IbpL2Rh_QjBxPKOjLA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "0QJLzHw4gdw",
+                "title": "【 同時視聴/Watchalong 】『ドラゴンクエスト ダイの大冒険(2020)』第65～70話【鷹嶺ルイ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/0QJLzHw4gdw/hqdefault.jpg?v=67659dda&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb-JB2TAZMD6rzBBeXhsa8R8meOw",
+                "description": "メンバーシップ限定じゃないよ！\n今日は70話まで～！！！！！！！！\n\nNetflix\nhttps://www.netflix.com/title/81374392\n\nAmazon prime Video (東映アニメチャンネル)..."
+            }
+        ]
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
@@ -393,14 +414,7 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/meRnxbRUm5yPSwq8Q5QpI5maFApm5QTGQV_LGblQFsoO0yAV4LI-nSZ70GYwMZ_tbfSa_O8MTCU",
-        "videos": [
-            {
-                "video_id": "22X4Ta9GS8M",
-                "title": "【 #ホロ新春ゲーム祭2025 】リーダー発表！メンバー発表！ゲーム発表！【常闇トワ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/22X4Ta9GS8M/hqdefault.jpg?v=67653c35&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD00G1gg01Pko5yoCPcBBA9bmLadg",
-                "description": "#ホロ新春ゲーム祭2025\n\n୨୧-------------------------------┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧\n\n🖤👾新着情報 / What's New\n..."
-            }
-        ]
+        "videos": []
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
