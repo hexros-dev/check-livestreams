@@ -74,12 +74,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/uMUat6yJL2_Sk6Wg2-yn0fSIqUr_D6aKVNVoWbgeZ8N-edT5QJAusk4PI8nmPgT_DxFDTyl8",
         "videos": []
     },
-    "@HakosBaelz": {
-        "channel_url": "https://www.youtube.com/@HakosBaelz",
-        "channel_name": "Hakos Baelz Ch. hololive-EN",
-        "avatar_url": "https://yt3.googleusercontent.com/9FFCT3cu9FxyLJUUFovpPI7WRj0I7_KuApwkEaLsD0NHVVL2OPTtGn8Qga5YFbeC_47-MoEXrA",
-        "videos": []
-    },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
@@ -597,6 +591,20 @@
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/IzJcA0QlV4JwWH9yXi7Voa3359fHUB182xd_xxs92xd_3kuw_pa45dKeyQ9hvKl_1OhwbT6M3g",
         "videos": []
+    },
+    "@mikenekoko": {
+        "channel_url": "https://www.youtube.com/@mikenekoko",
+        "channel_name": "みけねこch",
+        "avatar_url": "https://yt3.googleusercontent.com/xp-Gpx4379mUVBgIIKKyABkJZAEZhBdLIL2JsgTiEpvfN7G0J4NHQ2uI3ycywuNKAlXJOSmsbQ",
+        "videos": [
+            {
+                "video_id": "lpFRvL4dHSE",
+                "title": "伝説の１００万人耐久！！！！みなさん！力をかしてください！！！！",
+                "date": "2024/12/21 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/lpFRvL4dHSE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqu6pVYRXK5LVcr37M9tqKqbAzUw",
+                "description": "❄アクキー販売しました！\nhttps://mikenekoko.booth.pm/items/6358263\nhttps://mikenekoko.booth.pm/items/6359606\n\n❤FANBOX \nhttps://mikenekoko.fanbox.cc/\n支援していただけると活..."
+            }
+        ]
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
