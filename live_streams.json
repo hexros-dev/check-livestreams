@@ -69,14 +69,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/WO7ItKNmy6tW_NQ82g8c1y74CZSw6GsSdynsE5s2csuEok2fHRrAaGcBV3JJO-2BxEOXXA8lvw",
-        "videos": [
-            {
-                "video_id": "2nMLY2qXAgE",
-                "title": "【ロマサガ2リメイク】難易度オリジナルで完全初見ロマンシングサガ2 リベンジオブザセブンやってみる！！！ #2 【博衣こより/ホロライブ】【ネタバレあり】",
-                "thumbnail": "https://i.ytimg.com/vi/2nMLY2qXAgE/hqdefault.jpg?v=6764fad2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzJYgBRKZZKGgpEgar-MFON3yBRA",
-                "description": "2だけどストーリーは独立してるので完全初見でも楽しい！難易度オリジナルで頑張ってます！ネタバレ＆指示コメントはNGだよ！\n🎁3周年記念グ..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -94,7 +87,14 @@
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
         "channel_name": "Suisei Channel",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "pEoYRVaEIP4",
+                "title": "【#AndroidかこってMUSIC】解説配信",
+                "thumbnail": "https://i.ytimg.com/vi/pEoYRVaEIP4/hqdefault.jpg?v=676438ce&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXkrzmM6FSLTk5tIMT97vv09lhjw",
+                "description": "#PR\n提供：Google合同会社\n【特設サイト】　\nhttps://kakotte.withgoogle.com/\n\n【Androidのかこって検索とは】　　　　　　　　　　　　　　　　　　　..."
+            }
+        ]
     },
     "@HoushouMarine": {
         "channel_url": "https://www.youtube.com/@HoushouMarine",
@@ -227,13 +227,27 @@
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/wIqM7MWDN94PoibzPmeog7WOt8jFKTKZBOBFEbLBaiUAdKLwoqdLC_CN7B7Gby-FWH-076rN",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "oGHK7sqQufg",
+                "title": "【アソビ大全】リバーシ最弱王決定戦！【ホロライブ/夏色まつり】",
+                "thumbnail": "https://i.ytimg.com/vi/oGHK7sqQufg/hqdefault.jpg?v=67652346&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwGqZOtp8BOdb_kfb1yNSY6u13qA",
+                "description": "【よわよわ】\n@TodorokiHajime \n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n...｡oо○**○оo｡...｡oо○**○оo｡...｡o..."
+            }
+        ]
     },
     "@NekomataOkayu": {
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/G92yBEhkf9R2mEpayuPvhwlA42tYAPOcNi2r77JeL7ic0ETS_FvTkwkBHjvR6iCqUk7TOlpROQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "WY85e6dH4Ws",
+                "title": "【 ドラクエ3リメイク 】HD2Dの世界を堪能するぞ～～！ #05【 猫又おかゆ/ホロライブ 】※ネタバレ含む",
+                "thumbnail": "https://i.ytimg.com/vi/WY85e6dH4Ws/hqdefault.jpg?v=6765a459&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBg459rK-De6udmHaQq2fhi1c-GFA",
+                "description": "-\n\n#01 のアーカイブはこちら😼✦\nhttps://youtube.com/live/Ru2SoKRLbDE\n\nイラスト/ゴミョンさん https://x.com/Deadnooodles\n\n本動画のゲームプレイ映像は、株式会社..."
+            }
+        ]
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -361,14 +375,7 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/gHSAYjapvrPWUKNofcX6zP8izFYK-CbsiZEpkuNgGpPluu7zyC_3yPu0IbpL2Rh_QjBxPKOjLA",
-        "videos": [
-            {
-                "video_id": "xUpoSr7A0ss",
-                "title": "【 ドラクエⅩ ver.2 】完全初見。オフライン版✨セラフィちゃんかわいいねぇ♡【鷹嶺ルイ/ホロライブ】※ネタバレあり",
-                "thumbnail": "https://i.ytimg.com/vi/xUpoSr7A0ss/hqdefault.jpg?v=67659d75&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9AcZgxD76IqQhZ932BwQN8tgEnQ",
-                "description": "ともりるが声してるセラフィたんきたあああ！\n※タイトルの『※ネタバレあり』とは、【ゲーム本編のネタバレが含まれた配信】という意味でネ..."
-            }
-        ]
+        "videos": []
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
@@ -386,7 +393,14 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/meRnxbRUm5yPSwq8Q5QpI5maFApm5QTGQV_LGblQFsoO0yAV4LI-nSZ70GYwMZ_tbfSa_O8MTCU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "22X4Ta9GS8M",
+                "title": "【 #ホロ新春ゲーム祭2025 】リーダー発表！メンバー発表！ゲーム発表！【常闇トワ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/22X4Ta9GS8M/hqdefault.jpg?v=67653c35&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD00G1gg01Pko5yoCPcBBA9bmLadg",
+                "description": "#ホロ新春ゲーム祭2025\n\n୨୧-------------------------------┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧\n\n🖤👾新着情報 / What's New\n..."
+            }
+        ]
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
@@ -464,7 +478,14 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_n1iH9fDDGm8RHUzoB-XDfnTEwhlgBcP3OLjapDqHYoYVw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "KbZ3X1WF6tI",
+                "title": "【#ミリしらパワプロ杯】はじめてのパワプロ！PK學院高校、育成開始ぺこ！3年目夏～【ホロライブ/兎田ぺこら】",
+                "thumbnail": "https://i.ytimg.com/vi/KbZ3X1WF6tI/hqdefault.jpg?v=67659dff&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5WrOooOnHG9tCEFUYtTtZjg9m7Q",
+                "description": "最後の夏、甲子園優勝しよう！！！！！！！！！！！！！！！！！！！\n\n初めての3人でチームを育成！12/25(水)に決戦するぺこ！\n@usadapekora \n@Shirogane..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
