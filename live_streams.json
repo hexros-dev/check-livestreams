@@ -15,7 +15,14 @@
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
         "avatar_url": "https://yt3.googleusercontent.com/tUHzjVx8_3IchEO64NDOJGFzH-uN7b5QHUBiKqnUmwLlY0ZSxmQ1snRse4jUx0gt8dGh2MzILP4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "GRCRoNUmcvI",
+                "title": "【同時視聴】「アイ，ロボット」一緒にみよ～～～～～～！🎥✨【ホロライブ/赤井はあと】",
+                "thumbnail": "https://i.ytimg.com/vi/GRCRoNUmcvI/hqdefault.jpg?v=67676d97&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZCpso1T-qwc57BH13W4Pb8X2k1A",
+                "description": "久々に見たくなった映画見る！超近未来の話！？\n\n▼アイ，ロボット (字幕版)\nhttps://www.amazon.co.jp/gp/video/detail/B0B8TK2N8T/ref=atv_dp_share_cu_r\n\nサムネイラ..."
+            }
+        ]
     },
     "@AkiRosenthal": {
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
@@ -51,6 +58,12 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag",
+        "videos": []
+    },
+    "@GawrGura": {
+        "channel_url": "https://www.youtube.com/@GawrGura",
+        "channel_name": "Gawr Gura Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/uMUat6yJL2_Sk6Wg2-yn0fSIqUr_D6aKVNVoWbgeZ8N-edT5QJAusk4PI8nmPgT_DxFDTyl8",
         "videos": []
     },
     "@HakosBaelz": {
@@ -255,12 +268,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/f4uYWHJxiGwyXm8NUlm818N1MRnywtgL6wM8JdWqWsKBzI7v1eg8dxDWG7igkWuukUSiufydqPg",
         "videos": []
     },
-    "@OmaruPolka": {
-        "channel_url": "https://www.youtube.com/@OmaruPolka",
-        "channel_name": "Polka Ch. 尾丸ポルカ",
-        "avatar_url": "https://yt3.googleusercontent.com/KE2NpU0fd43SXO-G46SSyPOEgyjHW7FnU_SAly2t5URFS4X-I85ILTAOzhrSZ6_3_jU4d6IjRvY",
-        "videos": []
-    },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
@@ -295,14 +302,7 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/r_CG1_hNQIcnrbXOzIKbdq23Dt7lo_QGvdkVT_q1fzSOWPZxFyvlei5N4bJSeTUhwcn3JVmsh_I",
-        "videos": [
-            {
-                "video_id": "JGWixVG5G5s",
-                "title": "【Chained Together】今日こそ登頂！！！！【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "thumbnail": "https://i.ytimg.com/vi/JGWixVG5G5s/hqdefault.jpg?v=6767d138&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGB5_MHJkckWpWEx-fxjRwz-tQqw",
-                "description": "ホロ新春ゲーム祭のタイムアタックに向けてれんしゅう！！！\n\n本ゲームは Anegar Games に確認の上配信・収益化を行なっております。\n\n\nねえ、いっ..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -357,14 +357,7 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/CoKMtt9uQNGPOQP_t0LaCL4N21m0TUNCxzLtKRRTBmpH0xPc0s2cZQ-uUuQkxqerbGkxJkGU",
-        "videos": [
-            {
-                "video_id": "p_KmTCWJPWY",
-                "title": "【ふるさとチョイス】ホロメンの「ふるさと納税」おすすめ品を実食！ #ホロさとチョイス2024 【獅白ぼたん/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/p_KmTCWJPWY/hqdefault.jpg?v=67645d50&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAuC1IjVPf4v0wgZC8xjPzeq1XamA",
-                "description": "今日は3人でホロメンのふるさと納税おすすめ品のチェックと実食です！\n@ShishiroBotan @JuufuuteiRaden @OtonoseKanade \n\n提供：ふるさとチョイス\nhttps://www.furus..."
-            }
-        ]
+        "videos": []
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
@@ -418,7 +411,14 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Ig_Ba2h9DZc",
+                "title": "【#にこらみ晩酌】いらっしゃい後輩ちゃん！オフコラボ晩酌【 雪花ラミィ・虎金妃笑虎 /ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/Ig_Ba2h9DZc/hqdefault.jpg?v=6766b413&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAaP2_e5IFBJ5Ue_RACxDf9z_Y0vw",
+                "description": "可愛い後輩ちゃん！@KoganeiNiko \n\n感想は #にこらみ晩酌 で呟いて頂けたら嬉しいです！\n\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧\n\n🕺..."
+            }
+        ]
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
@@ -436,7 +436,14 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/LnJxTvrkHQFdFlyMY2HPtXVEwA7KHlUp8rNzBepF1GQfPQjUN9yKGIqSYOD31F22Ow9vSTn9",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "at-i9t_e7RI",
+                "title": "[OMORI] early stream to fix my sleep schedule! good morning hehe",
+                "thumbnail": "https://i.ytimg.com/vi/at-i9t_e7RI/hqdefault.jpg?v=67673709&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpD9-tqNxayQSKpLcKToJI8DmWGg",
+                "description": "【Christmas Voice Pack】\nEN: https://shop.hololivepro.com/en/products/hololive_christmasvoice2024\n\n【Acrylic Stands】\n▼Official Online Shop▼\nEN：https://shop.hololivepro.com/en/products/ho..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
