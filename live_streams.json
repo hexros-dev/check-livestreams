@@ -107,14 +107,7 @@
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/Z2QpYUZ4-jKoFR7Ms330gRQzjI2gZ4CB_uVP6f39YysxUe1u8icrtE07ffpRxCtpu9U65MWNDA",
-        "videos": [
-            {
-                "video_id": "PgJHU0lS-7c",
-                "title": "【#ミリしらパワプロ杯】最終回！！人生初パワプロ！！負けたら即終了夏甲子園((((；ﾟДﾟ))))ｶﾞｸｶﾞｸﾌﾞﾙﾌﾞﾙ【ホロライブ/宝鐘マリン】",
-                "thumbnail": "https://i.ytimg.com/vi/PgJHU0lS-7c/hqdefault.jpg?v=67679c60&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_SzLvXWtIo8pysFVyxmEDVlgkuw",
-                "description": "初めての3人でチームを育成！12/25(水)に決戦！\n@usadapekora @ShiroganeNoel \n\nサムネイラスト…A-KA\nデザイン…saku39\n\n本ゲームは株式会社コナミデジタルエ..."
-            }
-        ]
+        "videos": []
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
@@ -266,6 +259,12 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/f4uYWHJxiGwyXm8NUlm818N1MRnywtgL6wM8JdWqWsKBzI7v1eg8dxDWG7igkWuukUSiufydqPg",
+        "videos": []
+    },
+    "@OmaruPolka": {
+        "channel_url": "https://www.youtube.com/@OmaruPolka",
+        "channel_name": "Polka Ch. 尾丸ポルカ",
+        "avatar_url": "https://yt3.googleusercontent.com/KE2NpU0fd43SXO-G46SSyPOEgyjHW7FnU_SAly2t5URFS4X-I85ILTAOzhrSZ6_3_jU4d6IjRvY",
         "videos": []
     },
     "@OokamiMio": {
