@@ -27,15 +27,7 @@
         "channel_url": "https://www.youtube.com/@AmaneKanata",
         "channel_name": "Kanata Ch. Kanata Amane",
         "avatar_url": "https://yt3.googleusercontent.com/e5wX9w1xSFUjaUdyhFugYZKzDZ_KLTLWBgdtRohHQDu0pshH867pyOv6gLGuqkqy5Ik8bJ9MSZU",
-        "videos": [
-            {
-                "video_id": "IhJW-YPJ-z0",
-                "title": "【3DLIVE】最初で最後の #かなけん3DLIVE !!【天音かなた、沙花叉クロヱ、AZKi  / ホロライブ】",
-                "date": "2024/12/22 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/IhJW-YPJ-z0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4NXtP02X_cm9duZeiBQIx0EQs0w",
-                "description": "22:00　→　【？？？】https://youtu.be/SebgFzzswLQ\n\n歌、音楽が大好きな３人で3DLIVEがしたかった！\n\n◆かなけん（かなた建設） / ホロライブ\n天音かなた..."
-            }
-        ]
+        "videos": []
     },
     "@AnyaMelfissa": {
         "channel_url": "https://www.youtube.com/@AnyaMelfissa",
@@ -230,7 +222,15 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/bMBMxmB1YVDVazU-8KbB6JZqUHn4YzmFiQRWwEUHCeqm5REPW7HHQChC5xE6e36aqqnXgK4a",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "mD4zvOCJDRk",
+                "title": "新しいPCの様子を見るぜ！ねんね前の歌枠【 桃鈴ねね / hololive 】",
+                "date": "2024/12/22 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/mD4zvOCJDRk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtADyxExGtKf-oJ7c0LQtzxfwITA",
+                "description": "ﾄﾞｷﾄﾞｷ・・・・・・・・・・・・・・・・・・・・・・・・・\n\n⸜♡⸝MemberShipに入ったらもっとねねを知れるﾖ\nhttps://www.youtube.com/channel/UCAWS..."
+            }
+        ]
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
@@ -495,15 +495,7 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/-IdVo-vK7pr0VRjJDdza1-t1Edjce1Rd1R1hon_3SRIzuQ-XVBTWOJj-UfwYPp8y40KM197_y4o",
-        "videos": [
-            {
-                "video_id": "V_szLBNrf3E",
-                "title": "【近畿霊務局 | Kinki Spiritual Affairs Bureau 】Ghost  + FPS ?????????!?!?!",
-                "date": "2024/12/22 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/V_szLBNrf3E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdreG2fMesnfz1AHlfW-7ANuAK3A",
-                "description": "#hololive #holoid #vestiazeta  #vtuber #horrorgaming \nThis game may contain content: Gunfight, blood, and violence.\n\nThis game is being streamed and monetized in accordance with the streaming..."
-            }
-        ]
+        "videos": []
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
