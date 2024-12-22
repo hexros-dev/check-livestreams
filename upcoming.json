@@ -168,12 +168,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/i-aqA-4BPUKlCYErdtAkp2_s2AsG_8IB1saxXSSBXevz6bA8ptaIm53-SXB1_KIODP4SI4_l",
         "videos": []
     },
-    "@KikiraraVivi": {
-        "channel_url": "https://www.youtube.com/@KikiraraVivi",
-        "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
-        "avatar_url": "https://yt3.googleusercontent.com/0NYd0NnC9mCjdu6t_i-JylPkwpz-o3IZ1eLqgG4MdXS-KUPrP36e71UysuoV9eZA1-TRG3gZ",
-        "videos": []
-    },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
         "channel_name": "Kobo Kanaeru Ch. hololive-ID",
@@ -363,7 +357,15 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/GF0wbwZvZAGzYg8s8d6Yh1BDcWAE9UmLAh2uf3IMJ5l_ESi3sWeRqk2XfhW3IgzMeliHpt4cAw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "rBTwsv4wNn0",
+                "title": "【Galaxy Burger】クリスマス前にハンバーガー作って稼いできます、食べて宇宙猫さん！【ホロライブ / ロボ子さん】",
+                "date": "2024/12/22 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/rBTwsv4wNn0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYvTfjQu5lPWpark8m7FGP9lU9gg",
+                "description": "💬#ロボ子生放送  で呟いてね(*'ω'*)\n\n本ゲームは Galactic Workshop に確認の上、配信・収益化を行なっております。\n\n🧸喉がよわよわ状態なので声は..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -435,7 +437,15 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "cRB2B4RoiLE",
+                "title": "【COOKING】Handcam ON! Making fried chicken with VITE merch! #kfp #キアライブ",
+                "date": "2024/12/23 02:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/cRB2B4RoiLE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqR6Vwk16UCguxNy_Vk4Js0C2Eow",
+                "description": "stream my new song, MIRAGE!✨https://cover.lnk.to/DQSp3S\n👀 Takanashi Kiara 1st Album \"Point of View\" 👀\nStreaming: https://cover.lnk.to/PointofView\n\n\n 🏵️[Twitter] 🏵️\nhttps://twitter..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
@@ -508,6 +518,13 @@
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
         "videos": [
+            {
+                "video_id": "qiuxu7KvCdk",
+                "title": "【あつまれ どうぶつの森】#19 BGM代わりにどうぞ。どう森雑談【 雪花ラミィ /ホロライブ】",
+                "date": "2024/12/22 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/qiuxu7KvCdk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-twGsao-aV5B_u9julCfN-4aK2Q",
+                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧\n\n🕺 ダンスモー..."
+            },
             {
                 "video_id": "sYq2t99UKE4",
                 "title": "【メンバー限定】クリスマスイブ♡ASMR（オイルマッサージ・耳かき・囁きetc）【 雪花ラミィ /ホロライブ】",
