@@ -15,14 +15,7 @@
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
         "avatar_url": "https://yt3.googleusercontent.com/tUHzjVx8_3IchEO64NDOJGFzH-uN7b5QHUBiKqnUmwLlY0ZSxmQ1snRse4jUx0gt8dGh2MzILP4",
-        "videos": [
-            {
-                "video_id": "GRCRoNUmcvI",
-                "title": "【同時視聴】「アイ，ロボット」一緒にみよ～～～～～～！🎥✨【ホロライブ/赤井はあと】",
-                "thumbnail": "https://i.ytimg.com/vi/GRCRoNUmcvI/hqdefault.jpg?v=67676d97&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZCpso1T-qwc57BH13W4Pb8X2k1A",
-                "description": "久々に見たくなった映画見る！超近未来の話！？\n\n▼アイ，ロボット (字幕版)\nhttps://www.amazon.co.jp/gp/video/detail/B0B8TK2N8T/ref=atv_dp_share_cu_r\n\nサムネイラ..."
-            }
-        ]
+        "videos": []
     },
     "@AkiRosenthal": {
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
@@ -34,14 +27,7 @@
         "channel_url": "https://www.youtube.com/@AmaneKanata",
         "channel_name": "Kanata Ch. Kanata Amane",
         "avatar_url": "https://yt3.googleusercontent.com/e5wX9w1xSFUjaUdyhFugYZKzDZ_KLTLWBgdtRohHQDu0pshH867pyOv6gLGuqkqy5Ik8bJ9MSZU",
-        "videos": [
-            {
-                "video_id": "IhJW-YPJ-z0",
-                "title": "【3DLIVE】最初で最後の #かなけん3DLIVE !!【天音かなた、沙花叉クロヱ、AZKi  / ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/IhJW-YPJ-z0/hqdefault.jpg?v=67640fe1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4NXtP02X_cm9duZeiBQIx0EQs0w",
-                "description": "22:00　→　【？？？】https://youtu.be/SebgFzzswLQ\n\n歌、音楽が大好きな３人で3DLIVEがしたかった！\n\n◆かなけん（かなた建設） / ホロライブ\n天音かなた..."
-            }
-        ]
+        "videos": []
     },
     "@AnyaMelfissa": {
         "channel_url": "https://www.youtube.com/@AnyaMelfissa",
@@ -152,6 +138,12 @@
         "avatar_url": "https://yt3.googleusercontent.com/i-aqA-4BPUKlCYErdtAkp2_s2AsG_8IB1saxXSSBXevz6bA8ptaIm53-SXB1_KIODP4SI4_l",
         "videos": []
     },
+    "@KikiraraVivi": {
+        "channel_url": "https://www.youtube.com/@KikiraraVivi",
+        "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+        "avatar_url": "https://yt3.googleusercontent.com/0NYd0NnC9mCjdu6t_i-JylPkwpz-o3IZ1eLqgG4MdXS-KUPrP36e71UysuoV9eZA1-TRG3gZ",
+        "videos": []
+    },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
         "channel_name": "Kobo Kanaeru Ch. hololive-ID",
@@ -259,13 +251,27 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/KE2NpU0fd43SXO-G46SSyPOEgyjHW7FnU_SAly2t5URFS4X-I85ILTAOzhrSZ6_3_jU4d6IjRvY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "6g_K4V8lAQk",
+                "title": "【ユニコーンオーバーロード】初見実況プレイ⚔️気になってたんです※ネタバレあり #ポルカ公演中 【尾丸ポルカ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/6g_K4V8lAQk/hqdefault.jpg?v=6767d13b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnSAH7aBjYLE8qlrWHUTSvy0crfQ",
+                "description": "まいどおなじみ！！！！\nできるかできないかとにかく気になったらプレイだ！！！！！\n\n\nガイドライン\nhttps://www.atlus.co.jp/news/23279/\n\n本動画は株式..."
+            }
+        ]
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/Z78RNXxUqpOGYKFt-VrJV7nlehOHzl7Ta-l1cgPx5Ewucmr5kY64iGxmPSe7QqIdM1ZhvPlEOg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Jv4Qwft6RMg",
+                "title": "【懐メロ歌枠】懐かしい歌をうたう時間【ホロライブ/大神ミオ】",
+                "thumbnail": "https://i.ytimg.com/vi/Jv4Qwft6RMg/hqdefault.jpg?v=6767ab0f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkVsdDzuiUgIkvRoDftl6Q59Iulg",
+                "description": "懐かしい昭和平成のヒット曲を歌うよ～🎤\n\nサムネillustrator：リモリさん　https://x.com/rimori22\n\n🎤音源お借りします🎤\nカラオケ歌っちゃ王\nhttps://www..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -313,7 +319,14 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/gxXHmXJq_kkZ0bvTmz7R1deyOAV44zZr2keaF0ojSq7MeiOGLSzFTCoYgYR4PGDWTCoLR7eK",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "LP-KSFda6EQ",
+                "title": "【 ギャンブル 】なにもしらないパチスロ🎰GOD当てるまでみこは店を出ない！！４日目【ホロライブ/さくらみこ】",
+                "thumbnail": "https://i.ytimg.com/vi/LP-KSFda6EQ/hqdefault.jpg?v=6767e160&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDH9vscmyFk_sC_megHq0ZQFub9_w",
+                "description": "全然わからんけどGOD当てるにぇ！！！！！！！！！！！\nルール\n・閉店時間は２５時、、、、\n・GOD当たるまで目標年内！！！！！！！！！！..."
+            }
+        ]
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
@@ -373,12 +386,6 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/meRnxbRUm5yPSwq8Q5QpI5maFApm5QTGQV_LGblQFsoO0yAV4LI-nSZ70GYwMZ_tbfSa_O8MTCU",
-        "videos": []
-    },
-    "@TsunomakiWatame": {
-        "channel_url": "https://www.youtube.com/@TsunomakiWatame",
-        "channel_name": "Watame Ch. 角巻わため",
-        "avatar_url": "https://yt3.googleusercontent.com/4wLMmSJkzy4vmWfWYkmzn6YO9T__jp1cORNuFXN7YyihwvhGkqXCxNBaklKoXlgdik-Fp0Zu",
         "videos": []
     },
     "@VestiaZeta": {
@@ -465,7 +472,14 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_n1iH9fDDGm8RHUzoB-XDfnTEwhlgBcP3OLjapDqHYoYVw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "GCVc-GzOYE0",
+                "title": "最終回【#ミリしらパワプロ杯】はじめてのパワプロ！負けたら終了の３年目 夏の甲子園優勝するぞ！【ホロライブ/兎田ぺこら】",
+                "thumbnail": "https://i.ytimg.com/vi/GCVc-GzOYE0/hqdefault.jpg?v=6767b82d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-opYai419EP0sJMwJ9axfRgGWhQ",
+                "description": "最後の夏いくぞ！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！\n\n初めての3人でチームを育成！12/25(水)に決戦するぺこ！..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
