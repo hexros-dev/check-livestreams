@@ -17,13 +17,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/tUHzjVx8_3IchEO64NDOJGFzH-uN7b5QHUBiKqnUmwLlY0ZSxmQ1snRse4jUx0gt8dGh2MzILP4",
         "videos": [
             {
-                "video_id": "1tuKKFxidrg",
-                "title": "【 DARK SOULS III 】ゴリ押しこそ正義なり！初見のダクソ！【ホロライブ/赤井はあと】",
-                "date": "2024/12/22 11:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/1tuKKFxidrg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWGrIM2W2yhnFxbx6aCfIqcesmWQ",
-                "description": "#はあちゃまなう 感想ツイートしてねっ！ゼッタイ！！！\n\n本ゲームは株式会社フロム・ソフトウェアに確認を得た上、「動画・画像の投稿に関す..."
-            },
-            {
                 "video_id": "GRCRoNUmcvI",
                 "title": "【同時視聴】「アイ，ロボット」一緒にみよ～～～～～～！🎥✨【ホロライブ/赤井はあと】",
                 "date": "2024/12/22 18:00:00",
@@ -197,6 +190,20 @@
         "avatar_url": "https://yt3.googleusercontent.com/Zi6DMbqTrk8jpNKnJgbw_NxGnggsKX1omQnPeHxrZTmrVmon7zfmg5Q4XbqsHO9AMidW49zCPw",
         "videos": []
     },
+    "@KoganeiNiko": {
+        "channel_url": "https://www.youtube.com/@KoganeiNiko",
+        "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+        "avatar_url": "https://yt3.googleusercontent.com/CCOEFxhq858A_1QNu0VF9Y5vvXm9V4l7klSdL4FfMsOAAnVxoiAcxAlQO9RV0lCib6Fi_EkVrA",
+        "videos": [
+            {
+                "video_id": "8ldxzw3lot8",
+                "title": "【配信テスト】ぐるぐるしないよな！！ぐるたん卒業だよな！！【虎金妃笑虎】",
+                "date": "2024/12/23 15:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/8ldxzw3lot8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjuhHDZzgSOdn-m9psnCGIAGevcA",
+                "description": "サムネイル　ねこやまさん\nhttps://x.com/neko_yama/status/1869761100188921886\nクマから逃げるニコたんかわいい！！"
+            }
+        ]
+    },
     "@KosekiBijou": {
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
@@ -305,15 +312,7 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": [
-            {
-                "video_id": "UCVmyQGLobg",
-                "title": "【#7】キャプテン翼 RISE OF NEW CHAMPIONSやるしゅばああああああああああああ：Captain Tsubasa: Rise of New Champions【ネタバレあり】",
-                "date": "2024/12/22 11:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/UCVmyQGLobg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDlNLUDfCs0Eli8HObbs02Ns_dV-w",
-                "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n\nこのゲー..."
-            }
-        ]
+        "videos": []
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -456,15 +455,7 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": [
-            {
-                "video_id": "QkENgZUlHPM",
-                "title": "【ネタバレあり】FINAL FANTASY Ⅵ～一方その頃ときのそら～【ホロライブ/ときのそら】",
-                "date": "2024/12/22 11:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/QkENgZUlHPM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvooPz6XR_Nyqn1xK5mai_5y526A",
-                "description": "FINAL FANTASY Ⅵ（ピクセルリマスター）\nの実況をしていこうと思います！\n登場人物多くてわたし楽しい！！\n\n※ネタバレ注意の作品です。切り抜き..."
-            }
-        ]
+        "videos": []
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
@@ -580,15 +571,7 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_n1iH9fDDGm8RHUzoB-XDfnTEwhlgBcP3OLjapDqHYoYVw",
-        "videos": [
-            {
-                "video_id": "kRWVDuqpLYc",
-                "title": "【有馬記念】2024年有馬記念で大勝する！！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
-                "date": "2024/12/22 11:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/kRWVDuqpLYc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgyY7T7BcZQa6oBrF7t8hEi1Kt5Q",
-                "description": "大勝負や！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！\n\nサムネイラスト：右左見あむろお(@usami_amroo)さん\n\n⋈ －－－－－..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
