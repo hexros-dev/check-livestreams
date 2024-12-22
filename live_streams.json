@@ -192,14 +192,7 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw",
-        "videos": [
-            {
-                "video_id": "yDtcpnLqMqA",
-                "title": "【雑談／freetalk】数の子って野菜じゃないらしいよ。【FLOW GLOW 水宮枢】#hololiveDEV_IS",
-                "thumbnail": "https://i.ytimg.com/vi/yDtcpnLqMqA/hqdefault.jpg?v=6766f485&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBuLCrav3yLxTQ7sH7F_RDhBJF7gQ",
-                "description": "ぐっどもーにんぐすぎる朝に聞きたいんだけど重い女の何がいけないんだ？\n\n朝だってコーヒー飲むじゃん\nそれと一緒じゃない？？\n\n▹◃┄▸◂┄..."
-            }
-        ]
+        "videos": []
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -315,7 +308,14 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/r_CG1_hNQIcnrbXOzIKbdq23Dt7lo_QGvdkVT_q1fzSOWPZxFyvlei5N4bJSeTUhwcn3JVmsh_I",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "nX0lulBJZHk",
+                "title": "【 有馬記念】はじめての有馬記念！負けられない戦い！【 #虎金妃笑虎 #綺々羅々ヴィヴィ #水宮枢 #響咲 リオナ #輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "thumbnail": "https://i.ytimg.com/vi/nX0lulBJZHk/hqdefault.jpg?v=67671749&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCL8bizd9XPR-hh3DtHI8ViOLSH2w",
+                "description": "年末の大一番！！！！！\nほぼ初心者が大予想するぞ～～～～～！！\nお手柔らかにお願いします！！！\n\n参加メンバー\n@KoganeiNiko \n@KikiraraVivi \n@MizumiyaS..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
