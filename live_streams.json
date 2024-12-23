@@ -45,14 +45,7 @@
         "channel_url": "https://www.youtube.com/@CeresFauna",
         "channel_name": "Ceres Fauna Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/cBtserkb211p6If2OewgWd8oriIKRkfwTcP4_Vdq2YETG5TK9Q02v4cYmnLU03KBAJ0gcDha7oQ",
-        "videos": [
-            {
-                "video_id": "ZAJDCoC2UCo",
-                "title": "【Silent Hill 2】 The real Silent Hill was the friends we made along the way (spoilers) (FINALE)",
-                "thumbnail": "https://i.ytimg.com/vi/ZAJDCoC2UCo/hqdefault.jpg?v=6768869b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDrF16rBHPAM8a_XaEgHpT_rCL4vg",
-                "description": "🧡 @holoen_gigimurin !!!\n\n✿ Artist Credits ✿\nThumbnail:  https://x.com/yppah1060/status/1870623829791473775\nThank you so much!! 💚\n\nThis game is streamed and monetized with permission..."
-            }
-        ]
+        "videos": []
     },
     "@FUWAMOCOch": {
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
@@ -143,14 +136,7 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/i-aqA-4BPUKlCYErdtAkp2_s2AsG_8IB1saxXSSBXevz6bA8ptaIm53-SXB1_KIODP4SI4_l",
-        "videos": [
-            {
-                "video_id": "KB76M0gpwcQ",
-                "title": "【PEJUANG SENIN】#90 next week is.. not 2025 yet!【Kaela's Monday Warrior】",
-                "thumbnail": "https://i.ytimg.com/vi/KB76M0gpwcQ/hqdefault.jpg?v=67683898&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCuphpt8dA-mulfyxWFlCsrXr7dXg",
-                "description": "the topics from the Pejuang Senin stream sometimes might be sensitive to be clipped without the context. please have that in mind😇\n---------------------------------------------------------------..."
-            }
-        ]
+        "videos": []
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
@@ -295,7 +281,14 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/3Wp-qrvmEyR4I4CcqrzbERgqjZkKWpptZTV9veusoh9ZeIdBTx7WfUB3uT8bnMp5ApebFERHZ9I",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "5ljJxQ97Yq0",
+                "title": "【Balatro】REHAB FROM CHECKERED DECK【Pavolia Reine/hololiveID 2nd gen】",
+                "thumbnail": "https://i.ytimg.com/vi/5ljJxQ97Yq0/hqdefault.jpg?v=6768d214&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB13e-ItUEEdc45K54D8EwiKJUYXw",
+                "description": "Support me here (overseas): https://streamlabs.com/pavoliareinechhololive-id/tip\nSupport me here (Indonesia): https://sociabuzz.com/pavoliareine/tribe\n\nThis game is being streamed and monetized..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
