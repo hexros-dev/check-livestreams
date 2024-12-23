@@ -28,7 +28,14 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/Mb9fXGVoUZWSKCLz-W0NE_gMihhpESzfEFQ-1C9xZ3FjW6Az3979WPlZ9ga4l8cDPak6fpUQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Frbpsu5VdyA",
+                "title": "【バイオハザード6│バイオ初見】2人で協力バイオ！バイオから逃げるな Part3/w 白雪レイド【アキロゼ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/Frbpsu5VdyA/hqdefault.jpg?v=676880bb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCLndyalitgBtMRVBp2_0etgSC6BQ",
+                "description": "バイオほぼやったことのないレイドくんとアキロゼ。果たしてゴールへと辿り着けるのか\n@Shirayuki_Reid \nPart1 → https://youtube.com/live/gG3IeaDBav0\n\n配信タ..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -40,7 +47,14 @@
         "channel_url": "https://www.youtube.com/@AnyaMelfissa",
         "channel_name": "Anya Melfissa Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/58uF1apTqtovpieDrBCSF5pUeNU2MA6n34bdj2EBEVnySKm-VvEznGNt2puk4v4tAnA3AYh5JA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "9YmRNCKCLlo",
+                "title": "【Selling Souls】Gib Souls😈 君たちの魂、貰うね！ 【hololive ID 2nd Generation | Anya Melfissa】",
+                "thumbnail": "https://i.ytimg.com/vi/9YmRNCKCLlo/hqdefault.jpg?v=6768f016&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDyRDgSYhBEL81raFrRw2uQFHR5tw",
+                "description": "Support me here/ドネーション↓\nStreamlabs: https://streamlabs.com/anyamelfissachhololive-id/tip\nSociaBuzz(Local Donation): https://sociabuzz.com/anyamelfissa/tribe \n\n--\nThis game is..."
+            }
+        ]
     },
     "@AyundaRisu": {
         "channel_url": "https://www.youtube.com/@AyundaRisu",
@@ -70,20 +84,20 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/9FFCT3cu9FxyLJUUFovpPI7WRj0I7_KuApwkEaLsD0NHVVL2OPTtGn8Qga5YFbeC_47-MoEXrA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "7Yuvj_JFJwY",
+                "title": "≪XMAS PARTY - OFF COLLAB≫ WE WISH YOU A MERRY CHRISTMAS! #RatMAS2024",
+                "thumbnail": "https://i.ytimg.com/vi/7Yuvj_JFJwY/hqdefault.jpg?v=67679c1a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNJOmjilhVVD_0HE7F_pmvGAWi3w",
+                "description": "I got a new nabe pot and I've been itching to use it... \nw/ @TokoyamiTowa @OozoraSubaru @OokamiMio \n\n#telebae #hololiveenglish \n\n««≪ °◇◆◇° ≫ »»\n\nNEW MV 【KOKORONASHI】: https://ww..."
+            }
+        ]
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/WO7ItKNmy6tW_NQ82g8c1y74CZSw6GsSdynsE5s2csuEok2fHRrAaGcBV3JJO-2BxEOXXA8lvw",
-        "videos": [
-            {
-                "video_id": "ZSXipkwmd-E",
-                "title": "【DYPING】最近話題の不穏すぎるタイピングホラーゲーム【博衣こより/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/ZSXipkwmd-E/hqdefault.jpg?v=67691ca4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3Pth2Unk4JHB2M5iFxqRiLpTu6A",
-                "description": "ども。タイピング自信ネキです。タイピングゲーならホラーでも怖くない説。\n🎁3周年記念グッズ販売中！（1/6(月)18:00まで）🔽\nhttps://shop.hololivepr..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -119,14 +133,7 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/JyixAV--9ZFWIMEwRQFbZhkiQTEvb1ALCdX7bW9BarpyLBjAnbbmc98jymhVT_pZlJpWaDwk",
-        "videos": [
-            {
-                "video_id": "H2ellPNAnuc",
-                "title": "【Steam ウィンターセール】自分へのクリスマスプレゼント考えよ🎶【一条莉々華/hololive DEV_IS　ReGLOSS】",
-                "thumbnail": "https://i.ytimg.com/vi/H2ellPNAnuc/hqdefault.jpg?v=676911a8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCLgXpX9jKgPSuwSROQ-nT03Fqh-g",
-                "description": "なーにがあるかなーーー！！！！！💓\n\n🌟素敵なイラスト🌟\n221(ﾂﾂｲﾁ)同人作家VTuber様\n@221EX\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧..."
-            }
-        ]
+        "videos": []
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -331,14 +338,7 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": [
-            {
-                "video_id": "e4EqhPvr1t8",
-                "title": "【＃ホロペア】ホロペア以心伝心調査　検証：猫又おかゆ＆鷹嶺ルイ【ホロライブ/白上フブキ/猫又おかゆ/鷹嶺ルイ】",
-                "thumbnail": "https://i.ytimg.com/vi/e4EqhPvr1t8/hqdefault.jpg?v=67679a95&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmkCedE8bZQw5eQTzy1OMtWMWZCw",
-                "description": "ホロペア以心伝心調査　＃ホロペア\nホロライブ小学校に続くホロライブのペア企画第２弾✨️\n\n気になる２人の以心伝心具合をクイズで調査！！..."
-            }
-        ]
+        "videos": []
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
