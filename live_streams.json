@@ -34,14 +34,7 @@
         "channel_url": "https://www.youtube.com/@AmaneKanata",
         "channel_name": "Kanata Ch. Kanata Amane",
         "avatar_url": "https://yt3.googleusercontent.com/e5wX9w1xSFUjaUdyhFugYZKzDZ_KLTLWBgdtRohHQDu0pshH867pyOv6gLGuqkqy5Ik8bJ9MSZU",
-        "videos": [
-            {
-                "video_id": "F0PzLOBf79w",
-                "title": "【ソロ感想会】かなけん3DLIVEほんとにありがとう！！！！！【天音かなた/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/F0PzLOBf79w/hqdefault.jpg?v=6768c933&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCGoBW2s704yRhC80oxW0_DQ4EkCA",
-                "description": "セトリとか裏準備のことなど語る\n\n【3DLIVE】最初で最後の #かなけん3DLIVE !!【天音かなた、沙花叉クロヱ、AZKi / ホロライブ】\nhttps://www.youtube.com/live/..."
-            }
-        ]
+        "videos": []
     },
     "@AnyaMelfissa": {
         "channel_url": "https://www.youtube.com/@AnyaMelfissa",
@@ -163,7 +156,14 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/0NYd0NnC9mCjdu6t_i-JylPkwpz-o3IZ1eLqgG4MdXS-KUPrP36e71UysuoV9eZA1-TRG3gZ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "91I8VxC6dAM",
+                "title": "【FLOWGLOW集合】お互いのことどれだけ知ってる⁉【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "thumbnail": "https://i.ytimg.com/vi/91I8VxC6dAM/hqdefault.jpg?v=67683e45&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTIoIs_-GK1GPNP1pII0fgJegrpw",
+                "description": "FLOW GLOW メンバー\n@IsakiRiona \n@KoganeiNiko \n@MizumiyaSu  \n@RindoChihaya \n\nプロフィール帳　僵尸パア様\n@paa_vtuber\n✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -331,7 +331,14 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "e4EqhPvr1t8",
+                "title": "【＃ホロペア】ホロペア以心伝心調査　検証：猫又おかゆ＆鷹嶺ルイ【ホロライブ/白上フブキ/猫又おかゆ/鷹嶺ルイ】",
+                "thumbnail": "https://i.ytimg.com/vi/e4EqhPvr1t8/hqdefault.jpg?v=67679a95&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmkCedE8bZQw5eQTzy1OMtWMWZCw",
+                "description": "ホロペア以心伝心調査　＃ホロペア\nホロライブ小学校に続くホロライブのペア企画第２弾✨️\n\n気になる２人の以心伝心具合をクイズで調査！！..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
