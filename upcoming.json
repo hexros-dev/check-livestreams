@@ -23,21 +23,21 @@
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
         "avatar_url": "https://yt3.googleusercontent.com/tUHzjVx8_3IchEO64NDOJGFzH-uN7b5QHUBiKqnUmwLlY0ZSxmQ1snRse4jUx0gt8dGh2MzILP4",
-        "videos": [
-            {
-                "video_id": "6Ujh2vVgW2A",
-                "title": "【 LITTLE NIGHTMARES 】悪夢から脱出するホラゲ・・・！！！【ホロライブ/赤井はあと】※ネタバレあり",
-                "date": "2024/12/23 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/6Ujh2vVgW2A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDIgI1lNvIH7dbqowSCXs6YBpzmwg",
-                "description": "このゲーム実況は「バンダイナムコエンターテインメント ゲーム実況ポリシー」に基づき制作・配信されています。\nhttps://www.bandainamcoent.co.jp/info/v..."
-            }
-        ]
+        "videos": []
     },
     "@AkiRosenthal": {
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/Mb9fXGVoUZWSKCLz-W0NE_gMihhpESzfEFQ-1C9xZ3FjW6Az3979WPlZ9ga4l8cDPak6fpUQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Frbpsu5VdyA",
+                "title": "【バイオハザード6│バイオ初見】2人で協力バイオ！バイオから逃げるな Part3/w 白雪レイド【アキロゼ/ホロライブ】",
+                "date": "2024/12/23 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Frbpsu5VdyA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCLndyalitgBtMRVBp2_0etgSC6BQ",
+                "description": "バイオほぼやったことのないレイドくんとアキロゼ。果たしてゴールへと辿り着けるのか\n@Shirayuki_Reid \nPart1 → https://youtube.com/live/gG3IeaDBav0\n\n配信タ..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -214,7 +214,15 @@
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
         "channel_name": "Ao Ch. 火威青 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/7axTno1zkKS6RhYH7cZ9FecAkjBmZRYTwDeVoqxDdAx0wGfqatlMY10igRFEa1gpAtq5rqnDJg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ClSZGnbHYR0",
+                "title": "【待機所】この予定地…イケメンすぎる【火威青 】#hololiveDEV_IS #ReGLOSS",
+                "date": "2024/12/23 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ClSZGnbHYR0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPbFYP4JyQrUzT9Zkx0tdIz0A9pg",
+                "description": "可愛い女の子かと思った？じゃじゃーん青くんでした！\n素敵なイラスト→（）先生✨\n- - - - - - - - - - - ༚༝༝५🖋️\n\n▼ 歌ってみた聞いてね..."
+            }
+        ]
     },
     "@HoshimachiSuisei": {
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
@@ -238,15 +246,7 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/JyixAV--9ZFWIMEwRQFbZhkiQTEvb1ALCdX7bW9BarpyLBjAnbbmc98jymhVT_pZlJpWaDwk",
-        "videos": [
-            {
-                "video_id": "H2ellPNAnuc",
-                "title": "【Steam ウィンターセール】自分へのクリスマスプレゼント考えよ🎶【一条莉々華/hololive DEV_IS　ReGLOSS】",
-                "date": "2024/12/23 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/H2ellPNAnuc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCLgXpX9jKgPSuwSROQ-nT03Fqh-g",
-                "description": "なーにがあるかなーーー！！！！！💓\n\n🌟素敵なイラスト🌟\n221(ﾂﾂｲﾁ)同人作家VTuber様\n@221EX\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧..."
-            }
-        ]
+        "videos": []
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -550,15 +550,7 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": [
-            {
-                "video_id": "Q9gdEYH5gqk",
-                "title": "最終回【#ミリしらパワプロ杯】初めてのパワプロ⚾秋春夏制覇まであと3勝！！！ここまできたら夏の甲子園を優勝して終わりたいッ！！！！【白銀ノエル/ホロライブ】",
-                "date": "2024/12/23 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Q9gdEYH5gqk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_P-V5IbNiDWNF4jWUdasES-sUxw",
-                "description": "🎅生誕グッズ販売中！→ https://shop.hololivepro.com/products/shiroganenoel_bd2024\n\n[NEW]秋色のさんぽ道ボイス販売中🍂→ https://shop.hololivepro.com/products/hololive_asm..."
-            }
-        ]
+        "videos": []
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -584,15 +576,7 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/gHSAYjapvrPWUKNofcX6zP8izFYK-CbsiZEpkuNgGpPluu7zyC_3yPu0IbpL2Rh_QjBxPKOjLA",
-        "videos": [
-            {
-                "video_id": "6SfhALpdnE4",
-                "title": "【 漢字でGO! 集英社マンガ祭 】漢字よわよわじゃないところみせてみせるから！！！！！【鷹嶺ルイ/ホロライブ】",
-                "date": "2024/12/23 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/6SfhALpdnE4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmADLG8odW9kj4R4dYTuDCc1PM_g",
-                "description": "ワンピースはちゃんとクリアしたい・・・！\n\n事前にガイドラインをご確認ください\nhttps://www.gotchagotcha.jp/posting_guidelines.html\nONE PIECE ©尾田栄一郎／..."
-            }
-        ]
+        "videos": []
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
