@@ -3,14 +3,7 @@
         "channel_url": "https://www.youtube.com/@AZKi",
         "channel_name": "AZKi Channel",
         "avatar_url": "https://yt3.googleusercontent.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM",
-        "videos": [
-            {
-                "video_id": "4k30QNkhxC8",
-                "title": "【Flightradar24】フライトレーダーでサンタ大追跡！Merry Christmas！【ホロライブ / AZKi】",
-                "thumbnail": "https://i.ytimg.com/vi/4k30QNkhxC8/hqdefault.jpg?v=676a5a3f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARR4tDuQAs0-j-1pODGTER6JCilg",
-                "description": "世界中を飛び回るサンタクロースをGUESS！\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\n飛行中の航空機の現在位置をリアルタイム表示するサービス\nFlightrada..."
-            }
-        ]
+        "videos": []
     },
     "@AiraniIofifteen": {
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
@@ -84,6 +77,12 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/9FFCT3cu9FxyLJUUFovpPI7WRj0I7_KuApwkEaLsD0NHVVL2OPTtGn8Qga5YFbeC_47-MoEXrA",
+        "videos": []
+    },
+    "@HakuiKoyori": {
+        "channel_url": "https://www.youtube.com/@HakuiKoyori",
+        "channel_name": "Koyori ch. 博衣こより - holoX -",
+        "avatar_url": "https://yt3.googleusercontent.com/WO7ItKNmy6tW_NQ82g8c1y74CZSw6GsSdynsE5s2csuEok2fHRrAaGcBV3JJO-2BxEOXXA8lvw",
         "videos": []
     },
     "@HimemoriLuna": {
@@ -315,12 +314,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
         "videos": []
     },
-    "@OtonoseKanade": {
-        "channel_url": "https://www.youtube.com/@OtonoseKanade",
-        "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
-        "avatar_url": "https://yt3.googleusercontent.com/f31Dn0ou0ob-VCRtjZTXed4m22A-bdR9ljFw-0LPa9cPicx7gY3e1vdFkrGxgz0ubHD7vCD_",
-        "videos": []
-    },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
@@ -381,14 +374,7 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": [
-            {
-                "video_id": "zW5SGP95pJ0",
-                "title": "【同時視聴】2024年再び…　コマンドー/Commando #聖夜のコマンドー【ホロライブ/白上フブキ】",
-                "thumbnail": "https://i.ytimg.com/vi/zW5SGP95pJ0/hqdefault.jpg?v=676abdfa&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTT2LX38YK8xblw5JzZzaYcuZ6bg",
-                "description": "今年も…とんでもねぇ待ってたんだ #聖夜のコマンドー\nAmazonにて配信中のコマンドー(吹き替え)を視聴します。\n\nポルトリクス隊長　@OmaruPolka..."
-            }
-        ]
+        "videos": []
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -455,7 +441,14 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/-IdVo-vK7pr0VRjJDdza1-t1Edjce1Rd1R1hon_3SRIzuQ-XVBTWOJj-UfwYPp8y40KM197_y4o",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "6iOdOckzVIY",
+                "title": "【Home Alone Watchalong】Gaki, watch out!!!! There's a thief!!!!!",
+                "thumbnail": "https://i.ytimg.com/vi/6iOdOckzVIY/hqdefault.jpg?v=676a3162&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpIFPiQhjhmDVKn_mXf9sn9aESBw",
+                "description": "#hololive #holoid #vestiazeta  #vtuber \n\nMovie: Home Alone (1990)\n\nThumbnail: https://x.com/shinoz4kirin/\n\n\n\n★  Donasi lokal: https://sociabuzz.com/vestiazeta/tribe\n\n\n\n-----\nVestia Zeta's..."
+            }
+        ]
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
@@ -503,14 +496,7 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/8XQlrbkx1vBSpFZQ_GwV6hxep9EX0xHBH-CmWknoHusxXOKGnfVytVRzpt-36PxJOfumNjiBkAI",
-        "videos": [
-            {
-                "video_id": "QvJDRzOsYNs",
-                "title": "【DRAWING】JUST IN TIME FOR XMAAAAAAAS!!! 🎄#CiaoRaora",
-                "thumbnail": "https://i.ytimg.com/vi/QvJDRzOsYNs/hqdefault.jpg?v=676a7831&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXYd5oWKza_-LOphSOu2VsFYbWcw",
-                "description": "『 X formely Twitter 』\nhttps://x.com/raorapanthera\n\n『 Hashtags 』\n╰┈➤ Live  #CiaoRaora\n╰┈➤ Fanarts  #RaorArt\n╰┈➤ Clips  #RaraWara\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
-            }
-        ]
+        "videos": []
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
