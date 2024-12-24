@@ -3,7 +3,14 @@
         "channel_url": "https://www.youtube.com/@AZKi",
         "channel_name": "AZKi Channel",
         "avatar_url": "https://yt3.googleusercontent.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "4k30QNkhxC8",
+                "title": "【Flightradar24】フライトレーダーでサンタ大追跡！Merry Christmas！【ホロライブ / AZKi】",
+                "thumbnail": "https://i.ytimg.com/vi/4k30QNkhxC8/hqdefault.jpg?v=676a5a3f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARR4tDuQAs0-j-1pODGTER6JCilg",
+                "description": "世界中を飛び回るサンタクロースをGUESS！\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\n飛行中の航空機の現在位置をリアルタイム表示するサービス\nFlightrada..."
+            }
+        ]
     },
     "@AiraniIofifteen": {
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
@@ -124,33 +131,26 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/qufYdKqJ9VaUNhkP3_Wv0RranzAiwtvtOoxI_NRNMP6pCFa3lMnUKXRPd7EL4x-5OlDFp1BSpFE",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "AXDpVQo0H38",
+                "title": "【JumpKing】聖なる夜は勿論Jump King！！！！！【ホロライブ DEV_IS 響咲リオナ】",
+                "thumbnail": "https://i.ytimg.com/vi/AXDpVQo0H38/hqdefault.jpg?v=67696a0b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWb1t7U85NU0CbMmvfMaS_TnVHDw",
+                "description": "本ゲームは COPYRIGHT © 2020 NEXILE AB の確認を得た上で配信・収益化を行なっております\n\nサムネイラスト\n汐よる様　(X：@ ushio_yoru)\n素敵なイラストあ..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/45G_tYF-zPHIIC9q8ZCeXSabbQCOtGgNDuX6mJbf7wyeor94YTeqOmDC3OZ3Wl89I4xq8Fn3nQ",
-        "videos": [
-            {
-                "video_id": "29GoHnaYGLw",
-                "title": "【 #らでんちゃん100万人 】チャンネル登録者100万人まで歌います！達成したら嬉しい告知あります！【儒烏風亭らでん #ReGLOSS 】",
-                "thumbnail": "https://i.ytimg.com/vi/29GoHnaYGLw/hqdefault.jpg?v=676942e0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzpSyz-tqysv4wVUWXYVoYhURP1Q",
-                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\nついに夢の100万人まであと少し！！！\n達成し..."
-            }
-        ]
+        "videos": []
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/i-aqA-4BPUKlCYErdtAkp2_s2AsG_8IB1saxXSSBXevz6bA8ptaIm53-SXB1_KIODP4SI4_l",
-        "videos": [
-            {
-                "video_id": "5igGypgG3d0",
-                "title": "【Path of Exile 2】casual levelling 🎮【Kaela Kovalskia / hololiveID】",
-                "thumbnail": "https://i.ytimg.com/vi/5igGypgG3d0/hqdefault.jpg?v=6769abad&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAN_efod_yYiu7_QNLV2YwCmvRXSQ",
-                "description": "【Donasi lokal】Traktir yang pahit-pahit kini sangat EZGGWP!~\nLink: https://sociabuzz.com/kaelakovalskia/tribe\n\n#Kaelaif #KaelaKovalskia #holoID \n-------------------------------------------------..."
-            }
-        ]
+        "videos": []
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
@@ -192,7 +192,14 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "uV1hnkWhEEs",
+                "title": "【 15万人耐久 】歌枠＆雑談沢山話して楽しく歌うよ〜🎶【FLOW GLOW 水宮枢】#hololiveDEV_IS",
+                "thumbnail": "https://i.ytimg.com/vi/uV1hnkWhEEs/hqdefault.jpg?v=676aa246&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCiHUx2v1yy8zogkPkaQ-yfqwDWwA",
+                "description": "15万人いけるかふあんだけど話してうたう！\nこのライブに用いている一部の音源は、株式会社エクシングより提供されています。\n▹◃┄▸◂┄▹..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -265,14 +272,7 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/KE2NpU0fd43SXO-G46SSyPOEgyjHW7FnU_SAly2t5URFS4X-I85ILTAOzhrSZ6_3_jU4d6IjRvY",
-        "videos": [
-            {
-                "video_id": "BXAKYu8eaNs",
-                "title": "【新髪型お披露目】㊗️メリクリ🎄酒のんで喋って楽しもうや‼️‼️ #ポルカ公演中 【尾丸ポルカ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/BXAKYu8eaNs/hqdefault.jpg?v=67698464&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBuQ5hySAUexKu333YnhqjxOT2B7g",
-                "description": "聖夜あああああああああ！！！！！！！！！！！！！！\nハッ！！！！！！！！\n\n※尾丸ポルカへ頂いたスパチャは、基本的に毎週木曜日19時から「..."
-            }
-        ]
+        "videos": []
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
@@ -284,14 +284,7 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": [
-            {
-                "video_id": "FcHSmYW8W5Y",
-                "title": "【#みこスバ】🎄クリスマスイブのキャプテン翼🎄みこスバ対決しゅばあああああああああああ！！！：Captain Tsubasa: Rise of New Champions【ホロライブ/大空スバル】",
-                "thumbnail": "https://i.ytimg.com/vi/FcHSmYW8W5Y/hqdefault.jpg?v=67699e08&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCOvSzVoro1NpAJuc0NDzWku4RYhg",
-                "description": "このゲーム実況は「バンダイナムコエンターテインメント ゲーム実況ポリシー」に基づき制作・配信されています。\nhttps://www.bandainamcoent.co.jp/info/v..."
-            }
-        ]
+        "videos": []
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -315,14 +308,7 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/r_CG1_hNQIcnrbXOzIKbdq23Dt7lo_QGvdkVT_q1fzSOWPZxFyvlei5N4bJSeTUhwcn3JVmsh_I",
-        "videos": [
-            {
-                "video_id": "-kpYpyUqg98",
-                "title": "【Keep Talking and Nobody Explodes】爆弾解除しないと出られない部屋！？！【#綺々羅々ヴィヴィ #輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "thumbnail": "https://i.ytimg.com/vi/-kpYpyUqg98/hqdefault.jpg?v=6769da8c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfXtwbPNNvd2-fAWP8ZmQE6-dmAA",
-                "description": "ヴィヴィたんと出られない部屋！？！？！？！？！？！？！\n@KikiraraVivi \n本ゲームは Steel Crate Games ©2019 の確認を得た上で配信・収益化を行なって..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -340,7 +326,14 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/gxXHmXJq_kkZ0bvTmz7R1deyOAV44zZr2keaF0ojSq7MeiOGLSzFTCoYgYR4PGDWTCoLR7eK",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "lsAENuPBVxE",
+                "title": "💞聖夜のドキドキクリスマス飲み会💞～選ばれるのはみこかスバか～【ホロライブ/さくらみこ】",
+                "thumbnail": "https://i.ytimg.com/vi/lsAENuPBVxE/hqdefault.jpg?v=676a8348&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8wR5mWe4g3zkxwkIiwS3QsmIGtQ",
+                "description": "そう、これは・・・・あれだよ、飲み会※飲めない人が過半数\n幹事：さくらみこ\n@OozoraSubaru @HoshimachiSuisei @NekomataOkayu @TsunomakiWatame \n\n🌸 ￤最新情報..."
+            }
+        ]
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
@@ -352,20 +345,20 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "x6CAawiiN14",
+                "title": "【もはや雑談】冬の曲を知らない歌枠。コラボ告知あり！【ホロライブ/白上フブキ】",
+                "thumbnail": "https://i.ytimg.com/vi/x6CAawiiN14/hqdefault.jpg?v=676a83ab&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4pDqobvX8Msk0nFm9yVDedkwylw",
+                "description": "🌽白上フブキ1stソロライブ FBKINGDOM “ANTHEM”🌽\n2025年2月13日(木)にぴあアリーナMMにて開催決定！\nhttps://fbkingdom.hololivepro.com/live\n\n🎫各種チケット🎫..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/d9aIrGtZR0eI4k1Wnev5f_R4llIBsWnQOjkdsqkMycoAxA3g_zz-jyeBl8tEHfbm1iTg0SJj",
-        "videos": [
-            {
-                "video_id": "lgVbujxd94w",
-                "title": "【歌枠】メリークリスマス・イヴ！今夜は歌うぞ～🎤 【不知火フレア/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/lgVbujxd94w/hqdefault.jpg?v=676991c5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMtbRJ2h3wdFNH4CwqW9xVl5mBNw",
-                "description": "ホロライブ所属３期生の不知火フレア(Flare Shiranui)だよ～\n\n-------------------------------------------------------------------------\n■Newシングル「マーブル冴える」..."
-            }
-        ]
+        "videos": []
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -377,7 +370,14 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/CoKMtt9uQNGPOQP_t0LaCL4N21m0TUNCxzLtKRRTBmpH0xPc0s2cZQ-uUuQkxqerbGkxJkGU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "8J2afc0CSwk",
+                "title": "獅白ぼたんとクリスマス闘night🎄 ―朝までスト6を遊ぶイベント会場の様子―【獅白ぼたん/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/8J2afc0CSwk/hqdefault.jpg?v=67694844&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5O3eOwqthAR4eF7Pa5WvYgliWkQ",
+                "description": "まさか終電で帰るとか言わないよね…？始発まで楽しく一緒にオフラインでスト6を遊びましょう🧡\n「Red Bull Gaming Sphere Tokyo」からイベント会場の..."
+            }
+        ]
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
@@ -410,9 +410,9 @@
         "videos": [
             {
                 "video_id": "p6OtlU4Hqh0",
-                "title": "【STREET FIGHTER 6】🎅Christmas🎄に眷属と１００本勝負する🔥【常闇トワ/ホロライブ】",
+                "title": "【STREET FIGHTER 6】🎅Christmas🎄に眷属と１０８本勝負する🔥その１【常闇トワ/ホロライブ】",
                 "thumbnail": "https://i.ytimg.com/vi/p6OtlU4Hqh0/hqdefault.jpg?v=676a3e73&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwUCSNqOvrYW8Or91S3Vdb41Ej7w",
-                "description": "1人1先1回のみでよろしく！！！！！！！\nまじで久しぶりに触る。常闇眷属きてねっ\n\nこの動画およびライブは株式会社カプコンの利用許諾を受け..."
+                "description": "1人1先1回のみでよろしく！！！！！！！\nまじで久しぶりに触る。常闇眷属きてねっ\n本日５６人と対戦終了\n次５２人とやります！\n\nこの動画および..."
             }
         ]
     },
@@ -444,7 +444,14 @@
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
         "channel_name": "Choco Ch. 癒月ちょこ",
         "avatar_url": "https://yt3.googleusercontent.com/eB_qZXKL-jDhGyEstj9BvLL0qO_tHEMaIpkfp8M-qXYweZOpDm7uZgBwbWfxwAT7uKh_5tEj",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "3vCNDP3xbw8",
+                "title": "【#ちょこっとクッキング】今回はクリスマスディナー🎄ご堪能あれ!!!!!!!!!!!!【ホロライブ/癒月ちょこ/雪花ラミィ/ロボ子さん/轟はじめ】",
+                "thumbnail": "https://i.ytimg.com/vi/3vCNDP3xbw8/hqdefault.jpg?v=676a8d42&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXN_VJBYRBk-KQMBtjbnZAKXm4Dg",
+                "description": "サブ垢→https://www.youtube.com/channel/UCp3tgHXw_HI0QMk1K8qh3gQ\n\n素敵なコラボ者様方\n@Robocosan \n@YukihanaLamy \n@TodorokiHajime \n\nサムネ作成：籠乃あさぎり様@kagono_asagiri..."
+            }
+        ]
     },
     "@dooby3d": {
         "channel_url": "https://www.youtube.com/@dooby3d",
