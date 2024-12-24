@@ -111,14 +111,7 @@
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": [
-            {
-                "video_id": "fNbMjPq5shM",
-                "title": "【1/8192】「1/2」を13連続で当てるゲーム、無事クリアできたら…お披露目あり！？！【クリスマス】",
-                "thumbnail": "https://i.ytimg.com/vi/fNbMjPq5shM/hqdefault.jpg?v=676a9ef8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJqwlPSgDlDhwzKTUXRUkvY3ojZQ",
-                "description": "Play Game : 1/8192 ( steam )\nタグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nころねTwitter▶https://twitter.com/inugamikorone..."
-            }
-        ]
+        "videos": []
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
@@ -421,7 +414,14 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/LnJxTvrkHQFdFlyMY2HPtXVEwA7KHlUp8rNzBepF1GQfPQjUN9yKGIqSYOD31F22Ow9vSTn9",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "bD01pgu5990",
+                "title": "[WATCHALONG] Father when can I leave to be on my owwwwn ✨Let's watch christmas movie together!",
+                "thumbnail": "https://i.ytimg.com/vi/bD01pgu5990/hqdefault.jpg?v=676af546&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQnxdebLpPJc4AbGP0AS_cLH8ZwQ",
+                "description": "with: @holoen_gigimurin \n\nThumbnail art: https://x.com/isarobn/status/1847053313227083859 !!\n\n【Christmas Voice Pack】\nEN: https://shop.hololivepro.com/en/products/hololive_christmasvoice2024..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
