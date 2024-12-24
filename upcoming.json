@@ -83,10 +83,10 @@
         "videos": [
             {
                 "video_id": "M1OlsAtd6D8",
-                "title": "【配信予定地】かなたそなにする【天音かなた/ホロライブ】",
+                "title": "【ELDEN RING】#31 クリスマスマレニア！！！初見エルデンリング！！！！【天音かなた/ホロライブ】",
                 "date": "2024/12/24 17:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/M1OlsAtd6D8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdRr9gLnWbk88epIAUFT1OuiQVuw",
-                "description": "クリスマスイブ、そりゃ「アレ」をするよな\n\n---------------------------------------------------------------------------------\n\n🌌 天音かなた 1st フルアルバム..."
+                "description": "クリスマスイブ、そりゃ「アレ」をするよな\n\n前　#30    https://youtube.com/live/e34CGZYD2mQ\n後　#32　\n\n💍ELDEN RING / 再生リスト\nhttps://www.youtube.com/playlist?list=..."
             },
             {
                 "video_id": "_8KI-dNtSRE",
@@ -473,7 +473,15 @@
         "channel_url": "https://www.youtube.com/@NakiriAyame",
         "channel_name": "Nakiri Ayame Ch. 百鬼あやめ",
         "avatar_url": "https://yt3.googleusercontent.com/XDGhKwPZcT16Ppg2gQmLHEIYRhw9sY4rqG0HWbeCH68LHkhlVQrrFgxd5hWUuMb2nLfDOhu6",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "MK2zTP_Y1fo",
+                "title": "【歌枠】まぼろしのメリクリ歌枠🎅🎄【百鬼あやめ/ホロライブ】",
+                "date": "2024/12/24 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/MK2zTP_Y1fo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABeref49dP5qplDzIn_XZZBZM2aw",
+                "description": "- - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - -ഒ˖°\n\n\n　　🌟百鬼あやめ 誕生日記念グッズ2024🌟\n　　　※2025年01月14日..."
+            }
+        ]
     },
     "@NanashiMumei": {
         "channel_url": "https://www.youtube.com/@NanashiMumei",
@@ -940,13 +948,20 @@
                 "date": "2024/12/24 18:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/Q9TcGwpf8sc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDd3nFCsAJivHFkrDBK5FMrGUaiYg",
                 "description": "絶唱だあああああああああああああああああああああああああ！！！！！！！！！！！！！！\n\n無料で遊べるぱちんこ・パチスロアプリ「777Real」..."
-            },
+            }
+        ]
+    },
+    "@結城さくな": {
+        "channel_url": "https://www.youtube.com/@結城さくな",
+        "channel_name": "Sakuna Ch. 結城さくな",
+        "avatar_url": "https://yt3.googleusercontent.com/t9CcBvjTjs5D_sLZjtGkcfaTyiZCrx0nyOf7ekj3Fut9gZD76G00x12TK8Jg4czmBWjXcUtP9yE",
+        "videos": [
             {
-                "video_id": "n-QiDZa-mBE",
-                "title": "チキン冷やし会場2024【ホロライブ/兎田ぺこら】",
-                "date": "2024/12/24 15:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/n-QiDZa-mBE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAezsQwHGKYPsf0XhGGhPj9rkG7Vw",
-                "description": "⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ #ぺこらいぶ でツイート🎶\n\n⋈ －－－－－..."
+                "video_id": "HK66uCHBso8",
+                "title": "【新台】聖なる夜にパチンコだあああ！！！！！【ソードアート・オンライン 閃光の軌跡】#結城さくな生放送",
+                "date": "2024/12/24 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/HK66uCHBso8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3KBcOZ23dFLE7hm9sDAVHZj1KWg",
+                "description": "※アーカイブは残りません。（後日編集済みのものが出るかも？）\n\nクリスマスにパチンコやりたいから案件ください！って言ったら本当にきまし..."
             }
         ]
     }
