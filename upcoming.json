@@ -99,7 +99,7 @@
             {
                 "video_id": "i3hfGAlJZ54",
                 "title": "【XMAS HOME 3D REVEAL】silly santa paws is coming to town 🎅🏻🐾  【FUWAMOCO】",
-                "date": "2024/12/24 09:00:00",
+                "date": "2024/12/24 10:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/i3hfGAlJZ54/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdrFUIpd-njnhyJrrITZwIzy_4fQ",
                 "description": "these twin santas are too silly this christmas 🎄✨\n\n⸜❤︎⸝ 𝔽𝕌𝕎𝔸𝕄𝕆ℂ𝕆 𝟙𝕤𝕥 𝔸𝕊𝕄ℝ 𝕍𝕠𝕚𝕔𝕖𝕡𝕒𝕔𝕜 ⸜❤︎⸝\n🫧  ⇨..."
             },
@@ -129,13 +129,6 @@
                 "date": "2024/12/30 08:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/6Rfl-u7Gw9I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD34gMAnDFbHg6iNa3TyvNpf4g3uw",
                 "description": "Alert the Authorities. \nI want the best minds on this case. \n\n#telebae #hololiveenglish \n\n««≪ °◇◆◇° ≫ »»\n\nNEW MV 【KOKORONASHI】: https://www.youtube.com/live/5zhbYmwl8Tk..."
-            },
-            {
-                "video_id": "MF4lyEbnB2s",
-                "title": "≪KUUKIYOMI 4≫ YOU HAVE TO CONSIDER",
-                "date": "2024/12/24 08:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/MF4lyEbnB2s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJYSfXn5c77juB5CJPY-n26n32ww",
-                "description": "considering will guide you to the light\n\n#telebae #hololiveenglish \n\n««≪ °◇◆◇° ≫ »»\n\nNEW MV 【KOKORONASHI】: https://www.youtube.com/live/5zhbYmwl8Tk\n\nSTREAM 『ZODIAC』:..."
             },
             {
                 "video_id": "dILxYOgS61M",
@@ -191,7 +184,15 @@
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
         "channel_name": "Ao Ch. 火威青 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/7axTno1zkKS6RhYH7cZ9FecAkjBmZRYTwDeVoqxDdAx0wGfqatlMY10igRFEa1gpAtq5rqnDJg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "vaXfxfgkjBE",
+                "title": "【クリスマス逆凸】青サンタからお世話になったよいこたちへ【火威青 】#hololiveDEV_IS #ReGLOSS",
+                "date": "2024/12/24 15:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/vaXfxfgkjBE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCen0SE2uBmbZsLMqIXHjYmpIzcVw",
+                "description": "可愛い女の子かと思った？じゃじゃーん青くんかと思った？ブルーサンタでした！🎄\n\n今年お世話になったお友達（今回はホロメン除く）に..."
+            }
+        ]
     },
     "@HoshimachiSuisei": {
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
@@ -263,15 +264,7 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/i-aqA-4BPUKlCYErdtAkp2_s2AsG_8IB1saxXSSBXevz6bA8ptaIm53-SXB1_KIODP4SI4_l",
-        "videos": [
-            {
-                "video_id": "5igGypgG3d0",
-                "title": "【Path of Exile 2】casual levelling 🎮【Kaela Kovalskia / hololiveID】",
-                "date": "2024/12/24 08:15:00",
-                "thumbnail": "https://i.ytimg.com/vi/5igGypgG3d0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAN_efod_yYiu7_QNLV2YwCmvRXSQ",
-                "description": "【Donasi lokal】Traktir yang pahit-pahit kini sangat EZGGWP!~\nLink: https://sociabuzz.com/kaelakovalskia/tribe\n\n#Kaelaif #KaelaKovalskia #holoID \n-------------------------------------------------..."
-            }
-        ]
+        "videos": []
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
@@ -701,7 +694,22 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "QouckWBelUY",
+                "title": "【 #ホロクリスマス歌枠リレー 】クリスマスに楽しく歌っていこう！！【ホロライブ/ときのそら】",
+                "date": "2024/12/25 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/QouckWBelUY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArP6d10BmY9qCFgyJpImCZJ5EX-w",
+                "description": "わたしの次は轟はじめちゃんだよ！！\n@TodorokiHajime \n\n\n\n～サムネイラスト～\nりていく様\nhttps://x.com/re_take0404\n\n～カラオケ～\nカラオケアプリ\n※このラ..."
+            },
+            {
+                "video_id": "qgImSMYMvlY",
+                "title": "【歌枠】ランチの時間にちょこっとクリスマス♪【ホロライブ/ときのそら】",
+                "date": "2024/12/24 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/qgImSMYMvlY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJZhKMqhBB2bXhvGjYT1SKMQicMg",
+                "description": "クリスマスイブだし、なんかお話しながら歌ってこう♪\n\n～サムネイラスト～\nインセイン様\nhttps://x.com/Insein_sym\n\n～カラオケ～\nカラオケアプリ..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
