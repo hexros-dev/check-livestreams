@@ -426,7 +426,15 @@
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
         "channel_name": "Moona Hoshinova hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/w8ilN5YMfG3H6SX162Fkg71BaJdYUUoHOc91cryyfdvto94IpypSjvsLaMA1MyODr2V-w-ox-h8",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "QyjKQ14MFDs",
+                "title": "【Path of Exile 2】having fun with POE2【Moona Hoshinova】",
+                "date": "2024/12/24 15:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/QyjKQ14MFDs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAgtPUgugNsESNR7QlsSQAGQxC8w",
+                "description": "▼Moona Hoshinova「Multiverse」\nhttps://lnk.to/mh_Multiverse\n\n▼Moona Hoshinova「Nightmare」\nhttps://cover.lnk.to/AeV06H\n\nStreamlabs donation link here : https://streamlabs.com/moonahoshinova..."
+            }
+        ]
     },
     "@MoriCalliope": {
         "channel_url": "https://www.youtube.com/@MoriCalliope",
