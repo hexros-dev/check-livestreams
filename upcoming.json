@@ -474,15 +474,7 @@
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
         "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/JDCIBWj11TgjY2Uyba_efZ0n5hzjysMB9GxkvHGkIN_sfFQJR5mx3iVPqgJ96IPcYjZpCLsb",
-        "videos": [
-            {
-                "video_id": "hlf9V7lECpE",
-                "title": "UNARCHIVED KARAOKE feat. MAMARISSA | HAPPY CHRISTMAS EVE",
-                "date": "2024/12/25 02:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/hlf9V7lECpE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCB_yywokpNtaGR5MOxjvl-z5FgIA",
-                "description": "∴∴♪ * Check Out My First EP Here!* ♪∴∴\nhttps://cover.lnk.to/esLvqA\n\n∴∴♪ * Check Out My Music Here!* ♪∴∴\nhttps://www.youtube.com/playlist?list=PLSJG6WXf5JvFn2FWv_B5HP7DklUtde..."
-            }
-        ]
+        "videos": []
     },
     "@NinomaeInanis": {
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
@@ -598,7 +590,15 @@
         "channel_url": "https://www.youtube.com/@SakamataChloe",
         "channel_name": "Chloe ch. 沙花叉クロヱ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/_xNtPLKQcQxMTnOr4tAcGz0GEeESsi0bQX9mJEP3fx_50a8GUfUyOG1eyLIld2cCz6GvKABwpQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "-cmaugUD9Rw",
+                "title": "【 #ホロクリスマス歌枠リレー 】メリクリだ～～～！一緒にすごそ♡【ホロライブ/沙花叉クロヱ】",
+                "date": "2024/12/25 13:40:00",
+                "thumbnail": "https://i.ytimg.com/vi/-cmaugUD9Rw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMv4aK_bSw80Qlt009ms5SaRtUvw",
+                "description": "次はヴィヴィちゃん！\nhttps://www.youtube.com/live/OtqKkWzVUCU?si=cIm2Ghuf_jxxZdfa\n@KikiraraVivi \n\nめちょかわお写真\nこくたもつ様\nhttps://x.com/kokutamotsu/status/186928541686..."
+            }
+        ]
     },
     "@SakuraMiko": {
         "channel_url": "https://www.youtube.com/@SakuraMiko",
