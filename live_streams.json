@@ -63,14 +63,7 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/9FFCT3cu9FxyLJUUFovpPI7WRj0I7_KuApwkEaLsD0NHVVL2OPTtGn8Qga5YFbeC_47-MoEXrA",
-        "videos": [
-            {
-                "video_id": "MF4lyEbnB2s",
-                "title": "≪KUUKIYOMI 4≫ YOU HAVE TO CONSIDER",
-                "thumbnail": "https://i.ytimg.com/vi/MF4lyEbnB2s/hqdefault.jpg?v=6768112d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJYSfXn5c77juB5CJPY-n26n32ww",
-                "description": "considering will guide you to the light\n\n#telebae #hololiveenglish \n\n««≪ °◇◆◇° ≫ »»\n\nNEW MV 【KOKORONASHI】: https://www.youtube.com/live/5zhbYmwl8Tk\n\nSTREAM 『ZODIAC』:..."
-            }
-        ]
+        "videos": []
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -373,7 +366,14 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "QouckWBelUY",
+                "title": "【 #ホロクリスマス歌枠リレー 】クリスマスに楽しく歌っていこう！！【ホロライブ/ときのそら】",
+                "thumbnail": "https://i.ytimg.com/vi/QouckWBelUY/hqdefault.jpg?v=676a134a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArP6d10BmY9qCFgyJpImCZJ5EX-w",
+                "description": "わたしの次は轟はじめちゃんだよ！！\n@TodorokiHajime \n\n\n\n～サムネイラスト～\nりていく様\nhttps://x.com/re_take0404\n\n～カラオケ～\nカラオケアプリ\n※このラ..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
