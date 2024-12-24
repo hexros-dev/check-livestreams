@@ -518,7 +518,15 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/Z78RNXxUqpOGYKFt-VrJV7nlehOHzl7Ta-l1cgPx5Ewucmr5kY64iGxmPSe7QqIdM1ZhvPlEOg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "u2cxysVdQn8",
+                "title": "【メンバーシップ限定】クリスマスをミオを一緒に過ごそうね...【パチパチろうそく】",
+                "date": "2024/12/24 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/u2cxysVdQn8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCoj_RwFual7k-IDonHLKjlFAxpOQ",
+                "description": "木がパチパチ言うろうそくを灯して\nぽそぽそ隣でしゃべって一緒に過ごすASMRです。\n安らかな眠りを提供できるようにぽそぽそしゃべります。..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
