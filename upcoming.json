@@ -196,7 +196,15 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/cDSMiVy3Xa49Ci_YyouVNzfCwVXKRYmOeywWQ_UFKzvAp6tvyeMtXMyzWzQ2u8ft4EENsJKt7A",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "0AAl0UIj-iU",
+                "title": "【Members Only Watchalong】Die Hard Christmas Watchalong",
+                "date": "2024/12/25 11:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/0AAl0UIj-iU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCfc_9uWGGeN1H5bJ07NJ38FZlspA",
+                "description": "How much christmas is actually involved in this film? xD\n\n#hololiveenglish  #ホロライブ \n＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝\n\nSTREAM MY NEW ORIGINAL..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -342,15 +350,7 @@
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
         "channel_name": "Moona Hoshinova hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/w8ilN5YMfG3H6SX162Fkg71BaJdYUUoHOc91cryyfdvto94IpypSjvsLaMA1MyODr2V-w-ox-h8",
-        "videos": [
-            {
-                "video_id": "AZ3d9TAGQOc",
-                "title": "【UNARCHIVE】Karaoke!!【Moona Hoshinova】",
-                "date": "2024/12/24 22:35:00",
-                "thumbnail": "https://i.ytimg.com/vi/AZ3d9TAGQOc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFV2DWmAz2NI8VLRooZ3xFC-X-RA",
-                "description": "▼Moona Hoshinova「Multiverse」\nhttps://lnk.to/mh_Multiverse\n\n▼Moona Hoshinova「Nightmare」\nhttps://cover.lnk.to/AeV06H\n\nStreamlabs donation link here : https://streamlabs.com/moonahoshinova..."
-            }
-        ]
+        "videos": []
     },
     "@MoriCalliope": {
         "channel_url": "https://www.youtube.com/@MoriCalliope",
