@@ -117,14 +117,7 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/qufYdKqJ9VaUNhkP3_Wv0RranzAiwtvtOoxI_NRNMP6pCFa3lMnUKXRPd7EL4x-5OlDFp1BSpFE",
-        "videos": [
-            {
-                "video_id": "AWrn6WKKBBo",
-                "title": "【JumpKing】クリスマスも勿論Jump King！！！！！【ホロライブ DEV_IS 響咲リオナ】",
-                "thumbnail": "https://i.ytimg.com/vi/AWrn6WKKBBo/hqdefault.jpg?v=676afdb6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDs1xreFwbU4yi3qYNOg1sygjnT_w",
-                "description": "本ゲームは COPYRIGHT © 2020 NEXILE AB の確認を得た上で配信・収益化を行なっております\n\nサムネイラスト\n汐よる様　(X：@ ushio_yoru)\n素敵なイラストあ..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -180,6 +173,12 @@
         "avatar_url": "https://yt3.googleusercontent.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw",
         "videos": []
     },
+    "@MomosuzuNene": {
+        "channel_url": "https://www.youtube.com/@MomosuzuNene",
+        "channel_name": "Nene Ch.桃鈴ねね",
+        "avatar_url": "https://yt3.googleusercontent.com/bMBMxmB1YVDVazU-8KbB6JZqUHn4YzmFiQRWwEUHCeqm5REPW7HHQChC5xE6e36aqqnXgK4a",
+        "videos": []
+    },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
         "channel_name": "Moona Hoshinova hololive-ID",
@@ -232,7 +231,14 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/f4uYWHJxiGwyXm8NUlm818N1MRnywtgL6wM8JdWqWsKBzI7v1eg8dxDWG7igkWuukUSiufydqPg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "yG85qEkts38",
+                "title": "【INA INA KITCHEN】 Attempting X-mas Mont Blanc!! (It's Definitely Not Just Matcha Mont Blanc...)",
+                "thumbnail": "https://i.ytimg.com/vi/yG85qEkts38/hqdefault.jpg?v=676c4190&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDuUCkdIAHWaVVZDM-M24e7Dzzcg",
+                "description": "【Thumbnail Art】\nhttps://x.com/3_lishi/status/1871762319291912207\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\n______________________________________________________________________________..."
+            }
+        ]
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -328,14 +334,7 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ",
-        "videos": [
-            {
-                "video_id": "sOaOLcWzzFk",
-                "title": "【3D】UNARCHIVED CHRISTMAS KARAOKE🎄✨ #kfp #キアライブ",
-                "thumbnail": "https://i.ytimg.com/vi/sOaOLcWzzFk/hqdefault.jpg?v=676be162&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4a6tFseVgi2t4-OMXOY0BCirKIw",
-                "description": "stream my new song, MIRAGE!✨https://cover.lnk.to/DQSp3S\n👀 Takanashi Kiara 1st Album \"Point of View\" 👀\nStreaming: https://cover.lnk.to/PointofView\n\n\n 🏵️[Twitter] 🏵️\nhttps://twitter..."
-            }
-        ]
+        "videos": []
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
@@ -427,7 +426,14 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/AD2BC7S_QlNSZEHrM-pyRR0C9DOPnfK2OnuFjTK8F842WydS1HDMe6TvhESY9Er96Kt3yu0-fQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "xQqh7ALpcmw",
+                "title": "【UNARCHIVED】gremlin christmas karaoke shoebox hangout",
+                "thumbnail": "https://i.ytimg.com/vi/xQqh7ALpcmw/hqdefault.jpg?v=676b733c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOY537Wbw4MCGMjyBtlmkWP-BGFQ",
+                "description": "chrimas! its today! can u believe it! merry chrimas grems!\n\nthumbnail: https://x.com/klefpto/status/1871145866649911692\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐  ⸜(｡˃ ᵕ ˂ )⸝♡..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
@@ -439,12 +445,6 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/IzJcA0QlV4JwWH9yXi7Voa3359fHUB182xd_xxs92xd_3kuw_pa45dKeyQ9hvKl_1OhwbT6M3g",
-        "videos": []
-    },
-    "@mikenekoko": {
-        "channel_url": "https://www.youtube.com/@mikenekoko",
-        "channel_name": "みけねこch",
-        "avatar_url": "https://yt3.googleusercontent.com/xp-Gpx4379mUVBgIIKKyABkJZAEZhBdLIL2JsgTiEpvfN7G0J4NHQ2uI3ycywuNKAlXJOSmsbQ",
         "videos": []
     },
     "@usadapekora": {
