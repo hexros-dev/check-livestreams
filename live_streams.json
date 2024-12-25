@@ -262,14 +262,7 @@
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/f31Dn0ou0ob-VCRtjZTXed4m22A-bdR9ljFw-0LPa9cPicx7gY3e1vdFkrGxgz0ubHD7vCD_",
-        "videos": [
-            {
-                "video_id": "3Utxr_XKd4c",
-                "title": "【 #ホロクリスマス歌枠リレー 】クリスマスに全力で失恋ソングを歌います＾＿＾【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-                "thumbnail": "https://i.ytimg.com/vi/3Utxr_XKd4c/hqdefault.jpg?v=676af9f6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcYb4J1rWOpCDI98pr6oAjCZQj9A",
-                "description": "前 → https://www.youtube.com/live/vDCYxbkXN_k?si=ffxBayeJWhmHz8r6\n次 → https://www.youtube.com/live/Hjye0GIFwA0?si=V3B4PQLrsuY7wX4n\n\n୨୧♪:*:･･:*:･♪･:*:･･:*:･♪:♪:*:･..."
-            }
-        ]
+        "videos": []
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
@@ -359,7 +352,14 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "lGa1SdJGwb0",
+                "title": "【 #ホロクリスマス歌枠リレー 】クリスマスに楽しく歌っていこう！！【ホロライブ/ときのそら】",
+                "thumbnail": "https://i.ytimg.com/vi/lGa1SdJGwb0/hqdefault.jpg?v=676a2459&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXMH7BmBLc3dzTdvo-sMwKzOxOoQ",
+                "description": "わたしの次は轟はじめちゃんだよ！！\n@TodorokiHajime \n\n\n\n～サムネイラスト～\nりていく様\nhttps://x.com/re_take0404\n\n～カラオケ～\nカラオケアプリ\n※このラ..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
