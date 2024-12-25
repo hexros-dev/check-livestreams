@@ -51,14 +51,7 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag",
-        "videos": [
-            {
-                "video_id": "9Ue0uNhdzbo",
-                "title": "【CHRISTMAS EVE WITH YOU】snowed in on christmas together 💕🐾【FUWAMOCO CHOOSE YOUR ADVENTURE】",
-                "thumbnail": "https://i.ytimg.com/vi/9Ue0uNhdzbo/hqdefault.jpg?v=6767a10d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCezKr-OnTRCUMb1gd5BC2QGSLlCg",
-                "description": "how our 2nd christmas together goes is up to you ✨\nlovely thumbnail illustration by @jura_oekaki3 💕\nall original illustrations by @jura_oekaki3 💕\n\n⸜❤︎⸝ 𝔽𝕌𝕎𝔸𝕄𝕆ℂ..."
-            }
-        ]
+        "videos": []
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -76,7 +69,14 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/WO7ItKNmy6tW_NQ82g8c1y74CZSw6GsSdynsE5s2csuEok2fHRrAaGcBV3JJO-2BxEOXXA8lvw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "wkM5eMML-Dg",
+                "title": "【 #ホロクリスマス歌枠リレー 】最初の枠！クリスマスはホロライブの歌ですごそう！🎄✨【博衣こより/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/wkM5eMML-Dg/hqdefault.jpg?v=67691977&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4KidRhJVIg-xKSYpcLrhtY4sTsg",
+                "description": "#ホロクリスマス歌枠リレー でツイート❣　次はミオ先輩🌲→ https://www.youtube.com/watch?v=COCE2eXlkh0\n🎄歌枠リレー再生リスト→ https://youtube.com/playlist?l..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -415,6 +415,12 @@
         "channel_url": "https://www.youtube.com/@dooby3d",
         "channel_name": "dooby",
         "avatar_url": "https://yt3.googleusercontent.com/QBddwfs8nHiD5V-Dm9HcRfmjpCMpIGbRfKmk6vmejPEo8hyePLSo4oHm34TSLVHswqbTNjKZOw",
+        "videos": []
+    },
+    "@holoen_ceciliaimmergreen": {
+        "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
+        "channel_name": "Cecilia Immergreen Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/LnJxTvrkHQFdFlyMY2HPtXVEwA7KHlUp8rNzBepF1GQfPQjUN9yKGIqSYOD31F22Ow9vSTn9",
         "videos": []
     },
     "@holoen_erbloodflame": {

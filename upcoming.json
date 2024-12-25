@@ -158,13 +158,6 @@
                 "date": "2024/12/25 18:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/L7ZgT3Sx850/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzzRk4SN07qoUPHWGtAzHAhpT7eA",
                 "description": "@OmaruPolka @IchijouRirika とあーだこーだ言いながら3期生のミリしら杯を観ます👀⚾✨\n決戦場所→ https://www.youtube.com/watch?v=QyDJKemJICA\n🎁3周年記念グッズ..."
-            },
-            {
-                "video_id": "wkM5eMML-Dg",
-                "title": "【 #ホロクリスマス歌枠リレー 】最初の枠！クリスマスはホロライブの歌ですごそう！🎄✨【博衣こより/ホロライブ】",
-                "date": "2024/12/25 10:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/wkM5eMML-Dg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4KidRhJVIg-xKSYpcLrhtY4sTsg",
-                "description": "#ホロクリスマス歌枠リレー でツイート❣　次はミオ先輩🌲→ https://www.youtube.com/watch?v=COCE2eXlkh0\n🎄歌枠リレー再生リスト→ https://youtube.com/playlist?l..."
             }
         ]
     },
@@ -233,7 +226,15 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/JyixAV--9ZFWIMEwRQFbZhkiQTEvb1ALCdX7bW9BarpyLBjAnbbmc98jymhVT_pZlJpWaDwk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "jWUrGcgpAKE",
+                "title": "【#ホロクリスマス歌枠リレー】16:40～！プレゼントのお届けだ～🎁💖【一条莉々華 / ホロライブ ReGLOSS】",
+                "date": "2024/12/25 14:40:00",
+                "thumbnail": "https://i.ytimg.com/vi/jWUrGcgpAKE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJy2XE-0uj7WULJRpdbo_Oo7xqzw",
+                "description": "前：https://youtube.com/live/cajOk-JQbMk\n後：https://www.youtube.com/watch?v=_8KI-dNtSRE\n\n💖素敵なサムネイラスト💓\nSteelBall2様\n@steel42886\n\n୨୧┈┈┈┈┈┈┈┈┈┈..."
+            }
+        ]
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -771,6 +772,12 @@
         "avatar_url": "https://yt3.googleusercontent.com/QBddwfs8nHiD5V-Dm9HcRfmjpCMpIGbRfKmk6vmejPEo8hyePLSo4oHm34TSLVHswqbTNjKZOw",
         "videos": []
     },
+    "@holoen_ceciliaimmergreen": {
+        "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
+        "channel_name": "Cecilia Immergreen Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/LnJxTvrkHQFdFlyMY2HPtXVEwA7KHlUp8rNzBepF1GQfPQjUN9yKGIqSYOD31F22Ow9vSTn9",
+        "videos": []
+    },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -796,7 +803,15 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/AD2BC7S_QlNSZEHrM-pyRR0C9DOPnfK2OnuFjTK8F842WydS1HDMe6TvhESY9Er96Kt3yu0-fQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "xQqh7ALpcmw",
+                "title": "【UNARCHIVED】gremlin christmas karaoke shoebox hangout",
+                "date": "2024/12/26 05:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/xQqh7ALpcmw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOY537Wbw4MCGMjyBtlmkWP-BGFQ",
+                "description": "chrimas! its today! can u believe it! merry chrimas grems!\n\nthumbnail: https://x.com/klefpto/status/1871145866649911692\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐  ⸜(｡˃ ᵕ ˂ )⸝♡..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
