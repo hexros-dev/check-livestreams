@@ -135,7 +135,14 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/0NYd0NnC9mCjdu6t_i-JylPkwpz-o3IZ1eLqgG4MdXS-KUPrP36e71UysuoV9eZA1-TRG3gZ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "OtqKkWzVUCU",
+                "title": "【＃ホロクリスマス歌枠リレー】みんなと初めてのクリスマス！【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "thumbnail": "https://i.ytimg.com/vi/OtqKkWzVUCU/hqdefault.jpg?v=6769d06f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjLxjhKHLhpxW8aa5BA1_GAr4y5Q",
+                "description": "＃ホロクリスマス歌枠リレー\n初参加させていただきます！みんなメリークリスマス♡\n次は　@HimemoriLuna 先輩です！\n\nサムネイルの素敵なイラスト..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -285,14 +292,7 @@
         "channel_url": "https://www.youtube.com/@SakamataChloe",
         "channel_name": "Chloe ch. 沙花叉クロヱ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/_xNtPLKQcQxMTnOr4tAcGz0GEeESsi0bQX9mJEP3fx_50a8GUfUyOG1eyLIld2cCz6GvKABwpQ",
-        "videos": [
-            {
-                "video_id": "-cmaugUD9Rw",
-                "title": "【 #ホロクリスマス歌枠リレー 】メリクリだ～～～！一緒にすごそ♡【ホロライブ/沙花叉クロヱ】",
-                "thumbnail": "https://i.ytimg.com/vi/-cmaugUD9Rw/hqdefault.jpg?v=676b01aa&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMv4aK_bSw80Qlt009ms5SaRtUvw",
-                "description": "次はヴィヴィちゃん！\nhttps://www.youtube.com/live/OtqKkWzVUCU?si=cIm2Ghuf_jxxZdfa\n@KikiraraVivi \n\nめちょかわお写真\nこくたもつ様\nhttps://x.com/kokutamotsu/status/186928541686..."
-            }
-        ]
+        "videos": []
     },
     "@SakuraMiko": {
         "channel_url": "https://www.youtube.com/@SakuraMiko",
