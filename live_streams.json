@@ -46,7 +46,14 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "F9TNeKxqeqg",
+                "title": "【UNARCHIVED KARAOKE】KURI(SUMASU) TO RISU KARAOKE PARTYYYY【Ayunda Risu】",
+                "thumbnail": "https://i.ytimg.com/vi/F9TNeKxqeqg/hqdefault.jpg?v=676bf606&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-eXpTuXC-IaSIljFySM4UMzKToQ",
+                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\n==================\n\n【LOCAL DONATION LINK HERE】:\nhttps://sociabuzz.com/ayundarisu/tribe\n\n【Streamlabs donation link here】:\nhttps://str..."
+            }
+        ]
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -431,14 +438,7 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": [
-            {
-                "video_id": "DgqmIwA2J2Q",
-                "title": "【晩酌】クリスマス晩酌！！騒げ！！クリパだ～！！！【 雪花ラミィ /ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/DgqmIwA2J2Q/hqdefault.jpg?v=676b96ed&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCob_Hbsi5NQ7hXBRv3xg_WTUFFbQ",
-                "description": "飲むぞ～！！\n\n感想は #らみらいぶ で呟いて頂けたら嬉しいです！\n\nサムネイルイラスト：おべんと様\nhttps://x.com/Lunch_boxer_\nサムネイルデザイン：籠..."
-            }
-        ]
+        "videos": []
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
