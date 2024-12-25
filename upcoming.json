@@ -380,7 +380,15 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/G92yBEhkf9R2mEpayuPvhwlA42tYAPOcNi2r77JeL7ic0ETS_FvTkwkBHjvR6iCqUk7TOlpROQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "nnVU6UTMJcw",
+                "title": "【 おかゆにゅ~~む!】僕が僕を攻略～～～～!?!?!?先行配信させて頂きます😹【 猫又おかゆ/ホロライブ 】",
+                "date": "2024/12/26 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/nnVU6UTMJcw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAktXRG3Y_VsBsYca2LeP-vW9K7ew",
+                "description": "-\n\n🍙Nintendo SwitchTM/WindowsPC『おかゆにゅ~~む!』絶賛予約受付中!🍙\n\n「おかゆにゅ~~む!完全生産限定版hololive Official Edition」受注はコチラから\n\n【hololi..."
+            }
+        ]
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -424,15 +432,7 @@
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/f31Dn0ou0ob-VCRtjZTXed4m22A-bdR9ljFw-0LPa9cPicx7gY3e1vdFkrGxgz0ubHD7vCD_",
-        "videos": [
-            {
-                "video_id": "3Utxr_XKd4c",
-                "title": "【 #ホロクリスマス歌枠リレー 】クリスマスに全力で失恋ソングを歌います＾＿＾【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-                "date": "2024/12/25 16:20:00",
-                "thumbnail": "https://i.ytimg.com/vi/3Utxr_XKd4c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcYb4J1rWOpCDI98pr6oAjCZQj9A",
-                "description": "前 → https://www.youtube.com/live/vDCYxbkXN_k?si=ffxBayeJWhmHz8r6\n次 → https://www.youtube.com/live/Hjye0GIFwA0?si=V3B4PQLrsuY7wX4n\n\n୨୧♪:*:･･:*:･♪･:*:･･:*:･♪:♪:*:･..."
-            }
-        ]
+        "videos": []
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",

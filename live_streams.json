@@ -3,14 +3,7 @@
         "channel_url": "https://www.youtube.com/@AZKi",
         "channel_name": "AZKi Channel",
         "avatar_url": "https://yt3.googleusercontent.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM",
-        "videos": [
-            {
-                "video_id": "vDCYxbkXN_k",
-                "title": "【歌枠】#ホロクリスマス歌枠リレー ホロオリ曲ノンストップメドレー！Singing Stream【ホロライブ / AZKi】",
-                "thumbnail": "https://i.ytimg.com/vi/vDCYxbkXN_k/hqdefault.jpg?v=676a66ac&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBc1EASniht22EAPqtV1J5hpII7Ag",
-                "description": "#ホロクリスマス歌枠リレー AZKi【12/25(水) 18:00～】からです！\n\n次は音乃瀬奏ちゃん  @OtonoseKanade \nhttps://youtube.com/live/3Utxr_XKd4c\n\n┈┈┈┈┈┈┈┈┈┈..."
-            }
-        ]
+        "videos": []
     },
     "@AiraniIofifteen": {
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
@@ -269,7 +262,14 @@
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/f31Dn0ou0ob-VCRtjZTXed4m22A-bdR9ljFw-0LPa9cPicx7gY3e1vdFkrGxgz0ubHD7vCD_",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "3Utxr_XKd4c",
+                "title": "【 #ホロクリスマス歌枠リレー 】クリスマスに全力で失恋ソングを歌います＾＿＾【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+                "thumbnail": "https://i.ytimg.com/vi/3Utxr_XKd4c/hqdefault.jpg?v=676af9f6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcYb4J1rWOpCDI98pr6oAjCZQj9A",
+                "description": "前 → https://www.youtube.com/live/vDCYxbkXN_k?si=ffxBayeJWhmHz8r6\n次 → https://www.youtube.com/live/Hjye0GIFwA0?si=V3B4PQLrsuY7wX4n\n\n୨୧♪:*:･･:*:･♪･:*:･･:*:･♪:♪:*:･..."
+            }
+        ]
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
