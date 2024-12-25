@@ -22,7 +22,14 @@
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
         "avatar_url": "https://yt3.googleusercontent.com/tUHzjVx8_3IchEO64NDOJGFzH-uN7b5QHUBiKqnUmwLlY0ZSxmQ1snRse4jUx0gt8dGh2MzILP4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "uIQvI1KH8R4",
+                "title": "【無】・・・・・・・・・【ホロライブ/赤井はあと】",
+                "thumbnail": "https://i.ytimg.com/vi/uIQvI1KH8R4/hqdefault.jpg?v=676c29a3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCueoo2-Yf7v9vHCXEQ8bfwVMJQ-g",
+                "description": "みんなが寝静まったところでクリぼっち写メを眺める配信。\n\n#はあちゃまなう 感想ツイートしてねっ！ゼッタイ！！！\n\n❤️‍🔥赤井はあと×は..."
+            }
+        ]
     },
     "@AkiRosenthal": {
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
@@ -77,6 +84,12 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/9FFCT3cu9FxyLJUUFovpPI7WRj0I7_KuApwkEaLsD0NHVVL2OPTtGn8Qga5YFbeC_47-MoEXrA",
+        "videos": []
+    },
+    "@HakuiKoyori": {
+        "channel_url": "https://www.youtube.com/@HakuiKoyori",
+        "channel_name": "Koyori ch. 博衣こより - holoX -",
+        "avatar_url": "https://yt3.googleusercontent.com/WO7ItKNmy6tW_NQ82g8c1y74CZSw6GsSdynsE5s2csuEok2fHRrAaGcBV3JJO-2BxEOXXA8lvw",
         "videos": []
     },
     "@HimemoriLuna": {
@@ -199,14 +212,7 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/bMBMxmB1YVDVazU-8KbB6JZqUHn4YzmFiQRWwEUHCeqm5REPW7HHQChC5xE6e36aqqnXgK4a",
-        "videos": [
-            {
-                "video_id": "4kb3n0c2AjY",
-                "title": "【 冷め…？ Minecraft 】鳥焼いてクリスマス〆ましょや【 桃鈴ねね / hololive 】",
-                "thumbnail": "https://i.ytimg.com/vi/4kb3n0c2AjY/hqdefault.jpg?v=676bf7f1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCAZDAelC2IiXu4EgkXtN-65fvHHA",
-                "description": "な？みんな\n⸜♡⸝MemberShipに入ったらもっとねねを知れるﾖ\nhttps://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA/join\n\n⸜♡⸝各音楽サイトにてオリジナル楽..."
-            }
-        ]
+        "videos": []
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
@@ -437,10 +443,10 @@
         "avatar_url": "https://yt3.googleusercontent.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm",
         "videos": [
             {
-                "video_id": "GtkOaYFtjTA",
-                "title": "【MUSIC】LOOPED CHRISTMAS BOPS ~! 💄",
-                "thumbnail": "https://i.ytimg.com/vi/GtkOaYFtjTA/hqdefault.jpg?v=6769ab7c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGHIGWJbN8KIPq-bLNzG13sLNLjA",
-                "description": "Unarchived - Let my voice be your joy this wonderful time of year ! HUZZAH!\nMerry Christmas Sweethearts! \n▬▬ι════════ﺤ\n☃️ Let It Snow Cover: https://distrokid.com/hyperfo..."
+                "video_id": "RRgdX70JpeM",
+                "title": "【MUSIC】MORE CHRISTMAS BOPS ~! 💄",
+                "thumbnail": "https://i.ytimg.com/vi/RRgdX70JpeM/hqdefault.jpg?v=676c1ea0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVyOxxXa6MTUHP3JoW05LB2wBCyQ",
+                "description": "Rebroadcast Unarchived - Let my voice be your joy this wonderful time of year ! HUZZAH!\nMerry Christmas Sweethearts! \n▬▬ι════════ﺤ\n☃️ Let It Snow Cover: https://distrokid..."
             }
         ]
     },
