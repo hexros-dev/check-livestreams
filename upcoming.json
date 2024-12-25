@@ -254,7 +254,15 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "HjDjtLUa9ls",
+                "title": "【マリオカート8DX】記憶さよならしてる。走り方を思い出せ【水宮枢／FLOW GLOW】",
+                "date": "2024/12/26 00:15:00",
+                "thumbnail": "https://i.ytimg.com/vi/HjDjtLUa9ls/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlH_kJF2klSZtJP1SnTcKSdvVKaA",
+                "description": "キャプボおかえり、水宮の記憶さよなら状態なので走り方から思い出したい、、\n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -535,15 +543,7 @@
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
         "channel_name": "Choco Ch. 癒月ちょこ",
         "avatar_url": "https://yt3.googleusercontent.com/eB_qZXKL-jDhGyEstj9BvLL0qO_tHEMaIpkfp8M-qXYweZOpDm7uZgBwbWfxwAT7uKh_5tEj",
-        "videos": [
-            {
-                "video_id": "kb6_DVgmDNw",
-                "title": "【Freetalk】悪魔の保健医の深夜雑談⏰【ホロライブ/癒月ちょこ】",
-                "date": "2024/12/26 00:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/kb6_DVgmDNw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLby06kmuEVaiVooWrkEmpEjmXKg",
-                "description": "癒月ちょこ１stアルバム購入はこちら↓\nhttps://shop.hololivepro.com/products/yuzukichoco_burstsongofdestruction\n\nデジタルリリース↓\nhttps://shop.hololivepro.com/products/yuz..."
-            }
-        ]
+        "videos": []
     },
     "@dooby3d": {
         "channel_url": "https://www.youtube.com/@dooby3d",
