@@ -15,14 +15,7 @@
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
         "avatar_url": "https://yt3.googleusercontent.com/tUHzjVx8_3IchEO64NDOJGFzH-uN7b5QHUBiKqnUmwLlY0ZSxmQ1snRse4jUx0gt8dGh2MzILP4",
-        "videos": [
-            {
-                "video_id": "Y0MSUO1PatA",
-                "title": "【 #ホロクリスマス歌枠リレー 】心に染みる曲うたうぞ～～～！💘【ホロライブ/赤井はあと】",
-                "thumbnail": "https://i.ytimg.com/vi/Y0MSUO1PatA/hqdefault.jpg?v=676a969c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXDQzx92BO9CTsWY86mXQjfaHYOA",
-                "description": "前の枠：@OmaruPolka \n後の枠：@MizumiyaSu \n\n音源提供\nhttps://www.youtube.com/@UCWX2b3xIeJHoiNOPd9nTuKA \nhttps://www.youtube.com/@uta-cha-oh\nhttps://www.youtube.com/@アニソンカラオ..."
-            }
-        ]
+        "videos": []
     },
     "@AkiRosenthal": {
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
@@ -138,12 +131,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/i-aqA-4BPUKlCYErdtAkp2_s2AsG_8IB1saxXSSBXevz6bA8ptaIm53-SXB1_KIODP4SI4_l",
         "videos": []
     },
-    "@KikiraraVivi": {
-        "channel_url": "https://www.youtube.com/@KikiraraVivi",
-        "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
-        "avatar_url": "https://yt3.googleusercontent.com/0NYd0NnC9mCjdu6t_i-JylPkwpz-o3IZ1eLqgG4MdXS-KUPrP36e71UysuoV9eZA1-TRG3gZ",
-        "videos": []
-    },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
         "channel_name": "Kobo Kanaeru Ch. hololive-ID",
@@ -178,14 +165,7 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw",
-        "videos": [
-            {
-                "video_id": "h-o7nRkVwyY",
-                "title": "【 #ホロクリスマス歌枠リレー 】クリスマス🎄楽しく歌うよ〜🎶【FLOW GLOW 水宮枢】#hololiveDEV_IS",
-                "thumbnail": "https://i.ytimg.com/vi/h-o7nRkVwyY/hqdefault.jpg?v=6769b6d1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACe3XqJ3VfxTMCu69ZYo3-JCErqQ",
-                "description": "久々に歌枠！！ #ホロクリスマス歌枠リレー だよー！！🎄\n次はロボ子先輩…！！\n\n素敵なニシアオ さん\nhttps://x.com/nishiao_art?s=21&t=CbrrjZRpYKuQt6jP6ruZBg..."
-            }
-        ]
+        "videos": []
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -293,7 +273,14 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/GF0wbwZvZAGzYg8s8d6Yh1BDcWAE9UmLAh2uf3IMJ5l_ESi3sWeRqk2XfhW3IgzMeliHpt4cAw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "loFy9YoWJrQ",
+                "title": "【#ホロクリスマス歌枠リレー】めり～はろ～ぼ～！！ろぼサンタクロースも歌うんじゃ～い🎤💝【ホロライブ / ロボ子さん】",
+                "thumbnail": "https://i.ytimg.com/vi/loFy9YoWJrQ/hqdefault.jpg?v=6768d717&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsMeZbq_CGXg-w6uLq0Bwpw--Atg",
+                "description": "💬#ロボ子生放送  で呟いてね(*'ω'*)\n\nつぎはあお～！ @HiodoshiAo \nhttps://www.youtube.com/live/gmc5dCDDws0\n\n\n🧸喉がよわよわ状態なので声は控えめ配信中です..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -413,7 +400,14 @@
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "GtkOaYFtjTA",
+                "title": "【MUSIC】LOOPED CHRISTMAS BOPS ~! 💄",
+                "thumbnail": "https://i.ytimg.com/vi/GtkOaYFtjTA/hqdefault.jpg?v=6769ab7c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGHIGWJbN8KIPq-bLNzG13sLNLjA",
+                "description": "Unarchived - Let my voice be your joy this wonderful time of year ! HUZZAH!\nMerry Christmas Sweethearts! \n▬▬ι════════ﺤ\n☃️ Let It Snow Cover: https://distrokid.com/hyperfo..."
+            }
+        ]
     },
     "@holoen_gigimurin": {
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
