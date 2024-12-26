@@ -189,7 +189,15 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/JyixAV--9ZFWIMEwRQFbZhkiQTEvb1ALCdX7bW9BarpyLBjAnbbmc98jymhVT_pZlJpWaDwk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "8YN8NNR-G7o",
+                "title": "【DYPING】タイピング王なので爆速でクリアする自信があります。【一条莉々華/hololive DEV_IS　ReGLOSS】",
+                "date": "2024/12/26 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/8YN8NNR-G7o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCuY5zLMpFLbhkASHQK2PjwYitDRw",
+                "description": "前情報一切無しでプレイするよ。\nただのタイピングゲームとは思えないけど…\n\n本ゲームは実況ポリシーに則り配信・収益化を行なっております..."
+            }
+        ]
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -213,15 +221,7 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/i-aqA-4BPUKlCYErdtAkp2_s2AsG_8IB1saxXSSBXevz6bA8ptaIm53-SXB1_KIODP4SI4_l",
-        "videos": [
-            {
-                "video_id": "6mGet0k6n2c",
-                "title": "【UFO-MAN】this game is so hard why did you pick this 😱😱😱【Kaela Kovalskia / hololiveID】",
-                "date": "2024/12/26 13:45:00",
-                "thumbnail": "https://i.ytimg.com/vi/6mGet0k6n2c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1eaI7vIYfxdtltCqSrJa4ULl6NA",
-                "description": "【Donasi lokal】Traktir yang pahit-pahit kini sangat EZGGWP!~\nLink: https://sociabuzz.com/kaelakovalskia/tribe\n\n#Kaelaif #KaelaKovalskia #holoID \n-------------------------------------------------..."
-            }
-        ]
+        "videos": []
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
