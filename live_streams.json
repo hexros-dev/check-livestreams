@@ -95,14 +95,7 @@
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
         "channel_name": "Ao Ch. 火威青 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/7axTno1zkKS6RhYH7cZ9FecAkjBmZRYTwDeVoqxDdAx0wGfqatlMY10igRFEa1gpAtq5rqnDJg",
-        "videos": [
-            {
-                "video_id": "SZ03tDJslAU",
-                "title": "【 閉店事件 】ご指名、ありがとうございます。イケメン入りまーす！！！【火威青 】#hololiveDEV_IS #ReGLOSS",
-                "thumbnail": "https://i.ytimg.com/vi/SZ03tDJslAU/hqdefault.jpg?v=676cc9ee&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDg3jkUj4Yjvw-4JAJybjRjcAAagA",
-                "description": "可愛い女の子かと思った？じゃじゃーん青くんでした！\n素敵なイラスト→0cm（@planetzer_0）先生✨\n\nコーヒーショップで働いてみたかったんだよね..."
-            }
-        ]
+        "videos": []
     },
     "@HoshimachiSuisei": {
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
@@ -240,14 +233,7 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/G92yBEhkf9R2mEpayuPvhwlA42tYAPOcNi2r77JeL7ic0ETS_FvTkwkBHjvR6iCqUk7TOlpROQ",
-        "videos": [
-            {
-                "video_id": "nnVU6UTMJcw",
-                "title": "【 おかゆにゅ~~む!】僕が僕を攻略～～～～!?!?!?先行配信させて頂きます😹【 猫又おかゆ/ホロライブ 】",
-                "thumbnail": "https://i.ytimg.com/vi/nnVU6UTMJcw/hqdefault.jpg?v=676bcce5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAktXRG3Y_VsBsYca2LeP-vW9K7ew",
-                "description": "-\n\n🍙Nintendo SwitchTM/WindowsPC『おかゆにゅ~~む!』絶賛予約受付中!🍙\n\n「おかゆにゅ~~む!完全生産限定版hololive Official Edition」受注はコチラから\n\n【hololi..."
-            }
-        ]
+        "videos": []
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -277,7 +263,14 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "UjRStwig2WE",
+                "title": "【#BIG3】BIG3！遅れてやってきたクリスマス会しゅばあああああああああああああああ【ホロライブ/大空スバル】",
+                "thumbnail": "https://i.ytimg.com/vi/UjRStwig2WE/hqdefault.jpg?v=67699efe&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHqNQpbd0DrpOqiZ1gkCbHWmjokA",
+                "description": "@ShiroganeNoel @YukihanaLamy \n🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting..."
+            }
+        ]
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
