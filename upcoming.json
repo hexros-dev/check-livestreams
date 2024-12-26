@@ -148,7 +148,15 @@
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
         "channel_name": "Ao Ch. 火威青 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/7axTno1zkKS6RhYH7cZ9FecAkjBmZRYTwDeVoqxDdAx0wGfqatlMY10igRFEa1gpAtq5rqnDJg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "BZJWUUdY7Iw",
+                "title": "【お絵かきコラボ】神絵師はペンの持ち方にも個性がある【火威青/宝鐘マリン/しぐれうい/ルンルン 】#hololiveDEV_IS #ReGLOSS",
+                "date": "2024/12/27 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/BZJWUUdY7Iw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC89yFnPepaACaKkCUz8vTpmsqTWQ",
+                "description": "可愛い女の子かと思った？じゃじゃーん青くんでした！\n神絵師様たちとお絵かき！お互いを描いていく！（かなり緊張しています）\n\n💙神絵師様..."
+            }
+        ]
     },
     "@HoshimachiSuisei": {
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
@@ -184,6 +192,12 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/qufYdKqJ9VaUNhkP3_Wv0RranzAiwtvtOoxI_NRNMP6pCFa3lMnUKXRPd7EL4x-5OlDFp1BSpFE",
+        "videos": []
+    },
+    "@JuufuuteiRaden": {
+        "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
+        "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
+        "avatar_url": "https://yt3.googleusercontent.com/45G_tYF-zPHIIC9q8ZCeXSabbQCOtGgNDuX6mJbf7wyeor94YTeqOmDC3OZ3Wl89I4xq8Fn3nQ",
         "videos": []
     },
     "@KaelaKovalskia": {
