@@ -29,14 +29,7 @@
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
         "avatar_url": "https://yt3.googleusercontent.com/tUHzjVx8_3IchEO64NDOJGFzH-uN7b5QHUBiKqnUmwLlY0ZSxmQ1snRse4jUx0gt8dGh2MzILP4",
-        "videos": [
-            {
-                "video_id": "ncUHU4BaFxE",
-                "title": "【 ドラゴンボールZ KAKAROT 】完全初見！ドラゴンボールの世界へ突入だあああ！🔥【ホロライブ/赤井はあと】※ネタバレあり",
-                "thumbnail": "https://i.ytimg.com/vi/ncUHU4BaFxE/hqdefault.jpg?v=676cf236&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxqYUnhMCAFB7umTy-Fb74Tvowag",
-                "description": "このゲーム実況は「バンダイナムコエンターテインメント ゲーム実況ポリシー」に基づき制作・配信されています。\nhttps://www.bandainamcoent.co.jp/info/v..."
-            }
-        ]
+        "videos": []
     },
     "@AkiRosenthal": {
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
@@ -55,7 +48,14 @@
         "channel_url": "https://www.youtube.com/@AmaneKanata",
         "channel_name": "Kanata Ch. Kanata Amane",
         "avatar_url": "https://yt3.googleusercontent.com/e5wX9w1xSFUjaUdyhFugYZKzDZ_KLTLWBgdtRohHQDu0pshH867pyOv6gLGuqkqy5Ik8bJ9MSZU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ymE16RtxDSM",
+                "title": "【デビューから5年】5周年カウントダウン！！！！【天音かなた/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/ymE16RtxDSM/hqdefault.jpg?v=676d5172&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_TbfMr6cRLj-7ILwPPrKswFmvhw",
+                "description": "うれしい\n\nサムネイラスト：\nhttps://x.com/Casino_2nd/status/1870488849442566426\n\n💫メンバーシップ入会💫\nhttps://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg/join..."
+            }
+        ]
     },
     "@AnyaMelfissa": {
         "channel_url": "https://www.youtube.com/@AnyaMelfissa",
