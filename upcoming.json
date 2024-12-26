@@ -143,15 +143,7 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/CTvZ3dUO8LocQMKbGkjUPysC524gC4asm5roilZmzhpBpWAWpLrhpRv0SpEaJeWm1oVP5v0g",
-        "videos": [
-            {
-                "video_id": "OQISYuFvTO0",
-                "title": "【 ダークソウル3 】追加DLCに挑戦するのら～～～！！！DARK SOULS Ⅲ ＃01【姫森ルーナ/ホロライブ】ネタバレあり",
-                "date": "2024/12/26 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/OQISYuFvTO0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5lb15ou8nrwTpiLH3r87NIGMAhQ",
-                "description": "サムネイラスト\n　石原竜也さん　https://twitter.com/curry_and_rice4\n\nダークソウル３再生リスト\nhttps://www.youtube.com/playlist?list=PL6gUpTCMieF6biMH-enqUSnZx8rlGWiFn..."
-            }
-        ]
+        "videos": []
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -193,7 +185,15 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/qufYdKqJ9VaUNhkP3_Wv0RranzAiwtvtOoxI_NRNMP6pCFa3lMnUKXRPd7EL4x-5OlDFp1BSpFE",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "y17Ebdj72Io",
+                "title": "【配信】内容考え中・・♡【ホロライブ DEV_IS 響咲リオナ】",
+                "date": "2024/12/26 21:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/y17Ebdj72Io/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmoTl9YfXbo-wVG_DKvtSbQHc3_Q",
+                "description": "hololive DEV_IS からデビューした\nFLOW GLOWのリーダー響咲リオナです！🎤👑\nやりたいように、私は私らしく生き抜いていくんです！\n\n歌とダンスとラ..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -528,7 +528,15 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/4wLMmSJkzy4vmWfWYkmzn6YO9T__jp1cORNuFXN7YyihwvhGkqXCxNBaklKoXlgdik-Fp0Zu",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "tygnp78XjbM",
+                "title": "【世界のアソビ大全51】ファウナと一緒に遊ぶよ！！【角巻わため/ホロライブ４期】",
+                "date": "2024/12/27 11:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/tygnp78XjbM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9SE2hnWQqCkHGmRx6_JbFgOwoaw",
+                "description": "💛💚💛💚💛💚\nPlease support us!\nタグ：#WataFau\n\n◆Ceres Fauna\n@CeresFauna \n\n※この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています..."
+            }
+        ]
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
