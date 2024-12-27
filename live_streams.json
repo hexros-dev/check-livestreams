@@ -125,14 +125,7 @@
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": [
-            {
-                "video_id": "QQ_iWquFZV8",
-                "title": "またもやクリスマスに熱でぶっ倒れた犬女・・・現状報告会！！！！！",
-                "thumbnail": "https://i.ytimg.com/vi/QQ_iWquFZV8/hqdefault.jpg?v=676e5c35&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpdJ9SZtZ2yC_vrg4lJ_F1W5-uWg",
-                "description": "タグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nころねTwitter▶https://twitter.com/inugamikorone\n\n-----------------------------..."
-            }
-        ]
+        "videos": []
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
@@ -454,6 +447,12 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/AD2BC7S_QlNSZEHrM-pyRR0C9DOPnfK2OnuFjTK8F842WydS1HDMe6TvhESY9Er96Kt3yu0-fQ",
+        "videos": []
+    },
+    "@holoen_raorapanthera": {
+        "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
+        "channel_name": "Raora Panthera Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/8XQlrbkx1vBSpFZQ_GwV6hxep9EX0xHBH-CmWknoHusxXOKGnfVytVRzpt-36PxJOfumNjiBkAI",
         "videos": []
     },
     "@kazamairoha": {
