@@ -238,14 +238,7 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/f4uYWHJxiGwyXm8NUlm818N1MRnywtgL6wM8JdWqWsKBzI7v1eg8dxDWG7igkWuukUSiufydqPg",
-        "videos": [
-            {
-                "video_id": "ALWNU_p88kM",
-                "title": "【AmiAmi】 End of the Year Wrap-Up with AmiAmi & Ina!!",
-                "thumbnail": "https://i.ytimg.com/vi/ALWNU_p88kM/hqdefault.jpg?v=676d9a9e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnWYZwiibpp6lcWzHLxRK-L4KI_w",
-                "description": "I became the official ambassador for AmiAmi!!\nMake sure to check out their website~!! \nhttps://www.amiami.com/eng/?utm_source=youtube&utm_medium=PR&utm_campaign=2409_Inanis\n\nQuick link to find..."
-            }
-        ]
+        "videos": []
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -265,11 +258,24 @@
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
         "videos": []
     },
+    "@OtonoseKanade": {
+        "channel_url": "https://www.youtube.com/@OtonoseKanade",
+        "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+        "avatar_url": "https://yt3.googleusercontent.com/f31Dn0ou0ob-VCRtjZTXed4m22A-bdR9ljFw-0LPa9cPicx7gY3e1vdFkrGxgz0ubHD7vCD_",
+        "videos": []
+    },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/flg7E5XnFWh-NhGZOydJ2QHMpFdkBGbou0OcYUiYjKVisv8UsY-FiPLrTtexXVUqPmIyDvgC",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "3NSck9L4Qb4",
+                "title": "【Signalis】Something About Cyborgs I Think",
+                "thumbnail": "https://i.ytimg.com/vi/3NSck9L4Qb4/hqdefault.jpg?v=676cad80&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_4BhoowI7noOUrnHr7R9bAbCOCw",
+                "description": "This game is being streamed and monetized with permission from PLAYISM and in accordance to their streaming guidelines.\n© 2022 rose-engine. All rights reserved.\nLicensed to Humble Bundle,..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
@@ -365,7 +371,14 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/4wLMmSJkzy4vmWfWYkmzn6YO9T__jp1cORNuFXN7YyihwvhGkqXCxNBaklKoXlgdik-Fp0Zu",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "tygnp78XjbM",
+                "title": "【世界のアソビ大全51】ファウナと一緒に遊ぶよ！！【角巻わため/ホロライブ４期】",
+                "thumbnail": "https://i.ytimg.com/vi/tygnp78XjbM/hqdefault.jpg?v=676d24b4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9SE2hnWQqCkHGmRx6_JbFgOwoaw",
+                "description": "💛💚💛💚💛💚\nPlease support us!\nタグ：#WataFau\n\n◆Ceres Fauna\n@CeresFauna \n\n※この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています..."
+            }
+        ]
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
