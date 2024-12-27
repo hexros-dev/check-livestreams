@@ -129,6 +129,12 @@
         "avatar_url": "https://yt3.googleusercontent.com/CTvZ3dUO8LocQMKbGkjUPysC524gC4asm5roilZmzhpBpWAWpLrhpRv0SpEaJeWm1oVP5v0g",
         "videos": []
     },
+    "@HiodoshiAo": {
+        "channel_url": "https://www.youtube.com/@HiodoshiAo",
+        "channel_name": "Ao Ch. 火威青 ‐ ReGLOSS",
+        "avatar_url": "https://yt3.googleusercontent.com/7axTno1zkKS6RhYH7cZ9FecAkjBmZRYTwDeVoqxDdAx0wGfqatlMY10igRFEa1gpAtq5rqnDJg",
+        "videos": []
+    },
     "@HoshimachiSuisei": {
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
         "channel_name": "Suisei Channel",
@@ -337,11 +343,18 @@
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
         "videos": [
             {
+                "video_id": "F1uSNR8-oTo",
+                "title": "【#大空警察2024】大空警察2024 /OOZORA Police【ホロライブ/大空スバル】",
+                "date": "2024/12/28 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/F1uSNR8-oTo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC84lHLBU36BbaDQ3iWy0wgP7WMKQ",
+                "description": "@HakosBaelz \n🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble..."
+            },
+            {
                 "video_id": "X3y57JspBfA",
                 "title": "【#生スバル】おはすば！！！！！ / OHASHUBA！！！FREE TALK【ホロライブ/大空スバル】",
                 "date": "2024/12/28 08:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/X3y57JspBfA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb4UevbUr4gW3pJe3zm_QeZy7UXg",
-                "description": "イラスト▹https://x.com/nokachoco114/status/1870024946082295894\n\n使用ソフト：音声認識字幕ちゃん\nhttp://www.sayonari.com/trans_asr/index.html\n※このソフトは開発者（さ..."
+                "description": "イラスト▹https://x.com/bxobalice/status/1871901223638745290\n\n使用ソフト：音声認識字幕ちゃん\nhttp://www.sayonari.com/trans_asr/index.html\n※このソフトは開発者（さぁ..."
             }
         ]
     },
@@ -556,15 +569,7 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/LnJxTvrkHQFdFlyMY2HPtXVEwA7KHlUp8rNzBepF1GQfPQjUN9yKGIqSYOD31F22Ow9vSTn9",
-        "videos": [
-            {
-                "video_id": "11oiR30GAZc",
-                "title": "THE GOLDEN COMPASS - the perfect christmas movie -【WATCHALONG】",
-                "date": "2024/12/28 03:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/11oiR30GAZc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBO1AYKIj555PU3QMpr32_IK3TbUw",
-                "description": "Thumbnail art: https://x.com/TabsArts/status/1840889980836856195\n\n【Christmas Voice Pack】\nEN: https://shop.hololivepro.com/en/products/hololive_christmasvoice2024\n\n【Acrylic Stands】\n▼Offici..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
