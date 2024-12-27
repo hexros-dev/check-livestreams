@@ -201,7 +201,7 @@
             {
                 "video_id": "y4wj-6AcsF4",
                 "title": "【Black Desert】EXPLORING AND TRYING DEADEYE!! 🔫【Kaela Kovalskia / hololiveID】",
-                "date": "2024/12/27 21:00:00",
+                "date": "2024/12/27 21:15:00",
                 "thumbnail": "https://i.ytimg.com/vi/y4wj-6AcsF4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_1bg8vYh8So3whNnilF5JFZDrWg",
                 "description": "Thank you Pearl Abyss for sponsoring this video!\n\nBlack Desert Online is an open-world, action MMORPG. With experience-intense and action-packed combat, battle massive world bosses, fight alongside..."
             }
@@ -327,15 +327,7 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/Z78RNXxUqpOGYKFt-VrJV7nlehOHzl7Ta-l1cgPx5Ewucmr5kY64iGxmPSe7QqIdM1ZhvPlEOg",
-        "videos": [
-            {
-                "video_id": "eAWCKM95h_U",
-                "title": "【かまいたちの夜】完全初見でまったりプレイしていく！【ホロライブ / 大神ミオ】",
-                "date": "2024/12/27 21:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/eAWCKM95h_U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDe8mPzfnjuJAX-p1LcKxozsMkGrg",
-                "description": "全くの完全初見です！ネタバレコメントはしないで見てね✧\n\nサムネillustrator：Akafujiさん　https://x.com/aka_fuji_\n\n本ゲームは、（株）スパイク・チュ..."
-            }
-        ]
+        "videos": []
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -371,7 +363,15 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/GF0wbwZvZAGzYg8s8d6Yh1BDcWAE9UmLAh2uf3IMJ5l_ESi3sWeRqk2XfhW3IgzMeliHpt4cAw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "LausC2ZKHq4",
+                "title": "【#ろぼちゃま】オフコラボ🔥2024年最後のホラーゲームをクリアして告知をさせていたｄきｍｓｓ【ホロライブ / ロボ子さん】",
+                "date": "2024/12/28 15:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/LausC2ZKHq4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0vFn5plueDE1UJgXvuI38KJCh9g",
+                "description": "💬#ろぼちゃま で呟いてね(*'ω'*)\n\n今家を片してます\n@AkaiHaato \n\n本ゲームはHPの記載に則り配信・収益化を行っております。\n🧸喉がよわよわ状態な..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -505,6 +505,12 @@
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
         "channel_name": "Choco Ch. 癒月ちょこ",
         "avatar_url": "https://yt3.googleusercontent.com/eB_qZXKL-jDhGyEstj9BvLL0qO_tHEMaIpkfp8M-qXYweZOpDm7uZgBwbWfxwAT7uKh_5tEj",
+        "videos": []
+    },
+    "@dooby3d": {
+        "channel_url": "https://www.youtube.com/@dooby3d",
+        "channel_name": "dooby",
+        "avatar_url": "https://yt3.googleusercontent.com/QBddwfs8nHiD5V-Dm9HcRfmjpCMpIGbRfKmk6vmejPEo8hyePLSo4oHm34TSLVHswqbTNjKZOw",
         "videos": []
     },
     "@holoen_ceciliaimmergreen": {

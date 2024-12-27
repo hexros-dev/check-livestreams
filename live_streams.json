@@ -95,14 +95,7 @@
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
         "channel_name": "Ao Ch. 火威青 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/7axTno1zkKS6RhYH7cZ9FecAkjBmZRYTwDeVoqxDdAx0wGfqatlMY10igRFEa1gpAtq5rqnDJg",
-        "videos": [
-            {
-                "video_id": "BZJWUUdY7Iw",
-                "title": "【お絵かきコラボ】神絵師はペンの持ち方にも個性がある【火威青/宝鐘マリン/しぐれうい/ルンルン 】#hololiveDEV_IS #ReGLOSS",
-                "thumbnail": "https://i.ytimg.com/vi/BZJWUUdY7Iw/hqdefault.jpg?v=676d753c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC89yFnPepaACaKkCUz8vTpmsqTWQ",
-                "description": "可愛い女の子かと思った？じゃじゃーん青くんでした！\n神絵師様たちとお絵かき！お互いを描いていく！（かなり緊張しています）\n\n💙神絵師様..."
-            }
-        ]
+        "videos": []
     },
     "@HoshimachiSuisei": {
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
@@ -313,7 +306,14 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/Z78RNXxUqpOGYKFt-VrJV7nlehOHzl7Ta-l1cgPx5Ewucmr5kY64iGxmPSe7QqIdM1ZhvPlEOg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "eAWCKM95h_U",
+                "title": "【かまいたちの夜】完全初見でまったりプレイしていく！【ホロライブ / 大神ミオ】",
+                "thumbnail": "https://i.ytimg.com/vi/eAWCKM95h_U/hqdefault.jpg?v=676e905a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDe8mPzfnjuJAX-p1LcKxozsMkGrg",
+                "description": "全くの完全初見です！ネタバレコメントはしないで見てね✧\n\nサムネillustrator：Akafujiさん　https://x.com/aka_fuji_\n\n本ゲームは、（株）スパイク・チュ..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -370,7 +370,14 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/GF0wbwZvZAGzYg8s8d6Yh1BDcWAE9UmLAh2uf3IMJ5l_ESi3sWeRqk2XfhW3IgzMeliHpt4cAw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "JHxbpLlyOTc",
+                "title": "【ゲリラ】証拠隠滅・現実逃避のボクのライブ会場へようこそ【ホロライブ / ロボ子さん】",
+                "thumbnail": "https://i.ytimg.com/vi/JHxbpLlyOTc/hqdefault.jpg?v=676eb225&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAp3ZxVikUrbggqKSPeG8Sck2tjZg",
+                "description": "💬#ロボ子生放送  で呟いてね(*'ω'*)\n\n\n\n\n🧸喉がよわよわ状態なので声は控えめ配信中です！\nでもお水と🍯パワーでたのしんでやっていくよ！..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -486,6 +493,12 @@
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
         "channel_name": "Choco Ch. 癒月ちょこ",
         "avatar_url": "https://yt3.googleusercontent.com/eB_qZXKL-jDhGyEstj9BvLL0qO_tHEMaIpkfp8M-qXYweZOpDm7uZgBwbWfxwAT7uKh_5tEj",
+        "videos": []
+    },
+    "@dooby3d": {
+        "channel_url": "https://www.youtube.com/@dooby3d",
+        "channel_name": "dooby",
+        "avatar_url": "https://yt3.googleusercontent.com/QBddwfs8nHiD5V-Dm9HcRfmjpCMpIGbRfKmk6vmejPEo8hyePLSo4oHm34TSLVHswqbTNjKZOw",
         "videos": []
     },
     "@holoen_ceciliaimmergreen": {
