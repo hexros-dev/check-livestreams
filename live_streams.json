@@ -119,14 +119,7 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/JyixAV--9ZFWIMEwRQFbZhkiQTEvb1ALCdX7bW9BarpyLBjAnbbmc98jymhVT_pZlJpWaDwk",
-        "videos": [
-            {
-                "video_id": "BO8N59Sh3AE",
-                "title": "【雑談】とある先輩のおうちに遊びに行った話とか！！🥰【一条莉々華/hololive DEV_IS　ReGLOSS】",
-                "thumbnail": "https://i.ytimg.com/vi/BO8N59Sh3AE/hqdefault.jpg?v=676e7130&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8lmvzFKolOouoVYQa8VwWrdlJ9g",
-                "description": "おしゃべりたいむだ～！！！！！\n\n🔽素敵なイラスト🔽\nトミフミ様\n@tomisaka_hifumi\n\n\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧\n\n合言葉は「可..."
-            }
-        ]
+        "videos": []
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -157,7 +150,14 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/i-aqA-4BPUKlCYErdtAkp2_s2AsG_8IB1saxXSSBXevz6bA8ptaIm53-SXB1_KIODP4SI4_l",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "y4wj-6AcsF4",
+                "title": "【Black Desert】EXPLORING AND TRYING DEADEYE!! 🔫【Kaela Kovalskia / hololiveID】",
+                "thumbnail": "https://i.ytimg.com/vi/y4wj-6AcsF4/hqdefault.jpg?v=676ea5f1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_1bg8vYh8So3whNnilF5JFZDrWg",
+                "description": "Thank you Pearl Abyss for sponsoring this video!\n\nBlack Desert Online is an open-world, action MMORPG. With experience-intense and action-packed combat, battle massive world bosses, fight alongside..."
+            }
+        ]
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
