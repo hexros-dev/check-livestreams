@@ -135,6 +135,20 @@
         "avatar_url": "https://yt3.googleusercontent.com/7axTno1zkKS6RhYH7cZ9FecAkjBmZRYTwDeVoqxDdAx0wGfqatlMY10igRFEa1gpAtq5rqnDJg",
         "videos": []
     },
+    "@HoshimachiSuisei": {
+        "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
+        "channel_name": "Suisei Channel",
+        "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
+        "videos": [
+            {
+                "video_id": "ysmbvtf3_bc",
+                "title": "【チラ見せ】Hoshimachi Suisei Live Tour 2024 \"Spectra of Nova\"【福岡サンパレス】",
+                "date": "2024/12/28 15:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/ysmbvtf3_bc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjg5Kpi5GLjf-qoIFyNd5q7nLR2g",
+                "description": "Hoshimachi Suisei Live Tour 2024 \"Spectra of Nova\"いよいよ最終公演！\n2024年12月28日（土）福岡サンパレス公演の一部をYouTube Liveで無料配信！\n\n▼公式ハッシュ..."
+            }
+        ]
+    },
     "@HoushouMarine": {
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
@@ -287,7 +301,15 @@
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
         "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/JDCIBWj11TgjY2Uyba_efZ0n5hzjysMB9GxkvHGkIN_sfFQJR5mx3iVPqgJ96IPcYjZpCLsb",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "T6qmfEr8ypo",
+                "title": "You put the mi in misery | MiSide",
+                "date": "2024/12/28 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/T6qmfEr8ypo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLYjiVartqPJC6XGyqmfhzbDUlKw",
+                "description": "∴∴♪ * Check Out My First EP Here!* ♪∴∴\nhttps://cover.lnk.to/esLvqA\n\n∴∴♪ * Check Out My Music Here!* ♪∴∴\nhttps://www.youtube.com/playlist?list=PLSJG6WXf5JvFn2FWv_B5HP7DklUtde..."
+            }
+        ]
     },
     "@NinomaeInanis": {
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
