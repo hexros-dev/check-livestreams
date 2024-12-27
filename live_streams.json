@@ -238,7 +238,14 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/f4uYWHJxiGwyXm8NUlm818N1MRnywtgL6wM8JdWqWsKBzI7v1eg8dxDWG7igkWuukUSiufydqPg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ALWNU_p88kM",
+                "title": "【AmiAmi】 End of the Year Wrap-Up with AmiAmi & Ina!!",
+                "thumbnail": "https://i.ytimg.com/vi/ALWNU_p88kM/hqdefault.jpg?v=676d9a9e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnWYZwiibpp6lcWzHLxRK-L4KI_w",
+                "description": "I became the official ambassador for AmiAmi!!\nMake sure to check out their website~!! \nhttps://www.amiami.com/eng/?utm_source=youtube&utm_medium=PR&utm_campaign=2409_Inanis\n\nQuick link to find..."
+            }
+        ]
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -304,14 +311,7 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZlovVsPyh8NgS37S4dfONiCBySiboGPbT9cYuirb8JM3JhSnqlpJk-8SQUEA7jPfqXpMvjaa",
-        "videos": [
-            {
-                "video_id": "Z2tuKkNuPag",
-                "title": "Scrapbook Album Handcam【Try Not to Eat Glitter Challenge】",
-                "thumbnail": "https://i.ytimg.com/vi/Z2tuKkNuPag/hqdefault.jpg?v=67492a71&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJul3Ae7Z5nAGSsb3y1paebH4uYg",
-                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n\n==============..."
-            }
-        ]
+        "videos": []
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
@@ -419,14 +419,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/AD2BC7S_QlNSZEHrM-pyRR0C9DOPnfK2OnuFjTK8F842WydS1HDMe6TvhESY9Er96Kt3yu0-fQ",
-        "videos": [
-            {
-                "video_id": "MbDELZf4QKc",
-                "title": "Decorating a Christmas Tree with Grem Ornaments!",
-                "thumbnail": "https://i.ytimg.com/vi/MbDELZf4QKc/hqdefault.jpg?v=676d0d55&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAl_EQqLX3cjehv-PySFGXQ7kCI_w",
-                "description": "chrimas\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐  ⸜(｡˃ ᵕ ˂ )⸝♡ credits (˶ˆᗜˆ˵)  ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n⨯ opening screen & tabletop assets: @alphasas..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
