@@ -225,7 +225,14 @@
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
         "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/JDCIBWj11TgjY2Uyba_efZ0n5hzjysMB9GxkvHGkIN_sfFQJR5mx3iVPqgJ96IPcYjZpCLsb",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "tkBPUV0Cckc",
+                "title": "REBROADCAST UNARCHIVED KARAOKE feat. MAMARISSA | HAPPY CHRISTMAS EVE",
+                "thumbnail": "https://i.ytimg.com/vi/tkBPUV0Cckc/hqdefault.jpg?v=676de191&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCdED4tYejtfVatT8MbnFrKLsR2w",
+                "description": "∴∴♪ * Check Out My First EP Here!* ♪∴∴\nhttps://cover.lnk.to/esLvqA\n\n∴∴♪ * Check Out My Music Here!* ♪∴∴\nhttps://www.youtube.com/playlist?list=PLSJG6WXf5JvFn2FWv_B5HP7DklUtde..."
+            }
+        ]
     },
     "@NinomaeInanis": {
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
@@ -249,6 +256,12 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
+        "videos": []
+    },
+    "@OtonoseKanade": {
+        "channel_url": "https://www.youtube.com/@OtonoseKanade",
+        "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+        "avatar_url": "https://yt3.googleusercontent.com/f31Dn0ou0ob-VCRtjZTXed4m22A-bdR9ljFw-0LPa9cPicx7gY3e1vdFkrGxgz0ubHD7vCD_",
         "videos": []
     },
     "@OuroKronii": {
@@ -316,14 +329,7 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": [
-            {
-                "video_id": "bXNXqhaytHg",
-                "title": "【縦型/スパチャお礼】今年も残りわずか！お礼できてないスパチャをお礼させてね💗【白銀ノエル/ホロライブ】#shorts",
-                "thumbnail": "https://i.ytimg.com/vi/bXNXqhaytHg/hqdefault.jpg?v=676d9de2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZJBz2wiws3Xe88uspr7tb_mRj5A",
-                "description": "🎄生誕グッズ販売中(2025/1/6 18時まで)！→ https://shop.hololivepro.com/products/shiroganenoel_bd2024\nサムネに掲載できていない配信もあるかも...です！\n※コラ..."
-            }
-        ]
+        "videos": []
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",

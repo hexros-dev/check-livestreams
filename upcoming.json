@@ -35,7 +35,15 @@
         "channel_url": "https://www.youtube.com/@AmaneKanata",
         "channel_name": "Kanata Ch. Kanata Amane",
         "avatar_url": "https://yt3.googleusercontent.com/e5wX9w1xSFUjaUdyhFugYZKzDZ_KLTLWBgdtRohHQDu0pshH867pyOv6gLGuqkqy5Ik8bJ9MSZU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "u2vA1kQaHzY",
+                "title": "【5周年記念日】アポなし逆凸！！１時間以内に何人と喋れる！？【天音かなた/ホロライブ】",
+                "date": "2024/12/27 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/u2vA1kQaHzY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCtsKByggB7BSBA1lwTf6ymbNcqQ",
+                "description": "目標10人\n\nイラスト：おしおママ\nhttps://x.com/oshioshio_info/status/1869671904774418523\n\n---------------------------------------------------------------------------------\n\n🌌..."
+            }
+        ]
     },
     "@AnyaMelfissa": {
         "channel_url": "https://www.youtube.com/@AnyaMelfissa",
@@ -340,15 +348,7 @@
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
         "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/JDCIBWj11TgjY2Uyba_efZ0n5hzjysMB9GxkvHGkIN_sfFQJR5mx3iVPqgJ96IPcYjZpCLsb",
-        "videos": [
-            {
-                "video_id": "tkBPUV0Cckc",
-                "title": "REBROADCAST UNARCHIVED KARAOKE feat. MAMARISSA | HAPPY CHRISTMAS EVE",
-                "date": "2024/12/27 09:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/tkBPUV0Cckc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCdED4tYejtfVatT8MbnFrKLsR2w",
-                "description": "∴∴♪ * Check Out My First EP Here!* ♪∴∴\nhttps://cover.lnk.to/esLvqA\n\n∴∴♪ * Check Out My Music Here!* ♪∴∴\nhttps://www.youtube.com/playlist?list=PLSJG6WXf5JvFn2FWv_B5HP7DklUtde..."
-            }
-        ]
+        "videos": []
     },
     "@NinomaeInanis": {
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
@@ -358,7 +358,7 @@
             {
                 "video_id": "ALWNU_p88kM",
                 "title": "【AmiAmi】 End of the Year Wrap-Up with AmiAmi & Ina!!",
-                "date": "2024/12/27 09:00:00",
+                "date": "2024/12/27 09:30:00",
                 "thumbnail": "https://i.ytimg.com/vi/ALWNU_p88kM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnWYZwiibpp6lcWzHLxRK-L4KI_w",
                 "description": "I became the official ambassador for AmiAmi!!\nMake sure to check out their website~!! \nhttps://www.amiami.com/eng/?utm_source=youtube&utm_medium=PR&utm_campaign=2409_Inanis\n\nQuick link to find..."
             }
@@ -380,6 +380,12 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
+        "videos": []
+    },
+    "@OtonoseKanade": {
+        "channel_url": "https://www.youtube.com/@OtonoseKanade",
+        "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+        "avatar_url": "https://yt3.googleusercontent.com/f31Dn0ou0ob-VCRtjZTXed4m22A-bdR9ljFw-0LPa9cPicx7gY3e1vdFkrGxgz0ubHD7vCD_",
         "videos": []
     },
     "@OuroKronii": {
@@ -468,7 +474,15 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "RMvdq3JQ2n0",
+                "title": "【HOLOTALK】With our 32nd guest: Fauna Ceres! #holotalk",
+                "date": "2024/12/28 04:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/RMvdq3JQ2n0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0GAyE5-aHIZIkkeTmii79f479eA",
+                "description": "@CeresFauna !!\nHolotalk is a live talkshow with the purpose of interviewing and live translating (mainly) Japanese Hololive talents to bring as much wholesome knowledge to oversea viewers as..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
