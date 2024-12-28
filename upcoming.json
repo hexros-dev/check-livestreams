@@ -74,27 +74,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/uMUat6yJL2_Sk6Wg2-yn0fSIqUr_D6aKVNVoWbgeZ8N-edT5QJAusk4PI8nmPgT_DxFDTyl8",
         "videos": []
     },
-    "@HakosBaelz": {
-        "channel_url": "https://www.youtube.com/@HakosBaelz",
-        "channel_name": "Hakos Baelz Ch. hololive-EN",
-        "avatar_url": "https://yt3.googleusercontent.com/9FFCT3cu9FxyLJUUFovpPI7WRj0I7_KuApwkEaLsD0NHVVL2OPTtGn8Qga5YFbeC_47-MoEXrA",
-        "videos": [
-            {
-                "video_id": "6Rfl-u7Gw9I",
-                "title": "≪Someone Stole MY LUNCH!≫ I Cannot Believe This Has Happened.",
-                "date": "2024/12/30 08:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/6Rfl-u7Gw9I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD34gMAnDFbHg6iNa3TyvNpf4g3uw",
-                "description": "Alert the Authorities. \nI want the best minds on this case. \n\n#telebae #hololiveenglish \n\n««≪ °◇◆◇° ≫ »»\n\nNEW MV 【KOKORONASHI】: https://www.youtube.com/live/5zhbYmwl8Tk..."
-            },
-            {
-                "video_id": "thtTuMciYuE",
-                "title": "≪Duck Detective: The Secret Salami≫ THE POWER OF MOOSE COMPELS YOU",
-                "date": "2024/12/29 08:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/thtTuMciYuE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB73MJeY4baVJO65vYRcApdF1YCLA",
-                "description": "I saw duck and detective so I bought it.\n\n#telebae #hololiveenglish \n\n««≪ °◇◆◇° ≫ »»\n\nNEW MV 【KOKORONASHI】: https://www.youtube.com/live/5zhbYmwl8Tk\n\nSTREAM 『ZODIAC』:..."
-            }
-        ]
-    },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
@@ -596,7 +575,15 @@
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
         "channel_name": "Choco Ch. 癒月ちょこ",
         "avatar_url": "https://yt3.googleusercontent.com/eB_qZXKL-jDhGyEstj9BvLL0qO_tHEMaIpkfp8M-qXYweZOpDm7uZgBwbWfxwAT7uKh_5tEj",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "J9QMuolFcYk",
+                "title": "【Freetalk】ちょこめいとからのクズ男エピおかずに食べさせてもらいます【ホロライブ/癒月ちょこ】",
+                "date": "2024/12/29 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/J9QMuolFcYk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAR8gomogAYablW-FE0I298xjaugA",
+                "description": "今回は皆様に募集した\nクズ男エピソードをおかずに\nちょこがただただおいしいごはんを食べる配信です。\n\n\n\n１stアルバムデジタルリリース↓..."
+            }
+        ]
     },
     "@dooby3d": {
         "channel_url": "https://www.youtube.com/@dooby3d",
@@ -614,15 +601,7 @@
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm",
-        "videos": [
-            {
-                "video_id": "ZrU2Jn94sIU",
-                "title": "【JUSTICE JAMS】6 MONTHS ANNIVERSARY ~! 💄👧🍵🐱 + Special Announcements #holojustice",
-                "date": "2024/12/29 05:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/ZrU2Jn94sIU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChPYLNiLKaA8cMBPE998HSWeKaTA",
-                "description": "Justice Just Like THAT! ♡ \n\n▬▬ι════════ﺤ\n❣ Credits/Hashtags ❣\n* Subscribe to JUSTICE: @holoen_gigimurin @holoen_ceciliaimmergreen @holoen_raorapanthera \n* Game[s]:..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_gigimurin": {
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
