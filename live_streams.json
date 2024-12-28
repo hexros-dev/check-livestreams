@@ -142,14 +142,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/0NYd0NnC9mCjdu6t_i-JylPkwpz-o3IZ1eLqgG4MdXS-KUPrP36e71UysuoV9eZA1-TRG3gZ",
-        "videos": [
-            {
-                "video_id": "8ZRa2LDMupo",
-                "title": "【＃ホロ新春ゲーム祭2025】スーパーマリオパーティジャンボリーソロ練習！【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "thumbnail": "https://i.ytimg.com/vi/8ZRa2LDMupo/hqdefault.jpg?v=676fbf48&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhEMRkaROOCnHRv7seOSEtch1P9Q",
-                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\nメンバーシップ開設しました！加入はこちらから💕https://www.youtube...."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -270,7 +263,14 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "F1uSNR8-oTo",
+                "title": "【#大空警察2024】大空警察2024しゅばああああああああああああああああああああああああ！！！！ /OOZORA Police 2024【ホロライブ/大空スバル】",
+                "thumbnail": "https://i.ytimg.com/vi/F1uSNR8-oTo/hqdefault.jpg?v=676f00b3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC84lHLBU36BbaDQ3iWy0wgP7WMKQ",
+                "description": "@HakosBaelz \n🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble..."
+            }
+        ]
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
