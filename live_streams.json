@@ -101,7 +101,14 @@
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
         "channel_name": "Suisei Channel",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ysmbvtf3_bc",
+                "title": "【チラ見せ】Hoshimachi Suisei Live Tour 2024 \"Spectra of Nova\"【福岡サンパレス】",
+                "thumbnail": "https://i.ytimg.com/vi/ysmbvtf3_bc/hqdefault.jpg?v=676d2d48&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjg5Kpi5GLjf-qoIFyNd5q7nLR2g",
+                "description": "Hoshimachi Suisei Live Tour 2024 \"Spectra of Nova\"いよいよ最終公演！\n2024年12月28日（土）福岡サンパレス公演の一部をYouTube Liveで無料配信！\n\n▼公式ハッシュ..."
+            }
+        ]
     },
     "@HoushouMarine": {
         "channel_url": "https://www.youtube.com/@HoushouMarine",
@@ -283,14 +290,7 @@
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/f31Dn0ou0ob-VCRtjZTXed4m22A-bdR9ljFw-0LPa9cPicx7gY3e1vdFkrGxgz0ubHD7vCD_",
-        "videos": [
-            {
-                "video_id": "gd65lfQtRIo",
-                "title": "【 Minecraft 】アレにレールを引く【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-                "thumbnail": "https://i.ytimg.com/vi/gd65lfQtRIo/hqdefault.jpg?v=676f7f2e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxX959bFT6QbnpatgWP17YvzuUgA",
-                "description": "50万人記念グッズ販売ストアはこちら！✨\n受注受付期間 : 2024年12月18日 21時00分 ～ 2025年01月20日 18時00分\nhttps://shop.hololivepro.com/products/otonosekanade_500k..."
-            }
-        ]
+        "videos": []
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
@@ -394,14 +394,7 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": [
-            {
-                "video_id": "BGdtGE_o02k",
-                "title": "【ネタバレあり】FINAL FANTASY Ⅵ～新しい仲間に出会えるだろうか～【ホロライブ/ときのそら】",
-                "thumbnail": "https://i.ytimg.com/vi/BGdtGE_o02k/hqdefault.jpg?v=676f5db5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBal1XPMDg5REb-cuTDUyaxZDb6Fg",
-                "description": "FINAL FANTASY Ⅵ（ピクセルリマスター）\nの実況をしていこうと思います！\n先が気になりすぎる！！\n\n※ネタバレ注意の作品です。切り抜き・スクシ..."
-            }
-        ]
+        "videos": []
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
@@ -461,12 +454,6 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/AD2BC7S_QlNSZEHrM-pyRR0C9DOPnfK2OnuFjTK8F842WydS1HDMe6TvhESY9Er96Kt3yu0-fQ",
-        "videos": []
-    },
-    "@holoen_raorapanthera": {
-        "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
-        "channel_name": "Raora Panthera Ch. hololive-EN",
-        "avatar_url": "https://yt3.googleusercontent.com/8XQlrbkx1vBSpFZQ_GwV6hxep9EX0xHBH-CmWknoHusxXOKGnfVytVRzpt-36PxJOfumNjiBkAI",
         "videos": []
     },
     "@kazamairoha": {
