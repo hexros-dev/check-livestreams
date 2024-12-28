@@ -197,6 +197,13 @@
         "avatar_url": "https://yt3.googleusercontent.com/0NYd0NnC9mCjdu6t_i-JylPkwpz-o3IZ1eLqgG4MdXS-KUPrP36e71UysuoV9eZA1-TRG3gZ",
         "videos": [
             {
+                "video_id": "8ZRa2LDMupo",
+                "title": "【＃ホロ新春ゲーム祭2025】スーパーマリオパーティジャンボリーソロ練習！【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "date": "2024/12/28 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/8ZRa2LDMupo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhEMRkaROOCnHRv7seOSEtch1P9Q",
+                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\nメンバーシップ開設しました！加入はこちらから💕https://www.youtube...."
+            },
+            {
                 "video_id": "ON55_8f8O8E",
                 "title": "【初代つぐのひ】ビビりがジャパニーズホラーで大絶叫【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
                 "date": "2024/12/28 21:00:00",
@@ -239,7 +246,15 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "On-h9_CSTog",
+                "title": "【ネタバレが激しすぎるRPG】完全初見！なんかパパがやばいらしい【FLOW GLOW 水宮枢】#hololiveDEV_IS",
+                "date": "2024/12/28 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/On-h9_CSTog/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSYjt6eV6AOyxRmr_zLlapuZ6MYQ",
+                "description": "本当になにもしらないけどパパがやばいってききました✋\n\n本ゲームは配信ポリシーに則り配信・収益化を行なっております。\n【ネタバレが激し..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -541,17 +556,10 @@
         "videos": [
             {
                 "video_id": "H2CC6J9hxHQ",
-                "title": "【雑談】#ゴリレバ 深夜のCillラジオ【 天音かなた・雪花ラミィ /ホロライブ】",
+                "title": "【雑談】#ゴリレバ 深夜のChillラジオ【 天音かなた・雪花ラミィ /ホロライブ】",
                 "date": "2024/12/29 21:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/H2CC6J9hxHQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_4Ozd1y9OyvnOMF_rNe0EfRg0Hg",
                 "description": "@AmaneKanata \n\n感想は #らみらいぶ で呟いて頂けたら嬉しいです！\n\nサムネイルイラスト：aoha様\nhttps://x.com/aohasora_\nサムネイルデザイン：rairai様\nhttps://x..."
-            },
-            {
-                "video_id": "zxjyZ0o0fY8",
-                "title": "【近畿霊務局】幽霊に反撃できる！？おっしゃ、倒すぞ！！！【 雪花ラミィ /ホロライブ】",
-                "date": "2024/12/28 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/zxjyZ0o0fY8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3cnfAMScdZCGzk8_U-jUl2Cn6Uw",
-                "description": "本ゲームは、配信ガイドラインに則り配信、収益化を行っています。\n\nサムネイル：金貨さま\nhttps://x.com/kinka0703\n\n感想は #らみらいぶ で呟いて頂け..."
             }
         ]
     },
@@ -593,6 +601,12 @@
         "avatar_url": "https://yt3.googleusercontent.com/AD2BC7S_QlNSZEHrM-pyRR0C9DOPnfK2OnuFjTK8F842WydS1HDMe6TvhESY9Er96Kt3yu0-fQ",
         "videos": []
     },
+    "@holoen_raorapanthera": {
+        "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
+        "channel_name": "Raora Panthera Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/8XQlrbkx1vBSpFZQ_GwV6hxep9EX0xHBH-CmWknoHusxXOKGnfVytVRzpt-36PxJOfumNjiBkAI",
+        "videos": []
+    },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
@@ -617,7 +631,15 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_n1iH9fDDGm8RHUzoB-XDfnTEwhlgBcP3OLjapDqHYoYVw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "3oDujra5ewk",
+                "title": "【配信予定】ぺこ！【ホロライブ/兎田ぺこら】",
+                "date": "2024/12/28 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/3oDujra5ewk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhZvdU3H68Hb8BYp7rR1Z72tfLcw",
+                "description": "サムネイラスト：()さん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ #ぺこらいぶ..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",

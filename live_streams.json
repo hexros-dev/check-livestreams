@@ -314,14 +314,7 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/GF0wbwZvZAGzYg8s8d6Yh1BDcWAE9UmLAh2uf3IMJ5l_ESi3sWeRqk2XfhW3IgzMeliHpt4cAw",
-        "videos": [
-            {
-                "video_id": "LausC2ZKHq4",
-                "title": "【#ろぼちゃま】オフコラボ🔥2024年最後のホラーゲームをクリアして告知をさせていたｄきｍｓｓ【ホロライブ / ロボ子さん】",
-                "thumbnail": "https://i.ytimg.com/vi/LausC2ZKHq4/hqdefault.jpg?v=676eae88&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0vFn5plueDE1UJgXvuI38KJCh9g",
-                "description": "💬#ろぼちゃま で呟いてね(*'ω'*)\n\n今家を片してます\n@AkaiHaato \n\n本ゲームはHPの記載に則り配信・収益化を行っております。\n🧸喉がよわよわ状態な..."
-            }
-        ]
+        "videos": []
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -424,7 +417,14 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "zxjyZ0o0fY8",
+                "title": "【近畿霊務局】幽霊に反撃できる！？おっしゃ、倒すぞ！！！【 雪花ラミィ /ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/zxjyZ0o0fY8/hqdefault.jpg?v=676e6f96&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3cnfAMScdZCGzk8_U-jUl2Cn6Uw",
+                "description": "本ゲームは、配信ガイドラインに則り配信、収益化を行っています。\n\nサムネイル：金貨さま\nhttps://x.com/kinka0703\n\n感想は #らみらいぶ で呟いて頂け..."
+            }
+        ]
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
@@ -454,6 +454,12 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/AD2BC7S_QlNSZEHrM-pyRR0C9DOPnfK2OnuFjTK8F842WydS1HDMe6TvhESY9Er96Kt3yu0-fQ",
+        "videos": []
+    },
+    "@holoen_raorapanthera": {
+        "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
+        "channel_name": "Raora Panthera Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/8XQlrbkx1vBSpFZQ_GwV6hxep9EX0xHBH-CmWknoHusxXOKGnfVytVRzpt-36PxJOfumNjiBkAI",
         "videos": []
     },
     "@kazamairoha": {
