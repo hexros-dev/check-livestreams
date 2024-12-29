@@ -149,7 +149,14 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/0NYd0NnC9mCjdu6t_i-JylPkwpz-o3IZ1eLqgG4MdXS-KUPrP36e71UysuoV9eZA1-TRG3gZ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "P5H_IgriN_s",
+                "title": "【邪神ころね】先輩のホラーゲーム！？やるしかないやん！【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "thumbnail": "https://i.ytimg.com/vi/P5H_IgriN_s/hqdefault.jpg?v=67710cfd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAP0znIJvacAWE28GQkvqRAXEDlug",
+                "description": "本ゲームは株式会社バカ―及びImCyanに確認を得た上で、配信・収益化を行なっております。\n© 2016 COVER Corp./ImCyan/Vaka, Inc.\nhttps://store.steampowered.com/app/..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -398,7 +405,14 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/-IdVo-vK7pr0VRjJDdza1-t1Edjce1Rd1R1hon_3SRIzuQ-XVBTWOJj-UfwYPp8y40KM197_y4o",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "FDjbKIUkpX0",
+                "title": "【近畿霊務局 | Kinki Spiritual Affairs Bureau】The lore THICKENS. Who do we shoot next?",
+                "thumbnail": "https://i.ytimg.com/vi/FDjbKIUkpX0/hqdefault.jpg?v=67714a99&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCHTD05T5l-NEJGDXf0VxwSdEhy8Q",
+                "description": "#hololive #holoid #vestiazeta  #vtuber #horrorgaming \nThis game may contain graphic content & depictions such as: Gunfight, blood, and violence.\n\nThis game is being streamed and monetized in..."
+            }
+        ]
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
@@ -410,13 +424,27 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "H2CC6J9hxHQ",
+                "title": "【雑談】#ゴリレバ 深夜のChillラジオ【 天音かなた・雪花ラミィ /ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/H2CC6J9hxHQ/hqdefault.jpg?v=676f641b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_4Ozd1y9OyvnOMF_rNe0EfRg0Hg",
+                "description": "@AmaneKanata \n\n感想は #らみらいぶ で呟いて頂けたら嬉しいです！\n\nサムネイルイラスト：aoha様\nhttps://x.com/aohasora_\nサムネイルデザイン：rairai様\nhttps://x..."
+            }
+        ]
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
         "channel_name": "Choco Ch. 癒月ちょこ",
         "avatar_url": "https://yt3.googleusercontent.com/eB_qZXKL-jDhGyEstj9BvLL0qO_tHEMaIpkfp8M-qXYweZOpDm7uZgBwbWfxwAT7uKh_5tEj",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "J9QMuolFcYk",
+                "title": "【Freetalk】ちょこめいとからのクズ男エピおかずに食べさせてもらいます【ホロライブ/癒月ちょこ】",
+                "thumbnail": "https://i.ytimg.com/vi/J9QMuolFcYk/hqdefault.jpg?v=67706f7a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAR8gomogAYablW-FE0I298xjaugA",
+                "description": "今回は皆様に募集した\nクズ男エピソードをおかずに\nちょこがただただおいしいごはんを食べる配信です。\n\n\n\n１stアルバムデジタルリリース↓..."
+            }
+        ]
     },
     "@dooby3d": {
         "channel_url": "https://www.youtube.com/@dooby3d",
@@ -471,14 +499,7 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_n1iH9fDDGm8RHUzoB-XDfnTEwhlgBcP3OLjapDqHYoYVw",
-        "videos": [
-            {
-                "video_id": "4mhZ8e3DKXw",
-                "title": "【＃ミリしらパワプロ杯】PK學院3年生卒業まで！←ホロ甲３チームとPK學院で試合！ぺこ！【ホロライブ/兎田ぺこら】",
-                "thumbnail": "https://i.ytimg.com/vi/4mhZ8e3DKXw/hqdefault.jpg?v=6770396a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCUPxZIUwilB3-DF70yZQ4zLLn60g",
-                "description": "3人にチームのコードをもらったのでPK學院と試合させてもらうぺこ！\n\nAZ学園高校 監督@AZKi \nかなターン高校 監督@AmaneKanata \n限界条高校 監督@IchijouRi..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
