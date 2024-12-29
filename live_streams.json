@@ -124,7 +124,14 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/qufYdKqJ9VaUNhkP3_Wv0RranzAiwtvtOoxI_NRNMP6pCFa3lMnUKXRPd7EL4x-5OlDFp1BSpFE",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "pB_82upJzmM",
+                "title": "【リングフィットアドベンチャー】久しぶりの筋トレなので限界まで追い込みます・・・【ホロライブ DEV_IS 響咲リオナ】",
+                "thumbnail": "https://i.ytimg.com/vi/pB_82upJzmM/hqdefault.jpg?v=67712633&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6__Ylh6NjX5f-ymRodyyD8Z1X5w",
+                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n\nサムネ\n汐よる様　(X：@ ushio_yoru)\n素敵なイラストありがとうござい..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -142,14 +149,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/0NYd0NnC9mCjdu6t_i-JylPkwpz-o3IZ1eLqgG4MdXS-KUPrP36e71UysuoV9eZA1-TRG3gZ",
-        "videos": [
-            {
-                "video_id": "JhM58asOgFw",
-                "title": "#8【龍が如く７】RPGゲームの醍醐味レベル上げ！※ネタバレあり【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "thumbnail": "https://i.ytimg.com/vi/JhM58asOgFw/hqdefault.jpg?v=67711e68&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB33aZTHYJ2pD1Oqk5pfioq-uxPRg",
-                "description": "この動画およびライブは、コンテンツ利用許諾契約に基づいて配信しています。\n©SEGA\n\n\nメンバーシップ開設しました❣加入こちらから💕https://www...."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
