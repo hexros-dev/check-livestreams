@@ -218,15 +218,7 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw",
-        "videos": [
-            {
-                "video_id": "6qLDYrGGHvg",
-                "title": "【Unpacking】睡眠導入配信いつもよりゆるく片付けと戦う【FLOW GLOW 水宮枢】#hololiveDEV_IS",
-                "date": "2024/12/29 21:15:00",
-                "thumbnail": "https://i.ytimg.com/vi/6qLDYrGGHvg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-sQZPiFAlE8PJZ9l8HT3RdFbiWQ",
-                "description": "いつもよりゆるい雰囲気でみんなをねかします\n\n本ゲームは権利者に確認を得た上で配信・収益化を行なっております。\nイラストみたらしねこさ..."
-            }
-        ]
+        "videos": []
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -475,7 +467,15 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/4wLMmSJkzy4vmWfWYkmzn6YO9T__jp1cORNuFXN7YyihwvhGkqXCxNBaklKoXlgdik-Fp0Zu",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "hZe4IEsWj6w",
+                "title": "【雑談】今年もたくさんがんばった！忘年会だ！！！【角巻わため/ホロライブ４期生】",
+                "date": "2024/12/30 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/hZe4IEsWj6w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBujlq4_18kASnTA-Fe9Evx5Bd6Aw",
+                "description": "2024年を振り返ろう🥂\nタグ：#ドドドライブ\n\n🐏角巻わため 活動5周年記念グッズ\n12月29日(Sun) 22:00～販売開始！\nhttps://shop.hololivepro.com/products/tsunomakiw..."
+            }
+        ]
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",

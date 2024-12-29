@@ -192,7 +192,14 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "6qLDYrGGHvg",
+                "title": "【Unpacking】睡眠導入配信いつもよりゆるく片付けと戦う【FLOW GLOW 水宮枢】#hololiveDEV_IS",
+                "thumbnail": "https://i.ytimg.com/vi/6qLDYrGGHvg/hqdefault.jpg?v=67714f3d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-sQZPiFAlE8PJZ9l8HT3RdFbiWQ",
+                "description": "いつもよりゆるい雰囲気でみんなをねかします\n\n本ゲームは権利者に確認を得た上で配信・収益化を行なっております。\nイラストみたらしねこさ..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -264,14 +271,7 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/Z78RNXxUqpOGYKFt-VrJV7nlehOHzl7Ta-l1cgPx5Ewucmr5kY64iGxmPSe7QqIdM1ZhvPlEOg",
-        "videos": [
-            {
-                "video_id": "GDOn9JNBAGA",
-                "title": "【GeoGuessr】大神ミオ、初めてのゲッサーはアズちゃんと群馬観光です！【AZKi / 大神ミオ】",
-                "thumbnail": "https://i.ytimg.com/vi/GDOn9JNBAGA/hqdefault.jpg?v=676f90bd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkI2P0MGL-xm0my5PRlHrL65YiDg",
-                "description": "群馬の観光地に絞ったゲッサー！\n果たしてミオはどこまで分かるのか・・・？！(不安)\n\n教えてくれるプロ➡AZKi @AZKi \n初めてやる初心者➡大神ミオ..."
-            }
-        ]
+        "videos": []
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
