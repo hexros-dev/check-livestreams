@@ -105,12 +105,6 @@
             }
         ]
     },
-    "@HiodoshiAo": {
-        "channel_url": "https://www.youtube.com/@HiodoshiAo",
-        "channel_name": "Ao Ch. 火威青 ‐ ReGLOSS",
-        "avatar_url": "https://yt3.googleusercontent.com/7axTno1zkKS6RhYH7cZ9FecAkjBmZRYTwDeVoqxDdAx0wGfqatlMY10igRFEa1gpAtq5rqnDJg",
-        "videos": []
-    },
     "@HoshimachiSuisei": {
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
         "channel_name": "Suisei Channel",
@@ -350,14 +344,7 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/r_CG1_hNQIcnrbXOzIKbdq23Dt7lo_QGvdkVT_q1fzSOWPZxFyvlei5N4bJSeTUhwcn3JVmsh_I",
-        "videos": [
-            {
-                "video_id": "TC-_5MpYfkc",
-                "title": "【 #ホロ新春ゲーム祭2025 】トワ先輩とChained Togetherで絆を深める！【 #常闇トワ#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "thumbnail": "https://i.ytimg.com/vi/TC-_5MpYfkc/hqdefault.jpg?v=67705b2d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFdNBQX6Cmzu4bFi7qX78ERj_UXA",
-                "description": "トワ先輩とホロ新春ゲーム祭の練習！！！！\n\nお相手：トワ先輩！！\n@TokoyamiTowa \n\n本ゲームは Anegar Games に確認の上配信・収益化を行なっておりま..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
