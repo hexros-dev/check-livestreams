@@ -69,20 +69,20 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/WO7ItKNmy6tW_NQ82g8c1y74CZSw6GsSdynsE5s2csuEok2fHRrAaGcBV3JJO-2BxEOXXA8lvw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "0gwmrw5nFYc",
+                "title": "【 #こんこよアワード 】2024年！こよりの良かったものを紹介する大賞！【博衣こより/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/0gwmrw5nFYc/hqdefault.jpg?v=676f599d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmuH3EdPb6ay_dHCrZ9zSeqewyfg",
+                "description": "#こんこよアワード 🏆2024年こよりの面白かった配信投票受付中！→ https://forms.gle/9ejMFWS3QPoecA9EA\n🎁3周年記念グッズ販売中！（1/6(月)18:00まで）🔽..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/CTvZ3dUO8LocQMKbGkjUPysC524gC4asm5roilZmzhpBpWAWpLrhpRv0SpEaJeWm1oVP5v0g",
-        "videos": [
-            {
-                "video_id": "NBeZlrSqqIc",
-                "title": "【 ダークソウル3 】DLC第2弾に挑戦するのら～～～！！！DARK SOULS Ⅲ ＃02【姫森ルーナ/ホロライブ】ネタバレあり",
-                "thumbnail": "https://i.ytimg.com/vi/NBeZlrSqqIc/hqdefault.jpg?v=676fc601&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDshBKYk8SVOMnkAT3_q9B371aHMQ",
-                "description": "レベル88▶1年7ヶ月ぶりにダクソ3やるのらよ！(・o・🍬)\n\nサムネイラスト\n　石原竜也さん　https://twitter.com/curry_and_rice4\n\nダークソウル３DLC再生リス..."
-            }
-        ]
+        "videos": []
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -263,14 +263,7 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": [
-            {
-                "video_id": "DoIDomrM_jk",
-                "title": "【#8】キャプテン翼 RISE OF NEW CHAMPIONSやるしゅばああああああああああああ：Captain Tsubasa: Rise of New Champions【ネタバレあり】",
-                "thumbnail": "https://i.ytimg.com/vi/DoIDomrM_jk/hqdefault.jpg?v=67703b07&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFOo4obuxYe3E8m5mIQ8q3M-AeHg",
-                "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n\nこのゲー..."
-            }
-        ]
+        "videos": []
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -294,7 +287,14 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/r_CG1_hNQIcnrbXOzIKbdq23Dt7lo_QGvdkVT_q1fzSOWPZxFyvlei5N4bJSeTUhwcn3JVmsh_I",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "j8iONzP3vCE",
+                "title": "【マリカ8DX】参加型！！！絶対に勝つ！！！！！【  #輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "thumbnail": "https://i.ytimg.com/vi/j8iONzP3vCE/hqdefault.jpg?v=67710cf4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8QLfIZMFRV-7fANFKYTh13B9FCQ",
+                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n\nサムネイルイラスト：fpsmoeさま\nhttps://x.com/fpsmoe\nありがとうござい..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -312,7 +312,14 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/gxXHmXJq_kkZ0bvTmz7R1deyOAV44zZr2keaF0ojSq7MeiOGLSzFTCoYgYR4PGDWTCoLR7eK",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "wWWSFzf8c0E",
+                "title": "【 最終回･･だよ‼ 】耐久🎰GOD当てるまでみこは店を出ない！！！！！！【ホロライブ/さくらみこ】",
+                "thumbnail": "https://i.ytimg.com/vi/wWWSFzf8c0E/hqdefault.jpg?v=67710def&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWkCIUHABfYETMcUDYaHFkAdea4A",
+                "description": "出てくれぇえええええええええええええええええええ！！！！！！\nルール\n・閉店時間はない、GOD当たるまでやる\n\n\n🌸 ￤最新情報\n￣￣￣￣￣￣￣..."
+            }
+        ]
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
@@ -457,7 +464,14 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_n1iH9fDDGm8RHUzoB-XDfnTEwhlgBcP3OLjapDqHYoYVw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "4mhZ8e3DKXw",
+                "title": "【＃ミリしらパワプロ杯】ホロ甲３チームとPK學院で試合！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
+                "thumbnail": "https://i.ytimg.com/vi/4mhZ8e3DKXw/hqdefault.jpg?v=6770396a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCUPxZIUwilB3-DF70yZQ4zLLn60g",
+                "description": "3人にチームのコードをもらったのでPK學院と試合させてもらうぺこ！\n\nAZ学園高校 監督@AZKi \nかなターン高校 監督@AmaneKanata \n限界条高校 監督@IchijouRi..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
