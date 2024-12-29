@@ -310,7 +310,14 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/flg7E5XnFWh-NhGZOydJ2QHMpFdkBGbou0OcYUiYjKVisv8UsY-FiPLrTtexXVUqPmIyDvgC",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "jMOcIahre_o",
+                "title": "【Sonic X Shadow Generations】LET ME SHOW YOU MY REAL POWER",
+                "thumbnail": "https://i.ytimg.com/vi/jMOcIahre_o/hqdefault.jpg?v=676faf2f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb5DqJoCkABNQEtBmlFIY5m0UpCw",
+                "description": "This game is being streamed and monetized with permission and under license.\n©SEGA\nTitle：『ソニック × シャドウ ジェネレーションズ』（SONIC X SHADOW GENERATIONS）\nOfficial..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
