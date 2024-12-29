@@ -142,14 +142,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/0NYd0NnC9mCjdu6t_i-JylPkwpz-o3IZ1eLqgG4MdXS-KUPrP36e71UysuoV9eZA1-TRG3gZ",
-        "videos": [
-            {
-                "video_id": "P5H_IgriN_s",
-                "title": "【邪神ころね】先輩のホラーゲーム！？やるしかないやん！【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "thumbnail": "https://i.ytimg.com/vi/P5H_IgriN_s/hqdefault.jpg?v=67710cfd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAP0znIJvacAWE28GQkvqRAXEDlug",
-                "description": "本ゲームは株式会社バカ―及びImCyanに確認を得た上で、配信・収益化を行なっております。\n© 2016 COVER Corp./ImCyan/Vaka, Inc.\nhttps://store.steampowered.com/app/..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -362,7 +355,14 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "h7eZoUiaaFU",
+                "title": "【STELLAR BLADE】looking respectfully. #kfp #キアライブ",
+                "thumbnail": "https://i.ytimg.com/vi/h7eZoUiaaFU/hqdefault.jpg?v=67708d5d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC11lJmLVbl-56aejlkoTX0lCELCQ",
+                "description": "stream my new song, MIRAGE!✨https://cover.lnk.to/DQSp3S\n👀 Takanashi Kiara 1st Album \"Point of View\" 👀\nStreaming: https://cover.lnk.to/PointofView\n\n\n 🏵️[Twitter] 🏵️\nhttps://twitter..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
@@ -417,14 +417,7 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": [
-            {
-                "video_id": "H2CC6J9hxHQ",
-                "title": "【雑談】#ゴリレバ 深夜のChillラジオ【 天音かなた・雪花ラミィ /ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/H2CC6J9hxHQ/hqdefault.jpg?v=676f641b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_4Ozd1y9OyvnOMF_rNe0EfRg0Hg",
-                "description": "@AmaneKanata \n\n感想は #らみらいぶ で呟いて頂けたら嬉しいです！\n\nサムネイルイラスト：aoha様\nhttps://x.com/aohasora_\nサムネイルデザイン：rairai様\nhttps://x..."
-            }
-        ]
+        "videos": []
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
