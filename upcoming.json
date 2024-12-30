@@ -326,15 +326,7 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/G92yBEhkf9R2mEpayuPvhwlA42tYAPOcNi2r77JeL7ic0ETS_FvTkwkBHjvR6iCqUk7TOlpROQ",
-        "videos": [
-            {
-                "video_id": "nslDzYGG37A",
-                "title": "【 #マリおか煩悩マシュマロ2024 】今年もあります！来たれ108の煩悩達！【 猫又おかゆ × 宝鐘マリン/ホロライブ 】",
-                "date": "2024/12/30 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/nslDzYGG37A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfUN9dc4DElgxAV8VSgPcXWtA3VA",
-                "description": "-\n\nマリン @HoushouMarine \n\nイラスト：餅月カレンさん( https://x.com/MochimoonCurry )\n❥・・ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ・・❥..."
-            }
-        ]
+        "videos": []
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -425,7 +417,7 @@
             {
                 "video_id": "sI6MSuo95dk",
                 "title": "【 メンバー限定 】今年最後のみこちの気まぐれ放送局 #7【ホロライブ/さくらみこ】",
-                "date": "2024/12/30 18:00:00",
+                "date": "2024/12/30 18:30:00",
                 "thumbnail": "https://i.ytimg.com/vi/sI6MSuo95dk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCUdSt-7LTXCSZUkkLEi2DGxvTScw",
                 "description": "🌸2025年さくら組調査結果もあり！\n🌸２０２５年やってほしい企画・ゲーム紹介コーナー\n🌸メンバーシップバッチ(5年目)案＆新スタンプ案..."
             }
@@ -449,7 +441,15 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "DetHfhNCt1o",
+                "title": "【歌枠】年内に２５０万人を迎えたらすごぉーーーくっHAPPYじゃない？【ホロライブ/白上フブキ】",
+                "date": "2024/12/30 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/DetHfhNCt1o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwvldLRpjTeik5fr4wesGgO3eW_g",
+                "description": "🌽白上フブキ1stソロライブ FBKINGDOM “ANTHEM”🌽\n2025年2月13日(木)にぴあアリーナMMにて開催決定！\nhttps://fbkingdom.hololivepro.com/live\n\n🎫各種チケット🎫..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
