@@ -40,6 +40,7 @@ ENV_LIST = {
 UNARCHIVE_FILTERS = ["unarchive", "unarchived", "no archive", "no archived", "archive", "archived", "rebroadcast"]
 KARAOKE_FILTERS = ["karaoke", "sing", "singing", "歌枠", "ヒトカラ", "カラ", "うたう"]
 # LIARS_BAR_FILTERS = ["liar's bar", "liars bar", "liar bar"]
+TEST_FILTERS = ["test"]
 
 FILTERS = {
     "Unarchived": {
@@ -57,6 +58,14 @@ FILTERS = {
         "is_true": False,
         "filter": KARAOKE_FILTERS,
         "label": '<span style="font-weight: bold; background-color: burlywood; padding: 1.5px; margin: 4px; border-style: dashed;">Karaoke</span>'
+    },
+    "Test": {
+        "counter": 0,
+        "icon": "🤖",
+        "color": "#6D41BF",
+        "is_true": False,
+        "filter": TEST_FILTERS,
+        "label": '<span style="font-weight: bold; background-color: burlywood; padding: 1.5px; margin: 4px; border-style: dashed;">Test</span>'
     }
     # "Liar's Bar": {
     #     "counter": 0,
