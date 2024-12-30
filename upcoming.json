@@ -114,13 +114,6 @@
                 "date": "2025/01/01 09:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/oEPkRlxDkog/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDaaS77pIhJI_6q-iWb7y5cvqymaQ",
                 "description": "「かまいたちの夜」の次弾サウンドノベルゲーム。言わずと知れた神ゲー「街～運命の交差点～」を初めてやってみる！\n🎁3周年記念グッズ販売..."
-            },
-            {
-                "video_id": "yk7DM6qNUAM",
-                "title": "【 #独り紅白歌合戦 】告知アリ‼毎年恒例独り紅白！絶対観てくれよな！！！🎤✨【博衣こより/ホロライブ】",
-                "date": "2024/12/30 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/yk7DM6qNUAM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCj8_F0EnPEY3TTbidT_h5A5TEh9w",
-                "description": "#独り紅白歌合戦 でツイート❣1stアルバム先行予約受付中～～～！！！今日は・・・その中から先行で・・・！？初めてのフルアニｍ・・・！？？..."
             }
         ]
     },
@@ -421,7 +414,15 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/gxXHmXJq_kkZ0bvTmz7R1deyOAV44zZr2keaF0ojSq7MeiOGLSzFTCoYgYR4PGDWTCoLR7eK",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "sI6MSuo95dk",
+                "title": "【 メンバー限定 】今年最後のみこちの気まぐれ放送局 #7【ホロライブ/さくらみこ】",
+                "date": "2024/12/30 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/sI6MSuo95dk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCUdSt-7LTXCSZUkkLEi2DGxvTScw",
+                "description": "🌸2025年さくら組調査結果もあり！\n🌸２０２５年やってほしい企画・ゲーム紹介コーナー\n🌸メンバーシップバッチ(5年目)案＆新スタンプ案..."
+            }
+        ]
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
@@ -497,15 +498,7 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/meRnxbRUm5yPSwq8Q5QpI5maFApm5QTGQV_LGblQFsoO0yAV4LI-nSZ70GYwMZ_tbfSa_O8MTCU",
-        "videos": [
-            {
-                "video_id": "IPkd3OzuM0o",
-                "title": "【歌枠 / Singing Stream】告知あり！お久しぶり歌枠！！【常闇トワ/ホロライブ】",
-                "date": "2024/12/30 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/IPkd3OzuM0o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACsXwwc-ogJiTlzIGnHA7ZlNMnhw",
-                "description": "このライブに用いている一部音源は、株式会社エクシングより提供されています。 \n\n୨୧-------------------------------┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈..."
-            }
-        ]
+        "videos": []
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
@@ -557,6 +550,12 @@
         "channel_url": "https://www.youtube.com/@dooby3d",
         "channel_name": "dooby",
         "avatar_url": "https://yt3.googleusercontent.com/QBddwfs8nHiD5V-Dm9HcRfmjpCMpIGbRfKmk6vmejPEo8hyePLSo4oHm34TSLVHswqbTNjKZOw",
+        "videos": []
+    },
+    "@holoen_ceciliaimmergreen": {
+        "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
+        "channel_name": "Cecilia Immergreen Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/LnJxTvrkHQFdFlyMY2HPtXVEwA7KHlUp8rNzBepF1GQfPQjUN9yKGIqSYOD31F22Ow9vSTn9",
         "videos": []
     },
     "@holoen_erbloodflame": {

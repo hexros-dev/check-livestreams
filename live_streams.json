@@ -76,7 +76,14 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/WO7ItKNmy6tW_NQ82g8c1y74CZSw6GsSdynsE5s2csuEok2fHRrAaGcBV3JJO-2BxEOXXA8lvw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "yk7DM6qNUAM",
+                "title": "【 #独り紅白歌合戦 】告知アリ‼毎年恒例独り紅白！絶対観てくれよな！！！🎤✨【博衣こより/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/yk7DM6qNUAM/hqdefault.jpg?v=676bb5f4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCj8_F0EnPEY3TTbidT_h5A5TEh9w",
+                "description": "#独り紅白歌合戦 でツイート❣1stアルバム先行予約受付中～～～！！！今日は・・・その中から先行で・・・！？初めてのフルアニｍ・・・！？？..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -393,7 +400,14 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/meRnxbRUm5yPSwq8Q5QpI5maFApm5QTGQV_LGblQFsoO0yAV4LI-nSZ70GYwMZ_tbfSa_O8MTCU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "IPkd3OzuM0o",
+                "title": "【歌枠 / Singing Stream】告知あり！お久しぶり歌枠！！【常闇トワ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/IPkd3OzuM0o/hqdefault.jpg?v=67721e8b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACsXwwc-ogJiTlzIGnHA7ZlNMnhw",
+                "description": "このライブに用いている一部音源は、株式会社エクシングより提供されています。 \n\n୨୧-------------------------------┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈..."
+            }
+        ]
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
@@ -429,6 +443,12 @@
         "channel_url": "https://www.youtube.com/@dooby3d",
         "channel_name": "dooby",
         "avatar_url": "https://yt3.googleusercontent.com/QBddwfs8nHiD5V-Dm9HcRfmjpCMpIGbRfKmk6vmejPEo8hyePLSo4oHm34TSLVHswqbTNjKZOw",
+        "videos": []
+    },
+    "@holoen_ceciliaimmergreen": {
+        "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
+        "channel_name": "Cecilia Immergreen Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/LnJxTvrkHQFdFlyMY2HPtXVEwA7KHlUp8rNzBepF1GQfPQjUN9yKGIqSYOD31F22Ow9vSTn9",
         "videos": []
     },
     "@holoen_erbloodflame": {
