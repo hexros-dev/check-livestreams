@@ -52,14 +52,7 @@
         "channel_url": "https://www.youtube.com/@CeresFauna",
         "channel_name": "Ceres Fauna Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/cBtserkb211p6If2OewgWd8oriIKRkfwTcP4_Vdq2YETG5TK9Q02v4cYmnLU03KBAJ0gcDha7oQ",
-        "videos": [
-            {
-                "video_id": "XNiRgmK54Hg",
-                "title": "Drawing Hololive Members From Memory with @GawrGura !",
-                "thumbnail": "https://i.ytimg.com/vi/XNiRgmK54Hg/hqdefault.jpg?v=6771d9d8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_yix4h1zi-aERpTCRLTNVpfL-iw",
-                "description": "💙💚\n\n✿ Hashtags ✿\nLIVE: #faunline ART: #FineFaunart\n\n✿ Twitter ✿\nhttps://twitter.com/ceresfauna\n@ceresfauna\n\n༻━━━༺ .⋅ ✧ ⋅. ༻━━━༺\n\n 【IRyS】\n[YouTube]..."
-            }
-        ]
+        "videos": []
     },
     "@FUWAMOCOch": {
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
@@ -77,14 +70,7 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/9FFCT3cu9FxyLJUUFovpPI7WRj0I7_KuApwkEaLsD0NHVVL2OPTtGn8Qga5YFbeC_47-MoEXrA",
-        "videos": [
-            {
-                "video_id": "6Rfl-u7Gw9I",
-                "title": "≪Someone Stole MY LUNCH!≫ I Cannot Believe This Has Happened.",
-                "thumbnail": "https://i.ytimg.com/vi/6Rfl-u7Gw9I/hqdefault.jpg?v=67682163&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD34gMAnDFbHg6iNa3TyvNpf4g3uw",
-                "description": "Alert the Authorities. \nI want the best minds on this case. \n\n#telebae #hololiveenglish \n\n««≪ °◇◆◇° ≫ »»\n\nNEW MV 【KOKORONASHI】: https://www.youtube.com/live/5zhbYmwl8Tk..."
-            }
-        ]
+        "videos": []
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -262,12 +248,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/JDCIBWj11TgjY2Uyba_efZ0n5hzjysMB9GxkvHGkIN_sfFQJR5mx3iVPqgJ96IPcYjZpCLsb",
         "videos": []
     },
-    "@NinomaeInanis": {
-        "channel_url": "https://www.youtube.com/@NinomaeInanis",
-        "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
-        "avatar_url": "https://yt3.googleusercontent.com/f4uYWHJxiGwyXm8NUlm818N1MRnywtgL6wM8JdWqWsKBzI7v1eg8dxDWG7igkWuukUSiufydqPg",
-        "videos": []
-    },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
@@ -326,14 +306,7 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/gxXHmXJq_kkZ0bvTmz7R1deyOAV44zZr2keaF0ojSq7MeiOGLSzFTCoYgYR4PGDWTCoLR7eK",
-        "videos": [
-            {
-                "video_id": "wk2EDXOi9KA",
-                "title": "【 最終回･･です‼ 】耐久🎰GOD当てるまでみこは店を出ない！！！！！！【ホロライブ/さくらみこ】",
-                "thumbnail": "https://i.ytimg.com/vi/wk2EDXOi9KA/hqdefault.jpg?v=6771c344&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCs9NUyjO0xKgWFZ79JTezEjjvrlw",
-                "description": "ハーデス空気をよめ\n\n🌸 ￤最新情報\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n🎶Sakura Miko 1st Album 「flower rhapsody」🎶\n2024年9月25..."
-            }
-        ]
+        "videos": []
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
@@ -417,7 +390,14 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "P7gu-9M6kvM",
+                "title": "【近畿霊務局】幽霊に反撃できる！？おっしゃ、倒すぞ！！！（後編）【 雪花ラミィ /ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/P7gu-9M6kvM/hqdefault.jpg?v=67712dc0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCELQ2nKS0FIih-fJG2M-1m0xw3zQ",
+                "description": "本ゲームは、配信ガイドラインに則り配信、収益化を行っています。\n\nサムネイル：きししさま\nhttps://x.com/kisimaT_T\n\n感想は #らみらいぶ で呟いて頂..."
+            }
+        ]
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
