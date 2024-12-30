@@ -151,20 +151,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
         "videos": []
     },
-    "@IsakiRiona": {
-        "channel_url": "https://www.youtube.com/@IsakiRiona",
-        "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-        "avatar_url": "https://yt3.googleusercontent.com/qufYdKqJ9VaUNhkP3_Wv0RranzAiwtvtOoxI_NRNMP6pCFa3lMnUKXRPd7EL4x-5OlDFp1BSpFE",
-        "videos": [
-            {
-                "video_id": "MsJTDG5IYiA",
-                "title": "【お絵描き心理テスト】２０２４ねんの最後に心理を明かしてみる・・・！【ホロライブ DEV_IS 響咲リオナ】",
-                "date": "2024/12/30 14:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/MsJTDG5IYiA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8DFSNcnzHbOhr16E6fwIZtnsKoQ",
-                "description": "本配信はMASK APP LLCに確認の上配信・収益化を行なっております。\n\n\nサムネ\nきこ。様　(X：@ kico_wh)\n素敵なイラストありがとうございます♡\n\nhololive..."
-            }
-        ]
-    },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -295,6 +281,12 @@
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
         "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/JDCIBWj11TgjY2Uyba_efZ0n5hzjysMB9GxkvHGkIN_sfFQJR5mx3iVPqgJ96IPcYjZpCLsb",
+        "videos": []
+    },
+    "@NinomaeInanis": {
+        "channel_url": "https://www.youtube.com/@NinomaeInanis",
+        "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/f4uYWHJxiGwyXm8NUlm818N1MRnywtgL6wM8JdWqWsKBzI7v1eg8dxDWG7igkWuukUSiufydqPg",
         "videos": []
     },
     "@OmaruPolka": {
