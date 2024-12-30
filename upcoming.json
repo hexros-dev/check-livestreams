@@ -237,7 +237,15 @@
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
         "channel_name": "Moona Hoshinova hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/w8ilN5YMfG3H6SX162Fkg71BaJdYUUoHOc91cryyfdvto94IpypSjvsLaMA1MyODr2V-w-ox-h8",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "UuL5Uv4RmEw",
+                "title": "【Path of Exile 2】I think we can do it【Moona Hoshinova】",
+                "date": "2024/12/30 14:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/UuL5Uv4RmEw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAo_n80iNghGWvyFnD83w7EBQ5IOg",
+                "description": "▼Moona Hoshinova「Multiverse」\nhttps://lnk.to/mh_Multiverse\n\n▼Moona Hoshinova「Nightmare」\nhttps://cover.lnk.to/AeV06H\n\nStreamlabs donation link here : https://streamlabs.com/moonahoshinova..."
+            }
+        ]
     },
     "@MoriCalliope": {
         "channel_url": "https://www.youtube.com/@MoriCalliope",
@@ -333,15 +341,7 @@
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/f31Dn0ou0ob-VCRtjZTXed4m22A-bdR9ljFw-0LPa9cPicx7gY3e1vdFkrGxgz0ubHD7vCD_",
-        "videos": [
-            {
-                "video_id": "r_eyWeuk0fs",
-                "title": "【 Slither.io 】世界1位を取って気持ちよく2024年を終わらせたい【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-                "date": "2024/12/30 13:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/r_eyWeuk0fs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYpYQcEfYdayuqDjHSVho2_yzTNA",
-                "description": "50万人記念グッズ販売ストアはこちら！✨\n受注受付期間 : 2024年12月18日 21時00分 ～ 2025年01月20日 18時00分\nhttps://shop.hololivepro.com/products/otonosekanade_500k..."
-            }
-        ]
+        "videos": []
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
