@@ -408,7 +408,22 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/GF0wbwZvZAGzYg8s8d6Yh1BDcWAE9UmLAh2uf3IMJ5l_ESi3sWeRqk2XfhW3IgzMeliHpt4cAw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Bn-Nc06nhnU",
+                "title": "【年越】2024年振り返りしながら特製💖年越し●●を作る➡カウントダウンLIVE！一緒に年を越そう💖【ホロライブ/ロボ子さん】",
+                "date": "2024/12/31 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Bn-Nc06nhnU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMYKU4unD-M4wEeNLejKdEL-nFmw",
+                "description": "💬＃ロボ子生放送　#holocountdown2024　でポストしてってね✨\nカウントダウンLIVEはミラーします！\n\nサムネイラスト：@iMAKOOO5\n\n📢最新ボイスはこちら..."
+            },
+            {
+                "video_id": "odpgKRG44Xg",
+                "title": "【宝くじ】カメラ付き📸年末ジャンボで夢をつかむぞおお！？？【ホロライブ/ロボ子さん】",
+                "date": "2025/01/02 12:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/odpgKRG44Xg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLByNjTydlwa7eAdHr7n1G1GjccE2Q",
+                "description": "💬＃ロボ子生放送　でポストしてってね✨\nさむねいらすと　@___Kita02\n\n\n📢最新ボイスはこちらから💖\nhttps://shop.hololivepro.com/products/hololive_christmasvoi..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -652,6 +667,14 @@
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/t9CcBvjTjs5D_sLZjtGkcfaTyiZCrx0nyOf7ekj3Fut9gZD76G00x12TK8Jg4czmBWjXcUtP9yE",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "4jxaEBLYzQY",
+                "title": "【ぼっち集合】年越しカウントダウン会場はこちらです。　#結城さくな生放送",
+                "date": "2024/12/31 21:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/4jxaEBLYzQY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKZJhdCJCyhavOb_-P7O_jGSMAQQ",
+                "description": "ボッチ以外もどうぞ\n\n🎀誕生日グッズ発売！🐾\nhttps://yuki-sakuna.stores.jp/\n\n🎀歌ってみた動画🐾\nhttps://youtube.com/playlist?list=PLErsMirGq93vRw-CcRaaZfR4QVxl2uBsb&s..."
+            }
+        ]
     }
 }
