@@ -117,7 +117,14 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/qufYdKqJ9VaUNhkP3_Wv0RranzAiwtvtOoxI_NRNMP6pCFa3lMnUKXRPd7EL4x-5OlDFp1BSpFE",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "BlyU-b09TRY",
+                "title": "【歌枠】2024最後の自枠♥感謝の気持ちを歌で届けたい！！【ホロライブ DEV_IS 響咲リオナ】",
+                "thumbnail": "https://i.ytimg.com/vi/BlyU-b09TRY/hqdefault.jpg?v=6773175a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCfvUMbZGkIBuQAICrxHQ22gMwWzA",
+                "description": "【speical thanks】\n生音風カラオケ屋www.youtube.com/ @namakara  \n【プロが作る】カラオケちゃんねる【高音質】\nwww.youtube.com/@プロが作るカラオケちゃんねる..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -396,14 +403,7 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": [
-            {
-                "video_id": "b3NaMgu0fqM",
-                "title": "【雑談】年末！今年最後の雑談配信～！！配信締めするぞ！【 雪花ラミィ /ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/b3NaMgu0fqM/hqdefault.jpg?v=67721e3e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBcC7uKzQrfptRJInkYDYpz-shHHg",
-                "description": "感想は #らみらいぶ で呟いて頂けたら嬉しいです！\n\nサムネイルイラスト：たたたえこさま\nhttps://x.com/tatataecho\n\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈┈..."
-            }
-        ]
+        "videos": []
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
@@ -435,10 +435,22 @@
         "avatar_url": "https://yt3.googleusercontent.com/AD2BC7S_QlNSZEHrM-pyRR0C9DOPnfK2OnuFjTK8F842WydS1HDMe6TvhESY9Er96Kt3yu0-fQ",
         "videos": []
     },
+    "@holoen_raorapanthera": {
+        "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
+        "channel_name": "Raora Panthera Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/8XQlrbkx1vBSpFZQ_GwV6hxep9EX0xHBH-CmWknoHusxXOKGnfVytVRzpt-36PxJOfumNjiBkAI",
+        "videos": []
+    },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/IzJcA0QlV4JwWH9yXi7Voa3359fHUB182xd_xxs92xd_3kuw_pa45dKeyQ9hvKl_1OhwbT6M3g",
+        "videos": []
+    },
+    "@mikenekoko": {
+        "channel_url": "https://www.youtube.com/@mikenekoko",
+        "channel_name": "みけねこch",
+        "avatar_url": "https://yt3.googleusercontent.com/xp-Gpx4379mUVBgIIKKyABkJZAEZhBdLIL2JsgTiEpvfN7G0J4NHQ2uI3ycywuNKAlXJOSmsbQ",
         "videos": []
     },
     "@usadapekora": {
