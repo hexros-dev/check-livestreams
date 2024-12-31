@@ -308,7 +308,15 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/f4uYWHJxiGwyXm8NUlm818N1MRnywtgL6wM8JdWqWsKBzI7v1eg8dxDWG7igkWuukUSiufydqPg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "LLMV-pWXq70",
+                "title": "【CHAT】 It's New Year's Eve!!!! It's Cold Outside...",
+                "date": "2025/01/01 05:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/LLMV-pWXq70/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAic1ART-1GOuSTeo8N7QPk74VtXg",
+                "description": "【Thumbnail Art】\nhttps://x.com/Kanoooo6/status/1354958186864730115\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\n_____________________________________________________________________________..."
+            }
+        ]
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -413,15 +421,7 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/gxXHmXJq_kkZ0bvTmz7R1deyOAV44zZr2keaF0ojSq7MeiOGLSzFTCoYgYR4PGDWTCoLR7eK",
-        "videos": [
-            {
-                "video_id": "NDfliNBq4UA",
-                "title": "【 初日の出 】#みこちと初日の出 2025🎍みんなでみるぞ！！！！！！【ホロライブ/さくらみこ】",
-                "date": "2025/01/01 04:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/NDfliNBq4UA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCb16DGyLq71M_gd1inllpsAoM3AA",
-                "description": "🌸 ￤最新情報\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n🎶Sakura Miko 1st Album 「flower rhapsody」🎶\n2024年9月25日　発売！\nhttps://cover..."
-            }
-        ]
+        "videos": []
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
@@ -579,15 +579,7 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/LnJxTvrkHQFdFlyMY2HPtXVEwA7KHlUp8rNzBepF1GQfPQjUN9yKGIqSYOD31F22Ow9vSTn9",
-        "videos": [
-            {
-                "video_id": "gWcuwPXZwWs",
-                "title": "【NEW YEAR'S PARTY】Let's hang out and ring in the new year together!!!!!",
-                "date": "2025/01/01 04:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/gWcuwPXZwWs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBB6owEbIejkFKwmhbIfa0ho47nFA",
-                "description": "--------------------------\nThumbnail art: https://x.com/A4Loveletter/status/1862328632842097113\n--------------------------\n\nHashtags\n📺 Livestream: #ImmerScreen \n🎨 Fanart: #Immergination..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
