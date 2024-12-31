@@ -21,7 +21,14 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/Mb9fXGVoUZWSKCLz-W0NE_gMihhpESzfEFQ-1C9xZ3FjW6Az3979WPlZ9ga4l8cDPak6fpUQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "KOWWMwmBShs",
+                "title": "【雑談/FreeTalk】2024納め！よいお年ってなんだろうね【ホロライブ/アキ・ローゼンタール】",
+                "thumbnail": "https://i.ytimg.com/vi/KOWWMwmBShs/hqdefault.jpg?v=6773a810&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRxyQouxes93jyTGE3OrAmb7DV4A",
+                "description": "LINEスタンプでましたーっ🎁🎄\nhttps://store.line.me/stickershop/product/29057250/ja\n\n配信タグ  #アキびゅーわーるど  \nサムネイラスト：紺碧さま\nhttps://x.com/xDI..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -33,19 +40,6 @@
         "channel_url": "https://www.youtube.com/@AnyaMelfissa",
         "channel_name": "Anya Melfissa Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/58uF1apTqtovpieDrBCSF5pUeNU2MA6n34bdj2EBEVnySKm-VvEznGNt2puk4v4tAnA3AYh5JA",
-        "videos": [
-            {
-                "video_id": "_nyOnJuZsaQ",
-                "title": "【Galaxy Burger】WHO WANTS SOME BURGER BY HOLORO 【hololive ID | Anya Melfissa】",
-                "thumbnail": "https://i.ytimg.com/vi/_nyOnJuZsaQ/hqdefault.jpg?v=67722787&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFpnDxLVWwgEtoik5KIiZ7zU6k0A",
-                "description": "This game is being streamed and monetized after confirming with Galactic Workshop.\n\n--\nCOLLAB WITH: @KureijiOllie @PavoliaReine \n#Anya_Melfissa #Liveissa\n\n--\nCheck out my 1st original song,..."
-            }
-        ]
-    },
-    "@AyundaRisu": {
-        "channel_url": "https://www.youtube.com/@AyundaRisu",
-        "channel_name": "Ayunda Risu Ch. hololive-ID",
-        "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
         "videos": []
     },
     "@CeresFauna": {
@@ -136,14 +130,7 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/i-aqA-4BPUKlCYErdtAkp2_s2AsG_8IB1saxXSSBXevz6bA8ptaIm53-SXB1_KIODP4SI4_l",
-        "videos": [
-            {
-                "video_id": "E1If5OYCRMo",
-                "title": "【Donation Reading】the last dono reading 2024 before we move on!!【Kaela Kovalskia / hololiveID】",
-                "thumbnail": "https://i.ytimg.com/vi/E1If5OYCRMo/hqdefault.jpg?v=67736ca4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbQ2TfdukDOFCjeWw7OrszwcVZVw",
-                "description": "【Donasi lokal】Traktir yang pahit-pahit kini sangat EZGGWP!~\nLink: https://sociabuzz.com/kaelakovalskia/tribe\n\n#Kaelaif #KaelaKovalskia #holoID \n-------------------------------------------------..."
-            }
-        ]
+        "videos": []
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
@@ -227,14 +214,7 @@
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/wIqM7MWDN94PoibzPmeog7WOt8jFKTKZBOBFEbLBaiUAdKLwoqdLC_CN7B7Gby-FWH-076rN",
-        "videos": [
-            {
-                "video_id": "Y17uuSruZVs",
-                "title": "【時間未定】起きてから始まる年越し耐久【ホロライブ/夏色まつり】",
-                "thumbnail": "https://i.ytimg.com/vi/Y17uuSruZVs/hqdefault.jpg?v=6772a800&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBB_5nCt09TmPdhCNthj-6RSWia4A",
-                "description": "本配信\nhttps://www.youtube.com/watch?v=uJxc7xSw_Zo\n\n年越しまでに何曲歌える？\nチャンネルは何人増える？\n起きる時間によって耐久時間は変わります。..."
-            }
-        ]
+        "videos": []
     },
     "@NekomataOkayu": {
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
@@ -460,7 +440,7 @@
         "videos": [
             {
                 "video_id": "q7zct41eA-U",
-                "title": "【大晦日】年越しそばのてんぷら作る→今年最後の振り返り配信！ぺこ！【ホロライブ/兎田ぺこら】",
+                "title": "【大晦日】今年最後の振り返り配信←年越しそばのてんぷら作る！ぺこ！【ホロライブ/兎田ぺこら】",
                 "thumbnail": "https://i.ytimg.com/vi/q7zct41eA-U/hqdefault.jpg?v=67738214&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_RX3XPFU6AsW1tIaW_GO5LK9zbg",
                 "description": "まったり過ごそうや！\n\nサムネイラスト：憂姫はぐれ@2日目東7 a-25ab(@yuukihagure)さん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter..."
             }
