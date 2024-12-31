@@ -192,14 +192,7 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw",
-        "videos": [
-            {
-                "video_id": "vQrOUwL6of4",
-                "title": "【マリパジャンボリー】ミニゲームバトル❕1番強い人をハッキリさせます。【FLOW GLOW 水宮枢】#hololiveDEV_IS",
-                "thumbnail": "https://i.ytimg.com/vi/vQrOUwL6of4/hqdefault.jpg?v=67731318&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJeZCf3aMLCmW097aCQpAP5UJNag",
-                "description": "1時間後笑っているのは誰、、？？\n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n@KoganeiNiko @RindoChihaya \n\n▹◃┄▸..."
-            }
-        ]
+        "videos": []
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -323,11 +316,24 @@
         "avatar_url": "https://yt3.googleusercontent.com/GF0wbwZvZAGzYg8s8d6Yh1BDcWAE9UmLAh2uf3IMJ5l_ESi3sWeRqk2XfhW3IgzMeliHpt4cAw",
         "videos": []
     },
+    "@SakamataChloe": {
+        "channel_url": "https://www.youtube.com/@SakamataChloe",
+        "channel_name": "Chloe ch. 沙花叉クロヱ - holoX -",
+        "avatar_url": "https://yt3.googleusercontent.com/_xNtPLKQcQxMTnOr4tAcGz0GEeESsi0bQX9mJEP3fx_50a8GUfUyOG1eyLIld2cCz6GvKABwpQ",
+        "videos": []
+    },
     "@SakuraMiko": {
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/gxXHmXJq_kkZ0bvTmz7R1deyOAV44zZr2keaF0ojSq7MeiOGLSzFTCoYgYR4PGDWTCoLR7eK",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "X3gDtIm6j0k",
+                "title": "【 大晦日 】配信納め！🎍２０２４年振り返り＆ゆくホロ同時視聴するにぇ！【ホロライブ/さくらみこ】",
+                "thumbnail": "https://i.ytimg.com/vi/X3gDtIm6j0k/hqdefault.jpg?v=6773a412&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDh-5B46cKSdtyOKbn-Lf03Xuf3vA",
+                "description": "今年もありがとうございましたにぇ！！！！！！！！！！\n\n🌸 ￤最新情報\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n🎶Sakura..."
+            }
+        ]
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
