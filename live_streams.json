@@ -53,6 +53,12 @@
         "avatar_url": "https://yt3.googleusercontent.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag",
         "videos": []
     },
+    "@GawrGura": {
+        "channel_url": "https://www.youtube.com/@GawrGura",
+        "channel_name": "Gawr Gura Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/uMUat6yJL2_Sk6Wg2-yn0fSIqUr_D6aKVNVoWbgeZ8N-edT5QJAusk4PI8nmPgT_DxFDTyl8",
+        "videos": []
+    },
     "@HakosBaelz": {
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
@@ -75,6 +81,12 @@
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
         "channel_name": "Ao Ch. 火威青 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/7axTno1zkKS6RhYH7cZ9FecAkjBmZRYTwDeVoqxDdAx0wGfqatlMY10igRFEa1gpAtq5rqnDJg",
+        "videos": []
+    },
+    "@HoshimachiSuisei": {
+        "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
+        "channel_name": "Suisei Channel",
+        "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
         "videos": []
     },
     "@HoushouMarine": {
@@ -143,10 +155,10 @@
         "avatar_url": "https://yt3.googleusercontent.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg",
         "videos": [
             {
-                "video_id": "vfZMMCLmIGw",
-                "title": "【2025 NEW YEARS TWELVE HOUR PARTY】GOLF IT 【PART 1】",
-                "thumbnail": "https://i.ytimg.com/vi/vfZMMCLmIGw/hqdefault.jpg?v=6773d773&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0d_GGtvHJdHOc9YguuP5NofrJIw",
-                "description": "NEW MV RELEASE: https://youtu.be/1ulTgWcWWRU\n\nThumbnail art:@PhdPigeonl Thank you!!\nhttps://x.com/PhdPigeon/status/1874012528852033783/photo/1\n\n====================\n✧Twitter: https://twitter.com/..."
+                "video_id": "t8c-KQhviyU",
+                "title": "【2025 NEW YEARS TWELVE HOUR PARTY】FALL GUYS 【PART 2】",
+                "thumbnail": "https://i.ytimg.com/vi/t8c-KQhviyU/hqdefault.jpg?v=677445b2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZbWcxiiANZ65uxHbD7LQeDP9sig",
+                "description": "NEW MV RELEASE: https://youtu.be/1ulTgWcWWRU\n\nThumbnail art:@decrilus Thank you!!\nhttps://x.com/decrilus/status/1873993347570012327\n====================\n✧Twitter: https://twitter.com/kosekibijou..."
             }
         ]
     },
@@ -226,7 +238,14 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/f4uYWHJxiGwyXm8NUlm818N1MRnywtgL6wM8JdWqWsKBzI7v1eg8dxDWG7igkWuukUSiufydqPg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "LLMV-pWXq70",
+                "title": "【CHAT】 It's New Year's Eve!!!! It's Cold Outside...",
+                "thumbnail": "https://i.ytimg.com/vi/LLMV-pWXq70/hqdefault.jpg?v=677457e9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAic1ART-1GOuSTeo8N7QPk74VtXg",
+                "description": "【Thumbnail Art】\nhttps://x.com/Kanoooo6/status/1354958186864730115\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\n_____________________________________________________________________________..."
+            }
+        ]
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -427,6 +446,12 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/8XQlrbkx1vBSpFZQ_GwV6hxep9EX0xHBH-CmWknoHusxXOKGnfVytVRzpt-36PxJOfumNjiBkAI",
+        "videos": []
+    },
+    "@kazamairoha": {
+        "channel_url": "https://www.youtube.com/@kazamairoha",
+        "channel_name": "Iroha ch. 風真いろは - holoX -",
+        "avatar_url": "https://yt3.googleusercontent.com/IzJcA0QlV4JwWH9yXi7Voa3359fHUB182xd_xxs92xd_3kuw_pa45dKeyQ9hvKl_1OhwbT6M3g",
         "videos": []
     },
     "@mikenekoko": {
