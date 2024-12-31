@@ -41,15 +41,7 @@
         "channel_url": "https://www.youtube.com/@AnyaMelfissa",
         "channel_name": "Anya Melfissa Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/58uF1apTqtovpieDrBCSF5pUeNU2MA6n34bdj2EBEVnySKm-VvEznGNt2puk4v4tAnA3AYh5JA",
-        "videos": [
-            {
-                "video_id": "_nyOnJuZsaQ",
-                "title": "【Super Mario Party】Let's End 2024 With A(Totally Not Chaotic) PARTY 【hololive ID | Anya Melfissa】",
-                "date": "2024/12/31 13:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/_nyOnJuZsaQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFpnDxLVWwgEtoik5KIiZ7zU6k0A",
-                "description": "Nintendo properties used in this video and livestream are used with permission and under license by Nintendo Co., Ltd.\n\n--\nCOLLAB WITH: @KureijiOllie @PavoliaReine \n#Anya_Melfissa #Liveissa..."
-            }
-        ]
+        "videos": []
     },
     "@AyundaRisu": {
         "channel_url": "https://www.youtube.com/@AyundaRisu",
@@ -486,15 +478,7 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/YlQvZ9qXXOriEXQzBl6pkIWpSNwa0P9RrMGm7ezpliTF-7OzxcE0_828GSX-0f2ak-HmshPb5mM",
-        "videos": [
-            {
-                "video_id": "0iEKZBMQ3XI",
-                "title": "【Fall Guys】年末だしあそぼうよ【轟はじめ/ReGLOSS】 #hololivedev_is",
-                "date": "2024/12/31 13:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/0iEKZBMQ3XI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvA3w9oDDe-gh9fp4LHMwtvq_4tQ",
-                "description": "#ホロ新春ゲーム祭2025のためになれとこー！！\n本ゲームはEpic Gamesに確認を得た上で配信・収益化を行っております。\n￣￣￣￣￣￣￣￣￣￣￣￣￣..."
-            }
-        ]
+        "videos": []
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
@@ -564,7 +548,15 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/LnJxTvrkHQFdFlyMY2HPtXVEwA7KHlUp8rNzBepF1GQfPQjUN9yKGIqSYOD31F22Ow9vSTn9",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "40tGJGPbg0w",
+                "title": "【JUSTICE WATCHALONG】hololive COUNTDOWN LIVE 2024▷2025 !!! Let's watch together!!!",
+                "date": "2024/12/31 20:45:00",
+                "thumbnail": "https://i.ytimg.com/vi/40tGJGPbg0w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFqqipQku2rR5scT4M2nWEH6PD9Q",
+                "description": "with: @holoen_erbloodflame @holoen_gigimurin @holoen_raorapanthera \n--------------------------\nThumbnail art: https://x.com/corina_vizi/status/1809301342621692186\n--------------------------..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
