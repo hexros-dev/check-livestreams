@@ -90,12 +90,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/7axTno1zkKS6RhYH7cZ9FecAkjBmZRYTwDeVoqxDdAx0wGfqatlMY10igRFEa1gpAtq5rqnDJg",
         "videos": []
     },
-    "@HoshimachiSuisei": {
-        "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
-        "channel_name": "Suisei Channel",
-        "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
-        "videos": []
-    },
     "@HoushouMarine": {
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
@@ -457,7 +451,14 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_n1iH9fDDGm8RHUzoB-XDfnTEwhlgBcP3OLjapDqHYoYVw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "BK4UbRl_FZQ",
+                "title": "【2024大晦日】年越しは3期生と一緒！みんなで新年を迎えるぞ～！！！ぺこ！【ホロライブ/兎田ぺこら/不知火フレア/白銀ノエル/宝鐘マリン】",
+                "thumbnail": "https://i.ytimg.com/vi/BK4UbRl_FZQ/hqdefault.jpg?v=6773b9be&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWOvp7WRNaFc2IKh2MPq5ZLe4iKQ",
+                "description": "#3期生と年越し 今年も3期生と年越しするぞ～！\n23時からはホロライブカウントダウンのミラーぺこ！\nhttps://www.youtube.com/live/k8Jjwu3YwPo?si=RejNW0YWgx3mHpJ6..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
