@@ -84,13 +84,6 @@
                 "date": "2025/01/01 09:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/oEPkRlxDkog/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDaaS77pIhJI_6q-iWb7y5cvqymaQ",
                 "description": "「かまいたちの夜」の次弾サウンドノベルゲーム。言わずと知れた神ゲー「街～運命の交差点～」を初めてやってみる！\n🎁3周年記念グッズ販売..."
-            },
-            {
-                "video_id": "wXEUycD3ghs",
-                "title": "【 #こよクロ 】年明けたので一旦こよクロでマシュマロ食べとく？【沙花叉クロヱ・博衣こより/ホロライブ】",
-                "date": "2025/01/01 00:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/wXEUycD3ghs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBI4-rYtXtMYNPrW86Rh7SqsWbTng",
-                "description": "#こよクロ まったり新年会じゃ @SakamataChloe  🎍新年マシュマロ募集中！→ https://marshmallow-qa.com/hakuikoyori?t=5rteq1&utm_medium=url_text&utm_source=promotion\n※この..."
             }
         ]
     },
@@ -481,7 +474,15 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "qdWI_l0AwhA",
+                "title": "【New Year!!】Highlights of 2024 & Goals for 2025! #kfp #キアライブ",
+                "date": "2025/01/02 00:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/qdWI_l0AwhA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjjGXk-TbdENXdEZSB41hUjjbB8Q",
+                "description": "stream my new song, MIRAGE!✨https://cover.lnk.to/DQSp3S\n👀 Takanashi Kiara 1st Album \"Point of View\" 👀\nStreaming: https://cover.lnk.to/PointofView\n\n🏵️[Twitter] 🏵️\nhttps://twitter.c..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
