@@ -468,15 +468,7 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": [
-            {
-                "video_id": "W9kjY0Mx56k",
-                "title": "【朝活雑談】2024年最後の雑談！今年の振り返りやすいちゃんライブ＆クリスマスの話など色々喋りつくそう🎶【白銀ノエル/ホロライブ】",
-                "date": "2024/12/31 07:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/W9kjY0Mx56k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvfZ8EkeRcfaH29dZBZ3XXnuLTnQ",
-                "description": "🎄生誕グッズも好評発売中✨→ https://shop.hololivepro.com/products/shiroganenoel_bd2024\n\n[NEW]秋色のさんぽ道ボイス販売中🍂→ https://shop.hololivepro.com/products/hol..."
-            }
-        ]
+        "videos": []
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -630,7 +622,15 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_n1iH9fDDGm8RHUzoB-XDfnTEwhlgBcP3OLjapDqHYoYVw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "BK4UbRl_FZQ",
+                "title": "【2024大晦日】年越しは3期生と一緒！みんなで新年を迎えるぞ～！！！ぺこ！【ホロライブ/兎田ぺこら/不知火フレア/白銀ノエル/宝鐘マリン】",
+                "date": "2024/12/31 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/BK4UbRl_FZQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWOvp7WRNaFc2IKh2MPq5ZLe4iKQ",
+                "description": "#3期生と年越し 今年も3期生と年越しするぞ～！\n23時からはホロライブカウントダウンのミラーぺこ！\nhttps://www.youtube.com/live/k8Jjwu3YwPo?si=RejNW0YWgx3mHpJ6..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
