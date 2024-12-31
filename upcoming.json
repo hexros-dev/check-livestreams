@@ -43,6 +43,12 @@
         "avatar_url": "https://yt3.googleusercontent.com/58uF1apTqtovpieDrBCSF5pUeNU2MA6n34bdj2EBEVnySKm-VvEznGNt2puk4v4tAnA3AYh5JA",
         "videos": []
     },
+    "@AyundaRisu": {
+        "channel_url": "https://www.youtube.com/@AyundaRisu",
+        "channel_name": "Ayunda Risu Ch. hololive-ID",
+        "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
+        "videos": []
+    },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
         "channel_name": "Ceres Fauna Ch. hololive-EN",
@@ -54,6 +60,13 @@
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag",
         "videos": [
+            {
+                "video_id": "Cd4h3rWHJRg",
+                "title": "【FUWAMOCO ROCK N' RAWR PARTY】ringing and singing in the new year ♪ #FWMCbeats 【UNARCHIVED アーカイブ無し】",
+                "date": "2025/01/01 13:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/Cd4h3rWHJRg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChwaAbq13u03L9fl3hDHs6HoUfWg",
+                "description": "we'll be singing western songs for the first time in forever すっごく久しぶりに洋楽を歌うよ ✨\nlovely illustration by @ayamy_garubinu 💕\n\n⸜❤︎⸝ 𝔽𝕌𝕎𝔸𝕄𝕆ℂ..."
+            },
             {
                 "video_id": "REYHANr4reY",
                 "title": "【日本語雑談 JAPANESE CHATTING】2024年のFUWAMOCO、成長できたのかな～？ 🐾  【FUWAMOCO】",
@@ -453,7 +466,15 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/CoKMtt9uQNGPOQP_t0LaCL4N21m0TUNCxzLtKRRTBmpH0xPc0s2cZQ-uUuQkxqerbGkxJkGU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "A_LbXB4JcSA",
+                "title": "【ゲーム福袋開封】2025年になったので福袋を開封しよう！【獅白ぼたん/ホロライブ】",
+                "date": "2025/01/01 11:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/A_LbXB4JcSA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1lGlzTuLO0n0eYUiw7t6i5lCE8g",
+                "description": "あけおめなのでPSソフト50本・PS2ソフト50本の福袋を買いました、あけていきましょう！\nウイイレでるか？！\n\n配信ハッシュタグ：#ぐうたらいぶ..."
+            }
+        ]
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
