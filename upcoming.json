@@ -68,13 +68,6 @@
                 "description": "we'll be singing western songs for the first time in forever すっごく久しぶりに洋楽を歌うよ ✨\nlovely illustration by @ayamy_garubinu 💕\n\n⸜❤︎⸝ 𝔽𝕌𝕎𝔸𝕄𝕆ℂ..."
             },
             {
-                "video_id": "REYHANr4reY",
-                "title": "【日本語雑談 JAPANESE CHATTING】2024年のFUWAMOCO、成長できたのかな～？ 🐾  【FUWAMOCO】",
-                "date": "2024/12/31 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/REYHANr4reY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHJZxW-tlrfjDHIX3HuQulFyVH6A",
-                "description": "新年を一緒に迎えましょうね✨\nlovely illustration by @regimiruku 💕\n\n⸜❤︎⸝ 𝔽𝕌𝕎𝔸𝕄𝕆ℂ𝕆 𝟙𝕤𝕥 𝔸𝕊𝕄ℝ 𝕍𝕠𝕚𝕔𝕖𝕡𝕒𝕔𝕜..."
-            },
-            {
                 "video_id": "RQt_D6RdzpA",
                 "title": "【hololive COUNTDOWN LIVE WATCHALONG 同時視聴】1st time in the countdown 🐾✨  【FUWAMOCO｜#holocountdown2024】",
                 "date": "2024/12/31 20:45:00",
@@ -282,7 +275,15 @@
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
         "channel_name": "Moona Hoshinova hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/w8ilN5YMfG3H6SX162Fkg71BaJdYUUoHOc91cryyfdvto94IpypSjvsLaMA1MyODr2V-w-ox-h8",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "UQENGt-ig9c",
+                "title": "【Countdown】Watchalong hololive Countdown!!!【Moona Hoshinova】",
+                "date": "2024/12/31 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/UQENGt-ig9c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZ12DNBanoYtrbHFxQoDCIgRzgyQ",
+                "description": "Streamlabs donation link here : https://streamlabs.com/moonahoshinovahololive-id/tip\nSociaBuzz donation link here : https://sociabuzz.com/moonahoshinova/tribe\n\nWatchalong with @KoboKanaeru..."
+            }
+        ]
     },
     "@MoriCalliope": {
         "channel_url": "https://www.youtube.com/@MoriCalliope",
@@ -574,7 +575,15 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "u9ucmptLb6U",
+                "title": "【そらと年越し】カウントダウンみながら年越ししちゃう？【ホロライブ/ときのそら】",
+                "date": "2024/12/31 20:45:00",
+                "thumbnail": "https://i.ytimg.com/vi/u9ucmptLb6U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQv36_-6cvlKfbj-Ai9i9p0aJPXQ",
+                "description": "【hololive production COUNTDOWN LIVE 2024▷2025】\nhttps://www.youtube.com/watch?v=k8Jjwu3YwPo\n\n～サムネ～\nさくらみこちゃん\nhttps://x.com/sakuramiko35\n\n★★★★★★★★★★..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
