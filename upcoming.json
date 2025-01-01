@@ -68,13 +68,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag",
         "videos": [
             {
-                "video_id": "Cd4h3rWHJRg",
-                "title": "【FUWAMOCO ROCK N' RAWR PARTY】ringing and singing in the new year ♪ #FWMCbeats 【UNARCHIVED アーカイブ無し】",
-                "date": "2025/01/01 13:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/Cd4h3rWHJRg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChwaAbq13u03L9fl3hDHs6HoUfWg",
-                "description": "we'll be singing western songs for the first time in forever すっごく久しぶりに洋楽を歌うよ ✨\nlovely illustration by @ayamy_garubinu 💕\n\n⸜❤︎⸝ 𝔽𝕌𝕎𝔸𝕄𝕆ℂ..."
-            },
-            {
                 "video_id": "e0GbyTqEfiY",
                 "title": "【NEW YEAR CHATTING】celebrate the 1st moments of 2025 together 🐾  【FUWAMOCO】",
                 "date": "2025/01/01 15:30:00",
@@ -518,7 +511,15 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/YlQvZ9qXXOriEXQzBl6pkIWpSNwa0P9RrMGm7ezpliTF-7OzxcE0_828GSX-0f2ak-HmshPb5mM",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "TM2Cu-IGEgo",
+                "title": "＃１【龍が如く極２】完全初見！会いたかったぜ桐生ちゃぁん！※ネタバレあり【轟はじめ/ReGLOSS】 #hololivedev_is",
+                "date": "2025/01/01 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/TM2Cu-IGEgo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNeKr5HyBubHplE3wuaySksXKq3w",
+                "description": "極→０の順でプレイ済みです！たのしみ～！！\n\nこの動画およびライブは、コンテンツ利用許諾契約に基づいて配信しています。\n©SEGA\n￣￣￣￣￣..."
+            }
+        ]
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
@@ -588,7 +589,15 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/LnJxTvrkHQFdFlyMY2HPtXVEwA7KHlUp8rNzBepF1GQfPQjUN9yKGIqSYOD31F22Ow9vSTn9",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "DO2B1mVa5dM",
+                "title": "【NEW YEAR OUTFIT REVEAL】Let's spin into the new year!!!!! weeeeeeeeeeeeeeeeeeeeeeee #CeciNewYear",
+                "date": "2025/01/02 03:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/DO2B1mVa5dM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB12EIf2BBTbqEF_vUtro5RgYaaDA",
+                "description": "JUSTICE Half Anniversary MERCH!\n▼Official Online Shop▼\nEN: https://shop.hololivepro.com/products/hololiveen_justice_anhalfyear \n▼Geek Jack▼ \nEN: https://shop.geekjack.net/collections/hololi..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
@@ -617,12 +626,6 @@
                 "description": "【Debut Celebration Merch】\n▼Official Online Shop▼\nJP：https://shop.hololivepro.com/products/hololiveen_justice_debut\nEN：https://shop.hololivepro.com/en/products/hololiveen_justice_debut..."
             }
         ]
-    },
-    "@holoen_raorapanthera": {
-        "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
-        "channel_name": "Raora Panthera Ch. hololive-EN",
-        "avatar_url": "https://yt3.googleusercontent.com/8XQlrbkx1vBSpFZQ_GwV6hxep9EX0xHBH-CmWknoHusxXOKGnfVytVRzpt-36PxJOfumNjiBkAI",
-        "videos": []
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
