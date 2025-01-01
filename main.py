@@ -37,7 +37,7 @@ ENV_LIST = {
     "test": "TEST"
 }
 
-UNARCHIVE_FILTERS = ["unarchive", "unarchived", "no archive", "no archived", "archive", "archived", "rebroadcast"]
+UNARCHIVE_FILTERS = ["unarchive", "unarchived", "no archive", "no archived", "archive", "archived", "rebroadcast", "アーカイブ無し"]
 KARAOKE_FILTERS = ["karaoke", "sing", "singing", "歌枠", "ヒトカラ", "カラ", "うたう", "歌"]
 # LIARS_BAR_FILTERS = ["liar's bar", "liars bar", "liar bar"]
 TEST_FILTERS = ["test"]
