@@ -54,6 +54,12 @@
         "avatar_url": "https://yt3.googleusercontent.com/cBtserkb211p6If2OewgWd8oriIKRkfwTcP4_Vdq2YETG5TK9Q02v4cYmnLU03KBAJ0gcDha7oQ",
         "videos": []
     },
+    "@FUWAMOCOch": {
+        "channel_url": "https://www.youtube.com/@FUWAMOCOch",
+        "channel_name": "FUWAMOCO Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag",
+        "videos": []
+    },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
         "channel_name": "Gawr Gura Ch. hololive-EN",
@@ -124,7 +130,14 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/45G_tYF-zPHIIC9q8ZCeXSabbQCOtGgNDuX6mJbf7wyeor94YTeqOmDC3OZ3Wl89I4xq8Fn3nQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "LZN5OlooYRI",
+                "title": "【雑談】あけましておめでとうございます！新年のご挨拶！！＆100万人ありがとう！！【儒烏風亭らでん #ReGLOSS 】",
+                "thumbnail": "https://i.ytimg.com/vi/LZN5OlooYRI/hqdefault.jpg?v=67751c38&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5qEnVY4AflRLg8OSM0VM6otr4Lw",
+                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\nサムネイル：x様\nhttps://x.com/x2525\n\n\n◢◤￣￣￣..."
+            }
+        ]
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -136,7 +149,14 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/0NYd0NnC9mCjdu6t_i-JylPkwpz-o3IZ1eLqgG4MdXS-KUPrP36e71UysuoV9eZA1-TRG3gZ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "jfbZ7dJ2W80",
+                "title": "【謹賀新年】ゆくホロくるホロ初めてのドッキリや笑ダウンのお話【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "thumbnail": "https://i.ytimg.com/vi/jfbZ7dJ2W80/hqdefault.jpg?v=6774b22e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB422rEWcukgfDZ0a5BJ-D-CBl4Ug",
+                "description": "✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧\n\nhololive DEV_ISからデビューしたFLOW GLOWのメイク担当💅✨\n\n𐙚₊˚⊹♡コスメ大好きで日々自..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -188,12 +208,6 @@
             }
         ]
     },
-    "@MomosuzuNene": {
-        "channel_url": "https://www.youtube.com/@MomosuzuNene",
-        "channel_name": "Nene Ch.桃鈴ねね",
-        "avatar_url": "https://yt3.googleusercontent.com/bMBMxmB1YVDVazU-8KbB6JZqUHn4YzmFiQRWwEUHCeqm5REPW7HHQChC5xE6e36aqqnXgK4a",
-        "videos": []
-    },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
         "channel_name": "Moona Hoshinova hololive-ID",
@@ -210,7 +224,14 @@
         "channel_url": "https://www.youtube.com/@MurasakiShion",
         "channel_name": "Shion Ch. 紫咲シオン",
         "avatar_url": "https://yt3.googleusercontent.com/V3GVqD-sYadScSd8QYW4x1QTRfu2RyUNyKWVRb0IJxX0gj2PV6xH32d_BJHn3l0fouPLUw6Ref0",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "TYvL980dIpA",
+                "title": "【新年のご挨拶】2025年あけましておめでとう！！🎍🌅✨【ホロライブ/紫咲シオン】",
+                "thumbnail": "https://i.ytimg.com/vi/TYvL980dIpA/hqdefault.jpg?v=67753b2a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbOogcKhJ8ZOo6sIa6PyVXiKUIZw",
+                "description": "サムネイラスト　みあき様\nhttps://x.com/miakiuehashi/status/1870411700580860414\n\n💜紫咲シオン4thオリジナル曲💜\nゴメンねメディスン公開されました！たくさ..."
+            }
+        ]
     },
     "@NakiriAyame": {
         "channel_url": "https://www.youtube.com/@NakiriAyame",
@@ -301,13 +322,27 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/GF0wbwZvZAGzYg8s8d6Yh1BDcWAE9UmLAh2uf3IMJ5l_ESi3sWeRqk2XfhW3IgzMeliHpt4cAw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "CFGOU6VdbH4",
+                "title": "【あけおめ晩酌】今年の抱負を語りながらとりあえず一杯💕【ホロライブ/ロボ子さん】",
+                "thumbnail": "https://i.ytimg.com/vi/CFGOU6VdbH4/hqdefault.jpg?v=67754c6c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAEQuwHdrkyxaWEGCQ8zzNOCWTdRw",
+                "description": "💬＃ロボ子生放送　でポストしてってね✨\n\n📢最新ボイスはこちらから💖\nhttps://shop.hololivepro.com/products/hololive_christmasvoice2024\n\n📢新作歌ってみた➡..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
         "channel_name": "Chloe ch. 沙花叉クロヱ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/_xNtPLKQcQxMTnOr4tAcGz0GEeESsi0bQX9mJEP3fx_50a8GUfUyOG1eyLIld2cCz6GvKABwpQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "4mrBjN_YdkM",
+                "title": "【 風来のシレン６ 】人生初シレン！お正月だしまったり一緒に夜更かし楽しも～～！ 不思議のダンジョン 風来のシレン６ とぐろ島探検録【ホロライブ/沙花叉クロヱ】",
+                "thumbnail": "https://i.ytimg.com/vi/4mrBjN_YdkM/hqdefault.jpg?v=67753d12&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdjcTvvJokx-AFiNiwPN-KJng31w",
+                "description": "最初で最後のさかまた歴代人気グッズ復刻＋αが販売中です🎣よろちゃんです♡\nhttps://shop.hololivepro.com/products/sakamatachloe_alltimehitmerch_rereleased\n..."
+            }
+        ]
     },
     "@SakuraMiko": {
         "channel_url": "https://www.youtube.com/@SakuraMiko",
@@ -407,7 +442,14 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/4wLMmSJkzy4vmWfWYkmzn6YO9T__jp1cORNuFXN7YyihwvhGkqXCxNBaklKoXlgdik-Fp0Zu",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "qjAOto0Ds-E",
+                "title": "【TCG Card Shop Simulator】2025年の運気はどうだ？！！【角巻わため/ホロライブ４期生】",
+                "thumbnail": "https://i.ytimg.com/vi/qjAOto0Ds-E/hqdefault.jpg?v=67747e64&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKPFqLp2G8OReKsBCdOpZ77bO4ig",
+                "description": "激レアカード出るよね？\nタグ：#ドドドライブ\n\n※本ゲームは OPNeon Games に確認の上配信・収益化を行なっております。\n\n🐏角巻わため 活動5周年記..."
+            }
+        ]
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
