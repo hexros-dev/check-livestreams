@@ -29,6 +29,12 @@
         "avatar_url": "https://yt3.googleusercontent.com/e5wX9w1xSFUjaUdyhFugYZKzDZ_KLTLWBgdtRohHQDu0pshH867pyOv6gLGuqkqy5Ik8bJ9MSZU",
         "videos": []
     },
+    "@AnyaMelfissa": {
+        "channel_url": "https://www.youtube.com/@AnyaMelfissa",
+        "channel_name": "Anya Melfissa Ch. hololive-ID",
+        "avatar_url": "https://yt3.googleusercontent.com/58uF1apTqtovpieDrBCSF5pUeNU2MA6n34bdj2EBEVnySKm-VvEznGNt2puk4v4tAnA3AYh5JA",
+        "videos": []
+    },
     "@AyundaRisu": {
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
@@ -185,7 +191,14 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/bMBMxmB1YVDVazU-8KbB6JZqUHn4YzmFiQRWwEUHCeqm5REPW7HHQChC5xE6e36aqqnXgK4a",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "5BSesoye2Kw",
+                "title": "【 雑談 】あけましておめでとうございます！！！！【 桃鈴ねね / hololive 】",
+                "thumbnail": "https://i.ytimg.com/vi/5BSesoye2Kw/hqdefault.jpg?v=6774a625&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkhlMWfAD5Ofa6juDUqlnEN2-wnA",
+                "description": "機材チェックも含めて～✨今年もよろしくね！\n\n⸜♡⸝MemberShipに入ったらもっとねねを知れるﾖ\nhttps://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA/join..."
+            }
+        ]
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
@@ -319,14 +332,7 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZlovVsPyh8NgS37S4dfONiCBySiboGPbT9cYuirb8JM3JhSnqlpJk-8SQUEA7jPfqXpMvjaa",
-        "videos": [
-            {
-                "video_id": "k9CM55Iggz0",
-                "title": "Wandering the End of the World(s)【VRChat】",
-                "thumbnail": "https://i.ytimg.com/vi/k9CM55Iggz0/hqdefault.jpg?v=67721298&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDiD6TQ0-ELBHOk1sLOzWwQYxdUoQ",
-                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n\n==============..."
-            }
-        ]
+        "videos": []
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
@@ -344,14 +350,7 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": [
-            {
-                "video_id": "QQv1p7dy8Wo",
-                "title": "【朝活雑談】2025年！あけおめはじまっするーッッッ💪🌞💪【白銀ノエル/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/QQv1p7dy8Wo/hqdefault.jpg?v=67735ad5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRRqp2T0nh0omKo24DDw26CsJq1Q",
-                "description": "🎄生誕グッズも好評発売中✨→ https://shop.hololivepro.com/products/shiroganenoel_bd2024\n\n[NEW]秋色のさんぽ道ボイス販売中🍂→ https://shop.hololivepro.com/products/hol..."
-            }
-        ]
+        "videos": []
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
