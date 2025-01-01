@@ -160,7 +160,15 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/JyixAV--9ZFWIMEwRQFbZhkiQTEvb1ALCdX7bW9BarpyLBjAnbbmc98jymhVT_pZlJpWaDwk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "AXT3L3HA4rM",
+                "title": "【謹賀新年】あけましておめでとうございます！新年の反省会が始まる…【一条莉々華/hololive DEV_IS　ReGLOSS】",
+                "date": "2025/01/01 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/AXT3L3HA4rM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmSpPzUkqClnSO5h7ANzW3cXR66w",
+                "description": "昨日の配信の反省会など・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ｗ\n\n🔽素敵なイラスト🔽\n青井月@ご依頼募集中様..."
+            }
+        ]
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -626,6 +634,12 @@
                 "description": "【Debut Celebration Merch】\n▼Official Online Shop▼\nJP：https://shop.hololivepro.com/products/hololiveen_justice_debut\nEN：https://shop.hololivepro.com/en/products/hololiveen_justice_debut..."
             }
         ]
+    },
+    "@holoen_raorapanthera": {
+        "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
+        "channel_name": "Raora Panthera Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/8XQlrbkx1vBSpFZQ_GwV6hxep9EX0xHBH-CmWknoHusxXOKGnfVytVRzpt-36PxJOfumNjiBkAI",
+        "videos": []
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
