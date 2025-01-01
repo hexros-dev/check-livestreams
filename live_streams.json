@@ -400,7 +400,14 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/LnJxTvrkHQFdFlyMY2HPtXVEwA7KHlUp8rNzBepF1GQfPQjUN9yKGIqSYOD31F22Ow9vSTn9",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "DO2B1mVa5dM",
+                "title": "【NEW YEAR OUTFIT REVEAL】Let's spin into the new year!!!!! weeeeeeeeeeeeeeeeeeeeeeee #CeciNewYear",
+                "thumbnail": "https://i.ytimg.com/vi/DO2B1mVa5dM/hqdefault.jpg?v=67754861&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB12EIf2BBTbqEF_vUtro5RgYaaDA",
+                "description": "JUSTICE Half Anniversary MERCH!\n▼Official Online Shop▼\nEN: https://shop.hololivepro.com/products/hololiveen_justice_anhalfyear \n▼Geek Jack▼ \nEN: https://shop.geekjack.net/collections/hololi..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
@@ -412,14 +419,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/AD2BC7S_QlNSZEHrM-pyRR0C9DOPnfK2OnuFjTK8F842WydS1HDMe6TvhESY9Er96Kt3yu0-fQ",
-        "videos": [
-            {
-                "video_id": "PCstZO3RuJ0",
-                "title": "【NEW YEAR'S OUTFIT REVEAL】what that orange do tho #holoJustice #GigiNewYear",
-                "thumbnail": "https://i.ytimg.com/vi/PCstZO3RuJ0/hqdefault.jpg?v=6774d10d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAn1pFaGsrYfaImHksafSp8FLR5Mg",
-                "description": "【Debut Celebration Merch】\n▼Official Online Shop▼\nJP：https://shop.hololivepro.com/products/hololiveen_justice_debut\nEN：https://shop.hololivepro.com/en/products/hololiveen_justice_debut..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
