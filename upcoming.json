@@ -29,12 +29,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/e5wX9w1xSFUjaUdyhFugYZKzDZ_KLTLWBgdtRohHQDu0pshH867pyOv6gLGuqkqy5Ik8bJ9MSZU",
         "videos": []
     },
-    "@AnyaMelfissa": {
-        "channel_url": "https://www.youtube.com/@AnyaMelfissa",
-        "channel_name": "Anya Melfissa Ch. hololive-ID",
-        "avatar_url": "https://yt3.googleusercontent.com/58uF1apTqtovpieDrBCSF5pUeNU2MA6n34bdj2EBEVnySKm-VvEznGNt2puk4v4tAnA3AYh5JA",
-        "videos": []
-    },
     "@AyundaRisu": {
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
@@ -84,15 +78,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/WO7ItKNmy6tW_NQ82g8c1y74CZSw6GsSdynsE5s2csuEok2fHRrAaGcBV3JJO-2BxEOXXA8lvw",
-        "videos": [
-            {
-                "video_id": "oEPkRlxDkog",
-                "title": "【街～運命の交差点～】完全初見！三が日は神サウンドノベルゲーを満喫しよう！【博衣こより/ホロライブ】",
-                "date": "2025/01/01 09:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/oEPkRlxDkog/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDaaS77pIhJI_6q-iWb7y5cvqymaQ",
-                "description": "「かまいたちの夜」の次弾サウンドノベルゲーム。言わずと知れた神ゲー「街～運命の交差点～」を初めてやってみる！\n🎁3周年記念グッズ販売..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -124,7 +110,15 @@
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/Z2QpYUZ4-jKoFR7Ms330gRQzjI2gZ4CB_uVP6f39YysxUe1u8icrtE07ffpRxCtpu9U65MWNDA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Yb4_sL2mzWY",
+                "title": "あけましておめでとうございます【ホロライブ/宝鐘マリン】",
+                "date": "2025/01/01 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Yb4_sL2mzWY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCET-6qWCNYbrhn8L_JU4Xh0RqyEA",
+                "description": "｡.｡:+* ﾟ ゜ﾟ *+:｡.｡:+* ﾟ ゜ﾟ *+:｡.｡.｡:+*ﾟ ゜ﾟ *+:｡.｡:+*ﾟ ゜ﾟ *+:｡.｡.｡:+*+:｡.｡｡\n\n🏴‍☠️宝鐘マリン1stライブ「Ahoy!! キミたちみ..."
+            }
+        ]
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
@@ -194,11 +188,11 @@
         "avatar_url": "https://yt3.googleusercontent.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg",
         "videos": [
             {
-                "video_id": "ai-org8zigU",
-                "title": "【2025 NEW YEARS TWELVE HOUR PARTY】STREET FIGHTER 6 【PART 4】",
-                "date": "2025/01/01 09:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/ai-org8zigU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4wMp3lAfFjsAurrcXZ97BVE16sA",
-                "description": "NEW MV RELEASE: https://youtu.be/1ulTgWcWWRU\n\nThumbnail art: @sion_guraburu Thank you!!\nhttps://x.com/sion_guraburu/status/1873238287458124232\n\n====================\n✧Twitter: https://twitter.com/..."
+                "video_id": "kS9mxH4FH0I",
+                "title": "【2025 NEW YEARS TWELVE HOUR PARTY】CRAB GAME 【PART 5】",
+                "date": "2025/01/01 11:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/kS9mxH4FH0I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBauO4ih1cdU96Hf2k8Ni_e9GxTzg",
+                "description": "NEW MV RELEASE: https://youtu.be/1ulTgWcWWRU\n\nThumbnail art: @uoca_710 Thank you!!\nhttps://x.com/uoca_710/status/1874020298124910963\n\n====================\n✧Twitter: https://twitter.com/kosekibijo..."
             }
         ]
     },
@@ -232,7 +226,15 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/bMBMxmB1YVDVazU-8KbB6JZqUHn4YzmFiQRWwEUHCeqm5REPW7HHQChC5xE6e36aqqnXgK4a",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "5BSesoye2Kw",
+                "title": "【 雑談 】あけましておめでとうございます！！！！【 桃鈴ねね / hololive 】",
+                "date": "2025/01/01 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/5BSesoye2Kw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkhlMWfAD5Ofa6juDUqlnEN2-wnA",
+                "description": "機材チェックも含めて～✨今年もよろしくね！\n\n⸜♡⸝MemberShipに入ったらもっとねねを知れるﾖ\nhttps://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA/join..."
+            }
+        ]
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
@@ -348,13 +350,6 @@
                 "date": "2025/01/01 11:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/XuWYl42q23s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBp0qfsBYwY--8uYmbgA55xJ7dQYA",
                 "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n+‥‥‥‥..."
-            },
-            {
-                "video_id": "lorxlqKOY9s",
-                "title": "【】2025年新年雑談！【ホロライブ/大空スバル】",
-                "date": "2025/01/01 09:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/lorxlqKOY9s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAc7MXomXnere0UO9iZiYo3vjWpxQ",
-                "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n+‥‥‥‥..."
             }
         ]
     },
@@ -368,15 +363,7 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/flg7E5XnFWh-NhGZOydJ2QHMpFdkBGbou0OcYUiYjKVisv8UsY-FiPLrTtexXVUqPmIyDvgC",
-        "videos": [
-            {
-                "video_id": "rzT25Fd08SM",
-                "title": "【Ghostrunner】As Promised | #3",
-                "date": "2025/01/01 09:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/rzT25Fd08SM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCy2s5H4LCkwgPPIMTXvGIaM0ZsUw",
-                "description": "This game is being streamed and monetized after confirming with 505 Games.\n\n[Twitter]\nhttps://twitter.com/ourokronii\n\n[Thumbnail Art]\nhttps://x.com/brmameng\n\n---------------------------------------..."
-            }
-        ]
+        "videos": []
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
@@ -427,15 +414,7 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZlovVsPyh8NgS37S4dfONiCBySiboGPbT9cYuirb8JM3JhSnqlpJk-8SQUEA7jPfqXpMvjaa",
-        "videos": [
-            {
-                "video_id": "k9CM55Iggz0",
-                "title": "Wandering the End of the World(s)【VRChat】",
-                "date": "2025/01/01 09:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/k9CM55Iggz0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDiD6TQ0-ELBHOk1sLOzWwQYxdUoQ",
-                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n\n==============..."
-            }
-        ]
+        "videos": []
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
