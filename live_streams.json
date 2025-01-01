@@ -278,7 +278,14 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/Z78RNXxUqpOGYKFt-VrJV7nlehOHzl7Ta-l1cgPx5Ewucmr5kY64iGxmPSe7QqIdM1ZhvPlEOg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "HhbwMe20n3k",
+                "title": "【新年のご挨拶】あけましておめでとうございます！！！！！！！【ホロライブ/大神ミオ】",
+                "thumbnail": "https://i.ytimg.com/vi/HhbwMe20n3k/hqdefault.jpg?v=6774d3cc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjCPwtyFO7TUgcFq16tG_fLWj2MA",
+                "description": "１月１日、まったりしよう～～✨\n\nillustrator：保村成さん https://x.com/izumochi01\n✣✣––––––––––––..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -424,14 +431,7 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": [
-            {
-                "video_id": "xna80Dvi8Yg",
-                "title": "【龍が如く0 誓いの場所】#01｜桐生ちゃんで新年もブチかましていくぞッ！！※配信内容にネタバレを含みます【 雪花ラミィ /ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/xna80Dvi8Yg/hqdefault.jpg?v=677377f5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBM8PRbS7WdHJdG5rlyJ7xgIXq38w",
-                "description": "この動画およびライブは、コンテンツ利用許諾契約に基づいて配信しています。\n©SEGA\n\n感想は #らみらいぶ で呟いて頂けたら嬉しいです！\n\nサムネ..."
-            }
-        ]
+        "videos": []
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
