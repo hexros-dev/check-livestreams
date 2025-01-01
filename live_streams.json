@@ -58,7 +58,14 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "e0GbyTqEfiY",
+                "title": "【NEW YEAR CHATTING】celebrate the 1st moments of 2025 together 🐾  【FUWAMOCO】",
+                "thumbnail": "https://i.ytimg.com/vi/e0GbyTqEfiY/hqdefault.jpg?v=67742ea5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCfQQ-Jhbu5rgK-Yhv2cHXqIV3yvg",
+                "description": "let's make this truly THE YEAR OF FUWAMOCO ENCORE ✨\nlovely illustration by @you_2023_8_16 💕\n\n⸜❤︎⸝ 𝔽𝕌𝕎𝔸𝕄𝕆ℂ𝕆 𝟙𝕤𝕥 𝔸𝕊𝕄ℝ 𝕍𝕠𝕚𝕔𝕖𝕡..."
+            }
+        ]
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -278,14 +285,7 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/Z78RNXxUqpOGYKFt-VrJV7nlehOHzl7Ta-l1cgPx5Ewucmr5kY64iGxmPSe7QqIdM1ZhvPlEOg",
-        "videos": [
-            {
-                "video_id": "HhbwMe20n3k",
-                "title": "【新年のご挨拶】あけましておめでとうございます！！！！！！！【ホロライブ/大神ミオ】",
-                "thumbnail": "https://i.ytimg.com/vi/HhbwMe20n3k/hqdefault.jpg?v=6774d3cc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjCPwtyFO7TUgcFq16tG_fLWj2MA",
-                "description": "１月１日、まったりしよう～～✨\n\nillustrator：保村成さん https://x.com/izumochi01\n✣✣––––––––––––..."
-            }
-        ]
+        "videos": []
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
