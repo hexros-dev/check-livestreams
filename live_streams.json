@@ -255,20 +255,20 @@
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/wIqM7MWDN94PoibzPmeog7WOt8jFKTKZBOBFEbLBaiUAdKLwoqdLC_CN7B7Gby-FWH-076rN",
-        "videos": [
-            {
-                "video_id": "70smLJSc2W0",
-                "title": "【お年玉】2025年新年のご挨拶【ホロライブ/夏色まつり】",
-                "thumbnail": "https://i.ytimg.com/vi/70smLJSc2W0/hqdefault.jpg?v=677505e2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-eiPdXtnlEHGpng-FosmQwGp2Xw",
-                "description": "...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\n\n＼🏮まつりす向けメンバーシップ🏮／\n\n▷メンバーに入るとこんな特典..."
-            }
-        ]
+        "videos": []
     },
     "@NekomataOkayu": {
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/G92yBEhkf9R2mEpayuPvhwlA42tYAPOcNi2r77JeL7ic0ETS_FvTkwkBHjvR6iCqUk7TOlpROQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "FsWQdcvYLoQ",
+                "title": "あけましておめでとうございます🐱🎍",
+                "thumbnail": "https://i.ytimg.com/vi/FsWQdcvYLoQ/hqdefault.jpg?v=677502ba&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2tjJjZCzIq6PRtXznMjNyitxWxQ",
+                "description": "-\n\nイラスト：上尾アイさん( https://x.com/u_e_o_o )\n\n❥・・ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ・・❥\n\nTwitter : https://twitter.com/nekomataok..."
+            }
+        ]
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -298,20 +298,20 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "13BeKpEzGwg",
+                "title": "【#生スバル】人徳凸待ちガチアポなし凸待ちしゅばあああああああああ（誰か来てくださいお願いします）【ホロライブ/大空スバル】",
+                "thumbnail": "https://i.ytimg.com/vi/13BeKpEzGwg/hqdefault.jpg?v=6773d9d5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAICKbw_MuV1OhpkNB59esOHXJxUg",
+                "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n+‥‥‥‥..."
+            }
+        ]
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/f31Dn0ou0ob-VCRtjZTXed4m22A-bdR9ljFw-0LPa9cPicx7gY3e1vdFkrGxgz0ubHD7vCD_",
-        "videos": [
-            {
-                "video_id": "8pC8eqA4t44",
-                "title": "【 BIOHAZARD 7 #01 】はじめてのバイオハザード！ホラー、、ですか？？【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-                "thumbnail": "https://i.ytimg.com/vi/8pC8eqA4t44/hqdefault.jpg?v=6774d153&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-p3eah-1s8dtMQ9P-3SNT5I5K-g",
-                "description": "50万人記念グッズ販売ストアはこちら！✨\n受注受付期間 : 2024年12月18日 21時00分 ～ 2025年01月20日 18時00分\nhttps://shop.hololivepro.com/products/otonosekanade_500k..."
-            }
-        ]
+        "videos": []
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
@@ -444,14 +444,7 @@
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
         "channel_name": "Choco Ch. 癒月ちょこ",
         "avatar_url": "https://yt3.googleusercontent.com/eB_qZXKL-jDhGyEstj9BvLL0qO_tHEMaIpkfp8M-qXYweZOpDm7uZgBwbWfxwAT7uKh_5tEj",
-        "videos": [
-            {
-                "video_id": "8A28vN8pU58",
-                "title": "【あけおめ】今年もちょこ神様降臨！ちょこみくじするわよ【ホロライブ/癒月ちょこ】",
-                "thumbnail": "https://i.ytimg.com/vi/8A28vN8pU58/hqdefault.jpg?v=6774eb8c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjJyYWkz4QMJ0e0knDezwsyar0Ug",
-                "description": "１stアルバムデジタルリリース↓\nhttps://shop.hololivepro.com/products/yuzukichoco_burstsongofdestruction\n\nサブ垢→https://www.youtube.com/channel/UCp3tgHXw_HI0QMk1K8qh3gQ\n..."
-            }
-        ]
+        "videos": []
     },
     "@dooby3d": {
         "channel_url": "https://www.youtube.com/@dooby3d",
