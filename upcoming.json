@@ -9,15 +9,7 @@
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
         "channel_name": "Airani Iofifteen Channel hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/bF91weVtAIL7Uhnr2HVwtCTLVKK5kVsn4FC_Ze3Gl8rkSsEjDwyey3AbQ1PDfJQ1Oeac5cePeg",
-        "videos": [
-            {
-                "video_id": "nXt0loSOUcg",
-                "title": "【Ballionaire】New Addiction?【 iofi / hololiveID 】",
-                "date": "2025/01/02 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/nXt0loSOUcg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzpnyMCh5j3ZpnnsF2HTblSLvSuQ",
-                "description": "#ioLyfe #Airani_Iofifteen #hololive #holoID #marvelrivals \n\nThis game is being streamed and monetized with permission from Raw Fury.\n\n【Support & Jajanin IOFI】🎨\nIndonesia : https://sociabuzz...."
-            }
-        ]
+        "videos": []
     },
     "@AkaiHaato": {
         "channel_url": "https://www.youtube.com/@AkaiHaato",
@@ -420,10 +412,10 @@
         "videos": [
             {
                 "video_id": "7fU5U69KAhI",
-                "title": "【配信予定地】【ホロライブ/ときのそら】",
+                "title": "【８番出口】驚かないわたしは異変に鈍感【ホロライブ/ときのそら】",
                 "date": "2025/01/02 20:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/7fU5U69KAhI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzb8NiWmVI2s1AHOzp0ZLPwAcp6Q",
-                "description": "★★★★★★★★★★★★★★★★★★★★★★\n\n🌟ときのそら初のアニメ主題歌Single\n2024.9.11release\n★「おかえりなさい」特設サイト\nhttps://www.jvcm..."
+                "description": "えっ？\n\n\n本ゲームは、動画配信ガイドラインに則り配信、収益化を行なっております。\nhttps://store.steampowered.com/app/2653790/_/\n\n★★★★★★★★★★..."
             }
         ]
     },
@@ -451,7 +443,15 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/-IdVo-vK7pr0VRjJDdza1-t1Edjce1Rd1R1hon_3SRIzuQ-XVBTWOJj-UfwYPp8y40KM197_y4o",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "xN22VzO-9zY",
+                "title": "drinking coffee quickly",
+                "date": "2025/01/02 19:26:00",
+                "thumbnail": "https://i.ytimg.com/vi/xN22VzO-9zY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDeCOdw2xbTqC88yhBw3sFZrHZ7pg",
+                "description": "#hololive #holoid #vestiazeta  #vtuber \n\n\n★  Donasi lokal: https://sociabuzz.com/vestiazeta/tribe\n\n\n\n-----\nVestia Zeta's Original Song  ▶  \" You're Mine \"\nhttps://youtu.be/KFFtUqQVLrI?si=7kdwYp..."
+            }
+        ]
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
@@ -469,6 +469,12 @@
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
         "channel_name": "Choco Ch. 癒月ちょこ",
         "avatar_url": "https://yt3.googleusercontent.com/eB_qZXKL-jDhGyEstj9BvLL0qO_tHEMaIpkfp8M-qXYweZOpDm7uZgBwbWfxwAT7uKh_5tEj",
+        "videos": []
+    },
+    "@dooby3d": {
+        "channel_url": "https://www.youtube.com/@dooby3d",
+        "channel_name": "dooby",
+        "avatar_url": "https://yt3.googleusercontent.com/QBddwfs8nHiD5V-Dm9HcRfmjpCMpIGbRfKmk6vmejPEo8hyePLSo4oHm34TSLVHswqbTNjKZOw",
         "videos": []
     },
     "@holoen_ceciliaimmergreen": {
