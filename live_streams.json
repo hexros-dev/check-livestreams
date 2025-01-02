@@ -63,13 +63,27 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/9FFCT3cu9FxyLJUUFovpPI7WRj0I7_KuApwkEaLsD0NHVVL2OPTtGn8Qga5YFbeC_47-MoEXrA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "5MH5hjg6970",
+                "title": "≪HAPPY NEW YEAR≫ Hello 2025!!",
+                "thumbnail": "https://i.ytimg.com/vi/5MH5hjg6970/hqdefault.jpg?v=67756348&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAv-z6HxFTdplU2Z0j68zbgG-tWwA",
+                "description": "We've reached 2025! \nTime for reflections, resolutions and projections for the coming year!! \n\nThumbnail: https://x.com/iro_aotake/status/1609361262797901824\n\n#telebae #hololiveenglish \n\n««≪..."
+            }
+        ]
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/WO7ItKNmy6tW_NQ82g8c1y74CZSw6GsSdynsE5s2csuEok2fHRrAaGcBV3JJO-2BxEOXXA8lvw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "28dQOL7tkvg",
+                "title": "【街～運命の交差点～】完全初見！神サウンドノベルゲーを満喫するお正月！ #2 【博衣こより/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/28dQOL7tkvg/hqdefault.jpg?v=67751048&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3s8cfojn-4ovp290grEVl2LYbXA",
+                "description": "「かまいたちの夜」の次弾サウンドノベルゲーム。言わずと知れた神ゲー「街～運命の交差点～」を初めてやってみる！\n🎁3周年記念グッズ販売..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -81,14 +95,7 @@
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
         "channel_name": "Ao Ch. 火威青 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/7axTno1zkKS6RhYH7cZ9FecAkjBmZRYTwDeVoqxDdAx0wGfqatlMY10igRFEa1gpAtq5rqnDJg",
-        "videos": [
-            {
-                "video_id": "C5NEek4kCiQ",
-                "title": "【新年初朝活】あけましておめでとうイケメン【火威青】#hololiveDEV_IS #ReGLOSS",
-                "thumbnail": "https://i.ytimg.com/vi/C5NEek4kCiQ/hqdefault.jpg?v=67755093&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVhg4eWJywg4Fq1k4UlKYcdOhblg",
-                "description": "可愛い女の子かと思った？じゃじゃーん青くんでした！\n素敵なイラスト→雨音もこ（@amamoco171）先生✨\n\n- - - - - - - - - - - ༚༝༝५🖋️\n\n▼ 歌って..."
-            }
-        ]
+        "videos": []
     },
     "@HoshimachiSuisei": {
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
@@ -100,7 +107,14 @@
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/Z2QpYUZ4-jKoFR7Ms330gRQzjI2gZ4CB_uVP6f39YysxUe1u8icrtE07ffpRxCtpu9U65MWNDA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "iu03Lvuh5So",
+                "title": "【2024年】後編！ホロメンとの関係性変化を振り返る【ホロライブ/宝鐘マリン】",
+                "thumbnail": "https://i.ytimg.com/vi/iu03Lvuh5So/hqdefault.jpg?v=6775340c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjspUorBHZJ5nq4Y4cwYU05nUa_w",
+                "description": "サムネイラスト…あかさあい\nサムネデザイン…saku39\n\n｡.｡:+* ﾟ ゜ﾟ *+:｡.｡:+* ﾟ ゜ﾟ *+:｡.｡.｡:+*ﾟ ゜ﾟ *+:｡.｡:+*ﾟ ゜ﾟ *+:｡.｡.｡:+*+:｡.｡..."
+            }
+        ]
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
@@ -185,7 +199,14 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "IhtDCkgFSxA",
+                "title": "【マリオカート8DX】ピンチな水宮朝練をする 参加型は後半すこし【水宮枢／FLOW GLOW】#hololiveDEV_IS",
+                "thumbnail": "https://i.ytimg.com/vi/IhtDCkgFSxA/hqdefault.jpg?v=67758c71&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2JcncSkKHyR8-ORznaY68BvR3wA",
+                "description": "#ホロ新春ゲーム祭り2025 に向けて朝の大練習。水宮さんはどうにかして今から何とかなりたい\n\n後半の少し⬇️\n📧視聴者参加型ルール\nレース毎に..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -246,14 +267,7 @@
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
         "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/JDCIBWj11TgjY2Uyba_efZ0n5hzjysMB9GxkvHGkIN_sfFQJR5mx3iVPqgJ96IPcYjZpCLsb",
-        "videos": [
-            {
-                "video_id": "2QPj2hPm8vM",
-                "title": "@CeresFauna carries me through the night | SOMA",
-                "thumbnail": "https://i.ytimg.com/vi/2QPj2hPm8vM/hqdefault.jpg?v=6775896a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4y561G_ampaF08sesz6AWPHUGoA",
-                "description": "∴∴♪ * Check Out My First EP Here!* ♪∴∴\nhttps://cover.lnk.to/esLvqA\n\n∴∴♪ * Check Out My Music Here!* ♪∴∴\nhttps://www.youtube.com/playlist?list=PLSJG6WXf5JvFn2FWv_B5HP7DklUtde..."
-            }
-        ]
+        "videos": []
     },
     "@NinomaeInanis": {
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
@@ -307,14 +321,7 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/GF0wbwZvZAGzYg8s8d6Yh1BDcWAE9UmLAh2uf3IMJ5l_ESi3sWeRqk2XfhW3IgzMeliHpt4cAw",
-        "videos": [
-            {
-                "video_id": "odpgKRG44Xg",
-                "title": "【宝くじ】カメラ付き📸年末ジャンボで夢をつかむぞおお！？？【ホロライブ/ロボ子さん】",
-                "thumbnail": "https://i.ytimg.com/vi/odpgKRG44Xg/hqdefault.jpg?v=6773c32b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLByNjTydlwa7eAdHr7n1G1GjccE2Q",
-                "description": "💬＃ロボ子生放送　でポストしてってね✨\nさむねいらすと　@___Kita02\n\n\n📢最新ボイスはこちらから💖\nhttps://shop.hololivepro.com/products/hololive_christmasvoi..."
-            }
-        ]
+        "videos": []
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -332,7 +339,14 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZlovVsPyh8NgS37S4dfONiCBySiboGPbT9cYuirb8JM3JhSnqlpJk-8SQUEA7jPfqXpMvjaa",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "hcNyPARPCcg",
+                "title": "Hands Up and Forfeit Your Life【Hitman: World of Assassination】",
+                "thumbnail": "https://i.ytimg.com/vi/hcNyPARPCcg/hqdefault.jpg?v=67721741&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATrawD8eBzM8PTf4wOz0EfPouXwA",
+                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n\n==============..."
+            }
+        ]
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
