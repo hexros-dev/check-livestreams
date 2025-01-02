@@ -53,12 +53,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag",
         "videos": []
     },
-    "@GawrGura": {
-        "channel_url": "https://www.youtube.com/@GawrGura",
-        "channel_name": "Gawr Gura Ch. hololive-EN",
-        "avatar_url": "https://yt3.googleusercontent.com/uMUat6yJL2_Sk6Wg2-yn0fSIqUr_D6aKVNVoWbgeZ8N-edT5QJAusk4PI8nmPgT_DxFDTyl8",
-        "videos": []
-    },
     "@HakosBaelz": {
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
@@ -111,7 +105,14 @@
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "UcogPyZJlco",
+                "title": "【#みっころね24 リターンズ】帰ってきたみっころね24!! 24時間ぶっ通し生放送2025🎍【後半】",
+                "thumbnail": "https://i.ytimg.com/vi/UcogPyZJlco/hqdefault.jpg?v=6769367f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-O9gUsWOcj_UJ_FhLDHew3_4TMg",
+                "description": "タグ #みっころね24\n\n---------------------------------------------\n\n1月2日19:00 から 1月3日19:00頃まで24時間ぶっ通し！🎍🌸🥐\n\n▼2ndシングル「みっころね×や..."
+            }
+        ]
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
@@ -298,27 +299,13 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/gxXHmXJq_kkZ0bvTmz7R1deyOAV44zZr2keaF0ojSq7MeiOGLSzFTCoYgYR4PGDWTCoLR7eK",
-        "videos": [
-            {
-                "video_id": "E_MsO2AzNWE",
-                "title": "【#みっころね24 リターンズ】帰ってきたみっころね24!! 24時間ぶっ通し生放送2025🎍【前半】",
-                "thumbnail": "https://i.ytimg.com/vi/E_MsO2AzNWE/hqdefault.jpg?v=67567f0c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCIMX12aIrF_VdyNXtf1HywHF8sAg",
-                "description": "タグ #みっころね24\n\n1月2日19時00分 から 1月3日19時00分頃まで24時間ぶっ通し！🎍🌸🥐\n\n📅スケジュール📅\n------------------------------------\n19時00分..."
-            }
-        ]
+        "videos": []
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZlovVsPyh8NgS37S4dfONiCBySiboGPbT9cYuirb8JM3JhSnqlpJk-8SQUEA7jPfqXpMvjaa",
-        "videos": [
-            {
-                "video_id": "Xz5WFrgsvQc",
-                "title": "Learning Makeup with a Disembodied Head【Handcam】",
-                "thumbnail": "https://i.ytimg.com/vi/Xz5WFrgsvQc/hqdefault.jpg?v=67733a94&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDpPVlsUJ889_ye0PEPB6ij-Sayg",
-                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n\n==============..."
-            }
-        ]
+        "videos": []
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
@@ -427,13 +414,27 @@
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "CsU5lWxCDDI",
+                "title": "【KARAOKE】SEVEN! #03 ~! 💄",
+                "thumbnail": "https://i.ytimg.com/vi/CsU5lWxCDDI/hqdefault.jpg?v=6776f159&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAI9wlC_UA48qWusXgpCIPBDd23_A",
+                "description": "* SEVEN!!! Archived Karaoke! \n▬▬ι════════ﺤ\nMerch!!! For JUSTICE!!!!!! HUZZAH! \n ▼Official Online Shop▼\n JP: https://shop.hololivepro.com/products/hololiveen_justice_anhal..."
+            }
+        ]
     },
     "@holoen_gigimurin": {
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/AD2BC7S_QlNSZEHrM-pyRR0C9DOPnfK2OnuFjTK8F842WydS1HDMe6TvhESY9Er96Kt3yu0-fQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "F9jl7udBeg0",
+                "title": "【HANDS OF NECROMANCY 2】explorin this dark fantasy world with my own two paws",
+                "thumbnail": "https://i.ytimg.com/vi/F9jl7udBeg0/hqdefault.jpg?v=67764453&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXvPXPZqOc2EIDP4QLl9pl3NTeNg",
+                "description": "#PR #Sponsored\n\nHands of Necromancy 2 is a retro shooter dark fantasy fps, where\nyou can use magical weapons and transformations to beat the\nmonsters! You can also revive the dead enemies to..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
