@@ -177,12 +177,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/CCOEFxhq858A_1QNu0VF9Y5vvXm9V4l7klSdL4FfMsOAAnVxoiAcxAlQO9RV0lCib6Fi_EkVrA",
         "videos": []
     },
-    "@KosekiBijou": {
-        "channel_url": "https://www.youtube.com/@KosekiBijou",
-        "channel_name": "Koseki Bijou Ch. hololive-EN",
-        "avatar_url": "https://yt3.googleusercontent.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg",
-        "videos": []
-    },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
@@ -317,14 +311,7 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/flg7E5XnFWh-NhGZOydJ2QHMpFdkBGbou0OcYUiYjKVisv8UsY-FiPLrTtexXVUqPmIyDvgC",
-        "videos": [
-            {
-                "video_id": "IWkffKsYKvo",
-                "title": "【Just Chatting】Year of Snake 🐍",
-                "thumbnail": "https://i.ytimg.com/vi/IWkffKsYKvo/hqdefault.jpg?v=67760482&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArdZr9CWgoKxlTjZFq17KpY3ce_w",
-                "description": "[Twitter]\nhttps://twitter.com/ourokronii\n\n[Thumbnail Art]\nhttps://x.com/cguanjen\n\n----------------------------------------------------------------------------\n\n[Viewer Rules]\nThank you for..."
-            }
-        ]
+        "videos": []
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
