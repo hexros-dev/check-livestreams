@@ -107,14 +107,7 @@
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/Z2QpYUZ4-jKoFR7Ms330gRQzjI2gZ4CB_uVP6f39YysxUe1u8icrtE07ffpRxCtpu9U65MWNDA",
-        "videos": [
-            {
-                "video_id": "iu03Lvuh5So",
-                "title": "【2024年】後編！ホロメンとの関係性変化を振り返る【ホロライブ/宝鐘マリン】",
-                "thumbnail": "https://i.ytimg.com/vi/iu03Lvuh5So/hqdefault.jpg?v=6775340c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjspUorBHZJ5nq4Y4cwYU05nUa_w",
-                "description": "サムネイラスト…あかさあい\nサムネデザイン…saku39\n\n｡.｡:+* ﾟ ゜ﾟ *+:｡.｡:+* ﾟ ゜ﾟ *+:｡.｡.｡:+*ﾟ ゜ﾟ *+:｡.｡:+*ﾟ ゜ﾟ *+:｡.｡.｡:+*+:｡.｡..."
-            }
-        ]
+        "videos": []
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
@@ -424,7 +417,14 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "fzASNreJFPE",
+                "title": "【雑談】2025年！新年最初の雑談だ～！！【 雪花ラミィ /ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/fzASNreJFPE/hqdefault.jpg?v=67754dbd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB75fzcYMWvvb7IDYFPblmVHrNIKg",
+                "description": "感想は #らみらいぶ で呟いて頂けたら嬉しいです！\n\nサムネイルイラスト：氷菜さま\nhttps://x.com/hinakisara\nサムネイルデザイン：籠乃あさぎり様..."
+            }
+        ]
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
