@@ -63,14 +63,7 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/9FFCT3cu9FxyLJUUFovpPI7WRj0I7_KuApwkEaLsD0NHVVL2OPTtGn8Qga5YFbeC_47-MoEXrA",
-        "videos": [
-            {
-                "video_id": "5MH5hjg6970",
-                "title": "≪HAPPY NEW YEAR≫ Hello 2025!!",
-                "thumbnail": "https://i.ytimg.com/vi/5MH5hjg6970/hqdefault.jpg?v=67756348&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAv-z6HxFTdplU2Z0j68zbgG-tWwA",
-                "description": "We've reached 2025! \nTime for reflections, resolutions and projections for the coming year!! \n\nThumbnail: https://x.com/iro_aotake/status/1609361262797901824\n\n#telebae #hololiveenglish \n\n««≪..."
-            }
-        ]
+        "videos": []
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -89,7 +82,14 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/CTvZ3dUO8LocQMKbGkjUPysC524gC4asm5roilZmzhpBpWAWpLrhpRv0SpEaJeWm1oVP5v0g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "TsoUDihi0aU",
+                "title": "【 ダークソウル3 】最終回！DLC第2弾に挑戦するのら～～～！！！DARK SOULS Ⅲ ＃03【姫森ルーナ/ホロライブ】ネタバレあり",
+                "thumbnail": "https://i.ytimg.com/vi/TsoUDihi0aU/hqdefault.jpg?v=67753184&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClY73I9E8uaTJ4phZlWWzjwUuIcQ",
+                "description": "レベル95▶1年7ヶ月ぶりにダクソ3やるのらよ！(・o・🍬)\n\nサムネイラスト\n　石原竜也さん　https://twitter.com/curry_and_rice4\n\nダークソウル３DLC再生リス..."
+            }
+        ]
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -119,7 +119,14 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/JyixAV--9ZFWIMEwRQFbZhkiQTEvb1ALCdX7bW9BarpyLBjAnbbmc98jymhVT_pZlJpWaDwk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "tLB8wUn5fsM",
+                "title": "【ドラゴンクエストIIIリメイク】ドラクエIII初プレイ!!! ロトシリーズ完走するぞー!!! part2 ※ネタバレあり【#一条莉々華 #hololive DEV_IS #ReGLOSS】",
+                "thumbnail": "https://i.ytimg.com/vi/tLB8wUn5fsM/hqdefault.jpg?v=67753b3e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdnhaN0qgVMB_lPuGDcKxCC8nr1Q",
+                "description": "ルイ姉からのアドバイスを受け、1からプレイ！！！\nリメイク版までにロトシリーズ楽しみたい✨\nドラクエ３は初見だよー！！！！\n\n※Switch版でプ..."
+            }
+        ]
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -156,7 +163,14 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/0NYd0NnC9mCjdu6t_i-JylPkwpz-o3IZ1eLqgG4MdXS-KUPrP36e71UysuoV9eZA1-TRG3gZ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "XzBg9u3iUMI",
+                "title": "【＃ホロ五目並べ】ミリしら五目並べ！最弱王決定戦の前に遊ぶ！【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "thumbnail": "https://i.ytimg.com/vi/XzBg9u3iUMI/hqdefault.jpg?v=6775a4f0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBm_9fmI-MC8NbELRZRxA1KKhwGyQ",
+                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\nサムネイルの素敵なイラスト　みたらしねこさん　https://x.com/mitaras..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -242,7 +256,14 @@
         "channel_url": "https://www.youtube.com/@NanashiMumei",
         "channel_name": "Nanashi Mumei Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/owZmjfnG_SGVmfkl3eS7Lv47pGvIr2SrS36imh6O8i0H3Wy41fYKD26U7wnyRB627fXoq0aQ0Q",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "_29WRgdx_OI",
+                "title": "【HoloEN + OW2】watch the carnage unfold, with friends, live reaction, not a single top 500 player",
+                "thumbnail": "https://i.ytimg.com/vi/_29WRgdx_OI/hqdefault.jpg?v=6774bfac&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBrvSeucNzbpz1SJSufL8NykXaITA",
+                "description": "not playing alone, i'm playing with friends\nidk where the 2 went\n\nthumbnail: https://www.pixiv.net/en/artworks/123898674\n\n≫ ──── ≪•◦ ❈ ◦•≫ ──── ≪\n\nTWITTER..."
+            }
+        ]
     },
     "@NatsuiroMatsuri": {
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
@@ -273,7 +294,14 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/f4uYWHJxiGwyXm8NUlm818N1MRnywtgL6wM8JdWqWsKBzI7v1eg8dxDWG7igkWuukUSiufydqPg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Iwwj7sI1w3s",
+                "title": "【OW2】 NEW YEAR OW WITH FRIENDS",
+                "thumbnail": "https://i.ytimg.com/vi/Iwwj7sI1w3s/hqdefault.jpg?v=6775edbc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2IN0KoFGlPcgZFvGo_NmlokSwGA",
+                "description": "【Thumbnail Art】\nFauna 💚\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\n__________________________________________________________________________________________\n\nThis game is being..."
+            }
+        ]
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -298,7 +326,14 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "3XjeQOFsNEw",
+                "title": "【#2】お正月デトロイトやるしゅばあああああああああああああああああああああああ！！！！ / Detroit: Become Human【ホロライブ/大空スバル】",
+                "thumbnail": "https://i.ytimg.com/vi/3XjeQOFsNEw/hqdefault.jpg?v=67755232&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdiQkf0Kpb_QgzUjYgKzm--rvIfw",
+                "description": "本ゲームは著作権ガイドラインに則り配信を行っております。\n🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！..."
+            }
+        ]
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -310,7 +345,14 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/flg7E5XnFWh-NhGZOydJ2QHMpFdkBGbou0OcYUiYjKVisv8UsY-FiPLrTtexXVUqPmIyDvgC",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "IWkffKsYKvo",
+                "title": "【Just Chatting】Year of Snake 🐍",
+                "thumbnail": "https://i.ytimg.com/vi/IWkffKsYKvo/hqdefault.jpg?v=67760482&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArdZr9CWgoKxlTjZFq17KpY3ce_w",
+                "description": "[Twitter]\nhttps://twitter.com/ourokronii\n\n[Thumbnail Art]\nhttps://x.com/cguanjen\n\n----------------------------------------------------------------------------\n\n[Viewer Rules]\nThank you for..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
@@ -438,14 +480,7 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": [
-            {
-                "video_id": "fzASNreJFPE",
-                "title": "【雑談】2025年！新年最初の雑談だ～！！【 雪花ラミィ /ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/fzASNreJFPE/hqdefault.jpg?v=67754dbd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB75fzcYMWvvb7IDYFPblmVHrNIKg",
-                "description": "感想は #らみらいぶ で呟いて頂けたら嬉しいです！\n\nサムネイルイラスト：氷菜さま\nhttps://x.com/hinakisara\nサムネイルデザイン：籠乃あさぎり様..."
-            }
-        ]
+        "videos": []
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
