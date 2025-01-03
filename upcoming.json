@@ -53,7 +53,15 @@
         "channel_url": "https://www.youtube.com/@CeresFauna",
         "channel_name": "Ceres Fauna Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/cBtserkb211p6If2OewgWd8oriIKRkfwTcP4_Vdq2YETG5TK9Q02v4cYmnLU03KBAJ0gcDha7oQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "OFIVy79pgWc",
+                "title": "Faunwell! 🌿💚",
+                "date": "2025/01/04 06:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/OFIVy79pgWc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBysIVdluONh-uPK3SZz8bKwSQGBw",
+                "description": "💚💚💚\n\n✿ Artist Credits ✿\nThumbnail:  https://x.com/SK_Jynx/status/1873762325054070903\nThank you so much!! 💚\n\n✿ Hashtags ✿\nLIVE: #faunline ART: #FineFaunart\n\n✿ Twitter ✿..."
+            }
+        ]
     },
     "@FUWAMOCOch": {
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
@@ -262,15 +270,7 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/bMBMxmB1YVDVazU-8KbB6JZqUHn4YzmFiQRWwEUHCeqm5REPW7HHQChC5xE6e36aqqnXgK4a",
-        "videos": [
-            {
-                "video_id": "QA-nRrseTZQ",
-                "title": "【 声マネキング 】やっべぇ１００点しかでねぇわ・・・【 桃鈴ねね / hololive 】",
-                "date": "2025/01/03 15:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/QA-nRrseTZQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8LG611t9_E7uuMp4ltpRATIykig",
-                "description": "ホロメンの声マネも好評いただいてありがとうござします！\n⸜♡⸝MemberShipに入ったらもっとねねを知れるﾖ\nhttps://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m..."
-            }
-        ]
+        "videos": []
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
