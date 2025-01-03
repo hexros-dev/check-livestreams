@@ -340,13 +340,6 @@
                 "date": "2025/01/03 20:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/TsXKqAwtqxk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDN67DLZYba6EeXEKpE6peH9FpW2g",
                 "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n+‥‥‥‥..."
-            },
-            {
-                "video_id": "d7juvrWBUhI",
-                "title": "【#最終回】お正月デトロイトやるしゅばあああああああああああああああああああああああ！！！！ / Detroit: Become Human【ホロライブ/大空スバル】",
-                "date": "2025/01/03 11:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/d7juvrWBUhI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8SBYig7lxyqFYJsyCjKK22LF2Vw",
-                "description": "本ゲームは著作権ガイドラインに則り配信を行っております。\n🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！..."
             }
         ]
     },
@@ -366,7 +359,15 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/3Wp-qrvmEyR4I4CcqrzbERgqjZkKWpptZTV9veusoh9ZeIdBTx7WfUB3uT8bnMp5ApebFERHZ9I",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Fcqk84DI8gA",
+                "title": "【Balatro】good morning motherfeathers【Pavolia Reine/hololiveID 2nd gen】",
+                "date": "2025/01/03 11:15:00",
+                "thumbnail": "https://i.ytimg.com/vi/Fcqk84DI8gA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCw2Ixn9SJ_ME2n_sttzu1aU9I0aQ",
+                "description": "Support me here (overseas): https://streamlabs.com/pavoliareinechhololive-id/tip\nSupport me here (Indonesia): https://sociabuzz.com/pavoliareine/tribe\n\nThis game is being streamed and monetized..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
