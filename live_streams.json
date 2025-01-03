@@ -45,14 +45,7 @@
         "channel_url": "https://www.youtube.com/@CeresFauna",
         "channel_name": "Ceres Fauna Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/cBtserkb211p6If2OewgWd8oriIKRkfwTcP4_Vdq2YETG5TK9Q02v4cYmnLU03KBAJ0gcDha7oQ",
-        "videos": [
-            {
-                "video_id": "My0Zm883qkY",
-                "title": "kirin of the puddle what is your wisdom",
-                "thumbnail": "https://i.ytimg.com/vi/My0Zm883qkY/hqdefault.jpg?v=67771135&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzYIR2BIBm6pL6oZEp9vdrxS4TCQ",
-                "description": "short chatting stream!\n\n✿ Hashtags ✿\nLIVE: #faunline ART: #FineFaunart\n\n✿ Twitter ✿\nhttps://twitter.com/ceresfauna\n@ceresfauna\n\n༻━━━༺ .⋅ ✧ ⋅. ༻━━━༺\n\n 【IRyS】..."
-            }
-        ]
+        "videos": []
     },
     "@FUWAMOCOch": {
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
@@ -76,7 +69,14 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/WO7ItKNmy6tW_NQ82g8c1y74CZSw6GsSdynsE5s2csuEok2fHRrAaGcBV3JJO-2BxEOXXA8lvw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "CY3oba4klGQ",
+                "title": "【街～運命の交差点～】完全初見！神サウンドノベルゲー2日目へGO！！ #3 【博衣こより/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/CY3oba4klGQ/hqdefault.jpg?v=677664e4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_O0swCv2pYS4dZcpQwQ6oG9eK2A",
+                "description": "「かまいたちの夜」の次弾サウンドノベルゲーム。言わずと知れた神ゲー「街～運命の交差点～」を初めてやってみる！\n🎁3周年記念グッズ販売..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -265,11 +265,24 @@
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
         "videos": []
     },
+    "@OtonoseKanade": {
+        "channel_url": "https://www.youtube.com/@OtonoseKanade",
+        "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+        "avatar_url": "https://yt3.googleusercontent.com/f31Dn0ou0ob-VCRtjZTXed4m22A-bdR9ljFw-0LPa9cPicx7gY3e1vdFkrGxgz0ubHD7vCD_",
+        "videos": []
+    },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/flg7E5XnFWh-NhGZOydJ2QHMpFdkBGbou0OcYUiYjKVisv8UsY-FiPLrTtexXVUqPmIyDvgC",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "cFRQ4fsWSzQ",
+                "title": "【Chained Together】Let Me Out With @holoen_gigimurin",
+                "thumbnail": "https://i.ytimg.com/vi/cFRQ4fsWSzQ/hqdefault.jpg?v=67772e50&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdHfgnNcJbqVRvD2JLDaKoWHBQjA",
+                "description": "This game is being streamed and monetized after confirming with Anegar Games.\n\n[Twitter]\nhttps://twitter.com/ourokronii\n\n[Thumbnail Art]\nhttps://x.com/PadoruFerii\n\n---------------------------------..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
