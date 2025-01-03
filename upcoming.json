@@ -229,7 +229,15 @@
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
         "channel_name": "Moona Hoshinova hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/w8ilN5YMfG3H6SX162Fkg71BaJdYUUoHOc91cryyfdvto94IpypSjvsLaMA1MyODr2V-w-ox-h8",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "BphRJQ9pVZQ",
+                "title": "【Tropico 6】What happen if i've become the President?【Moona Hoshinova】",
+                "date": "2025/01/03 22:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/BphRJQ9pVZQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBH34uBi0qJ0O2S9_tdAODKRSJqPg",
+                "description": "▼Moona Hoshinova「Multiverse」\nhttps://lnk.to/mh_Multiverse\n\n▼Moona Hoshinova「Nightmare」\nhttps://cover.lnk.to/AeV06H\n\nStreamlabs donation link here : https://streamlabs.com/moonahoshinova..."
+            }
+        ]
     },
     "@MoriCalliope": {
         "channel_url": "https://www.youtube.com/@MoriCalliope",
