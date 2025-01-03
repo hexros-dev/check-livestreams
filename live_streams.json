@@ -171,14 +171,7 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw",
-        "videos": [
-            {
-                "video_id": "XYOGJ0IbkOc",
-                "title": "【メグとばけもの #1】完全初見！少女が泣くと世界が終わる【水宮枢／FLOW GLOW】#hololiveDEV_IS",
-                "thumbnail": "https://i.ytimg.com/vi/XYOGJ0IbkOc/hqdefault.jpg?v=6777c9cc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9YnsSXks1x6zEx7Uw2qO2jX2-Gg",
-                "description": "みんなにおすすめしてもらったゲームを初心者なりに遊ぶぞー！！\n\n💙本ゲームは権利者に確認の上、配信・収益化を行なっております。Odencat..."
-            }
-        ]
+        "videos": []
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -420,6 +413,12 @@
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm",
+        "videos": []
+    },
+    "@holoen_gigimurin": {
+        "channel_url": "https://www.youtube.com/@holoen_gigimurin",
+        "channel_name": "Gigi Murin Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/AD2BC7S_QlNSZEHrM-pyRR0C9DOPnfK2OnuFjTK8F842WydS1HDMe6TvhESY9Er96Kt3yu0-fQ",
         "videos": []
     },
     "@holoen_raorapanthera": {
