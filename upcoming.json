@@ -59,7 +59,15 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Vl3YvuvXGNc",
+                "title": "【NEW YEAR Q&A CHATTING】you have questions, we (might) have answers 🐾  【FUWAMOCO】",
+                "date": "2025/01/05 07:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Vl3YvuvXGNc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPv67Sm0-nnBTttoub7WreqWQYQA",
+                "description": "let's answer a bajillion of your questions!!✨\nlovely illustration by @AliceMuyuki 💕\n\n⸜❤︎⸝ 𝔽𝕌𝕎𝔸𝕄𝕆ℂ𝕆 𝟙𝕤𝕥 𝔸𝕊𝕄ℝ 𝕍𝕠𝕚𝕔𝕖𝕡𝕒𝕔..."
+            }
+        ]
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -578,15 +586,7 @@
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
         "channel_name": "Choco Ch. 癒月ちょこ",
         "avatar_url": "https://yt3.googleusercontent.com/eB_qZXKL-jDhGyEstj9BvLL0qO_tHEMaIpkfp8M-qXYweZOpDm7uZgBwbWfxwAT7uKh_5tEj",
-        "videos": [
-            {
-                "video_id": "rDOQUrvxlA4",
-                "title": "【Dead by Daylight】ゲリラDBD⚡寝起き悪魔のおいかけっこ【ホロライブ/癒月ちょこ】",
-                "date": "2025/01/04 15:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/rDOQUrvxlA4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHfe5SwHj60UKz6bCu3cPnU6BkPA",
-                "description": "サブ垢→https://www.youtube.com/channel/UCp3tgHXw_HI0QMk1K8qh3gQ\n\nサムネイラスト： 春夏様@syunka_tunakan\nサムネ制作：さくらみこ@sakuramiko35\n\n\nOP＆ED動画：松賀りお..."
-            }
-        ]
+        "videos": []
     },
     "@dooby3d": {
         "channel_url": "https://www.youtube.com/@dooby3d",

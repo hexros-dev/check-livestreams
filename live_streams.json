@@ -287,14 +287,7 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/r_CG1_hNQIcnrbXOzIKbdq23Dt7lo_QGvdkVT_q1fzSOWPZxFyvlei5N4bJSeTUhwcn3JVmsh_I",
-        "videos": [
-            {
-                "video_id": "N-8MTRQ8deY",
-                "title": "【歌枠/KARAOKE】ゆるっと歌っていく～～！【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "thumbnail": "https://i.ytimg.com/vi/N-8MTRQ8deY/hqdefault.jpg?v=6778bb2f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvVfIPmQvQTBwmrf4IF4MdpJ7Bdw",
-                "description": "土曜日の午後はゆるっと過ごそう～\n\nこのライブに用いている一部の音源は、株式会社エクシングより提供されています。\n\nサムネイルイラスト：..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -423,7 +416,14 @@
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
         "channel_name": "Choco Ch. 癒月ちょこ",
         "avatar_url": "https://yt3.googleusercontent.com/eB_qZXKL-jDhGyEstj9BvLL0qO_tHEMaIpkfp8M-qXYweZOpDm7uZgBwbWfxwAT7uKh_5tEj",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "rDOQUrvxlA4",
+                "title": "【Dead by Daylight】ゲリラDBD⚡寝起き悪魔のおいかけっこ【ホロライブ/癒月ちょこ】",
+                "thumbnail": "https://i.ytimg.com/vi/rDOQUrvxlA4/hqdefault.jpg?v=6778eab3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHfe5SwHj60UKz6bCu3cPnU6BkPA",
+                "description": "サブ垢→https://www.youtube.com/channel/UCp3tgHXw_HI0QMk1K8qh3gQ\n\nサムネイラスト： 春夏様@syunka_tunakan\nサムネ制作：さくらみこ@sakuramiko35\n\n\nOP＆ED動画：松賀りお..."
+            }
+        ]
     },
     "@dooby3d": {
         "channel_url": "https://www.youtube.com/@dooby3d",
