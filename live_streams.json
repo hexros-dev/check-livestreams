@@ -285,14 +285,7 @@
         "channel_url": "https://www.youtube.com/@SakamataChloe",
         "channel_name": "Chloe ch. 沙花叉クロヱ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/_xNtPLKQcQxMTnOr4tAcGz0GEeESsi0bQX9mJEP3fx_50a8GUfUyOG1eyLIld2cCz6GvKABwpQ",
-        "videos": [
-            {
-                "video_id": "hRmo4aBkdao",
-                "title": "【 カメラ枠 】新春🎍運試しホロカ開封で自引きするぞぉおおおおおおお！！！！！！【ホロライブ/ 沙花叉クロヱ】",
-                "thumbnail": "https://i.ytimg.com/vi/hRmo4aBkdao/hqdefault.jpg?v=67794f45&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBg6yVMgL-DOQWyKrhu4wTdE7TSgA",
-                "description": "最初で最後のさかまた歴代人気グッズ復刻＋αが販売中です🎣よろちゃんです♡\nhttps://shop.hololivepro.com/products/sakamatachloe_alltimehitmerch_rereleased\n..."
-            }
-        ]
+        "videos": []
     },
     "@SakuraMiko": {
         "channel_url": "https://www.youtube.com/@SakuraMiko",
@@ -407,7 +400,14 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/LnJxTvrkHQFdFlyMY2HPtXVEwA7KHlUp8rNzBepF1GQfPQjUN9yKGIqSYOD31F22Ow9vSTn9",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ymVLQDTVv4s",
+                "title": "If she doesn't lock you up, does she really love you?【MiSide】",
+                "thumbnail": "https://i.ytimg.com/vi/ymVLQDTVv4s/hqdefault.jpg?v=67794b59&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCuF4hbJGibo-6VrSgboiFtcPILIA",
+                "description": "JUSTICE Half Anniversary MERCH!\n▼Official Online Shop▼\nEN: https://shop.hololivepro.com/products/hololiveen_justice_anhalfyear \n▼Geek Jack▼ \nEN: https://shop.geekjack.net/collections/hololi..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
