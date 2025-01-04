@@ -552,15 +552,7 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/-IdVo-vK7pr0VRjJDdza1-t1Edjce1Rd1R1hon_3SRIzuQ-XVBTWOJj-UfwYPp8y40KM197_y4o",
-        "videos": [
-            {
-                "video_id": "bKbbt3s8OMg",
-                "title": "【UNO】New year, same old addiction",
-                "date": "2025/01/04 15:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/bKbbt3s8OMg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdMI2uRvrDba_DMDCasdaAt2btAQ",
-                "description": "#hololive #holoid #vestiazeta  #vtuber \n\nThis game is being streamed and monetized after confirming with Ubisoft, which is based on the following Ubisoft Video Policy (https://www.ubisoft.com/en-us..."
-            }
-        ]
+        "videos": []
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
@@ -586,7 +578,15 @@
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
         "channel_name": "Choco Ch. 癒月ちょこ",
         "avatar_url": "https://yt3.googleusercontent.com/eB_qZXKL-jDhGyEstj9BvLL0qO_tHEMaIpkfp8M-qXYweZOpDm7uZgBwbWfxwAT7uKh_5tEj",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "rDOQUrvxlA4",
+                "title": "【Dead by Daylight】ゲリラDBD⚡寝起き悪魔のおいかけっこ【ホロライブ/癒月ちょこ】",
+                "date": "2025/01/04 15:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/rDOQUrvxlA4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHfe5SwHj60UKz6bCu3cPnU6BkPA",
+                "description": "サブ垢→https://www.youtube.com/channel/UCp3tgHXw_HI0QMk1K8qh3gQ\n\nサムネイラスト： 春夏様@syunka_tunakan\nサムネ制作：さくらみこ@sakuramiko35\n\n\nOP＆ED動画：松賀りお..."
+            }
+        ]
     },
     "@dooby3d": {
         "channel_url": "https://www.youtube.com/@dooby3d",
@@ -604,13 +604,29 @@
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "vcbkinWHPTM",
+                "title": "【KARA-REWIND】December Unarchived Karaoke ~! 💄",
+                "date": "2025/01/04 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/vcbkinWHPTM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRH17zV8yep4kCK2JVFCBFnmBwvg",
+                "description": "LETS REWIND! A rebroadcast of ALL unarchived karaoke stream's from December! ♡\n▬▬ι════════ﺤ\nMerch!!! For JUSTICE!!!!!! HUZZAH! \n ▼Official Online Shop▼\n JP: https://sho..."
+            }
+        ]
     },
     "@holoen_gigimurin": {
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/AD2BC7S_QlNSZEHrM-pyRR0C9DOPnfK2OnuFjTK8F842WydS1HDMe6TvhESY9Er96Kt3yu0-fQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "237bvY0YQZ4",
+                "title": "【COOK, SERVE, DELICIOUS! 3?!】big cat cooking skills + gremlin driving skills = #1 food truck",
+                "date": "2025/01/05 04:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/237bvY0YQZ4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAo3MpOQkypUny9bt45wylTC6N8fg",
+                "description": "thumbnail: https://x.com/underdatv/status/1874680099515322860\n\nThis game is being streamed and monetized after confirming with Vertigo Gaming Inc.\n\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
