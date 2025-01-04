@@ -35,7 +35,15 @@
         "channel_url": "https://www.youtube.com/@AmaneKanata",
         "channel_name": "Kanata Ch. Kanata Amane",
         "avatar_url": "https://yt3.googleusercontent.com/e5wX9w1xSFUjaUdyhFugYZKzDZ_KLTLWBgdtRohHQDu0pshH867pyOv6gLGuqkqy5Ik8bJ9MSZU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "TDN4maRTbBA",
+                "title": "【配信予定地】かなたそなにする【天音かなた/ホロライブ】",
+                "date": "2025/01/04 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/TDN4maRTbBA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAsJzr4Q2fQVJBNbC1ANi4oXLAQpg",
+                "description": "なにする？\n\n---------------------------------------------------------------------------------\n\n🌌 天音かなた 1st フルアルバム\n　 「Unknown DIVA」全国流通にて発売中!!..."
+            }
+        ]
     },
     "@AnyaMelfissa": {
         "channel_url": "https://www.youtube.com/@AnyaMelfissa",
@@ -99,13 +107,6 @@
                 "date": "2025/01/05 08:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/PkyE7q_6FMw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2Wrd2gzP2gQK7Q5pMoz7bDVVkag",
                 "description": "2だけどストーリーは独立してるので完全初見でも楽しい！難易度オリジナルで頑張ってます！ネタバレ＆指示コメントはNGだよ！\n🎁3周年記念グ..."
-            },
-            {
-                "video_id": "f_NirQqJI8s",
-                "title": "【麻雀格闘倶楽部Sp】お正月だ！麻雀だ！視聴者参加型で1位獲っていくわね🀄🔥【博衣こより/ホロライブ】",
-                "date": "2025/01/04 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/f_NirQqJI8s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhaB5z-AokxqOzhSSXNWkZB5Nnhg",
-                "description": "#麻雀格闘俱楽部sp 様から正月案件いただきましたー！！普通に視聴者参加型するので！新年初打ちしよう！🀄✨\n#PR\n提供： 麻雀格闘倶楽部Sp..."
             }
         ]
     },
@@ -329,15 +330,7 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/G92yBEhkf9R2mEpayuPvhwlA42tYAPOcNi2r77JeL7ic0ETS_FvTkwkBHjvR6iCqUk7TOlpROQ",
-        "videos": [
-            {
-                "video_id": "qY4db_ngr1g",
-                "title": "【 ドラクエ3リメイク 】HD2Dの世界を堪能するぞ～～！ #08【 猫又おかゆ/ホロライブ 】※ネタバレ含む",
-                "date": "2025/01/04 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/qY4db_ngr1g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjL5FzOEd0ryewyQQY_h-mUX09UA",
-                "description": "-\n\n#01 のアーカイブはこちら😼✦\nhttps://youtube.com/live/Ru2SoKRLbDE\n\nイラスト/ゴミョンさん https://x.com/Deadnooodles シーモんさん https://x.com/seamond\n\n本動画の..."
-            }
-        ]
+        "videos": []
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -562,12 +555,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/-IdVo-vK7pr0VRjJDdza1-t1Edjce1Rd1R1hon_3SRIzuQ-XVBTWOJj-UfwYPp8y40KM197_y4o",
         "videos": []
     },
-    "@WatsonAmelia": {
-        "channel_url": "https://www.youtube.com/@WatsonAmelia",
-        "channel_name": "Watson Amelia Ch. hololive-EN",
-        "avatar_url": "https://yt3.googleusercontent.com/RZ4Fp3L6_zyq6YA7s5WnH8-22iezMLwdJhtkBgs_EAb06mvMCnF59JKMNu9YPCqb7nhaeXMdPvY",
-        "videos": []
-    },
     "@YukihanaLamy": {
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
@@ -604,15 +591,7 @@
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm",
-        "videos": [
-            {
-                "video_id": "vcbkinWHPTM",
-                "title": "【KARA-REWIND】December Unarchived Karaoke ~! 💄",
-                "date": "2025/01/04 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/vcbkinWHPTM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRH17zV8yep4kCK2JVFCBFnmBwvg",
-                "description": "LETS REWIND! A rebroadcast of ALL unarchived karaoke stream's from December! ♡\n▬▬ι════════ﺤ\nMerch!!! For JUSTICE!!!!!! HUZZAH! \n ▼Official Online Shop▼\n JP: https://sho..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_gigimurin": {
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
@@ -652,11 +631,11 @@
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_n1iH9fDDGm8RHUzoB-XDfnTEwhlgBcP3OLjapDqHYoYVw",
         "videos": [
             {
-                "video_id": "CCV4TDo3mkY",
-                "title": "【＃兎田ぺこら新衣装お披露目】2025年最初の新衣装！めちゃカワ衣装お披露目する！ぺこ！【ホロライブ/兎田ぺこら】",
-                "date": "2025/01/04 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/CCV4TDo3mkY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvHWKGHp9jvBGjWXGA8_lLkHz5XA",
-                "description": "ﾄﾞｷﾄﾞｷ\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ #ぺこらいぶ でツイート🎶..."
+                "video_id": "eI_lJJYOlTQ",
+                "title": "【FGO】福袋引かせてくれえええええええええええええええ！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
+                "date": "2025/01/04 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/eI_lJJYOlTQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD39NRqcLsxw_USHc7KMVsMBUHoVg",
+                "description": "いいですか？\n\nサムネイラスト：()さん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ..."
             }
         ]
     },
