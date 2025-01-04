@@ -131,27 +131,13 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/qufYdKqJ9VaUNhkP3_Wv0RranzAiwtvtOoxI_NRNMP6pCFa3lMnUKXRPd7EL4x-5OlDFp1BSpFE",
-        "videos": [
-            {
-                "video_id": "cQHh59ZkSpg",
-                "title": "【DON'T SCREAM】笑虎に見守ってもらえばいける!!!!!!【ホロライブ DEV_IS 響咲リオナ 虎金妃笑虎】",
-                "thumbnail": "https://i.ytimg.com/vi/cQHh59ZkSpg/hqdefault.jpg?v=67792acb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDuQbmiLypG-NwB3xmBlPTaYqIeQ",
-                "description": "本ゲームは Digital Cybercherries に確認の上配信・収益化を行なっております。\nhttps://store.steampowered.com/app/2497900/DONT_SCREAM/\n\nhololive DEV_IS からデビューし..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/45G_tYF-zPHIIC9q8ZCeXSabbQCOtGgNDuX6mJbf7wyeor94YTeqOmDC3OZ3Wl89I4xq8Fn3nQ",
-        "videos": [
-            {
-                "video_id": "hT-zzdxC1b8",
-                "title": "【同時視聴】彼らの最後を見届ける覚悟　ジョジョの奇妙な冒険　黄金の風（5部）同時視聴！（33~39話）【儒烏風亭らでん 】",
-                "thumbnail": "https://i.ytimg.com/vi/hT-zzdxC1b8/hqdefault.jpg?v=6778e2cd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjoWX4GDsd-FdHvcT-Xd0l6hU7gg",
-                "description": "同時視聴するアニメ\nジョジョの奇妙な冒険　黄金の風（33~39話）\n\n\n同時視聴の方法\n①それぞれでアニメを用意（映像サブスクサービスやレンタル..."
-            }
-        ]
+        "videos": []
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -176,6 +162,12 @@
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
         "channel_name": "Kobo Kanaeru Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/Zi6DMbqTrk8jpNKnJgbw_NxGnggsKX1omQnPeHxrZTmrVmon7zfmg5Q4XbqsHO9AMidW49zCPw",
+        "videos": []
+    },
+    "@KoganeiNiko": {
+        "channel_url": "https://www.youtube.com/@KoganeiNiko",
+        "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+        "avatar_url": "https://yt3.googleusercontent.com/CCOEFxhq858A_1QNu0VF9Y5vvXm9V4l7klSdL4FfMsOAAnVxoiAcxAlQO9RV0lCib6Fi_EkVrA",
         "videos": []
     },
     "@KosekiBijou": {
@@ -321,7 +313,14 @@
         "channel_url": "https://www.youtube.com/@SakamataChloe",
         "channel_name": "Chloe ch. 沙花叉クロヱ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/_xNtPLKQcQxMTnOr4tAcGz0GEeESsi0bQX9mJEP3fx_50a8GUfUyOG1eyLIld2cCz6GvKABwpQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "hRmo4aBkdao",
+                "title": "【 カメラ枠 】新春🎍運試しホロカ開封で自引きするぞぉおおおおおおお！！！！！！【ホロライブ/ 沙花叉クロヱ】",
+                "thumbnail": "https://i.ytimg.com/vi/hRmo4aBkdao/hqdefault.jpg?v=67794f45&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBg6yVMgL-DOQWyKrhu4wTdE7TSgA",
+                "description": "最初で最後のさかまた歴代人気グッズ復刻＋αが販売中です🎣よろちゃんです♡\nhttps://shop.hololivepro.com/products/sakamatachloe_alltimehitmerch_rereleased\n..."
+            }
+        ]
     },
     "@SakuraMiko": {
         "channel_url": "https://www.youtube.com/@SakuraMiko",
