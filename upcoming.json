@@ -188,13 +188,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/CCOEFxhq858A_1QNu0VF9Y5vvXm9V4l7klSdL4FfMsOAAnVxoiAcxAlQO9RV0lCib6Fi_EkVrA",
         "videos": [
             {
-                "video_id": "9LOjeIErpnE",
-                "title": "【Visage #2】下手くそながら必死に足掻く虎、可愛くないっすか?【虎金妃笑虎】",
-                "date": "2025/01/04 10:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/9LOjeIErpnE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCeWhA8BDGQwcZAnUMpMOoV-JPB4Q",
-                "description": "本ゲームは©SadSquare Studio Inc. 2015, 2018.の確認を得た上で配信・収益化を行なっております\n\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n\n虎金妃笑虎..."
-            },
-            {
                 "video_id": "ex_F1Ez6xMI",
                 "title": "ほんとにすみません！朝活延期します！！！m(__)m【虎金妃笑虎】",
                 "date": "2025/01/05 07:00:00",
@@ -307,7 +300,15 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/KE2NpU0fd43SXO-G46SSyPOEgyjHW7FnU_SAly2t5URFS4X-I85ILTAOzhrSZ6_3_jU4d6IjRvY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "SfDGCiMxIRo",
+                "title": "【#ヘブバン】Angel Beats! コラボ第3弾！関根！？新規イベスト＆待ってました新ガチャ！※ネタバレあり【尾丸ポルカ/ホロライブ】",
+                "date": "2025/01/04 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/SfDGCiMxIRo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDo8unOoJ4gKULqfi7jCN5_dIM4XQ",
+                "description": "AB!コラボもついに第3弾！？\n⁠#ヘブバン #ヘブバンAngelBeatsコラボ\n\n ■Angel Beats!コラボ第3弾特設サイト\nhttps://heaven-burns-red.com/collab-angelbeats/\n ■Angel..."
+            }
+        ]
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
@@ -375,15 +376,7 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZlovVsPyh8NgS37S4dfONiCBySiboGPbT9cYuirb8JM3JhSnqlpJk-8SQUEA7jPfqXpMvjaa",
-        "videos": [
-            {
-                "video_id": "7WaL3cHMaV4",
-                "title": "Helping Fund Your Gacha Addiction【Payday 2】",
-                "date": "2025/01/04 10:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/7WaL3cHMaV4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVYbTPrc6FPMxPVH7r8OtFmYYyog",
-                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n\n==============..."
-            }
-        ]
+        "videos": []
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
