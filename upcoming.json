@@ -168,6 +168,13 @@
         "avatar_url": "https://yt3.googleusercontent.com/0NYd0NnC9mCjdu6t_i-JylPkwpz-o3IZ1eLqgG4MdXS-KUPrP36e71UysuoV9eZA1-TRG3gZ",
         "videos": [
             {
+                "video_id": "LI8EAQCkWHc",
+                "title": "【雑談】スーパーチャット読みます！【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "date": "2025/01/04 11:05:00",
+                "thumbnail": "https://i.ytimg.com/vi/LI8EAQCkWHc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWJSDOiPcqTiA5MsPRfG-D-9nLMQ",
+                "description": "サムネイルの素敵なイラスト　すぴか🥐超超超超ころねすきーさん　https://x.com/speaker_craft\n✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧..."
+            },
+            {
                 "video_id": "z9kZcG-0U-g",
                 "title": "【MiSide：ミサイド】美少女ホラー⁉どんなジャンルやねん！【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
                 "date": "2025/01/04 19:00:00",
@@ -224,6 +231,12 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/bMBMxmB1YVDVazU-8KbB6JZqUHn4YzmFiQRWwEUHCeqm5REPW7HHQChC5xE6e36aqqnXgK4a",
+        "videos": []
+    },
+    "@MoonaHoshinova": {
+        "channel_url": "https://www.youtube.com/@MoonaHoshinova",
+        "channel_name": "Moona Hoshinova hololive-ID",
+        "avatar_url": "https://yt3.googleusercontent.com/w8ilN5YMfG3H6SX162Fkg71BaJdYUUoHOc91cryyfdvto94IpypSjvsLaMA1MyODr2V-w-ox-h8",
         "videos": []
     },
     "@MoriCalliope": {
@@ -364,7 +377,15 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/gxXHmXJq_kkZ0bvTmz7R1deyOAV44zZr2keaF0ojSq7MeiOGLSzFTCoYgYR4PGDWTCoLR7eK",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "FzOkSyYnTCA",
+                "title": "【#ホロ五目並べ最弱王 】ホロライブ五目並べ最弱王決定戦🎍抽選会！！！！【ホロライブ/さくらみこ】",
+                "date": "2025/01/04 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/FzOkSyYnTCA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDo5tE8Tjtv5DHhfIAFEJAj-Yfq8w",
+                "description": "１月５日(日)開催の #ホロ五目並べ最弱王　参加者２７名のトーナメント抽選会！🎍\n\n🌸 ￤最新情報\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣..."
+            }
+        ]
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
@@ -400,7 +421,15 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "bh86IDwjZR8",
+                "title": "【3.0 Reveal】new year new me, also let's give out fortunes to EN girls 🙂‍↕️ #kfp #キアライブ",
+                "date": "2025/01/04 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/bh86IDwjZR8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBevFQVLwII2CV08Evp3essQhBXig",
+                "description": "stream my new song, MIRAGE!✨https://cover.lnk.to/DQSp3S\n👀 Takanashi Kiara 1st Album \"Point of View\" 👀\nStreaming: https://cover.lnk.to/PointofView\n\n🏵️[Twitter] 🏵️\nhttps://twitter.c..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
