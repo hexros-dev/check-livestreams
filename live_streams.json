@@ -83,14 +83,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/WO7ItKNmy6tW_NQ82g8c1y74CZSw6GsSdynsE5s2csuEok2fHRrAaGcBV3JJO-2BxEOXXA8lvw",
-        "videos": [
-            {
-                "video_id": "Vtrvk0RP2RI",
-                "title": "【五目並べ】青くんが勝たないと終われまテン！！！勝てたらご褒美！！！？ #あおこよ 【火威青・博衣こより/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/Vtrvk0RP2RI/hqdefault.jpg?v=677a6534&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcdA204aASsQWm61mCqSYZnzXBAA",
-                "description": "こよが10勝するまでに @HiodoshiAo  くんが1勝できたらご褒美🎁ボコボコにします💗こよが20連勝したら逆ご褒美もらう💗\n🎁3周年記念グッズ販売中..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -508,6 +501,12 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/IzJcA0QlV4JwWH9yXi7Voa3359fHUB182xd_xxs92xd_3kuw_pa45dKeyQ9hvKl_1OhwbT6M3g",
+        "videos": []
+    },
+    "@mikenekoko": {
+        "channel_url": "https://www.youtube.com/@mikenekoko",
+        "channel_name": "みけねこch",
+        "avatar_url": "https://yt3.googleusercontent.com/xp-Gpx4379mUVBgIIKKyABkJZAEZhBdLIL2JsgTiEpvfN7G0J4NHQ2uI3ycywuNKAlXJOSmsbQ",
         "videos": []
     },
     "@usadapekora": {
