@@ -51,14 +51,7 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag",
-        "videos": [
-            {
-                "video_id": "Vl3YvuvXGNc",
-                "title": "【NEW YEAR Q&A CHATTING】you have questions, we (might) have answers 🐾  【FUWAMOCO】",
-                "thumbnail": "https://i.ytimg.com/vi/Vl3YvuvXGNc/hqdefault.jpg?v=6778f2d9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPv67Sm0-nnBTttoub7WreqWQYQA",
-                "description": "let's answer a bajillion of your questions!!✨\nlovely illustration by @AliceMuyuki 💕\n\n⸜❤︎⸝ 𝔽𝕌𝕎𝔸𝕄𝕆ℂ𝕆 𝟙𝕤𝕥 𝔸𝕊𝕄ℝ 𝕍𝕠𝕚𝕔𝕖𝕡𝕒𝕔..."
-            }
-        ]
+        "videos": []
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -161,6 +154,12 @@
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
         "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/CCOEFxhq858A_1QNu0VF9Y5vvXm9V4l7klSdL4FfMsOAAnVxoiAcxAlQO9RV0lCib6Fi_EkVrA",
+        "videos": []
+    },
+    "@KosekiBijou": {
+        "channel_url": "https://www.youtube.com/@KosekiBijou",
+        "channel_name": "Koseki Bijou Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg",
         "videos": []
     },
     "@KureijiOllie": {
@@ -323,14 +322,7 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": [
-            {
-                "video_id": "2Y4qjQWQCVI",
-                "title": "【朝活雑談】おはまっするさんでー💪🌞💪年末ハッスルしすぎて年始は風邪ひき寝正月太郎だああTT【白銀ノエル/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/2Y4qjQWQCVI/hqdefault.jpg?v=6779461d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0tkGXyEzEdXezrYTuh7ro1K-JoA",
-                "description": "【1/6(月)18時まで！！】\n生誕グッズも好評発売中🎄✨→ https://shop.hololivepro.com/products/shiroganenoel_bd2024\n\n☔相合傘ASMR販売中☔→ https://shop.hololivepro.com/..."
-            }
-        ]
+        "videos": []
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -390,7 +382,14 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "fNgfQMfcd_I",
+                "title": "【龍が如く0 誓いの場所】#03｜第四章～桐生ちゃん＆真島の兄さんで新年もブチかましていくぞッ！！※配信内容にネタバレを含みます【 雪花ラミィ /ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/fNgfQMfcd_I/hqdefault.jpg?v=6778e336&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4D1R2QFUWo5v3Xc44bbeAAYtDdQ",
+                "description": "この動画およびライブは、コンテンツ利用許諾契約に基づいて配信しています。\n©SEGA\n\n感想は #らみらいぶ で呟いて頂けたら嬉しいです！\n\nサムネ..."
+            }
+        ]
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
