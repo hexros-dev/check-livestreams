@@ -203,12 +203,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/XDGhKwPZcT16Ppg2gQmLHEIYRhw9sY4rqG0HWbeCH68LHkhlVQrrFgxd5hWUuMb2nLfDOhu6",
         "videos": []
     },
-    "@NanashiMumei": {
-        "channel_url": "https://www.youtube.com/@NanashiMumei",
-        "channel_name": "Nanashi Mumei Ch. hololive-EN",
-        "avatar_url": "https://yt3.googleusercontent.com/owZmjfnG_SGVmfkl3eS7Lv47pGvIr2SrS36imh6O8i0H3Wy41fYKD26U7wnyRB627fXoq0aQ0Q",
-        "videos": []
-    },
     "@NatsuiroMatsuri": {
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
@@ -291,7 +285,14 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/gxXHmXJq_kkZ0bvTmz7R1deyOAV44zZr2keaF0ojSq7MeiOGLSzFTCoYgYR4PGDWTCoLR7eK",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "a08PClSQWMs",
+                "title": "【#ホロ五目並べ最弱王 】ホロライブ五目並べ最弱王決定戦🎍予選【ホロライブ/さくらみこ】",
+                "thumbnail": "https://i.ytimg.com/vi/a08PClSQWMs/hqdefault.jpg?v=67795373&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXdY9fGRuZbhh-y4qTTaWnFcS__w",
+                "description": "ハッシュタグ：#ホロ五目並べ最弱王\n\n主催：さくらみこ\nサポート： @OozoraSubaru  \n\n🎍予選15:00~ 本戦21:00~🎍\n本戦はこちら https://www.youtube.com/live/2aOA-Y..."
+            }
+        ]
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
