@@ -90,7 +90,15 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/CTvZ3dUO8LocQMKbGkjUPysC524gC4asm5roilZmzhpBpWAWpLrhpRv0SpEaJeWm1oVP5v0g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "et6Fgr51dks",
+                "title": "【 魔界塔士Sa・Ga 】レトロゲーム『魔界塔士サ・ガ』で遊んでいくのら！！！＃１【姫森ルーナ/ホロライブ】",
+                "date": "2025/01/06 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/et6Fgr51dks/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOD1GAy2SFGJMc2nWqcMPehXQXqQ",
+                "description": "💓ルーナ姫の公式LINEスタンプが1/4から販売開始💓\nhttps://line.me/S/sticker/29089910\n\nサムネイラスト\n　昼野いすさん　https://twitter.com/tree_isu\n\n魔界塔士サ..."
+            }
+        ]
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -277,15 +285,7 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/f4uYWHJxiGwyXm8NUlm818N1MRnywtgL6wM8JdWqWsKBzI7v1eg8dxDWG7igkWuukUSiufydqPg",
-        "videos": [
-            {
-                "video_id": "xHPDSpTfnUw",
-                "title": "【Random】 WHAT IS SLEEP HAHAHA",
-                "date": "2025/01/05 22:35:00",
-                "thumbnail": "https://i.ytimg.com/vi/xHPDSpTfnUw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDkLsd0K-yXbKVmTe2VVCjdYirKg",
-                "description": "【Thumbnail Art】\n\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\n__________________________________________________________________________________________\n\nEndcard Art by Me!\nEndcard..."
-            }
-        ]
+        "videos": []
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
