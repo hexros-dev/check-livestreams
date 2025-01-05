@@ -203,6 +203,12 @@
         "avatar_url": "https://yt3.googleusercontent.com/XDGhKwPZcT16Ppg2gQmLHEIYRhw9sY4rqG0HWbeCH68LHkhlVQrrFgxd5hWUuMb2nLfDOhu6",
         "videos": []
     },
+    "@NanashiMumei": {
+        "channel_url": "https://www.youtube.com/@NanashiMumei",
+        "channel_name": "Nanashi Mumei Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/owZmjfnG_SGVmfkl3eS7Lv47pGvIr2SrS36imh6O8i0H3Wy41fYKD26U7wnyRB627fXoq0aQ0Q",
+        "videos": []
+    },
     "@NatsuiroMatsuri": {
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
@@ -293,12 +299,6 @@
                 "description": "ハッシュタグ：#ホロ五目並べ最弱王\n\n主催：さくらみこ\nサポート： @OozoraSubaru  \n\n🎍予選15:00~ 本戦21:00~🎍\n本戦はこちら https://www.youtube.com/live/2aOA-Y..."
             }
         ]
-    },
-    "@ShioriNovella": {
-        "channel_url": "https://www.youtube.com/@ShioriNovella",
-        "channel_name": "Shiori Novella Ch. hololive-EN",
-        "avatar_url": "https://yt3.googleusercontent.com/ZlovVsPyh8NgS37S4dfONiCBySiboGPbT9cYuirb8JM3JhSnqlpJk-8SQUEA7jPfqXpMvjaa",
-        "videos": []
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
@@ -437,12 +437,6 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_n1iH9fDDGm8RHUzoB-XDfnTEwhlgBcP3OLjapDqHYoYVw",
-        "videos": []
-    },
-    "@結城さくな": {
-        "channel_url": "https://www.youtube.com/@結城さくな",
-        "channel_name": "Sakuna Ch. 結城さくな",
-        "avatar_url": "https://yt3.googleusercontent.com/t9CcBvjTjs5D_sLZjtGkcfaTyiZCrx0nyOf7ekj3Fut9gZD76G00x12TK8Jg4czmBWjXcUtP9yE",
         "videos": []
     }
 }
