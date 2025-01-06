@@ -135,14 +135,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/0NYd0NnC9mCjdu6t_i-JylPkwpz-o3IZ1eLqgG4MdXS-KUPrP36e71UysuoV9eZA1-TRG3gZ",
-        "videos": [
-            {
-                "video_id": "DVXqH_SwBkk",
-                "title": "【五目並べ】最強になるために！弱いなんて言わせへん！【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "thumbnail": "https://i.ytimg.com/vi/DVXqH_SwBkk/hqdefault.jpg?v=677b127a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0C5F_nqt3hdoCBOLk4ZezzD1szw",
-                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\nサムネイルの素敵なイラスト　山の水雲さん　https://x.com/mt_mozuku..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -232,7 +225,14 @@
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
         "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/JDCIBWj11TgjY2Uyba_efZ0n5hzjysMB9GxkvHGkIN_sfFQJR5mx3iVPqgJ96IPcYjZpCLsb",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "BR9uPUIP3-M",
+                "title": "NO ONE MOURNS THE WICKED! W/ @holoen_erbloodflame | Wicked Watchalong",
+                "thumbnail": "https://i.ytimg.com/vi/BR9uPUIP3-M/hqdefault.jpg?v=677adf77&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-6ZxSK2J5B2-dzVdfYvieFrbxBQ",
+                "description": "∴∴♪ *Watching here!* ♪∴∴\nhttps://www.youtube.com/watch?v=zQCJQuingr8\n\n∴∴♪ * Check Out My First EP Here!* ♪∴∴\nhttps://cover.lnk.to/esLvqA\n\n∴∴♪ * Check Out My Music..."
+            }
+        ]
     },
     "@NinomaeInanis": {
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
