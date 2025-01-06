@@ -140,7 +140,15 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/qufYdKqJ9VaUNhkP3_Wv0RranzAiwtvtOoxI_NRNMP6pCFa3lMnUKXRPd7EL4x-5OlDFp1BSpFE",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "CXpIO57OqUE",
+                "title": "【マリオカート8DX】ホロ新春 ゲーム祭２０２５に向けて特訓だああ！！【ホロライブ DEV_IS 響咲リオナ】",
+                "date": "2025/01/08 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/CXpIO57OqUE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQlWmNDQbToA4x8Br2nBnOEcoQVw",
+                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n視聴者参加型ルール♡\nレースごとに参加者さん入れ替えでお願い..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -487,20 +495,6 @@
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm",
         "videos": []
-    },
-    "@holoen_gigimurin": {
-        "channel_url": "https://www.youtube.com/@holoen_gigimurin",
-        "channel_name": "Gigi Murin Ch. hololive-EN",
-        "avatar_url": "https://yt3.googleusercontent.com/AD2BC7S_QlNSZEHrM-pyRR0C9DOPnfK2OnuFjTK8F842WydS1HDMe6TvhESY9Er96Kt3yu0-fQ",
-        "videos": [
-            {
-                "video_id": "l9Jrsq5Pmq4",
-                "title": "【FALLOUT: NEW VEGAS】60 hours in it's time to start the DLC",
-                "date": "2025/01/07 05:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/l9Jrsq5Pmq4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgkegUiCr4e-7yxUv9UcEpjopfUQ",
-                "description": "thumbnail: https://x.com/wugedou579/status/1875941183907930161\n\nThis game's use of streaming is being consented by ©2010 Bethesda Softworks LLC. All Rights Reserved.\n------------------------------..."
-            }
-        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
