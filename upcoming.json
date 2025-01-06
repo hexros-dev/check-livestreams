@@ -230,15 +230,7 @@
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
         "channel_name": "Moona Hoshinova hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/w8ilN5YMfG3H6SX162Fkg71BaJdYUUoHOc91cryyfdvto94IpypSjvsLaMA1MyODr2V-w-ox-h8",
-        "videos": [
-            {
-                "video_id": "o8dyfX74bC0",
-                "title": "【PagiMoona】Selamat Pagi!!!【Moona Hoshinova】",
-                "date": "2025/01/06 09:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/o8dyfX74bC0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBa4TziG55BFDjNAoADn7OJqJWBpw",
-                "description": "Streamlabs donation link here : https://streamlabs.com/moonahoshinovahololive-id/tip\nSociaBuzz donation link here : https://sociabuzz.com/moonahoshinova/tribe\n======================================..."
-            }
-        ]
+        "videos": []
     },
     "@MoriCalliope": {
         "channel_url": "https://www.youtube.com/@MoriCalliope",
@@ -376,7 +368,15 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZlovVsPyh8NgS37S4dfONiCBySiboGPbT9cYuirb8JM3JhSnqlpJk-8SQUEA7jPfqXpMvjaa",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "e_WVWOb-WVA",
+                "title": "Lego Tree Build But I'm Under Water【Handcam】",
+                "date": "2025/01/07 03:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/e_WVWOb-WVA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBab0P-hOQIiXR8324u21L1PGGfbQ",
+                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n\n==============..."
+            }
+        ]
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
