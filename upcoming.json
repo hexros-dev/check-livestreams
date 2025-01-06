@@ -47,7 +47,15 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "AAoYmsrVqBk",
+                "title": "【M.M.M.】Monday Malam Malas : We're back malasing again【Ayunda Risu】",
+                "date": "2025/01/06 18:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/AAoYmsrVqBk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCylbupUKD023SPJLRRMNY608jyBg",
+                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\n==================\n\n【LOCAL DONATION LINK HERE】:\nhttps://sociabuzz.com/ayundarisu/tribe\n\n【Streamlabs donation link here】:\nhttps://str..."
+            }
+        ]
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -338,12 +346,6 @@
             }
         ]
     },
-    "@NinomaeInanis": {
-        "channel_url": "https://www.youtube.com/@NinomaeInanis",
-        "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
-        "avatar_url": "https://yt3.googleusercontent.com/f4uYWHJxiGwyXm8NUlm818N1MRnywtgL6wM8JdWqWsKBzI7v1eg8dxDWG7igkWuukUSiufydqPg",
-        "videos": []
-    },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
@@ -560,7 +562,15 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/LnJxTvrkHQFdFlyMY2HPtXVEwA7KHlUp8rNzBepF1GQfPQjUN9yKGIqSYOD31F22Ow9vSTn9",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "QFv4jkKzsDw",
+                "title": "【Elden Ring】A NEW JOURNEY BEGINS! - It's finally time... (SPOILERS)",
+                "date": "2025/01/07 03:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/QFv4jkKzsDw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkdXfQ5SoibE68fkNFPMxXFr-xCg",
+                "description": "JUSTICE Half Anniversary MERCH!\n▼Official Online Shop▼\nEN: https://shop.hololivepro.com/products/hololiveen_justice_anhalfyear \n▼Geek Jack▼ \nEN: https://shop.geekjack.net/collections/hololi..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
