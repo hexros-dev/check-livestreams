@@ -99,7 +99,14 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/cDSMiVy3Xa49Ci_YyouVNzfCwVXKRYmOeywWQ_UFKzvAp6tvyeMtXMyzWzQ2u8ft4EENsJKt7A",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "dz6VgIIbRS4",
+                "title": "【Alien Isolation】You Have My Sympathies",
+                "thumbnail": "https://i.ytimg.com/vi/dz6VgIIbRS4/hqdefault.jpg?v=677c1aff&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJM5r7GwjFn1XFm-ZmgOXBAlCAQA",
+                "description": "there's too many of them D: \n\nThis game is being streamed and monetized with permission and under license.\n©SEGA\n\n#hololiveenglish  #ホロライブ \n＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -160,14 +167,7 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg",
-        "videos": [
-            {
-                "video_id": "ZLWkit0W-G4",
-                "title": "【BLOODBORNE】BIBOO'S FIRST BLOODBORNE",
-                "thumbnail": "https://i.ytimg.com/vi/ZLWkit0W-G4/hqdefault.jpg?v=677beba3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCrP2AiOkVU0ennG4cCBX88pxyZuQ",
-                "description": "YEAHHHHHHHHHHHHHHHHHHHHHHHHHH\n\nNEW MV RELEASE: https://youtu.be/1ulTgWcWWRU\n\nThumbnail art: @Denceeeeel22 Thank you!!\nhttps://x.com/Denceeeeel22/status/1870698776069013851\n\n====================..."
-            }
-        ]
+        "videos": []
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -414,12 +414,6 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/LnJxTvrkHQFdFlyMY2HPtXVEwA7KHlUp8rNzBepF1GQfPQjUN9yKGIqSYOD31F22Ow9vSTn9",
-        "videos": []
-    },
-    "@holoen_erbloodflame": {
-        "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
-        "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
-        "avatar_url": "https://yt3.googleusercontent.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm",
         "videos": []
     },
     "@holoen_gigimurin": {
