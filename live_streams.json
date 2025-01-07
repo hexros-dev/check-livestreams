@@ -63,14 +63,7 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/9FFCT3cu9FxyLJUUFovpPI7WRj0I7_KuApwkEaLsD0NHVVL2OPTtGn8Qga5YFbeC_47-MoEXrA",
-        "videos": [
-            {
-                "video_id": "mXrS-ZEpe14",
-                "title": "≪Just Chatting≫ I can't believe it's already the 7th of Jan.",
-                "thumbnail": "https://i.ytimg.com/vi/mXrS-ZEpe14/hqdefault.jpg?v=677bd49c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKFGLBZsutHxKKsx7ULh5BxK8tkA",
-                "description": "And tomorrow's 8th of Jan. We might as well just be dead at this point. \n\nThumbnail: https://x.com/gioia297th/status/1805348265820393864\n\n#telebae #hololiveenglish \n\n««≪ °◇◆◇° ≫..."
-            }
-        ]
+        "videos": []
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -192,7 +185,14 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "XURq5G0CC-I",
+                "title": "【マリオカート8DX】ひたすら練習 参加型は後半〜【水宮枢／FLOW GLOW】#hololiveDEV_IS",
+                "thumbnail": "https://i.ytimg.com/vi/XURq5G0CC-I/hqdefault.jpg?v=677c1b36&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5vd3X8PL0cTHGDVxpQY9RNualBw",
+                "description": "#ホロ新春ゲーム祭り2025 に向けて練習あるのみ。\n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n▹◃┄▸◂┄▹..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -426,14 +426,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/AD2BC7S_QlNSZEHrM-pyRR0C9DOPnfK2OnuFjTK8F842WydS1HDMe6TvhESY9Er96Kt3yu0-fQ",
-        "videos": [
-            {
-                "video_id": "l9Jrsq5Pmq4",
-                "title": "【FALLOUT: NEW VEGAS】60 hours in it's time to start the DLC",
-                "thumbnail": "https://i.ytimg.com/vi/l9Jrsq5Pmq4/hqdefault.jpg?v=677b9899&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgkegUiCr4e-7yxUv9UcEpjopfUQ",
-                "description": "thumbnail: https://x.com/wugedou579/status/1875941183907930161\n\nThis game's use of streaming is being consented by ©2010 Bethesda Softworks LLC. All Rights Reserved.\n------------------------------..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
