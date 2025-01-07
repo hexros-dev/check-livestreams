@@ -99,20 +99,20 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/cDSMiVy3Xa49Ci_YyouVNzfCwVXKRYmOeywWQ_UFKzvAp6tvyeMtXMyzWzQ2u8ft4EENsJKt7A",
-        "videos": [
-            {
-                "video_id": "dz6VgIIbRS4",
-                "title": "【Alien Isolation】You Have My Sympathies",
-                "thumbnail": "https://i.ytimg.com/vi/dz6VgIIbRS4/hqdefault.jpg?v=677c1aff&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJM5r7GwjFn1XFm-ZmgOXBAlCAQA",
-                "description": "there's too many of them D: \n\nThis game is being streamed and monetized with permission and under license.\n©SEGA\n\n#hololiveenglish  #ホロライブ \n＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝..."
-            }
-        ]
+        "videos": []
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/JyixAV--9ZFWIMEwRQFbZhkiQTEvb1ALCdX7bW9BarpyLBjAnbbmc98jymhVT_pZlJpWaDwk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "SolMvluikCs",
+                "title": "【置忌配】不気味な荷物、あなたは受け取りますか？【一条莉々華/hololive DEV_IS　ReGLOSS】",
+                "thumbnail": "https://i.ytimg.com/vi/SolMvluikCs/hqdefault.jpg?v=677cbf8d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6q9thP_cbTVQa4j_sEpiipPUSwQ",
+                "description": "本ゲームは 花澄匝 様に確認を得た上で、配信・収益化を行なっております。\n\n🌸フリーゲームなので、下記で遊べるよ🌸\nhttps://novelgame.jp/games/show..."
+            }
+        ]
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
