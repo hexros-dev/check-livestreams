@@ -3,20 +3,20 @@
         "channel_url": "https://www.youtube.com/@AZKi",
         "channel_name": "AZKi Channel",
         "avatar_url": "https://yt3.googleusercontent.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM",
-        "videos": [
-            {
-                "video_id": "IbmMxsGfgzg",
-                "title": "【#ホロ新春ゲーム祭2025】スーパー マリオパーティ ジャンボリー！トワチームで練習するぞ！！！【ホロライブ / AZKi / 常闇トワ / 宝鐘マリン / 轟はじめ】",
-                "thumbnail": "https://i.ytimg.com/vi/IbmMxsGfgzg/hqdefault.jpg?v=677ce9ee&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAH2QLgUvv-yjCWHdbTYooVxqkbKg",
-                "description": "@TokoyamiTowa \n@HoushouMarine \n@TodorokiHajime \n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信していま..."
-            }
-        ]
+        "videos": []
     },
     "@AiraniIofifteen": {
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
         "channel_name": "Airani Iofifteen Channel hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/bF91weVtAIL7Uhnr2HVwtCTLVKK5kVsn4FC_Ze3Gl8rkSsEjDwyey3AbQ1PDfJQ1Oeac5cePeg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "q1ghTP5MRjk",
+                "title": "【 BALATRO 】Airani twopair fifteen【 iofi / hololiveID 】",
+                "thumbnail": "https://i.ytimg.com/vi/q1ghTP5MRjk/hqdefault.jpg?v=677d0912&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBh2S0JT_QeavnohdbH-7OazQMJHQ",
+                "description": "#ioLyfe #Airani_Iofifteen #hololive #holoID #balatro \n\nThis game is being streamed and monetized after confirming with Playstack.\n\n【Support & Jajanin IOFI】🎨\nIndonesia : https://sociabuzz.com..."
+            }
+        ]
     },
     "@AkaiHaato": {
         "channel_url": "https://www.youtube.com/@AkaiHaato",
@@ -206,20 +206,20 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "7RY7KNN64Dc",
+                "title": "【#ホロクラダイヤ発掘隊】今日こそ掘るぞー！【水宮枢／FLOW GLOW】#hololiveDEV_IS",
+                "thumbnail": "https://i.ytimg.com/vi/7RY7KNN64Dc/hqdefault.jpg?v=677d35a5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAeOyqAkYUST_zeG-OIi670r9Qxfw",
+                "description": "ハッシュタグ　#ホロクラダイヤ発掘隊 \n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/bMBMxmB1YVDVazU-8KbB6JZqUHn4YzmFiQRWwEUHCeqm5REPW7HHQChC5xE6e36aqqnXgK4a",
-        "videos": [
-            {
-                "video_id": "iHcBy1nSqYo",
-                "title": "【 Minecraft 】２０２５のダイヤ集めるのに加担する【 桃鈴ねね / hololive 】",
-                "thumbnail": "https://i.ytimg.com/vi/iHcBy1nSqYo/hqdefault.jpg?v=677d1e99&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD314ecxmaBUif8XK3dy4a3GNzFWA",
-                "description": "#ホロクラダイヤ発掘隊 の一員になりましたねねで～～～～～～～～～～～～～～～～す！✌\n⸜♡⸝MemberShipに入ったらもっとねねを知れるﾖ..."
-            }
-        ]
+        "videos": []
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
@@ -243,14 +243,7 @@
         "channel_url": "https://www.youtube.com/@NakiriAyame",
         "channel_name": "Nakiri Ayame Ch. 百鬼あやめ",
         "avatar_url": "https://yt3.googleusercontent.com/XDGhKwPZcT16Ppg2gQmLHEIYRhw9sY4rqG0HWbeCH68LHkhlVQrrFgxd5hWUuMb2nLfDOhu6",
-        "videos": [
-            {
-                "video_id": "r8bYEXkz7fI",
-                "title": "【アソビ大全】全CPUに勝つまで終われない！？ 五目並べ【百鬼あやめ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/r8bYEXkz7fI/hqdefault.jpg?v=677c0b98&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWe4lhkaubKARusOU5C9zG95Qhcg",
-                "description": "- - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - -ഒ˖°\n\n\n※この動画およびライブは、任天堂著作物の利用許諾を受けて配..."
-            }
-        ]
+        "videos": []
     },
     "@NanashiMumei": {
         "channel_url": "https://www.youtube.com/@NanashiMumei",
@@ -380,14 +373,7 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": [
-            {
-                "video_id": "2QCf1T5n2eI",
-                "title": "【#ホロクラダイヤ発掘隊】ホロクラ２０２５個ダイヤ発掘隊　DAY２【ホロライブ/白上フブキ】",
-                "thumbnail": "https://i.ytimg.com/vi/2QCf1T5n2eI/hqdefault.jpg?v=677ccb80&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpssNIALi-t6lHqb0KSuejvnrKhQ",
-                "description": "#ホロクラダイヤ発掘隊\n\n目標：２０２５個のダイヤモンドを集める！\n\nルール\n✦ホロメンが出入り自由な鯖です/配信内外\n✦エンチャント部屋/食..."
-            }
-        ]
+        "videos": []
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -412,14 +398,7 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/CoKMtt9uQNGPOQP_t0LaCL4N21m0TUNCxzLtKRRTBmpH0xPc0s2cZQ-uUuQkxqerbGkxJkGU",
-        "videos": [
-            {
-                "video_id": "jFlm_c7xRM4",
-                "title": "【Chained Together】#ホロ新春ゲーム祭2025 に向けてわためぇと鎖の練習する！！【獅白ぼたん/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/jFlm_c7xRM4/hqdefault.jpg?v=677c15c9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAp9M3gSwxCr9KgWbl5GwWvEIj5Pg",
-                "description": "優勝もろたで！！\n@TsunomakiWatame @ShishiroBotan \n\n配信ハッシュタグ：#ししわた #ホロ新春ゲーム祭2025\nサムネイルのイラスト：ゆん\nhttps://x.com/yun0786/statu..."
-            }
-        ]
+        "videos": []
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
@@ -431,7 +410,14 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/gHSAYjapvrPWUKNofcX6zP8izFYK-CbsiZEpkuNgGpPluu7zyC_3yPu0IbpL2Rh_QjBxPKOjLA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "vrZOztfpJr4",
+                "title": "【 トルネコの大冒険3 】完全初見！激動の正月を終え…まったり深夜ルイネコさん。【鷹嶺ルイ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/vrZOztfpJr4/hqdefault.jpg?v=677d0b79&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0Mu9g7zU7nkI8yK-QfHDV_nqJ5w",
+                "description": "ポポロまってるんだよ\n\n本動画のゲームプレイ映像は、株式会社スクウェア・エニックスの許諾を受けて使用しています。\nこの動画で利用してい..."
+            }
+        ]
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
@@ -455,14 +441,7 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/4wLMmSJkzy4vmWfWYkmzn6YO9T__jp1cORNuFXN7YyihwvhGkqXCxNBaklKoXlgdik-Fp0Zu",
-        "videos": [
-            {
-                "video_id": "nWc95MGfJTE",
-                "title": "【Chained Together】ぼたんちゃんと #ホロ新春ゲーム祭2025 に向けて練習だ！【角巻わため/ホロライブ４期生】",
-                "thumbnail": "https://i.ytimg.com/vi/nWc95MGfJTE/hqdefault.jpg?v=677c4f3b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgsCu-cV7ltzJb0H4Ed0vayYYBoQ",
-                "description": "タグ：#ししわた　#ホロ新春ゲーム祭2025\n\n※本ゲームは Anegar Games に確認の上配信・収益化を行なっております。\n\n◆獅子こと、ぼたんちゃん..."
-            }
-        ]
+        "videos": []
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -516,7 +495,14 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/8XQlrbkx1vBSpFZQ_GwV6hxep9EX0xHBH-CmWknoHusxXOKGnfVytVRzpt-36PxJOfumNjiBkAI",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "0DZGHvc2A6w",
+                "title": "【Carry The Glass】 RAVIOLIN AT WORK!  🐱🍵",
+                "thumbnail": "https://i.ytimg.com/vi/0DZGHvc2A6w/hqdefault.jpg?v=677ce306&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcsQHPrqbjb-7SIAS31Yz-3VCi0g",
+                "description": "『 X formely Twitter 』\nhttps://x.com/raorapanthera\n\n『 Hashtags 』\n╰┈➤ Live  #CiaoRaora\n╰┈➤ Fanarts  #RaorArt\n╰┈➤ Clips  #RaraWara\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
+            }
+        ]
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
