@@ -421,10 +421,7 @@ def send_email_upcoming(live_streams: str) -> None:
     body = body_first + body
     current_hash = md5(str(live_streams).encode("utf-8")).hexdigest()
 
-    message = (
-        f"# `Total {FILTERS['Unarchived'].get('counter')} Unarchived Live Streams.`\n"
-        + message
-    )
+    message = f"# `Total {FILTERS['Unarchived'].get('counter')} Unarchived Live Streams.\n` {message}"
 
     is_exists = Path("./prev_hash_upcoming.md5").exists()
     if not is_exists:
@@ -554,10 +551,7 @@ def send_email_live(live_streams: str) -> None:
     body = body_first + body
     current_hash = md5(str(live_streams).encode("utf-8")).hexdigest()
 
-    message = (
-        f"# `Total {FILTERS['Unarchived'].get('counter')} Unarchived Live Streams.`\n"
-        + message
-    )
+    message = f"# `Total {FILTERS['Unarchived'].get('counter')} Unarchived Live Streams.`\n {message}"
 
     is_exists = Path("./prev_hash_live.md5").exists()
     if not is_exists:
