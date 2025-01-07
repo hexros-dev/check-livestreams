@@ -107,12 +107,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/7axTno1zkKS6RhYH7cZ9FecAkjBmZRYTwDeVoqxDdAx0wGfqatlMY10igRFEa1gpAtq5rqnDJg",
         "videos": []
     },
-    "@HoshimachiSuisei": {
-        "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
-        "channel_name": "Suisei Channel",
-        "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
-        "videos": []
-    },
     "@HoushouMarine": {
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
@@ -237,15 +231,7 @@
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
         "channel_name": "Moona Hoshinova hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/w8ilN5YMfG3H6SX162Fkg71BaJdYUUoHOc91cryyfdvto94IpypSjvsLaMA1MyODr2V-w-ox-h8",
-        "videos": [
-            {
-                "video_id": "NHI-eqRrt8A",
-                "title": "【Tropico 6】My brain is not braining, but i'll still be the presidento anyway【Moona Hoshinova】",
-                "date": "2025/01/07 22:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/NHI-eqRrt8A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBgQsfwQzL456xNDA6yDRBO6DMO6g",
-                "description": "▼Moona Hoshinova「Multiverse」\nhttps://lnk.to/mh_Multiverse\n\n▼Moona Hoshinova「Nightmare」\nhttps://cover.lnk.to/AeV06H\n\nStreamlabs donation link here : https://streamlabs.com/moonahoshinova..."
-            }
-        ]
+        "videos": []
     },
     "@MoriCalliope": {
         "channel_url": "https://www.youtube.com/@MoriCalliope",
@@ -477,7 +463,15 @@
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "zYttDhMGRgg",
+                "title": "【MiSide】 Part 1 ~! 💄",
+                "date": "2025/01/08 03:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/zYttDhMGRgg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAuE4Q20nURUhrP7-RRz298ALAr6Q",
+                "description": "First time playing a solo horror game. NO SPOILERS! Oh~hohoho! - I'm interested to see what the horror aspect to this cute girl is. \n▬▬ι════════ﺤ\nMerch!!! For JUSTICE!!!!!!..."
+            }
+        ]
     },
     "@holoen_gigimurin": {
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
