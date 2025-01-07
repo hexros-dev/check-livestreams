@@ -1,10 +1,7 @@
 name: Run Python Script
 on:
-    # push:
-    #     branches:
-    #         - 'master'
-    # schedule:
-    #     - cron: '0 7 * * *'
+    schedule:
+        - cron: '*/30 * * * *'
     workflow_dispatch:
     workflow_call:
 jobs:
@@ -38,12 +35,16 @@ jobs:
                   SENDER_EMAIL: ${{secrets.SENDER_EMAIL}}
                   SENDER_PWD: ${{secrets.SENDER_PWD}}
                   RECEIVER_EMAIL: ${{secrets.RECEIVER_EMAIL}}
+                  COOKIES_CONTENT: ${{secrets.COOKIES_CONTENT}}
+                  DISCORD_WEBHOOK_URL: ${{secrets.DISCORD_WEBHOOK_URL}}
               run: |
+                  python create_cookies_file.py
+                  python load-json.py
                   python main.py
             - name: Pushing to output
               run: |
                   git checkout -b output || git checkout output
-                  git add upcoming.json live_streams.json prev_hash_live.md5 prev_hash_upcoming.md5
+                  git add upcoming.json live_streams.json prev_hash_live.md5 prev_hash_upcoming.md5 time-run.txt
                   if git diff --cached --quiet; then
                     echo "No changes to commit."
                   else

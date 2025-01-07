@@ -46,9 +46,20 @@ UNARCHIVE_FILTERS = [
     "archive",
     "archived",
     "rebroadcast",
+    "アーカイブ無し",
 ]
-KARAOKE_FILTERS = ["karaoke", "sing", "singing", "歌枠", "ヒトカラ", "カラ", "うたう"]
+KARAOKE_FILTERS = [
+    "karaoke",
+    "sing",
+    "singing",
+    "歌枠",
+    "ヒトカラ",
+    "カラ",
+    "うたう",
+    "歌",
+]
 # LIARS_BAR_FILTERS = ["liar's bar", "liars bar", "liar bar"]
+TEST_FILTERS = ["test"]
 
 FILTERS = {
     "Unarchived": {
@@ -66,6 +77,14 @@ FILTERS = {
         "is_true": False,
         "filter": KARAOKE_FILTERS,
         "label": '<span style="font-weight: bold; background-color: burlywood; padding: 1.5px; margin: 4px; border-style: dashed;">Karaoke</span>',
+    },
+    "Test": {
+        "counter": 0,
+        "icon": "🤖",
+        "color": "#6D41BF",
+        "is_true": False,
+        "filter": TEST_FILTERS,
+        "label": '<span style="font-weight: bold; background-color: burlywood; padding: 1.5px; margin: 4px; border-style: dashed;">Test</span>',
     },
     # "Liar's Bar": {
     #     "counter": 0,
@@ -238,7 +257,7 @@ def sort_obj(obj):
 def pretty_time_delta(delta, lang=inflect.engine()):
     seconds = delta.total_seconds()
     if not seconds:
-        return f"0 seconds"
+        return "0 seconds"
     seconds = abs(int(seconds))
     days, seconds = divmod(seconds, 86400)
     hours, seconds = divmod(seconds, 3600)
@@ -273,7 +292,7 @@ def send_discord_message(webhook_url, message):
 def send_email_upcoming(live_streams: str) -> None:
     # format time (now)
     now_ = datetime.now(pytz.timezone("Asia/Ho_Chi_Minh")).strftime("%Y/%m/%d %H:%M:%S")
-    message = f"# 📹 Upcoming Unarchived YouTube Live Streams\n"
+    message = "# 📹 Upcoming Unarchived YouTube Live Streams\n"
     channel_lst = []
     is_send = False
     # subject and body when send email
@@ -436,7 +455,7 @@ def send_email_live(live_streams: str) -> None:
     subject = f"{LIVE_SUBJECT} {datetime.now(pytz.timezone('Asia/Ho_Chi_Minh')).strftime('%Y/%m/%d %H:%M:%S')}"
     body = ""
 
-    message = f"# 🔴 Unarchived YouTube Live Streams\n"
+    message = "# 🔴 Unarchived YouTube Live Streams\n"
     channel_lst = []
     is_send = False
 
@@ -687,7 +706,7 @@ def process_channels(channel_urls: list[str], max_workers=5):
 
 
 def main():
-    os.system("cls" if os.name == "nt" else "clear")
+    # os.system('cls' if os.name=='nt' else 'clear')
     print(f"You are in {ENV} environment!")
     start = datetime.now(pytz.timezone("Asia/Ho_Chi_Minh"))
     channel_urls = get_channel_url("channel_url.txt")
