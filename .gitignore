@@ -2,6 +2,8 @@ venv/
 .vscode/
 out/
 loop/
+tests/
+__pycache__/
 .env
 live_streams.json
 prev_hash_live.md5
@@ -16,3 +18,4 @@ run-forever.bat
 test2.py
 test.html
 time-run.txt
+cookies.txt
