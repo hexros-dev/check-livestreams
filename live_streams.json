@@ -69,14 +69,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/WO7ItKNmy6tW_NQ82g8c1y74CZSw6GsSdynsE5s2csuEok2fHRrAaGcBV3JJO-2BxEOXXA8lvw",
-        "videos": [
-            {
-                "video_id": "PtjqrNUOSWA",
-                "title": "【 #ホロのウミガメ 】物語の真相を突き止めろ‼ウミガメのスープで遊ぼう！【紫咲シオン・猫又おかゆ・沙花叉クロヱ・博衣こより/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/PtjqrNUOSWA/hqdefault.jpg?v=677bd4a8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwjLYOI9dbzyoAr6tZSiL2sAyoIA",
-                "description": "#ホロのウミガメ でツイートしてね❣\n🐢「ウミガメのスープ」とは？🌊\n出題者に「YES」「NO」「関係ありません」のいずれかで答えられる質問を..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -125,7 +118,14 @@
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "MT4v9VKK3mU",
+                "title": "【Super Adventure Hand】おてての大冒険！！！【戌神ころね/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/MT4v9VKK3mU/hqdefault.jpg?v=677d0b22&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBl5vwEndbnzWsfqrjxH8LdZGWQaA",
+                "description": "Play Game : Super Adventure Hand ( steam )\nタグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nころねTwitter▶https://twitter.com/i..."
+            }
+        ]
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
@@ -241,7 +241,14 @@
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/wIqM7MWDN94PoibzPmeog7WOt8jFKTKZBOBFEbLBaiUAdKLwoqdLC_CN7B7Gby-FWH-076rN",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "M3YW7gKMNYg",
+                "title": "【#ホロクラダイヤ発掘隊】さむねつくってくれ【ホロライブ/夏色まつり】",
+                "thumbnail": "https://i.ytimg.com/vi/M3YW7gKMNYg/hqdefault.jpg?v=677d14a4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCr9prk1dEKqyhNNeu0As4SkTQ9wQ",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n【使用MOD】\n使用MOD：OptiF..."
+            }
+        ]
     },
     "@NekomataOkayu": {
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
@@ -301,27 +308,13 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/r_CG1_hNQIcnrbXOzIKbdq23Dt7lo_QGvdkVT_q1fzSOWPZxFyvlei5N4bJSeTUhwcn3JVmsh_I",
-        "videos": [
-            {
-                "video_id": "eMvUkV8yP4A",
-                "title": "【 雑談 】20万人のお礼と！年末年始のこととか緩く話そう～！【  #輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "thumbnail": "https://i.ytimg.com/vi/eMvUkV8yP4A/hqdefault.jpg?v=677ce3ec&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDeddY8LRDfUh0aYnZ0IqDWjLkY9Q",
-                "description": "いつも応援本当にありがとう！！\nみんなのおかげでch登録20万人、、、とんでもない数だ…\nこれからもたくさんの人に楽しいを届けられるように..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/GF0wbwZvZAGzYg8s8d6Yh1BDcWAE9UmLAh2uf3IMJ5l_ESi3sWeRqk2XfhW3IgzMeliHpt4cAw",
-        "videos": [
-            {
-                "video_id": "5_PxSHEw3FA",
-                "title": "【VSアソビ大全】負けられない、いや。負けれない戦いがここにはあると思うんです🔥 ＃ヴィヴィロボ【ホロライブ/ロボ子さん・綺々羅々ヴィヴィ】",
-                "thumbnail": "https://i.ytimg.com/vi/5_PxSHEw3FA/hqdefault.jpg?v=677c907b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhaIoYoVixtmTwUE7FGoHFn50xRw",
-                "description": "💬＃ヴィヴィロボ　でポストしてってね✨\n挑戦者　@KikiraraVivi \n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。..."
-            }
-        ]
+        "videos": []
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -370,7 +363,14 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/CoKMtt9uQNGPOQP_t0LaCL4N21m0TUNCxzLtKRRTBmpH0xPc0s2cZQ-uUuQkxqerbGkxJkGU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "jFlm_c7xRM4",
+                "title": "【Chained Together】#ホロ新春ゲーム祭2025 に向けてわためぇと鎖の練習する！！【獅白ぼたん/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/jFlm_c7xRM4/hqdefault.jpg?v=677c15c9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAp9M3gSwxCr9KgWbl5GwWvEIj5Pg",
+                "description": "優勝もろたで！！\n@TsunomakiWatame @ShishiroBotan \n\n配信ハッシュタグ：#ししわた #ホロ新春ゲーム祭2025\nサムネイルのイラスト：ゆん\nhttps://x.com/yun0786/statu..."
+            }
+        ]
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
@@ -406,7 +406,14 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/4wLMmSJkzy4vmWfWYkmzn6YO9T__jp1cORNuFXN7YyihwvhGkqXCxNBaklKoXlgdik-Fp0Zu",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "nWc95MGfJTE",
+                "title": "【Chained Together】ぼたんちゃんと #ホロ新春ゲーム祭2025 に向けて練習だ！【角巻わため/ホロライブ４期生】",
+                "thumbnail": "https://i.ytimg.com/vi/nWc95MGfJTE/hqdefault.jpg?v=677c4f3b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgsCu-cV7ltzJb0H4Ed0vayYYBoQ",
+                "description": "タグ：#ししわた　#ホロ新春ゲーム祭2025\n\n※本ゲームは Anegar Games に確認の上配信・収益化を行なっております。\n\n◆獅子こと、ぼたんちゃん..."
+            }
+        ]
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -466,12 +473,6 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/IzJcA0QlV4JwWH9yXi7Voa3359fHUB182xd_xxs92xd_3kuw_pa45dKeyQ9hvKl_1OhwbT6M3g",
-        "videos": []
-    },
-    "@mikenekoko": {
-        "channel_url": "https://www.youtube.com/@mikenekoko",
-        "channel_name": "みけねこch",
-        "avatar_url": "https://yt3.googleusercontent.com/xp-Gpx4379mUVBgIIKKyABkJZAEZhBdLIL2JsgTiEpvfN7G0J4NHQ2uI3ycywuNKAlXJOSmsbQ",
         "videos": []
     },
     "@usadapekora": {
