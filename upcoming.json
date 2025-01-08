@@ -168,34 +168,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
         "videos": []
     },
-    "@IsakiRiona": {
-        "channel_url": "https://www.youtube.com/@IsakiRiona",
-        "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-        "avatar_url": "https://yt3.googleusercontent.com/K39Md5CGHmCaMC5Ne3UWBzblgzDhUzXUFszrHfGapCvOldc8E7fWw3pxN0zhcjmoht4GngnD",
-        "videos": [
-            {
-                "video_id": "CXpIO57OqUE",
-                "title": "【マリオカート8DX】ホロ新春 ゲーム祭２０２５に向けて特訓だああ！！【ホロライブ DEV_IS 響咲リオナ】",
-                "date": "2025/01/08 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/CXpIO57OqUE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQlWmNDQbToA4x8Br2nBnOEcoQVw",
-                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n視聴者参加型ルール♡\nレースごとに参加者さん入れ替えでお願い..."
-            },
-            {
-                "video_id": "ES5WyVmRvfg",
-                "title": "【 壺おじ】これは壺による締め付けを楽しむゲームです。【ホロライブ DEV_IS 響咲リオナ】",
-                "date": "2025/01/10 12:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/ES5WyVmRvfg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8OVNIddrOLJLgXQ_KnvXDcZvImw",
-                "description": "本ゲームは © Foddy.net\n 2016 の承諾を得た上で配信・収益化を行なっております。\n\nよし。。。やるか。やるぞ。やるんだああああああああああああ..."
-            },
-            {
-                "video_id": "vZhWQPzyR_w",
-                "title": "マリオ＆ルイージRPGブラザーシップ＃６【ホロライブ DEV_IS 響咲リオナ】",
-                "date": "2025/01/08 10:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/vZhWQPzyR_w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSchVYb2fHDx53LvAjOr8TPlrlew",
-                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠\nサムネ..."
-            }
-        ]
-    },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -506,6 +478,12 @@
         "avatar_url": "https://yt3.googleusercontent.com/QBddwfs8nHiD5V-Dm9HcRfmjpCMpIGbRfKmk6vmejPEo8hyePLSo4oHm34TSLVHswqbTNjKZOw",
         "videos": []
     },
+    "@holoen_ceciliaimmergreen": {
+        "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
+        "channel_name": "Cecilia Immergreen Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/LnJxTvrkHQFdFlyMY2HPtXVEwA7KHlUp8rNzBepF1GQfPQjUN9yKGIqSYOD31F22Ow9vSTn9",
+        "videos": []
+    },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -564,5 +542,11 @@
                 "description": "企画の告知をするぺこ！ビッグゴッドミオーン先生@OokamiMio \n\nサムネイラスト：憂姫はぐれ(@yuukihagure)マッマ\n\n⋈ －－－－－－－－－－－－－－－..."
             }
         ]
+    },
+    "@結城さくな": {
+        "channel_url": "https://www.youtube.com/@結城さくな",
+        "channel_name": "Sakuna Ch. 結城さくな",
+        "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
+        "videos": []
     }
 }
