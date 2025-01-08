@@ -53,7 +53,14 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "KD2Q2X63Jvc",
+                "title": "【ETS 2】Let's Pray that the Game Doesn't Crash【Ayunda Risu】",
+                "thumbnail": "https://i.ytimg.com/vi/KD2Q2X63Jvc/hqdefault.jpg?v=677e6bab&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFpKE_uUAyNBGqHPXXlidtfYVdBg",
+                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\n\nThis game is being streamed and monetized after confirming with SCS Software, which is based on the following SCS Software s.r.o. -..."
+            }
+        ]
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -126,7 +133,14 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/JyixAV--9ZFWIMEwRQFbZhkiQTEvb1ALCdX7bW9BarpyLBjAnbbmc98jymhVT_pZlJpWaDwk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "9e8IOWNhXL4",
+                "title": "【グノーシア】ループし続け…てる！？人狼ゲーム超得意なんですけど！！？？ #2【一条莉々華/hololive DEV_IS　ReGLOSS】",
+                "thumbnail": "https://i.ytimg.com/vi/9e8IOWNhXL4/hqdefault.jpg?v=677de107&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD143Bt_d0ZsCZ2tHVIvtxvR_ng0Q",
+                "description": "アニメ化も決まってる約束された神ゲー。\n人狼ジャンキーなのに未プレイは勿体なさすぎる！\n深夜にまったり人狼ゲーム。最高じゃんじゃんじゃ..."
+            }
+        ]
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -157,7 +171,14 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/VL9aJ1o3yrN_xzHKTX0PvArQjUDHhtWtOtAYWjpzkqoFxR5HHWmWRWNgu6M5l4nSibqLaeKXqA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "qwh8j-j8Ftc",
+                "title": "【Ballionaire】WATCH ME PEMALOE. ok time to give me your luck【Kaela Kovalskia / hololiveID】",
+                "thumbnail": "https://i.ytimg.com/vi/qwh8j-j8Ftc/hqdefault.jpg?v=677e6b8a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgx36a9drZfNXusN1KXGZmm1GkKA",
+                "description": "【Donasi lokal】Traktir yang pahit-pahit kini sangat EZGGWP!~\nLink: https://sociabuzz.com/kaelakovalskia/tribe\n\n#Kaelaif #KaelaKovalskia #holoID \n-------------------------------------------------..."
+            }
+        ]
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
@@ -409,14 +430,7 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/LObfzJe4AIufIErJzQy1xzwQcA5AX6rJh8AxJe-qvG2yBO-tbTVDwXqOkoeK_MoGPC6C3lMxQ_c",
-        "videos": [
-            {
-                "video_id": "n22bQTmTVas",
-                "title": "＃４【龍が如く極２】完全初見！十四章から本編最後まで駆け抜ける！※ネタバレあり【轟はじめ/ReGLOSS】 #hololivedev_is",
-                "thumbnail": "https://i.ytimg.com/vi/n22bQTmTVas/hqdefault.jpg?v=677d5a5c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAsnZRepF9PTeKdKXQqAtUYItmxLg",
-                "description": "素敵なサムネお写真：のいず。様（@noise__ghost）\n\n極→０の順でプレイ済みです！\n\nこの動画およびライブは、コンテンツ利用許諾契約に基づいて配..."
-            }
-        ]
+        "videos": []
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
