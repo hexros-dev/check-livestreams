@@ -34,20 +34,20 @@
         "channel_url": "https://www.youtube.com/@AmaneKanata",
         "channel_name": "Kanata Ch. Kanata Amane",
         "avatar_url": "https://yt3.googleusercontent.com/oPU9ckNcyeHD0FFsYSxkoD1mtbslSwdmMSfoCYQWphOu5e7UeCnIF-Nt0hvvF41L5Nykga07nQ",
-        "videos": [
-            {
-                "video_id": "v-bp0iJBYBI",
-                "title": "【Minecraft】かなけん最後の生配信！！【天音かなた、沙花叉クロヱ、AZKi/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/v-bp0iJBYBI/hqdefault.jpg?v=677e2bd3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmzsW9cRuiz0kb6_n2mqu82wg6dw",
-                "description": "配信納め\n\n沙花叉クロヱ　@SakamataChloe \nAZKi　@AZKi \n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収..."
-            }
-        ]
+        "videos": []
     },
     "@AnyaMelfissa": {
         "channel_url": "https://www.youtube.com/@AnyaMelfissa",
         "channel_name": "Anya Melfissa Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/58uF1apTqtovpieDrBCSF5pUeNU2MA6n34bdj2EBEVnySKm-VvEznGNt2puk4v4tAnA3AYh5JA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "pw78884fCLA",
+                "title": "【APEX Legends】アリアちゃん！APEX教えてっ！APEX With Aria! PLEASE TEACH ME HOW TO WALK...!! 【hololive ID | Anya】",
+                "thumbnail": "https://i.ytimg.com/vi/pw78884fCLA/hqdefault.jpg?v=677d82c1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKO_7n4GuXjYa_ykXyrWWKMXhcNg",
+                "description": "Support me here/ドネーション↓\nStreamlabs: https://streamlabs.com/anyamelfissachhololive-id/tip\nSociaBuzz(Local Donation): https://sociabuzz.com/anyamelfissa/tribe \n\n--\nThis game is..."
+            }
+        ]
     },
     "@AyundaRisu": {
         "channel_url": "https://www.youtube.com/@AyundaRisu",
@@ -96,19 +96,18 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/CTvZ3dUO8LocQMKbGkjUPysC524gC4asm5roilZmzhpBpWAWpLrhpRv0SpEaJeWm1oVP5v0g",
-        "videos": [
-            {
-                "video_id": "XJtT-jj56_8",
-                "title": "【 プリコネR 】正月サレンをお迎えするのら！！！【姫森ルーナ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/XJtT-jj56_8/hqdefault.jpg?v=677d8445&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6k1FWeQJfujKlVwFoVGzVCsdvMw",
-                "description": "💓ルーナ姫の公式LINEスタンプが1/4から販売開始💓\nhttps://line.me/S/sticker/29089910\n\nプリコネR ガチャ再生リスト\nhttps://www.youtube.com/playlist?list=PL6gUpTCMieF4Q..."
-            }
-        ]
+        "videos": []
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
         "channel_name": "Ao Ch. 火威青 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/sMnKpvVB1QLNSWGX-AIZ00lFTWAUzuZRAi_rlT7Cs9bIGzvWr-1yvKrKZ0tCtX7Ywtzds6ecSXM",
+        "videos": []
+    },
+    "@HoshimachiSuisei": {
+        "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
+        "channel_name": "Suisei Channel",
+        "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
         "videos": []
     },
     "@HoushouMarine": {
@@ -164,7 +163,14 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/0NYd0NnC9mCjdu6t_i-JylPkwpz-o3IZ1eLqgG4MdXS-KUPrP36e71UysuoV9eZA1-TRG3gZ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "atvj6Js_9rI",
+                "title": "#3【#ホロクラダイヤ発掘隊】ダイヤモンドの奴隷やあああ【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "thumbnail": "https://i.ytimg.com/vi/atvj6Js_9rI/hqdefault.jpg?v=677e682b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAT1_cKNBQ3FWIa_p4yIa8JOaZHQw",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております \n【使用MOD】\n使用MOD：Simp..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -255,7 +261,14 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/G92yBEhkf9R2mEpayuPvhwlA42tYAPOcNi2r77JeL7ic0ETS_FvTkwkBHjvR6iCqUk7TOlpROQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "eAMpppCtNpk",
+                "title": "【 PlateUp! 】おかゆチームで練習だああ！🔥🔥🔥【 #ホロ新春ゲーム祭2025/ホロライブ  】",
+                "thumbnail": "https://i.ytimg.com/vi/eAMpppCtNpk/hqdefault.jpg?v=677e10d9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBT3cTEw9F87qnRQjaC5NNIxs9JIg",
+                "description": "-\n\nPlateUp!担当めんば～！\n\n@HoshimachiSuisei  @PavoliaReine  @IRyS  @NekomataOkayu \n\n本ゲームはYogscast Games.に確認の上、配信・収益を行われています。\n❥・・..."
+            }
+        ]
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -329,10 +342,10 @@
         "avatar_url": "https://yt3.googleusercontent.com/3st5iCi65fsN1P4-yTbWLHZH84eLsPqWsQ4MBkR1J72FW8pBm2IpHxFGtQ84ZFCcCX8sGJl-Ag",
         "videos": [
             {
-                "video_id": "h38Fnb6KuC0",
-                "title": "【 最終回#3 】GOD耐久🎰新春！絶対に当てたいGODにぇ～～～！！！【ホロライブ/さくらみこ】",
-                "thumbnail": "https://i.ytimg.com/vi/h38Fnb6KuC0/hqdefault.jpg?v=677e4bd9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1lXbheOQeMXEnk7Ai-gFYt4GnDw",
-                "description": "ハーデス空気をよめ、もう年明けちまったよ\n\n🌸 ￤最新情報\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n🎶Sakura Miko 1st Album..."
+                "video_id": "4xRbzyHDTrA",
+                "title": "【 #ホロクラダイヤ発掘隊 】💎ホロメンみんなで２０２５個ダイヤを荒稼ぎするにぇ！！！！！💎【ホロライブ/さくらみこ】",
+                "thumbnail": "https://i.ytimg.com/vi/4xRbzyHDTrA/hqdefault.jpg?v=677e608b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvCHRnsAAbTGqrQ0ZyKpv7eihZoA",
+                "description": "ハッシュタグ　#ホロクラダイヤ発掘隊  💎\n主催 @ShirakamiFubuki \n\nルール\n✦ホロメンが出入り自由な鯖です/配信内外\n✦エンチャント部屋/食料配給等..."
             }
         ]
     },
@@ -346,7 +359,14 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Uwj-uW5UXG4",
+                "title": "【#ホロクラダイヤ発掘隊】ホロクラ２０２５個ダイヤ発掘隊　DAY3【ホロライブ/白上フブキ】",
+                "thumbnail": "https://i.ytimg.com/vi/Uwj-uW5UXG4/hqdefault.jpg?v=677e5677&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQzDWl2CseYx7IzaXZoS1ofNnhBw",
+                "description": "#ホロクラダイヤ発掘隊\n\n目標：２０２５個のダイヤモンドを集める！\n\nルール\n✦ホロメンが出入り自由な鯖です/配信内外\n✦エンチャント部屋/食..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -432,7 +452,14 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Kd2VOrGvz7U",
+                "title": "【 #BIG3 】中身は何かな！？BIG3で闇タコパ！！！【大空スバル・白銀ノエル・ 雪花ラミィ /ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/Kd2VOrGvz7U/hqdefault.jpg?v=677e2984&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6Z_yE8lPaX5z-Blka9gIYbA5NEA",
+                "description": "B：@OozoraSubaru \n I ：ラミィ\nG：@ShiroganeNoel \n\n感想は #らみらいぶ で呟いて頂けたら嬉しいです！\n\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧..."
+            }
+        ]
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
@@ -456,7 +483,14 @@
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "GJMOvMXcsx8",
+                "title": "【RABBIT】 19 ~! 💄",
+                "thumbnail": "https://i.ytimg.com/vi/GJMOvMXcsx8/hqdefault.jpg?v=677dd8be&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFss9KlYMM29ss-NE19qdh-zN1LA",
+                "description": "Rabbit Super Reading Rabbit Rabbit!\nLets rabbit and read more supers! \n▬▬ι════════ﺤ\nI can't believe I have my own Watch! Check it out here, pre-order before 31st to get..."
+            }
+        ]
     },
     "@holoen_gigimurin": {
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
@@ -486,7 +520,14 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_n1iH9fDDGm8RHUzoB-XDfnTEwhlgBcP3OLjapDqHYoYVw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "1bIITC5XHgE",
+                "title": "【重大告知あり】ビッグゴッドミオーン先生に今年の運勢を聞く！そして告知をする！ぺこ！【ホロライブ/兎田ぺこら/大神ミオ】",
+                "thumbnail": "https://i.ytimg.com/vi/1bIITC5XHgE/hqdefault.jpg?v=677dc490&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZgym2dW-EQnR01KkB4npg-_K-LA",
+                "description": "企画の告知をするぺこ！ビッグゴッドミオーン先生@OokamiMio \n\nサムネイラスト：憂姫はぐれ(@yuukihagure)マッマ\n\n⋈ －－－－－－－－－－－－－－－..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
