@@ -115,12 +115,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/sMnKpvVB1QLNSWGX-AIZ00lFTWAUzuZRAi_rlT7Cs9bIGzvWr-1yvKrKZ0tCtX7Ywtzds6ecSXM",
         "videos": []
     },
-    "@HoshimachiSuisei": {
-        "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
-        "channel_name": "Suisei Channel",
-        "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
-        "videos": []
-    },
     "@HoushouMarine": {
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
@@ -322,7 +316,7 @@
         "videos": [
             {
                 "video_id": "JqemzbHVYEk",
-                "title": "【 はいしにょてい 】【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+                "title": "【 #ホロクラダイヤ発掘隊 】ミッションが気になるマン【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
                 "date": "2025/01/08 20:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/JqemzbHVYEk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9OD-aS-k_F3fQaI1fcu4rV4-dBQ",
                 "description": "50万人記念グッズ販売ストアはこちら！✨\n受注受付期間 : 2024年12月18日 21時00分 ～ 2025年01月20日 18時00分\nhttps://shop.hololivepro.com/products/otonosekanade_500k..."
@@ -363,7 +357,15 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/3st5iCi65fsN1P4-yTbWLHZH84eLsPqWsQ4MBkR1J72FW8pBm2IpHxFGtQ84ZFCcCX8sGJl-Ag",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "4xRbzyHDTrA",
+                "title": "【 #ホロクラダイヤ発掘隊 】💎ホロメンみんなで２０２５個ダイヤを荒稼ぎするにぇ！！！！！💎【ホロライブ/さくらみこ】",
+                "date": "2025/01/08 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/4xRbzyHDTrA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvCHRnsAAbTGqrQ0ZyKpv7eihZoA",
+                "description": "ハッシュタグ　#ホロクラダイヤ発掘隊  💎\n主催 @ShirakamiFubuki \n\nルール\n✦ホロメンが出入り自由な鯖です/配信内外\n✦エンチャント部屋/食料配給等..."
+            }
+        ]
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
@@ -530,7 +532,15 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/8XQlrbkx1vBSpFZQ_GwV6hxep9EX0xHBH-CmWknoHusxXOKGnfVytVRzpt-36PxJOfumNjiBkAI",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "VUBu6ckmh6g",
+                "title": "【Monster Hunter World】RAAOOOO!! LET'S HUNT!!!!!!!😾",
+                "date": "2025/01/08 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/VUBu6ckmh6g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUTnEhV4xFSsOxhKTYyTpSDKnPWA",
+                "description": "『 X formely Twitter 』\nhttps://x.com/raorapanthera\n\n\nThis video and livestream are being streamed with permission and under license by CAPCOM CO., LTD.\nMonster Hunter: World\n©CAPCOM CO.,..."
+            }
+        ]
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
