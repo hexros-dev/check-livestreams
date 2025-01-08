@@ -38,10 +38,10 @@
         "videos": [
             {
                 "video_id": "v-bp0iJBYBI",
-                "title": "【かなけん】最後の生配信！！【天音かなた/ホロライブ】",
+                "title": "【Minecraft】かなけん最後の生配信！！【天音かなた、沙花叉クロヱ、AZKi/ホロライブ】",
                 "date": "2025/01/08 18:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/v-bp0iJBYBI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmzsW9cRuiz0kb6_n2mqu82wg6dw",
-                "description": "---------------------------------------------------------------------------------\n\n🌌 天音かなた 1st フルアルバム\n　 「Unknown DIVA」全国流通にて発売中!!\n　 発売中：ht..."
+                "description": "配信納め\n\n沙花叉クロヱ　@SakamataChloe \nAZKi　@AZKi \n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収..."
             }
         ]
     },
@@ -122,6 +122,20 @@
         "avatar_url": "https://yt3.googleusercontent.com/sMnKpvVB1QLNSWGX-AIZ00lFTWAUzuZRAi_rlT7Cs9bIGzvWr-1yvKrKZ0tCtX7Ywtzds6ecSXM",
         "videos": []
     },
+    "@HoshimachiSuisei": {
+        "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
+        "channel_name": "Suisei Channel",
+        "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
+        "videos": [
+            {
+                "video_id": "SdBz_WuB50w",
+                "title": "【1/8192】新年一発目運試し‼🎍（年末の話しながら）【 星街すいせい / ホロライブ 】",
+                "date": "2025/01/08 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/SdBz_WuB50w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbuoTec3Qq7b1izSPNTVa6T_gPdw",
+                "description": "☄星街すいせい新曲「AWAKE」配信中☄️\n配信💿https://cover.lnk.to/ps914H\nMV🎥https://youtu.be/UYEZL13MUFk\n\n☄️2025.1.22 3rdフルアルバム『新星目録』発売決定..."
+            }
+        ]
+    },
     "@HoushouMarine": {
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
@@ -172,13 +186,6 @@
                 "date": "2025/01/10 12:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/ES5WyVmRvfg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8OVNIddrOLJLgXQ_KnvXDcZvImw",
                 "description": "本ゲームは © Foddy.net\n 2016 の承諾を得た上で配信・収益化を行なっております。\n\nよし。。。やるか。やるぞ。やるんだああああああああああああ..."
-            },
-            {
-                "video_id": "vZhWQPzyR_w",
-                "title": "マリオ＆ルイージRPGブラザーシップ＃６【ホロライブ DEV_IS 響咲リオナ】",
-                "date": "2025/01/08 10:09:58",
-                "thumbnail": "https://i.ytimg.com/vi/vZhWQPzyR_w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSchVYb2fHDx53LvAjOr8TPlrlew",
-                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠\nサムネ..."
             }
         ]
     },
@@ -230,7 +237,15 @@
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/Df9IibspJL2Dur37_ebWD6n6F0U8Fvp_1QOu5m-d7qqEAn1fRwsMiar4CvSpHrI3wA6uPw2h",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "eURa0vDeXj0",
+                "title": "【THE EXIT 8】#ホロ新春ゲーム祭2025 TRAINING ARC!! CAN WE RTA EXIT 8??【Kureiji Ollie】",
+                "date": "2025/01/08 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/eURa0vDeXj0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdGtm4328Hu-FPBbO9F8FieQldoA",
+                "description": "#IOLLIE #OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n==========================================\n\nThis game is being streamed and monetized in accordance with the content guidelines.\nhttps://store..."
+            }
+        ]
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
@@ -299,13 +314,6 @@
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/G92yBEhkf9R2mEpayuPvhwlA42tYAPOcNi2r77JeL7ic0ETS_FvTkwkBHjvR6iCqUk7TOlpROQ",
         "videos": [
-            {
-                "video_id": "9x_tZ1eUwx0",
-                "title": "【 エリート陰陽師みこ 】製品版きちゃああ～～！🌸🍙【 猫又おかゆ/ホロライブ 】",
-                "date": "2025/01/08 15:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/9x_tZ1eUwx0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCm74HCd_QtD1dPArlrUSqsfJm5Rg",
-                "description": "-\n\nイラスト：tomatoさん( https://x.com/kikikiko84 )\n\n本ゲームは holo Indie の承諾を得た上で配信・収益化を行なっております。\n❥・・ ┈┈┈┈┈┈┈┈┈..."
-            },
             {
                 "video_id": "eAMpppCtNpk",
                 "title": "【 PlateUp! 】おかゆチームで練習だああ！🔥🔥🔥【 #ホロ新春ゲーム祭2025/ホロライブ  】",
@@ -381,15 +389,7 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/GF0wbwZvZAGzYg8s8d6Yh1BDcWAE9UmLAh2uf3IMJ5l_ESi3sWeRqk2XfhW3IgzMeliHpt4cAw",
-        "videos": [
-            {
-                "video_id": "g02JiVa7qIE",
-                "title": "【メン限定】ろぼさー集合！MTまでゲリラバッジ創作お絵描きいいい【ホロライブ/ロボ子さん】",
-                "date": "2025/01/08 14:45:00",
-                "thumbnail": "https://i.ytimg.com/vi/g02JiVa7qIE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBcGZ1iXQ-T_636klZPNdTRgLPfDg",
-                "description": "💬＃ロボ子生放送　でポストしてってね✨\n\n📢最新ボイスはこちらから💖\nhttps://shop.hololivepro.com/products/hololive_christmasvoice2024\n\n📢新作歌ってみた➡..."
-            }
-        ]
+        "videos": []
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",

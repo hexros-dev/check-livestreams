@@ -83,6 +83,12 @@
         "avatar_url": "https://yt3.googleusercontent.com/sMnKpvVB1QLNSWGX-AIZ00lFTWAUzuZRAi_rlT7Cs9bIGzvWr-1yvKrKZ0tCtX7Ywtzds6ecSXM",
         "videos": []
     },
+    "@HoshimachiSuisei": {
+        "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
+        "channel_name": "Suisei Channel",
+        "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
+        "videos": []
+    },
     "@HoushouMarine": {
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
@@ -183,14 +189,7 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/FT92k-lGkFhElXOuq3KlwCvCpWPlEYwtAy2tjRibnmkrPP-Aaksbf2_P7XY26O9R2W4efoP7",
-        "videos": [
-            {
-                "video_id": "C54ZwIC9oMo",
-                "title": "【LET'S CHAT】Dead Serious. Yaps and Supers ENDURANCE.  #calliolive",
-                "thumbnail": "https://i.ytimg.com/vi/C54ZwIC9oMo/hqdefault.jpg?v=676fd9d3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdYTnYtwCvR7IN6erYOcC4KxLpDg",
-                "description": "SOLO LIVE TICKETS ON SALE NOW!\nhttps://www.ticketmaster.com/event/0900618BF1E836DE\n\nPrecautions\n*For General Admission area will be all-standing. \n*For Early Entry GA Ticket you will be able..."
-            }
-        ]
+        "videos": []
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -220,7 +219,14 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/G92yBEhkf9R2mEpayuPvhwlA42tYAPOcNi2r77JeL7ic0ETS_FvTkwkBHjvR6iCqUk7TOlpROQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "9x_tZ1eUwx0",
+                "title": "【 エリート陰陽師みこ 】製品版きちゃああ～～！🌸🍙【 猫又おかゆ/ホロライブ 】",
+                "thumbnail": "https://i.ytimg.com/vi/9x_tZ1eUwx0/hqdefault.jpg?v=677e1aa6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCm74HCd_QtD1dPArlrUSqsfJm5Rg",
+                "description": "-\n\nイラスト：tomatoさん( https://x.com/kikikiko84 )\n\n本ゲームは holo Indie の承諾を得た上で配信・収益化を行なっております。\n❥・・ ┈┈┈┈┈┈┈┈┈..."
+            }
+        ]
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
