@@ -185,14 +185,7 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw",
-        "videos": [
-            {
-                "video_id": "_blZQ7LStes",
-                "title": "【#ホロ新春ゲーム祭り】に向けFallGuys練習だー！！！【水宮枢／FLOW GLOW】#hololiveDEV_IS",
-                "thumbnail": "https://i.ytimg.com/vi/_blZQ7LStes/hqdefault.jpg?v=677e784f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhordCgFO6m0Zue2uHycjvc6SEfQ",
-                "description": "#ホロ新春ゲーム祭り2025 に向けて！！やるぞ！\n\n本ゲームはEpic Gamesに確認を得た上で配信・収益化を行っております。\n▹◃┄▸◂┄▹◃┄▸◂┄..."
-            }
-        ]
+        "videos": []
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -384,14 +377,7 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/-IdVo-vK7pr0VRjJDdza1-t1Edjce1Rd1R1hon_3SRIzuQ-XVBTWOJj-UfwYPp8y40KM197_y4o",
-        "videos": [
-            {
-                "video_id": "4d8Lkf-VoTc",
-                "title": "【Marvel Rivals】YEEHAWWWWWWWW 【Let's play together!】",
-                "thumbnail": "https://i.ytimg.com/vi/4d8Lkf-VoTc/hqdefault.jpg?v=677e6607&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADrL3IqCe1--pPP71H--mLCUlcEw",
-                "description": "#hololive #holoid #vestiazeta  #vtuber #marvelrivals \n\nThis game is being streamed and monetized after confirming with NetEase Inc.\n\n★  Donasi lokal: https://sociabuzz.com/vestiazeta/tribe..."
-            }
-        ]
+        "videos": []
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
@@ -421,7 +407,14 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/LnJxTvrkHQFdFlyMY2HPtXVEwA7KHlUp8rNzBepF1GQfPQjUN9yKGIqSYOD31F22Ow9vSTn9",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "mrLQzIwhwq8",
+                "title": "【GUERILLA】Elden Ring - moving at the speed of light! (SPOILERS)",
+                "thumbnail": "https://i.ytimg.com/vi/mrLQzIwhwq8/hqdefault.jpg?v=677eb2d3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArYfUJOE_bG7eTGvs8s2KJCCVxDw",
+                "description": "JUSTICE Half Anniversary MERCH!\n▼Official Online Shop▼\nEN: https://shop.hololivepro.com/products/hololiveen_justice_anhalfyear \n▼Geek Jack▼ \nEN: https://shop.geekjack.net/collections/hololi..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
