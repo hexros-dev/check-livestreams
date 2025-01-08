@@ -15,7 +15,15 @@
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
         "avatar_url": "https://yt3.googleusercontent.com/Ob0LQV8-i9FXY_GX4AEnsWsxvYUojcYtjZjtLsmjQRtPoYMZN5qWAe9hRhy7sMa19PlF61BG",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "lfjhz_F1S40",
+                "title": "【 ドラゴンボールZ KAKAROT 】完全初見！ドラゴンボールの世界で超エンジョイだあああ！🔥【ホロライブ/赤井はあと】※ネタバレあり",
+                "date": "2025/01/09 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/lfjhz_F1S40/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmBHQd2N3qDbZDap6qhsx-HCc-ug",
+                "description": "このゲーム実況は「バンダイナムコエンターテインメント ゲーム実況ポリシー」に基づき制作・配信されています。\nhttps://www.bandainamcoent.co.jp/info/v..."
+            }
+        ]
     },
     "@AkiRosenthal": {
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
@@ -46,20 +54,6 @@
         "channel_name": "Ceres Fauna Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/TxZ0xm54BKwYJGEoMPda7gK5iPu7Eh0CxLPM4EU9blg4m6ATy5d8NtwBVSOOZFbRdB67PtUf",
         "videos": []
-    },
-    "@FUWAMOCOch": {
-        "channel_url": "https://www.youtube.com/@FUWAMOCOch",
-        "channel_name": "FUWAMOCO Ch. hololive-EN",
-        "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": [
-            {
-                "video_id": "kuLKpECocWQ",
-                "title": "【GARTIC PHONE COLLAB】silly doodling followed by excitement 🐾 #holoAdvent【BIG ANNOUNCEMENT】",
-                "date": "2025/01/10 09:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/kuLKpECocWQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDftzEyRVf2d-GOLLOELgCQBI5AcA",
-                "description": "excite excite excite excite excite ✨\n@ShioriNovella @NerissaRavencroft @KosekiBijou \n\nThis game is being streamed and monetized after confirming with Onrizon Social Games.\nGartic Phone →..."
-            }
-        ]
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -195,15 +189,7 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw",
-        "videos": [
-            {
-                "video_id": "_blZQ7LStes",
-                "title": "【#ホロ新春ゲーム祭り】に向けFallGuys練習だー！！！【水宮枢／FLOW GLOW】#hololiveDEV_IS",
-                "date": "2025/01/08 21:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/_blZQ7LStes/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhordCgFO6m0Zue2uHycjvc6SEfQ",
-                "description": "#ホロ新春ゲーム祭り2025 に向けて！！やるぞ！\n\n本ゲームはEpic Gamesに確認を得た上で配信・収益化を行っております。\n▹◃┄▸◂┄▹◃┄▸◂┄..."
-            }
-        ]
+        "videos": []
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
