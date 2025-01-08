@@ -234,7 +234,14 @@
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "VQidcgLL7BM",
+                "title": "【ポケカ福袋】✨300万✨の福袋開封するぞおおおおおおおお！！！！！！！！！！！！！！【ホロライブ/夏色まつり】",
+                "thumbnail": "https://i.ytimg.com/vi/VQidcgLL7BM/hqdefault.jpg?v=677d4f61&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDEWr-hNA4SloRHJBBltzyHjhpRg",
+                "description": "...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\n\n素敵なサムネイル→Lily is Asleep様\n@Kukie_nyan\n\n\n...｡oо○**○оo｡...｡oо○**..."
+            }
+        ]
     },
     "@NekomataOkayu": {
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
@@ -326,7 +333,14 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/3st5iCi65fsN1P4-yTbWLHZH84eLsPqWsQ4MBkR1J72FW8pBm2IpHxFGtQ84ZFCcCX8sGJl-Ag",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "h38Fnb6KuC0",
+                "title": "【 最終回#3 】GOD耐久🎰新春！絶対に当てたいGODにぇ～～～！！！【ホロライブ/さくらみこ】",
+                "thumbnail": "https://i.ytimg.com/vi/h38Fnb6KuC0/hqdefault.jpg?v=677e4bd9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1lXbheOQeMXEnk7Ai-gFYt4GnDw",
+                "description": "ハーデス空気をよめ、もう年明けちまったよ\n\n🌸 ￤最新情報\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n🎶Sakura Miko 1st Album..."
+            }
+        ]
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
@@ -441,6 +455,12 @@
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm",
+        "videos": []
+    },
+    "@holoen_gigimurin": {
+        "channel_url": "https://www.youtube.com/@holoen_gigimurin",
+        "channel_name": "Gigi Murin Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/AD2BC7S_QlNSZEHrM-pyRR0C9DOPnfK2OnuFjTK8F842WydS1HDMe6TvhESY9Er96Kt3yu0-fQ",
         "videos": []
     },
     "@holoen_raorapanthera": {
