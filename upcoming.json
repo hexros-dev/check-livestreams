@@ -55,6 +55,20 @@
         "avatar_url": "https://yt3.googleusercontent.com/TxZ0xm54BKwYJGEoMPda7gK5iPu7Eh0CxLPM4EU9blg4m6ATy5d8NtwBVSOOZFbRdB67PtUf",
         "videos": []
     },
+    "@FUWAMOCOch": {
+        "channel_url": "https://www.youtube.com/@FUWAMOCOch",
+        "channel_name": "FUWAMOCO Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
+        "videos": [
+            {
+                "video_id": "kuLKpECocWQ",
+                "title": "【GARTIC PHONE COLLAB】silly doodling followed by excitement 🐾 #holoAdvent【BIG ANNOUNCEMENT】",
+                "date": "2025/01/10 09:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/kuLKpECocWQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDftzEyRVf2d-GOLLOELgCQBI5AcA",
+                "description": "excite excite excite excite excite ✨\n@ShioriNovella @NerissaRavencroft @KosekiBijou \n\nThis game is being streamed and monetized after confirming with Onrizon Social Games.\nGartic Phone →..."
+            }
+        ]
+    },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
         "channel_name": "Gawr Gura Ch. hololive-EN",
@@ -171,7 +185,15 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "GqTvoiXrzgU",
+                "title": "【CHAINED TOGETHER】GRINDSTONE TOURNAMENT TRAINING ARC",
+                "date": "2025/01/09 09:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/GqTvoiXrzgU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCw0jp2s5j3yR7Ru8WeB-LmEvPEAg",
+                "description": "NEW MV RELEASE: https://youtu.be/1ulTgWcWWRU\n\nwith  @KaelaKovalskia \n\nThumbnail art:@BigguguGugu Thank you!!\nhttps://x.com/BigguguGugu/status/1867842098021773794/photo/1\n====================..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -391,15 +413,7 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/4wLMmSJkzy4vmWfWYkmzn6YO9T__jp1cORNuFXN7YyihwvhGkqXCxNBaklKoXlgdik-Fp0Zu",
-        "videos": [
-            {
-                "video_id": "LXC3IkhMlCo",
-                "title": "【メンバー限定配信】開設4年10ヶ月目！企画会議をしよう！【角巻わため/ホロライブ４期生】",
-                "date": "2025/01/08 21:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/LXC3IkhMlCo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBkGAk3R4gPHPj9ooBoMFRCAfWggQ",
-                "description": "毎月８日はMember sheepの記念日です🐏💛\n※配信前にメン限に切り替えるね！\nタグ：#ドドドライブ\n\n🐏角巻わため 活動5周年記念グッズ\n12月29日(Sun)..."
-            }
-        ]
+        "videos": []
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
