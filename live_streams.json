@@ -192,7 +192,14 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Y48M1XFKvhE",
+                "title": "【#ホロクラダイヤ発掘隊】まったりダイヤ探しに行くよ〜💎【水宮枢／FLOW GLOW】#hololiveDEV_IS",
+                "thumbnail": "https://i.ytimg.com/vi/Y48M1XFKvhE/hqdefault.jpg?v=677fe99e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDCypob81ODrr3DixuVNdfz-U5NQ",
+                "description": "ハッシュタグ　#ホロクラダイヤ発掘隊 \nイラストりすさん\nhttps://x.com/risuuu_q?s=21&t=CbrrjZRpYKuQt6jP6ruZBg\n本ゲームは Mojang に確認を得た上、Terms and..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -247,14 +254,7 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/G92yBEhkf9R2mEpayuPvhwlA42tYAPOcNi2r77JeL7ic0ETS_FvTkwkBHjvR6iCqUk7TOlpROQ",
-        "videos": [
-            {
-                "video_id": "cCI8YBhPsdo",
-                "title": "【 #大猫百桜 】俺たちの大富豪はこれからだ🤝🔥【 ホロライブ 】",
-                "thumbnail": "https://i.ytimg.com/vi/cCI8YBhPsdo/hqdefault.jpg?v=677f8833&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhMzQIaODYjE3ekBQxhUNwx-tlZw",
-                "description": "-\n\n@OokamiMio  @SakuraMiko @NakiriAyame \n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n❥・・ ┈┈┈┈┈┈┈┈┈┈┈┈┈..."
-            }
-        ]
+        "videos": []
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
