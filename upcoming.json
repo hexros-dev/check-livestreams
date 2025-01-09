@@ -3,15 +3,7 @@
         "channel_url": "https://www.youtube.com/@AZKi",
         "channel_name": "AZKi Channel",
         "avatar_url": "https://yt3.googleusercontent.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM",
-        "videos": [
-            {
-                "video_id": "6FR1FGasIA0",
-                "title": "【Fall Guys】メン限で開拓者参加型フォールガイズ！【ホロライブ / AZKi】",
-                "date": "2025/01/09 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/6FR1FGasIA0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJ4DEN1PDMmN4WDCpthaXkX0Hvkw",
-                "description": "#ホロ新春ゲーム祭2025 大会に向けてはじめてのフォールガイズ！\n\n※開始直前にメンバーシップ限定に切り替えます。\n\n▼メン限/Membership only..."
-            }
-        ]
+        "videos": []
     },
     "@AiraniIofifteen": {
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
@@ -55,7 +47,15 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "43LlgVoYuiE",
+                "title": "【ZUMA】Yap Yap Yap【Ayunda Risu】",
+                "date": "2025/01/09 20:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/43LlgVoYuiE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZ6NxXUJ92uevBcGEzl4aL9zq34w",
+                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\n\nThis game is being streamed and monetized after receiving prior consent from © 2020 Electronic Arts Inc.\n==================\n\n【LOCAL..."
+            }
+        ]
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -487,7 +487,15 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/-IdVo-vK7pr0VRjJDdza1-t1Edjce1Rd1R1hon_3SRIzuQ-XVBTWOJj-UfwYPp8y40KM197_y4o",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Wkzsgb-nSP0",
+                "title": "【Chained Together】Just a little bit of practice~【#ホロ新春ゲーム祭2025】",
+                "date": "2025/01/09 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Wkzsgb-nSP0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDrp2FuzQ2RogkR1yezTMBn0xCNpg",
+                "description": "#hololive #holoid #vestiazeta  #vtuber\n\n\nThis game is being streamed and monetized after confirming with Anegar Games.\n\n★  Donasi lokal: https://sociabuzz.com/vestiazeta/tribe\n\n\n-----\nVestia..."
+            }
+        ]
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
