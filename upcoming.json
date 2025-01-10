@@ -86,6 +86,13 @@
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
         "videos": [
             {
+                "video_id": "DqZgt-SJuqk",
+                "title": "【FallGuys】 #ホロ新春ゲーム祭2025 練習するよ～～～！！！視聴者参加型ぁッ！！！【博衣こより/ホロライブ】",
+                "date": "2025/01/11 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/DqZgt-SJuqk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJMaxP0DumkAbqCa1aYsAxFS_RAA",
+                "description": "#ホロ新春ゲーム祭2025 全員参加のFallGuys練習するよ～！！！2年ぶりくらい！？？？2年前うまかったので自信ありマス。\n💿博衣こより1stアルバム..."
+            },
+            {
                 "video_id": "KUi-a5XKQnI",
                 "title": "【ロマサガ2リメイク】難易度オリジナルで完全初見！ロマンシングサガ2 リベンジオブザセブン七英雄あと4人！！ #7 【博衣こより/ホロライブ】【ネタバレあり】",
                 "date": "2025/01/11 09:00:00",
@@ -334,7 +341,15 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "vdiBHerbmLo",
+                "title": "【#生スバル】おはすば！！！！！ / OHASHUBA！！！FREE TALK【ホロライブ/大空スバル】",
+                "date": "2025/01/11 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/vdiBHerbmLo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBxWrkDWoES_MHKPtyAOtF_zhrlg",
+                "description": "イラスト▹https://x.com/bxobalice/status/1871901223638745290\n\n使用ソフト：音声認識字幕ちゃん\nhttp://www.sayonari.com/trans_asr/index.html\n※このソフトは開発者（さぁ..."
+            }
+        ]
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -517,7 +532,15 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/LnJxTvrkHQFdFlyMY2HPtXVEwA7KHlUp8rNzBepF1GQfPQjUN9yKGIqSYOD31F22Ow9vSTn9",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "h-EMD8RTzDY",
+                "title": "【UNARCHIVED KARAOKE】CCGG Duo singing!!! with @holoen_gigimurin",
+                "date": "2025/01/11 04:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/h-EMD8RTzDY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4_IkisakJBGJ_ENZV3Z2GKWirVQ",
+                "description": "JUSTICE Half Anniversary MERCH!\n▼Official Online Shop▼\nEN: https://shop.hololivepro.com/products/hololiveen_justice_anhalfyear \n▼Geek Jack▼ \nEN: https://shop.geekjack.net/collections/hololi..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
@@ -561,12 +584,14 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_n1iH9fDDGm8RHUzoB-XDfnTEwhlgBcP3OLjapDqHYoYVw",
-        "videos": []
-    },
-    "@結城さくな": {
-        "channel_url": "https://www.youtube.com/@結城さくな",
-        "channel_name": "Sakuna Ch. 結城さくな",
-        "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "_PvPXz0UAdM",
+                "title": "【＃ホロライブじゃんけん王】優勝者は100万円！新春運試しじゃんけん大会！【ホロライブ/兎田ぺこら】",
+                "date": "2025/01/11 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/_PvPXz0UAdM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCazSTHlbCMTTc3EbqRgcqj2f4LUg",
+                "description": "~燃え燃え出場者~\n@OozoraSubaru \n@TodorokiHajime \n@SakamataChloe \n@HoushouMarine \n@NekomataOkayu \n@MurasakiShion \n@MomosuzuNene \n@HimemoriLuna \n@FUWAMOCOch \n@InugamiKorone \n@TsunomakiWatame..."
+            }
+        ]
     }
 }
