@@ -184,6 +184,12 @@
         "avatar_url": "https://yt3.googleusercontent.com/0NYd0NnC9mCjdu6t_i-JylPkwpz-o3IZ1eLqgG4MdXS-KUPrP36e71UysuoV9eZA1-TRG3gZ",
         "videos": []
     },
+    "@KoboKanaeru": {
+        "channel_url": "https://www.youtube.com/@KoboKanaeru",
+        "channel_name": "Kobo Kanaeru Ch. hololive-ID",
+        "avatar_url": "https://yt3.googleusercontent.com/-CTSHFyohthgdHnFuQzUKOvtl-xpDUSp5-kkeRN9_PadA8DFtSRKhI-3PxoqILuq8_6TwszNBnk",
+        "videos": []
+    },
     "@KoganeiNiko": {
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
         "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -363,7 +369,29 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "QAF4nbQtu9g",
+                "title": "【Chained Together】We Are Going To Slay With @holoen_erbloodflame #ホロ新春ゲーム祭2025",
+                "date": "2025/01/11 03:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/QAF4nbQtu9g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhLlYuN321-YuLLPMLzsgXr5OE0w",
+                "description": "This game is being streamed and monetized after confirming with Anegar Games.\n\n[Twitter]\nhttps://twitter.com/ourokronii\n\n[Thumbnail Art]\nhttps://x.com/yuutomeh97\n\n----------------------------------..."
+            },
+            {
+                "video_id": "WAdHapgsy4M",
+                "title": "【MiSide】Crazy? I Love Crazy",
+                "date": "2025/01/10 11:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/WAdHapgsy4M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwlzd4UOwJ5RXDEB2F3Heqp9pq1Q",
+                "description": "This game is being streamed and monetized after confirming with IndieArk.\n\n[Twitter]\nhttps://twitter.com/ourokronii\n\n----------------------------------------------------------------------------..."
+            },
+            {
+                "video_id": "t2RVx81DQd8",
+                "title": "【Portal 2】Portalin Around With @holoen_raorapanthera",
+                "date": "2025/01/13 03:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/t2RVx81DQd8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKyonLbW9PVFuLeZSZM55LKUWj-A",
+                "description": "This game is being streamed and monetized which following on Valve Video Policy (https://store.steampowered.com/video_policy)\n\n[Twitter]\nhttps://twitter.com/ourokronii\n\n[Thumbnail Art]\nhttps://x.co..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
