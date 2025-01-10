@@ -301,15 +301,7 @@
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
         "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/JDCIBWj11TgjY2Uyba_efZ0n5hzjysMB9GxkvHGkIN_sfFQJR5mx3iVPqgJ96IPcYjZpCLsb",
-        "videos": [
-            {
-                "video_id": "qMupm5f6dZo",
-                "title": "So the moon, a cat, and a demon walk into hell... | Chained Together",
-                "date": "2025/01/11 00:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/qMupm5f6dZo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZ3F5qpW10BcNQ1xGXIRfh-T-geA",
-                "description": "Check out @MoonaHoshinova and @holoen_raorapanthera !\n\n∴∴♪ * Check Out My First EP Here!* ♪∴∴\nhttps://cover.lnk.to/esLvqA\n\n∴∴♪ * Check Out My Music Here!* ♪∴∴\nhttps://www.yo..."
-            }
-        ]
+        "videos": []
     },
     "@NinomaeInanis": {
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
@@ -456,7 +448,29 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "GpzB2uz8qIA",
+                "title": "【 同時視聴/Watchalong 】『ドラゴンクエスト ダイの大冒険(2020)』第83～88話【鷹嶺ルイ/ホロライブ】",
+                "date": "2025/01/11 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/GpzB2uz8qIA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBT0mD6XRQpllYoALSw8Ybi6f777w",
+                "description": "メンバーシップ限定じゃないよ！\n今日は88話まで～！！！！！！！！\nここで語られるのはあくまで初見でみてる私の感想なので想像と違うリアク..."
+            },
+            {
+                "video_id": "Y5btog__DJY",
+                "title": "【 トルネコの大冒険3 】完全初見！母性あふれるポポロと一緒に大冒険【鷹嶺ルイ/ホロライブ】",
+                "date": "2025/01/11 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Y5btog__DJY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_TK_FlZ3V-OB6HT5F7QQsZ0pWdA",
+                "description": "☺\n\n本動画のゲームプレイ映像は、株式会社スクウェア・エニックスの許諾を受けて使用しています。\nこの動画で利用している株式会社スクウェ..."
+            },
+            {
+                "video_id": "rqMjpT1mudg",
+                "title": "【 #ホロ新春ゲーム祭2025 】こっそり深夜練習。【鷹嶺ルイ/ホロライブ】",
+                "date": "2025/01/11 22:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/rqMjpT1mudg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcMJpB33H-WFIvEN28c1K0r9XkmQ",
+                "description": "やるぞぃ\n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\nサムネ：純乃しょう様 (@syochippp)\n\n✦••┈┈┈••┈┈..."
+            }
+        ]
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
@@ -593,5 +607,11 @@
                 "description": "~燃え燃え出場者~\n@OozoraSubaru \n@TodorokiHajime \n@SakamataChloe \n@HoushouMarine \n@NekomataOkayu \n@MurasakiShion \n@MomosuzuNene \n@HimemoriLuna \n@FUWAMOCOch \n@InugamiKorone \n@TsunomakiWatame..."
             }
         ]
+    },
+    "@結城さくな": {
+        "channel_url": "https://www.youtube.com/@結城さくな",
+        "channel_name": "Sakuna Ch. 結城さくな",
+        "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
+        "videos": []
     }
 }

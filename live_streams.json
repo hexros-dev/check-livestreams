@@ -117,14 +117,7 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/K39Md5CGHmCaMC5Ne3UWBzblgzDhUzXUFszrHfGapCvOldc8E7fWw3pxN0zhcjmoht4GngnD",
-        "videos": [
-            {
-                "video_id": "ES5WyVmRvfg",
-                "title": "【 壺おじ】これは壺による締め付けを楽しむゲームです。【ホロライブ DEV_IS 響咲リオナ】",
-                "thumbnail": "https://i.ytimg.com/vi/ES5WyVmRvfg/hqdefault.jpg?v=677c1f68&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8OVNIddrOLJLgXQ_KnvXDcZvImw",
-                "description": "本ゲームは © Foddy.net\n 2016 の承諾を得た上で配信・収益化を行なっております。\n\nよし。。。やるか。やるぞ。やるんだああああああああああああ..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -232,7 +225,14 @@
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
         "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/JDCIBWj11TgjY2Uyba_efZ0n5hzjysMB9GxkvHGkIN_sfFQJR5mx3iVPqgJ96IPcYjZpCLsb",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "qMupm5f6dZo",
+                "title": "So the moon, a cat, and a demon walk into hell... | Chained Together",
+                "thumbnail": "https://i.ytimg.com/vi/qMupm5f6dZo/hqdefault.jpg?v=67802a21&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZ3F5qpW10BcNQ1xGXIRfh-T-geA",
+                "description": "Check out @MoonaHoshinova and @holoen_raorapanthera !\n\n∴∴♪ * Check Out My First EP Here!* ♪∴∴\nhttps://cover.lnk.to/esLvqA\n\n∴∴♪ * Check Out My Music Here!* ♪∴∴\nhttps://www.yo..."
+            }
+        ]
     },
     "@NinomaeInanis": {
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
@@ -443,6 +443,12 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_n1iH9fDDGm8RHUzoB-XDfnTEwhlgBcP3OLjapDqHYoYVw",
+        "videos": []
+    },
+    "@結城さくな": {
+        "channel_url": "https://www.youtube.com/@結城さくな",
+        "channel_name": "Sakuna Ch. 結城さくな",
+        "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
         "videos": []
     }
 }
