@@ -261,7 +261,14 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "QAF4nbQtu9g",
+                "title": "【Chained Together】We Are Going To Slay With @holoen_erbloodflame #ホロ新春ゲーム祭2025",
+                "thumbnail": "https://i.ytimg.com/vi/QAF4nbQtu9g/hqdefault.jpg?v=678065b9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhLlYuN321-YuLLPMLzsgXr5OE0w",
+                "description": "This game is being streamed and monetized after confirming with Anegar Games.\n\n[Twitter]\nhttps://twitter.com/ourokronii\n\n[Thumbnail Art]\nhttps://x.com/yuutomeh97\n\n----------------------------------..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
@@ -357,14 +364,7 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/4wLMmSJkzy4vmWfWYkmzn6YO9T__jp1cORNuFXN7YyihwvhGkqXCxNBaklKoXlgdik-Fp0Zu",
-        "videos": [
-            {
-                "video_id": "k_PILB9G5SQ",
-                "title": "【歌枠】第１２０回！わためぇ Night Fever!! Singing Stream🎤【角巻わため/ホロライブ４期生】",
-                "thumbnail": "https://i.ytimg.com/vi/k_PILB9G5SQ/hqdefault.jpg?v=6780444f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAegMwHVwIs0INIJumJliAeCiKOpg",
-                "description": "今年最初のWNF💃\nタグ：#ドドドライブ\n\n※このライブに用いている一部の音源は、株式会社エクシングより提供されています。\n\n🐏角巻わため..."
-            }
-        ]
+        "videos": []
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
