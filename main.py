@@ -386,7 +386,7 @@ def send_email_upcoming(live_streams: str) -> None:
                             <li style="list-style-type: none; {"color:red;" if need_red else ""} {"color: blue; font-weight: bold; font-style: oblique;" if FILTERS["Unarchived"].get("is_true") else ""} ">
                                 <span><strong>🏷️ Title: </strong>{video['title']}</span> {"".join(filters[1].get("label", "") if filters[1].get("is_true", False) else "" for filters in FILTERS.items())} {"" if exists else new_label}
                                 <br />
-                                <span><strong>📝 Translated Title: </strong>translator.translate(}video['title']})</span>
+                                <span><strong>📝 Translated Title: </strong>translator.translate({video['title']})</span>
                                 <br />
                                 <span><strong>🆔 Stream ID: </strong><span style="font-weight: bold; font-family: consolas, 'Times New Roman', tahoma; font-size:x-large;">{video['video_id']}</span></span>
                                 <br />
