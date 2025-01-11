@@ -344,12 +344,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
         "videos": []
     },
-    "@OtonoseKanade": {
-        "channel_url": "https://www.youtube.com/@OtonoseKanade",
-        "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
-        "avatar_url": "https://yt3.googleusercontent.com/f31Dn0ou0ob-VCRtjZTXed4m22A-bdR9ljFw-0LPa9cPicx7gY3e1vdFkrGxgz0ubHD7vCD_",
-        "videos": []
-    },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
@@ -424,7 +418,15 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "WvI8Qp8Dy2w",
+                "title": "【#ホロ新春ゲーム祭2025】明日ゲーム祭本番ってマ？！今日のさんまはスーパー マリオパーティジャンボリーのミニゲーム練習じゃああ🔥【白銀ノエル/ホロライブ】",
+                "date": "2025/01/12 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/WvI8Qp8Dy2w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqV9Qk2PxfXKRTQBImnZhmZ_aTIQ",
+                "description": "雑談してる場合ちゃうゾッッ！(といいつつ...まったり雑談しながら練習楽しもう✨)\n\nホロライブ学園ボイス→ https://shop.hololivepro.com/products/hololiveac..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -507,7 +509,15 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "SYAqHyCwqQw",
+                "title": "【同時視聴】『レッド・ワン』一緒に見よう～！！【 雪花ラミィ /ホロライブ】",
+                "date": "2025/01/12 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/SYAqHyCwqQw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVhPLry5VQzccUoKSGGh7Mc_Ry7Q",
+                "description": "感想は #らみらいぶ で呟いて頂けたら嬉しいです！\n\nサムネイルイラスト：ゆうさま\nhttps://x.com/y0u06\n\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈..."
+            }
+        ]
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
