@@ -178,7 +178,15 @@
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
         "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/CCOEFxhq858A_1QNu0VF9Y5vvXm9V4l7klSdL4FfMsOAAnVxoiAcxAlQO9RV0lCib6Fi_EkVrA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "se2Ig4F2JTE",
+                "title": "【#ホロ新春ゲーム祭2025 特訓】鎖のショトカ調べ&特訓、フォルガも練習するぞ！！【虎金妃笑虎】",
+                "date": "2025/01/11 20:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/se2Ig4F2JTE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOdnVndt9u1jVAVJy6h3ftLk345A",
+                "description": null
+            }
+        ]
     },
     "@KosekiBijou": {
         "channel_url": "https://www.youtube.com/@KosekiBijou",
@@ -309,15 +317,7 @@
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/f31Dn0ou0ob-VCRtjZTXed4m22A-bdR9ljFw-0LPa9cPicx7gY3e1vdFkrGxgz0ubHD7vCD_",
-        "videos": [
-            {
-                "video_id": "IF3I--Ws0U0",
-                "title": "【 Fall Guys 】#ホロ新春ゲーム祭 の練習するぞー！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-                "date": "2025/01/11 12:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/IF3I--Ws0U0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC7qlrk2Wut277RGzsbe1jhvgCXMw",
-                "description": "50万人記念グッズ販売ストアはこちら！✨\n受注受付期間 : 2024年12月18日 21時00分 ～ 2025年01月20日 18時00分\nhttps://shop.hololivepro.com/products/otonosekanade_500k..."
-            }
-        ]
+        "videos": []
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
@@ -337,15 +337,7 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": [
-            {
-                "video_id": "d8ZrOa-yRRc",
-                "title": "THANK YOU #holoROCK_p4rty!! Reading Your Letters & More【Pavolia Reine/Anya/Ollie/hololiveID 2nd gen】",
-                "date": "2025/01/11 12:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/d8ZrOa-yRRc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxQbnYbOsm2T7bYhmXp-fbj64BYQ",
-                "description": "▼Official Online Shop▼\nJP：https://shop.hololivepro.com/products/hololiveid_2ndgen_an4th\nEN：https://shop.hololivepro.com/en/products/hololiveid_2ndgen_an4th\n\n▼Geek Jack▼\nEN：https://sho..."
-            }
-        ]
+        "videos": []
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -441,6 +433,20 @@
                 "date": "2025/01/11 22:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/rqMjpT1mudg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcMJpB33H-WFIvEN28c1K0r9XkmQ",
                 "description": "やるぞぃ\n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\nサムネ：純乃しょう様 (@syochippp)\n\n✦••┈┈┈••┈┈..."
+            }
+        ]
+    },
+    "@TodorokiHajime": {
+        "channel_url": "https://www.youtube.com/@TodorokiHajime",
+        "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+        "avatar_url": "https://yt3.googleusercontent.com/LObfzJe4AIufIErJzQy1xzwQcA5AX6rJh8AxJe-qvG2yBO-tbTVDwXqOkoeK_MoGPC6C3lMxQ_c",
+        "videos": [
+            {
+                "video_id": "_byghWBFAPE",
+                "title": "【重大告知あり！】はじめの日！ホロ歌枠🎤✨【轟はじめ/ReGLOSS】 #hololivedev_is",
+                "date": "2025/01/11 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/_byghWBFAPE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKUO14MSzUkORkWcpSWoWrzxk6Yw",
+                "description": "#はじめの日2025 で一緒に盛り上げてくれ👊\n\n素敵なサムネお写真：RAY_様（@_RAY_o0）\nサムネデザイン：ᴋ ᴇ ʜ ᴀ ɪ（@kasuka_oo0oo）\n\n￣￣￣￣￣￣￣..."
             }
         ]
     },
