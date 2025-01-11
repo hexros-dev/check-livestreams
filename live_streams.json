@@ -196,7 +196,14 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/FT92k-lGkFhElXOuq3KlwCvCpWPlEYwtAy2tjRibnmkrPP-Aaksbf2_P7XY26O9R2W4efoP7",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "eNSCfva0pjU",
+                "title": "【Alien: Isolation】bogos binted? @holoen_gigimurin  #calliolive",
+                "thumbnail": "https://i.ytimg.com/vi/eNSCfva0pjU/hqdefault.jpg?v=677f8186&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANVwNq-37KEbvJqa9zLoKbJhMgUQ",
+                "description": "Feb 26, 2025\n💀Mori Calliope 2nd Concert \"Grimoire\" 💀\nto be held at the Hollywood Palladium in Los Angeles!\n\n◼︎Venue Tickets\nTickets will be on sales from Dec 14th 6:00 PM (PST)\n*More..."
+            }
+        ]
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -256,14 +263,7 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": [
-            {
-                "video_id": "vdiBHerbmLo",
-                "title": "【#生スバル】おはすば！！！！！ / OHASHUBA！！！FREE TALK【ホロライブ/大空スバル】",
-                "thumbnail": "https://i.ytimg.com/vi/vdiBHerbmLo/hqdefault.jpg?v=67814adc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBxWrkDWoES_MHKPtyAOtF_zhrlg",
-                "description": "イラスト▹https://x.com/bxobalice/status/1871901223638745290\n\n使用ソフト：音声認識字幕ちゃん\nhttp://www.sayonari.com/trans_asr/index.html\n※このソフトは開発者（さぁ..."
-            }
-        ]
+        "videos": []
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -403,19 +403,6 @@
         "channel_name": "Choco Ch. 癒月ちょこ",
         "avatar_url": "https://yt3.googleusercontent.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g",
         "videos": []
-    },
-    "@dooby3d": {
-        "channel_url": "https://www.youtube.com/@dooby3d",
-        "channel_name": "dooby",
-        "avatar_url": "https://yt3.googleusercontent.com/QBddwfs8nHiD5V-Dm9HcRfmjpCMpIGbRfKmk6vmejPEo8hyePLSo4oHm34TSLVHswqbTNjKZOw",
-        "videos": [
-            {
-                "video_id": "ZO8SZ5OQ264",
-                "title": "【Cabin Factory】a simple case of cabin fever............ ????",
-                "thumbnail": "https://i.ytimg.com/vi/ZO8SZ5OQ264/hqdefault.jpg?v=6781a98a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCF7aajFicEGfjPm4W6gc_7jdEX5Q",
-                "description": "ebic gameblay\n☆hallo~\r\n \r\n【CHAT RULES】(yes the chat is moderated)\r\n☆➡ try to be civil\r\n☆➡ no hate / racism\r\n☆➡ no off topic mentions of people, drama, politics etc\r\njust use..."
-            }
-        ]
     },
     "@holoen_ceciliaimmergreen": {
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
