@@ -76,14 +76,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "P27MTlKdldU",
-                "title": "【ロマサガ2リメイク】難易度オリジナルで完全初見！ロマンシングサガ2 リベンジオブザセブン！ロックブーケに会いに行く～？？ #8 【博衣こより/ホロライブ】【ネタバレあり】",
-                "thumbnail": "https://i.ytimg.com/vi/P27MTlKdldU/hqdefault.jpg?v=67823945&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjvmLio8zfwJi_8a8TkmoGK0dwnA",
-                "description": "2だけどストーリーは独立してるので完全初見でも楽しい！難易度オリジナルで頑張ってます！ネタバレ＆指示コメントはNGだよ！\n💿博衣こより1st..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -308,7 +301,14 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/TejsfeJ29zBtQDJhP2TKDFAEk98-LuGRBGqrNIjbGQ05T9R5Jcl_VfsK27LZ_PXJmRP7DECk-w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "s9zgNY-Ygq8",
+                "title": "【 BIOHAZARD 7 】ミアどこだ～～～～～～！！【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "thumbnail": "https://i.ytimg.com/vi/s9zgNY-Ygq8/hqdefault.jpg?v=6783795a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzMLoSO-yFqRJ2uqusprOHnYRn3w",
+                "description": "バイオ何もわからない…映画をちょっと見たことしかない…\nこういうストーリー系のホラーも初めてです…お手柔らかに\nミアを探しています…..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
