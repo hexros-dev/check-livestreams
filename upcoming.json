@@ -88,15 +88,7 @@
         "channel_url": "https://www.youtube.com/@GawrGura",
         "channel_name": "Gawr Gura Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/6BCfAqi9yIpZbHLbw9BAWySvB3XZf9r8jFqudO5nSOsHoGzLhlKrm1M1uuMCRabi_pXGDzl7",
-        "videos": [
-            {
-                "video_id": "kmLBOT9Sz3Y",
-                "title": "【MiSide】Do You Love Woman",
-                "date": "2025/01/13 06:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/kmLBOT9Sz3Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDrdAgFhfijcRKFXvsBqiB76noxog",
-                "description": "🐟 twitter: https://twitter.com/gawrgura \n\n\nThis game is being streamed and monetized after confirming with IndieArk.\n\nRequest from hololive Production to underage viewers: Please be sure..."
-            }
-        ]
+        "videos": []
     },
     "@HakosBaelz": {
         "channel_url": "https://www.youtube.com/@HakosBaelz",
@@ -166,7 +158,15 @@
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "7fhHs0Ros50",
+                "title": "ラストまで！【ド★初見】はじめての「ペーパーマリオRPG」遊ぶよ～！【戌神ころね/ホロライブ】",
+                "date": "2025/01/13 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/7fhHs0Ros50/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBrOrTH9APuHkvtwelSMBYvtmNvWw",
+                "description": "Play Game : Paper Mario: The Thousand Year Door ( switch )\nタグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nころねTwitter▶https..."
+            }
+        ]
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
