@@ -128,7 +128,15 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/JyixAV--9ZFWIMEwRQFbZhkiQTEvb1ALCdX7bW9BarpyLBjAnbbmc98jymhVT_pZlJpWaDwk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "3ZQmExmoVuY",
+                "title": "【#ホロ新春ゲーム祭2025】おかゆ先輩チーム!! 8番出口 RTAいくぞぉぉぉ 【一条莉々華 / ReGLOSS】",
+                "date": "2025/01/13 18:40:00",
+                "thumbnail": "https://i.ytimg.com/vi/3ZQmExmoVuY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5EFZigaKDcH8_HWh0ZMgYemdcrw",
+                "description": "本配信🔽\nhttps://www.youtube.com/watch?v=oEwrn-eb3lI\n\n本ゲームは、動画配信ガイドラインに則り配信、収益化を行なっております。\nhttps://store.steampowered.com/a..."
+            }
+        ]
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -180,6 +188,12 @@
         "avatar_url": "https://yt3.googleusercontent.com/CCOEFxhq858A_1QNu0VF9Y5vvXm9V4l7klSdL4FfMsOAAnVxoiAcxAlQO9RV0lCib6Fi_EkVrA",
         "videos": []
     },
+    "@KosekiBijou": {
+        "channel_url": "https://www.youtube.com/@KosekiBijou",
+        "channel_name": "Koseki Bijou Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg",
+        "videos": []
+    },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
@@ -218,15 +232,7 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw",
-        "videos": [
-            {
-                "video_id": "IrxMx4ckB-8",
-                "title": "【マリオカート8DX】水宮はとにかく走る#ホロ新春ゲーム祭2025 参加型多め【水宮枢／FLOW GLOW】#hololiveDEV_IS",
-                "date": "2025/01/12 20:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/IrxMx4ckB-8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdhRAqIGMtBa2v04jK79XwGg-fJA",
-                "description": "#ホロ新春ゲーム祭2025 に向けてラスト練習はしるぞ\n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n▹◃┄▸◂┄..."
-            }
-        ]
+        "videos": []
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -248,7 +254,7 @@
             {
                 "video_id": "3X7TifppLhI",
                 "title": "【CHAINED TOGETHER】...someone free me. @KoboKanaeru",
-                "date": "2025/01/12 20:00:00",
+                "date": "2025/01/12 21:30:00",
                 "thumbnail": "https://i.ytimg.com/vi/3X7TifppLhI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4k3h7fMly4fsZMAFl32GczGaFBg",
                 "description": "SOLO LIVE TICKETS ON SALE NOW!\nhttps://www.ticketmaster.com/event/0900618BF1E836DE\n\nPrecautions\n*For General Admission area will be all-standing. \n*For Early Entry GA Ticket you will be able..."
             },
@@ -367,15 +373,7 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/TejsfeJ29zBtQDJhP2TKDFAEk98-LuGRBGqrNIjbGQ05T9R5Jcl_VfsK27LZ_PXJmRP7DECk-w",
-        "videos": [
-            {
-                "video_id": "lrbqK-sotFw",
-                "title": "【 #ホロ新春ゲーム祭2025 】PLATE UP！練習会！先輩たちとピザ屋さんになる！！！！！！【  #輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "date": "2025/01/12 20:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/lrbqK-sotFw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB72c_z42XQrRPPMAWtuuj9VF9IGg",
-                "description": "てきぱきはたらきますよ！！！！！！！！\n\n一緒に練習してくださる先輩方！\n@HoushouMarine \n@AZKi \n @FUWAMOCOch \n\n\n本ゲームはYogscast Games.に確認の上、配..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -419,15 +417,7 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": [
-            {
-                "video_id": "z6jneltq5Ms",
-                "title": "【スプラトゥーン3】フェス！ #フレアイリス で「おもいで」陣営後半！【不知火フレア/IRyS/ホロライブ】",
-                "date": "2025/01/12 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/z6jneltq5Ms/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgfOMSBtWgqfZX2Wb3E-_zRgyhXA",
-                "description": "ホロライブ所属３期生の不知火フレア(Flare Shiranui)だよ～\n @IRyS   永遠のイカ友\n\n━━━━━━━━━━━━━━━━━━━━━━━\n■Newシングル「..."
-            }
-        ]
+        "videos": []
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",

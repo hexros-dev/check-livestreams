@@ -46,14 +46,7 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": [
-            {
-                "video_id": "KGtxIWOE8l4",
-                "title": "【Marvel Rivals】SQUIRREL GIRL, GO !【Ayunda Risu】",
-                "thumbnail": "https://i.ytimg.com/vi/KGtxIWOE8l4/hqdefault.jpg?v=67836ebf&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0lHKBZz6aT33wLoMLzuBghhQacQ",
-                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nThis game is being streamed and monetized after confirming with NetEase Inc.\n==================\n\n【LOCAL DONATION LINK HERE】:\nhttps://soc..."
-            }
-        ]
+        "videos": []
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -205,6 +198,12 @@
         "avatar_url": "https://yt3.googleusercontent.com/CCOEFxhq858A_1QNu0VF9Y5vvXm9V4l7klSdL4FfMsOAAnVxoiAcxAlQO9RV0lCib6Fi_EkVrA",
         "videos": []
     },
+    "@KosekiBijou": {
+        "channel_url": "https://www.youtube.com/@KosekiBijou",
+        "channel_name": "Koseki Bijou Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg",
+        "videos": []
+    },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
@@ -221,7 +220,14 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "IrxMx4ckB-8",
+                "title": "【マリオカート8DX】水宮はとにかく走る#ホロ新春ゲーム祭2025 参加型多め【水宮枢／FLOW GLOW】#hololiveDEV_IS",
+                "thumbnail": "https://i.ytimg.com/vi/IrxMx4ckB-8/hqdefault.jpg?v=678376f0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdhRAqIGMtBa2v04jK79XwGg-fJA",
+                "description": "#ホロ新春ゲーム祭2025 に向けてラスト練習はしるぞ\n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n▹◃┄▸◂┄..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -337,7 +343,14 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/TejsfeJ29zBtQDJhP2TKDFAEk98-LuGRBGqrNIjbGQ05T9R5Jcl_VfsK27LZ_PXJmRP7DECk-w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "lrbqK-sotFw",
+                "title": "【 #ホロ新春ゲーム祭2025 】PLATE UP！練習会！先輩たちとピザ屋さんになる！！！！！！【  #輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "thumbnail": "https://i.ytimg.com/vi/lrbqK-sotFw/hqdefault.jpg?v=6783c39b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB72c_z42XQrRPPMAWtuuj9VF9IGg",
+                "description": "てきぱきはたらきますよ！！！！！！！！\n\n一緒に練習してくださる先輩方！\n@HoushouMarine \n@AZKi \n @FUWAMOCOch \n\n\n本ゲームはYogscast Games.に確認の上、配..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -387,7 +400,14 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "z6jneltq5Ms",
+                "title": "【スプラトゥーン3】フェス！ #フレアイリス で「おもいで」陣営後半！【不知火フレア/IRyS/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/z6jneltq5Ms/hqdefault.jpg?v=67839883&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgfOMSBtWgqfZX2Wb3E-_zRgyhXA",
+                "description": "ホロライブ所属３期生の不知火フレア(Flare Shiranui)だよ～\n @IRyS   永遠のイカ友\n\n━━━━━━━━━━━━━━━━━━━━━━━\n■Newシングル「..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
