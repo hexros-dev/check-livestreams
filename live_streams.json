@@ -275,7 +275,14 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "t2RVx81DQd8",
+                "title": "【Portal 2】Portalin Around With @holoen_raorapanthera",
+                "thumbnail": "https://i.ytimg.com/vi/t2RVx81DQd8/hqdefault.jpg?v=6780689a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKyonLbW9PVFuLeZSZM55LKUWj-A",
+                "description": "This game is being streamed and monetized which following on Valve Video Policy (https://store.steampowered.com/video_policy)\n\n[Twitter]\nhttps://twitter.com/ourokronii\n\n[Thumbnail Art]\nhttps://x.co..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
@@ -293,6 +300,12 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/GF0wbwZvZAGzYg8s8d6Yh1BDcWAE9UmLAh2uf3IMJ5l_ESi3sWeRqk2XfhW3IgzMeliHpt4cAw",
+        "videos": []
+    },
+    "@SakamataChloe": {
+        "channel_url": "https://www.youtube.com/@SakamataChloe",
+        "channel_name": "Chloe ch. 沙花叉クロヱ - holoX -",
+        "avatar_url": "https://yt3.googleusercontent.com/laCUmozlesp2wZd9k_DCDG_AYgQRGJm0yiL5pigqWAJE1TzYaOXQ6VcfEGacl8L-gpgR07I7HA",
         "videos": []
     },
     "@SakuraMiko": {
@@ -401,7 +414,14 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/LnJxTvrkHQFdFlyMY2HPtXVEwA7KHlUp8rNzBepF1GQfPQjUN9yKGIqSYOD31F22Ow9vSTn9",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "EkzbUgF7Ax0",
+                "title": "【Elden Ring】Did you know that I can do this: *pop* *pop* (SPOILERS)",
+                "thumbnail": "https://i.ytimg.com/vi/EkzbUgF7Ax0/hqdefault.jpg?v=6783fd82&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfN5062ZMfx5iuaZfc_S4DFnWcAw",
+                "description": "JUSTICE Half Anniversary MERCH!\n▼Official Online Shop▼\nEN: https://shop.hololivepro.com/products/hololiveen_justice_anhalfyear \n▼Geek Jack▼ \nEN: https://shop.geekjack.net/collections/hololi..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
