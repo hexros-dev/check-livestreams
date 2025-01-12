@@ -5,12 +5,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM",
         "videos": []
     },
-    "@AiraniIofifteen": {
-        "channel_url": "https://www.youtube.com/@AiraniIofifteen",
-        "channel_name": "Airani Iofifteen Channel hololive-ID",
-        "avatar_url": "https://yt3.googleusercontent.com/bF91weVtAIL7Uhnr2HVwtCTLVKK5kVsn4FC_Ze3Gl8rkSsEjDwyey3AbQ1PDfJQ1Oeac5cePeg",
-        "videos": []
-    },
     "@AkaiHaato": {
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
@@ -126,14 +120,7 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/JyixAV--9ZFWIMEwRQFbZhkiQTEvb1ALCdX7bW9BarpyLBjAnbbmc98jymhVT_pZlJpWaDwk",
-        "videos": [
-            {
-                "video_id": "ksqMGSJA_Tk",
-                "title": "【ドラゴンクエストIIIリメイク】ドラクエIII初プレイ!!! ロトシリーズ完走するぞー!!! part4 ※ネタバレあり",
-                "thumbnail": "https://i.ytimg.com/vi/ksqMGSJA_Tk/hqdefault.jpg?v=678279fa&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkDj7t6pjHXufGpL1iYtUM_NcNWA",
-                "description": "ルイ姉からのアドバイスを受け、1からプレイ！！！\nリメイク版までにロトシリーズ楽しみたい✨\nドラクエ３は初見だよー！！！！\n\n※Switch版でプ..."
-            }
-        ]
+        "videos": []
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -169,7 +156,14 @@
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
         "channel_name": "Kobo Kanaeru Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/-CTSHFyohthgdHnFuQzUKOvtl-xpDUSp5-kkeRN9_PadA8DFtSRKhI-3PxoqILuq8_6TwszNBnk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "yKUg-79suSY",
+                "title": "【Gold and Glory】GRINDING!! CARI ITEM BAGUS BARENG KITA HOLOH3RO!!!!",
+                "thumbnail": "https://i.ytimg.com/vi/yKUg-79suSY/hqdefault.jpg?v=6782a171&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNVAfHcMpT1-UaYmQ4yylxVHDenQ",
+                "description": "Main bareng @VestiaZeta & @KaelaKovalskia (Holoh3ro)\n\nBokobokobo- Kobo Kanaeru at your service! Let me be your sun to shine your day, ehe~ ;D ☔☔☔\n#OnAeru #Kobo_Kanaeru #holoID #holoID03..."
+            }
+        ]
     },
     "@KoganeiNiko": {
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
@@ -241,14 +235,7 @@
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
-        "videos": [
-            {
-                "video_id": "-SR_N-7lFa0",
-                "title": "【マリオカート8DX】 #ホロ新春ゲーム祭り2025 チームに貢献するために！【ホロライブ/夏色まつり】",
-                "thumbnail": "https://i.ytimg.com/vi/-SR_N-7lFa0/hqdefault.jpg?v=67823746&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAiuwtIRkBV3OiMLYnQOxqcehDWxw",
-                "description": "#ホロ新春ゲーム祭り2025 に向けてリハビリ～！\n\n素敵なサムネイル→しろこ先生\n@siroko_mk\n\n\nこの動画およびライブは、任天堂著作物の利用許諾を受..."
-            }
-        ]
+        "videos": []
     },
     "@NekomataOkayu": {
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
@@ -485,7 +472,14 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_n1iH9fDDGm8RHUzoB-XDfnTEwhlgBcP3OLjapDqHYoYVw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "uB6GxHc7PRc",
+                "title": "【#兎田ぺこら生誕祭2025】生誕３D LIVE！FEVER！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
+                "thumbnail": "https://i.ytimg.com/vi/uB6GxHc7PRc/hqdefault.jpg?v=6782a217&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATvCvcJTpQypv0MLtNdJY3vG0ZXQ",
+                "description": "🥕まだナイショ\n【】\n\n🥕アンコール配信\n【https://www.youtube.com/live/4q1DdtjYIPs?si=hCyz6hfSYZ8vSXEW】\n\n🥕ゲスト\n@AZKi \n@NakiriAyame \n@OokamiMio \n@InugamiKorone \n@Shiranui..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
