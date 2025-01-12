@@ -423,12 +423,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
         "videos": []
     },
-    "@RindoChihaya": {
-        "channel_url": "https://www.youtube.com/@RindoChihaya",
-        "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
-        "avatar_url": "https://yt3.googleusercontent.com/TejsfeJ29zBtQDJhP2TKDFAEk98-LuGRBGqrNIjbGQ05T9R5Jcl_VfsK27LZ_PXJmRP7DECk-w",
-        "videos": []
-    },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
@@ -489,13 +483,29 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "oN0RMCTa1y0",
+                "title": "【STELLAR BLADE】tangent blade #kfp #キアライブ",
+                "date": "2025/01/14 00:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/oN0RMCTa1y0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQQtN9gF5AeAZ8DoM0V9KYJ2QP3A",
+                "description": "stream my new song, MIRAGE!✨https://cover.lnk.to/DQSp3S\n👀 Takanashi Kiara 1st Album \"Point of View\" 👀\nStreaming: https://cover.lnk.to/PointofView\n\n\n 🏵️[Twitter] 🏵️\nhttps://twitter..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "yik8V0w--Zk",
+                "title": "【 #ホロ新春ゲーム祭2025 】大丈夫。マリカなら任せてください。【鷹嶺ルイ/ホロライブ】",
+                "date": "2025/01/13 18:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/yik8V0w--Zk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChFbe_GC5rNSpvKVMZQtEdrcdI7w",
+                "description": "チームのために上位いくぞ。\n\n全体視点\n@TokoyamiTowa \n\n🚑スバルチームのみんな🚑\n@OozoraSubaru \n‪@Robocosan  \n‪@ShirakamiFubuki \n‪@usadapekora \n‪@AmaneKanata..."
+            }
+        ]
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
@@ -616,11 +626,5 @@
                 "description": "楽しくがんばるぺこ(^▽^)\n\nスバル先輩チーム\n@OozoraSubaru \n@ShirakamiFubuki \n@AmaneKanata \n@Robocosan \n@HakosBaelz \n@KosekiBijou \n@OtonoseKanade \n@holoen_gigimurin \n@KaelaKovalskia..."
             }
         ]
-    },
-    "@結城さくな": {
-        "channel_url": "https://www.youtube.com/@結城さくな",
-        "channel_name": "Sakuna Ch. 結城さくな",
-        "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": []
     }
 }
