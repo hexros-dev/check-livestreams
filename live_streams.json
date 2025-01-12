@@ -83,7 +83,14 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "OUBElg2ytXQ",
+                "title": "【マリオカート8DX】 #ホロ新春ゲーム祭2025 最後の練習！1位耐久・・・するのか？できるのか！？？【博衣こより/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/OUBElg2ytXQ/hqdefault.jpg?v=67823a4c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPaWjDEiihdFX6xmI8bosimeACmg",
+                "description": "先日1時間半で消えました。博衣こよりです。3位以上も1回も無かったけど、1位獲れますか？\n💿博衣こより1stアルバム『FIRST STEP』先行予約受付中..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -241,20 +248,20 @@
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "-SR_N-7lFa0",
+                "title": "【マリオカート8DX】 #ホロ新春ゲーム祭り2025 チームに貢献するために！【ホロライブ/夏色まつり】",
+                "thumbnail": "https://i.ytimg.com/vi/-SR_N-7lFa0/hqdefault.jpg?v=67823746&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAiuwtIRkBV3OiMLYnQOxqcehDWxw",
+                "description": "#ホロ新春ゲーム祭り2025 に向けてリハビリ～！\n\n素敵なサムネイル→しろこ先生\n@siroko_mk\n\n\nこの動画およびライブは、任天堂著作物の利用許諾を受..."
+            }
+        ]
     },
     "@NekomataOkayu": {
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/G92yBEhkf9R2mEpayuPvhwlA42tYAPOcNi2r77JeL7ic0ETS_FvTkwkBHjvR6iCqUk7TOlpROQ",
-        "videos": [
-            {
-                "video_id": "wbk_pL4RU-c",
-                "title": "【 ゼノブレイド 】完全初見で参る参る～～ #02【 猫又おかゆ/ホロライブ 】",
-                "thumbnail": "https://i.ytimg.com/vi/wbk_pL4RU-c/hqdefault.jpg?v=6782518f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsvjxGpgtrfCVxj6FHlP5JutRe5A",
-                "description": "-\n\nイラスト：SuNaさん( https://x.com/sunamama4788 )\n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n❥・・ ┈┈┈┈┈┈┈..."
-            }
-        ]
+        "videos": []
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -293,6 +300,12 @@
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
         "videos": []
     },
+    "@OtonoseKanade": {
+        "channel_url": "https://www.youtube.com/@OtonoseKanade",
+        "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+        "avatar_url": "https://yt3.googleusercontent.com/f31Dn0ou0ob-VCRtjZTXed4m22A-bdR9ljFw-0LPa9cPicx7gY3e1vdFkrGxgz0ubHD7vCD_",
+        "videos": []
+    },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
@@ -328,14 +341,7 @@
         "channel_url": "https://www.youtube.com/@SakamataChloe",
         "channel_name": "Chloe ch. 沙花叉クロヱ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/laCUmozlesp2wZd9k_DCDG_AYgQRGJm0yiL5pigqWAJE1TzYaOXQ6VcfEGacl8L-gpgR07I7HA",
-        "videos": [
-            {
-                "video_id": "j9VQvg1x1N8",
-                "title": "【 重大告知あり 】五目並べ最弱王、全CPUに勝てるまで告知できません！！！【ホロライブ/沙花叉クロヱ】",
-                "thumbnail": "https://i.ytimg.com/vi/j9VQvg1x1N8/hqdefault.jpg?v=6782f8c3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWyiM71tKfrrIVakYaF3h2bxCULw",
-                "description": "重大告知です！勝たないとやばい！！！\n※風邪引いてるので今日はスパチャ読み行いません！\n\n\n⚠️1月27日まで⚠️最初で最後のさかまた歴代人..."
-            }
-        ]
+        "videos": []
     },
     "@SakuraMiko": {
         "channel_url": "https://www.youtube.com/@SakuraMiko",
@@ -353,14 +359,7 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": [
-            {
-                "video_id": "c56Y9M9Sp3M",
-                "title": "【FINAL FANTASY XIV】ガンブレララ狐と黄金のレガシー patch7.0　※ネタバレあり※ 【ホロライブ/白上フブキ】",
-                "thumbnail": "https://i.ytimg.com/vi/c56Y9M9Sp3M/hqdefault.jpg?v=67834639&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQJi67mP82Qz71S-zm_YNHkm3uDQ",
-                "description": "⚠FF14内における迷惑行為等はご遠慮ください。\n━━━━━━━━━━━━━━━━━━━━━━━\n🌽白上フブキ1stソロライブ FBKINGDOM “ANTHEM”..."
-            }
-        ]
+        "videos": []
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
