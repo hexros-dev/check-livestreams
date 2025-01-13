@@ -138,7 +138,14 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/K39Md5CGHmCaMC5Ne3UWBzblgzDhUzXUFszrHfGapCvOldc8E7fWw3pxN0zhcjmoht4GngnD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Sz-TdJsAgbg",
+                "title": "【 #ホロ新春ゲーム祭2025】ついに本番！楽しむぞ！！！！！【ホロライブ DEV_IS 響咲リオナ】",
+                "thumbnail": "https://i.ytimg.com/vi/Sz-TdJsAgbg/hqdefault.jpg?v=6784bbc5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsJWDMgQWdzjjHBBrTaW4GauSyaQ",
+                "description": "ミオ先輩チームで参加です！！！！\n楽しく遊んで一点でもチームに貢献が目標ですっ！！！！\nでも一番は楽しむ！！！！がんばるぞおおおおおお..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -156,14 +163,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/0NYd0NnC9mCjdu6t_i-JylPkwpz-o3IZ1eLqgG4MdXS-KUPrP36e71UysuoV9eZA1-TRG3gZ",
-        "videos": [
-            {
-                "video_id": "HyrUj0nKPzA",
-                "title": "【#ホロ新春ゲーム祭2025】本番！マリオパーティジャンボリー！＆？？？【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "thumbnail": "https://i.ytimg.com/vi/HyrUj0nKPzA/hqdefault.jpg?v=678410ab&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAoVPEyWQrXJLM1D9SySJ5LIIJvEQ",
-                "description": "スーパー マリオパーティ ジャンボリー\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\nFall Guys: Ultimate Knockout..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -199,13 +199,27 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "cEd5-_PdUpE",
+                "title": "【#ホロ新春ゲーム祭2025】今日が本番、、？なにか変、、【水宮枢／FLOW GLOW】#hololiveDEV_IS",
+                "thumbnail": "https://i.ytimg.com/vi/cEd5-_PdUpE/hqdefault.jpg?v=678480e6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHrYc-Yjzfgj1KZcg2V51g5UFbdQ",
+                "description": "#ホロ新春ゲーム祭2025\n本番？明日だし明日。うん。だから落ち着け水宮。\n\n猫又おかゆ先輩のチームです！🍙メンバー⬇️\n‪@NekomataOkayu  ‪@AkiRosen..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "A6-cZ-skYgY",
+                "title": "【 #ホロ新春ゲーム祭2025 】いぇ～～～～～～い✌おだの勝ち！【 桃鈴ねね / hololive 】",
+                "thumbnail": "https://i.ytimg.com/vi/A6-cZ-skYgY/hqdefault.jpg?v=6784bece&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLQAkQs-xm3nXrkZ9eMDkj-hhGYg",
+                "description": "サクッとね余裕のある女、ねねでいくわ～～～～～✨\nチームメンバー\n@TokoyamiTowa \n@AZKi  \n@NatsuiroMatsuri \n@LaplusDarknesss \n@TodorokiHajime \n@RindoChihaya \n@KureijiOll..."
+            }
+        ]
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
@@ -250,10 +264,10 @@
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
         "videos": [
             {
-                "video_id": "EAGrSQhgYdo",
-                "title": "【Puzzle Together】トワチームパズル視点【ホロライブ/夏色まつり】",
-                "thumbnail": "https://i.ytimg.com/vi/EAGrSQhgYdo/hqdefault.jpg?v=6784c8c2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDl3MSb65lzvkyqUS8eyyAS0S3LHw",
-                "description": "本ゲームは Copyright 2020 IronZog LLC に確認を得た上で配信・収益化を行っております。\n\n本ゲームは配信ガイドラインに則り配信・収益化を行なって..."
+                "video_id": "38hYYvOBgQs",
+                "title": "【#ホロ新春ゲーム祭2025】本番！がんばるぞ～！【ホロライブ/夏色まつり】",
+                "thumbnail": "https://i.ytimg.com/vi/38hYYvOBgQs/hqdefault.jpg?v=6784a6a0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB26OvYOX1v2MWPE7k2a2Va6TY9Tw",
+                "description": "...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\nHololive New Year Game Festival 2025\n\n\n素敵なサムネイル→とくまろ様\n@tokumaro..."
             }
         ]
     },
@@ -399,14 +413,7 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": [
-            {
-                "video_id": "3ZwYFTGbAO4",
-                "title": "【#ホロ新春ゲーム祭2025】みおしゃちーむノエル！！【白銀ノエル/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/3ZwYFTGbAO4/hqdefault.jpg?v=6784f29d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7FihPd0dX8Yi0VTR646PDvIMh_g",
-                "description": "ホロライブ学園ボイス→ https://shop.hololivepro.com/products/hololiveacademyvoice_entrancearc_hololive?variant=44717217120476\n日常ささやきASMR「こたつでまったり」→..."
-            }
-        ]
+        "videos": []
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -424,7 +431,14 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "yik8V0w--Zk",
+                "title": "【 #ホロ新春ゲーム祭2025 】大丈夫。マリカなら任せてください。【鷹嶺ルイ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/yik8V0w--Zk/hqdefault.jpg?v=678429c5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChFbe_GC5rNSpvKVMZQtEdrcdI7w",
+                "description": "チームのために上位いくぞ。\n\n全体視点\n@TokoyamiTowa \n\n🚑スバルチームのみんな🚑\n@OozoraSubaru \n‪@Robocosan  \n‪@ShirakamiFubuki \n‪@usadapekora \n‪@AmaneKanata..."
+            }
+        ]
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
