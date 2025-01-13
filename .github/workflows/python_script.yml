@@ -43,7 +43,8 @@ jobs:
                   python main.py
             - name: Push titles.db to master
               run: |
-                  git checkout -b master || git checkout master
+                  git checkout master
+                  git reset --hard origin/master
                   git add titles.db
                   if git diff --cached --quiet; then
                     echo "No changes to commit in titles.db."
@@ -51,9 +52,11 @@ jobs:
                     git commit -m "Update titles.db via GitHub Actions"
                     git push origin master
                   fi
+            
             - name: Pushing to output
               run: |
-                  git checkout -b output || git checkout output
+                  git checkout output
+                  git reset --hard origin/output
                   git add upcoming.json live_streams.json prev_hash_live.md5 prev_hash_upcoming.md5 time-run.txt
                   if git diff --cached --quiet; then
                     echo "No changes to commit."
