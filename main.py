@@ -1,6 +1,7 @@
 # ====================== IMPORTS ======================
 import json
 import os
+import shutil
 import smtplib
 import sqlite3
 import time
@@ -10,6 +11,7 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from hashlib import md5
 from pathlib import Path
+from uuid import uuid4
 
 import inflect
 import pytz
@@ -427,10 +429,6 @@ def send_email_upcoming(live_streams: str) -> None:
                     upcoming_counter += 1
                     need_red = True
 
-                # Count
-                # unarchive_counter, is_unarchived = counter(unarchive_counter, video['title'].lower(), UNARCHIVE_FILTERS)
-                # karaoke_counter, is_karaoke = counter(karaoke_counter, video['title'].lower(), KARAOKE_FILTERS)
-
                 for filters in FILTERS.items():
                     _filter = filters[1].get("filter", [])
                     filters[1]["counter"], filters[1]["is_true"] = (
@@ -441,7 +439,6 @@ def send_email_upcoming(live_streams: str) -> None:
                             _filter,
                         )
                     )
-                    # filters[1]["counter"], filters[1]["is_true"] = counter(filters[1]["counter"], video['description'], _filter, filters[1].get("is_true", False))
 
                 # Get emoji
                 emoji = get_clock_emoji(schedule_date)
@@ -646,11 +643,20 @@ def send_email_live(live_streams: str) -> None:
 
 
 def get_info_livestream(channel_url: str):
+    Path("./temp").mkdir(parents=True, exist_ok=True)
+    original_cookies = Path("cookies.txt").absolute()
+    src_dir = original_cookies.parent
+    temp_dir = src_dir / "temp"
+    temp_dir = temp_dir.resolve()
+    temp_cookies_name = f"{uuid4().hex}.txt"
+    temp_cookies_path = temp_dir / temp_cookies_name
+    temp_cookies_path = temp_cookies_path.resolve()
+    shutil.copy(original_cookies, temp_cookies_path)
     yt_opts = {
         "extract_flat": True,
         "skip_download": True,
         "quiet": True,
-        "cookiefile": Path("cookies.txt").absolute(),
+        "cookiefile": temp_cookies_path,
         "verbose": False,
     }
     # "logger": logging.getLogger(), # in yt_opts
@@ -806,3 +812,7 @@ if __name__ == "__main__":
     init_db()
     main()
     clean_up_old_titles()
+    try:
+        shutil.rmtree("./temp")
+    except OSError as e:
+        print("Error: %s - %s." % (e.filename, e.strerror))
