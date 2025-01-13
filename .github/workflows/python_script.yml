@@ -41,23 +41,10 @@ jobs:
                   python create_cookies_file.py
                   python load-json.py
                   python main.py
-            - name: Push titles.db to master
-              run: |
-                  git checkout master
-                  git reset --hard origin/master
-                  git add titles.db
-                  if git diff --cached --quiet; then
-                    echo "No changes to commit in titles.db."
-                  else
-                    git commit -m "Update titles.db via GitHub Actions"
-                    git push origin master
-                  fi
-            
             - name: Pushing to output
               run: |
-                  git checkout output
-                  git reset --hard origin/output
-                  git add upcoming.json live_streams.json prev_hash_live.md5 prev_hash_upcoming.md5 time-run.txt
+                  git checkout -b output || git checkout output
+                  git add upcoming.json live_streams.json prev_hash_live.md5 prev_hash_upcoming.md5 time-run.txt titles.db
                   if git diff --cached --quiet; then
                     echo "No changes to commit."
                   else
