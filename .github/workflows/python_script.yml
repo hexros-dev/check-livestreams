@@ -43,7 +43,7 @@ jobs:
                   python main.py
             - name: Push titles.db to master
               run: |
-                  git checkout master
+                  git checkout -b master || git checkout master
                   git add titles.db
                   if git diff --cached --quiet; then
                     echo "No changes to commit in titles.db."
