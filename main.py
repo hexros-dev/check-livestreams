@@ -651,7 +651,7 @@ def get_info_livestream(channel_url: str):
         "skip_download": True,
         "quiet": True,
         "cookiefile": Path("cookies.txt").absolute(),
-        "verbose": True,
+        "verbose": False,
     }
     # "logger": logging.getLogger(), # in yt_opts
     upcoming = {}
