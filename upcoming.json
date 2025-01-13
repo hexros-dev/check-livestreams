@@ -115,12 +115,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/CTvZ3dUO8LocQMKbGkjUPysC524gC4asm5roilZmzhpBpWAWpLrhpRv0SpEaJeWm1oVP5v0g",
         "videos": []
     },
-    "@HiodoshiAo": {
-        "channel_url": "https://www.youtube.com/@HiodoshiAo",
-        "channel_name": "Ao Ch. 火威青 ‐ ReGLOSS",
-        "avatar_url": "https://yt3.googleusercontent.com/sMnKpvVB1QLNSWGX-AIZ00lFTWAUzuZRAi_rlT7Cs9bIGzvWr-1yvKrKZ0tCtX7Ywtzds6ecSXM",
-        "videos": []
-    },
     "@HoshimachiSuisei": {
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
         "channel_name": "Suisei Channel",
@@ -386,7 +380,22 @@
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/f31Dn0ou0ob-VCRtjZTXed4m22A-bdR9ljFw-0LPa9cPicx7gY3e1vdFkrGxgz0ubHD7vCD_",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "dWJWYb9abiM",
+                "title": "【 #ホロ新春ゲーム祭2025 】ついに本番！！！スバル先輩チームで頑張るぞおおおお～Fall guys編～【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+                "date": "2025/01/13 19:05:00",
+                "thumbnail": "https://i.ytimg.com/vi/dWJWYb9abiM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxUDcBCoJXC-Qo2E_Md3L3RM7mbw",
+                "description": "50万人記念グッズ販売ストアはこちら！✨\n受注受付期間 : 2024年12月18日 21時00分 ～ 2025年01月20日 18時00分\nhttps://shop.hololivepro.com/products/otonosekanade_500k..."
+            },
+            {
+                "video_id": "q9dGQnWnDaQ",
+                "title": "【 #ホロ新春ゲーム祭2025 】 ついに本番！！！スバル先輩チームで頑張るぞおおおお～マリパ編～【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+                "date": "2025/01/13 15:10:00",
+                "thumbnail": "https://i.ytimg.com/vi/q9dGQnWnDaQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDSB1fve9vnekjUvzjUxkSSwlzgxw",
+                "description": "50万人記念グッズ販売ストアはこちら！✨\n受注受付期間 : 2024年12月18日 21時00分 ～ 2025年01月20日 18時00分\nhttps://shop.hololivepro.com/products/otonosekanade_500k..."
+            }
+        ]
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
@@ -502,7 +511,15 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/LObfzJe4AIufIErJzQy1xzwQcA5AX6rJh8AxJe-qvG2yBO-tbTVDwXqOkoeK_MoGPC6C3lMxQ_c",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "9YfCICERGi0",
+                "title": "【#ホロ新春ゲーム祭】本番！8番出口RTAとFall Guysたのしく勝つぞー！【轟はじめ/ReGLOSS】 #hololivedev_is",
+                "date": "2025/01/13 18:15:00",
+                "thumbnail": "https://i.ytimg.com/vi/9YfCICERGi0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQQJDPjY8rSK-K36nikdKqdfnq-w",
+                "description": "本配信：https://www.youtube.com/watch?v=oEwrn-eb3lI\nトワ様チーム：@TokoyamiTowa \n@AZKi \n@NatsuiroMatsuri \n@HoushouMarine \n@MomosuzuNene \n@LaplusDarknesss \n@RindoChihaya \n@KureijiOllie..."
+            }
+        ]
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
@@ -542,7 +559,15 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/-IdVo-vK7pr0VRjJDdza1-t1Edjce1Rd1R1hon_3SRIzuQ-XVBTWOJj-UfwYPp8y40KM197_y4o",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ZRiCRM-1AJE",
+                "title": "【Chained Together】YAAAAYY 【#ホロ新春ゲーム祭2025 / Hololive New Year Game Festival 2025】",
+                "date": "2025/01/13 15:50:00",
+                "thumbnail": "https://i.ytimg.com/vi/ZRiCRM-1AJE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCLKTVr-p34Xwfi1B5TDUvi0mvkIg",
+                "description": "#hololive #holoid #vestiazeta  #vtuber\n\n\nThis game is being streamed and monetized after confirming with Anegar Games.\n\n★  Donasi lokal: https://sociabuzz.com/vestiazeta/tribe\n\n\n-----\nVestia..."
+            }
+        ]
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
