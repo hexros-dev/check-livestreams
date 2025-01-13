@@ -47,15 +47,7 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": [
-            {
-                "video_id": "T4dTPAGH2K8",
-                "title": "【M.M.M.】Monday Morning Malas : Good morning and good malas !【Ayunda Risu】",
-                "date": "2025/01/13 09:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/T4dTPAGH2K8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWB435DwDmrEqRnoksMr0WQQ_klQ",
-                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\n==================\n\n【LOCAL DONATION LINK HERE】:\nhttps://sociabuzz.com/ayundarisu/tribe\n\n【Streamlabs donation link here】:\nhttps://str..."
-            }
-        ]
+        "videos": []
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -164,15 +156,7 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/K39Md5CGHmCaMC5Ne3UWBzblgzDhUzXUFszrHfGapCvOldc8E7fWw3pxN0zhcjmoht4GngnD",
-        "videos": [
-            {
-                "video_id": "0-8w37A_1lQ",
-                "title": "【 #ホロ新春ゲーム祭2025】最後の練習！ファイナルラストエンド完結編後編！！【ホロライブ DEV_IS 響咲リオナ】",
-                "date": "2025/01/13 10:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/0-8w37A_1lQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXSCxvb9vucOVAu0yqUPh-WWVHrA",
-                "description": "Mario Kart 8 Deluxe\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n\nホロ新春 ゲーム祭２０２５当日です！！！最後の..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -263,7 +247,15 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "cEd5-_PdUpE",
+                "title": "【#ホロ新春ゲーム祭2025】今日が本番、、？なにか変、、【水宮枢／FLOW GLOW】#hololiveDEV_IS",
+                "date": "2025/01/13 18:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/cEd5-_PdUpE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHrYc-Yjzfgj1KZcg2V51g5UFbdQ",
+                "description": "#ホロ新春ゲーム祭2025\n本番？明日だし明日。うん。だから落ち着け水宮。\n\n猫又おかゆ先輩のチームです！🍙メンバー⬇️\n‪@NekomataOkayu  ‪@AkiRosen..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -281,15 +273,7 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/FT92k-lGkFhElXOuq3KlwCvCpWPlEYwtAy2tjRibnmkrPP-Aaksbf2_P7XY26O9R2W4efoP7",
-        "videos": [
-            {
-                "video_id": "F6p_uuXQsYI",
-                "title": "【ENDURANCE KARAOKE】Singing Until My Army Hits 2.5 Million Skeletons! #calliolive",
-                "date": "2025/01/13 09:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/F6p_uuXQsYI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQMJd8BRHT5ldERheqqy3u15fdtw",
-                "description": "SOLO LIVE TICKETS ON SALE NOW!\nhttps://www.ticketmaster.com/event/0900618BF1E836DE\n\nPrecautions\n*For General Admission area will be all-standing. \n*For Early Entry GA Ticket you will be able..."
-            }
-        ]
+        "videos": []
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -491,11 +475,25 @@
             }
         ]
     },
+    "@TodorokiHajime": {
+        "channel_url": "https://www.youtube.com/@TodorokiHajime",
+        "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+        "avatar_url": "https://yt3.googleusercontent.com/LObfzJe4AIufIErJzQy1xzwQcA5AX6rJh8AxJe-qvG2yBO-tbTVDwXqOkoeK_MoGPC6C3lMxQ_c",
+        "videos": []
+    },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "OB_p48XvhwQ",
+                "title": "【Fall Guys: Ultimate Knockout】#ホロ新春ゲーム祭2025 練習しておこうかな？【ホロライブ/ときのそら】",
+                "date": "2025/01/13 10:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/OB_p48XvhwQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6HO5Msf_TCidRyPcUeWqrtNcsRg",
+                "description": "操作思い出しておかないと！！\n\n本ゲームはEpic Gamesに確認を得た上で配信・収益化を行っております。\n\n★★★★★★★★★★★★★★★★★★★..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
@@ -553,15 +551,7 @@
         "channel_url": "https://www.youtube.com/@dooby3d",
         "channel_name": "dooby",
         "avatar_url": "https://yt3.googleusercontent.com/QBddwfs8nHiD5V-Dm9HcRfmjpCMpIGbRfKmk6vmejPEo8hyePLSo4oHm34TSLVHswqbTNjKZOw",
-        "videos": [
-            {
-                "video_id": "1bUpzyA8cAI",
-                "title": "【RANKED】throwing in 4k LIVE 🍈 MARVEL RIVALS",
-                "date": "2025/01/13 09:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/1bUpzyA8cAI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKK2iASzHH6dzpZ_O6lBwBy8sl9g",
-                "description": "THATS A JOKE !!!!  I'm trying my best ITS CALLED MULTITASKING 😤\nplayed for a bit Season 0 and reached Diamond 1~ maybe GM this season?\n(the stream is not actually 4k sry)\n【CHAT RULES】(yes..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_ceciliaimmergreen": {
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
