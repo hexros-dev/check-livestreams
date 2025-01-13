@@ -193,7 +193,7 @@ def clean_up_old_titles():
     """Xóa các tiêu đề không được truy cập trong 5 ngày qua."""
     conn = sqlite3.connect(DB_PATH)
     cursor = conn.cursor()
-    cutoff_time = int((datetime.now() - timedelta(days=5)).timestamp())
+    cutoff_time = int((datetime.now() - timedelta(days=1)).timestamp())
     cursor.execute("DELETE FROM video_titles WHERE last_accessed < ?", (cutoff_time,))
     conn.commit()
     conn.close()
