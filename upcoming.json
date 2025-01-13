@@ -68,6 +68,12 @@
             }
         ]
     },
+    "@GawrGura": {
+        "channel_url": "https://www.youtube.com/@GawrGura",
+        "channel_name": "Gawr Gura Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/6BCfAqi9yIpZbHLbw9BAWySvB3XZf9r8jFqudO5nSOsHoGzLhlKrm1M1uuMCRabi_pXGDzl7",
+        "videos": []
+    },
     "@HakosBaelz": {
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
@@ -118,6 +124,12 @@
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
         "videos": []
     },
+    "@IchijouRirika": {
+        "channel_url": "https://www.youtube.com/@IchijouRirika",
+        "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+        "avatar_url": "https://yt3.googleusercontent.com/JyixAV--9ZFWIMEwRQFbZhkiQTEvb1ALCdX7bW9BarpyLBjAnbbmc98jymhVT_pZlJpWaDwk",
+        "videos": []
+    },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
@@ -158,7 +170,15 @@
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
         "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/CCOEFxhq858A_1QNu0VF9Y5vvXm9V4l7klSdL4FfMsOAAnVxoiAcxAlQO9RV0lCib6Fi_EkVrA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "PqLp29yuOLA",
+                "title": "【歌枠】ひさしぶりにいっぱい歌うぞ【虎金妃笑虎】",
+                "date": "2025/01/14 20:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/PqLp29yuOLA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdTzPqlqKssbTPToEu67TiCjOETw",
+                "description": "サムネイルのイラストはBYOIさんのイラストです！\nhttps://x.com/shoi_1035/status/1865271471687524764\nこの虚無感がたまらん、、💛\n\n￣￣￣￣￣￣￣￣￣￣￣￣..."
+            }
+        ]
     },
     "@KosekiBijou": {
         "channel_url": "https://www.youtube.com/@KosekiBijou",
@@ -293,6 +313,12 @@
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
         "videos": []
     },
+    "@OtonoseKanade": {
+        "channel_url": "https://www.youtube.com/@OtonoseKanade",
+        "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+        "avatar_url": "https://yt3.googleusercontent.com/f31Dn0ou0ob-VCRtjZTXed4m22A-bdR9ljFw-0LPa9cPicx7gY3e1vdFkrGxgz0ubHD7vCD_",
+        "videos": []
+    },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
@@ -315,6 +341,12 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/GF0wbwZvZAGzYg8s8d6Yh1BDcWAE9UmLAh2uf3IMJ5l_ESi3sWeRqk2XfhW3IgzMeliHpt4cAw",
+        "videos": []
+    },
+    "@SakamataChloe": {
+        "channel_url": "https://www.youtube.com/@SakamataChloe",
+        "channel_name": "Chloe ch. 沙花叉クロヱ - holoX -",
+        "avatar_url": "https://yt3.googleusercontent.com/laCUmozlesp2wZd9k_DCDG_AYgQRGJm0yiL5pigqWAJE1TzYaOXQ6VcfEGacl8L-gpgR07I7HA",
         "videos": []
     },
     "@SakuraMiko": {
@@ -471,6 +503,12 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/IzJcA0QlV4JwWH9yXi7Voa3359fHUB182xd_xxs92xd_3kuw_pa45dKeyQ9hvKl_1OhwbT6M3g",
+        "videos": []
+    },
+    "@mikenekoko": {
+        "channel_url": "https://www.youtube.com/@mikenekoko",
+        "channel_name": "みけねこch",
+        "avatar_url": "https://yt3.googleusercontent.com/xp-Gpx4379mUVBgIIKKyABkJZAEZhBdLIL2JsgTiEpvfN7G0J4NHQ2uI3ycywuNKAlXJOSmsbQ",
         "videos": []
     },
     "@usadapekora": {
