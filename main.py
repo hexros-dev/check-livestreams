@@ -1,11 +1,11 @@
 # ====================== IMPORTS ======================
 import json
-import logging
 import os
 import smtplib
+import sqlite3
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from datetime import datetime
+from datetime import datetime, timedelta
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from hashlib import md5
@@ -18,10 +18,11 @@ import yt_dlp
 from deep_translator import GoogleTranslator
 from dotenv import load_dotenv
 
+# import logging
 load_dotenv()
 from_lang = "auto"
 to_lang = "en"
-# translator = GoogleTranslator(source=from_lang, target=to_lang)
+translator = GoogleTranslator(source=from_lang, target=to_lang)
 # ====================== CONSTANTS ======================
 SENDER_EMAIL = os.getenv("SENDER_EMAIL")
 SENDER_PWD = os.getenv("SENDER_PWD")
@@ -29,6 +30,7 @@ RECEIVER_EMAIL = os.getenv("RECEIVER_EMAIL")
 ENV = os.getenv("ENV") or "production"
 DISCORD_WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK_URL")
 LIMIT = 15  # minutes
+DB_PATH = "titles.db"
 
 ENV_LIST = {
     "production": "AUTO",
@@ -120,11 +122,81 @@ class Color:
 
 
 # ====================== HELPER FUNCTIONS ======================
-logging.basicConfig(
-    filename="yt-dlp.log",  # File log
-    level=logging.DEBUG,  # Ghi chi tiết log
-    format="%(asctime)s - %(levelname)s - %(message)s",
-)
+# logging.basicConfig(
+#     filename="yt-dlp.log",  # File log
+#     level=logging.DEBUG,  # Ghi chi tiết log
+#     format="%(asctime)s - %(levelname)s - %(message)s",
+# )
+
+
+def init_db():
+    """Khởi tạo cơ sở dữ liệu nếu chưa tồn tại."""
+    conn = sqlite3.connect(DB_PATH)
+    cursor = conn.cursor()
+    cursor.execute(
+        """
+        CREATE TABLE IF NOT EXISTS video_titles (
+            original_title TEXT PRIMARY KEY,
+            translated_title TEXT,
+            last_accessed INTEGER
+        )
+    """
+    )
+    conn.commit()
+    conn.close()
+
+
+def translate_title(title: str) -> str:
+    return translator.translate(title)
+
+
+def get_translated_title(original_title, translate_func):
+    """
+    Lấy tiêu đề đã dịch hoặc dịch nếu chưa tồn tại.
+    :param original_title: Tiêu đề gốc
+    :param translate_func: Hàm dịch tiêu đề
+    :return: Tiêu đề đã dịch
+    """
+    conn = sqlite3.connect(DB_PATH)
+    cursor = conn.cursor()
+    current_time = int(time.time())
+
+    # Kiểm tra trong cơ sở dữ liệu
+    cursor.execute(
+        "SELECT translated_title FROM video_titles WHERE original_title = ?",
+        (original_title,),
+    )
+    row = cursor.fetchone()
+
+    if row:
+        # Cập nhật thời gian truy cập
+        cursor.execute(
+            "UPDATE video_titles SET last_accessed = ? WHERE original_title = ?",
+            (current_time, original_title),
+        )
+        conn.commit()
+        conn.close()
+        return row[0]
+    else:
+        # Dịch và lưu lại
+        translated_title = translate_func(original_title)
+        cursor.execute(
+            "INSERT INTO video_titles (original_title, translated_title, last_accessed) VALUES (?, ?, ?)",
+            (original_title, translated_title, current_time),
+        )
+        conn.commit()
+        conn.close()
+        return translated_title
+
+
+def clean_up_old_titles():
+    """Xóa các tiêu đề không được truy cập trong 5 ngày qua."""
+    conn = sqlite3.connect(DB_PATH)
+    cursor = conn.cursor()
+    cutoff_time = int((datetime.now() - timedelta(days=5)).timestamp())
+    cursor.execute("DELETE FROM video_titles WHERE last_accessed < ?", (cutoff_time,))
+    conn.commit()
+    conn.close()
 
 
 def get_clock_emoji(dt: datetime) -> str:
@@ -386,7 +458,7 @@ def send_email_upcoming(live_streams: str) -> None:
                             <li style="list-style-type: none; {"color:red;" if need_red else ""} {"color: blue; font-weight: bold; font-style: oblique;" if FILTERS["Unarchived"].get("is_true") else ""} ">
                                 <span><strong>🏷️ Title: </strong>{video['title']}</span> {"".join(filters[1].get("label", "") if filters[1].get("is_true", False) else "" for filters in FILTERS.items())} {"" if exists else new_label}
                                 <br />
-                                <span><strong>📝 Translated Title: </strong>translator.translate({video['title']})</span>
+                                <span><strong>📝 Translated Title: </strong>{get_translated_title(video['title'], translate_title)}</span>
                                 <br />
                                 <span><strong>🆔 Stream ID: </strong><span style="font-weight: bold; font-family: consolas, 'Times New Roman', tahoma; font-size:x-large;">{video['video_id']}</span></span>
                                 <br />
@@ -521,7 +593,7 @@ def send_email_live(live_streams: str) -> None:
                             <li style="list-style-type: none; {'color: red; font-weight: bold; font-style: oblique;' if FILTERS["Unarchived"].get("is_true") else ''}">
                                 <span><strong>🏷️ Title: </strong>{video['title']}</span> {"".join(filters[1].get("label", "") if filters[1].get("is_true", False) else "" for filters in FILTERS.items())} {"" if exists else new_label}
                                 <br />
-                                <span><strong>📝 Translated Title: </strong>translator.translate({video['title']})</span>
+                                <span><strong>📝 Translated Title: </strong>{get_translated_title(video['title'], translate_title)}</span>
                                 <br />
                                 <span><strong>🆔 Stream ID: </strong><span style="font-weight: bold; font-family: consolas, 'Times New Roman', tahoma; font-size:x-large;">{video['video_id']}</span></span>
                                 <br />
@@ -580,8 +652,8 @@ def get_info_livestream(channel_url: str):
         "quiet": True,
         "cookiefile": Path("cookies.txt").absolute(),
         "verbose": True,
-        "logger": logging.getLogger(),
     }
+    # "logger": logging.getLogger(), # in yt_opts
     upcoming = {}
     live_streams = {}
     avatar_url = ""
@@ -731,4 +803,6 @@ def main():
 
 
 if __name__ == "__main__":
+    init_db()
     main()
+    clean_up_old_titles()
