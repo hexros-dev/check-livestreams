@@ -118,7 +118,14 @@
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "7fhHs0Ros50",
+                "title": "ラストまで！【ド★初見】はじめての「ペーパーマリオRPG」遊ぶよ～！【戌神ころね/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/7fhHs0Ros50/hqdefault.jpg?v=678449d8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBrOrTH9APuHkvtwelSMBYvtmNvWw",
+                "description": "Play Game : Paper Mario: The Thousand Year Door ( switch )\nタグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nころねTwitter▶https..."
+            }
+        ]
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
@@ -363,12 +370,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
         "videos": []
     },
-    "@TodorokiHajime": {
-        "channel_url": "https://www.youtube.com/@TodorokiHajime",
-        "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
-        "avatar_url": "https://yt3.googleusercontent.com/LObfzJe4AIufIErJzQy1xzwQcA5AX6rJh8AxJe-qvG2yBO-tbTVDwXqOkoeK_MoGPC6C3lMxQ_c",
-        "videos": []
-    },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
@@ -427,14 +428,7 @@
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm",
-        "videos": [
-            {
-                "video_id": "BuLIolGKeGQ",
-                "title": "【CHAINED TOGETHER】 Training for #ホロ新春ゲーム祭2025 ~! 💄",
-                "thumbnail": "https://i.ytimg.com/vi/BuLIolGKeGQ/hqdefault.jpg?v=678441ad&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAReI_siwF2XXFvMO6UUshESSlr-g",
-                "description": "Training / Practice for the hololive New Year Game Festival 2025!\n▬▬ι════════ﺤ\nMerch!!! For JUSTICE!!!!!! HUZZAH! \n ▼Official Online Shop▼\n JP: https://shop.hololivepro.c..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_gigimurin": {
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
