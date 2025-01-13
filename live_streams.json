@@ -124,7 +124,14 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/K39Md5CGHmCaMC5Ne3UWBzblgzDhUzXUFszrHfGapCvOldc8E7fWw3pxN0zhcjmoht4GngnD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "d-tJ8vyWc6Y",
+                "title": "【 視聴者参加型】後夜祭！！！FALL GUYS やりませんか？？？？【ホロライブ DEV_IS 響咲リオナ】",
+                "thumbnail": "https://i.ytimg.com/vi/d-tJ8vyWc6Y/hqdefault.jpg?v=67852c72&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-LfJfSP5kzASGutr3Nk7bLo1nsQ",
+                "description": "超！まったりいこおお\n\n+‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥+\nFall Guys: Ultimate Knockout\n本ゲームはEpic Gamesに確..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -389,14 +396,7 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": [
-            {
-                "video_id": "uMdrXFG14g4",
-                "title": "【晩酌】寝る前に一緒にちょっと飲もう♡【 雪花ラミィ /ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/uMdrXFG14g4/hqdefault.jpg?v=6784cd63&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCUIFmVooFz1HaMPnMfW05xnfo36g",
-                "description": "感想は #らみらいぶ で呟いて頂けたら嬉しいです！\n\nサムネイルイラスト：Tsukimi*さま\nhttps://x.com/tsukimi_mm\n\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈..."
-            }
-        ]
+        "videos": []
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
@@ -426,12 +426,6 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/AD2BC7S_QlNSZEHrM-pyRR0C9DOPnfK2OnuFjTK8F842WydS1HDMe6TvhESY9Er96Kt3yu0-fQ",
-        "videos": []
-    },
-    "@holoen_raorapanthera": {
-        "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
-        "channel_name": "Raora Panthera Ch. hololive-EN",
-        "avatar_url": "https://yt3.googleusercontent.com/8XQlrbkx1vBSpFZQ_GwV6hxep9EX0xHBH-CmWknoHusxXOKGnfVytVRzpt-36PxJOfumNjiBkAI",
         "videos": []
     },
     "@kazamairoha": {
