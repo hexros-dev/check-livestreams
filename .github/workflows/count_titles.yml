@@ -1,0 +1,17 @@
+name: Count titles in titles.db
+on:
+    workflow_dispatch:
+jobs:
+    count_record:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout Output Branch
+              uses: actions/checkout@v4.2.0
+              with:
+                  ref: output
+            - name: Set Up Python
+              uses: actions/setup-python@v5.2.0
+              with:
+                  python-version: '3.12.6'
+            - name: Run Python Script
+              run: python count_titles.py
