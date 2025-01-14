@@ -4,6 +4,7 @@ out/
 loop/
 tests/
 __pycache__/
+backup/
 .env
 live_streams.json
 prev_hash_live.md5
