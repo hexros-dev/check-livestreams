@@ -166,14 +166,7 @@
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/Df9IibspJL2Dur37_ebWD6n6F0U8Fvp_1QOu5m-d7qqEAn1fRwsMiar4CvSpHrI3wA6uPw2h",
-        "videos": [
-            {
-                "video_id": "MD2nPhOUHYE",
-                "title": "【HUNIE POP 2】I-INTENSE TILE MATCHING TIME!!【Kureiji Ollie】",
-                "thumbnail": "https://i.ytimg.com/vi/MD2nPhOUHYE/hqdefault.jpg?v=67837cbc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA38qRTGweerE7rTpe2MdIwWjWNUA",
-                "description": "#IOLLIE #OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n==========================================\n\nThis game is being streamed and monetized after confirming with HuniePot.\nhttps://store.steampower..."
-            }
-        ]
+        "videos": []
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
@@ -185,7 +178,14 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "jhRlCf-yRs4",
+                "title": "【Trombone Champ】トロンボーン任せてください✋【水宮枢／FLOW GLOW】#hololiveDEV_IS",
+                "thumbnail": "https://i.ytimg.com/vi/jhRlCf-yRs4/hqdefault.jpg?v=6785fc4d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCR8_q2D96rGu7nOTaaEizGJQkuQw",
+                "description": "本ゲームは Holy Wow の確認を得た上で配信・収益化を行なっております。\n\n▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸◂┄▹◃\n\n💙メンバーシップはこち..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
