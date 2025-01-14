@@ -368,15 +368,7 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": [
-            {
-                "video_id": "7F8niYvjPxw",
-                "title": "【Balatro】Let Me Unlock Something Today【Pavolia Reine/hololiveID 2nd gen】",
-                "date": "2025/01/14 13:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/7F8niYvjPxw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAby2X39xllnlfWIsCx2tWz6f560Q",
-                "description": "Support me here (overseas): https://streamlabs.com/pavoliareinechhololive-id/tip\nSupport me here (Indonesia): https://sociabuzz.com/pavoliareine/tribe\n\nThis game is being streamed and monetized..."
-            }
-        ]
+        "videos": []
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -434,7 +426,15 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "JSZP-h69ZWk",
+                "title": "【Backroom Company】#バカタレサーカス バックルームなうｗｗ【不知火フレア/ホロライブ】",
+                "date": "2025/01/14 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/JSZP-h69ZWk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC50im-0Jq33sUWWGmdoUN0uaWuig",
+                "description": "ホロライブ所属３期生の不知火フレア(Flare Shiranui)だよ～\n軽い気持ちで誘ってほんとにすまなかった…\n◉フブちゃん     @ShirakamiFubuki \n◉わためぇ..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
