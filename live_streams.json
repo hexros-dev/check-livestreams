@@ -53,7 +53,14 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "995QkX6r7RA",
+                "title": "【#RiSekaiExpress】Risu's Isekai Express : Special Performance Delivery【3D Birthday Performance】",
+                "thumbnail": "https://i.ytimg.com/vi/995QkX6r7RA/hqdefault.jpg?v=67868777&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKxHqi-INJQKJb_SIGieFOYWFsNQ",
+                "description": "#RiSekaiExpress #HappyRisuDay2025 #Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nSpecial Thanks\nトライフロンティア合同会社\nKosK　https://twitter.com/kosk_mix?lang=ja..."
+            }
+        ]
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -187,14 +194,7 @@
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/Df9IibspJL2Dur37_ebWD6n6F0U8Fvp_1QOu5m-d7qqEAn1fRwsMiar4CvSpHrI3wA6uPw2h",
-        "videos": [
-            {
-                "video_id": "10Pd_sMBnKY",
-                "title": "【PLATEUP!】LAM姉妹最高のレストラン!! WE'RE COOKING CHAT!! w/ @HanabiChoya 【Kureiji Ollie】",
-                "thumbnail": "https://i.ytimg.com/vi/10Pd_sMBnKY/hqdefault.jpg?v=67878ddb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwjwcNGDKHM2JvOfmj8p31R_1F4Q",
-                "description": "#IOLLIE #OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n==========================================\n\nThis game is being streamed and monetized after confirming with Yogscast Games.\n\n=================..."
-            }
-        ]
+        "videos": []
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
@@ -212,14 +212,7 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": [
-            {
-                "video_id": "IUe3bqjSuzc",
-                "title": "【 おけけぬき 】ねねが一本ずつ丁寧におけけぬいてあげうめう～～～～～【 桃鈴ねね / hololive 】",
-                "thumbnail": "https://i.ytimg.com/vi/IUe3bqjSuzc/hqdefault.jpg?v=678785b7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUe_pFpRgvFdelRSpWQ1bHzcuHLQ",
-                "description": "癒されたい人どうぞ～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～☆\n⸜♡⸝MemberShipに入ったらもっとねねを知れる..."
-            }
-        ]
+        "videos": []
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
@@ -505,13 +498,6 @@
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": [
-            {
-                "video_id": "iywxf7xdWBQ",
-                "title": "【呪われたデジカメ】このカメラ・・・なんかおかしい・・・　#結城さくな生放送",
-                "thumbnail": "https://i.ytimg.com/vi/iywxf7xdWBQ/hqdefault.jpg?v=6787783d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBqq_MbfZeUC6g_6h1oaMY7AQJCg",
-                "description": "Cursed Digicam | 呪われたデジカメ\nhttps://store.steampowered.com/app/3334550/Cursed_Digicam/?l=japanese\n\n🎀歌ってみた動画🐾\nhttps://youtube.com/playlist?list=PLErsMirGq93vRw-CcRa..."
-            }
-        ]
+        "videos": []
     }
 }

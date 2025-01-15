@@ -27,7 +27,15 @@
         "channel_url": "https://www.youtube.com/@AmaneKanata",
         "channel_name": "Kanata Ch. Kanata Amane",
         "avatar_url": "https://yt3.googleusercontent.com/oPU9ckNcyeHD0FFsYSxkoD1mtbslSwdmMSfoCYQWphOu5e7UeCnIF-Nt0hvvF41L5Nykga07nQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "8tbJexj_C0E",
+                "title": "【配信予定地】かなたそなにする【天音かなた/ホロライブ】",
+                "date": "2025/01/15 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/8tbJexj_C0E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEYQy14JaGf3NK3NKIPbgLTFH0-w",
+                "description": "なにする？\n\n---------------------------------------------------------------------------------\n\n🌌 天音かなた 1st フルアルバム\n　 「Unknown DIVA」全国流通にて発売中!!..."
+            }
+        ]
     },
     "@AnyaMelfissa": {
         "channel_url": "https://www.youtube.com/@AnyaMelfissa",
@@ -39,15 +47,7 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": [
-            {
-                "video_id": "995QkX6r7RA",
-                "title": "【#RiSekaiExpress】Risu's Isekai Express : Special Performance Delivery【3D Birthday Performance】",
-                "date": "2025/01/15 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/995QkX6r7RA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKxHqi-INJQKJb_SIGieFOYWFsNQ",
-                "description": "#RiSekaiExpress #HappyRisuDay2025 #Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nSpecial Thanks\nトライフロンティア合同会社\nKosK　https://twitter.com/kosk_mix?lang=ja..."
-            }
-        ]
+        "videos": []
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -343,7 +343,7 @@
         "videos": [
             {
                 "video_id": "kkVdiF55yaI",
-                "title": "【 はいしにょてい 】22時 or 23時開始かと思われる【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+                "title": "【 ステーキ焼くだけ 】深夜に飯テロをしていく【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
                 "date": "2025/01/15 20:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/kkVdiF55yaI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZzLIxI2cJd33OHMk_-mmhKTV9dg",
                 "description": "50万人記念グッズ販売ストアはこちら！✨\n受注受付期間 : 2024年12月18日 21時00分 ～ 2025年01月20日 18時00分\nhttps://shop.hololivepro.com/products/otonosekanade_500k..."
