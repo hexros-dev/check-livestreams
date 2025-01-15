@@ -187,7 +187,14 @@
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/Df9IibspJL2Dur37_ebWD6n6F0U8Fvp_1QOu5m-d7qqEAn1fRwsMiar4CvSpHrI3wA6uPw2h",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "10Pd_sMBnKY",
+                "title": "【PLATEUP!】LAM姉妹最高のレストラン!! WE'RE COOKING CHAT!! w/ @HanabiChoya 【Kureiji Ollie】",
+                "thumbnail": "https://i.ytimg.com/vi/10Pd_sMBnKY/hqdefault.jpg?v=67878ddb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwjwcNGDKHM2JvOfmj8p31R_1F4Q",
+                "description": "#IOLLIE #OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n==========================================\n\nThis game is being streamed and monetized after confirming with Yogscast Games.\n\n=================..."
+            }
+        ]
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
@@ -212,7 +219,14 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "IUe3bqjSuzc",
+                "title": "【 おけけぬき 】ねねが一本ずつ丁寧におけけぬいてあげうめう～～～～～【 桃鈴ねね / hololive 】",
+                "thumbnail": "https://i.ytimg.com/vi/IUe3bqjSuzc/hqdefault.jpg?v=678785b7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUe_pFpRgvFdelRSpWQ1bHzcuHLQ",
+                "description": "癒されたい人どうぞ～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～☆\n⸜♡⸝MemberShipに入ったらもっとねねを知れる..."
+            }
+        ]
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
@@ -356,14 +370,7 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": [
-            {
-                "video_id": "bcxmYwqwqrI",
-                "title": "日本eスポーツアワード受賞式にYAGOOが代わりに出てくれるのでウォッチする配信【獅白ぼたん/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/bcxmYwqwqrI/hqdefault.jpg?v=6786c17f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDffozatGoTnW1X8rVnC2CqV3ei5g",
-                "description": "日本eスポーツアワードVTuber部門を受賞しました！ありがとー！\n授賞式にYAGOOが代わりに出てくれるので皆でウォッチするぞ！\n\nYAGOO：https://x.com/tani..."
-            }
-        ]
+        "videos": []
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
@@ -417,7 +424,14 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "9-yUtKPtMoY",
+                "title": "【 #パタラミ 】パタ姐とラミィで！全力アソビ大全【 レイン・パターソン・雪花ラミィ /ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/9-yUtKPtMoY/hqdefault.jpg?v=6785e606&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4PcY_y3w_Tzprz3HGNrcLxcaHCg",
+                "description": "レイン・パターソン\nhttps://www.youtube.com/@UCRm6lqtdxs_Qo6HeL-SRQ-w \n\n感想は #パタラミ で呟いて頂けたら嬉しいです！\n\nこの動画およびライブは、任天堂著..."
+            }
+        ]
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
@@ -484,6 +498,13 @@
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "iywxf7xdWBQ",
+                "title": "【呪われたデジカメ】このカメラ・・・なんかおかしい・・・　#結城さくな生放送",
+                "thumbnail": "https://i.ytimg.com/vi/iywxf7xdWBQ/hqdefault.jpg?v=6787783d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBqq_MbfZeUC6g_6h1oaMY7AQJCg",
+                "description": "Cursed Digicam | 呪われたデジカメ\nhttps://store.steampowered.com/app/3334550/Cursed_Digicam/?l=japanese\n\n🎀歌ってみた動画🐾\nhttps://youtube.com/playlist?list=PLErsMirGq93vRw-CcRa..."
+            }
+        ]
     }
 }
