@@ -264,7 +264,14 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/Z78RNXxUqpOGYKFt-VrJV7nlehOHzl7Ta-l1cgPx5Ewucmr5kY64iGxmPSe7QqIdM1ZhvPlEOg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "d_aZCUriP30",
+                "title": "【突然の】何を歌うかは決めていないけど、歌います！【歌枠】",
+                "thumbnail": "https://i.ytimg.com/vi/d_aZCUriP30/hqdefault.jpg?v=6787691a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANRcIxytP6VwJba-rl3fiyouk_sA",
+                "description": "大神ミオの歌枠が突然あらわれた⚠\n雑談もまじえるかもしれません。\n\nサムネillustrator：pohitashiさん　https://x.com/pohitashi\n\n🎤音源お借りします🎤..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -391,14 +398,7 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/-IdVo-vK7pr0VRjJDdza1-t1Edjce1Rd1R1hon_3SRIzuQ-XVBTWOJj-UfwYPp8y40KM197_y4o",
-        "videos": [
-            {
-                "video_id": "IZeIuzcBNps",
-                "title": "【Puzzle Together】& yapping! HELP ME FINISH IT!!! JOIN HURRY 🗣️",
-                "thumbnail": "https://i.ytimg.com/vi/IZeIuzcBNps/hqdefault.jpg?v=67872ffa&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1z0HuNn8nN6iS5Q8ZjRGEzEhcpg",
-                "description": "#hololive #holoid #vestiazeta  #vtuber\n\n\nThis game is being streamed and monetized after confirming with Copyright 2020 IronZog LLC.\n\n\n\n★  Donasi lokal: https://sociabuzz.com/vestiazeta/tribe..."
-            }
-        ]
+        "videos": []
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
