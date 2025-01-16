@@ -47,7 +47,15 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "t4AnFunoWVw",
+                "title": "【#HappyRisuDay2025】Checking Gifts and Hashtag for birthday !【Ayunda Risu】",
+                "date": "2025/01/16 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/t4AnFunoWVw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-d3z2oiPuAIMhRHZ6bU8DTYi95A",
+                "description": "#HappyRisuDay2025 #Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\n\n==================\n\n【LOCAL DONATION LINK HERE】:\nhttps://sociabuzz.com/ayundarisu/tribe\n\n【Streamlabs donation..."
+            }
+        ]
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -571,15 +579,7 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_n1iH9fDDGm8RHUzoB-XDfnTEwhlgBcP3OLjapDqHYoYVw",
-        "videos": [
-            {
-                "video_id": "8Tf__DMv5Oo",
-                "title": "【料理】noshのハンバーグ VS ぺこーらの手作りハンバーグ対決！ぺこ！【ホロライブ/兎田ぺこら】",
-                "date": "2025/01/16 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/8Tf__DMv5Oo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-zFqGaHjetr7ByClY5vxK1T8g6w",
-                "description": "提供：nosh-ナッシュ\n\n【⇩nosh×Pekora Ch. 兎田ぺこらの限定コラボクーポンはこちら⇩】\nhttps://nosh.jp/influencer-promotion?key=UsadaPekora&utm_source=Youtuber&utm_mediu..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
