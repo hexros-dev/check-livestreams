@@ -402,7 +402,15 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "u_lCl2X8Ddk",
+                "title": "#03【inside the backrooms】正月で浮かれてたら知らない場所に来てしまった件について【不知火フレア/Anya/ホロライブ】",
+                "date": "2025/01/18 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/u_lCl2X8Ddk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdb2gDgX1-N0439eoqnuqcJXiCPQ",
+                "description": "ホロライブ所属３期生の不知火フレア(Flare Shiranui)だよ～\n  @AnyaMelfissa     🍂何気にタイマン初コラボ\n\n━━━━━━━━━━━━━━━━━━━━..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -537,15 +545,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/AD2BC7S_QlNSZEHrM-pyRR0C9DOPnfK2OnuFjTK8F842WydS1HDMe6TvhESY9Er96Kt3yu0-fQ",
-        "videos": [
-            {
-                "video_id": "MXTWs7q_8S0",
-                "title": "【UNARCHIVED】CASUAL KARAOKE TIME!!!!! + COVER RELEASE",
-                "date": "2025/01/18 06:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/MXTWs7q_8S0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbBCFf7bFGFnuyC4Djlr1GyPwm8w",
-                "description": "i made this thumbnail in the middle of collab\n\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",

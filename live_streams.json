@@ -426,7 +426,14 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/AD2BC7S_QlNSZEHrM-pyRR0C9DOPnfK2OnuFjTK8F842WydS1HDMe6TvhESY9Er96Kt3yu0-fQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "MXTWs7q_8S0",
+                "title": "【UNARCHIVED】CASUAL KARAOKE TIME!!!!! + COVER RELEASE",
+                "thumbnail": "https://i.ytimg.com/vi/MXTWs7q_8S0/hqdefault.jpg?v=678aca15&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbBCFf7bFGFnuyC4Djlr1GyPwm8w",
+                "description": "i made this thumbnail in the middle of collab\n\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
