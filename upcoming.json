@@ -115,15 +115,7 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": [
-            {
-                "video_id": "ISNkK-RlV74",
-                "title": "【DEVIL MAY CRY 4】It's time to see the LIIIGHT",
-                "date": "2025/01/17 10:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/ISNkK-RlV74/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjfeH0gs5q_FHzwAXrSWDTTQAUwQ",
-                "description": "By light, I mean the light that we need to use to fill the dark soul with\n\nThis video and livestream are being streamed with permission and under license by CAPCOM CO., LTD.\nDevil May Cry ..."
-            }
-        ]
+        "videos": []
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -266,7 +258,15 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/G92yBEhkf9R2mEpayuPvhwlA42tYAPOcNi2r77JeL7ic0ETS_FvTkwkBHjvR6iCqUk7TOlpROQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "JpyeqYmX56k",
+                "title": "【 #MOGUNNA 】ルーナちゃんと対談します🔥【 猫又おかゆ×姫森ルーナ 】",
+                "date": "2025/01/17 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/JpyeqYmX56k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxeqnbS50L26cpAGUCQwtg7LdWtA",
+                "description": "-\n\nんなたん @HimemoriLuna \n❥・・ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ・・❥\n\nTwitter : https://twitter.com/nekomataokayu\n( sub )  : https://twitter.c..."
+            }
+        ]
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
