@@ -133,15 +133,7 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/K39Md5CGHmCaMC5Ne3UWBzblgzDhUzXUFszrHfGapCvOldc8E7fWw3pxN0zhcjmoht4GngnD",
-        "videos": [
-            {
-                "video_id": "aqmpiVz2h7g",
-                "title": "【 バイオハザードRE:4】完全初見！クリア耐久【ホロライブ DEV_IS 響咲リオナ】※ネタバレあり",
-                "date": "2025/01/18 09:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/aqmpiVz2h7g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwD_5-U5hCVaFwdGOLF_yUPrnCCA",
-                "description": "この動画およびライブは\n株式会社カプコンの利用許諾を受けて配信しています\nバイオハザード RE:4\n©CAPCOM CO., LTD. 2005, 2023 ALL RIGHTS RESERVED.\n※グロテ..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -361,7 +353,15 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/3st5iCi65fsN1P4-yTbWLHZH84eLsPqWsQ4MBkR1J72FW8pBm2IpHxFGtQ84ZFCcCX8sGJl-Ag",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "plE3yeX_bbQ",
+                "title": "【 はいしんよてち！ 】【ホロライブ/さくらみこ】",
+                "date": "2025/01/17 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/plE3yeX_bbQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDe68R45LOIZkmxQn-IHdePvB7lZQ",
+                "description": "⪩⪨　お知らせ/ɪɴғᴏ\n￣￣￣￣￣￣￣￣￣￣￣￣￣\n　🌸さくらみこ 1st Album \n　　『flower rhapsody』 販売中！\n　　  https://cover.lnk.to/flowerrhapsody..."
+            }
+        ]
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
