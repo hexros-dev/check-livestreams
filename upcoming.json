@@ -185,13 +185,6 @@
                 "date": "2025/01/18 15:30:00",
                 "thumbnail": "https://i.ytimg.com/vi/PqLp29yuOLA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdTzPqlqKssbTPToEu67TiCjOETw",
                 "description": "サムネイルのイラストはBYOIさんのイラストです！\nhttps://x.com/shoi_1035/status/1865271471687524764\nこの虚無感がたまらん、、💛\n\n￣￣￣￣￣￣￣￣￣￣￣￣..."
-            },
-            {
-                "video_id": "xogoN8IUrNY",
-                "title": "【アソビ大全】配信できなかったストレスをCPUにぶつける！【虎金妃笑虎】",
-                "date": "2025/01/17 13:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/xogoN8IUrNY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4IpyX3Y5LRhcmSOX2lHVtX-_fmw",
-                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n\n虎金妃笑虎　X\n\nhttps://x...."
             }
         ]
     },
@@ -385,7 +378,15 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "HVT9QOXiDQk",
+                "title": "【スパチャお礼】いつも応援ありがとう！お礼できてないスパチャをお礼させてね✨【白銀ノエル/ホロライブ】",
+                "date": "2025/01/17 15:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/HVT9QOXiDQk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNTon7lzqH4FUmzP4CetO5T8dR8A",
+                "description": "年末雑談＋今年に入ってお礼できなかったものだよ～！\n\n[NEW]優しく諭すASMRボイス販売中⛄→ https://shop.hololivepro.com/products/hololive_asmr_tenderwordsofsolace..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
