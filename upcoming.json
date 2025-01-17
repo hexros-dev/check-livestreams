@@ -156,7 +156,15 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/K39Md5CGHmCaMC5Ne3UWBzblgzDhUzXUFszrHfGapCvOldc8E7fWw3pxN0zhcjmoht4GngnD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "rmqXuiDX0cQ",
+                "title": "【 壺おじ】やっぱりこれは壺による締め付けを楽しむゲームです。＃２【ホロライブ DEV_IS 響咲リオナ】",
+                "date": "2025/01/18 12:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/rmqXuiDX0cQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCV6ttdlO3qeywWC0G9L-NwHYRLFQ",
+                "description": "本ゲームは © Foddy.net\n 2016 の承諾を得た上で配信・収益化を行なっております。\n\nよし。。。やるか。やるぞ。やるんだああああああああああああ..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -510,15 +518,7 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/LnJxTvrkHQFdFlyMY2HPtXVEwA7KHlUp8rNzBepF1GQfPQjUN9yKGIqSYOD31F22Ow9vSTn9",
-        "videos": [
-            {
-                "video_id": "wLtBcX2SQ80",
-                "title": "【JUSTICE JAMS】JUSTICE! JUST LIKE THAT!",
-                "date": "2025/01/18 03:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/wLtBcX2SQ80/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJq3PHOJISepXatxOVYLEsfHkCdw",
-                "description": "with: @holoen_erbloodflame @holoen_raorapanthera @holoen_gigimurin \nThumbnail art: https://x.com/Awooofa/status/1880299293422371235\n\nJUSTICE Half Anniversary MERCH!\n▼Official Online Shop▼..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
