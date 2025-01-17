@@ -170,7 +170,14 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/0NYd0NnC9mCjdu6t_i-JylPkwpz-o3IZ1eLqgG4MdXS-KUPrP36e71UysuoV9eZA1-TRG3gZ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "QAASHDBI-AE",
+                "title": "【THE Cabin Factory】フブさんおすすめゲーム！やります！【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "thumbnail": "https://i.ytimg.com/vi/QAASHDBI-AE/hqdefault.jpg?v=678a5547&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyIgDbjDoOiewKxmNYpDx8boRGCg",
+                "description": "本タイトルはFuture Friends Gamesの確認を得た上で配信・収益化を行なっております。\n✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧\n\nhololive..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -323,7 +330,14 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Mdh-OiHNF8A",
+                "title": "【HuniePop 2】OUT TO SAVE THE WORLD (WITH RIZZ)【Pavolia Reine/hololiveID 2nd gen】",
+                "thumbnail": "https://i.ytimg.com/vi/Mdh-OiHNF8A/hqdefault.jpg?v=678a49a0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4P67u0-wRzkPrKajpLAYcALhCzg",
+                "description": "Support me here (overseas): https://streamlabs.com/pavoliareinechhololive-id/tip\nSupport me here (Indonesia): https://sociabuzz.com/pavoliareine/tribe\n\nThis game is being streamed and monetized..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -547,13 +561,6 @@
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": [
-            {
-                "video_id": "QHztDKJ7Vsc",
-                "title": "【新台】閉店するまでに全回転出す！！！！！！！【ソードアート・オンライン 閃光の軌跡】#結城さくな生放送",
-                "thumbnail": "https://i.ytimg.com/vi/QHztDKJ7Vsc/hqdefault.jpg?v=6789cc3d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjb92LimkHjPAxCi1SVPuTiJ9YXw",
-                "description": "※アーカイブ残りません。切り抜きは自己責任でお願いします！\n\nクリスマスのリベンジを果たすのだ\n\n#スマパチSAO　#ソードアートオンライン..."
-            }
-        ]
+        "videos": []
     }
 }
