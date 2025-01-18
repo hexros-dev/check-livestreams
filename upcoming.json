@@ -201,13 +201,6 @@
                 "date": "2025/01/25 21:30:00",
                 "thumbnail": "https://i.ytimg.com/vi/LOhzT7E9AWc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAGvmNYoWX10B_m3j84_w0jsJUpmA",
                 "description": "サムネイルのイラストは七福あくびさんのこちらのイラストを使用させていただきました！\nめちゃめちゃかわうぃいメンバーとニコたん💛..."
-            },
-            {
-                "video_id": "PqLp29yuOLA",
-                "title": "【歌枠】ひさしぶりにいっぱい歌うぞ【虎金妃笑虎】",
-                "date": "2025/01/18 15:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/PqLp29yuOLA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdTzPqlqKssbTPToEu67TiCjOETw",
-                "description": "サムネイルのイラストはBYOIさんのイラストです！\nhttps://x.com/shoi_1035/status/1865271471687524764\nこの虚無感がたまらん、、💛\n\n￣￣￣￣￣￣￣￣￣￣￣￣..."
             }
         ]
     },
@@ -457,7 +450,15 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/-IdVo-vK7pr0VRjJDdza1-t1Edjce1Rd1R1hon_3SRIzuQ-XVBTWOJj-UfwYPp8y40KM197_y4o",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "rbEpWJ4c6wY",
+                "title": "【Marvel Rivals】playin w friends uwee we never stop",
+                "date": "2025/01/18 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/rbEpWJ4c6wY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2qZz7nPZ3w-IQqN_zZ-zp7EQ7ZA",
+                "description": "#hololive #holoid #vestiazeta  #vtuber #marvelrivals \n\nThis game is being streamed and monetized after confirming with NetEase Inc.\n\n★  Donasi lokal: https://sociabuzz.com/vestiazeta/tribe..."
+            }
+        ]
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
