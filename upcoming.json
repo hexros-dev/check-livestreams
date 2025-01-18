@@ -72,7 +72,15 @@
         "channel_url": "https://www.youtube.com/@GawrGura",
         "channel_name": "Gawr Gura Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/6BCfAqi9yIpZbHLbw9BAWySvB3XZf9r8jFqudO5nSOsHoGzLhlKrm1M1uuMCRabi_pXGDzl7",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ChCNTVq739I",
+                "title": "【Big Brain Academy】🧠 aaauuuuueeeeeeooo",
+                "date": "2025/01/19 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ChCNTVq739I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQVgMLEOUnvDl95O60rBCPyV4tow",
+                "description": "🐟 twitter: https://twitter.com/gawrgura \n🐟 thumbnail: https://x.com/Kakue_Gaku\n\nNintendo properties used in this video and livestream are used with permission and under license by Nintendo..."
+            }
+        ]
     },
     "@HakosBaelz": {
         "channel_url": "https://www.youtube.com/@HakosBaelz",
@@ -225,7 +233,15 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Eirs9XpHJsw",
+                "title": "【8番出口】怖いの苦手 出口を探す【水宮枢／FLOW GLOW】#hololiveDEV_IS",
+                "date": "2025/01/19 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Eirs9XpHJsw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBccGxYBBURYPvu4NW8YE_WYMi1aA",
+                "description": "本ゲームは、動画配信ガイドラインに則り配信、収益化を行なっております。\nhttps://store.steampowered.com/app/2653790/_/\n\n▹◃┄▸◂┄▹◃┄▸◂┄▹◃..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -568,15 +584,7 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_n1iH9fDDGm8RHUzoB-XDfnTEwhlgBcP3OLjapDqHYoYVw",
-        "videos": [
-            {
-                "video_id": "vBokIfnpSrE",
-                "title": "【PoE】初見【ホロライブ/兎田ぺこら】",
-                "date": "2025/01/18 22:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/vBokIfnpSrE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALiQk-1u8V2PJLQnIMpbYk1uszSw",
-                "description": "ぽえぽえぽえ～\n\nサムネイラスト：()さん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
