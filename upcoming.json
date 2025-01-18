@@ -481,7 +481,15 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/4wLMmSJkzy4vmWfWYkmzn6YO9T__jp1cORNuFXN7YyihwvhGkqXCxNBaklKoXlgdik-Fp0Zu",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "52qGA5lA188",
+                "title": "【 Fast Food Simulator 】初出勤！ホロナルドはどんな職場かな？【角巻わため/ホロライブ４期生】",
+                "date": "2025/01/19 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/52qGA5lA188/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDA_OoHqqQWjrznYhTdnKF_ymW6vw",
+                "description": "今日はバイトの日だ！\nタグ：#ホロナルド\n\n本日のシフト🍔\n@SakuraMiko @ShirakamiFubuki @NakiriAyame @OokamiMio @NekomataOkayu @TsunomakiWatame \n\n※本ゲームは No..."
+            }
+        ]
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -581,15 +589,7 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/8XQlrbkx1vBSpFZQ_GwV6hxep9EX0xHBH-CmWknoHusxXOKGnfVytVRzpt-36PxJOfumNjiBkAI",
-        "videos": [
-            {
-                "video_id": "F7BFFaEBGgk",
-                "title": "【ART & YAP】 So a cat and an owl walk into a room… and start drawing! 😼🦉w/ @NanashiMumei",
-                "date": "2025/01/19 01:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/F7BFFaEBGgk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBif_JDVFBlRT6MpHq4VDFHBE7itA",
-                "description": "『 X formely Twitter 』\nhttps://x.com/raorapanthera\n\n『 Hashtags 』\n╰┈➤ Live  #CiaoRaora\n╰┈➤ Fanarts  #RaorArt\n╰┈➤ Clips  #RaraWara\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
-            }
-        ]
+        "videos": []
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
