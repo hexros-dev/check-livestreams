@@ -21,7 +21,15 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "JGNbX9PWh88",
+                "title": "【モンハンワールド】上位へGO！ おおはらMENチーム #ドズル社狩猟祭 Part2【ホロライブ/アキ・ローゼンタール】",
+                "date": "2025/01/18 17:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/JGNbX9PWh88/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1pDgAfBoPkis0Zbs12U8XUqfhjA",
+                "description": "LINEスタンプでましたーっ🎁🎄\nhttps://store.line.me/stickershop/product/29057250/ja\n\n配信タグ  #アキびゅーわーるど  \n\n【ドズル社狩猟祭ルール】\n・PC（Steam）..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -417,15 +425,7 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/LObfzJe4AIufIErJzQy1xzwQcA5AX6rJh8AxJe-qvG2yBO-tbTVDwXqOkoeK_MoGPC6C3lMxQ_c",
-        "videos": [
-            {
-                "video_id": "TXUXj-m6hzI",
-                "title": "【Mother Simulator】あかちゃん育てます【轟はじめ/ReGLOSS】 #hololivedev_is",
-                "date": "2025/01/18 12:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/TXUXj-m6hzI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWTKfzPq46RY-JnfKtTatvhHI4Nw",
-                "description": "🐧はじめの日記念グッズ販売開始🐧\nhttps://shop.hololivepro.com/products/todorokihajime_hajimesdaymerch\n\n本ゲームはSteppe Hare Studioの確認を得た上で配信・収益化..."
-            }
-        ]
+        "videos": []
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",

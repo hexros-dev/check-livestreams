@@ -367,7 +367,14 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/LObfzJe4AIufIErJzQy1xzwQcA5AX6rJh8AxJe-qvG2yBO-tbTVDwXqOkoeK_MoGPC6C3lMxQ_c",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "TXUXj-m6hzI",
+                "title": "【Mother Simulator】あかちゃん育てます【轟はじめ/ReGLOSS】 #hololivedev_is",
+                "thumbnail": "https://i.ytimg.com/vi/TXUXj-m6hzI/hqdefault.jpg?v=678b2cc5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWTKfzPq46RY-JnfKtTatvhHI4Nw",
+                "description": "🐧はじめの日記念グッズ販売開始🐧\nhttps://shop.hololivepro.com/products/todorokihajime_hajimesdaymerch\n\n本ゲームはSteppe Hare Studioの確認を得た上で配信・収益化..."
+            }
+        ]
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
