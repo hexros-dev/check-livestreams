@@ -100,15 +100,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "DfshyxyDk7w",
-                "title": "【5億年ぶり雑談】今日はholoX3周年ライブ！ホロメンおはなし＆人間ドッグとか話せてなかった近況いろいろ～！！！【博衣こより/ホロライブ】",
-                "date": "2025/01/19 09:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/DfshyxyDk7w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDek0-n38lBepZ6QdvehQDQP8OpBw",
-                "description": "ゲーム配信ばっかりやってて雑談がたまるたまる\n💿博衣こより1stアルバム『FIRST STEP』先行予約受付中！(～1/20(月)18:00)🔽\nhttps://shop.hololivepro.com/pro..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -427,13 +419,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
         "videos": [
             {
-                "video_id": "bsnG68UZfuU",
-                "title": "【朝活雑談】おはまっするさんでー💪🌞💪ホロメンといっぱい会ったよ～！【白銀ノエル/ホロライブ】",
-                "date": "2025/01/19 08:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/bsnG68UZfuU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgCkrUNMsa20ETei4IHGlrZI859g",
-                "description": "お喋りするッペ！！\n\n☔相合傘ASMR販売中☔→ https://shop.hololivepro.com/products/hololive_asmr_underoneumbrella?variant=45296384442588\n\nホロライブ学園ボイス→ https://s..."
-            },
-            {
                 "video_id": "qaqoZk-raP8",
                 "title": "【ASMR/安眠】今年最初の耳マッサージ＆お耳掃除♡【白銀ノエル/ホロライブ】",
                 "date": "2025/01/19 21:00:00",
@@ -542,7 +527,15 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/LnJxTvrkHQFdFlyMY2HPtXVEwA7KHlUp8rNzBepF1GQfPQjUN9yKGIqSYOD31F22Ow9vSTn9",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Au0avVj5Hos",
+                "title": "[OMORI] WAKE UP WAKE UP WAKE UP",
+                "date": "2025/01/19 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Au0avVj5Hos/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxlW60D_sJMSMgI6d7AtzbyBdTzA",
+                "description": "thumnail art: https://x.com/CaptainMeowHere/status/1870663722131136747\n\nJUSTICE Half Anniversary MERCH!\n▼Official Online Shop▼\nEN: https://shop.hololivepro.com/products/hololiveen_justice_anhal..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
