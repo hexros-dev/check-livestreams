@@ -73,15 +73,7 @@
         "channel_url": "https://www.youtube.com/@GawrGura",
         "channel_name": "Gawr Gura Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/6BCfAqi9yIpZbHLbw9BAWySvB3XZf9r8jFqudO5nSOsHoGzLhlKrm1M1uuMCRabi_pXGDzl7",
-        "videos": [
-            {
-                "video_id": "S1szHs0aIZU",
-                "title": "【 Fast Food Simulator 】HAMBURGER COUNTRY 🍔",
-                "date": "2025/01/20 08:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/S1szHs0aIZU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWc7MfT544kDUx6IRD8kCTO3EWMA",
-                "description": "NICENICENICENICENICE\n@OuroKronii \n\n🐟 twitter: https://twitter.com/gawrgura \n🐟 thumbnail: https://x.com/underdatv\n\nThis game is being streamed and monetized after checking with No Ceiling..."
-            }
-        ]
+        "videos": []
     },
     "@HakosBaelz": {
         "channel_url": "https://www.youtube.com/@HakosBaelz",
@@ -332,15 +324,7 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": [
-            {
-                "video_id": "W3Mw0gL9dIE",
-                "title": "【Fast Food Simulator】Legend Is Made Here With @GawrGura",
-                "date": "2025/01/20 08:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/W3Mw0gL9dIE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqhTdt9X6R5iP7zRgTVB5GOVBlnw",
-                "description": "This game is being streamed and monetized after checking with No Ceiling Games.\nhttps://store.steampowered.com/app/2916430/Fast_Food_Simulator/\n\n[Twitter]\nhttps://twitter.com/ourokronii\n\n[Thumbnail..."
-            }
-        ]
+        "videos": []
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
@@ -438,7 +422,22 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/meRnxbRUm5yPSwq8Q5QpI5maFApm5QTGQV_LGblQFsoO0yAV4LI-nSZ70GYwMZ_tbfSa_O8MTCU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "LqwOfdecjDc",
+                "title": "【 呪われたデジカメ 】呪われるな【常闇トワ/ホロライブ】",
+                "date": "2025/01/20 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/LqwOfdecjDc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_VCJsgSrBhJyD-UgHh-fyTS7csw",
+                "description": "本ゲームは  © Chilla's Art, LLC® 2024 2025 の承諾を得た上で配信・収益化を行なっております\nーーーーーーーー\n＜ Cursed Digicam | 呪われたデジカメ＞..."
+            },
+            {
+                "video_id": "kDf2Mxdissg",
+                "title": "【Euro Truck Simulator 2】トワは運転手になるんや。大型運転手や～！！！【常闇トワ/ホロライブ】",
+                "date": "2025/01/20 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/kDf2Mxdissg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwhtQFDunw0nRjl8msjLSCeGihFQ",
+                "description": "本ゲームは SCS Software に確認を得た上、SCS Software s.r.o. - VIDEO GAME CONTENT SHARING & MONETIZATION LICENCE (http://www.scssoft.com/video_sharing_licence.pdf) に基づいて配信..."
+            }
+        ]
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
