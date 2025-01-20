@@ -322,7 +322,14 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/TejsfeJ29zBtQDJhP2TKDFAEk98-LuGRBGqrNIjbGQ05T9R5Jcl_VfsK27LZ_PXJmRP7DECk-w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "CE4dUNYVL10",
+                "title": "【歌枠/KARAOKE】寝る前にチルめにのんびり歌うよ～～【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "thumbnail": "https://i.ytimg.com/vi/CE4dUNYVL10/hqdefault.jpg?v=678e5012&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVs6umejsZuj9Igl7YWOvc5BvJeg",
+                "description": "夜なのでチルでいきますよ、チルで\n\nこのライブに用いている一部の音源は、株式会社エクシングより提供されています。\n\nサムネイルイラスト：B..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -437,14 +444,7 @@
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
         "channel_name": "Choco Ch. 癒月ちょこ",
         "avatar_url": "https://yt3.googleusercontent.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g",
-        "videos": [
-            {
-                "video_id": "vW-06vyWHvM",
-                "title": "【#ばんちょこ】ReGLOSS身体測定！ばんちょー診察いたします！【ホロライブ/癒月ちょこ/轟はじめ】",
-                "thumbnail": "https://i.ytimg.com/vi/vW-06vyWHvM/hqdefault.jpg?v=678cec97&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCeaDgE0cWO3gmH6OOz8lLUu5cjug",
-                "description": "サブ垢→https://www.youtube.com/channel/UCp3tgHXw_HI0QMk1K8qh3gQ\n心理テスト：http://www.advancejp.com/kantei/psycho/\nサムネイラスト：ごれ様@_G0rE\nロゴ：柊椋様@hiiragiryo..."
-            }
-        ]
+        "videos": []
     },
     "@dooby3d": {
         "channel_url": "https://www.youtube.com/@dooby3d",
