@@ -101,15 +101,7 @@
         "channel_url": "https://www.youtube.com/@GawrGura",
         "channel_name": "Gawr Gura Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/6BCfAqi9yIpZbHLbw9BAWySvB3XZf9r8jFqudO5nSOsHoGzLhlKrm1M1uuMCRabi_pXGDzl7",
-        "videos": [
-            {
-                "video_id": "jb2_MtMdWhk",
-                "title": "【 Liars Bar 】its all lies",
-                "date": "2025/01/22 06:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/jb2_MtMdWhk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAOQAprx3HfCBlZqDvUq54dAPwvOg",
-                "description": "with @TakanashiKiara @MoriCalliope @NinomaeInanis \n\n🐟 twitter: https://twitter.com/gawrgura \n🐟 thumbnail: https://x.com/DDOLBANG11\n\nThis game is being streamed and monetized after confirming..."
-            }
-        ]
+        "videos": []
     },
     "@HakosBaelz": {
         "channel_url": "https://www.youtube.com/@HakosBaelz",
@@ -618,7 +610,15 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "QIfYiJoZgbo",
+                "title": "【配信予定】ぺぺぺぺぺぺぺぺぺぺこここここここここここぺこぺこぺこ！【ホロライブ/兎田ぺこら】",
+                "date": "2025/01/22 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/QIfYiJoZgbo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHwAejIGOHhWD-iUNQQ6oqdLhqhQ",
+                "description": "サムネイラスト：()さん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ #ぺこらいぶ..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",

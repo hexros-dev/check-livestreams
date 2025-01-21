@@ -57,7 +57,14 @@
         "channel_url": "https://www.youtube.com/@GawrGura",
         "channel_name": "Gawr Gura Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/6BCfAqi9yIpZbHLbw9BAWySvB3XZf9r8jFqudO5nSOsHoGzLhlKrm1M1uuMCRabi_pXGDzl7",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "jb2_MtMdWhk",
+                "title": "【 Liars Bar 】its all lies",
+                "thumbnail": "https://i.ytimg.com/vi/jb2_MtMdWhk/hqdefault.jpg?v=678fd724&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAOQAprx3HfCBlZqDvUq54dAPwvOg",
+                "description": "with @TakanashiKiara @MoriCalliope @NinomaeInanis \n\n🐟 twitter: https://twitter.com/gawrgura \n🐟 thumbnail: https://x.com/DDOLBANG11\n\nThis game is being streamed and monetized after confirming..."
+            }
+        ]
     },
     "@HakosBaelz": {
         "channel_url": "https://www.youtube.com/@HakosBaelz",
@@ -407,14 +414,7 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/LnJxTvrkHQFdFlyMY2HPtXVEwA7KHlUp8rNzBepF1GQfPQjUN9yKGIqSYOD31F22Ow9vSTn9",
-        "videos": [
-            {
-                "video_id": "sZC5KDcnbcc",
-                "title": "【Elden Ring】Hello I will teach you how to bewitch everyone (SPOILERS)",
-                "thumbnail": "https://i.ytimg.com/vi/sZC5KDcnbcc/hqdefault.jpg?v=678fc106&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHMlR6HVK7PCfQ-D6hHj_pJ6VLYA",
-                "description": "JUSTICE Half Anniversary MERCH!\n▼Official Online Shop▼\nEN: https://shop.hololivepro.com/products/hololiveen_justice_anhalfyear \n▼Geek Jack▼ \nEN: https://shop.geekjack.net/collections/hololi..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
