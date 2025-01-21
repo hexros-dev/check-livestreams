@@ -3,7 +3,15 @@
         "channel_url": "https://www.youtube.com/@AZKi",
         "channel_name": "AZKi Channel",
         "avatar_url": "https://yt3.googleusercontent.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "GT4Mr712hQk",
+                "title": "【呪われたデジカメ】ホラゲー初め【ホロライブ / AZKi】",
+                "date": "2025/01/21 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/GT4Mr712hQk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDlxztZKXWmLu10JH9Z7pdLg1CTQg",
+                "description": "逃げちゃダメだ、逃げちゃダメだ、逃げちゃだｍ\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\nサムネイラスト：完熟たまご 様\nhttps://x.com/samehada0107\n\n┈┈┈..."
+            }
+        ]
     },
     "@AiraniIofifteen": {
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
@@ -212,15 +220,7 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/VL9aJ1o3yrN_xzHKTX0PvArQjUDHhtWtOtAYWjpzkqoFxR5HHWmWRWNgu6M5l4nSibqLaeKXqA",
-        "videos": [
-            {
-                "video_id": "lEKyYsdPTe8",
-                "title": "【Lively Chair Simulator】CHAOS.... everywhere【KOPR】",
-                "date": "2025/01/21 14:15:00",
-                "thumbnail": "https://i.ytimg.com/vi/lEKyYsdPTe8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChjz2UAq-zkXZxvEaYoNoC5fqWpA",
-                "description": "Playing with  @PavoliaReine   @ONShannon_   @PiaMeraleo-JKT48V  \n-------------------------------------------------------------------------------------------------------\n【Donasi lokal】Traktir..."
-            }
-        ]
+        "videos": []
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
@@ -405,15 +405,7 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": [
-            {
-                "video_id": "8SHHaMcubek",
-                "title": "【Lively Chair Simulator】menjadi kursi bersama KOPR【Pavolia Reine/hololiveID 2nd gen】",
-                "date": "2025/01/21 14:15:00",
-                "thumbnail": "https://i.ytimg.com/vi/8SHHaMcubek/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhHakQ1CS_SzcLGUWqq-ZKfYnioA",
-                "description": "Support me here (overseas): https://streamlabs.com/pavoliareinechhololive-id/tip\nSupport me here (Indonesia): https://sociabuzz.com/pavoliareine/tribe\n\nThis game is being streamed and monetized..."
-            }
-        ]
+        "videos": []
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
