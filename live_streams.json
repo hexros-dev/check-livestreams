@@ -129,14 +129,7 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/VL9aJ1o3yrN_xzHKTX0PvArQjUDHhtWtOtAYWjpzkqoFxR5HHWmWRWNgu6M5l4nSibqLaeKXqA",
-        "videos": [
-            {
-                "video_id": "lEKyYsdPTe8",
-                "title": "【Lively Chair Simulator】CHAOS.... everywhere【KOPR】",
-                "thumbnail": "https://i.ytimg.com/vi/lEKyYsdPTe8/hqdefault.jpg?v=678f1c5b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChjz2UAq-zkXZxvEaYoNoC5fqWpA",
-                "description": "Playing with  @PavoliaReine   @ONShannon_   @PiaMeraleo-JKT48V  \n-------------------------------------------------------------------------------------------------------\n【Donasi lokal】Traktir..."
-            }
-        ]
+        "videos": []
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
@@ -257,7 +250,14 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/Z78RNXxUqpOGYKFt-VrJV7nlehOHzl7Ta-l1cgPx5Ewucmr5kY64iGxmPSe7QqIdM1ZhvPlEOg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "5jbqyfIOwc4",
+                "title": "【重大告知】マシュマロ１００本ノック！！！２個告知あり〼【ホロライブ / 大神ミオ】",
+                "thumbnail": "https://i.ytimg.com/vi/5jbqyfIOwc4/hqdefault.jpg?v=678e084b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCuGx_q7_7X20XM06Q2yIomx14bcA",
+                "description": "マシュマロ１００本ノックなるものをやってみます！\n質問はXにて募集中～！⚾\n\nサムネillustrator：DEENさん　https://x.com/DeeN_idol\n✣✣–––..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -281,14 +281,7 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": [
-            {
-                "video_id": "8SHHaMcubek",
-                "title": "【Lively Chair Simulator】menjadi kursi bersama KOPR【Pavolia Reine/hololiveID 2nd gen】",
-                "thumbnail": "https://i.ytimg.com/vi/8SHHaMcubek/hqdefault.jpg?v=678f245b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhHakQ1CS_SzcLGUWqq-ZKfYnioA",
-                "description": "Support me here (overseas): https://streamlabs.com/pavoliareinechhololive-id/tip\nSupport me here (Indonesia): https://sociabuzz.com/pavoliareine/tribe\n\nThis game is being streamed and monetized..."
-            }
-        ]
+        "videos": []
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
