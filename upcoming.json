@@ -113,15 +113,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "0QaV9tuvHyI",
-                "title": "【街～運命の交差点～】最終回！完全初見🔰神サウンドノベルゲー5日目✨～桂馬・市川・陽平・隆士エンディング～ #6 【博衣こより/ホロライブ】",
-                "date": "2025/01/21 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/0QaV9tuvHyI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqq-FxtsSdlqJd7DW9bMuKo4Wp1Q",
-                "description": "「かまいたちの夜」の次弾サウンドノベルゲーム。言わずと知れた神ゲー「街～運命の交差点～」を初めてやってみる！\n遂に最終回・・・！！！..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -415,7 +407,15 @@
         "channel_url": "https://www.youtube.com/@SakamataChloe",
         "channel_name": "Chloe ch. 沙花叉クロヱ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/laCUmozlesp2wZd9k_DCDG_AYgQRGJm0yiL5pigqWAJE1TzYaOXQ6VcfEGacl8L-gpgR07I7HA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "MgVgt_sclV4",
+                "title": "【 メン限 】いっぱいは～～～なそ！【ホロライブ/沙花叉クロヱ】",
+                "date": "2025/01/21 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/MgVgt_sclV4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCAgZTdfhCm2jiii1XdjP8T2W0ktw",
+                "description": "また風邪っぽさが出てきてるのでスパチャ読み名前のみにします！\n\n⚠️1月27日まで⚠️最初で最後のさかまた歴代人気グッズ復刻＋αが販売中で..."
+            }
+        ]
     },
     "@SakuraMiko": {
         "channel_url": "https://www.youtube.com/@SakuraMiko",
@@ -505,7 +505,7 @@
                 "title": "【ドンキーコング リターンズ HD】ドンキーは配信では初のゲームです。【ホロライブ/ときのそら】",
                 "date": "2025/01/21 19:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/Di74vDweHRQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDB3yMSUtKOCjlUZYkpLsVo8x6N9g",
-                "description": "楽しみだな～。\n\n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n★★★★★★★★★★★★★★★★★★★★★★..."
+                "description": "楽しみだな～。\n\n～サムネイラスト～\nジュモニ様\nhttps://x.com/givemejikan\n\n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信しています..."
             }
         ]
     },
@@ -513,7 +513,15 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/meRnxbRUm5yPSwq8Q5QpI5maFApm5QTGQV_LGblQFsoO0yAV4LI-nSZ70GYwMZ_tbfSa_O8MTCU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "VQpSRubB9q0",
+                "title": "【 Fast Food Simulator 】#ホロナルド に久しぶりに出勤じゃ～！ついていけるのか！？【常闇トワ/ホロライブ】",
+                "date": "2025/01/21 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/VQpSRubB9q0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhpZe-cxIU1YAy0LLQq8CN96eRoA",
+                "description": "@SakuraMiko \n@ShirakamiFubuki \n@OokamiMio \n@NekomataOkayu \n@TokoyamiTowa \n@TakaneLui \n\n本ゲームは No Ceiling Games に確認の上配信・収益化を行なっております。\nhttps://store..."
+            }
+        ]
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
