@@ -122,7 +122,14 @@
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
         "channel_name": "Suisei Channel",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "cNbohyNa1Y8",
+                "title": "3rdアルバム「新星目録」発売直前‼カウントダウン✨【 星街すいせい / ホロライブ 】",
+                "thumbnail": "https://i.ytimg.com/vi/cNbohyNa1Y8/hqdefault.jpg?v=678f77cc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAo1WXHNq27sG__qX9yAo4xZ6Y8iA",
+                "description": "☄星街すいせい新曲「AWAKE」配信中☄️\n配信💿https://cover.lnk.to/ps914H\nMV🎥https://youtu.be/UYEZL13MUFk\n\n☄️2025.1.22 3rdフルアルバム『新星目録』発売決定..."
+            }
+        ]
     },
     "@HoushouMarine": {
         "channel_url": "https://www.youtube.com/@HoushouMarine",
@@ -436,14 +443,7 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": [
-            {
-                "video_id": "Di74vDweHRQ",
-                "title": "【ドンキーコング リターンズ HD】ドンキーは配信では初のゲームです。【ホロライブ/ときのそら】",
-                "thumbnail": "https://i.ytimg.com/vi/Di74vDweHRQ/hqdefault.jpg?v=678f8517&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDB3yMSUtKOCjlUZYkpLsVo8x6N9g",
-                "description": "楽しみだな～。\n\n～サムネイラスト～\nジュモニ様\nhttps://x.com/givemejikan\n\n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信しています..."
-            }
-        ]
+        "videos": []
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
