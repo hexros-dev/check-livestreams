@@ -333,7 +333,15 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "lHx01NNtKfg",
+                "title": "【 歌枠 】の～ぷらん歌枠はっじまっるよ～～【 猫又おかゆ/ホロライブ 】",
+                "date": "2025/01/22 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/lHx01NNtKfg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCqY-W6VlQN2DZ8T37eTDGMwJTZBw",
+                "description": "-\n\nイラスト：Nannungさん( https://x.com/Nannung_mdr )\n❥・・ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ・・❥\n\nTwitter : https://twitter.com/nekomataokay..."
+            }
+        ]
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -495,15 +503,7 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": [
-            {
-                "video_id": "6WJJI_7iHDE",
-                "title": "【 The Cabin Factory 】え？？？？？？？？？？？？？？？？【鷹嶺ルイ/ホロライブ】",
-                "date": "2025/01/22 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/6WJJI_7iHDE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC20sf9mA64F4ZRNC-ejFV5AvcIyQ",
-                "description": "なんか狐さんからギフトが送られてきました…。\n\n本タイトルはFuture Friends Gamesの確認を得た上で配信・収益化を行なっております。\n\nサムネ：ト..."
-            }
-        ]
+        "videos": []
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
@@ -553,15 +553,7 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": [
-            {
-                "video_id": "CCsLyMlOibg",
-                "title": "【龍が如く0 誓いの場所】キャバクラ経営するでぇ！！！※配信内容にネタバレを含みます【 雪花ラミィ /ホロライブ】",
-                "date": "2025/01/22 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/CCsLyMlOibg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_bEet3D3yFR_yhGEO402Eqpz9WQ",
-                "description": "この動画およびライブは、コンテンツ利用許諾契約に基づいて配信しています。\n©SEGA\n\n感想は #らみらいぶ で呟いて頂けたら嬉しいです！\n\nサムネ..."
-            }
-        ]
+        "videos": []
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
