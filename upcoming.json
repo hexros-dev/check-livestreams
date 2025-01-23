@@ -161,15 +161,7 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/K39Md5CGHmCaMC5Ne3UWBzblgzDhUzXUFszrHfGapCvOldc8E7fWw3pxN0zhcjmoht4GngnD",
-        "videos": [
-            {
-                "video_id": "0N4_sKZSpto",
-                "title": "【 睡眠導入】みんなのお便り読んでいくよ♡眠っていいよん！！【ホロライブ DEV_IS 響咲リオナ】",
-                "date": "2025/01/23 21:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/0N4_sKZSpto/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3LceLJODNV0xbhcUSqg-hvKluHw",
-                "description": "本ゲームはCat5Gamesに確認の上配信・収益化を行なっております。\n\nX＃リオナ聴いてちょでお便り募集してるよ♡\n◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -213,7 +205,15 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ELbm7EdbW7s",
+                "title": "【CYBERPUNK 2077】BIBOO OF THE NIGHT (CITY)",
+                "date": "2025/01/24 07:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ELbm7EdbW7s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCUH18Ur3YODDm4UX7j3221KzdCgQ",
+                "description": "/.D\nThumbnail Art: @macchirei thank you!\nhttps://x.com/macchirei/status/1881745124897726654\n\nCODE:81800 new outfit reveal merch set\nCODE:81800 新衣装記念グッズセット\n\n▼hololive..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
