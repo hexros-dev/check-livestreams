@@ -126,14 +126,7 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/JyixAV--9ZFWIMEwRQFbZhkiQTEvb1ALCdX7bW9BarpyLBjAnbbmc98jymhVT_pZlJpWaDwk",
-        "videos": [
-            {
-                "video_id": "a97GVLbmNqI",
-                "title": "【#ホロライブ共通テスト】2025年版！！ねね、一緒にとこー！！！【一条莉々華/hololive DEV_IS　ReGLOSS】",
-                "thumbnail": "https://i.ytimg.com/vi/a97GVLbmNqI/hqdefault.jpg?v=6792305c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCH8Hhe0FFSoJM7LTM5reR1wQUPNQ",
-                "description": "▼こちらを解かせていただきます✨\nhttps://docs.google.com/forms/d/e/1FAIpQLSfCSfUhrDNTPNJrFes6aWon4aZkT16pTYT0WetLLML1eWtONQ/viewform\n\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈..."
-            }
-        ]
+        "videos": []
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -458,7 +451,14 @@
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
         "channel_name": "Choco Ch. 癒月ちょこ",
         "avatar_url": "https://yt3.googleusercontent.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ZC0gr4KRaJ4",
+                "title": "【姫井ダム】異変だらけのダムでのバイト始めました…。【ホロライブ/癒月ちょこ】",
+                "thumbnail": "https://i.ytimg.com/vi/ZC0gr4KRaJ4/hqdefault.jpg?v=678f5ba6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9I4pQmPJEg2Wq7dTyWQ-_8X6pFw",
+                "description": "サブ垢→https://www.youtube.com/channel/UCp3tgHXw_HI0QMk1K8qh3g\n\n\nOP＆ED動画：松賀りお。様@rio_matsuka\nしょこらデザイン＆イラスト：むーらん様@M_uu418\nサムネイ..."
+            }
+        ]
     },
     "@dooby3d": {
         "channel_url": "https://www.youtube.com/@dooby3d",
