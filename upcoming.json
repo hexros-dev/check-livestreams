@@ -211,15 +211,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/XXZ4apG-FPN8G8DpYacbnwxs7S5tf2tjV_u2Eaot3JHGAkSPFBYaGMOyJcAHhLYy_u11JD7O29I",
-        "videos": [
-            {
-                "video_id": "2hz7DMb_W68",
-                "title": "【朝活/Free Talk】金曜日のおはよう！【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "date": "2025/01/24 04:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/2hz7DMb_W68/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXl_WrDlxrrdbWRRDCMm9qX6ge1w",
-                "description": "サムネイルの素敵なイラスト ちずけさん　https://x.com/chizukeillust　\n✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧\n\nhololive DEV_ISからデビュ..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -277,7 +269,15 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "x9UgHXhjjQM",
+                "title": "【 朝活 】みんなにおはよう言いつつうちの子たちの様子見る会【 桃鈴ねね / hololive 】",
+                "date": "2025/01/24 04:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/x9UgHXhjjQM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCC_1vyJvcPCZnUaQBc5fTB9u2FzA",
+                "description": "おはよ～～～！今日もがんばろうね！\n⸜♡⸝MemberShipに入ったらもっとねねを知れるﾖ\nhttps://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA/join\n\n⸜♡⸝各音..."
+            }
+        ]
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
