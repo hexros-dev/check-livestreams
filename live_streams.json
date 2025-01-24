@@ -21,7 +21,14 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ew8g-IEEm7E",
+                "title": "【モンハンワールド】最後の練習日！ おおはらMENチーム腕相撲 #ドズル社狩猟祭 Part8【ホロライブ/アキ・ローゼンタール】",
+                "thumbnail": "https://i.ytimg.com/vi/ew8g-IEEm7E/hqdefault.jpg?v=6792a684&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4GH5QdZ6aD01KHSERkJ5Uh5pBfA",
+                "description": "LINEスタンプでましたーっ🎁🎄\nhttps://store.line.me/stickershop/product/29057250/ja\n\n配信タグ  #アキびゅーわーるど  \n\n【ドズル社狩猟祭ルール】\n・PC（Steam）..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -130,14 +137,7 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/9BFn9huZRtcJypmkYNt0qslTAf225UJsapBFMsyIWjVFZMkkRn6LULZ-iLMmg9nigp0xcDjP0kw",
-        "videos": [
-            {
-                "video_id": "WIXIK9r2vkA",
-                "title": "【雑談】特技はスライディング土下座＆生誕ライブ続報あります～！【儒烏風亭らでん #ReGLOSS 】",
-                "thumbnail": "https://i.ytimg.com/vi/WIXIK9r2vkA/hqdefault.jpg?v=6793591e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmB_TeeRwT0AVZxgHWMw_ieCQF_g",
-                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\nサムネイル：オニグンソウ先生\nhttps://x.com/onig..."
-            }
-        ]
+        "videos": []
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
