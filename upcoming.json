@@ -152,15 +152,7 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": [
-            {
-                "video_id": "yffRkOIVbDs",
-                "title": "【DEVIL MAY CRY 4】MOTIVATION IS BACK ON THE MENU",
-                "date": "2025/01/24 11:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/yffRkOIVbDs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDoB96jpblujBw5QevBrKdR2QAn-Q",
-                "description": "crying a pool of digital tears after slamming my head against the game launch wall for a total of about 4 hours \n\nThis video and livestream are being streamed with permission and under license..."
-            }
-        ]
+        "videos": []
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -508,6 +500,13 @@
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
         "videos": [
+            {
+                "video_id": "cwSK9WyIh1U",
+                "title": "【龍が如く0 誓いの場所】#05｜第八章「争奪戦」～桐生ちゃん＆真島の兄さんでブチかましていくぞッ！！※配信内容にネタバレを含みます【 雪花ラミィ /ホロライブ】",
+                "date": "2025/01/25 11:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/cwSK9WyIh1U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXUA9i3lsHsqnk_AGp5wLBySQl_A",
+                "description": "この動画およびライブは、コンテンツ利用許諾契約に基づいて配信しています。\n©SEGA\n\n感想は #らみらいぶ で呟いて頂けたら嬉しいです！\n\nサムネ..."
+            },
             {
                 "video_id": "kFhE6_napNo",
                 "title": "【みんなのリズム天国】久々リズ天！メダル取りに行くぞ～！！【 雪花ラミィ /ホロライブ】",
