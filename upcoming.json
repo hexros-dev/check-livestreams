@@ -630,21 +630,21 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "nFaBrs2dWFE",
-                "title": "【Project Sekai プロセカ】i haven't played in so long i hope i don't suck",
-                "date": "2025/01/25 05:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/nFaBrs2dWFE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqi_FouvcQ3HqDVrJ5NExq-DfiwQ",
-                "description": "thumbnail: https://x.com/barkvey/status/1881924483604418826 yaoi\n\nThis game is being streamed and monetized based on the following derivative creation guidelines after confirming with SEGA..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "8Y5guZjnXt4",
+                "title": "【Monster Hunter World】I AM GONNA EAT KUSHALA DAORA😾",
+                "date": "2025/01/25 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/8Y5guZjnXt4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-YYcLDb3zFYBmJkG1jVfLgy_ZVA",
+                "description": "『 X formely Twitter 』\nhttps://x.com/raorapanthera\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐ ˗ˏˋ ꒰New Year Merch ꒱ ˎˊ˗  ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n【Hololive..."
+            }
+        ]
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
