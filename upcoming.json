@@ -145,7 +145,15 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "eMeBvqGNF2M",
+                "title": "【Tokyo Xtreme Racer】RACING THE STREETS OF TOKYO",
+                "date": "2025/01/26 11:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/eMeBvqGNF2M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQvTjWHKwGiBKNi0zmMGoJ28OpwA",
+                "description": "It's gonna be Xtreme\n\nThis game is being streamed and monetized after confirming with Genki Co.,Ltd..\n© Genki\n\n#hololiveenglish  #ホロライブ \n＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -477,7 +485,7 @@
         "videos": [
             {
                 "video_id": "pdjCuN6TKjw",
-                "title": "【 ドラクエⅩ ver.2 】完全初見。オフライン版✨久々のドラ10！真のアラハギーロ王国とセレドの町の解決へ！【鷹嶺ルイ/ホロライブ】※ネタバレあり",
+                "title": "【 ドラクエⅩ ver.2 】完全初見。オフライン版✨真のアラハギーロ王国とセレドの町の解決へ！【鷹嶺ルイ/ホロライブ】※ネタバレあり",
                 "date": "2025/01/26 10:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/pdjCuN6TKjw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPKaS2bbzDAedspwB_GhJ5n1gpRA",
                 "description": "やっぱりたのしい\n※タイトルの『※ネタバレあり』とは、【ゲーム本編のネタバレが含まれた配信】という意味でネタバレやアドバイスをしてOK..."
@@ -556,15 +564,7 @@
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm",
-        "videos": [
-            {
-                "video_id": "Xz77Pe6PhgU",
-                "title": "【VALORANT】Playing the new agent Tejo for the first time ~! 💄",
-                "date": "2025/01/26 03:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Xz77Pe6PhgU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkukAlw1U3T2q0P4QeDKAjOwroWQ",
-                "description": "I'm super excited to play the new Valorant agent Tejo! Pew Pew Pew!\n▬▬ι════════ﺤ\nMerch!!! For JUSTICE!!!!!! HUZZAH! \n ▼Official Online Shop▼\n JP: https://shop.hololivepro..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_gigimurin": {
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
