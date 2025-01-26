@@ -99,13 +99,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/CTvZ3dUO8LocQMKbGkjUPysC524gC4asm5roilZmzhpBpWAWpLrhpRv0SpEaJeWm1oVP5v0g",
         "videos": [
             {
-                "video_id": "Lp2ZNGhVHRw",
-                "title": "【 信長の野望・創造 】初めての「信長の野望」で遊んでみるのら！！！＃２【姫森ルーナ/ホロライブ】",
-                "date": "2025/01/26 13:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Lp2ZNGhVHRw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVIxKYpxpvea_oZI5RJHVO-XjHLA",
-                "description": "💓ルーナ姫の公式LINEスタンプが1/4から販売開始💓\nhttps://line.me/S/sticker/29089910\n\nサムネイラスト\n　ふ市長さん　https://twitter.com/Fushicho55\n\n▷=============..."
-            },
-            {
                 "video_id": "pwJ72AJpVYU",
                 "title": "うな？ふな？んなっしょ～～～い♡(・o・🍬)【姫森ルーナ/ホロライブ】",
                 "date": "2025/01/26 20:00:00",
@@ -237,7 +230,15 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "OzrWm76qV74",
+                "title": "【 首都高バトル 】ゴールド免許のねねが行く、首都高ドライブデートの旅【 桃鈴ねね / hololive 】",
+                "date": "2025/01/26 15:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/OzrWm76qV74/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFflfWQBE2P_S_6UIAKvye7y5-Ow",
+                "description": "まかせなさいよ////////////////////////////////////////////////////////////////////\n⸜♡⸝MemberShipに入ったらもっとねねを知れるﾖ\nhttps://www.youtube.com/channel/UCAWSyEs_I..."
+            }
+        ]
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
