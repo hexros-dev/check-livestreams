@@ -290,7 +290,15 @@
         "channel_url": "https://www.youtube.com/@NanashiMumei",
         "channel_name": "Nanashi Mumei Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ufO7pGRu0vUfA2FLPz7yN517i8wOYxAdcxB9nSTKKfiKhjec0ulSmwWmRA00KqVpOTIesgXhMA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ekCF3Y_233E",
+                "title": "【MEMBERS ONLY REBROADCAST】Midday Moomin' Tunes UNARCHIVED",
+                "date": "2025/01/27 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ekCF3Y_233E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJ0r5buJzipfCQNOLlbfvXuxOe4Q",
+                "description": "Stream will become Members Only before starting!\nRebroadcast from earlier members stream due to it being live outside of my usual time !\n\n▼Geek Jack\nEN: https://shop.geekjack.net/collections/nana..."
+            }
+        ]
     },
     "@NatsuiroMatsuri": {
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
@@ -575,15 +583,7 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": [
-            {
-                "video_id": "xYct_OHVxtI",
-                "title": "【No, I'm Not A Human】 Do Not Let Them In.",
-                "date": "2025/01/27 06:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/xYct_OHVxtI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA09Jui7hpqL8fT_xIUpBVzykbDgg",
-                "description": "horror game + other stuff if I finish early??\n\n  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋\n\nKonbakuwa! I'm Nimi, the baku nurse VTuber of your nightmares~\n#VTuber #nimi\n\n☁  Socials  ☁\nhttps://x...."
-            }
-        ]
+        "videos": []
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
