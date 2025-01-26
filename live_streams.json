@@ -183,14 +183,7 @@
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
         "channel_name": "Moona Hoshinova hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/9e7J_lAxCEZO6IRC_Sl3Gj-bt9uPvSXolU_vBpmqWABzv99oHxzbYhWWgvRI_c2qmB4jH0p_ZA",
-        "videos": [
-            {
-                "video_id": "H_RNV1Q9oyU",
-                "title": "【Freetalk】I just finished all my work(so far)【Moona Hoshinova】",
-                "thumbnail": "https://i.ytimg.com/vi/H_RNV1Q9oyU/hqdefault.jpg?v=67965bc9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCO6A8gjDRSS7f0AI6OP2veH-9OVA",
-                "description": "Streamlabs donation link here : https://streamlabs.com/moonahoshinovahololive-id/tip\nSociaBuzz donation link here : https://sociabuzz.com/moonahoshinova/tribe\n======================================..."
-            }
-        ]
+        "videos": []
     },
     "@MoriCalliope": {
         "channel_url": "https://www.youtube.com/@MoriCalliope",
@@ -400,7 +393,14 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/LnJxTvrkHQFdFlyMY2HPtXVEwA7KHlUp8rNzBepF1GQfPQjUN9yKGIqSYOD31F22Ow9vSTn9",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "jmQFQhELVyw",
+                "title": "This game has been haunting me for a decade... it's finally time【The Last Story】",
+                "thumbnail": "https://i.ytimg.com/vi/jmQFQhELVyw/hqdefault.jpg?v=679666ed&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPygFhh9HlfZhc0o08S-yLLc8xGw",
+                "description": "thumnail art: https://x.com/isarobn/status/1882153577457778833\n\nJUSTICE Half Anniversary MERCH!\n▼Official Online Shop▼\nEN: https://shop.hololivepro.com/products/hololiveen_justice_anhalfyear..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
