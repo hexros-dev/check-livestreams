@@ -290,7 +290,15 @@
         "channel_url": "https://www.youtube.com/@NanashiMumei",
         "channel_name": "Nanashi Mumei Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ufO7pGRu0vUfA2FLPz7yN517i8wOYxAdcxB9nSTKKfiKhjec0ulSmwWmRA00KqVpOTIesgXhMA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Q8W_k1sueL4",
+                "title": "【MEMBERS ONLY】Midday Moomin' Tunes UNARCHIVED",
+                "date": "2025/01/27 03:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Q8W_k1sueL4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCHEiM7ZHWGWXERoYDejphzT39h3A",
+                "description": "Stream will become Members Only before starting!\nI will rebroadcast this stream at a normal Moom time tonight !\n\n▼Geek Jack\nEN: https://shop.geekjack.net/collections/nanashi-mumei\nCH: https://sho..."
+            }
+        ]
     },
     "@NatsuiroMatsuri": {
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
