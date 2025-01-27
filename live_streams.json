@@ -39,7 +39,14 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "-Hve0zHrK_I",
+                "title": "【M.M.M. / Monday Morning Malas】I am back !!!!【Ayunda Risu】",
+                "thumbnail": "https://i.ytimg.com/vi/-Hve0zHrK_I/hqdefault.jpg?v=6796ee8a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMWz0Bq-Q3I6ilWqyeQ6QqV5m1KQ",
+                "description": "#HappyRisuDay2025 #Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nMETROPOLIS MV : https://youtu.be/6ulGdHRkzGs?si=YlxSAABf361PYAyz\n\nSTREAM MY NEWEST ORIGINAL SONG メトロポリス..."
+            }
+        ]
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -70,14 +77,7 @@
         "channel_url": "https://www.youtube.com/@GawrGura",
         "channel_name": "Gawr Gura Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/6BCfAqi9yIpZbHLbw9BAWySvB3XZf9r8jFqudO5nSOsHoGzLhlKrm1M1uuMCRabi_pXGDzl7",
-        "videos": [
-            {
-                "video_id": "7W_Bo6OSi78",
-                "title": "【 Liars Bar 】Me VS You",
-                "thumbnail": "https://i.ytimg.com/vi/7W_Bo6OSi78/hqdefault.jpg?v=679665a7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBe5eAbOuNBuUoB5w7W5Y2OUMLP-g",
-                "description": "im really good at uno, just so you know \n\n🐟 twitter: https://twitter.com/gawrgura \n🐟 thumbnail: https://x.com/08Chiwa\n\nThis game is being streamed and monetized after confirming with..."
-            }
-        ]
+        "videos": []
     },
     "@HakosBaelz": {
         "channel_url": "https://www.youtube.com/@HakosBaelz",
