@@ -51,13 +51,33 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "VaDggu24LRw",
+                "title": "【FWMC MINECRAFT JOURNEY】fuzzy return to our mining journey 🐾【MOCOCO POV】",
+                "thumbnail": "https://i.ytimg.com/vi/VaDggu24LRw/hqdefault.jpg?v=678e7be1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgrsS08Rq7k48RK65DLRr8IblWLA",
+                "description": "no more chicken dungeon, time to DUNGEON DUNGEON ✨\nlovely illustration by @_hinatahirune 💕\nMinecraft skins by @aozane 💕\n✨️🩵🩷 𝗙𝗨𝗪𝗔𝗠𝗢𝗖𝗢 𝟯𝗗 𝗕𝗜𝗥..."
+            },
+            {
+                "video_id": "pC5Z9CPRe94",
+                "title": "【FWMC MINECRAFT JOURNEY】fluffy return to our mining journey 🐾【FUWAWA POV】",
+                "thumbnail": "https://i.ytimg.com/vi/pC5Z9CPRe94/hqdefault.jpg?v=678e7c86&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYhUGkhXyupbMzfO4Q5qmlz9KH7A",
+                "description": "no more chicken dungeon, time to DUNGEON DUNGEON ✨\nlovely illustration by @_hinatahirune 💕\nMinecraft skins by @aozane 💕\n✨️🩵🩷 𝗙𝗨𝗪𝗔𝗠𝗢𝗖𝗢 𝟯𝗗 𝗕𝗜𝗥..."
+            }
+        ]
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
         "channel_name": "Gawr Gura Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/6BCfAqi9yIpZbHLbw9BAWySvB3XZf9r8jFqudO5nSOsHoGzLhlKrm1M1uuMCRabi_pXGDzl7",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "7W_Bo6OSi78",
+                "title": "【 Liars Bar 】Me VS You",
+                "thumbnail": "https://i.ytimg.com/vi/7W_Bo6OSi78/hqdefault.jpg?v=679665a7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBe5eAbOuNBuUoB5w7W5Y2OUMLP-g",
+                "description": "im really good at uno, just so you know \n\n🐟 twitter: https://twitter.com/gawrgura \n🐟 thumbnail: https://x.com/08Chiwa\n\nThis game is being streamed and monetized after confirming with..."
+            }
+        ]
     },
     "@HakosBaelz": {
         "channel_url": "https://www.youtube.com/@HakosBaelz",
