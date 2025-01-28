@@ -15,7 +15,15 @@
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
         "avatar_url": "https://yt3.googleusercontent.com/Ob0LQV8-i9FXY_GX4AEnsWsxvYUojcYtjZjtLsmjQRtPoYMZN5qWAe9hRhy7sMa19PlF61BG",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "LJnkBMDdWIs",
+                "title": "【鬼難度】宇宙飛行士テストに挑戦！！！？90分でクリアすべし🔥【ホロライブ/赤井はあと】",
+                "date": "2025/01/29 15:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/LJnkBMDdWIs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAW_XBdJ1F394Ssx7ZifQuoPjoksw",
+                "description": "ムネイラスト：しのむ先輩\nhttps://x.com/CinoMoon\n\n#はあちゃまなう 感想ツイートしてねっ！ゼッタイ！！！\n\n❤️‍🔥赤井はあと×はあちゃま「どちら..."
+            }
+        ]
     },
     "@AkiRosenthal": {
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
@@ -244,15 +252,7 @@
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
         "channel_name": "Moona Hoshinova hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/9e7J_lAxCEZO6IRC_Sl3Gj-bt9uPvSXolU_vBpmqWABzv99oHxzbYhWWgvRI_c2qmB4jH0p_ZA",
-        "videos": [
-            {
-                "video_id": "m_WB0UX47bU",
-                "title": "【Tokyo Extreme Racer】Ngeng【Moona Hoshinova】",
-                "date": "2025/01/28 23:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/m_WB0UX47bU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALoy7Stt83ERtDnd43lLxuYiZpdA",
-                "description": "▼Moona Hoshinova「Multiverse」\nhttps://lnk.to/mh_Multiverse\n\n▼Moona Hoshinova「Nightmare」\nhttps://cover.lnk.to/AeV06H\n\nStreamlabs donation link here : https://streamlabs.com/moonahoshinova..."
-            }
-        ]
+        "videos": []
     },
     "@MoriCalliope": {
         "channel_url": "https://www.youtube.com/@MoriCalliope",
