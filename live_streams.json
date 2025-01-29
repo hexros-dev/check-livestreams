@@ -190,7 +190,14 @@
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
         "channel_name": "Moona Hoshinova hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/9e7J_lAxCEZO6IRC_Sl3Gj-bt9uPvSXolU_vBpmqWABzv99oHxzbYhWWgvRI_c2qmB4jH0p_ZA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "pP7zB2ARv5c",
+                "title": "【UNARCHIVE】Karaoke night in the new moon!【Moona Hoshinova】",
+                "thumbnail": "https://i.ytimg.com/vi/pP7zB2ARv5c/hqdefault.jpg?v=679a4bda&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKCVR-rcpz0_H1Wxy4Rh25A5JRBQ",
+                "description": "▼Moona Hoshinova「Multiverse」\nhttps://lnk.to/mh_Multiverse\n\n▼Moona Hoshinova「Nightmare」\nhttps://cover.lnk.to/AeV06H\n\nStreamlabs donation link here : https://streamlabs.com/moonahoshinova..."
+            }
+        ]
     },
     "@MoriCalliope": {
         "channel_url": "https://www.youtube.com/@MoriCalliope",
