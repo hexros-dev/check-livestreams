@@ -82,13 +82,6 @@
                 "date": "2025/02/02 10:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/ouQF2A1l_cI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcLsOqf2xu-N51BaVI24bdmf9U6g",
                 "description": "our 1st ever birthday concert, finally it's here ✨\nwe've worked so hard for this day, so let's make it the brightest ever together!\n🎤 Please join us for our ✨MEMBERSHIP EXCLUSIVE✨..."
-            },
-            {
-                "video_id": "uuGn8Vfefqo",
-                "title": "【GYM SIMULATOR 24】let's get physical and feel the burn 🐾【FUWAMOCO】",
-                "date": "2025/01/29 09:15:00",
-                "thumbnail": "https://i.ytimg.com/vi/uuGn8Vfefqo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCttF4D3mIrjoVL2XmV57JT4DpB8Q",
-                "description": "sweaty soggy doggies on the loose ✨\nlovely illustration by @koahri1 💕\n✨️🩵🩷 𝗙𝗨𝗪𝗔𝗠𝗢𝗖𝗢 𝟯𝗗 𝗕𝗜𝗥𝗧𝗛𝗗𝗔𝗬 𝗣𝗔𝗥𝗧𝗬 𝗼𝗻..."
             }
         ]
     },
@@ -346,7 +339,15 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "jTfHKJM5SdM",
+                "title": "【Superchat Catchup】REEEEEEEEEEEEEEEEEEad",
+                "date": "2025/01/29 11:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/jTfHKJM5SdM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCAqi13CNptf-1FJACtd8FYbVoLCw",
+                "description": "Since I couldn't read the superchats, I want to thank the rest of the people who kindly sent in their superchat.\n\n[Twitter]\nhttps://twitter.com/ourokronii\n\n[Thumbnail Art]\nhttps://x.com/SejVon..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
@@ -423,7 +424,15 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Q6SFhUVRLK0",
+                "title": "【首都高バトル】車の申し子の兄をもつ妹の運転を見よ【白銀ノエル/ホロライブ】",
+                "date": "2025/01/29 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Q6SFhUVRLK0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCj6EVRKxdcHWG6sMCX-NMiYBiFog",
+                "description": "生後3ヶ月で車に興味をもち小学生でプロに大人顔負けな知識を買われ中学生で整備士のお手伝いを始める。\n突如閉じなくなった母の車の窓をJ〇F..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
