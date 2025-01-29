@@ -169,15 +169,7 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/VL9aJ1o3yrN_xzHKTX0PvArQjUDHhtWtOtAYWjpzkqoFxR5HHWmWRWNgu6M5l4nSibqLaeKXqA",
-        "videos": [
-            {
-                "video_id": "_g19GXN7rM8",
-                "title": "【Minecraft】tidying up and closing the forge. til next time! 👋【Kaela Kovalskia / hololiveID】",
-                "date": "2025/01/29 19:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/_g19GXN7rM8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwF4_bUiD-kEokjbFEAPUaIJxzaw",
-                "description": "【Donasi lokal】Traktir yang pahit-pahit kini sangat EZGGWP!~\nLink: https://sociabuzz.com/kaelakovalskia/tribe\n\n#Kaelaif #KaelaKovalskia #holoID \n-------------------------------------------------..."
-            }
-        ]
+        "videos": []
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
@@ -419,7 +411,15 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "rhGwEnyhMsY",
+                "title": "【ノロイカゴ ゲゲゲの夜】妖怪が徘徊する呪いの領域にソロで挑め！！！【ホロライブ/白上フブキ】",
+                "date": "2025/01/29 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/rhGwEnyhMsY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDswHiWuvN9ZRoF4yV8KGbSUyw_Cw",
+                "description": "#フブキングダム\n━━━━━━━━━━━━━━━━━━━━━━━\n🌽白上フブキ1stソロライブ FBKINGDOM “ANTHEM”🌽\n2025年2月13日(木)にぴあアリー..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -455,7 +455,15 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/LObfzJe4AIufIErJzQy1xzwQcA5AX6rJh8AxJe-qvG2yBO-tbTVDwXqOkoeK_MoGPC6C3lMxQ_c",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "SB2P7l-9Kr0",
+                "title": "【歌枠】チルしよう【轟はじめ/ReGLOSS】",
+                "date": "2025/01/29 21:00:46",
+                "thumbnail": "https://i.ytimg.com/vi/SB2P7l-9Kr0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvnqwKRf4R3uK1qHn8G1geAAe1Rg",
+                "description": "🐧はじめの日記念グッズ販売開始🐧（1/11の20:00～2/17の18:00まで)\nhttps://shop.hololivepro.com/products/todorokihajime_hajimesdaymerch\n\n素敵なサムネお写真：posua様..."
+            }
+        ]
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
