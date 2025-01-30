@@ -311,14 +311,7 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZlovVsPyh8NgS37S4dfONiCBySiboGPbT9cYuirb8JM3JhSnqlpJk-8SQUEA7jPfqXpMvjaa",
-        "videos": [
-            {
-                "video_id": "qXeE3Qao_Hc",
-                "title": "Most Chaotic Duck Detective at Your Service【Hitman: World of Assassinations】",
-                "thumbnail": "https://i.ytimg.com/vi/qXeE3Qao_Hc/hqdefault.jpg?v=67919272&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC88OsnSh8HGpyHgHn6pLrwQVGqqg",
-                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n\n==============..."
-            }
-        ]
+        "videos": []
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
@@ -408,7 +401,14 @@
         "channel_url": "https://www.youtube.com/@dooby3d",
         "channel_name": "dooby",
         "avatar_url": "https://yt3.googleusercontent.com/sOGyZgV9pPHQJCEvNe28NCOFC1y0KggsxUjrP5ecMAgBmdNT8p6ZNM24d_9SVgWFhBh0lKBL5Q",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "DSDmg452F_s",
+                "title": "【KARAOKE?】this is how we sing where im from 👽🛸",
+                "thumbnail": "https://i.ytimg.com/vi/DSDmg452F_s/hqdefault.jpg?v=679adbb9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCq3Sdx8Mdi21-JPoVijqcTfo9_TA",
+                "description": "just a chill karaoke tbh ᵐᵃʸ ⁿᵒᵗ ᵃᶜᵗᵘᵃˡˡʸ ᵇᵉ ᵃⁿ ᵃˡᶦᵉⁿ****\n【CHAT RULES】(yes the chat is moderated)\r\n☆➡ try to be civil\r\n☆➡ no hate / racism..."
+            }
+        ]
     },
     "@holoen_ceciliaimmergreen": {
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
