@@ -344,14 +344,7 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": [
-            {
-                "video_id": "-bAga8OCHrI",
-                "title": "【スパチャお礼】いつもありがとう～💐今日までのスパチャお礼【不知火フレア/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/-bAga8OCHrI/hqdefault.jpg?v=679b6f9d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxeI08wvYq19MOSHOo6jiGZ7rKpQ",
-                "description": "ホロライブ所属３期生の不知火フレア(Flare Shiranui)だよ～\n\n━━━━━━━━━━━━━━━━━━━━━━━\n■Newシングル「マーブル冴える」MV..."
-            }
-        ]
+        "videos": []
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -369,7 +362,14 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "SKix3wcgJ9E",
+                "title": "【Tales of Arise】Beyond the Dawn... Wawa core is back!! Part 1! #kfp #キアライブ",
+                "thumbnail": "https://i.ytimg.com/vi/SKix3wcgJ9E/hqdefault.jpg?v=679af8fb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDuVEbE6MO-EsdtQRKy2jtj8ceMeg",
+                "description": "stream my new song, MIRAGE!✨https://cover.lnk.to/DQSp3S\n👀 Takanashi Kiara 1st Album \"Point of View\" 👀\nStreaming: https://cover.lnk.to/PointofView\n\n🏵️[Twitter] 🏵️\nhttps://twitter.c..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
