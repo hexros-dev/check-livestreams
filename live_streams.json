@@ -15,14 +15,7 @@
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
         "avatar_url": "https://yt3.googleusercontent.com/Ob0LQV8-i9FXY_GX4AEnsWsxvYUojcYtjZjtLsmjQRtPoYMZN5qWAe9hRhy7sMa19PlF61BG",
-        "videos": [
-            {
-                "video_id": "79lSGlBdeZs",
-                "title": "【#ろぼちゃまRP】鬼太郎の新作ホラゲ！後輩ちゃんと4人協力だあああ！【ノロイカゴ ゲゲゲの夜】",
-                "thumbnail": "https://i.ytimg.com/vi/79lSGlBdeZs/hqdefault.jpg?v=679a17a3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNU8iGcwgegmHoSK-_CiMAdNF-Jg",
-                "description": "新企画！🌟#ろぼちゃまRP\n色んなゲストとろぼちゃまで一緒にホラゲするぞ～～～！\n本ゲームは、配信ガイドラインに則り配信、収益化を行って..."
-            }
-        ]
+        "videos": []
     },
     "@AkiRosenthal": {
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
@@ -114,14 +107,7 @@
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/Z2QpYUZ4-jKoFR7Ms330gRQzjI2gZ4CB_uVP6f39YysxUe1u8icrtE07ffpRxCtpu9U65MWNDA",
-        "videos": [
-            {
-                "video_id": "3YgMPP12zqU",
-                "title": "【#ぺこマリweek】ホロメンプロフィール帳を見てぺこらのホロメン認識アップグレードするぺこ！【ホロライブ/宝鐘マリン・兎田ぺこら】",
-                "thumbnail": "https://i.ytimg.com/vi/3YgMPP12zqU/hqdefault.jpg?v=679b2a96&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYdfa536mamDY7LSWV6UpfFHXK3g",
-                "description": "@usadapekora \n\nサムネイラスト…わき\nhttps://x.com/wakikamaboko\n\n｡.｡:+* ﾟ ゜ﾟ *+:｡.｡:+* ﾟ ゜ﾟ *+:｡.｡.｡:+*ﾟ ゜ﾟ *+:｡.｡:+*ﾟ ゜ﾟ *+:｡.｡.｡:+*+:｡...."
-            }
-        ]
+        "videos": []
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
@@ -533,7 +519,14 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "kiV946SUtJg",
+                "title": "【I dont Fall】ユニコーン？ペガサスおじさんとゴールを目指すだけ。ぺこ！【ホロライブ/兎田ぺこら】",
+                "thumbnail": "https://i.ytimg.com/vi/kiV946SUtJg/hqdefault.jpg?v=679b623f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCOo4cCpRLmtPXx3Nj4NlRolo9BDA",
+                "description": "サムネイラスト：()さん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ #ぺこらいぶ..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
