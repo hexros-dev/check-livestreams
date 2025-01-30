@@ -33,7 +33,14 @@
         "channel_url": "https://www.youtube.com/@AnyaMelfissa",
         "channel_name": "Anya Melfissa Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Do7efmfHxqc",
+                "title": "【EmptyBottle】Am Bottle? :D 【hololive ID 2nd Generation | Anya Melfissa】",
+                "thumbnail": "https://i.ytimg.com/vi/Do7efmfHxqc/hqdefault.jpg?v=679ab4ab&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJ_Xq7LXKfwe2_s1Fh2lyOF3xxGA",
+                "description": "Support me here/ドネーション↓\nStreamlabs: https://streamlabs.com/anyamelfissachhololive-id/tip\nSociaBuzz(Local Donation): https://sociabuzz.com/anyamelfissa/tribe \n\n--\nThis game is..."
+            }
+        ]
     },
     "@AyundaRisu": {
         "channel_url": "https://www.youtube.com/@AyundaRisu",
@@ -153,7 +160,14 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "70Ln1cCCzyM",
+                "title": "【BLOODBORNE】My blade seeks to quench it's thirst.",
+                "thumbnail": "https://i.ytimg.com/vi/70Ln1cCCzyM/hqdefault.jpg?v=679a657d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDT3VE1yAp5yhpEKoNZ_I4JlVbnow",
+                "description": "/.D\n\nThumbnail art: @shutowl THANK YOU!\nhttps://x.com/shutowl/status/1876581145258922432/photo/1\n\nNEW MV RELEASE: https://youtu.be/1ulTgWcWWRU\n====================\n✧Twitter: https://twitter.com/k..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -183,7 +197,14 @@
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
         "channel_name": "Moona Hoshinova hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/9e7J_lAxCEZO6IRC_Sl3Gj-bt9uPvSXolU_vBpmqWABzv99oHxzbYhWWgvRI_c2qmB4jH0p_ZA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "bGV3p1YkKLQ",
+                "title": "【REBROADCAST UNARCHIVE】Karaoke night in the new moon!【Moona Hoshinova】",
+                "thumbnail": "https://i.ytimg.com/vi/bGV3p1YkKLQ/hqdefault.jpg?v=679ac00a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_l6K4DKlWACfvzZ0lnvJDZ5WpCA",
+                "description": "▼Moona Hoshinova「Multiverse」\nhttps://lnk.to/mh_Multiverse\n\n▼Moona Hoshinova「Nightmare」\nhttps://cover.lnk.to/AeV06H\n\nStreamlabs donation link here : https://streamlabs.com/moonahoshinova..."
+            }
+        ]
     },
     "@MoriCalliope": {
         "channel_url": "https://www.youtube.com/@MoriCalliope",
@@ -231,14 +252,7 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": [
-            {
-                "video_id": "ZyacEjF4brU",
-                "title": "【DRAWING】 STREAM",
-                "thumbnail": "https://i.ytimg.com/vi/ZyacEjF4brU/hqdefault.jpg?v=679a9896&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBY1vn7SGOpsUKhe4QEHFS2J15Z-Q",
-                "description": "【Thumbnail Art】\n\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\n__________________________________________________________________________________________\n\nEndcard Art by Me!\nEndcard..."
-            }
-        ]
+        "videos": []
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -406,14 +420,7 @@
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm",
-        "videos": [
-            {
-                "video_id": "RA6SgGSobjw",
-                "title": "【MANOR LORDS】We are the knights who say Frig ~! 💄",
-                "thumbnail": "https://i.ytimg.com/vi/RA6SgGSobjw/hqdefault.jpg?v=679a8e52&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDC_wjfZ2fXhlhuN8Jl-jR3FY9zhA",
-                "description": "I'm a lord!\n▬▬ι════════ﺤ\nMerch!!! For JUSTICE!!!!!! HUZZAH! \n ▼Official Online Shop▼\n JP: https://shop.hololivepro.com/products/hololiveen_justice_anhalfyear \nEN:..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_gigimurin": {
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
