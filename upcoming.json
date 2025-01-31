@@ -79,7 +79,15 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "QVHCK6gIqYw",
+                "title": "≪NieR Replicant ver.1.22474487139…≫ It begins again...FIRST TIME PLAYTHROUGH! #1 【SPOILER WARNING】",
+                "date": "2025/02/01 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/QVHCK6gIqYw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDj75DtLPOz3T3EQ2bfdDXDD0VTOw",
+                "description": "Another journey awaits us.\n\nThumbnail: https://x.com/planetdropper/status/1865206141724328168/photo/1\n#telebae #hololiveenglish #febaerary\n\n««≪ °◇◆◇° ≫ »»\n\nThe gameplay footage..."
+            }
+        ]
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -167,15 +175,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/XXZ4apG-FPN8G8DpYacbnwxs7S5tf2tjV_u2Eaot3JHGAkSPFBYaGMOyJcAHhLYy_u11JD7O29I",
-        "videos": [
-            {
-                "video_id": "6aiioUv9Alw",
-                "title": "#2【首都高バトル】なにわのシンデレラ【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】ネタバレあり",
-                "date": "2025/01/31 22:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/6aiioUv9Alw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJe4G6grQWdknKMlVbOfN7q2BCwQ",
-                "description": "本ゲームは元気株式会社に確認の上、配信・収益化を行なっております。\n© Genki\n\nサムネイルの素敵なイラスト　むぬーさん　https://x.com/unyoge..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
