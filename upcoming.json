@@ -248,7 +248,7 @@
             {
                 "video_id": "4cDY7wnPhgc",
                 "title": "【IDOL MANAGER】NO BANKRUPT, YES IDOLS【Kureiji Ollie】",
-                "date": "2025/01/31 18:00:00",
+                "date": "2025/01/31 19:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/4cDY7wnPhgc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB545-jad_ha0_MBPZ20Z9SKXTv3Q",
                 "description": "#OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n==========================================\n\nThis game is being streamed and monetized after confirming with PLAYISM.\nhttps://idolmanager.net/..."
             }
@@ -568,15 +568,7 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": [
-            {
-                "video_id": "dfZtRMsQru0",
-                "title": "【 首都高バトル 】昼間？知らん！走るぜ！！！！！！！！！【ホロライブ/雪花ラミィ】※ネタバレあり",
-                "date": "2025/01/31 13:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/dfZtRMsQru0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUK1WMHVHPnNdd9bW5NXoc56kjzg",
-                "description": "本ゲームは元気株式会社に確認の上、配信・収益化を行なっております。\n© Genki\n\n感想は #らみらいぶ で呟いて頂けたら嬉しいです！\n\nサムネイル..."
-            }
-        ]
+        "videos": []
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
@@ -606,7 +598,15 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "c3Br4fGl2XQ",
+                "title": "【FALLOUT: NEW VEGAS】witty title here of losing my brain, spine, and heart in the wasteland",
+                "date": "2025/02/01 05:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/c3Br4fGl2XQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgOtBxNMtb4wfvHlFxyyKRPu2fjg",
+                "description": "thumbnail: https://x.com/gremurin59027/status/1882496793054961930\n\nThis game's use of streaming is being consented by ©2010 Bethesda Softworks LLC. All Rights Reserved.\n---------------------------..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
