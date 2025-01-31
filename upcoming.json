@@ -382,7 +382,15 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/Z78RNXxUqpOGYKFt-VrJV7nlehOHzl7Ta-l1cgPx5Ewucmr5kY64iGxmPSe7QqIdM1ZhvPlEOg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "HC-rVfAo83M",
+                "title": "【占いの館】お客様がご来店！え？オムライスを所望？？？【オフコラボ】",
+                "date": "2025/01/31 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/HC-rVfAo83M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgfy2NsZH1mJD-tF5z7T_msmt6GA",
+                "description": "BGM(ビッグゴッドミオーン)の占いの館へようこそ～～\nいつもは出張していたりする新年占いですが、\n今回はお客様がうちに来てくれました🏠(ご..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
