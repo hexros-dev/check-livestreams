@@ -324,7 +324,15 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "zX0vbqAxqq8",
+                "title": "【Glyphica: Typing Survival】 Type, Clickity Clackity, Survive",
+                "date": "2025/02/01 05:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/zX0vbqAxqq8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD11lmsCuR3ANvqkh9e0ZrhoQTAfw",
+                "description": "【Thumbnail Art】\nhttps://x.com/samukzz_/status/1874213706969866501\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\nThis game is being streamed and monetized after confirming with Squeaky..."
+            }
+        ]
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
