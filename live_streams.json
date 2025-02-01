@@ -156,14 +156,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/XXZ4apG-FPN8G8DpYacbnwxs7S5tf2tjV_u2Eaot3JHGAkSPFBYaGMOyJcAHhLYy_u11JD7O29I",
-        "videos": [
-            {
-                "video_id": "6aiioUv9Alw",
-                "title": "#2【首都高バトル】なにわのシンデレラ【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】ネタバレあり",
-                "thumbnail": "https://i.ytimg.com/vi/6aiioUv9Alw/hqdefault.jpg?v=679cc6c1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJe4G6grQWdknKMlVbOfN7q2BCwQ",
-                "description": "本ゲームは元気株式会社に確認の上、配信・収益化を行なっております。\n© Genki\n\nサムネイルの素敵なイラスト　むぬーさん　https://x.com/unyoge..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -260,14 +253,7 @@
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
         "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ",
-        "videos": [
-            {
-                "video_id": "FUs_9d-VY1Y",
-                "title": "I'm home~ | Yappa Yappa",
-                "thumbnail": "https://i.ytimg.com/vi/FUs_9d-VY1Y/hqdefault.jpg?v=679cfe2f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCF7nOVxHu89Lvam8kyXvPw1M0GAA",
-                "description": "∴∴♪ * Check Out My First EP Here!* ♪∴∴\nhttps://cover.lnk.to/esLvqA\n\n∴∴♪ * Check Out My Music Here!* ♪∴∴\nhttps://www.youtube.com/playlist?list=PLSJG6WXf5JvFn2FWv_B5HP7DklUtde..."
-            }
-        ]
+        "videos": []
     },
     "@NinomaeInanis": {
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
@@ -346,7 +332,14 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZlovVsPyh8NgS37S4dfONiCBySiboGPbT9cYuirb8JM3JhSnqlpJk-8SQUEA7jPfqXpMvjaa",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "n-OruWrXqiQ",
+                "title": "Travelling Through New York with a Giant Pane of Glass is a Pain in the 🍑【Carry the Glass】",
+                "thumbnail": "https://i.ytimg.com/vi/n-OruWrXqiQ/hqdefault.jpg?v=679190de&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlFjqUwHXnl9bnphJ6i73zuzL6RA",
+                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n\n==============..."
+            }
+        ]
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
@@ -389,7 +382,14 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "vObYfxeXr10",
+                "title": "【 ドラクエⅩ ver.2 】完全初見。オフライン版✨この世界・・・なにか変・・・。【鷹嶺ルイ/ホロライブ】※ネタバレあり",
+                "thumbnail": "https://i.ytimg.com/vi/vObYfxeXr10/hqdefault.jpg?v=679d228e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCHOlQNaY2YpJmpaIHhh-jtx8f9RQ",
+                "description": "次なる試練は！？\n※タイトルの『※ネタバレあり』とは、【ゲーム本編のネタバレが含まれた配信】という意味でネタバレやアドバイスをしてOK..."
+            }
+        ]
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
@@ -443,14 +443,7 @@
         "channel_url": "https://www.youtube.com/@dooby3d",
         "channel_name": "dooby",
         "avatar_url": "https://yt3.googleusercontent.com/sOGyZgV9pPHQJCEvNe28NCOFC1y0KggsxUjrP5ecMAgBmdNT8p6ZNM24d_9SVgWFhBh0lKBL5Q",
-        "videos": [
-            {
-                "video_id": "qGSFgj1DPRs",
-                "title": "【Minecraft】Collab w/ Henya ~ THIRD LAYER OF THE ABYSS",
-                "thumbnail": "https://i.ytimg.com/vi/qGSFgj1DPRs/hqdefault.jpg?v=679d40a2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBf2g7CohdBpLoeQ3sfta3Jx0QThA",
-                "description": "☆HENYA POV - https://www.twitch.tv/henyathegenius\nWATER =/= BREAK FALL\nExploring the amazing recreated map from the Anime - Made in Abyss \nhttps://mineinabyss.com/\n☆HENYA POV - https://www.twit..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_ceciliaimmergreen": {
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
