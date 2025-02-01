@@ -101,7 +101,14 @@
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
         "channel_name": "Suisei Channel",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "_o_mtN68KEg",
+                "title": "【チラ見せ】Hoshimachi Suisei 日本武道館 Live \"SuperNova\"",
+                "thumbnail": "https://i.ytimg.com/vi/_o_mtN68KEg/hqdefault.jpg?v=679725f5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyAfxHoKhSOKwNN3AvB0bcUblBIA",
+                "description": "Hoshimachi Suisei 日本武道館 Live \"SuperNova\"開催！\n2025年2月1日（土）公演の一部をYouTube Liveで無料配信！\n\n▼公式ハッシュタグ\n#かけめぐるほしまち..."
+            }
+        ]
     },
     "@HoushouMarine": {
         "channel_url": "https://www.youtube.com/@HoushouMarine",
@@ -331,14 +338,7 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": [
-            {
-                "video_id": "fdpaKbk07Sw",
-                "title": "【首都高バトル】隙は見せるな食われちゃうぞぉおおおお！！！※ストーリーネタバレあり【ホロライブ/白上フブキ】",
-                "thumbnail": "https://i.ytimg.com/vi/fdpaKbk07Sw/hqdefault.jpg?v=679da263&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGE7Mb1aTOqddqHOTpSKB_c0JJTg",
-                "description": "#フブキングダム\n\n⏬️みんな聴こう⏬️\nR x R x R || HAKOS BAELZ\nhttps://www.youtube.com/watch?v=7WXVFl-N6-o\n\n━━━━━━━━━━━━━━━━━━━━━━━..."
-            }
-        ]
+        "videos": []
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
