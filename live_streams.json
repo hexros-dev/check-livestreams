@@ -324,14 +324,7 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": [
-            {
-                "video_id": "XYztoXM9Xiw",
-                "title": "【同時視聴】Hoshimachi Suisei 日本武道館 Live \"SuperNova\"　輝くすいを応援する！【#かけめぐるほしまち】",
-                "thumbnail": "https://i.ytimg.com/vi/XYztoXM9Xiw/hqdefault.jpg?v=679ddb48&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCC-88Zu8iGgDumAIDYhpy6kX4RrQ",
-                "description": "猫又おかゆ @NekomataOkayu \n━━━━━━━━━━━━━━━━━━━━━━━\n【タイトル】\nHoshimachi Suisei 日本武道館 Live \"SuperNova\"\n\n【特設サイト】..."
-            }
-        ]
+        "videos": []
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -405,14 +398,7 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
-        "videos": [
-            {
-                "video_id": "DrjaPwsgp30",
-                "title": "【Watchalong/同時視聴】Suisei Senpai's 日本武道館 Live \"SuperNova\" 【#かけめぐるほしまち】",
-                "thumbnail": "https://i.ytimg.com/vi/DrjaPwsgp30/hqdefault.jpg?v=679dcfbf&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzjyKUw7sNy10Z-kwvyTQdfz25og",
-                "description": "#hololive #holoid #vestiazeta  #vtuber \n\nGET TICKETS TO WATCH SUISEI SENPAI'S LIVE HERE: \n\n\n◆チケット/TICKETS\n日本： https://supernova.hololivepro.com/tickets/\nOverseas：https://supernova..."
-            }
-        ]
+        "videos": []
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
@@ -498,7 +484,14 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "k5HM4m2Blkc",
+                "title": "【逆凸】ぺこマリのアポ無し逆凸耐久！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
+                "thumbnail": "https://i.ytimg.com/vi/k5HM4m2Blkc/hqdefault.jpg?v=679e0675&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA16c6Xc3G7vFQ2Qr7Iy56q-ElWtA",
+                "description": "＃ぺこマリweek 7日目！箱内、箱外問わず凸りたい所存…！\n@HoushouMarine \n\nサムネイラスト：朱里/shuri(@ebiebieshrimp)さん\n\n⋈ －－－－－－－－－－－－..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
