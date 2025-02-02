@@ -195,14 +195,7 @@
         "channel_url": "https://www.youtube.com/@MurasakiShion",
         "channel_name": "Shion Ch. 紫咲シオン",
         "avatar_url": "https://yt3.googleusercontent.com/K91NQLuy_JMQ65n-Opf0Q2FZBO3yOURnMRusO7o5DTjaJ1QVtP-ANN4lehK57X4KXpcI2MiRig",
-        "videos": [
-            {
-                "video_id": "q62YpF5ec7Q",
-                "title": "【TrickShot Simulator】話しながら奇跡を起こす配信。【ホロライブ/紫咲シオン】",
-                "thumbnail": "https://i.ytimg.com/vi/q62YpF5ec7Q/hqdefault.jpg?v=679f7d88&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2T0Xi5r4pqCFvZPtJ9S9kefW4YQ",
-                "description": "最近ね、インターネット回線も体調悪いの。許せない。\n配信が落ちた時、それも奇跡・・・\n\nサムネイラスト　Darjeeling様\nhttps://x.com/xdarjeelingxtea/sta..."
-            }
-        ]
+        "videos": []
     },
     "@NakiriAyame": {
         "channel_url": "https://www.youtube.com/@NakiriAyame",
@@ -286,7 +279,14 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/GF0wbwZvZAGzYg8s8d6Yh1BDcWAE9UmLAh2uf3IMJ5l_ESi3sWeRqk2XfhW3IgzMeliHpt4cAw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "TY_FKkdJ9u4",
+                "title": "【朝活】おはよう☀mgmg～Eat Time❣最近健康生活が止まりません【#ホロライブ #ロボ子さん 】",
+                "thumbnail": "https://i.ytimg.com/vi/TY_FKkdJ9u4/hqdefault.jpg?v=679f3cc6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLByagp3mC0qFjBm7vDxYbgdq9PN9A",
+                "description": "💬＃ロボ子生放送　でポストしてってね✨\n\n\n\n📢Memberはこちらから❧\nhttps://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g/join\n\n📢最新ボイスはこちらから..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
