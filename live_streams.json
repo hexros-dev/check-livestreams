@@ -429,7 +429,14 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "m0gRhr_EhgE",
+                "title": "【Sudocats】ねこちゃんの数独！？趣味は数独のわたしがまったり遊ぶ【ホロライブ/ときのそら】",
+                "thumbnail": "https://i.ytimg.com/vi/m0gRhr_EhgE/hqdefault.jpg?v=679f6c0c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_tLUssgLYlZEUnjfKzezhNMtfrA",
+                "description": "まったりおしゃべりしながらわたしの趣味を見せていく！！\n\n\n本ゲームはDevcatsの確認を得た上で配信・収益化を行なっております。\n★★★★★★..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
