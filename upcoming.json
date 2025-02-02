@@ -79,21 +79,21 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "MFaTLFRuQio",
+                "title": "≪NieR Replicant ver.1.22474487139…≫ STOP POUNDING ME... FIRST TIME PLAYTHROUGH! #2 【SPOILER WARNING】",
+                "date": "2025/02/03 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/MFaTLFRuQio/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBR3-0tMjAuuxebemWuWj8Ii8jcwg",
+                "description": "I want to be like Grimoire Weiss when I grow up\n\nThumbnail: https://x.com/planetdropper/status/1865206141724328168/photo/1\n#telebae #hololiveenglish #febaerary\n\n««≪ °◇◆◇° ≫ »»..."
+            }
+        ]
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "f4K54Fc-ghM",
-                "title": "【 #こよすう 】初タイマンコラボ！こよすうはあるのか！？？？～マシュマロ＆相性診断～【博衣こより・水宮枢/ホロライブ】",
-                "date": "2025/02/02 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/f4K54Fc-ghM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5KlRCls8kX6sTHYorKPzTDiAXwQ",
-                "description": "ホロライブ正解は1年後で、「今年来る新ユニットは？」でマリリシャが挙げてくれた #こよすう 🧪💬🔁💙あるのか早速検討してみましょう@Mizum..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -143,7 +143,15 @@
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "W5KF5Vem8Vk",
+                "title": "【クリア後】ドンキーコングリターンズHDもうちょっとだけ遊ぶよ～！！【戌神ころね】",
+                "date": "2025/02/02 18:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/W5KF5Vem8Vk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0bWDKr2GYcXodDyPTk0ocknWpLw",
+                "description": "Play Game : Donkey Kong Country™ Returns HD ( switch )\nタグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nころねTwitter▶https:/..."
+            }
+        ]
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
@@ -557,15 +565,7 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": [
-            {
-                "video_id": "5yfMmxNMLHo",
-                "title": "【呪われたデジカメ】え、何が写るの？大丈夫そ？【 雪花ラミィ /ホロライブ】",
-                "date": "2025/02/02 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/5yfMmxNMLHo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmgPLZxs0umTac_Ocq16D3E8SSwg",
-                "description": "感想は #らみらいぶ で呟いて頂けたら嬉しいです！\n\nサムネイルイラスト：なかまつさま\nhttps://x.com/namakatsuillust\n\n本ゲームは  © Chilla's Art, LLC®..."
-            }
-        ]
+        "videos": []
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
