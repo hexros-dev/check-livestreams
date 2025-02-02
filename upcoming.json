@@ -73,13 +73,6 @@
                 "date": "2025/02/03 09:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/dmWn3PqgORo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFEXnLj3DYQGlyAsKD4tDhx-JCiQ",
                 "description": "let's chat about all the silly fun from our birthday live and celebrate moco-chan's birthday ✨\nlovely illustration by @blueberylpie 💕\n✨️🩵🩷 Go watch our 𝗙𝗨𝗪𝗔𝗠𝗢𝗖..."
-            },
-            {
-                "video_id": "ouQF2A1l_cI",
-                "title": "【3D LIVE CONCERT 生誕ライブ】FUWAMOCO birthday party night 🎂🐾 【#FWMCbday25】",
-                "date": "2025/02/02 10:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/ouQF2A1l_cI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcLsOqf2xu-N51BaVI24bdmf9U6g",
-                "description": "our 1st ever birthday concert, finally it's here ✨\nwe've worked so hard for this day, so let's make it the brightest ever together!\n🎤 Please join us for our ✨MEMBERSHIP EXCLUSIVE✨..."
             }
         ]
     },
@@ -519,7 +512,22 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "3OyCSkQ0ztQ",
+                "title": "【Minecraft】新ホロ鯖前に旧ホロ鯖みにいこう！【白銀ノエル/ホロライブ】",
+                "date": "2025/02/02 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/3OyCSkQ0ztQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBrai7X67HYlEasCPH3nIORIH_BMA",
+                "description": "時間変更あるかも！\n\n☔相合傘ASMR販売中☔→ https://shop.hololivepro.com/products/hololive_asmr_underoneumbrella?variant=45296384442588\n\nホロライブ学園ボイス→ https://s..."
+            },
+            {
+                "video_id": "VVoEVmd20uA",
+                "title": "【ASMR】節分＝鬼...にちなんで♡刺激的な音中心のゾクゾクを貴方に...【白銀ノエル/ホロライブ】",
+                "date": "2025/02/02 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/VVoEVmd20uA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxf5rAoHsyL2CniKFpGScHVw3ZiA",
+                "description": "ASMRは全て広告OFFにしてるので安心してねんねしてね✨\nこの配信はNOメン限なので誰でも視聴できます！\nもし少しでも良いと思ったらチャンネル登..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -598,10 +606,10 @@
         "videos": [
             {
                 "video_id": "FSPJ_Vr9t9k",
-                "title": "【龍が如く0 誓いの場所】#07｜最終回！第十五章「木洩れ陽」～桐生ちゃん＆真島の兄さんでブチかましていくぞッ！！※配信内容にネタバレを含みます【 雪花ラミィ /ホロライブ】",
+                "title": "【雑談】昼雑談の場所になりました【 雪花ラミィ /ホロライブ】",
                 "date": "2025/02/02 11:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/FSPJ_Vr9t9k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdEGlzwgnYKiR1i729Rb7VAIKryw",
-                "description": "この動画およびライブは、コンテンツ利用許諾契約に基づいて配信しています。\n©SEGA\n\n感想は #らみらいぶ で呟いて頂けたら嬉しいです！\n\nサムネ..."
+                "description": "感想は #らみらいぶ で呟いて頂けたら嬉しいです！\n\nサムネイルイラスト：金貨さま\nhttps://x.com/kinka0703\n\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈..."
             }
         ]
     },
