@@ -39,7 +39,14 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "rxA8DFawCz0",
+                "title": "【M.M.M. / Monday Morning Malas】Good Morning !!【Ayunda Risu】",
+                "thumbnail": "https://i.ytimg.com/vi/rxA8DFawCz0/hqdefault.jpg?v=67a0225d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxq9i4xWN_NYRvMuN-gUNxyIsItQ",
+                "description": "#HappyRisuDay2025 #Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nMETROPOLIS MV : https://youtu.be/6ulGdHRkzGs?si=YlxSAABf361PYAyz\n\nSTREAM MY NEWEST ORIGINAL SONG メトロポリス..."
+            }
+        ]
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -119,7 +126,14 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/JyixAV--9ZFWIMEwRQFbZhkiQTEvb1ALCdX7bW9BarpyLBjAnbbmc98jymhVT_pZlJpWaDwk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "PdTeJ6cl7WY",
+                "title": "【#限界飯】節分の日には、恵方巻を食べると聞きました。【一条莉々華/hololive DEV_IS　ReGLOSS】",
+                "thumbnail": "https://i.ytimg.com/vi/PdTeJ6cl7WY/hqdefault.jpg?v=679f6f99&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCL1jsXwm0ZABhjxBjcizgYiQoyZw",
+                "description": "久しぶりの限界飯…かな？？？\n\n🔽素敵なイラストありがとう！🔽\nSteelBall🌃秘書見習い様\n@steel42886\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈୨..."
+            }
+        ]
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -143,14 +157,7 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/VL9aJ1o3yrN_xzHKTX0PvArQjUDHhtWtOtAYWjpzkqoFxR5HHWmWRWNgu6M5l4nSibqLaeKXqA",
-        "videos": [
-            {
-                "video_id": "gI-o54e3LIk",
-                "title": "【PEJUANG SENIN】#93 wait- its February already!!!【Kaela's Monday Warrior】",
-                "thumbnail": "https://i.ytimg.com/vi/gI-o54e3LIk/hqdefault.jpg?v=679fa0a5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdduXhCCNsi5uf6UyFwyqor2qkcg",
-                "description": "the topics from the Pejuang Senin stream sometimes might be sensitive to be clipped without the context. please have that in mind😇\n---------------------------------------------------------------..."
-            }
-        ]
+        "videos": []
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
