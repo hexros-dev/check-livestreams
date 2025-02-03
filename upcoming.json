@@ -76,13 +76,6 @@
                 "date": "2025/02/04 05:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/a5T34s1KX1E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWMVaJ767er_RMGtN9i8yAF8GF-w",
                 "description": "#朝こよ を観れば日本ニキも海外ニキもホロライブの今が分かる、そんな番組になりたい \n※SuperChatは後日赤スパのみ御礼させていただきます！..."
-            },
-            {
-                "video_id": "uhIraMlCnS0",
-                "title": "【Minecraft】新ホロ鯖爆誕！！🙌✨早速遊びにいくぞおおお！！！【博衣こより/ホロライブ】",
-                "date": "2025/02/03 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/uhIraMlCnS0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzLReVVxnaNLnK6hCv55nKobKDHw",
-                "description": "今日からホロ鯖が新しくなります⛏✨ずのーを取り戻して遊びに行くぞ！！！→前枠： https://www.youtube.com/watch?v=8tOxR-zuHuY\n\n❄冬満喫デートボイス発..."
             }
         ]
     },
@@ -134,21 +127,21 @@
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "jL3a-lgTPqY",
+                "title": "【】23時になる可能性もあり！！！！！【】",
+                "date": "2025/02/03 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/jL3a-lgTPqY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAo5zsJ0Awf3TmKZIoEdT_DqBcLaw",
+                "description": "Play Game :  (  )\nタグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nころねTwitter▶https://twitter.com/inugamikorone\n\n-----------..."
+            }
+        ]
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/K39Md5CGHmCaMC5Ne3UWBzblgzDhUzXUFszrHfGapCvOldc8E7fWw3pxN0zhcjmoht4GngnD",
-        "videos": [
-            {
-                "video_id": "3hsLf5oWN_0",
-                "title": "【 Minecraft 】新鯖上陸！！回路職人を目指していくぞ🔥【ホロライブ DEV_IS 響咲リオナ】",
-                "date": "2025/02/03 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/3hsLf5oWN_0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnu8zS_O46S5hvSMxEUFmVHqouyQ",
-                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております。\n\n♡...\n\nサムネイラスト..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -180,7 +173,15 @@
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
         "channel_name": "Kobo Kanaeru Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/-CTSHFyohthgdHnFuQzUKOvtl-xpDUSp5-kkeRN9_PadA8DFtSRKhI-3PxoqILuq8_6TwszNBnk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "sKivZKur6nY",
+                "title": "【Poppy Playtime: Chapter 4】LET'S END THIS !!!",
+                "date": "2025/02/03 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/sKivZKur6nY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-jJsX31OxK9LmRrMuskUMlIS_WA",
+                "description": "Bokobokobo- Kobo Kanaeru at your service! Let me be your sun to shine your day, ehe~ ;D ☔☔☔\n#OnAeru #Kobo_Kanaeru #holoID #holoID03\n\nThis game is being streamed and monetized with permission..."
+            }
+        ]
     },
     "@KoganeiNiko": {
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
@@ -193,6 +194,13 @@
                 "date": "2025/02/04 20:30:00",
                 "thumbnail": "https://i.ytimg.com/vi/TinOO72OzZ0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlJ-kHd6s80EE-aMZWsl-qcpbDtg",
                 "description": "サムネイルのイラストはみちおさん！\nhttps://x.com/grenoui_oo1/status/1880117626137112752\nこのニコたんめちゃめちゃすき！！！とびでてきてる！！！\n\n￣￣￣..."
+            },
+            {
+                "video_id": "xifz1x0Pmw8",
+                "title": "【Minecraft 】新鯖に猛獣、、降臨しちゃったねぇ、、ニチャァ【虎金妃笑虎】",
+                "date": "2025/02/03 17:20:00",
+                "thumbnail": "https://i.ytimg.com/vi/xifz1x0Pmw8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQxrWEIWyuavuytjSUyYY3RzRdhg",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\nサムネイルのイラスト..."
             }
         ]
     },
@@ -256,29 +264,13 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw",
-        "videos": [
-            {
-                "video_id": "fhEkID2Cd38",
-                "title": "【Minecraft 】新ホロ鯖上陸…❕冒険するぞ⚔️【水宮枢／FLOW GLOW】#hololiveDEV_IS",
-                "date": "2025/02/03 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/fhEkID2Cd38/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbxu0gh_6rmgKMr4Zwp-uJrt4nlA",
-                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n素敵なイラスト mai..."
-            }
-        ]
+        "videos": []
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": [
-            {
-                "video_id": "tI0JEVDZnYs",
-                "title": "【 Minecraft 】ホロ鯖の一等地にギラファ建てたい女【 桃鈴ねね / hololive 】",
-                "date": "2025/02/03 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/tI0JEVDZnYs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAC9R8oLyOw6iThPZgJIOY10QIVcw",
-                "description": "らららららららんどまーくも手伝いたいけど一等地確保したいねんほんまごめんみこち～～～～～；；\n確保したら手伝い行こうかな！！！！！！..."
-            }
-        ]
+        "videos": []
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
@@ -342,15 +334,7 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
-        "videos": [
-            {
-                "video_id": "zNevhcLZ7QI",
-                "title": "【 Minecraft 】新ホロ鯖での新生活すた～～と～～～🐱【 猫又おかゆ/ホロライブ 】",
-                "date": "2025/02/03 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/zNevhcLZ7QI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC05couMtZ-tkesoWL1Z50cLkZZGA",
-                "description": "-\n\nいつも1日目から参加出来ず😭…なことが多いので今回は！初日から参加だああっ！ﾄﾞｷﾄﾞｷ\n心機一転楽しくマイクラ生活スタート🌼..."
-            }
-        ]
+        "videos": []
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -660,15 +644,7 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": [
-            {
-                "video_id": "qw_NhJ_e1io",
-                "title": "【Minecraft】新ホロ鯖きｔらあああああああああああああああああああ！！！ぺこ！【ホロライブ/兎田ぺこら】",
-                "date": "2025/02/03 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/qw_NhJ_e1io/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZMO0AidOu7GIVFzK0bY_AXTikaw",
-                "description": "ぴょおおおおおおおおおおおおおおお！\n\nサムネイラスト：憂姫はぐれ(@yuukihagure)マッマ\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
