@@ -57,7 +57,15 @@
         "channel_url": "https://www.youtube.com/@GawrGura",
         "channel_name": "Gawr Gura Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/6BCfAqi9yIpZbHLbw9BAWySvB3XZf9r8jFqudO5nSOsHoGzLhlKrm1M1uuMCRabi_pXGDzl7",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ALdqozsw3sw",
+                "title": "【Kingdom Come: Deliverance】get up, lazy man. or im gonna rub dirt in your eyes",
+                "date": "2025/02/04 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ALdqozsw3sw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBpZb5rG1jm3r3nu0ZzYgq3GgInxw",
+                "description": "your father sent me to make a man out of you\n\n🐟 twitter: https://twitter.com/gawrgura \n🐟 thumbnail: https://x.com/ugaaaa5\n\nThis game is being streamed and monetized after confirming with..."
+            }
+        ]
     },
     "@HakosBaelz": {
         "channel_url": "https://www.youtube.com/@HakosBaelz",
@@ -442,15 +450,7 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ",
-        "videos": [
-            {
-                "video_id": "7KFwnRmPTtI",
-                "title": "【MINECRAFT】new world, new server!!!! adventure awaits!! #kfp #キアライブ",
-                "date": "2025/02/03 23:15:00",
-                "thumbnail": "https://i.ytimg.com/vi/7KFwnRmPTtI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCAZPr0yuQmTuWQngk0OCUuc37k4g",
-                "description": "stream my new song, MIRAGE!✨https://cover.lnk.to/DQSp3S\n👀 Takanashi Kiara 1st Album \"Point of View\" 👀\nStreaming: https://cover.lnk.to/PointofView\n\n\n 🏵️[Twitter] 🏵️\nhttps://twitter..."
-            }
-        ]
+        "videos": []
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
