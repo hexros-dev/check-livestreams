@@ -187,13 +187,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/4XC0YEED9T4kvdLbJNK5f8GRCUNJds21yPXR4lNgH_CCjR-gbOYzod-vjfbH93YNFm6CiSSskA",
         "videos": [
             {
-                "video_id": "PlBjw6GXQsg",
-                "title": "【漢字でGO!】一時間でクリアするから任せてな【虎金妃笑虎】",
-                "date": "2025/02/03 15:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/PlBjw6GXQsg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjnSosTpM6n980jwWKdcKP-SPj8Q",
-                "description": "サムネイルはMisaネキさん！Banana！\nhttps://x.com/Misamisatotomi/status/1882311969396736040\n\n本ゲームは、Micelle様の承諾を得て、配信・収益化を行なっておりま..."
-            },
-            {
                 "video_id": "TinOO72OzZ0",
                 "title": "【リクエスト歌枠】リクエストフォームで来た曲は歌うぞ！【虎金妃笑虎】",
                 "date": "2025/02/04 20:30:00",
@@ -536,7 +529,15 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "y4-s4DaC_C0",
+                "title": "【Mincraft】今日から新サーバーだ！！遊んでみよう！！【ホロライブ/ときのそら】",
+                "date": "2025/02/03 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/y4-s4DaC_C0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBW0bsFyCKcLTvaik33J4S9s0GGZQ",
+                "description": "サムネはこれから作ります！！\n\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なって..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
