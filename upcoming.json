@@ -123,7 +123,15 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "b3mdlg7YJ0Q",
+                "title": "【Poppy Playtime: Chapter 4】Playtime isn't over yet",
+                "date": "2025/02/04 11:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/b3mdlg7YJ0Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDT4oNfuE-ILfQpmGh6vIM0Qts4uA",
+                "description": "Come along down with me\n\nThis game is being streamed and monetized with permission by the rights holder Mob Entertainment.\n\n#hololiveenglish  #ホロライブ \n＝＝＝＝＝＝＝＝＝＝＝＝..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
