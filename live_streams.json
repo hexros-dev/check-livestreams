@@ -69,7 +69,14 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "a5T34s1KX1E",
+                "title": "【 #朝こよ 】2月始まったよ～！な火曜日の朝も！朝こよ～☀ #218 【博衣こより/hololive】",
+                "thumbnail": "https://i.ytimg.com/vi/a5T34s1KX1E/hqdefault.jpg?v=679f7de7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWMVaJ767er_RMGtN9i8yAF8GF-w",
+                "description": "#朝こよ を観れば日本ニキも海外ニキもホロライブの今が分かる、そんな番組になりたい \n※SuperChatは後日赤スパのみ御礼させていただきます！..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -135,14 +142,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/XXZ4apG-FPN8G8DpYacbnwxs7S5tf2tjV_u2Eaot3JHGAkSPFBYaGMOyJcAHhLYy_u11JD7O29I",
-        "videos": [
-            {
-                "video_id": "2NQntzuPXZQ",
-                "title": "【Minecraft】新ホロ鯖！初心者行きます！【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "thumbnail": "https://i.ytimg.com/vi/2NQntzuPXZQ/hqdefault.jpg?v=67a09499&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXMR7epLw5cfBvsGoQ9rCez7n-_w",
-                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\nサムネイルの背景..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -304,7 +304,14 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZlovVsPyh8NgS37S4dfONiCBySiboGPbT9cYuirb8JM3JhSnqlpJk-8SQUEA7jPfqXpMvjaa",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "HZnP3_pfTjY",
+                "title": "What Your Pizza is REALLY Made Out of 【Crime Scene Cleaner】",
+                "thumbnail": "https://i.ytimg.com/vi/HZnP3_pfTjY/hqdefault.jpg?v=679eb388&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7NcPZSJ3U8zrxtG2k6N2injZ45A",
+                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n\n==============..."
+            }
+        ]
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
