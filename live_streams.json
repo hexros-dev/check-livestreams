@@ -443,7 +443,14 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "y4-s4DaC_C0",
+                "title": "【Minecraft】今日から新サーバーだ！！遊んでみよう！！【ホロライブ/ときのそら】",
+                "thumbnail": "https://i.ytimg.com/vi/y4-s4DaC_C0/hqdefault.jpg?v=67a098dc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBW0bsFyCKcLTvaik33J4S9s0GGZQ",
+                "description": "サムネがまるでコラボのようだ・・・。\n\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
