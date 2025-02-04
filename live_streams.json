@@ -340,14 +340,7 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": [
-            {
-                "video_id": "8PBsEGodURE",
-                "title": "【 首都高バトル 】深夜ドライブ。ライバルたちの関係性を知りたいヲタク。【鷹嶺ルイ/ホロライブ】※ネタバレあり",
-                "thumbnail": "https://i.ytimg.com/vi/8PBsEGodURE/hqdefault.jpg?v=67a1cbec&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCfnchSSoNbDL1QEHrmWfUb-jwZgg",
-                "description": "一緒にドライブする？\n\n本ゲームは元気株式会社に確認の上、配信・収益化を行なっております。\n© Genki\n\nサムネ：Kajiriko@Illustrator様 (@naekichi0)..."
-            }
-        ]
+        "videos": []
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
@@ -413,7 +406,14 @@
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "LzWM_6UUaNw",
+                "title": "【MINECRAFT】hololive New World #01 ~! 💄",
+                "thumbnail": "https://i.ytimg.com/vi/LzWM_6UUaNw/hqdefault.jpg?v=67a27145&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAn8kkHjbLLFHT2T0QjDetZo2cIHw",
+                "description": "New venture. Huzzah!\n▬▬ι════════ﺤ\nThis game is being streamed and monetized after confirming with Mojang based on the following Terms and Conditions (https://account.mojang.c..."
+            }
+        ]
     },
     "@holoen_gigimurin": {
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
