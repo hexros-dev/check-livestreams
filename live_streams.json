@@ -316,14 +316,7 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": [
-            {
-                "video_id": "l18uVi47z3E",
-                "title": "【Minecraft】NEW DAY, NEW WORLD【Pavolia Reine/hololiveID 2nd gen】",
-                "thumbnail": "https://i.ytimg.com/vi/l18uVi47z3E/hqdefault.jpg?v=67a16b34&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBgaN-6iDNR8aUd-I4MlZ6W6bcwPA",
-                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\nThis game is being streamed..."
-            }
-        ]
+        "videos": []
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -335,7 +328,14 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/GF0wbwZvZAGzYg8s8d6Yh1BDcWAE9UmLAh2uf3IMJ5l_ESi3sWeRqk2XfhW3IgzMeliHpt4cAw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "CF5Z9MwoRoM",
+                "title": "【首都高バトル】曲がってえええええええええええええええええええええ※ネタバレあり【#ホロライブ #ロボ子さん 】",
+                "thumbnail": "https://i.ytimg.com/vi/CF5Z9MwoRoM/hqdefault.jpg?v=67995dc4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmYVe1a9_03oB8QgW5alZ_DDKhNQ",
+                "description": "💬＃ロボ子生放送　でポストしてってね✨\n＃首都高バトル\n本ゲームは元気株式会社に確認の上、配信・収益化を行なっております。\n© Genki..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -461,14 +461,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "rkd3NPuq3KY",
-                "title": "【FAST FOOD SIMULATOR】workplace harassment with @MoriCalliope",
-                "thumbnail": "https://i.ytimg.com/vi/rkd3NPuq3KY/hqdefault.jpg?v=67a081df&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAR33m9R-OgibfRFqhqrDrHOfIF1A",
-                "description": "im da boss baby\n\nthumbnail: https://x.com/hiroavrs/status/1868311078247293376\n\nThis game is being streamed and monetized after checking with No Ceiling Games.\nhttps://store.steampowered.com/app/291..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
