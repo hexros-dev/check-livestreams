@@ -140,14 +140,7 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/JyixAV--9ZFWIMEwRQFbZhkiQTEvb1ALCdX7bW9BarpyLBjAnbbmc98jymhVT_pZlJpWaDwk",
-        "videos": [
-            {
-                "video_id": "DXViAcuXTYY",
-                "title": "【一条CORP. Indieゲーム部】ENDER LILIES: Quietus of the Knights #1【一条莉々華/hololive DEV_IS　ReGLOSS】",
-                "thumbnail": "https://i.ytimg.com/vi/DXViAcuXTYY/hqdefault.jpg?v=67a335ac&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCOLLuX0QM8SYbQQZ3FMizfueWRZw",
-                "description": "本ゲームは©Binary Haze Interactive Inc.に確認の上、著作物利用許諾条件に則って配信・収益化を行なっております。\nhttps://ja.enderlilies.com/fan-kit\n\n🔽素敵..."
-            }
-        ]
+        "videos": []
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -203,14 +196,7 @@
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
         "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/4XC0YEED9T4kvdLbJNK5f8GRCUNJds21yPXR4lNgH_CCjR-gbOYzod-vjfbH93YNFm6CiSSskA",
-        "videos": [
-            {
-                "video_id": "r2F3gqZsStY",
-                "title": "【Minecraft】猛　獣　降　臨(Take２)【虎金妃笑虎】",
-                "thumbnail": "https://i.ytimg.com/vi/r2F3gqZsStY/hqdefault.jpg?v=67a310ed&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAoCO9yWu-cDs1s60HB70en9izn2g",
-                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\nサムネイルのイラスト..."
-            }
-        ]
+        "videos": []
     },
     "@KosekiBijou": {
         "channel_url": "https://www.youtube.com/@KosekiBijou",
@@ -461,14 +447,7 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": [
-            {
-                "video_id": "McMCdtMqKZI",
-                "title": "【Minecraft】新鮮なホロ鯖だ～！！【獅白ぼたん/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/McMCdtMqKZI/hqdefault.jpg?v=67a2f727&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRZoDOVsZtu5c0ZYEI6K49EHaYng",
-                "description": "新しいサーバーで一攫千金！！\n\n配信ハッシュタグ：#ぐうたらいぶ\nサムネイルのイラスト：Omoti\nhttps://x.com/OmotiU009/status/1840549915023561155/\n\n本ゲーム..."
-            }
-        ]
+        "videos": []
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
@@ -528,7 +507,14 @@
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
         "channel_name": "Choco Ch. 癒月ちょこ",
         "avatar_url": "https://yt3.googleusercontent.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "lygwabscLzY",
+                "title": "【真実か×××か】選ばれし人間だけがアクセスできるサイトにアクセスしてみる…。【ホロライブ/癒月ちょこ】",
+                "thumbnail": "https://i.ytimg.com/vi/lygwabscLzY/hqdefault.jpg?v=679e0595&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAxpb_8zrK26rhY74QOMHzSifd2g",
+                "description": "サブ垢→https://www.youtube.com/channel/UCp3tgHXw_HI0QMk1K8qh3g\n\n\nあらゆる分野のAIが発達した結果、都市伝説にもAIがらみのものが増えてきた。\n『真実か挑戦..."
+            }
+        ]
     },
     "@dooby3d": {
         "channel_url": "https://www.youtube.com/@dooby3d",
