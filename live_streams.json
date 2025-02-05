@@ -29,14 +29,7 @@
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
         "avatar_url": "https://yt3.googleusercontent.com/Ob0LQV8-i9FXY_GX4AEnsWsxvYUojcYtjZjtLsmjQRtPoYMZN5qWAe9hRhy7sMa19PlF61BG",
-        "videos": [
-            {
-                "video_id": "SBYYndEUgkc",
-                "title": "【MINECRAFT NEW WORLD SERVER】LET'SGOOOOO!!!🌟最　恐　計　画　‼【ホロライブ/赤井はあと】",
-                "thumbnail": "https://i.ytimg.com/vi/SBYYndEUgkc/hqdefault.jpg?v=67a2dd60&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvun_O-HL2p8MjvOUy1QRGWPTl1A",
-                "description": "Thumbnail:ほにゃららん先輩\nhttps://x.com/korondekoron26/status/1885339001231413568\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms)..."
-            }
-        ]
+        "videos": []
     },
     "@AkiRosenthal": {
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
@@ -274,7 +267,14 @@
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
         "channel_name": "Moona Hoshinova hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/9e7J_lAxCEZO6IRC_Sl3Gj-bt9uPvSXolU_vBpmqWABzv99oHxzbYhWWgvRI_c2qmB4jH0p_ZA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "sP5Dp48kHts",
+                "title": "【Minecraft】just finish up some farm again【Moona Hoshinova】",
+                "thumbnail": "https://i.ytimg.com/vi/sP5Dp48kHts/hqdefault.jpg?v=67a2af04&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPQzfB1RsIgLvmYCiG_ioJjfuJpQ",
+                "description": "Streamlabs donation link here : https://streamlabs.com/moonahoshinovahololive-id/tip\nSociaBuzz donation link here : https://sociabuzz.com/moonahoshinova/tribe\n======================================..."
+            }
+        ]
     },
     "@MoriCalliope": {
         "channel_url": "https://www.youtube.com/@MoriCalliope",
