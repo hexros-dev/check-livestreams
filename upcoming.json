@@ -133,21 +133,21 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/K39Md5CGHmCaMC5Ne3UWBzblgzDhUzXUFszrHfGapCvOldc8E7fWw3pxN0zhcjmoht4GngnD",
-        "videos": [
-            {
-                "video_id": "Xvs_dMdMeRg",
-                "title": "【 Minecraft 】新鯖上陸！！もっと発展させるぞ🔥#３【ホロライブ DEV_IS 響咲リオナ】",
-                "date": "2025/02/05 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Xvs_dMdMeRg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRD-Gx4U4yXO5gZE5Hv3J6NKixxw",
-                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております。\n\n♡...\n\nサムネイラスト..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/9BFn9huZRtcJypmkYNt0qslTAf225UJsapBFMsyIWjVFZMkkRn6LULZ-iLMmg9nigp0xcDjP0kw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "AeQ0Zq92emE",
+                "title": "【振り返り配信】#らでん生誕祭2025 ライブの映像を見つつ酒を飲む配信【儒烏風亭らでん #ReGLOSS 】",
+                "date": "2025/02/05 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/AeQ0Zq92emE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBw-0SuFBGY8ja2DJ6gVeQBJoyahg",
+                "description": "昨日の生誕ライブにまつわるお話をします！！！\nお酒も解禁じゃ！\n\n\nサムネイル：カノン様\nhttps://x.com/toujoukanon\n\n\nメンバーシップについて\n📢..."
+            }
+        ]
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -226,15 +226,7 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw",
-        "videos": [
-            {
-                "video_id": "Al73SIR6nWw",
-                "title": "【Minecraft 】新ホロ鯖！地下拠点作るよー❕【水宮枢／FLOW GLOW】#hololiveDEV_IS",
-                "date": "2025/02/05 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Al73SIR6nWw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAV44KVbdzDuaMCN7aGsRKS5I-t8A",
-                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n▹◃┄▸◂┄▹◃┄▸..."
-            }
-        ]
+        "videos": []
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -454,7 +446,15 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/3st5iCi65fsN1P4-yTbWLHZH84eLsPqWsQ4MBkR1J72FW8pBm2IpHxFGtQ84ZFCcCX8sGJl-Ag",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "RY2YZh_C1F4",
+                "title": "【 Minecraft 】新ホロ鯖上陸❗️みんなで色々つくるうううう！！！！【ホロライブ/さくらみこ】",
+                "date": "2025/02/05 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/RY2YZh_C1F4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZ9IalA3LKdHxMzdfCq9sjm1ne3g",
+                "description": "⪩⪨　お知らせ/ɪɴғᴏ\n￣￣￣￣￣￣￣￣￣￣￣￣￣\n　🌸さくらみこ 1st Album \n　　『flower rhapsody』 販売中！\n　　  https://cover.lnk.to/flowerrhapsody..."
+            }
+        ]
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
@@ -475,13 +475,6 @@
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
         "videos": [
-            {
-                "video_id": "XFjtz9uJfDM",
-                "title": "【Minecraft】新しいホロ鯖でデッカイ建築をしたいので土地をつくる。【ホロライブ/白上フブキ】",
-                "date": "2025/02/05 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/XFjtz9uJfDM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3Pkbt6rus1EA_DmVcbuY1T0B5dw",
-                "description": "#フブキングダム\n\nワンダーフューチャー！/白上フブキ feat. 大神ミオ,猫又おかゆ,戌神ころね\nMV▷https://youtu.be/n7ZLEzbubJs\n\n━━━━━━━━━━━━..."
-            },
             {
                 "video_id": "iV2DbcuYI4Q",
                 "title": "👑白上フブキ1stソロライブ 【FBKINGDOM “ANTHEM”】待機国民席",
@@ -507,15 +500,7 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": [
-            {
-                "video_id": "McMCdtMqKZI",
-                "title": "【Minecraft】新鮮なホロ鯖だ～！！【獅白ぼたん/ホロライブ】",
-                "date": "2025/02/05 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/McMCdtMqKZI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRZoDOVsZtu5c0ZYEI6K49EHaYng",
-                "description": "新しいサーバーで一攫千金！！\n\n配信ハッシュタグ：#ぐうたらいぶ\nサムネイルのイラスト：Omoti\nhttps://x.com/OmotiU009/status/1840549915023561155/\n\n本ゲーム..."
-            }
-        ]
+        "videos": []
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
