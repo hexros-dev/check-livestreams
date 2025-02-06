@@ -289,7 +289,14 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "6vFcLfvMRy8",
+                "title": "【Cooking Simulator VR】Woman In The Kitchen",
+                "thumbnail": "https://i.ytimg.com/vi/6vFcLfvMRy8/hqdefault.jpg?v=67a321ec&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCD42fy-aSEq-5rVnbPihO4smKxWA",
+                "description": "This game is being streamed and monetized after confirming with PlayWay S.A.\n\n[Twitter]\nhttps://twitter.com/ourokronii\n\n[Thumbnail Art]\nhttps://x.com/koizumi_arata\n\n--------------------------------..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
@@ -421,20 +428,20 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/LnJxTvrkHQFdFlyMY2HPtXVEwA7KHlUp8rNzBepF1GQfPQjUN9yKGIqSYOD31F22Ow9vSTn9",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "SmcR6_B_exM",
+                "title": "【MINECRAFT NEW WORLD SERVER】GUERILLA ANT RP",
+                "thumbnail": "https://i.ytimg.com/vi/SmcR6_B_exM/hqdefault.jpg?v=67a42f7c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAeqk0c7UKD3A76oCi9nB-jBv0ziw",
+                "description": "thumbnail art: by me wow\n\nJUSTICE Half Anniversary MERCH!\n▼Official Online Shop▼\nEN: https://shop.hololivepro.com/products/hololiveen_justice_anhalfyear \n▼Geek Jack▼ \nEN: https://shop.geekj..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm",
-        "videos": [
-            {
-                "video_id": "QeUwFu7AB3w",
-                "title": "【MINECRAFT】hololive New World #02 ~! 💄",
-                "thumbnail": "https://i.ytimg.com/vi/QeUwFu7AB3w/hqdefault.jpg?v=67a40d56&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC16QAOQvaoLNP_uGmqhEj6IKzlDQ",
-                "description": "Minecraft n chill before sleeps for 1-2 hours. \nWill be low volume vocally as family are sleeping sweethearts. \n▬▬ι════════ﺤ\nThis game is being streamed and monetized..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_gigimurin": {
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
