@@ -51,7 +51,14 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "NctfL1v6BOo",
+                "title": "【TOKYO XTREME RACER 1.1M ENDURANCE｜首都高バトル110万人耐久】we run the streets of tokyo now 🐾【FUWAMOCO】",
+                "thumbnail": "https://i.ytimg.com/vi/NctfL1v6BOo/hqdefault.jpg?v=67a3ab53&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvwdjHNWW_d1eAKR4g0BlMryjrug",
+                "description": "̛̗͖̜́w̛͚͈̟̬̩̘̯̙͈̫̹̜͢ͅȩ̣̰͓̻͎͡ ̛̗͖̜́w͚͈̟̬̩҉͏̫̼̜͉̭í̙͙̙̥̰̯͎̘̜͔̘̰͇͠l͏̘̜̭̤̱͇̜͔̘̰͇́͞͠l͏̘̜̭̤̱͇͞ ̝̙̲̰͚̗͓͝h̢̟̲͠..."
+            }
+        ]
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -63,7 +70,14 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "APf-Vg-mhqA",
+                "title": "≪MINECRAFT≫ Gacha.",
+                "thumbnail": "https://i.ytimg.com/vi/APf-Vg-mhqA/hqdefault.jpg?v=67a371e9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKQdhKLOMn8UhbFXVHSmBw1LTXEA",
+                "description": "We back in the mine and the crafting..\n\nThumbnail: https://x.com/DiaGuy_/status/1886753168932925474/photo/1\n\n#telebae #hololiveenglish #febaerary \n\n««≪ °◇◆◇° ≫ »»\n\nThis game..."
+            }
+        ]
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -160,7 +174,14 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "X5_RegcfItM",
+                "title": "【MINECRAFT NEW WORLD SERVER】Wait It's all minecraft? Always has been",
+                "thumbnail": "https://i.ytimg.com/vi/X5_RegcfItM/hqdefault.jpg?v=67a3f99f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBI-1stbb0TmofxjOpkIeP4CEeXwQ",
+                "description": "/.D\nThumbnail Art: @seapupu290495 thank you!\nhttps://x.com/seapupu290495/status/1887112177674588557\n\nCODE:81800 new outfit reveal merch set\nCODE:81800 新衣装記念グッズセット\n\n▼hololive..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -245,14 +266,7 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": [
-            {
-                "video_id": "yP5WcHCs8CQ",
-                "title": "【Minecraft】 LF NEW HOME",
-                "thumbnail": "https://i.ytimg.com/vi/yP5WcHCs8CQ/hqdefault.jpg?v=67a39018&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpOw6YQ25BskbM8dSJ81dRa8no0Q",
-                "description": "【Thumbnail Art】\nhttps://x.com/kiwi2624/status/1876763195630575985\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\nThis game is being streamed and monetized after confirming with Mojang..."
-            }
-        ]
+        "videos": []
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -434,26 +448,33 @@
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "QeUwFu7AB3w",
+                "title": "【MINECRAFT】hololive New World #02 ~! 💄",
+                "thumbnail": "https://i.ytimg.com/vi/QeUwFu7AB3w/hqdefault.jpg?v=67a40d56&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC16QAOQvaoLNP_uGmqhEj6IKzlDQ",
+                "description": "Minecraft n chill before sleeps for 1-2 hours. \nWill be low volume vocally as family are sleeping sweethearts. \n▬▬ι════════ﺤ\nThis game is being streamed and monetized..."
+            }
+        ]
     },
     "@holoen_gigimurin": {
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "omkoZzEni3c",
-                "title": "【MINECRAFT NEW WORLD SERVER】beep beep minecraft noob coming through",
-                "thumbnail": "https://i.ytimg.com/vi/omkoZzEni3c/hqdefault.jpg?v=67a33302&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhoV3yBt19907s3JxkPuNwr0eLig",
-                "description": "thumbnail: https://x.com/bulbaasaurs/status/1886418662942495094\n\nThis game is being streamed and monetized after confirming with Mojang based on the following Terms and Conditions (https://account...."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "DylxighPs7k",
+                "title": "【RAFT】 THE OCEAN IS BIG... AND SO AM I!!!  【COLLAB】",
+                "thumbnail": "https://i.ytimg.com/vi/DylxighPs7k/hqdefault.jpg?v=67a25859&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDauJrYLNcZtwkxGbuwLsvAO30MrQ",
+                "description": "With @NerissaRavencroft  and @MoonaHoshinova !\n\n\n『 Hashtags 』\n╰┈➤ Live  #CiaoRaora\n╰┈➤ Fanarts  #RaorArt\n╰┈➤ Clips  #RaraWara\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
+            }
+        ]
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
