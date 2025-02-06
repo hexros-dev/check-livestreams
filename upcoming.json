@@ -316,7 +316,15 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "IZjur5NCg4o",
+                "title": "【Ender Magnolia】 Down Down Down... 【#2】",
+                "date": "2025/02/07 05:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/IZjur5NCg4o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJz8Pu5jiDeuHkm55YJYmkbsl3LA",
+                "description": "【Thumbnail Art】\n\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\n\nThis game is being streamed and monetized after confirming with © 2024 BINARY HAZE INTERACTIVE Inc.\n________________________..."
+            }
+        ]
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
