@@ -282,7 +282,14 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "kP61SXwJJOg",
+                "title": "【Anime Watchalong】Death Note: Nostalgia Dive With Sally",
+                "thumbnail": "https://i.ytimg.com/vi/kP61SXwJJOg/hqdefault.jpg?v=67a54918&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTPYObfiWiC6SQdDl-b4hWnJAGBA",
+                "description": "[Twitter]\nhttps://twitter.com/ourokronii\n\n[Thumbnail Art]\nhttps://x.com/koizumi_arata\nhttps://x.com/yuutomeh97\n\n----------------------------------------------------------------------------..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
@@ -471,14 +478,7 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": [
-            {
-                "video_id": "1NFED47r43w",
-                "title": "【Crusader Kings III】 I have to find out what happens to Prince Faendal!!!",
-                "thumbnail": "https://i.ytimg.com/vi/1NFED47r43w/hqdefault.jpg?v=67a52e53&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2h3qhRNSF717yRvR7WZwSy3cGEA",
-                "description": "the addiction has set in\n\n☁  Thumbnail Art  ☁\nhttps://x.com/Ricke_1102/status/1880448868506300898\nThank you so much!!\n\n  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋\n\nKonbakuwa! I'm Nimi, the..."
-            }
-        ]
+        "videos": []
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
