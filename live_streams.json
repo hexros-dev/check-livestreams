@@ -244,7 +244,14 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "UbWecIOSXpo",
+                "title": "【OHAPOL】#145  2/8土曜日！皆待ってた土曜日の朝活 #ポルカ公演中 【尾丸ポルカ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/UbWecIOSXpo/hqdefault.jpg?v=67a679fd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcUkf0HfOnE_FDbiFIOzMSsPP7qQ",
+                "description": "✨✨誕生日記念グッズ発売中！！！！✨✨\nホテルマンがコンセプトな今回は\n茨木春先生描き下ろし「B2タペストリー」や、「ランダムドアプレー..."
+            }
+        ]
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
@@ -426,7 +433,14 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "4T757IVzWNk",
+                "title": "【SONIC X SHADOW GENERATIONS】my little meow meow pookie bear kitty cat shadow the hedgehog",
+                "thumbnail": "https://i.ytimg.com/vi/4T757IVzWNk/hqdefault.jpg?v=67a5eb27&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5rs69IxZ36kwC1cBXvZEdjmMI-w",
+                "description": "This game is being streamed and monetized with permission and under license.\n©SEGA\nTitle：『ソニック × シャドウ ジェネレーションズ』（SONIC X SHADOW GENERATIONS）\nOfficial..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
