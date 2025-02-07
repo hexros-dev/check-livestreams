@@ -245,14 +245,7 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": [
-            {
-                "video_id": "IZjur5NCg4o",
-                "title": "【Ender Magnolia】 Down Down Down... 【#2】",
-                "thumbnail": "https://i.ytimg.com/vi/IZjur5NCg4o/hqdefault.jpg?v=67a521fe&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJz8Pu5jiDeuHkm55YJYmkbsl3LA",
-                "description": "【Thumbnail Art】\n\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\n\nThis game is being streamed and monetized after confirming with © 2024 BINARY HAZE INTERACTIVE Inc.\n________________________..."
-            }
-        ]
+        "videos": []
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -433,7 +426,14 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "dz6B_RFVAPM",
+                "title": "【LEAGUE OF LEGENDS】inting with grems and then with friends!!",
+                "thumbnail": "https://i.ytimg.com/vi/dz6B_RFVAPM/hqdefault.jpg?v=67a49956&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBAJ9yjbIyDyF-IUlm9uJQ9Rxyqeg",
+                "description": "league of leggend solo + with friends :]\n\nthumbnail: https://x.com/Pyrothepyre/status/1863778792210419763\n\nThis game is being streamed and monetized after receiving prior consent from © Riot..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
