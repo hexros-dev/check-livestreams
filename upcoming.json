@@ -3,15 +3,7 @@
         "channel_url": "https://www.youtube.com/@AZKi",
         "channel_name": "AZKi Channel",
         "avatar_url": "https://yt3.googleusercontent.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM",
-        "videos": [
-            {
-                "video_id": "072PcgNH7AY",
-                "title": "【Minecraft】新ホロ鯖にやってきた！文明を築きたい！【ホロライブ / AZKi】",
-                "date": "2025/02/08 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/072PcgNH7AY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDo_q9Uv-KonGy1Hxg6TwQ0gJVu8w",
-                "description": "昨日は大大大冒険だった\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\nサムネイラスト：加速サトウ 様\nhttps://x.com/ksk_st\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈..."
-            }
-        ]
+        "videos": []
     },
     "@AiraniIofifteen": {
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
@@ -37,15 +29,7 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": [
-            {
-                "video_id": "Mci4dmZ2QBM",
-                "title": "【忙しい現代人の味方！】完全栄養食Huel（ヒュエル）アレンジレシピ試してみる！【ホロライブ/アキロゼ】",
-                "date": "2025/02/08 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Mci4dmZ2QBM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD64bBPtXuHdTDzr03C83GqDtPAaQ",
-                "description": "提供：Huel\n購入の際はこちらから！：https://my.huel.com/2akirose\n\n■タイアップ記念クーポンコードのお知らせ\n　　割引コード【2AKIROSE15】\n\n・注意事項..."
-            }
-        ]
+        "videos": []
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -125,15 +109,7 @@
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/Z2QpYUZ4-jKoFR7Ms330gRQzjI2gZ4CB_uVP6f39YysxUe1u8icrtE07ffpRxCtpu9U65MWNDA",
-        "videos": [
-            {
-                "video_id": "mJovkOyhFTI",
-                "title": "【Minecraft】マイクラ新ホロ鯖へ行ってみるマリン船長【ホロライブ/宝鐘マリン】",
-                "date": "2025/02/08 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/mJovkOyhFTI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxHHw0MtdQ3atbTQlqOF3NmXq70w",
-                "description": "サムネイラスト…あかさあい\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なってお..."
-            }
-        ]
+        "videos": []
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
@@ -615,6 +591,14 @@
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "njm5Ty1bVrw",
+                "title": "【歌枠】きょうはしっとりエモ歌おおめ　#結城さくな生放送",
+                "date": "2025/02/08 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/njm5Ty1bVrw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBx0zckELmFBWpCjQGrppKEXRyCQQ",
+                "description": "🎀誕生日グッズ発売！🐾\nhttps://yuki-sakuna.stores.jp/\n\n🎀歌ってみた動画🐾\nhttps://youtube.com/playlist?list=PLErsMirGq93vRw-CcRaaZfR4QVxl2uBsb&si=BRmEr8erE6aR-UJb\n\n🎀メ..."
+            }
+        ]
     }
 }
