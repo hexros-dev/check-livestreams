@@ -34,14 +34,7 @@
         "channel_url": "https://www.youtube.com/@AmaneKanata",
         "channel_name": "Kanata Ch. Kanata Amane",
         "avatar_url": "https://yt3.googleusercontent.com/oPU9ckNcyeHD0FFsYSxkoD1mtbslSwdmMSfoCYQWphOu5e7UeCnIF-Nt0hvvF41L5Nykga07nQ",
-        "videos": [
-            {
-                "video_id": "eQVJxjwmvW4",
-                "title": "【Minecraft】新ホロ鯖いくぞおおお！！！！！！【天音かなた/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/eQVJxjwmvW4/hqdefault.jpg?v=67a62a7a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDl-crpCmaJyqzssnl2FdDkegxTbQ",
-                "description": "「名探偵かなたん」探偵事務所を開きます！！！！！\n\nサムネイラスト：おしおママ\n\nMinecraft / マインクラフト\n本ゲームは Mojang に確認を得た上、T..."
-            }
-        ]
+        "videos": []
     },
     "@AnyaMelfissa": {
         "channel_url": "https://www.youtube.com/@AnyaMelfissa",
@@ -132,7 +125,14 @@
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "KaGw-aZmNRg",
+                "title": "【Minecraft】新ホロ鯖で釣りしたり鉄トラップの準備したり素材とったり～！【戌神ころね】",
+                "thumbnail": "https://i.ytimg.com/vi/KaGw-aZmNRg/hqdefault.jpg?v=67a75e2b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAq_tNYJeASX5OcNLoeTxVjZgTG_A",
+                "description": "Play Game : Minecraft ( PC )\nタグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nころねTwitter▶https://twitter.com/inugamikorone..."
+            }
+        ]
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
