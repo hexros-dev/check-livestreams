@@ -153,7 +153,15 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/VL9aJ1o3yrN_xzHKTX0PvArQjUDHhtWtOtAYWjpzkqoFxR5HHWmWRWNgu6M5l4nSibqLaeKXqA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "6r2oI6NxOZI",
+                "title": "【Minecraft】coming slightly unprepared for the bastion-【Kaela Kovalskia / hololiveID】",
+                "date": "2025/02/08 20:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/6r2oI6NxOZI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmec2DoExC1eQrJ77aG-8mvUPVrQ",
+                "description": "【Donasi lokal】Traktir yang pahit-pahit kini sangat EZGGWP!~\nLink: https://sociabuzz.com/kaelakovalskia/tribe\n\n#Kaelaif #KaelaKovalskia #holoID \n-------------------------------------------------..."
+            }
+        ]
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
@@ -337,15 +345,7 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": [
-            {
-                "video_id": "usUwDTJr7Ek",
-                "title": "【Minecraft】TRADING HALL FISHING ROD OPOPOP【Pavolia Reine/hololiveID 2nd gen】",
-                "date": "2025/02/08 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/usUwDTJr7Ek/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-uwsEuZTeA0l3SZgdPb-CLDTzQQ",
-                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\nThis game is being streamed..."
-            }
-        ]
+        "videos": []
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -516,7 +516,15 @@
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "uXL2WAyqWJc",
+                "title": "【MINECRAFT】hololive New World #04 ~! 💄",
+                "date": "2025/02/08 20:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/uXL2WAyqWJc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3NC8vo23BTI0CScVnmnyMd_N1dg",
+                "description": "Heart\n▬▬ι════════ﺤ\nThis game is being streamed and monetized after confirming with Mojang based on the following Terms and Conditions (https://account.mojang.com/terms)..."
+            }
+        ]
     },
     "@holoen_gigimurin": {
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
@@ -566,14 +574,6 @@
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": [
-            {
-                "video_id": "njm5Ty1bVrw",
-                "title": "【歌枠】きょうはしっとりエモ歌おおめ　#結城さくな生放送",
-                "date": "2025/02/08 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/njm5Ty1bVrw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBx0zckELmFBWpCjQGrppKEXRyCQQ",
-                "description": "🎀誕生日グッズ発売！🐾\nhttps://yuki-sakuna.stores.jp/\n\n🎀歌ってみた動画🐾\nhttps://youtube.com/playlist?list=PLErsMirGq93vRw-CcRaaZfR4QVxl2uBsb&si=BRmEr8erE6aR-UJb\n\n🎀メ..."
-            }
-        ]
+        "videos": []
     }
 }
