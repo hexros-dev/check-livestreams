@@ -46,7 +46,14 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "sCsXtn6QOfU",
+                "title": "【Minecraft】Chilling in Minecraft【Ayunda Risu】",
+                "thumbnail": "https://i.ytimg.com/vi/sCsXtn6QOfU/hqdefault.jpg?v=67a70b70&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATaRKz9s-ivKap65h7Gm8M_eEYIw",
+                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nThis game is being streamed and monetized after confirming with Mojang based on the following Terms and Conditions (https://account.mojang.c..."
+            }
+        ]
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -58,14 +65,7 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": [
-            {
-                "video_id": "82sVzqkv-9o",
-                "title": "【WHITE ALBUM ENDURANCE 耐久】rewinding time to reach the path to true love 🐾 【FUWAMOCO】",
-                "thumbnail": "https://i.ytimg.com/vi/82sVzqkv-9o/hqdefault.jpg?v=67a3af4f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfWhy6Oc8Mg4oLwJmXf95MQ47n2g",
-                "description": "it's been almost a year since we were scared away by our girlfriend's manager ✨\n✨️🩵🩷 Go watch our 𝗙𝗨𝗪𝗔𝗠𝗢𝗖𝗢 𝟯𝗗 𝗕𝗜𝗥𝗧𝗛𝗗𝗔𝗬 𝗣𝗔𝗥..."
-            }
-        ]
+        "videos": []
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -163,7 +163,14 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/XXZ4apG-FPN8G8DpYacbnwxs7S5tf2tjV_u2Eaot3JHGAkSPFBYaGMOyJcAHhLYy_u11JD7O29I",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "jQtnhp_VInw",
+                "title": "【Minecraft】感動！初めてのことばかり！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "thumbnail": "https://i.ytimg.com/vi/jQtnhp_VInw/hqdefault.jpg?v=67a6f39b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCqh1INsB-H0MaD8T4TIfOmieL80g",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n【使用MOD】\n使用MOD：Comp..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -400,7 +407,14 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/meRnxbRUm5yPSwq8Q5QpI5maFApm5QTGQV_LGblQFsoO0yAV4LI-nSZ70GYwMZ_tbfSa_O8MTCU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "cx-HKaxb1wY",
+                "title": "【Minecraft】なにしようかな～～～！！とりあえず状況確認する～🐱【常闇トワ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/cx-HKaxb1wY/hqdefault.jpg?v=67a6f091&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDM6FyPOPjefy5OIZI2VOallb7_Lw",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n୨୧--------------------------..."
+            }
+        ]
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
@@ -473,7 +487,14 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "8mOQvv6eFKE",
+                "title": "【Minecraft】こんにちは！キャンプ場の観光案内【風真いろは/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/8mOQvv6eFKE/hqdefault.jpg?v=67a6f46a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVt8KWpTDBvhBrp0HP2em385oLzg",
+                "description": "ひろがってきたキャンプ場を案内💭\nイラスト▼\nhttps://x.com/twumi425/status/1887076660702593347\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://acc..."
+            }
+        ]
     },
     "@mikenekoko": {
         "channel_url": "https://www.youtube.com/@mikenekoko",
