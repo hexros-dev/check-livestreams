@@ -9,15 +9,7 @@
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
         "channel_name": "Airani Iofifteen Channel hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/bF91weVtAIL7Uhnr2HVwtCTLVKK5kVsn4FC_Ze3Gl8rkSsEjDwyey3AbQ1PDfJQ1Oeac5cePeg",
-        "videos": [
-            {
-                "video_id": "i_slcAsHvuQ",
-                "title": "【 MONSTER HUNTER WILDS 】OPEN BETA?!【 iofi / hololiveID 】",
-                "date": "2025/02/08 23:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/i_slcAsHvuQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWw6TdcLrZQnRtJ-bvt9K8YES6wQ",
-                "description": "#ioLyfe #Airani_Iofifteen #hololive #holoid \n\nThis video and livestream are being streamed with permission and under license by CAPCOM CO., LTD.\nMonster Hunter Wilds Open Beta Test\n©CAPCOM..."
-            }
-        ]
+        "videos": []
     },
     "@AkaiHaato": {
         "channel_url": "https://www.youtube.com/@AkaiHaato",
@@ -449,7 +441,22 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "9fMLzDlfnPA",
+                "title": "【 ドラクエⅩ ver.2 】完全初見。オフライン版✨誰かこの勇者とめろ！！！！！【鷹嶺ルイ/ホロライブ】※ネタバレあり",
+                "date": "2025/02/09 14:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/9fMLzDlfnPA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBeaOp5-aDf5fjJ8uJ2pvFPIPscBA",
+                "description": "まてまてまてえええええええええええ\n※タイトルの『※ネタバレあり』とは、【ゲーム本編のネタバレが含まれた配信】という意味でネタバレや..."
+            },
+            {
+                "video_id": "E6LKxRzwSVE",
+                "title": "【 同時視聴/Watchalong 】最終回！『ドラゴンクエスト ダイの大冒険(2020)』第94～100話【鷹嶺ルイ/ホロライブ】",
+                "date": "2025/02/09 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/E6LKxRzwSVE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUWMrGRE4A9RrF8ZFcGWwrrwgMaw",
+                "description": "メンバーシップ限定じゃないよ！\n今日は最終回100話まで～！！！！！！！！\nここで語られるのはあくまで初見でみてる私の感想なので想像と違う..."
+            }
+        ]
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
