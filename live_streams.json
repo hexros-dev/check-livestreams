@@ -28,14 +28,7 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": [
-            {
-                "video_id": "Mci4dmZ2QBM",
-                "title": "【忙しい現代人の味方！】完全栄養食Huel（ヒュエル）アレンジレシピ試してみる！【ホロライブ/アキロゼ】",
-                "thumbnail": "https://i.ytimg.com/vi/Mci4dmZ2QBM/hqdefault.jpg?v=67a68049&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD64bBPtXuHdTDzr03C83GqDtPAaQ",
-                "description": "提供：Huel\n購入の際はこちらから！：https://my.huel.com/2akirose\n\n■タイアップ記念クーポンコードのお知らせ\n　　割引コード【2AKIROSE15】\n\n・注意事項..."
-            }
-        ]
+        "videos": []
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -215,7 +208,14 @@
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "yD5MHZ4N860",
+                "title": "【FREETALK】RARE PUBLIC FREETALK STREAM!! WILL YOU LISTEN TO ME YAP??【Kureiji Ollie】",
+                "thumbnail": "https://i.ytimg.com/vi/yD5MHZ4N860/hqdefault.jpg?v=67a6ff89&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWIDUupF_fjoSAUy_1mq6Wr2oZew",
+                "description": "#IOLLIE #OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n==========================================\n\nThumbnail by https://x.com/RivaldyTs/\nhttps://x.com/RivaldyTs/status/1884853181609554420\n..."
+            }
+        ]
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
@@ -318,7 +318,14 @@
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/YQU4Moz1OujZA8STx9g8rtaZWm3BA9OGplnz3KP4l8RK0OBujDBkmnlWrJa94Udo4SOduAzWrQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "7byWtI0cYhE",
+                "title": "【 Minecraft 】新ホロ鯖で自由にぶらぶらする【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+                "thumbnail": "https://i.ytimg.com/vi/7byWtI0cYhE/hqdefault.jpg?v=67a73edd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCb9-epgq6aeUTyDwrGsFt9f7pBUQ",
+                "description": "▽ 最重要！！歌ってみた10作目公開中！ ▽\n「Beyond the way」 - 音乃瀬奏＆Mori Calliope（cover）\nhttps://youtu.be/bYZOxUX_iso\n\n୨୧♪:*:･･:*:･♪･:*:･･:*:･..."
+            }
+        ]
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
@@ -373,14 +380,7 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": [
-            {
-                "video_id": "52nRjVck3kY",
-                "title": "【Minecraft】新しいホロ鯖でデッカイ建築をしたいので橋を創ります。【ホロライブ/白上フブキ】",
-                "thumbnail": "https://i.ytimg.com/vi/52nRjVck3kY/hqdefault.jpg?v=67a71867&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwX1kQMiYNO5f6nSaJYj0bRSZsHw",
-                "description": "#フブキングダム\n\n参考中の橋\n▷https://youtu.be/JjOCm4BowDY?si=yLDCWFoOwLVGUG7e\n\nワンダーフューチャー！/白上フブキ feat. 大神ミオ,猫又おかゆ,戌神ころね..."
-            }
-        ]
+        "videos": []
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -435,20 +435,20 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/meRnxbRUm5yPSwq8Q5QpI5maFApm5QTGQV_LGblQFsoO0yAV4LI-nSZ70GYwMZ_tbfSa_O8MTCU",
-        "videos": [
-            {
-                "video_id": "cx-HKaxb1wY",
-                "title": "【Minecraft】なにしようかな～～～！！とりあえず状況確認する～🐱【常闇トワ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/cx-HKaxb1wY/hqdefault.jpg?v=67a6f091&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDM6FyPOPjefy5OIZI2VOallb7_Lw",
-                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n୨୧--------------------------..."
-            }
-        ]
+        "videos": []
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/4wLMmSJkzy4vmWfWYkmzn6YO9T__jp1cORNuFXN7YyihwvhGkqXCxNBaklKoXlgdik-Fp0Zu",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Vxg-BP6kSfA",
+                "title": "【PLATE UP！】ピザ屋はやめや！次、何屋する？！！【角巻わため/ホロライブ４期生】",
+                "thumbnail": "https://i.ytimg.com/vi/Vxg-BP6kSfA/hqdefault.jpg?v=67a62cca&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAuEzGK55SXisvsKaNQYeQvfQIYBw",
+                "description": "ピザ屋以外もやりたくないですか？？\nタグ：#ホロプレートアップ\n\n◆ミオしゃ（ちいミオ店長？！）\n@OokamiMio \n◆イオフィ（敏腕ホール！）..."
+            }
+        ]
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -502,7 +502,14 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "vJTkhcYDvys",
+                "title": "【Monster Hunter Wilds Open Beta】LET'S START THIS NEW JOURNEY!!",
+                "thumbnail": "https://i.ytimg.com/vi/vJTkhcYDvys/hqdefault.jpg?v=67a6fc23&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3oSzCA6UW37sM3L8NkjokHPQRGA",
+                "description": "『 X formely Twitter 』\nhttps://x.com/raorapanthera\n\n『 Hashtags 』\n╰┈➤ Live  #CiaoRaora\n╰┈➤ Fanarts  #RaorArt\n╰┈➤ Clips  #rarawara \n\nThis video and livestream are being..."
+            }
+        ]
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
