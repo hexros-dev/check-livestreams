@@ -99,15 +99,7 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/CTvZ3dUO8LocQMKbGkjUPysC524gC4asm5roilZmzhpBpWAWpLrhpRv0SpEaJeWm1oVP5v0g",
-        "videos": [
-            {
-                "video_id": "JBc0b5l7SdI",
-                "title": "【 MHWilds | PS5版 】アルシュベルドを討伐したいのら～～～！！！＃２【姫森ルーナ/ホロライブ】",
-                "date": "2025/02/08 15:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/JBc0b5l7SdI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDS8745qPk7nu9sTNtGlMJ2GjXYsQ",
-                "description": "🍫バレンタインボイス2025販売中🍫\nhttps://shop.hololivepro.com/products/hololive_valentinevoice2025\n\nサムネイラスト\n　ニャドラさん　https://twitter.com/nyanyadora..."
-            }
-        ]
+        "videos": []
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -125,7 +117,15 @@
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/Z2QpYUZ4-jKoFR7Ms330gRQzjI2gZ4CB_uVP6f39YysxUe1u8icrtE07ffpRxCtpu9U65MWNDA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "mJovkOyhFTI",
+                "title": "【】【ホロライブ/宝鐘マリン】",
+                "date": "2025/02/08 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/mJovkOyhFTI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxHHw0MtdQ3atbTQlqOF3NmXq70w",
+                "description": "｡.｡:+* ﾟ ゜ﾟ *+:｡.｡:+* ﾟ ゜ﾟ *+:｡.｡.｡:+*ﾟ ゜ﾟ *+:｡.｡:+*ﾟ ゜ﾟ *+:｡.｡.｡:+*+:｡.｡｡\n\n🏴‍☠️宝鐘マリン1stライブ「Ahoy!! キミたちみ..."
+            }
+        ]
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
