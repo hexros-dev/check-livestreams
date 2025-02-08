@@ -131,7 +131,7 @@
             {
                 "video_id": "KaGw-aZmNRg",
                 "title": "【】22時か23時！まいくらする～！【】",
-                "date": "2025/02/08 20:00:00",
+                "date": "2025/02/08 21:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/KaGw-aZmNRg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAq_tNYJeASX5OcNLoeTxVjZgTG_A",
                 "description": "Play Game : Minecraft ( PC )\nタグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nころねTwitter▶https://twitter.com/inugamikorone..."
             }
@@ -141,15 +141,7 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/K39Md5CGHmCaMC5Ne3UWBzblgzDhUzXUFszrHfGapCvOldc8E7fWw3pxN0zhcjmoht4GngnD",
-        "videos": [
-            {
-                "video_id": "0txWDxyzte4",
-                "title": "【 Minecraft 】新鯖上陸！！無限鉄つくれるかな♡#５【ホロライブ DEV_IS 響咲リオナ】",
-                "date": "2025/02/08 19:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/0txWDxyzte4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMLPusn9_Nt84i_gFxnhW_o0mMOQ",
-                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております。\n\n♡...\n\nサムネイラスト..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -345,7 +337,15 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "usUwDTJr7Ek",
+                "title": "【Minecraft】TRADING HALL FISHING ROD OPOPOP【Pavolia Reine/hololiveID 2nd gen】",
+                "date": "2025/02/08 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/usUwDTJr7Ek/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-uwsEuZTeA0l3SZgdPb-CLDTzQQ",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\nThis game is being streamed..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -440,6 +440,13 @@
                 "date": "2025/02/09 16:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/-sfZagzvVl0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZaBuT30UE38gZxgdxLFCmoujKdQ",
                 "description": "🐧はじめの日記念グッズ販売開始🐧\nhttps://shop.hololivepro.com/products/todorokihajime_hajimesdaymerch\n\n素敵なサムネお写真：くまのあぶり様（@kumanoaburi）..."
+            },
+            {
+                "video_id": "OFC88HwDuak",
+                "title": "【Minecraft】今日も気ままにのらりくらり！【轟はじめ/ReGLOSS】 #hololivedev_is",
+                "date": "2025/02/08 20:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/OFC88HwDuak/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyuHkPPhkFmhJKH5nB1xD5c8dsNg",
+                "description": "🐧はじめの日記念グッズ販売開始🐧\nhttps://shop.hololivepro.com/products/todorokihajime_hajimesdaymerch\n\n素敵なサムネお写真：RAY_様（@_RAY_o0）\n\n本ゲームは..."
             }
         ]
     },
