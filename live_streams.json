@@ -471,14 +471,7 @@
         "channel_url": "https://www.youtube.com/@dooby3d",
         "channel_name": "dooby",
         "avatar_url": "https://yt3.googleusercontent.com/sOGyZgV9pPHQJCEvNe28NCOFC1y0KggsxUjrP5ecMAgBmdNT8p6ZNM24d_9SVgWFhBh0lKBL5Q",
-        "videos": [
-            {
-                "video_id": "onmlRRNkil8",
-                "title": "【DoobLive】Minecraft w/ Henya! 🕳️↶ 4th LAYER {ABYSS}",
-                "thumbnail": "https://i.ytimg.com/vi/onmlRRNkil8/hqdefault.jpg?v=67a69eac&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdRfS4VHMlfJhBZtg6cu3TbMp1ww",
-                "description": "test stream with multistream, might get messed up  - if it does, switching the stream fully to Twitch https://www.twitch.tv/dooby3d"
-            }
-        ]
+        "videos": []
     },
     "@holoen_ceciliaimmergreen": {
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
