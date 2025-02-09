@@ -320,15 +320,7 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/Z78RNXxUqpOGYKFt-VrJV7nlehOHzl7Ta-l1cgPx5Ewucmr5kY64iGxmPSe7QqIdM1ZhvPlEOg",
-        "videos": [
-            {
-                "video_id": "lxkWDi_qJFM",
-                "title": "【 Minecraft 】はじめての新サーバー、どんな感じなんだろう？【 ホロライブ / 大神ミオ 】",
-                "date": "2025/02/09 10:00:53",
-                "thumbnail": "https://i.ytimg.com/vi/lxkWDi_qJFM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9v8KELlw5ZtZQku6apu7XJs0TTQ",
-                "description": "やりたい事があるんだけど、まずはログインしなきゃね！\n\nサムネillustrator：ディーバさん　https://x.com/Deaver1229\n\n※本ゲームは Mojang に確認を得た上..."
-            }
-        ]
+        "videos": []
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -523,7 +515,15 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "4DXNuaUJ-LU",
+                "title": "【Minecraft】ペールオークで家を建てたぁい！！！【 雪花ラミィ /ホロライブ】",
+                "date": "2025/02/09 11:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/4DXNuaUJ-LU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDiiZ8IOWhFZZpAH5nF8EV-mst4Mg",
+                "description": "感想は #らみらいぶ で呟いて頂けたら嬉しいです！\n\nサムネイルイラスト：ぱんじゃむのなめさま\nhttps://x.com/nononanameme\n\n本ゲームは Mojang に確認を..."
+            }
+        ]
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
