@@ -262,14 +262,7 @@
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
-        "videos": [
-            {
-                "video_id": "oA6J5VwxpcY",
-                "title": "【 Minecraft 】ネザライト装備を目指して！【ホロライブ/夏色まつり】",
-                "thumbnail": "https://i.ytimg.com/vi/oA6J5VwxpcY/hqdefault.jpg?v=67a63a21&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQTtQS8SHIJvQgqOtZLwoQZvphhw",
-                "description": "...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\n\n素敵なサムネイル→鮭味様\n@11Meronpan\n\n\n\n\n本ゲームは Mojang に確認を得た上..."
-            }
-        ]
+        "videos": []
     },
     "@NekomataOkayu": {
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
@@ -361,7 +354,14 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/3st5iCi65fsN1P4-yTbWLHZH84eLsPqWsQ4MBkR1J72FW8pBm2IpHxFGtQ84ZFCcCX8sGJl-Ag",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "DxH3iAPeZHk",
+                "title": "【 Minecraft 】新ホロ鯖上陸❗️お使い冒険ややりたいことたくさんやる！【ホロライブ/さくらみこ】",
+                "thumbnail": "https://i.ytimg.com/vi/DxH3iAPeZHk/hqdefault.jpg?v=67a88403&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSk3qKyklIEtmCE9Y4A9AyooBdNA",
+                "description": "頼まれたお使いで冒険＆つくりたいやつたくさんやりた～～い！🐟\n\n⪩⪨　お知らせ/ɪɴғᴏ\n￣￣￣￣￣￣￣￣￣￣￣￣￣\n　🌸さくらみこ 1st..."
+            }
+        ]
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
@@ -466,7 +466,7 @@
                 "video_id": "zkTMns1luys",
                 "title": "【MINECRAFT】a rare minecraft stream...! let's make a cafe!【ZetaRiri】",
                 "thumbnail": "https://i.ytimg.com/vi/zkTMns1luys/hqdefault.jpg?v=67a8475c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDm46adFJCnhbKd5X7ZiQ1JqVdPMw",
-                "description": "#hololive #holoid #vestiazeta  #vtuber \n\nThis game is being streamed and monetized after confirming with Ubisoft, which is based on the following Ubisoft Video Policy (https://www.ubisoft.com/en-us..."
+                "description": "#hololive #holoid #vestiazeta  #vtuber \n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なってお..."
             }
         ]
     },
