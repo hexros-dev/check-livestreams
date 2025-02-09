@@ -250,7 +250,14 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/Z78RNXxUqpOGYKFt-VrJV7nlehOHzl7Ta-l1cgPx5Ewucmr5kY64iGxmPSe7QqIdM1ZhvPlEOg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "1LET31G5UsY",
+                "title": "【 #朝ミオ 】月曜日のおはみぉーん☀朝だよ～！",
+                "thumbnail": "https://i.ytimg.com/vi/1LET31G5UsY/hqdefault.jpg?v=67a8a4bf&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnLjhmhWyTfvaVPkkH12lZt0P0Qg",
+                "description": "毎日乾燥してるね～\n\n#朝ミオおたより Twitter(X)で募集中です🌟\n今回紹介するお題は、『チョコ以外なら何が欲しい』です！\n\nサムネillustrator：ぎわ..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -334,14 +341,7 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ",
-        "videos": [
-            {
-                "video_id": "IDmoOipXrWs",
-                "title": "【BIG BRAIN ACADEMY】probably stream but smol chance for cancel ;;; we will see! #kfp #キアライブ",
-                "thumbnail": "https://i.ytimg.com/vi/IDmoOipXrWs/hqdefault.jpg?v=67a7ed01&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0xnVqsphCzSxoyttWLBETUVfBTQ",
-                "description": "stream my new song, MIRAGE!✨https://cover.lnk.to/DQSp3S\n👀 Takanashi Kiara 1st Album \"Point of View\" 👀\nStreaming: https://cover.lnk.to/PointofView\n\n🏵️[Twitter] 🏵️\nhttps://twitter.c..."
-            }
-        ]
+        "videos": []
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
