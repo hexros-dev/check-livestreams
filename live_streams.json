@@ -291,14 +291,7 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/3st5iCi65fsN1P4-yTbWLHZH84eLsPqWsQ4MBkR1J72FW8pBm2IpHxFGtQ84ZFCcCX8sGJl-Ag",
-        "videos": [
-            {
-                "video_id": "DxH3iAPeZHk",
-                "title": "【 Minecraft 】新ホロ鯖上陸❗️お使い冒険ややりたいことたくさんやる！【ホロライブ/さくらみこ】",
-                "thumbnail": "https://i.ytimg.com/vi/DxH3iAPeZHk/hqdefault.jpg?v=67a88403&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSk3qKyklIEtmCE9Y4A9AyooBdNA",
-                "description": "頼まれたお使いで冒険＆つくりたいやつたくさんやりた～～い！🐟\n\n⪩⪨　お知らせ/ɪɴғᴏ\n￣￣￣￣￣￣￣￣￣￣￣￣￣\n　🌸さくらみこ 1st..."
-            }
-        ]
+        "videos": []
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
@@ -334,7 +327,14 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "IDmoOipXrWs",
+                "title": "【BIG BRAIN ACADEMY】probably stream but smol chance for cancel ;;; we will see! #kfp #キアライブ",
+                "thumbnail": "https://i.ytimg.com/vi/IDmoOipXrWs/hqdefault.jpg?v=67a7ed01&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0xnVqsphCzSxoyttWLBETUVfBTQ",
+                "description": "stream my new song, MIRAGE!✨https://cover.lnk.to/DQSp3S\n👀 Takanashi Kiara 1st Album \"Point of View\" 👀\nStreaming: https://cover.lnk.to/PointofView\n\n🏵️[Twitter] 🏵️\nhttps://twitter.c..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
@@ -400,7 +400,14 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/LnJxTvrkHQFdFlyMY2HPtXVEwA7KHlUp8rNzBepF1GQfPQjUN9yKGIqSYOD31F22Ow9vSTn9",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "3knyZmonaAE",
+                "title": "this high intelligence... so lonely at the top (spoilers)【Elden Ring】",
+                "thumbnail": "https://i.ytimg.com/vi/3knyZmonaAE/hqdefault.jpg?v=67a8d5c2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOfvY3jkRNgl-gqHUHDmS1dseBmQ",
+                "description": "Thumbnail art: https://x.com/varsien/status/1886717803534630926\n\nJUSTICE Half Anniversary MERCH!\n▼Official Online Shop▼\nEN: https://shop.hololivepro.com/products/hololiveen_justice_anhalfyear..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
