@@ -306,7 +306,15 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/Z78RNXxUqpOGYKFt-VrJV7nlehOHzl7Ta-l1cgPx5Ewucmr5kY64iGxmPSe7QqIdM1ZhvPlEOg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "1LET31G5UsY",
+                "title": "【 #朝ミオ 】月曜日のおはみぉーん☀朝だよ～！",
+                "date": "2025/02/10 05:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/1LET31G5UsY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnLjhmhWyTfvaVPkkH12lZt0P0Qg",
+                "description": "毎日乾燥してるね～\n\n#朝ミオおたより Twitter(X)で募集中です🌟\n今回紹介するお題は、『チョコ以外なら何が欲しい』です！\n\nサムネillustrator：ぎわ..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -367,13 +375,6 @@
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
         "videos": [
-            {
-                "video_id": "iSCU6DAl8tU",
-                "title": "【Minecraft】新しいホロ鯖でデッカイ建築をしたいので橋の続きを創ります。【ホロライブ/白上フブキ】",
-                "date": "2025/02/09 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/iSCU6DAl8tU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb9EODNosZp_COEVlKA03eK74kTQ",
-                "description": "#フブキングダム\n\n参考中の橋\n▷https://youtu.be/JjOCm4BowDY?si=yLDCWFoOwLVGUG7e\n\nワンダーフューチャー！/白上フブキ feat. 大神ミオ,猫又おかゆ,戌神ころね..."
-            },
             {
                 "video_id": "iV2DbcuYI4Q",
                 "title": "👑白上フブキ1stソロライブ 【FBKINGDOM “ANTHEM”】待機国民席",
@@ -451,15 +452,7 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/4wLMmSJkzy4vmWfWYkmzn6YO9T__jp1cORNuFXN7YyihwvhGkqXCxNBaklKoXlgdik-Fp0Zu",
-        "videos": [
-            {
-                "video_id": "FSAGMWRW140",
-                "title": "【歌枠】第１２１回！わためぇ Night Fever!! Singing Stream🎤【角巻わため/ホロライブ４期生】",
-                "date": "2025/02/09 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/FSAGMWRW140/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAEqexoBJO6NHtD8jAb-ImPTxpo8g",
-                "description": "喉の調子良ければ歌いたい！\nタグ：#ドドドライブ\n\n※このライブに用いている一部の音源は、株式会社エクシングより提供されています。\n..."
-            }
-        ]
+        "videos": []
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
