@@ -87,13 +87,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
         "videos": [
             {
-                "video_id": "SdKJQnupXYg",
-                "title": "【モンスト】ストライカーズコレクションガチャでルシファー引くぞ！！！✊🔥【博衣こより/ホロライブ】",
-                "date": "2025/02/09 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/SdKJQnupXYg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfyd_oMsdZS_qiHxiX3ngjfs5KDw",
-                "description": "遂にルシファーをGETする最大のチャンスが来たんじゃない！？？ストライカーズコレクション、すり抜けてもおいしいキャラばっかりだし楽しみ..."
-            },
-            {
                 "video_id": "mpPgPXIcLK4",
                 "title": "【 #Vtuber甲子園2025 】パワプロ栄冠ナイン！ホロライブ高校1年目夏の大会！～弱小な始まり、1勝でも多く──！～ #2 【博衣こより/ホロライブ】",
                 "date": "2025/02/09 17:00:00",
@@ -106,15 +99,7 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/CTvZ3dUO8LocQMKbGkjUPysC524gC4asm5roilZmzhpBpWAWpLrhpRv0SpEaJeWm1oVP5v0g",
-        "videos": [
-            {
-                "video_id": "Z9tQIHVbGYY",
-                "title": "【 MHWilds | PS5版 】アルシュベルドを討伐したいのら～～～！！！＃２【姫森ルーナ/ホロライブ】",
-                "date": "2025/02/09 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Z9tQIHVbGYY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD657cRsYjo6p8v_jgkWrg0MizoFg",
-                "description": "🍫バレンタインボイス2025販売中🍫\nhttps://shop.hololivepro.com/products/hololive_valentinevoice2025\n\nサムネイラスト\n　ニャドラさん　https://twitter.com/nyanyadora..."
-            }
-        ]
+        "videos": []
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -144,7 +129,15 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/JyixAV--9ZFWIMEwRQFbZhkiQTEvb1ALCdX7bW9BarpyLBjAnbbmc98jymhVT_pZlJpWaDwk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Cl4ej0bqRhI",
+                "title": "【Minecraft】新ホロ鯖でzetaririカフェ！！！！【一条莉々華/hololive DEV_IS　ReGLOSS】",
+                "date": "2025/02/09 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Cl4ej0bqRhI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsyugp3XB5e09xvPyFJWhJiUJPUg",
+                "description": "いくぞお～～～！！！\n\n🔽サムネに使わせていただいています！🔽\n弥國みく【毎日更新目標】様\n@mikuni_miku3\n\n本ゲームは Mojang に確認を得た上、Ter..."
+            }
+        ]
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -473,15 +466,7 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/LObfzJe4AIufIErJzQy1xzwQcA5AX6rJh8AxJe-qvG2yBO-tbTVDwXqOkoeK_MoGPC6C3lMxQ_c",
-        "videos": [
-            {
-                "video_id": "-sfZagzvVl0",
-                "title": "＃３【キミガシネ】完全初見！多数決デスゲーム！【轟はじめ/ReGLOSS】 #hololivedev_is",
-                "date": "2025/02/09 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/-sfZagzvVl0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZaBuT30UE38gZxgdxLFCmoujKdQ",
-                "description": "🐧はじめの日記念グッズ販売開始🐧\nhttps://shop.hololivepro.com/products/todorokihajime_hajimesdaymerch\n\n素敵なサムネお写真：くまのあぶり様（@kumanoaburi）..."
-            }
-        ]
+        "videos": []
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
@@ -528,7 +513,15 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "zkTMns1luys",
+                "title": "【MINECRAFT】a rare minecraft stream...! 【ZetaRiri】",
+                "date": "2025/02/09 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/zkTMns1luys/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDm46adFJCnhbKd5X7ZiQ1JqVdPMw",
+                "description": "#hololive #holoid #vestiazeta  #vtuber \n\nThis game is being streamed and monetized after confirming with Ubisoft, which is based on the following Ubisoft Video Policy (https://www.ubisoft.com/en-us..."
+            }
+        ]
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
