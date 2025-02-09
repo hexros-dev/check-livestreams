@@ -330,7 +330,14 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "6100CsjVH7U",
+                "title": "【#不知火建設】不知火建設×羽田エアポートガーデン ✨中継✨【ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/6100CsjVH7U/hqdefault.jpg?v=67a3ab1c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqgN6XgC9Jg4FFEu1e0QE0WLxC3w",
+                "description": "提供：羽田エアポートガーデン\n▼社員総会に関する情報はこちら\nhttps://shiraken-haneda.com/soukai/\n\n▼コラボ全体の情報はこちら\nhttps://shiraken-haneda.com/..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -450,14 +457,7 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": [
-            {
-                "video_id": "bE45f5HXCsw",
-                "title": "Nimi Plays Pizza Simulators 【Good Pizza, Great Pizza & Papa's Pizzeria】",
-                "thumbnail": "https://i.ytimg.com/vi/bE45f5HXCsw/hqdefault.jpg?v=67a7c26f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAktOH1dXzqH-ADeawySIEbtAsYuA",
-                "description": "pizza sim double feature!\n\n☁  Thumbnail Art  ☁\nhttps://x.com/ardenlolo/status/1885827217839772020/photo/1\nThank you so much!!\n\n  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋\n\nKonbakuwa! I'm..."
-            }
-        ]
+        "videos": []
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
