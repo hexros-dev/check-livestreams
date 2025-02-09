@@ -234,7 +234,14 @@
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "oA6J5VwxpcY",
+                "title": "【 Minecraft 】ネザライト装備を目指して！【ホロライブ/夏色まつり】",
+                "thumbnail": "https://i.ytimg.com/vi/oA6J5VwxpcY/hqdefault.jpg?v=67a63a21&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQTtQS8SHIJvQgqOtZLwoQZvphhw",
+                "description": "...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\n\n素敵なサムネイル→鮭味様\n@11Meronpan\n\n\n\n\n本ゲームは Mojang に確認を得た上..."
+            }
+        ]
     },
     "@NekomataOkayu": {
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
@@ -424,14 +431,7 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": [
-            {
-                "video_id": "4DXNuaUJ-LU",
-                "title": "【Minecraft】ペールオークで家を建てたぁい！！！【 雪花ラミィ /ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/4DXNuaUJ-LU/hqdefault.jpg?v=67a82334&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDiiZ8IOWhFZZpAH5nF8EV-mst4Mg",
-                "description": "感想は #らみらいぶ で呟いて頂けたら嬉しいです！\n\nサムネイルイラスト：ぱんじゃむのなめさま\nhttps://x.com/nononanameme\n\n本ゲームは Mojang に確認を..."
-            }
-        ]
+        "videos": []
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
