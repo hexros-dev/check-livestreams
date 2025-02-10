@@ -114,7 +114,22 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "aVSUolX7CC0",
+                "title": "【 #朝こよ 】日本は祝日です㊗な火曜日の朝も！朝こよ～☀ #219 【博衣こより/hololive】",
+                "date": "2025/02/11 05:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/aVSUolX7CC0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDA7vBLU-KQjdVh4nNJLfGb1dBCgg",
+                "description": "#朝こよ を観れば日本ニキも海外ニキもホロライブの今が分かる、そんな番組になりたい \n※SuperChatは後日赤スパのみ御礼させていただきます！..."
+            },
+            {
+                "video_id": "hzconEYB_oY",
+                "title": "【 #Vtuber甲子園2025 】パワプロ栄冠ナイン！ホロライブ高校1年目秋の大会～！～弱小高が必死に勝ち進む物語～ #3 【博衣こより/ホロライブ】",
+                "date": "2025/02/10 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/hzconEYB_oY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCW0JPg6w8kX72mV3V3RHFQ-zgBdA",
+                "description": "#Vtuber甲子園2025 昨年優勝ホロライブ高校、ディフェンディングチャンピオン🏆として頑張ろうと思った矢先、1年目新入生ガチャが先輩含めヤバか..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
