@@ -144,13 +144,6 @@
                 "date": "2025/02/11 05:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/aVSUolX7CC0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDA7vBLU-KQjdVh4nNJLfGb1dBCgg",
                 "description": "#朝こよ を観れば日本ニキも海外ニキもホロライブの今が分かる、そんな番組になりたい \n※SuperChatは後日赤スパのみ御礼させていただきます！..."
-            },
-            {
-                "video_id": "hzconEYB_oY",
-                "title": "【 #Vtuber甲子園2025 】パワプロ栄冠ナイン！ホロライブ高校1年目秋の大会～！～弱小高が必死に勝ち進む物語～ #3 【博衣こより/ホロライブ】",
-                "date": "2025/02/10 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/hzconEYB_oY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCW0JPg6w8kX72mV3V3RHFQ-zgBdA",
-                "description": "#Vtuber甲子園2025 昨年優勝ホロライブ高校、ディフェンディングチャンピオン🏆として頑張ろうと思った矢先、1年目新入生ガチャが先輩含めヤバか..."
             }
         ]
     },
@@ -170,15 +163,7 @@
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
         "channel_name": "Suisei Channel",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
-        "videos": [
-            {
-                "video_id": "Q0-MA3auT9I",
-                "title": "【Minecraft】新ホロ鯖にて星街村が爆誕‼🏠【ホロライブ / 星街すいせい】",
-                "date": "2025/02/10 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Q0-MA3auT9I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD99EBeZ-EoAWA4F9oXTIY-Vy23Qg",
-                "description": "☄2025.2.1 Hoshimachi Suisei 日本武道館 Live “SuperNova” 配信チケット発売中☄\n◇特設サイト　https://supernova.hololivepro.com\n◇チケットページ\n・JP：https://sup..."
-            }
-        ]
+        "videos": []
     },
     "@HoushouMarine": {
         "channel_url": "https://www.youtube.com/@HoushouMarine",
@@ -652,7 +637,15 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "y_f_84kkmjM",
+                "title": "【MINECRAFT NEW WORLD SERVER】you uhhhh got any games on your phone",
+                "date": "2025/02/11 05:15:00",
+                "thumbnail": "https://i.ytimg.com/vi/y_f_84kkmjM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdy231txMJnFksUuIBuPlh1lOASA",
+                "description": "set for 15min later than usual just in case i dont get home in time bcuz im picking up a snack on the side of the road\n\nthumbnail: https://x.com/rai_xhii/status/1888668236998475963\n\nThis game..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
@@ -682,7 +675,15 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "rwTC6nAavhA",
+                "title": "【Minecraft】新ホロ鯖やるっしょおおおおおおおおおおおおおおおお！！！ぺこ！【ホロライブ/兎田ぺこら】",
+                "date": "2025/02/10 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/rwTC6nAavhA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtPGJ5R_rZobzLsQ9VKTnJEOAD1w",
+                "description": "びょおおおおおおおおおおおおおおおお！\n\nサムネイラスト：憂姫はぐれ(@yuukihagure)マッマ\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
