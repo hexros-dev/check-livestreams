@@ -63,14 +63,7 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": [
-            {
-                "video_id": "QuoIw3Oa2ws",
-                "title": "≪Maid Cafe on Electric Street≫ Moe Moe....KYUN!!",
-                "thumbnail": "https://i.ytimg.com/vi/QuoIw3Oa2ws/hqdefault.jpg?v=67a8a005&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBiRQSIsWHQ7v7fqrLE_BITlrT7Xw",
-                "description": "Cute maids, cute voices and COFFEE\n\nThumbnail: https://x.com/AvoToons/status/1787926876947648737/photo/2\n#telebae #hololiveenglish #febaerary \n\n««≪ °◇◆◇° ≫ »»\n\nThis game is..."
-            }
-        ]
+        "videos": []
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -106,7 +99,14 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "6lGEYQrofPI",
+                "title": "【DEVIL MAY CRY 4】Is that all you got?",
+                "thumbnail": "https://i.ytimg.com/vi/6lGEYQrofPI/hqdefault.jpg?v=67a913f1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOaAgNu9r_YIsZGcegInEGcIVgQg",
+                "description": "This video and livestream are being streamed with permission and under license by CAPCOM CO., LTD.\nDevil May Cry \n©CAPCOM CO., LTD. ALL RIGHTS RESERVED.\n/ILLUSTRATIONS：Kazuma Kaneko/ATLUS..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
