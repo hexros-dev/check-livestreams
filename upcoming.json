@@ -336,7 +336,15 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "EWeY15ih9Zc",
+                "title": "【Minecraft】夜釣りに雑談を添えてChill...【尾丸ポルカ/ホロライブ】",
+                "date": "2025/02/10 22:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/EWeY15ih9Zc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkwlpSJP3RIXJiZKcdTdevAXEDDg",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://www.minecraft.net/ja-jp) に基づいて配信・収益化を行なっております\n\n✨✨誕生日記念グッズ発..."
+            }
+        ]
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
@@ -521,15 +529,7 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": [
-            {
-                "video_id": "OGp9UfOKbdI",
-                "title": "【Minecraft】家完成させて冒険にでかけたい！！【 雪花ラミィ /ホロライブ】",
-                "date": "2025/02/11 11:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/OGp9UfOKbdI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKPzmt59i6kYZ6AUk80cPVGyWkeA",
-                "description": "感想は #らみらいぶ で呟いて頂けたら嬉しいです！\n\nサムネイルイラスト：すずなみさま\nhttps://x.com/suzunami_illust\n\n本ゲームは Mojang に確認を得た上..."
-            }
-        ]
+        "videos": []
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
