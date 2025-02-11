@@ -128,7 +128,14 @@
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/Z2QpYUZ4-jKoFR7Ms330gRQzjI2gZ4CB_uVP6f39YysxUe1u8icrtE07ffpRxCtpu9U65MWNDA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "USNIiXvyjKs",
+                "title": "【#ぺこマリおかころ】コンビ対決！！ぷよぷよテトリス２でワチャワチャバトル！【ホロライブ/宝鐘マリン】",
+                "thumbnail": "https://i.ytimg.com/vi/USNIiXvyjKs/hqdefault.jpg?v=67aabc57&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBx9DLIIVB09vfJVaBtnbMZ6q1t3A",
+                "description": "@usadapekora @NekomataOkayu @InugamiKorone \n\nこの動画およびライブは、コンテンツ利用許諾契約に基づいて配信しています。\n©SEGA Tetris ® ＆ © 1985～2024..."
+            }
+        ]
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
@@ -359,14 +366,7 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": [
-            {
-                "video_id": "aOhEhm_MOzI",
-                "title": "【#DearFBKINGDOM】白上フブキのソロライブ直前 前夜祭だ! バラエティSP!??!?!?!【ホロライブ/白上フブキ】",
-                "thumbnail": "https://i.ytimg.com/vi/aOhEhm_MOzI/hqdefault.jpg?v=67aa0089&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApJmUrmdYGNR07faQKqgg-M-xyiQ",
-                "description": "#DearFBKINGDOM\n\nさくらみこ @SakuraMiko  大神ミオ @OokamiMio 　猫又おかゆ@NekomataOkayu \n大空スバル　@OozoraSubaru  鷹嶺ルイ @TakaneLui \n━━━━━━━━━━━━..."
-            }
-        ]
+        "videos": []
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -502,7 +502,14 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "w30OQWD6AEw",
+                "title": "【OFFCOLLAB】 Anya senpai is at Big Cat House!!! 🏠",
+                "thumbnail": "https://i.ytimg.com/vi/w30OQWD6AEw/hqdefault.jpg?v=67aacf50&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0GC2ncKd0WP6jpZKZkNPDJQeU7A",
+                "description": "『 X formely Twitter 』\nhttps://x.com/raorapanthera\n\n『 Hashtags 』\n╰┈➤ Live  #CiaoRaora\n╰┈➤ Fanarts  #RaorArt\n╰┈➤ Clips  #RaraWara\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
+            }
+        ]
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
