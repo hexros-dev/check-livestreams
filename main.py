@@ -48,9 +48,21 @@ UNARCHIVE_FILTERS = [
     "no archive",
     "no archived",
     "archive",
+    "archiving",
     "archived",
     "rebroadcast",
-    "アーカイブ無し", "アーカイブ"
+    "アーカイブ無し",
+    "アーカイブ",
+    "アーカイブはない",
+    "アーカイブ済み",
+    "アーカイブなし",
+    "アーカイブされていない",
+    "アーカイブする",
+    "アーカイブされた",
+    "arsip",
+    "belum diarsipkan",
+    "diarsipkan",
+    "tidak diarsipkan",
 ]
 KARAOKE_FILTERS = [
     "karaoke",
