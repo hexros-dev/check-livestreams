@@ -272,7 +272,14 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "7JiiRwgU34k",
+                "title": "【Minecraft】今日のホロ鯖はヨークシンシティになりますか？【尾丸ポルカ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/7JiiRwgU34k/hqdefault.jpg?v=67ab24a0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAOglhJ2zm2ITLNQmgn0DGFOJOPwQ",
+                "description": "サムネイルありがとうございます！\nhttps://x.com/endoutengu\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://www.minecraft.net/ja-jp) に基づいて配..."
+            }
+        ]
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
