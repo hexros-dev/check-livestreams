@@ -184,15 +184,7 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg",
-        "videos": [
-            {
-                "video_id": "_YipaPXGIA0",
-                "title": "【MINECRAFT NEW WORLD SERVER】I am inevitable",
-                "date": "2025/02/11 11:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/_YipaPXGIA0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbx4Wi98bHIBg4s9k-LjzDgCbM3w",
-                "description": "/.D\nThumbnail Art: @mandradox thank you!\nhttps://x.com/mandradox/status/1888627693811306601/photo/1\n\nMinecraft Skin: @aozane\n\nCODE:81800 new outfit reveal merch set\nCODE:81800 新衣装記念グッ..."
-            }
-        ]
+        "videos": []
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -544,7 +536,15 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "w30OQWD6AEw",
+                "title": "【OFFCOLLAB】 Anya senpai is at Big Cat House!!! 🏠",
+                "date": "2025/02/11 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/w30OQWD6AEw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0GC2ncKd0WP6jpZKZkNPDJQeU7A",
+                "description": "『 X formely Twitter 』\nhttps://x.com/raorapanthera\n\n『 Hashtags 』\n╰┈➤ Live  #CiaoRaora\n╰┈➤ Fanarts  #RaorArt\n╰┈➤ Clips  #RaraWara\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
+            }
+        ]
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
