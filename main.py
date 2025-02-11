@@ -50,7 +50,7 @@ UNARCHIVE_FILTERS = [
     "archive",
     "archived",
     "rebroadcast",
-    "アーカイブ無し",
+    "アーカイブ無し", "アーカイブ"
 ]
 KARAOKE_FILTERS = [
     "karaoke",
