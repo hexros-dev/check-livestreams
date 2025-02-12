@@ -463,15 +463,7 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": [
-            {
-                "video_id": "oWNJbK9gC3k",
-                "title": "【 オフコラボ 】#ふれあいんなにゃ 突発の自宅訪問！？【不知火フレア/ホロライブ】",
-                "date": "2025/02/12 19:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/oWNJbK9gC3k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1o9WmwnpNiGFg1ZYWUXSmKtz_3g",
-                "description": "ホロライブ所属３期生の不知火フレア(Flare Shiranui)だよ～\n\nんなたん      @HimemoriLuna \nアーニャ 　 @AnyaMelfissa \nIRyS        @IRyS \n\n━━━━━━━━━━━..."
-            }
-        ]
+        "videos": []
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -598,7 +590,15 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "99a2uYVxXi0",
+                "title": "【SUPERCHAT READING】thank you always!",
+                "date": "2025/02/13 05:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/99a2uYVxXi0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDER4s51gAwq-vINaM_OXU8c-lMUQ",
+                "description": "‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",

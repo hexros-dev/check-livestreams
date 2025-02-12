@@ -343,14 +343,7 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/TejsfeJ29zBtQDJhP2TKDFAEk98-LuGRBGqrNIjbGQ05T9R5Jcl_VfsK27LZ_PXJmRP7DECk-w",
-        "videos": [
-            {
-                "video_id": "YvLZ2-Ti7tk",
-                "title": "【雑談】お引越しからただいま！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "thumbnail": "https://i.ytimg.com/vi/YvLZ2-Ti7tk/hqdefault.jpg?v=67ac61b8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhJylOawOWPoaMY40yzAM4WA3B5A",
-                "description": "お休み長かった~~~~！\nおまたせだよ～～\n\n\nサムネイルイラスト：裏月カレンさま\nhttps://x.com/MochimoonCurry2\nサムネイル素材：沙雨イニさま\n (https://twitte..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -400,7 +393,14 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "oWNJbK9gC3k",
+                "title": "【 オフコラボ 】#ふれあいんなにゃ 突発の自宅訪問！？【不知火フレア/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/oWNJbK9gC3k/hqdefault.jpg?v=67ac8b8f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1o9WmwnpNiGFg1ZYWUXSmKtz_3g",
+                "description": "ホロライブ所属３期生の不知火フレア(Flare Shiranui)だよ～\n\nんなたん      @HimemoriLuna \nアーニャ 　 @AnyaMelfissa \nIRyS        @IRyS \n\n━━━━━━━━━━━..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
