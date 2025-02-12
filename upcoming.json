@@ -360,7 +360,15 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "UEkRkGwvvIg",
+                "title": "#2【Alisa】Don't Become a Sandwich! - Classic Late-90s Style Horror 【Pavolia Reine/hololiveID 2nd gen】",
+                "date": "2025/02/12 20:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/UEkRkGwvvIg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsuUxWY4baiC6iVau0IKm_4zVe4Q",
+                "description": "Support me here (overseas): https://streamlabs.com/pavoliareinechhololive-id/tip\nSupport me here (Indonesia): https://sociabuzz.com/pavoliareine/tribe\n\nThis game is being streamed and monetized..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -481,15 +489,7 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": [
-            {
-                "video_id": "d0AZ0kjLvdM",
-                "title": "【Minecraft】家ついて行っていいですか【獅白ぼたん/ホロライブ】",
-                "date": "2025/02/12 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/d0AZ0kjLvdM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOHN_IZ7sVUsDyvIedXEodnwawmg",
-                "description": "座敷童スタイル\n\n配信ハッシュタグ：#ぐうたらいぶ\nサムネイルのイラスト：Solus39\nhttps://x.com/solus_39/status/1887775454805041465\n\n本ゲームは Mojang に確認を..."
-            }
-        ]
+        "videos": []
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
