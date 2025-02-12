@@ -561,7 +561,15 @@
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "hA76VLtyKI0",
+                "title": "【MINECRAFT】hololive New World #05 ~! 💄",
+                "date": "2025/02/13 04:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/hA76VLtyKI0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhaua7XmZDxXbkBE7GuDuO6xOwBg",
+                "description": "Heart Heart Heart \n▬▬ι════════ﺤ\nThis game is being streamed and monetized after confirming with Mojang based on the following Terms and Conditions (https://account.mojang.com..."
+            }
+        ]
     },
     "@holoen_gigimurin": {
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
