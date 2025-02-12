@@ -16,7 +16,14 @@
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
         "channel_name": "Airani Iofifteen Channel hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/bF91weVtAIL7Uhnr2HVwtCTLVKK5kVsn4FC_Ze3Gl8rkSsEjDwyey3AbQ1PDfJQ1Oeac5cePeg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "6r5unAmDG44",
+                "title": "【MH World】ASTERA, HOME SWEET HOME【 iofi / hololiveID 】",
+                "thumbnail": "https://i.ytimg.com/vi/6r5unAmDG44/hqdefault.jpg?v=67ac8985&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjHtdEqgqaZMR9CZYFreofmd_uDw",
+                "description": "#ioLyfe #Airani_Iofifteen #hololive #holoID #monsterhunter \n\nこの動画およびライブは\n株式会社カプコンの利用許諾を受けて配信しています\nモンスターハンター..."
+            }
+        ]
     },
     "@AkaiHaato": {
         "channel_url": "https://www.youtube.com/@AkaiHaato",
@@ -121,14 +128,7 @@
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/Z2QpYUZ4-jKoFR7Ms330gRQzjI2gZ4CB_uVP6f39YysxUe1u8icrtE07ffpRxCtpu9U65MWNDA",
-        "videos": [
-            {
-                "video_id": "lXYxmsxfhVE",
-                "title": "【Minecraft】マイクラ新ホロ鯖で今日もマリン船長およいでる！【ホロライブ/宝鐘マリン】",
-                "thumbnail": "https://i.ytimg.com/vi/lXYxmsxfhVE/hqdefault.jpg?v=67ac5bfd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCrpW1_oj7gYOkaGKGDbeIr0GGWaA",
-                "description": "サムネイラスト…あかさあい\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なってお..."
-            }
-        ]
+        "videos": []
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
@@ -146,20 +146,20 @@
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": [
-            {
-                "video_id": "k7ItgFNNZD0",
-                "title": "【Minecraft】新ホロ鯖で冒険したり素材集めたりするぞ～！【戌神ころね】",
-                "thumbnail": "https://i.ytimg.com/vi/k7ItgFNNZD0/hqdefault.jpg?v=67ac39aa&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAO_I9yXdtskqn7Ewvy9_Cz4laZVA",
-                "description": "Play Game : Minecraft ( PC )\nタグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nころねTwitter▶https://twitter.com/inugamikorone..."
-            }
-        ]
+        "videos": []
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/K39Md5CGHmCaMC5Ne3UWBzblgzDhUzXUFszrHfGapCvOldc8E7fWw3pxN0zhcjmoht4GngnD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "oY_7I4DiNtA",
+                "title": "【 Minecraft 】新鯖上陸！！エンドラ討伐にむけて準備します！！！#7【ホロライブ DEV_IS 響咲リオナ】",
+                "thumbnail": "https://i.ytimg.com/vi/oY_7I4DiNtA/hqdefault.jpg?v=67ac8e9a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA71qCkLlW20zPS92BWDi6v0VYobQ",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております。\n\n♡...\n\nサムネイラスト..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -375,14 +375,7 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/3st5iCi65fsN1P4-yTbWLHZH84eLsPqWsQ4MBkR1J72FW8pBm2IpHxFGtQ84ZFCcCX8sGJl-Ag",
-        "videos": [
-            {
-                "video_id": "7lTPeGv324Q",
-                "title": "【 Minecraft 】新ホロ鯖上陸❗️トラップ＆たくさん冒険したい‼🔥【ホロライブ/さくらみこ】",
-                "thumbnail": "https://i.ytimg.com/vi/7lTPeGv324Q/hqdefault.jpg?v=67ac6187&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5qSjfrdU2f9EQJkORhMCWMlcC0A",
-                "description": "うおおおおおおおおおおおおおおおにぇ\n\n⪩⪨　お知らせ/ɪɴғᴏ\n￣￣￣￣￣￣￣￣￣￣￣￣￣\n　🌸さくらみこ 1st Album \n　　『flower rhapsody』..."
-            }
-        ]
+        "videos": []
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
@@ -400,14 +393,7 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": [
-            {
-                "video_id": "oWNJbK9gC3k",
-                "title": "【 オフコラボ 】#ふれあいんなにゃ 突発の自宅訪問！？【不知火フレア/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/oWNJbK9gC3k/hqdefault.jpg?v=67ac8b8f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1o9WmwnpNiGFg1ZYWUXSmKtz_3g",
-                "description": "ホロライブ所属３期生の不知火フレア(Flare Shiranui)だよ～\n\nんなたん      @HimemoriLuna \nアーニャ 　 @AnyaMelfissa \nIRyS        @IRyS \n\n━━━━━━━━━━━..."
-            }
-        ]
+        "videos": []
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -501,14 +487,7 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": [
-            {
-                "video_id": "OGp9UfOKbdI",
-                "title": "【Minecraft】家完成させて冒険にでかけたい！！【 雪花ラミィ /ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/OGp9UfOKbdI/hqdefault.jpg?v=67a9db15&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKPzmt59i6kYZ6AUk80cPVGyWkeA",
-                "description": "感想は #らみらいぶ で呟いて頂けたら嬉しいです！\n\nサムネイルイラスト：すずなみさま\nhttps://x.com/suzunami_illust\n\n本ゲームは Mojang に確認を得た上..."
-            }
-        ]
+        "videos": []
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
