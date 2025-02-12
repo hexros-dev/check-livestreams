@@ -534,7 +534,15 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/4wLMmSJkzy4vmWfWYkmzn6YO9T__jp1cORNuFXN7YyihwvhGkqXCxNBaklKoXlgdik-Fp0Zu",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "8glD5ZDIO1M",
+                "title": "【 同時視聴 】白上フブキ1stソロライブ「FBKINGDOM “ANTHEM”」D席から応援だ！！【 #DearFBKINGDOM 】",
+                "date": "2025/02/13 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/8glD5ZDIO1M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtkPrb79BAScUDmHXsvkBubenIhg",
+                "description": "D席応援組：@ShiranuiFlare @OmaruPolka @TsunomakiWatame \n━━━━━━━━━━━━━━━━━━━━━━━\n■概要欄\n\n白上フブキ1stソロライブ「FBKINGDOM..."
+            }
+        ]
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -585,15 +593,7 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/LnJxTvrkHQFdFlyMY2HPtXVEwA7KHlUp8rNzBepF1GQfPQjUN9yKGIqSYOD31F22Ow9vSTn9",
-        "videos": [
-            {
-                "video_id": "Phq7udiQDwI",
-                "title": "【PHOGS!】It's a dog eats dog kind of world! are you a dog @OuroKronii ?",
-                "date": "2025/02/13 03:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Phq7udiQDwI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDd__qO7bqOCP0BA5NRED5fCxxEIw",
-                "description": "with: @OuroKronii \n\nthumbnail art: https://x.com/koizumi_arata/status/1889559930455146750\n\nJUSTICE Half Anniversary MERCH!\n▼Official Online Shop▼\nEN: https://shop.hololivepro.com/products/holol..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
