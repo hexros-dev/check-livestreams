@@ -184,14 +184,7 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": [
-            {
-                "video_id": "vFSpwHOyLfs",
-                "title": "【 Minecraft 】昼マイクラ！【 桃鈴ねね / hololive 】",
-                "thumbnail": "https://i.ytimg.com/vi/vFSpwHOyLfs/hqdefault.jpg?v=67abf550&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqxs-WAtJ4fftLhnVTdXHaqJ9NUQ",
-                "description": "ギャラクシーが届くまでマイクラ！\n⸜♡⸝MemberShipに入ったらもっとねねを知れるﾖ\nhttps://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA/join\n\n⸜♡⸝各音楽..."
-            }
-        ]
+        "videos": []
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
@@ -289,7 +282,14 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "FLBQbm1uw5Y",
+                "title": "【Minecraft】New Server Grind​",
+                "thumbnail": "https://i.ytimg.com/vi/FLBQbm1uw5Y/hqdefault.jpg?v=67abbd5c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7h1aHriQfpNUN_MtbfJ73qNZhHA",
+                "description": "This game is being streamed and monetized after confirming with Mojang based on the following Terms and Conditions (https://account.mojang.com/terms)\n\nComplementary Shaders\nAuthor: EminGT\nLink:..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
@@ -433,7 +433,14 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "HXK9AUXV-C0",
+                "title": "【MINECRAFT NEW WORLD SERVER】my floating village sky railway wont finish itself",
+                "thumbnail": "https://i.ytimg.com/vi/HXK9AUXV-C0/hqdefault.jpg?v=67abff19&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKjQ4JuH1n6qc0QFVf5iT00WqiYg",
+                "description": "thumbnail: https://x.com/oriinte/status/1889145059368734724\n\nThis game is being streamed and monetized after confirming with Mojang based on the following Terms and Conditions (https://account.moja..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
