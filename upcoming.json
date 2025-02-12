@@ -218,7 +218,15 @@
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
         "channel_name": "Laplus ch. ラプラス・ダークネス - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/6Y5lj4DhikLBo0UqIZ1dT3-D3aYXVPbxUgNTyYiyE_Se8AVxkGAn05D3oc1y3whpzDu-CzEQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "OwPSgQ4bwII",
+                "title": "【スト６】舞さんのストーリーモードでバレンタインデートします♡【ラプラス・ダークネス/ホロライブ】",
+                "date": "2025/02/14 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/OwPSgQ4bwII/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmk1ok6J5HfVu0L26pGG5yXqAusA",
+                "description": "サムネ\n https://x.com/4t0Se\nhttps://x.com/croa76/status/1740724966222700724?s=46\n\nこの動画およびライブは株式会社カプコンの利用許諾を受けて配信しています『ス..."
+            }
+        ]
     },
     "@MizumiyaSu": {
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
@@ -340,7 +348,7 @@
             {
                 "video_id": "DAn7fkWUHYw",
                 "title": "【#ヘブバン3周年】祝3周年！記念特別ストーリーをプレイ＆ななみん実装ガチャ！！！【尾丸ポルカ/ホロライブ】",
-                "date": "2025/02/12 18:00:00",
+                "date": "2025/02/12 19:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/DAn7fkWUHYw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdz8_xmiqNa1JldmQTnsw7uq106g",
                 "description": "3周年記念特別ストーリーをプレイ！\nそして実装されたばかりの、ななみんガチャをついに・・・！！！！！！\n\n#ヘブバン3周年 #ヘブバン #PR..."
             }
@@ -382,15 +390,7 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": [
-            {
-                "video_id": "16qy8guSTMY",
-                "title": "【Minecraft】MORE LIBRARY BUILDING (I THINK IDK)【Pavolia Reine/hololiveID 2nd gen】",
-                "date": "2025/02/12 14:15:00",
-                "thumbnail": "https://i.ytimg.com/vi/16qy8guSTMY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyYRf-yE0hLVAX4-7DbnLGLDEhWg",
-                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\nThis game is being streamed..."
-            }
-        ]
+        "videos": []
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -609,6 +609,13 @@
                 "date": "2025/02/14 18:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/Z96aINLMDJo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDB6Ji1UazgSvw_NuMyu4GrVzBZQw",
                 "description": "サブ垢→https://www.youtube.com/channel/UCp3tgHXw_HI0QMk1K8qh3g\n\nちょこの誕生日！\nお祝いや感想は\n#癒月ちょこ生誕祭２０２５\nでポストしてね♡\n\nサムネイラ..."
+            },
+            {
+                "video_id": "t5G_FHcI9sw",
+                "title": "【#癒月ちょこ生誕祭2025】メンバーシップ限定LIVE✨【ホロライブ/癒月ちょこ】",
+                "date": "2025/02/14 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/t5G_FHcI9sw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDI_cpc2XiuxPZkGPyJYR6RsRbFyQ",
+                "description": "サブ垢→https://www.youtube.com/channel/UCp3tgHXw_HI0QMk1K8qh3g\n\nメンバーシップ限定LIVE✨\nLIVE以外にもとあるかわいいコーナーも\n用意してるのでお楽しみに♡..."
             }
         ]
     },
