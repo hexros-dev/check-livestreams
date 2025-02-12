@@ -63,7 +63,14 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "1lrjOMCIPHc",
+                "title": "≪NieR Replicant ver.1.22474487139…≫ no seafront pls... FIRST TIME PLAYTHROUGH! #3 【SPOILER WARNING】",
+                "thumbnail": "https://i.ytimg.com/vi/1lrjOMCIPHc/hqdefault.jpg?v=67ab35fe&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWmVkfyMkPy9phg5VcX_Vz7cBjIw",
+                "description": "I will go anywhere. ANYWHERE BUT SEAFRONT.\n\nThumbnail: https://x.com/planetdropper/status/1865206141724328168/photo/1\n#telebae #hololiveenglish #febaerary\n\n««≪ °◇◆◇° ≫ »»\n\nThe..."
+            }
+        ]
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -177,13 +184,27 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "vFSpwHOyLfs",
+                "title": "【 Minecraft 】昼マイクラ！【 桃鈴ねね / hololive 】",
+                "thumbnail": "https://i.ytimg.com/vi/vFSpwHOyLfs/hqdefault.jpg?v=67abf550&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqxs-WAtJ4fftLhnVTdXHaqJ9NUQ",
+                "description": "ギャラクシーが届くまでマイクラ！\n⸜♡⸝MemberShipに入ったらもっとねねを知れるﾖ\nhttps://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA/join\n\n⸜♡⸝各音楽..."
+            }
+        ]
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
         "channel_name": "Moona Hoshinova hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/9e7J_lAxCEZO6IRC_Sl3Gj-bt9uPvSXolU_vBpmqWABzv99oHxzbYhWWgvRI_c2qmB4jH0p_ZA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "N9_rbR69Uvo",
+                "title": "【Minecraft】We explore! We have FUN!【Moona Hoshinova】",
+                "thumbnail": "https://i.ytimg.com/vi/N9_rbR69Uvo/hqdefault.jpg?v=67ab78d2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPDVwJWZ3F0O0vkBex_tWL50zQ4w",
+                "description": "Streamlabs donation link here : https://streamlabs.com/moonahoshinovahololive-id/tip\nSociaBuzz donation link here : https://sociabuzz.com/moonahoshinova/tribe\n======================================..."
+            }
+        ]
     },
     "@MoriCalliope": {
         "channel_url": "https://www.youtube.com/@MoriCalliope",
@@ -304,14 +325,7 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZlovVsPyh8NgS37S4dfONiCBySiboGPbT9cYuirb8JM3JhSnqlpJk-8SQUEA7jPfqXpMvjaa",
-        "videos": [
-            {
-                "video_id": "aZTebnpeLcE",
-                "title": "The European Experience Except Europe Isn't Real【VRChat - Epilogue Ch 1】",
-                "thumbnail": "https://i.ytimg.com/vi/aZTebnpeLcE/hqdefault.jpg?v=678b379a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLGXIHwgiwmMdGs31vR41buDtMqw",
-                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n\n==============..."
-            }
-        ]
+        "videos": []
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
@@ -425,7 +439,14 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Agp_Zj-1h3s",
+                "title": "【NEW MINECRAFT WORLD】 Hewo Chattini it's me again on the block game! #CiaoRaora",
+                "thumbnail": "https://i.ytimg.com/vi/Agp_Zj-1h3s/hqdefault.jpg?v=67ab648f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXq9PPM3aPg3xrjOaor9Cwvyk_ig",
+                "description": "『 X formely Twitter 』\nhttps://x.com/raorapanthera\n\n『 Hashtags 』\n╰┈➤ Live  #CiaoRaora\n╰┈➤ Fanarts  #RaorArt\n╰┈➤ Clips  #RaraWara\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
+            }
+        ]
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
