@@ -81,15 +81,7 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": [
-            {
-                "video_id": "1OlH2zwOYyI",
-                "title": "【FUBUKI SOLO CONCERT WATCHALONG 同時視聴】hear the anthem of friends 🌽🐾 【FUWAMOCO｜#DearFBKINGGDOM】",
-                "date": "2025/02/13 16:15:00",
-                "thumbnail": "https://i.ytimg.com/vi/1OlH2zwOYyI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWYm-NAa1d3N64ARn-DLPZM3fvpA",
-                "description": "hi friends let's have a concert party ✨\nlovely illustration by @hitsukuya  💕\nConcert Tickets 🌽\n→ https://fbkingdom.hololivepro.com/live/tickets-en/\n\n✨️🩵🩷 Go watch our 𝗙𝗨..."
-            }
-        ]
+        "videos": []
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -129,6 +121,13 @@
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/CTvZ3dUO8LocQMKbGkjUPysC524gC4asm5roilZmzhpBpWAWpLrhpRv0SpEaJeWm1oVP5v0g",
         "videos": [
+            {
+                "video_id": "1_5jPcW-XKY",
+                "title": "【 平成女児チョコ 】バレンタインは平成女児チョコを作るのらっ！！！💓💓💓【姫森ルーナ/ホロライブ】",
+                "date": "2025/02/14 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/1_5jPcW-XKY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbverKRWI_GFY1uqLm7qFyKYjiqw",
+                "description": "🍫バレンタインボイス2025販売中🍫\nhttps://shop.hololivepro.com/products/hololive_valentinevoice2025\n\nサムネイラスト\n　ばんりさん　https://twitter.com/bnr_banri..."
+            },
             {
                 "video_id": "NisjKLf7pCU",
                 "title": "【 ゼルダの伝説 夢を見る島DX｜GB版 】レトロゲーム『ゼルダの伝説』に挑戦するのら！！！ ＃１【姫森ルーナ/ホロライブ】",
@@ -429,7 +428,15 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/TejsfeJ29zBtQDJhP2TKDFAEk98-LuGRBGqrNIjbGQ05T9R5Jcl_VfsK27LZ_PXJmRP7DECk-w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "psS9qzjAXCA",
+                "title": "【Minecraft /マイクラ】お家作り準備編【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "date": "2025/02/13 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/psS9qzjAXCA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDaGua4cQymdRn4I1j-pxc6bidIfA",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms\n) に基づいて配信・収益化を行なっております\n\nサムネイルイラスト：..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -490,13 +497,6 @@
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
         "videos": [
-            {
-                "video_id": "BRiz6VMcL8c",
-                "title": "【チラ見せ】Shirakami Fubuki 1stLIVE FBKINGDOM “ANTHEM”",
-                "date": "2025/02/13 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/BRiz6VMcL8c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC16HmeRRRumde6GeyLVZDfUBFzgg",
-                "description": "2025年2月13日（木）ぴあアリーナMM 白上フブキ1st Live  \"FBKINGDOM ANTHEM\" 開催！\n公演の一部をYouTube Liveで無料配信！\n\n▼公式ハッシュタグ\n#DearFBKINGGDOM..."
-            },
             {
                 "video_id": "iV2DbcuYI4Q",
                 "title": "👑白上フブキ1stソロライブ 【FBKINGDOM “ANTHEM”】待機国民席",
