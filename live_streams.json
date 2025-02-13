@@ -51,14 +51,7 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": [
-            {
-                "video_id": "eZ0mFngNR2A",
-                "title": "【FUWAMOCO ROCK N' RAWR PARTY】sweet serenades for valentine's day 💕 #FWMCbeats 【ラブソング縛り歌枠】",
-                "thumbnail": "https://i.ytimg.com/vi/eZ0mFngNR2A/hqdefault.jpg?v=67a8ff81&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhKICf2nAjD0vFFmzW2vgq2P5HCg",
-                "description": "tell those dear how much they matter to you ✨\nlovely illustration by @chocomoo3 💕\n✨️🩵🩷 Go watch our 𝗙𝗨𝗪𝗔𝗠𝗢𝗖𝗢 𝟯𝗗 𝗕𝗜𝗥𝗧𝗛𝗗𝗔𝗬..."
-            }
-        ]
+        "videos": []
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -168,7 +161,14 @@
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
         "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/4XC0YEED9T4kvdLbJNK5f8GRCUNJds21yPXR4lNgH_CCjR-gbOYzod-vjfbH93YNFm6CiSSskA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "zTDReLflnpo",
+                "title": "【Minecraft】マイクラで遊ぶご機嫌な虎さんを見守りましょう～【虎金妃笑虎】",
+                "thumbnail": "https://i.ytimg.com/vi/zTDReLflnpo/hqdefault.jpg?v=67acc5c3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnTMhJZcwogFiCVRZCta3_qcZUqA",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n【使用MOD】\n使用MOD：Comp..."
+            }
+        ]
     },
     "@KosekiBijou": {
         "channel_url": "https://www.youtube.com/@KosekiBijou",
@@ -210,14 +210,7 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/FT92k-lGkFhElXOuq3KlwCvCpWPlEYwtAy2tjRibnmkrPP-Aaksbf2_P7XY26O9R2W4efoP7",
-        "videos": [
-            {
-                "video_id": "Z08d--ANTqg",
-                "title": "【JUMP KING QUEST】early access to pain and suffering! #calliolive",
-                "thumbnail": "https://i.ytimg.com/vi/Z08d--ANTqg/hqdefault.jpg?v=67abf36a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAghpQ09FFQq7aPKi-6p9oiqzHVxg",
-                "description": "SOLO LIVE TICKETS ON SALE NOW!\nhttps://www.ticketmaster.com/event/0900618BF1E836DE\n\nPrecautions\n*For General Admission area will be all-standing. \n*For Early Entry GA Ticket you will be able..."
-            }
-        ]
+        "videos": []
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -398,7 +391,14 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "B_EV4jjlhBc",
+                "title": "【Marvel Rivals】Chill ranking (?) / quick match session~",
+                "thumbnail": "https://i.ytimg.com/vi/B_EV4jjlhBc/hqdefault.jpg?v=67ad7815&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXgMGvVCog_TD0vJ6pp17jbkGEbA",
+                "description": "#hololive #holoid #vestiazeta  #vtuber #marvelrivals \n\nThis game is being streamed and monetized after confirming with NetEase Inc.\n\n★  Donasi lokal: https://sociabuzz.com/vestiazeta/tribe..."
+            }
+        ]
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",

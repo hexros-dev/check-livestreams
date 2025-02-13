@@ -238,15 +238,7 @@
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
         "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/4XC0YEED9T4kvdLbJNK5f8GRCUNJds21yPXR4lNgH_CCjR-gbOYzod-vjfbH93YNFm6CiSSskA",
-        "videos": [
-            {
-                "video_id": "zTDReLflnpo",
-                "title": "【Minecraft】マイクラで遊ぶご機嫌な虎さんを見守りましょう～【虎金妃笑虎】",
-                "date": "2025/02/13 12:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/zTDReLflnpo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnTMhJZcwogFiCVRZCta3_qcZUqA",
-                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n【使用MOD】\n使用MOD：Comp..."
-            }
-        ]
+        "videos": []
     },
     "@KosekiBijou": {
         "channel_url": "https://www.youtube.com/@KosekiBijou",
@@ -507,7 +499,15 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "xNWkAgXay2E",
+                "title": "【Minecraft】0から始まる新ホロ鯖！！！まだみぬ動物を探したりしたい！【白銀ノエル/ホロライブ】",
+                "date": "2025/02/13 13:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/xNWkAgXay2E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjnpz8IR5qnkUyWf-XMX8KVLuI6Q",
+                "description": "茶色のパンダっているんか...？！\n\n[NEW]🔥焚火ASMRボイス販売中🔥→ https://shop.hololivepro.com/products/hololive_asmr_chillinbythecampfire?_pos=2&_fid=86a4c0ec0&_ss=c..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
