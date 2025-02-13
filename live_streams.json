@@ -51,14 +51,7 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": [
-            {
-                "video_id": "1OlH2zwOYyI",
-                "title": "【FUBUKI SOLO CONCERT WATCHALONG 同時視聴】hear the anthem of friends 🌽🐾 【FUWAMOCO｜#DearFBKINGDOM】",
-                "thumbnail": "https://i.ytimg.com/vi/1OlH2zwOYyI/hqdefault.jpg?v=67ada26e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWYm-NAa1d3N64ARn-DLPZM3fvpA",
-                "description": "hi friends let's have a concert party ✨\nlovely illustration by @hitsukuya  💕\nConcert Tickets 🌽\n→ https://fbkingdom.hololivepro.com/live/tickets-en/\n\n✨️🩵🩷 Go watch our 𝗙𝗨..."
-            }
-        ]
+        "videos": []
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -102,7 +95,14 @@
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
         "channel_name": "Ao Ch. 火威青 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/sMnKpvVB1QLNSWGX-AIZ00lFTWAUzuZRAi_rlT7Cs9bIGzvWr-1yvKrKZ0tCtX7Ywtzds6ecSXM",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "6FdUIXkQGi0",
+                "title": "【DTTO. CUP／Apex Legends 】どきどきのチーム顔合わせ！【火威青 】#hololiveDEV_IS #ReGLOSS",
+                "thumbnail": "https://i.ytimg.com/vi/6FdUIXkQGi0/hqdefault.jpg?v=67adcc71&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbE8wTx6XoQMlVpHepUQMY1lr9jw",
+                "description": "可愛い女の子かと思った？じゃじゃーん青くんでした！\n\nでぃっちゃんことDTTO.ちゃんからAPEXに誘われたド初心者火威青…\nいったい、どんな結末..."
+            }
+        ]
     },
     "@HoshimachiSuisei": {
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
@@ -114,7 +114,14 @@
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/Z2QpYUZ4-jKoFR7Ms330gRQzjI2gZ4CB_uVP6f39YysxUe1u8icrtE07ffpRxCtpu9U65MWNDA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "G1-dESUAJvk",
+                "title": "【Minecraft】マイクラ新ホロ鯖で同人作家呪術師になったマリン船長【ホロライブ/宝鐘マリン】",
+                "thumbnail": "https://i.ytimg.com/vi/G1-dESUAJvk/hqdefault.jpg?v=67ad5b06&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCA0-zuJfE2JiCfeQGmLBGIvoiCCQ",
+                "description": "サムネイラスト…あかさあい\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なってお..."
+            }
+        ]
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
@@ -163,7 +170,14 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/XXZ4apG-FPN8G8DpYacbnwxs7S5tf2tjV_u2Eaot3JHGAkSPFBYaGMOyJcAHhLYy_u11JD7O29I",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "fENKqAadPmg",
+                "title": "【Minecraft】マイハウス完成間近!!!!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "thumbnail": "https://i.ytimg.com/vi/fENKqAadPmg/hqdefault.jpg?v=67adbb6e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCrHLrQouCSPvrknxwhcBGJ4_IqvA",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n【使用MOD】\n使用MOD：Comp..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -187,7 +201,14 @@
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "WVpJ3aMY0AA",
+                "title": "【#BestMa_ID COMPETITION】WHO'S THE BEST MAID IN HOLOLIVE ID??💕 + ANNOUNCEMENT!!【Kureiji Ollie】",
+                "thumbnail": "https://i.ytimg.com/vi/WVpJ3aMY0AA/hqdefault.jpg?v=67a9bdbc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYHclSRhB3pkSilJXpDjA3jClagQ",
+                "description": "Who's the best maid in hololive ID?! Let's find out!!💕\n\nWELCOME HOME MASTERS!! MISTRESSES!!\n\n==========================================\n\n@AyundaRisu @MoonaHoshinova @AiraniIofifteen @AnyaMelfiss..."
+            }
+        ]
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
@@ -247,7 +268,14 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "SCpJAX8Ef8A",
+                "title": "【 Minecraft 】お家絶対絶対完成だあ～～～！😸🔥✦【 猫又おかゆ/ホロライブ 】",
+                "thumbnail": "https://i.ytimg.com/vi/SCpJAX8Ef8A/hqdefault.jpg?v=67ad0101&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCheQsImrjuJnXJJRmNxwR4QtR79A",
+                "description": "-\n\n\nイラスト▸とぅーさん( https://x.com/tooo88 )\n設計図    ▸ピノさん( https://x.com/pino_holozuki/status/1886655664480772610 )\n\n※本ゲームは Mojang に確認を得た上、..."
+            }
+        ]
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -271,20 +299,20 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/Z78RNXxUqpOGYKFt-VrJV7nlehOHzl7Ta-l1cgPx5Ewucmr5kY64iGxmPSe7QqIdM1ZhvPlEOg",
-        "videos": [
-            {
-                "video_id": "TzrX8eBHEGQ",
-                "title": "【同時視聴】フブキのソロライブ、段ボール席で一緒に応援だ！！！！！【 #DearFBKINGDOM 】",
-                "thumbnail": "https://i.ytimg.com/vi/TzrX8eBHEGQ/hqdefault.jpg?v=67ad912e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxFXpt8yh-Aii2BxlbdGruQDqaJg",
-                "description": "🐈同時視聴いっしょにする🐈\n猫又おかゆ @NekomataOkayu \n\n🌟同時視聴するライブの詳細⇩🌟\n白上フブキ1stソロライブ「FBKINGDOM “ANTHEM”」\n\n◆ぴあ..."
-            }
-        ]
+        "videos": []
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ewOFsYqf-YA",
+                "title": "【#BIG3】BIG3 (ほぼ) バレンタイン コラボ【ホロライブ/大空スバル】",
+                "thumbnail": "https://i.ytimg.com/vi/ewOFsYqf-YA/hqdefault.jpg?v=67ad9825&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBw7TFL_Z3vZY7CdJ1pKzBAdreYhA",
+                "description": "@YukihanaLamy @ShiroganeNoel \n🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting..."
+            }
+        ]
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -308,7 +336,14 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/TejsfeJ29zBtQDJhP2TKDFAEk98-LuGRBGqrNIjbGQ05T9R5Jcl_VfsK27LZ_PXJmRP7DECk-w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "psS9qzjAXCA",
+                "title": "【Minecraft /マイクラ】お家作り準備編【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "thumbnail": "https://i.ytimg.com/vi/psS9qzjAXCA/hqdefault.jpg?v=67adb7fc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDaGua4cQymdRn4I1j-pxc6bidIfA",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms\n) に基づいて配信・収益化を行なっております\n\nサムネイルイラスト：..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -399,14 +434,7 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/4wLMmSJkzy4vmWfWYkmzn6YO9T__jp1cORNuFXN7YyihwvhGkqXCxNBaklKoXlgdik-Fp0Zu",
-        "videos": [
-            {
-                "video_id": "8glD5ZDIO1M",
-                "title": "【 同時視聴 】白上フブキ1stソロライブ「FBKINGDOM “ANTHEM”」D席から応援だ！！【 #DearFBKINGDOM 】",
-                "thumbnail": "https://i.ytimg.com/vi/8glD5ZDIO1M/hqdefault.jpg?v=67acfc1d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtkPrb79BAScUDmHXsvkBubenIhg",
-                "description": "D席応援組：@ShiranuiFlare @OmaruPolka @TsunomakiWatame \n━━━━━━━━━━━━━━━━━━━━━━━\n■概要欄\n\n白上フブキ1stソロライブ「FBKINGDOM..."
-            }
-        ]
+        "videos": []
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -460,7 +488,14 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "1ewRiOIa6-E",
+                "title": "【YAPPA YAPPA】Hewooo! We chill and chat today!✨",
+                "thumbnail": "https://i.ytimg.com/vi/1ewRiOIa6-E/hqdefault.jpg?v=67ad8ee2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAV-fYVSxkjBzoNo5DwB1EGLtg6qA",
+                "description": "『 X formely Twitter 』\nhttps://x.com/raorapanthera\n\n『 Hashtags 』\n╰┈➤ Live  #CiaoRaora\n╰┈➤ Fanarts  #RaorArt\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐ ˗ˏˋ ꒰New Year..."
+            }
+        ]
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
