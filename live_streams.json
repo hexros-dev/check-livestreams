@@ -114,14 +114,7 @@
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/Z2QpYUZ4-jKoFR7Ms330gRQzjI2gZ4CB_uVP6f39YysxUe1u8icrtE07ffpRxCtpu9U65MWNDA",
-        "videos": [
-            {
-                "video_id": "G1-dESUAJvk",
-                "title": "【Minecraft】マイクラ新ホロ鯖で同人作家呪術師になったマリン船長【ホロライブ/宝鐘マリン】",
-                "thumbnail": "https://i.ytimg.com/vi/G1-dESUAJvk/hqdefault.jpg?v=67ad5b06&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCA0-zuJfE2JiCfeQGmLBGIvoiCCQ",
-                "description": "サムネイラスト…あかさあい\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なってお..."
-            }
-        ]
+        "videos": []
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
@@ -165,14 +158,7 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/9BFn9huZRtcJypmkYNt0qslTAf225UJsapBFMsyIWjVFZMkkRn6LULZ-iLMmg9nigp0xcDjP0kw",
-        "videos": [
-            {
-                "video_id": "hwQYV7mQbwc",
-                "title": "【 #そらでん雑談 】ぬんぬんまつたけ、踊って遊ぶ【ときのそら/儒烏風亭らでん】",
-                "thumbnail": "https://i.ytimg.com/vi/hwQYV7mQbwc/hqdefault.jpg?v=67add0de&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAuk-UksyAflk2ub40XNn742z7dw",
-                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\nそら先輩\nhttps://www.youtube.com/@TokinoSora\n\n◢◤￣..."
-            }
-        ]
+        "videos": []
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -479,7 +465,14 @@
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
         "channel_name": "Choco Ch. 癒月ちょこ",
         "avatar_url": "https://yt3.googleusercontent.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "LZtvnkkj3hw",
+                "title": "【凸待ち】誕生日カウントダウン！【ホロライブ/癒月ちょこ】",
+                "thumbnail": "https://i.ytimg.com/vi/LZtvnkkj3hw/hqdefault.jpg?v=67adfcf9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGIch-L-V2L5KIIt7pFKtuhKEFZg",
+                "description": "サブ垢→https://www.youtube.com/channel/UCp3tgHXw_HI0QMk1K8qh3g\n\n\nOP＆ED動画：松賀りお。様@rio_matsuka\nしょこらデザイン＆イラスト：むーらん様@M_uu418\nサムネイ..."
+            }
+        ]
     },
     "@dooby3d": {
         "channel_url": "https://www.youtube.com/@dooby3d",
