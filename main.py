@@ -193,15 +193,17 @@ def get_translated_title(original_title, translate_func):
                 "UPDATE video_titles SET translated_title = ?, last_accessed = ? WHERE original_title = ?",
                 (translated_title, current_time, original_title),
             )
+            conn.commit()
+            conn.close()
             return translated_title
         else:
             cursor.execute(
                 "UPDATE video_titles SET last_accessed = ? WHERE original_title = ?",
                 (current_time, original_title),
             )
-        conn.commit()
-        conn.close()
-        return row[0]
+            conn.commit()
+            conn.close()
+            return row[0]
     else:
         # Dịch và lưu lại
         translated_title = translate_func(original_title)
