@@ -161,7 +161,10 @@ def init_db():
 
 
 def translate_title(title: str) -> str:
-    return translator.translate(title)
+    trans_title = translator.translate(title)
+    if "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know." in trans_title:
+        trans_title = tanslator.translate(title)
+    return trans_title
 
 
 def get_translated_title(original_title, translate_func):
@@ -184,10 +187,17 @@ def get_translated_title(original_title, translate_func):
 
     if row:
         # Cập nhật thời gian truy cập
-        cursor.execute(
-            "UPDATE video_titles SET last_accessed = ? WHERE original_title = ?",
-            (current_time, original_title),
-        )
+        if "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know." in row[0]:
+            translated_title = translate_func(original_title)
+            cursor.execute(
+                "UPDATE video_titles SET translated_title = ?, last_accessed = ? WHERE original_title = ?",
+                (translated_title, current_time, original_title),
+            )
+        else:
+            cursor.execute(
+                "UPDATE video_titles SET last_accessed = ? WHERE original_title = ?",
+                (current_time, original_title),
+            )
         conn.commit()
         conn.close()
         return row[0]
