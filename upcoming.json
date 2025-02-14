@@ -283,15 +283,7 @@
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
         "channel_name": "Laplus ch. ラプラス・ダークネス - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/6Y5lj4DhikLBo0UqIZ1dT3-D3aYXVPbxUgNTyYiyE_Se8AVxkGAn05D3oc1y3whpzDu-CzEQ",
-        "videos": [
-            {
-                "video_id": "OwPSgQ4bwII",
-                "title": "【スト６】舞さんのストーリーモードでバレンタインデートします♡【ラプラス・ダークネス/ホロライブ】",
-                "date": "2025/02/14 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/OwPSgQ4bwII/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmk1ok6J5HfVu0L26pGG5yXqAusA",
-                "description": "サムネ\n https://x.com/4t0Se\nhttps://x.com/croa76/status/1740724966222700724?s=46\n\nこの動画およびライブは株式会社カプコンの利用許諾を受けて配信しています『ス..."
-            }
-        ]
+        "videos": []
     },
     "@MizumiyaSu": {
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
@@ -303,7 +295,15 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "jAqP7hjW9v4",
+                "title": "【 晩酌 】ハッピーバレンタイン💞久々の晩酌とチョコレートでテンション爆上げ！【 桃鈴ねね / hololive 】",
+                "date": "2025/02/14 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/jAqP7hjW9v4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAH2ocbU0igo7hFWO5eEB77eJbi5Q",
+                "description": "何言うか分かんないからアーカイブメン限でｗ\n⸜♡⸝MemberShipに入ったらもっとねねを知れるﾖ\nhttps://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA/join..."
+            }
+        ]
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
@@ -755,7 +755,15 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "woa4cgfhh70",
+                "title": "【UNARCHIVED】shoebox karaoke time",
+                "date": "2025/02/15 05:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/woa4cgfhh70/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBP-arn5NqRYw_Bj3NraiygawnR8w",
+                "description": "just vibes n fun :]\n\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
