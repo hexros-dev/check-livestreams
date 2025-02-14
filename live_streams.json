@@ -63,7 +63,14 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "fIVg5w0W5ws",
+                "title": "≪UNARCHIVED KARAOKE・歌枠≫ WE STAND ALONE",
+                "thumbnail": "https://i.ytimg.com/vi/fIVg5w0W5ws/hqdefault.jpg?v=67adee7f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5nU9ONTexvifLTs08RL3I8D__lQ",
+                "description": "hAPPY sINGLes AWarenESS dAy!!!!!!!!\nNEW COVER RELEASE!!! - https://youtu.be/UTdFCo90Sk4\n\nThumbnail: https://x.com/NAMIORII/status/1830291641573503215/photo/1\n\n#telebae #hololiveenglish #febaerary..."
+            }
+        ]
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -450,14 +457,7 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": [
-            {
-                "video_id": "ahQNyBK0QO4",
-                "title": "【L.A. Noire】 The Final Season For Real This Time Part 2",
-                "thumbnail": "https://i.ytimg.com/vi/ahQNyBK0QO4/hqdefault.jpg?v=67ae5312&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5GMS5IIytkFbLlEQolri7xrQUdQ",
-                "description": "Not Not Finishing L.A. Noire!!\n\n☁  Thumbnail Art  ☁\nhttps://x.com/mattyartt/status/1887890478554636373\nThank you so much!!\n\n  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋\n\nKonbakuwa! I'm Nimi,..."
-            }
-        ]
+        "videos": []
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
