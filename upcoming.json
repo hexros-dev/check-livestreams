@@ -38,13 +38,6 @@
                 "date": "2025/02/15 10:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/7QmMuUcx6Gs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtrFyr-PzLov_ZlYpTQ5ZMqLXjxA",
                 "description": "#はあちゃまなう 感想ツイートしてねっ！ゼッタイ！！！\n\n❤️‍🔥赤井はあと×はあちゃま「どちらがお好き？♡」ASMRボイス　販売中！\nhttps://sho..."
-            },
-            {
-                "video_id": "GOj0p6l18bg",
-                "title": "【メンバー限定】一緒にドカ食いピザパ・・・しよ？❤️‍🔥【バレンタインおつるーじゅ会】",
-                "date": "2025/02/14 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/GOj0p6l18bg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnjYZj6E5zMvMwyJaPFFJty0MjLQ",
-                "description": "密かな至福のひとときピザパをみんなでするぞ～～～♪\n一緒に食べたら100倍おいしい！！！！！まったり駄弁る。\nメン限タグは　#はあとんラン..."
             }
         ]
     },
@@ -160,21 +153,21 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/JyixAV--9ZFWIMEwRQFbZhkiQTEvb1ALCdX7bW9BarpyLBjAnbbmc98jymhVT_pZlJpWaDwk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "xrEwPNWtpOY",
+                "title": "【メンバー限定】マネちゃんに秘密で💓晩酌ASMR【一条莉々華/hololive DEV_IS　ReGLOSS】",
+                "date": "2025/02/14 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/xrEwPNWtpOY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqjsqkwwSa5WnP3WkIx546cVqaEg",
+                "description": "ないしょだよ♡\n\nサムネイラスト\n死神キラキ💀🌑ShinigamiKiraki様\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧\n\n合言葉は「可愛い！ポジティブ！..."
+            }
+        ]
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": [
-            {
-                "video_id": "Vs0gDO-dS44",
-                "title": "【Memberships only】久しぶりのASMR♡寝る前のリラックスタイム【ハッピーバレンタイン2025】",
-                "date": "2025/02/14 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Vs0gDO-dS44/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8E6Yv_7SPfHbdLbj8WteShWh1-g",
-                "description": "タグ #生神めんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nころねTwitter▶https://twitter.com/inugamikorone\n\n-----------------------------..."
-            }
-        ]
+        "videos": []
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
@@ -214,7 +207,15 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/XXZ4apG-FPN8G8DpYacbnwxs7S5tf2tjV_u2Eaot3JHGAkSPFBYaGMOyJcAHhLYy_u11JD7O29I",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "srp-Z5Y1QvU",
+                "title": "【Minecraft】バレンタインもマイクラ！デートできるかな～【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "date": "2025/02/14 19:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/srp-Z5Y1QvU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCLuB2u2krbrwUWV201o7a_cup4SQ",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n【使用MOD】\n使用MOD：Comp..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -341,15 +342,7 @@
         "channel_url": "https://www.youtube.com/@NakiriAyame",
         "channel_name": "Nakiri Ayame Ch. 百鬼あやめ",
         "avatar_url": "https://yt3.googleusercontent.com/3CeLWGYb6cLUywTJzNt-UpITviNxeGNvtjhIqbV-AIybCqCoFw9onWtg91bjwpqvfEP9mfqIR4Q",
-        "videos": [
-            {
-                "video_id": "kO35itkD2cw",
-                "title": "【歌枠】バレンタイン歌枠！？🍫💞告知アリ！！！！！！！！！！！【百鬼あやめ/ホロライブ】",
-                "date": "2025/02/14 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/kO35itkD2cw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsXWyADzV6VDXxJsyJlysVEIEWPA",
-                "description": "- - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - -ഒ˖°\n\n\n　　🎄クリスマスボイス2024 ～トラベル ウィズ Y♡U～🎁\n..."
-            }
-        ]
+        "videos": []
     },
     "@NanashiMumei": {
         "channel_url": "https://www.youtube.com/@NanashiMumei",
@@ -470,13 +463,29 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "reU3m0Dp2qA",
+                "title": "【Clock Tower: Rewind】VALENTINE'S SPECIAL!!! Checking Out a Legendary Classic【Pavolia Reine/holoID】",
+                "date": "2025/02/14 21:15:00",
+                "thumbnail": "https://i.ytimg.com/vi/reU3m0Dp2qA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARSwZ6-IJfSvOczd6zsmJiWw70Xw",
+                "description": "Support me here (overseas): https://streamlabs.com/pavoliareinechhololive-id/tip\nSupport me here (Indonesia): https://sociabuzz.com/pavoliareine/tribe\n\nx\n\nReine's new original song now AVAILABLE..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/TejsfeJ29zBtQDJhP2TKDFAEk98-LuGRBGqrNIjbGQ05T9R5Jcl_VfsK27LZ_PXJmRP7DECk-w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "jjfTJGlDFc8",
+                "title": "【メン限】バレンタインですよ！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "date": "2025/02/14 19:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/jjfTJGlDFc8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBt2fSpgAcuvJAPRCnlI1kkFQcApA",
+                "description": "サムネイルイラスト：ジェスさま\nhttps://x.com/wato_joo_\nありがとうございます！！\n\nサムネイル素材：HEART KAEDEさま\nhttps://x.com/Heart_Kaede\n\nねえ、いっし..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -519,17 +528,10 @@
         "videos": [
             {
                 "video_id": "CjwkvhU8oyw",
-                "title": "【 きまぐれラジオ＋ASMR 】メンバーシップ限定💘きまぐれラジオ＆バレンタインASMR台詞【ホロライブ/さくらみこ】",
-                "date": "2025/02/14 21:00:00",
+                "title": "【 ASMR 】メンバーシップ限定💘バレンタインASMR【ホロライブ/さくらみこ】",
+                "date": "2025/02/14 20:30:00",
                 "thumbnail": "https://i.ytimg.com/vi/CjwkvhU8oyw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcZlRiR2xmDrVyx699hePs70drjg",
                 "description": "⪩⪨　お知らせ/ɪɴғᴏ\n￣￣￣￣￣￣￣￣￣￣￣￣￣\n　🌸さくらみこ 1st Album \n　　『flower rhapsody』 販売中！\n　　  https://cover.lnk.to/flowerrhapsody..."
-            },
-            {
-                "video_id": "nFkxcwV7PjE",
-                "title": "【 #みこマリ名監督対決 】みこマリ監督のホロメンドキドキ胸キュン💗名監督対決‼🔥【バレンタイン企画】",
-                "date": "2025/02/14 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/nFkxcwV7PjE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDaiMMXuGSK5AmpeHJCoMXuMJ_YYg",
-                "description": "どっちが名監督だ⁉ 監督 🍫@HoushouMarine @SakuraMiko \n審査員 💘 @OmaruPolka @NekomataOkayu @TakaneLui \n\n⪩⪨　お知らせ/ɪɴғᴏ\n￣￣￣￣￣￣￣￣￣￣￣￣￣..."
             }
         ]
     },
@@ -551,15 +553,7 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": [
-            {
-                "video_id": "iV2DbcuYI4Q",
-                "title": "【新衣装お披露目】ライブ振り返り＆新衣装お披露目！#DearFBKINGDOMDAY2【ホロライブ/白上フブキ】",
-                "date": "2025/02/14 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/iV2DbcuYI4Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCn3tESJUve96Ze4DoZLW4Qfo7ZDw",
-                "description": "\"🌽白上フブキ1stソロライブ FBKINGDOM “ANTHEM”🌽\n\n✦配信チケット(D席)\nhttps://fbkingdom.hololivepro.com/live/tickets/ \n✦グッズ 2次販売/3月10日（月）18:00まで..."
-            }
-        ]
+        "videos": []
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -677,15 +671,7 @@
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
         "channel_name": "Choco Ch. 癒月ちょこ",
         "avatar_url": "https://yt3.googleusercontent.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g",
-        "videos": [
-            {
-                "video_id": "t5G_FHcI9sw",
-                "title": "【#癒月ちょこ生誕祭2025】メンバーシップ限定LIVE✨【ホロライブ/癒月ちょこ】",
-                "date": "2025/02/14 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/t5G_FHcI9sw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDI_cpc2XiuxPZkGPyJYR6RsRbFyQ",
-                "description": "サブ垢→https://www.youtube.com/channel/UCp3tgHXw_HI0QMk1K8qh3g\n\nメンバーシップ限定LIVE✨\nLIVE以外にもとあるかわいいコーナーも\n用意してるのでお楽しみに♡..."
-            }
-        ]
+        "videos": []
     },
     "@dooby3d": {
         "channel_url": "https://www.youtube.com/@dooby3d",
@@ -733,10 +719,10 @@
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
         "videos": [
             {
-                "video_id": "9nSeGsKOwfc",
-                "title": "【VALENTINE'S DAY】🩷First-ever ASMR + a special surprise! 😸🩷",
-                "date": "2025/02/14 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/9nSeGsKOwfc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCOsJXOagundNyQfYY-K7LsvelZkQ",
+                "video_id": "Rf1D6HwJyHg",
+                "title": "【MEMBERS ONLY】Chattini will be my Valentine! 🩷",
+                "date": "2025/02/14 18:45:00",
+                "thumbnail": "https://i.ytimg.com/vi/Rf1D6HwJyHg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDvw5CeP0oiIcnqwrwjAzTrx9E_Aw",
                 "description": "『 X formely Twitter 』\nhttps://x.com/raorapanthera\n\n『 Hashtags 』\n╰┈➤ Live  #CiaoRaora\n╰┈➤ Fanarts  #RaorArt\n╰┈➤ Clips  #RaraWara\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
             }
         ]
@@ -779,15 +765,7 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": [
-            {
-                "video_id": "ny-VPKeMz8k",
-                "title": "【Minecraft】新ホロ鯖じゃよおおおおおおおおおおおおおおおおおお！！！ぺこ！【ホロライブ/兎田ぺこら】",
-                "date": "2025/02/14 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/ny-VPKeMz8k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9_9Tos09ke_iOcTNYDzv0gIvGLw",
-                "description": "わっほおおおおおおおおおおおおおおおおおおお！！！\n\nサムネイラスト：憂姫はぐれ(@yuukihagure)マッマ\n\n⋈ －－－－－－－－－－－－－－－－－..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
