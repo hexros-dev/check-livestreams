@@ -21,7 +21,14 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "91TG5UWhZLU",
+                "title": "【APEX】あれるチームでdtto.cupいくぞーーーー！！w/あれるさん、巫神こんちゃん【ホロライブ/アキロゼ】",
+                "thumbnail": "https://i.ytimg.com/vi/91TG5UWhZLU/hqdefault.jpg?v=67af905e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtDwmH5g5eFHAwOmFIJihMp_pmKg",
+                "description": "アキロゼのAPEX歴⇩\nhttps://youtube.com/playlist?list=PLYt9gyZFZDj90zDEL8IxDR4pmTcj7Xpnd&si=5B3QzbpOBWex04ZX\n\n配信タグ #アキびゅーわーるど \n\nサムネイルイラスト 水豹さ..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -95,7 +102,14 @@
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
         "channel_name": "Ao Ch. 火威青 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/sMnKpvVB1QLNSWGX-AIZ00lFTWAUzuZRAi_rlT7Cs9bIGzvWr-1yvKrKZ0tCtX7Ywtzds6ecSXM",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "zI0LR9bLMMo",
+                "title": "【DTTO. CUP／Apex Legends 】本番！元気に全力で行くぞ！【火威青 】#hololiveDEV_IS #ReGLOSS",
+                "thumbnail": "https://i.ytimg.com/vi/zI0LR9bLMMo/hqdefault.jpg?v=67b0186e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBu_RR-Q1QvYmNgSyF5s_Oq5K8A_g",
+                "description": "可愛い女の子かと思った？じゃじゃーん青くんでした！\n\nでぃっちゃんことDTTO.ちゃんからAPEXに誘われたド初心者火威青…\nいったい、どんな結末..."
+            }
+        ]
     },
     "@HoshimachiSuisei": {
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
@@ -328,14 +342,7 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/GF0wbwZvZAGzYg8s8d6Yh1BDcWAE9UmLAh2uf3IMJ5l_ESi3sWeRqk2XfhW3IgzMeliHpt4cAw",
-        "videos": [
-            {
-                "video_id": "40xe867ZLV0",
-                "title": "【 バイオハザードHDリマスター＃２ 】完全初見のバイオハザード！！🐶だけはヤメテネ【ホロライブ /ロボ子さん 】",
-                "thumbnail": "https://i.ytimg.com/vi/40xe867ZLV0/hqdefault.jpg?v=679f36b6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALs7W6O6ld4EG8BFBHoyXZUoR13w",
-                "description": "💬#ロボ子生放送　でポストしてってね✨\n初めての　＃バイオハザード　に挑戦、優しく見守っててね\n　\"この動画およびライブは\n　株式会社カ..."
-            }
-        ]
+        "videos": []
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
