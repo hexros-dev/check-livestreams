@@ -425,13 +425,6 @@
                 "description": "本編(続き)→ https://www.youtube.com/live/qLmskN9Hyqg?feature=shared\n普段メン限でどんなASMRをしてるのか気になる人の為に体験版！\n15分程したらメンバー限定..."
             },
             {
-                "video_id": "F6KxGgYtkME",
-                "title": "【Minecraft】0から始まる新ホロ鯖！！！毎日コツコツログイン計画🔨⚡【白銀ノエル/ホロライブ】",
-                "date": "2025/02/15 17:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/F6KxGgYtkME/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCo2dzfP5mudvZFWQuG_cyk07WZOA",
-                "description": "ポーション作ってみたい！！\n\n[NEW]🔥焚火ASMRボイス販売中🔥→ https://shop.hololivepro.com/products/hololive_asmr_chillinbythecampfire?_pos=2&_fid=86a4c0ec0&_ss=c\n[NEW]💖..."
-            },
-            {
                 "video_id": "WkMWmSev6NE",
                 "title": "【朝活雑談】おはまっするさんでー💪🌞💪久々にお喋り太郎だああああ【白銀ノエル/ホロライブ】",
                 "date": "2025/02/16 08:00:00",
@@ -471,7 +464,15 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "3X_gyqfAMNI",
+                "title": "【 Minecraft 】おうちづくり完成させて色々やりたい！！！！！！！！！【鷹嶺ルイ/ホロライブ】",
+                "date": "2025/02/15 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/3X_gyqfAMNI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6ozwidIOhouhsXa-hr1gR624ZwQ",
+                "description": "完成させるぞおおおおおおおおおおおおお\n\n【使用MOD】\n使用MOD：Complementary Shaders\n制作者：EminGT\n配布URL：https://www.curseforge.com/minecraft/customization/comple..."
+            }
+        ]
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",

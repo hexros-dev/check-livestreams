@@ -427,7 +427,14 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "F6KxGgYtkME",
+                "title": "【Minecraft】0から始まる新ホロ鯖！！！毎日コツコツログイン計画🔨⚡【白銀ノエル/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/F6KxGgYtkME/hqdefault.jpg?v=67b0568d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCo2dzfP5mudvZFWQuG_cyk07WZOA",
+                "description": "ポーション作ってみたい！！\n\n[NEW]🔥焚火ASMRボイス販売中🔥→ https://shop.hololivepro.com/products/hololive_asmr_chillinbythecampfire?_pos=2&_fid=86a4c0ec0&_ss=c\n[NEW]💖..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -445,14 +452,7 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": [
-            {
-                "video_id": "VPXnAsIdzlM",
-                "title": "【 ドラクエⅩ ver.2 】完全初見。オフライン版✨誰かこの勇者とめろ！！！！！【鷹嶺ルイ/ホロライブ】※ネタバレあり",
-                "thumbnail": "https://i.ytimg.com/vi/VPXnAsIdzlM/hqdefault.jpg?v=67af68b9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCh-lad_lFCRb31hHWMsPwzL5IQLQ",
-                "description": "まてまてまてえええええええええええ\n※タイトルの『※ネタバレあり』とは、【ゲーム本編のネタバレが含まれた配信】という意味でネタバレや..."
-            }
-        ]
+        "videos": []
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
