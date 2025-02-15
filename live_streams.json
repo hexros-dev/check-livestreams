@@ -63,14 +63,7 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": [
-            {
-                "video_id": "bFknSVRqQns",
-                "title": "≪MiSide≫ I hate it here.",
-                "thumbnail": "https://i.ytimg.com/vi/bFknSVRqQns/hqdefault.jpg?v=67af6144&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_Jw_wsoC6OGKTDeHGkkmEy_msHg",
-                "description": "Two hours. I just need to survive for two hours.\n\nThumbnail: https://x.com/SoupySoull/status/1876300947116392899\n\n#telebae #hololiveenglish #febaerary \n\n««≪ °◇◆◇° ≫ »»\n\nThis..."
-            }
-        ]
+        "videos": []
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -235,7 +228,14 @@
         "channel_url": "https://www.youtube.com/@NanashiMumei",
         "channel_name": "Nanashi Mumei Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ufO7pGRu0vUfA2FLPz7yN517i8wOYxAdcxB9nSTKKfiKhjec0ulSmwWmRA00KqVpOTIesgXhMA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "PTCpdP_5Vec",
+                "title": "【3.0 LIVE2D REVEAL】Three Point OH !!! ~",
+                "thumbnail": "https://i.ytimg.com/vi/PTCpdP_5Vec/hqdefault.jpg?v=67ae77b5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZT6TzVE4LCdk3ZHIBZcLUuhrGug",
+                "description": ":D\n≫ ──── ≪•◦ ❈ ◦•≫ ──── ≪\n\nTWITTER\nhttps://twitter.com/nanashimumei_en\n@nanashimumei_en\n\n≫ ──── ≪•◦ ❈ ◦•≫ ──── ≪\n\nFollow..."
+            }
+        ]
     },
     "@NatsuiroMatsuri": {
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
@@ -314,7 +314,14 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/GF0wbwZvZAGzYg8s8d6Yh1BDcWAE9UmLAh2uf3IMJ5l_ESi3sWeRqk2XfhW3IgzMeliHpt4cAw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "40xe867ZLV0",
+                "title": "【 バイオハザードHDリマスター＃２ 】完全初見のバイオハザード！！🐶だけはヤメテネ【ホロライブ /ロボ子さん 】",
+                "thumbnail": "https://i.ytimg.com/vi/40xe867ZLV0/hqdefault.jpg?v=679f36b6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALs7W6O6ld4EG8BFBHoyXZUoR13w",
+                "description": "💬#ロボ子生放送　でポストしてってね✨\n初めての　＃バイオハザード　に挑戦、優しく見守っててね\n　\"この動画およびライブは\n　株式会社カ..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -368,7 +375,14 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "VPXnAsIdzlM",
+                "title": "【 ドラクエⅩ ver.2 】完全初見。オフライン版✨誰かこの勇者とめろ！！！！！【鷹嶺ルイ/ホロライブ】※ネタバレあり",
+                "thumbnail": "https://i.ytimg.com/vi/VPXnAsIdzlM/hqdefault.jpg?v=67af68b9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCh-lad_lFCRb31hHWMsPwzL5IQLQ",
+                "description": "まてまてまてえええええええええええ\n※タイトルの『※ネタバレあり』とは、【ゲーム本編のネタバレが含まれた配信】という意味でネタバレや..."
+            }
+        ]
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
