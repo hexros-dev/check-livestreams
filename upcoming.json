@@ -168,7 +168,15 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "PPM1ZT-jO8k",
+                "title": "【Monster Hunter Wilds】Weapons Galore【Open Beta】",
+                "date": "2025/02/16 11:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/PPM1ZT-jO8k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKetvt83eujqzC_HmTwyxNM7dgZw",
+                "description": "Gun lanceRyS? MAYBE? time to re-learn the controls again lol\n\nThis video and livestream are being streamed with permission and under license by CAPCOM CO., LTD.\nMonster Hunter Wilds Open Beta..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
