@@ -137,9 +137,9 @@
         "avatar_url": "https://yt3.googleusercontent.com/XXZ4apG-FPN8G8DpYacbnwxs7S5tf2tjV_u2Eaot3JHGAkSPFBYaGMOyJcAHhLYy_u11JD7O29I",
         "videos": [
             {
-                "video_id": "srp-Z5Y1QvU",
-                "title": "【Minecraft】バレンタインもマイクラ！デートできるかな～【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "thumbnail": "https://i.ytimg.com/vi/srp-Z5Y1QvU/hqdefault.jpg?v=67af3209&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCLuB2u2krbrwUWV201o7a_cup4SQ",
+                "video_id": "8Wyl-ULwc6c",
+                "title": "【Minecraft】一番高い場所でスーパーチャット読ませていただきます！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "thumbnail": "https://i.ytimg.com/vi/8Wyl-ULwc6c/hqdefault.jpg?v=67afdfe6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3ixfnjMJCv3A5ft0lMMBHGjI1Dg",
                 "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n【使用MOD】\n使用MOD：Comp..."
             }
         ]
@@ -154,7 +154,14 @@
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
         "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/4XC0YEED9T4kvdLbJNK5f8GRCUNJds21yPXR4lNgH_CCjR-gbOYzod-vjfbH93YNFm6CiSSskA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "pyWbDuvgOqM",
+                "title": "【朝活Minecraft】土曜の朝からお家を作る虎さん、かわいいですね【虎金妃笑虎】",
+                "thumbnail": "https://i.ytimg.com/vi/pyWbDuvgOqM/hqdefault.jpg?v=67af4296&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJhYe33MT5Ufcxw1LPQOsJf366LQ",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\nサムネイルのイラスト..."
+            }
+        ]
     },
     "@KosekiBijou": {
         "channel_url": "https://www.youtube.com/@KosekiBijou",
@@ -232,20 +239,20 @@
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
         "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "df5nfWiIkzM",
+                "title": "VALENTINE'S KARAOKE TIME! | UNARCHIVED KARAOKE",
+                "thumbnail": "https://i.ytimg.com/vi/df5nfWiIkzM/hqdefault.jpg?v=67af784d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXIEupwbBYl1zABdjaBFjqx5FnBA",
+                "description": "∴∴♪ * Check Out My First EP Here!* ♪∴∴\nhttps://cover.lnk.to/esLvqA\n\n∴∴♪ * Check Out My Music Here!* ♪∴∴\nhttps://www.youtube.com/playlist?list=PLSJG6WXf5JvFn2FWv_B5HP7DklUtde..."
+            }
+        ]
     },
     "@NinomaeInanis": {
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": [
-            {
-                "video_id": "OiOgMdGg2hc",
-                "title": "【3.0 Reveal】 2.0 + 1.0 + HAT...WOW!!!",
-                "thumbnail": "https://i.ytimg.com/vi/OiOgMdGg2hc/hqdefault.jpg?v=67af3933&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEn_MB0yRYMfrwa6hO6aHN7oci6g",
-                "description": "【Thumbnail Art】\n\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\n__________________________________________________________________________________________\n\nEndcard Art by Me!\nEndcard..."
-            }
-        ]
+        "videos": []
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -275,14 +282,7 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": [
-            {
-                "video_id": "wyJPXoxRJyQ",
-                "title": "【House Flipper 2】We Just Flip, Nothing Else",
-                "thumbnail": "https://i.ytimg.com/vi/wyJPXoxRJyQ/hqdefault.jpg?v=67aefd85&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCskCHVVCDR_IRytQyBKKALDZk_Ag",
-                "description": "This game is being streamed and monetized after confirming with PlayWay S.A.\n\n[Twitter]\nhttps://twitter.com/ourokronii\n\n[Thumbnail Art]\nhttps://x.com/tententempe\n\n----------------------------------..."
-            }
-        ]
+        "videos": []
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
@@ -318,7 +318,14 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZlovVsPyh8NgS37S4dfONiCBySiboGPbT9cYuirb8JM3JhSnqlpJk-8SQUEA7jPfqXpMvjaa",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "LB2__anNj5o",
+                "title": "The Yakiniku Cooking Experience with a Criminal Chef【Handcam】",
+                "thumbnail": "https://i.ytimg.com/vi/LB2__anNj5o/hqdefault.jpg?v=678c646f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBg7UDuBCDeKNDXMSALGnJCv1PkVQ",
+                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n\n==============..."
+            }
+        ]
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
@@ -457,14 +464,7 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": [
-            {
-                "video_id": "g07EuAwxxeQ",
-                "title": "VALENTINE'S KARAOKE 🍫💝💌💟",
-                "thumbnail": "https://i.ytimg.com/vi/g07EuAwxxeQ/hqdefault.jpg?v=67afaaee&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAARDCAkE1BH1gcya8uaTvStQCUAw",
-                "description": "singing tapir!\n\n☁  Thumbnail Art  ☁\nhttps://x.com/REI1196076/status/1885674461166440815\nThank you so much!!\n\n  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋\n\nKonbakuwa! I'm Nimi, the baku nurse..."
-            }
-        ]
+        "videos": []
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
