@@ -113,20 +113,20 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": [
-            {
-                "video_id": "PPM1ZT-jO8k",
-                "title": "【Monster Hunter Wilds】Weapons Galore【Open Beta】",
-                "thumbnail": "https://i.ytimg.com/vi/PPM1ZT-jO8k/hqdefault.jpg?v=67b1091e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKetvt83eujqzC_HmTwyxNM7dgZw",
-                "description": "Gun lanceRyS? MAYBE? time to re-learn the controls again lol\n\nThis video and livestream are being streamed with permission and under license by CAPCOM CO., LTD.\nMonster Hunter Wilds Open Beta..."
-            }
-        ]
+        "videos": []
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/JyixAV--9ZFWIMEwRQFbZhkiQTEvb1ALCdX7bW9BarpyLBjAnbbmc98jymhVT_pZlJpWaDwk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "HsbBhZwW53k",
+                "title": "【AMONG US】DEVI_Sコラボだあああ～～！！✨2000時間さん（）の腕のみせどころってワケ！【一条莉々華/hololive DEV_IS　ReGLOSS】",
+                "thumbnail": "https://i.ytimg.com/vi/HsbBhZwW53k/hqdefault.jpg?v=67b17587&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBe2uCEkXU64l2009kY_0G-qmtFAg",
+                "description": "✨主催✨\n@IsakiRiona \n\n💓参加メンバー💓\n@MizumiyaSu @RindoChihaya @KikiraraVivi @KoganeiNiko \n@IchijouRirika @OtonoseKanade @TodorokiHajime \n\n今回はおやすみ：らでん＆青..."
+            }
+        ]
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -138,7 +138,14 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/K39Md5CGHmCaMC5Ne3UWBzblgzDhUzXUFszrHfGapCvOldc8E7fWw3pxN0zhcjmoht4GngnD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "NRRRQpbcInc",
+                "title": "【 初企画 】DEV_ISでAmong usをプレイ✨ポーカーフェイスリオナいきますか・・！【ホロライブ DEV_IS 響咲リオナ】#デバイスアモアス",
+                "thumbnail": "https://i.ytimg.com/vi/NRRRQpbcInc/hqdefault.jpg?v=67b174d4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1rlItVBBXlbW8fGE1ZFNMe7uvFg",
+                "description": "本ゲームは InnerSloth に確認を得た上で配信・収益化を行っております。\n\nたのむ・・・・クルーになりたいんだ！！！！！！！！！！！！！！！！..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -156,7 +163,14 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/XXZ4apG-FPN8G8DpYacbnwxs7S5tf2tjV_u2Eaot3JHGAkSPFBYaGMOyJcAHhLYy_u11JD7O29I",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "fbIIxp1YaxM",
+                "title": "【Amoug Us】ReGLOSS✖FLOW GLOW！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "thumbnail": "https://i.ytimg.com/vi/fbIIxp1YaxM/hqdefault.jpg?v=67b13942&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCj7U1XYFPF405e9kbZabqxeQxvNA",
+                "description": "本ゲームは InnerSloth に確認を得た上で配信・収益化を行っております。\n\n奏せんぱい\n@OtonoseKanade \n莉々華社長せんぱい\n@IchijouRirika \nはじめ番長せん..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -168,7 +182,14 @@
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
         "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/4XC0YEED9T4kvdLbJNK5f8GRCUNJds21yPXR4lNgH_CCjR-gbOYzod-vjfbH93YNFm6CiSSskA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "P_XxbzK0uWk",
+                "title": "【Amoug us】え、嘘とか絶対バレるんだが【hololive DEV_ISコラボ】",
+                "thumbnail": "https://i.ytimg.com/vi/P_XxbzK0uWk/hqdefault.jpg?v=67b1302b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJIYB5nNeHluv_Dqf876AxSlmOTw",
+                "description": "本ゲームは InnerSloth に確認を得た上で配信・収益化を行っております。\n\n奏先輩\nhttps://www.youtube.com/@UCWQtYtq9EOB4-I5P-3fh8lA \n\n莉々華先輩\nhttps://www.youtube.c..."
+            }
+        ]
     },
     "@KosekiBijou": {
         "channel_url": "https://www.youtube.com/@KosekiBijou",
@@ -192,7 +213,14 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "NsNZxG2_xZs",
+                "title": "【Among Us 】先輩と同期と宇宙旅行、、？【水宮枢／FLOW GLOW】#hololiveDEV_IS",
+                "thumbnail": "https://i.ytimg.com/vi/NsNZxG2_xZs/hqdefault.jpg?v=67b14f90&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEmCu1wYChuH4zkJWrcXTGeWeGvw",
+                "description": "水宮はいい子なのでインポスターじゃないです✋これで勝てる\n\n本ゲームは InnerSloth に確認を得た上で配信・収益化を行っております。\n@IchijouRirika..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -297,7 +325,14 @@
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/YQU4Moz1OujZA8STx9g8rtaZWm3BA9OGplnz3KP4l8RK0OBujDBkmnlWrJa94Udo4SOduAzWrQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ppBkAkNZFYQ",
+                "title": "【 #デバイスアモアス 】DEV_ISで人狼ゲーム～！ﾜｸﾜｸ【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+                "thumbnail": "https://i.ytimg.com/vi/ppBkAkNZFYQ/hqdefault.jpg?v=67b1779c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAVJbvk2nBbeVUhUjxo_rzMxYJpOw",
+                "description": "✨主催✨\n​ @IsakiRiona \n\n💓参加メンバー💓\n​ @MizumiyaSu    @RindoChihaya    @KikiraraVivi    @KoganeiNiko \n @IchijouRirika    @OtonoseKanade   @TodorokiHajime \n\n今回はおやす..."
+            }
+        ]
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
@@ -315,7 +350,14 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/TejsfeJ29zBtQDJhP2TKDFAEk98-LuGRBGqrNIjbGQ05T9R5Jcl_VfsK27LZ_PXJmRP7DECk-w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "XgnDotZU8UU",
+                "title": "【Amoug Us】先輩と騙しあいだ～～～！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "thumbnail": "https://i.ytimg.com/vi/XgnDotZU8UU/hqdefault.jpg?v=67b1813f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCo6y-YpS70DhYdn9h6IAsDxoFIfg",
+                "description": "ポーカーフェイスでいきますよ\n\n本ゲームは InnerSloth に確認を得た上で配信・収益化を行っております\n\n✨主催✨\n​ @IsakiRiona \n\n💓参加メンバー💓..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -352,14 +394,7 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": [
-            {
-                "video_id": "aUgZnaFM_GM",
-                "title": "【Minecraft】もう一度探検へ向かいゆくゆくは地面も広げる【ホロライブ/白上フブキ】",
-                "thumbnail": "https://i.ytimg.com/vi/aUgZnaFM_GM/hqdefault.jpg?v=67b1667b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCOAIboVLgGnCr7rY5HQ-nHHWYnQw",
-                "description": "\"🌽白上フブキ1stソロライブ FBKINGDOM “ANTHEM”🌽\n\n✦配信チケット(D席)\nhttps://fbkingdom.hololivepro.com/live/tickets/ \n✦グッズ 2次販売/3月10日（月）18:00まで..."
-            }
-        ]
+        "videos": []
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -395,7 +430,14 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/LObfzJe4AIufIErJzQy1xzwQcA5AX6rJh8AxJe-qvG2yBO-tbTVDwXqOkoeK_MoGPC6C3lMxQ_c",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Ln5QsrInXgw",
+                "title": "【AMONG US】#デバイスアモアス 華麗なキルをみせてやる！【轟はじめ/ReGLOSS】 #hololivedev_is",
+                "thumbnail": "https://i.ytimg.com/vi/Ln5QsrInXgw/hqdefault.jpg?v=67b17849&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDBheRo4hT2ra2rtPjjxHweI8OXA",
+                "description": "🐧はじめの日記念グッズ販売開始🐧\nhttps://shop.hololivepro.com/products/todorokihajime_hajimesdaymerch\n\n✨主催✨\n​ @IsakiRiona \n\n💓参加メンバー💓\n​ @MizumiyaSu..."
+            }
+        ]
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
