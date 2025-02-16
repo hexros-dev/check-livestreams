@@ -167,15 +167,7 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": [
-            {
-                "video_id": "PPM1ZT-jO8k",
-                "title": "【Monster Hunter Wilds】Weapons Galore【Open Beta】",
-                "date": "2025/02/16 11:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/PPM1ZT-jO8k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKetvt83eujqzC_HmTwyxNM7dgZw",
-                "description": "Gun lanceRyS? MAYBE? time to re-learn the controls again lol\n\nThis video and livestream are being streamed with permission and under license by CAPCOM CO., LTD.\nMonster Hunter Wilds Open Beta..."
-            }
-        ]
+        "videos": []
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -345,13 +337,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
         "videos": [
             {
-                "video_id": "J5SNFMr9lqA",
-                "title": "【 ゼノブレイド2 】完全初見✦ のんびり冒険はじめます #02【 猫又おかゆ/ホロライブ 】",
-                "date": "2025/02/16 11:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/J5SNFMr9lqA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmVXKu8A-ioy8VTJZUmq3OZpab5g",
-                "description": "-\n\n\nイラスト：Nannungさん( https://x.com/Nannung_mdr )\n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n❥・・ ┈┈┈┈┈┈..."
-            },
-            {
                 "video_id": "kVwmdOq72yI",
                 "title": "【 Minecraft 】インフラ整備したりエンド行ったりする🦆✦【 猫又おかゆ/ホロライブ 】",
                 "date": "2025/02/16 18:00:00",
@@ -382,21 +367,21 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/Z78RNXxUqpOGYKFt-VrJV7nlehOHzl7Ta-l1cgPx5Ewucmr5kY64iGxmPSe7QqIdM1ZhvPlEOg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "4wtkfbml1ak",
+                "title": "【 Minecraft 】神社を建設する！ために準備！【 ホロライブ / 大神ミオ 】",
+                "date": "2025/02/16 13:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/4wtkfbml1ak/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCCe7sWBwETULCZDl0a9Xe16B9XhA",
+                "description": "マイクラが楽しくて、色々より道しまくったけど...\nそういえば神社を建設したいんだった！！！！\n\nサムネillustrator：紅ちゃんさん　https://x.com/toma..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": [
-            {
-                "video_id": "nZVftu3JnZ4",
-                "title": "【#2】龍が如く６やるしゅばああああああああああああああああああああああああああ！！！！/YAKUZA 6【ネタバレ注意】",
-                "date": "2025/02/16 11:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/nZVftu3JnZ4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC20DCV7SAx_dsKSYubcJ_AqjyR7w",
-                "description": "This game is being streamed and monetized with permission and under license.\n©SEGA\n🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！..."
-            }
-        ]
+        "videos": []
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -532,7 +517,15 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "l_vRKPyoGfA",
+                "title": "【Minecraft】ギルド作り開始！！オリーちゃんにお手伝いしてもらうの♪【ホロライブ/ときのそら/KuraijiOllie】",
+                "date": "2025/02/16 12:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/l_vRKPyoGfA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1H9DgXL1EQrZBxTOE-cPdbM7O8A",
+                "description": "@KureijiOllie \n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n\n【使用MOD】..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
@@ -570,7 +563,15 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "IoWMFtoCcA4",
+                "title": "【モンスターハンターワイルズ】オープンベータテスト！ソロやるぞ！！【 雪花ラミィ /ホロライブ】",
+                "date": "2025/02/16 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/IoWMFtoCcA4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTL5CA4Wu2PNn-MN1tTDxYo8tsAg",
+                "description": "この動画およびライブは株式会社カプコンの利用許諾を受けて配信しています\nモンスターハンターワイルズ オープンベータテスト\n©CAPCOM\n\n感想は..."
+            }
+        ]
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
