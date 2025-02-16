@@ -35,14 +35,7 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": [
-            {
-                "video_id": "p9MLt51AVzE",
-                "title": "誕生日カウントダウンして一緒に迎えたい！【ホロライブ/アキ・ローゼンタール】",
-                "thumbnail": "https://i.ytimg.com/vi/p9MLt51AVzE/hqdefault.jpg?v=67b1bf58&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVY1CfMVFrLYr6EVSGeibD7Q4c8g",
-                "description": "LINEスタンプでましたーっ🎁🎄\nhttps://store.line.me/stickershop/product/29057250/ja\n\n配信タグ  #アキびゅーわーるど  \n・－・－・－・－・－・－・－・－・－..."
-            }
-        ]
+        "videos": []
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -103,14 +96,7 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/CTvZ3dUO8LocQMKbGkjUPysC524gC4asm5roilZmzhpBpWAWpLrhpRv0SpEaJeWm1oVP5v0g",
-        "videos": [
-            {
-                "video_id": "7Ks7doRc99w",
-                "title": "もう…我慢できないっ…てコトなのら？！(・o・🍬)【姫森ルーナ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/7Ks7doRc99w/hqdefault.jpg?v=67b0b771&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOFXbzbVlzv-HaJcLOq6UWbpsEjA",
-                "description": "サムネイラスト\n　たこあげさん　https://twitter.com/tako_age53\n\n▷====================================◁\n\n🎊hololivefesEXPO25 情報🎊\n🔽特設サイト\nhttps://t.co/yzeGOmxEC..."
-            }
-        ]
+        "videos": []
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -232,7 +218,14 @@
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
         "channel_name": "Moona Hoshinova hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/9e7J_lAxCEZO6IRC_Sl3Gj-bt9uPvSXolU_vBpmqWABzv99oHxzbYhWWgvRI_c2qmB4jH0p_ZA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "uZw_qDEUdnM",
+                "title": "【Special Talk】New Orisong Talk with Nerissa and Announcement?【Moona Hoshinova】",
+                "thumbnail": "https://i.ytimg.com/vi/uZw_qDEUdnM/hqdefault.jpg?v=67b0ab46&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtgUXlnLOAva6Js1PpvAADYPtV-g",
+                "description": "STREAM 100%\nhttps://youtu.be/qm1RqoX3PzM?si=wVS_2C6Lw397r47B\nhttps://cover.lnk.to/4Uglpk\n\nStreamlabs donation link here : https://streamlabs.com/moonahoshinovahololive-id/tip\nSociaBuzz donation..."
+            }
+        ]
     },
     "@MoriCalliope": {
         "channel_url": "https://www.youtube.com/@MoriCalliope",
