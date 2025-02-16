@@ -243,15 +243,7 @@
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
-        "videos": [
-            {
-                "video_id": "V_1gzEC4HGk",
-                "title": "【MINECRAFT - HOLOLIVE NEW SERVER】ギルドを作ろう!! I'M WITH MY WIFE!!【Kureiji Ollie】",
-                "date": "2025/02/16 12:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/V_1gzEC4HGk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCm9xwqVCa7_AD9AXUEn8cLRFRTmg",
-                "description": "#IOLLIE #OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n==========================================\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/te..."
-            }
-        ]
+        "videos": []
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
@@ -525,15 +517,7 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": [
-            {
-                "video_id": "l_vRKPyoGfA",
-                "title": "【Minecraft】ギルド作り開始！！オリーちゃんにお手伝いしてもらうの♪【ホロライブ/ときのそら/KuraijiOllie】",
-                "date": "2025/02/16 12:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/l_vRKPyoGfA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1H9DgXL1EQrZBxTOE-cPdbM7O8A",
-                "description": "@KureijiOllie \nオリーちゃんとマイクラだ～！！わーい！！\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて..."
-            }
-        ]
+        "videos": []
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
@@ -639,7 +623,15 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "RNrVCPraj0w",
+                "title": "【モンハンワイルズ】オープンベータテスト！ホロメンと一狩りいくぞ！！！ぺこ！【ホロライブ/兎田ぺこら/アキロゼ/不知火フレア/角巻わため】",
+                "date": "2025/02/16 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/RNrVCPraj0w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDrV_8Sn5UwtCo_skD52npTL9RhOg",
+                "description": "​@AkiRosenthal \n@ShiranuiFlare \n@TsunomakiWatame \n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",

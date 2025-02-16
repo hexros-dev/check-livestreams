@@ -187,7 +187,14 @@
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "V_1gzEC4HGk",
+                "title": "【MINECRAFT - HOLOLIVE NEW SERVER】ギルドを作ろう!! I'M WITH MY WIFE!!【Kureiji Ollie】",
+                "thumbnail": "https://i.ytimg.com/vi/V_1gzEC4HGk/hqdefault.jpg?v=67b0e199&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCm9xwqVCa7_AD9AXUEn8cLRFRTmg",
+                "description": "#IOLLIE #OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n==========================================\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/te..."
+            }
+        ]
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
@@ -364,14 +371,7 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": [
-            {
-                "video_id": "WkMWmSev6NE",
-                "title": "【朝活雑談】おはまっするさんでー💪🌞💪久々にお喋り太郎だああああ【白銀ノエル/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/WkMWmSev6NE/hqdefault.jpg?v=67b05a34&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYEp8dTzsnlk0eJkUFdwnexhn5DQ",
-                "description": "ヨッシャ！お喋りするッペ！！\n\n[NEW]🔥焚火ASMRボイス販売中🔥→ https://shop.hololivepro.com/products/hololive_asmr_chillinbythecampfire?_pos=2&_fid=86a4c0ec0&_ss=c..."
-            }
-        ]
+        "videos": []
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -401,7 +401,14 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "l_vRKPyoGfA",
+                "title": "【Minecraft】ギルド作り開始！！オリーちゃんにお手伝いしてもらうの♪【ホロライブ/ときのそら/KuraijiOllie】",
+                "thumbnail": "https://i.ytimg.com/vi/l_vRKPyoGfA/hqdefault.jpg?v=67b16838&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1H9DgXL1EQrZBxTOE-cPdbM7O8A",
+                "description": "@KureijiOllie \nオリーちゃんとマイクラだ～！！わーい！！\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
