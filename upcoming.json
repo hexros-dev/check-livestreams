@@ -260,7 +260,15 @@
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "IwaZglnBS4Q",
+                "title": "【 Minecraft 】ポルカの水上コテージを作るよ✨【ホロライブ/夏色まつり】",
+                "date": "2025/02/17 11:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/IwaZglnBS4Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2e8pEKLgPt4o5eidupxNDiVbwuA",
+                "description": "...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\n\n素敵なサムネイル→もちょみ様\n@motityomi\n\n\n\n\n本ゲームは Mojang に確認を得..."
+            }
+        ]
     },
     "@NekomataOkayu": {
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
@@ -398,15 +406,7 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ",
-        "videos": [
-            {
-                "video_id": "e_iUjyDIc_w",
-                "title": "【DOOM】FINALE! it's Doomsday, innit? #kfp #キアライブ",
-                "date": "2025/02/16 23:15:00",
-                "thumbnail": "https://i.ytimg.com/vi/e_iUjyDIc_w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRL1h90w5cWNWJEld5iotUgqxodA",
-                "description": "stream my new song, MIRAGE!✨https://cover.lnk.to/DQSp3S\n👀 Takanashi Kiara 1st Album \"Point of View\" 👀\nStreaming: https://cover.lnk.to/PointofView\n\n🏵️[Twitter] 🏵️\nhttps://twitter.c..."
-            }
-        ]
+        "videos": []
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
