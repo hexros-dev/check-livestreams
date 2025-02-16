@@ -136,7 +136,14 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/VL9aJ1o3yrN_xzHKTX0PvArQjUDHhtWtOtAYWjpzkqoFxR5HHWmWRWNgu6M5l4nSibqLaeKXqA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "a9mZ4CFFOVc",
+                "title": "【PEJUANG SENIN】#94 busy February~【Kaela's Monday Warrior】",
+                "thumbnail": "https://i.ytimg.com/vi/a9mZ4CFFOVc/hqdefault.jpg?v=67b1eea0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJ1Qf2Qpe-qMzcrzEjQRznzYAA-w",
+                "description": "the topics from the Pejuang Senin stream sometimes might be sensitive to be clipped without the context. please have that in mind😇\n---------------------------------------------------------------..."
+            }
+        ]
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
@@ -184,14 +191,7 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": [
-            {
-                "video_id": "Bju_S4KpsQQ",
-                "title": "みんなの1日の最初はねね！【 桃鈴ねね / hololive 】",
-                "thumbnail": "https://i.ytimg.com/vi/Bju_S4KpsQQ/hqdefault.jpg?v=67b263f7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYLC8c4--VQnlIwjcdfokOPbYZ_Q",
-                "description": "いえい！\n⸜♡⸝MemberShipに入ったらもっとねねを知れるﾖ\nhttps://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA/join\n\n⸜♡⸝各音楽サイトにてオリジナル楽曲..."
-            }
-        ]
+        "videos": []
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
@@ -414,14 +414,7 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/LnJxTvrkHQFdFlyMY2HPtXVEwA7KHlUp8rNzBepF1GQfPQjUN9yKGIqSYOD31F22Ow9vSTn9",
-        "videos": [
-            {
-                "video_id": "-_RizkxJK7U",
-                "title": "【Super Mario World】NOSTALGIA BAIT - Are otomos technically yoshi?",
-                "thumbnail": "https://i.ytimg.com/vi/-_RizkxJK7U/hqdefault.jpg?v=67b2085b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1PZ4MzW6cFix_mHfmY8O1_y8EdA",
-                "description": "JUSTICE Half Anniversary MERCH!\n▼Official Online Shop▼\nEN: https://shop.hololivepro.com/products/hololiveen_justice_anhalfyear \n▼Geek Jack▼ \nEN: https://shop.geekjack.net/collections/hololi..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
