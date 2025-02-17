@@ -109,13 +109,6 @@
                 "description": "#朝こよ を観れば日本ニキも海外ニキもホロライブの今が分かる、そんな番組になりたい \n※SuperChatは後日赤スパのみ御礼させていただきます！..."
             },
             {
-                "video_id": "qZmLdvSTOxY",
-                "title": "【Minecraft】新ホロ鯖！エリトラほちい！取材したい！同人どうなったかな！？【博衣こより/ホロライブ】",
-                "date": "2025/02/17 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/qZmLdvSTOxY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBongxuPoam-X4fLJk578Vz5uV-rA",
-                "description": "エリトラが欲しくなってくる今日このごろ。朝こよで培ったジャーナリスト魂を滾らせながら今日もいく！　#こよクラ で建築案募集中⛏\n\n💗ASMR..."
-            },
-            {
                 "video_id": "zfKjWMvI4C8",
                 "title": "【麻雀格闘俱楽部Sp】 #ホロライブ麻雀大大大コラボ祭 神視点🀄MC・実況枠！【博衣こより視点/ホロライブ】",
                 "date": "2025/02/18 19:30:00",
@@ -156,7 +149,15 @@
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
         "channel_name": "Suisei Channel",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "87h2g_8P5wo",
+                "title": "【Minecraft】星街村開発中‼家を完成させたい🏠✨【ホロライブ / 星街すいせい】",
+                "date": "2025/02/17 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/87h2g_8P5wo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4dbwyC7nve9zJPcvU3AbG03aq3Q",
+                "description": "☄2025.2.1 Hoshimachi Suisei 日本武道館 Live “SuperNova” 配信チケット発売中☄\n◇特設サイト　https://supernova.hololivepro.com\n◇チケットページ\n・JP：https://sup..."
+            }
+        ]
     },
     "@HoushouMarine": {
         "channel_url": "https://www.youtube.com/@HoushouMarine",
