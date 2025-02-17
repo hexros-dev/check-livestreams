@@ -21,7 +21,14 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "etiR9Qnqlmc",
+                "title": "【 3DLIVE 】#アキロゼ生誕祭2025 ーYour True Colorsー【ホロライブ/アキ・ローゼンタール】",
+                "thumbnail": "https://i.ytimg.com/vi/etiR9Qnqlmc/hqdefault.jpg?v=67aa01e9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCr9df_NIuSc-vaYct_y2XCN-O8wA",
+                "description": "今年も誕生日を一緒に迎えてくれてありがとう！！\n#アキロゼ生誕祭2025 でいっぱい呟いて盛り上げてね！\n\n🎂22:20 ?????????????\n🎂22:30 メンバー限定..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -69,27 +76,13 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "qZmLdvSTOxY",
-                "title": "【Minecraft】新ホロ鯖！エリトラほちい！取材したい！同人どうなったかな！？【博衣こより/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/qZmLdvSTOxY/hqdefault.jpg?v=67b2f63b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBongxuPoam-X4fLJk578Vz5uV-rA",
-                "description": "エリトラが欲しくなってくる今日このごろ。朝こよで培ったジャーナリスト魂を滾らせながら今日もいく！　#こよクラ で建築案募集中⛏\n\n💗ASMR..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/CTvZ3dUO8LocQMKbGkjUPysC524gC4asm5roilZmzhpBpWAWpLrhpRv0SpEaJeWm1oVP5v0g",
-        "videos": [
-            {
-                "video_id": "ZHbFDj61Nyg",
-                "title": "【 MHWilds | PS5版 】色んな武器に挑戦なのらあああああ～～～！！！＃４ OBT2【姫森ルーナ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/ZHbFDj61Nyg/hqdefault.jpg?v=67b29d52&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJJPQKBVBpXfsGuySqf9DH2jg_mg",
-                "description": "サムネイラスト\n　昼野いすさん　https://twitter.com/tree_isu\n\n▷====================================◁\n\nモンハンワイルズOBT再生リスト\nhttps://www.youtube.com/playlist?l..."
-            }
-        ]
+        "videos": []
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -157,14 +150,7 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/VL9aJ1o3yrN_xzHKTX0PvArQjUDHhtWtOtAYWjpzkqoFxR5HHWmWRWNgu6M5l4nSibqLaeKXqA",
-        "videos": [
-            {
-                "video_id": "ktws7bfcqow",
-                "title": "【Minecraft】oh it has been 2 days since my minecraft stream!【Kaela Kovalskia / hololiveID】",
-                "thumbnail": "https://i.ytimg.com/vi/ktws7bfcqow/hqdefault.jpg?v=67b1f107&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDvFVR8n12Zr0mLVciy81oXAs8Ng",
-                "description": "【Donasi lokal】Traktir yang pahit-pahit kini sangat EZGGWP!~\nLink: https://sociabuzz.com/kaelakovalskia/tribe\n\n#Kaelaif #KaelaKovalskia #holoID \n-------------------------------------------------..."
-            }
-        ]
+        "videos": []
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
@@ -219,20 +205,20 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": [
-            {
-                "video_id": "ujMZis1WLCE",
-                "title": "【 モンハンワイルズOBT 】#ねぽらぼ モンハン新作いくぞ～～！！！！【 桃鈴ねね / hololive 】",
-                "thumbnail": "https://i.ytimg.com/vi/ujMZis1WLCE/hqdefault.jpg?v=67b2c730&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqZq11Ukt7LU3O2r9QWO9PJBG2Sw",
-                "description": "敵強いって聞いたんすけど、いけるすかね？ｗ\n⸜♡⸝MemberShipに入ったらもっとねねを知れるﾖ\nhttps://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA/join..."
-            }
-        ]
+        "videos": []
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
         "channel_name": "Moona Hoshinova hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/9e7J_lAxCEZO6IRC_Sl3Gj-bt9uPvSXolU_vBpmqWABzv99oHxzbYhWWgvRI_c2qmB4jH0p_ZA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "v9u0cdhjL9o",
+                "title": "【Hairdresser Simulator】Lemme cut your hair【Moona Hoshinova】",
+                "thumbnail": "https://i.ytimg.com/vi/v9u0cdhjL9o/hqdefault.jpg?v=67b2d166&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCo2IMNpWNXDtVPjTYYE4ziZZbu2Q",
+                "description": "Streamlabs donation link here : https://streamlabs.com/moonahoshinovahololive-id/tip\nSociaBuzz donation link here : https://sociabuzz.com/moonahoshinova/tribe\n======================================..."
+            }
+        ]
     },
     "@MoriCalliope": {
         "channel_url": "https://www.youtube.com/@MoriCalliope",
@@ -286,14 +272,7 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": [
-            {
-                "video_id": "dK3JefOUdhM",
-                "title": "【モンハンワイルズ 】今日のOBT2 #ねぽらぼ でマルチ狩猟！ #ポルカ公演中 【尾丸ポルカ視点/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/dK3JefOUdhM/hqdefault.jpg?v=67b3066b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWWWiai3omHjLyR9_QH-i8xClWqA",
-                "description": "@MomosuzuNene おつれ！\n@YukihanaLamy さけべ！\n@ShishiroBotan たすけろ！\n\n\nこの動画およびライブは株式会社カプコンの利用許諾を受けて配信しています..."
-            }
-        ]
+        "videos": []
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
@@ -384,14 +363,7 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": [
-            {
-                "video_id": "Biz7IseHbTM",
-                "title": "【モンハンワイルズ OBT2】ねぽらぼのモンハン！ MH Wilds / PC版オープンベータ【獅白ぼたん/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/Biz7IseHbTM/hqdefault.jpg?v=67b2af28&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAofDKCLI8Z5z4vdDBERKf5jsdBaA",
-                "description": "メインはやっぱりライトボウガン\n@MomosuzuNene @OmaruPolka @YukihanaLamy @ShishiroBotan \n\n配信ハッシュタグ：#ねぽらぼ #ぐうたらいぶ\nサムネイルのイラスト：..."
-            }
-        ]
+        "videos": []
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
@@ -445,14 +417,7 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": [
-            {
-                "video_id": "QGSMjj_FNQo",
-                "title": "【モンスターハンターワイルズ】ねぽらぼでOBTやってくぞ！！！【 雪花ラミィ /ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/QGSMjj_FNQo/hqdefault.jpg?v=67b2de46&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9qvGA47_fdBNW5N6xuORB4tf3IA",
-                "description": "この動画およびライブは株式会社カプコンの利用許諾を受けて配信しています\nモンスターハンターワイルズ オープンベータテスト\n©CAPCOM\n\n感想は..."
-            }
-        ]
+        "videos": []
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
