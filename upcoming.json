@@ -309,7 +309,15 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "5euGnhOALGM",
+                "title": "【Minecraft】 Takoyaki House Cont.",
+                "date": "2025/02/18 05:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/5euGnhOALGM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHE2pLpw1bPXOTRgowAGPO7GQZ0A",
+                "description": "【Thumbnail Art】\nhttps://x.com/Kentojin50/status/1790747777863225795\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\nThis game is being streamed and monetized after confirming with Mojang..."
+            }
+        ]
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
