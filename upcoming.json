@@ -94,13 +94,6 @@
                 "description": "昼配信できるように仕事全力で終わらせてきます。朝こよで培ったジャーナリスト魂を滾らせながら今日もいく！　#こよクラ で建築案募集中⛏..."
             },
             {
-                "video_id": "eOaaXmZVBDc",
-                "title": "【 #朝こよ 】チョコがおいしい火曜日の朝も！朝こよ～☀ #220 【博衣こより/hololive】",
-                "date": "2025/02/18 05:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/eOaaXmZVBDc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAC2yxpJ3da6niizrq9v9SHr7-Meg",
-                "description": "#朝こよ を観れば日本ニキも海外ニキもホロライブの今が分かる、そんな番組になりたい \n※SuperChatは後日赤スパのみ御礼させていただきます！..."
-            },
-            {
                 "video_id": "zfKjWMvI4C8",
                 "title": "【麻雀格闘俱楽部Sp】 #ホロライブ麻雀大大大コラボ祭 神視点🀄MC・実況枠！【博衣こより視点/ホロライブ】",
                 "date": "2025/02/18 19:30:00",
@@ -317,15 +310,7 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": [
-            {
-                "video_id": "5euGnhOALGM",
-                "title": "【Minecraft】 Takoyaki House Cont.",
-                "date": "2025/02/18 05:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/5euGnhOALGM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHE2pLpw1bPXOTRgowAGPO7GQZ0A",
-                "description": "【Thumbnail Art】\nhttps://x.com/Kentojin50/status/1790747777863225795\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\nThis game is being streamed and monetized after confirming with Mojang..."
-            }
-        ]
+        "videos": []
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -445,7 +430,15 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "7SXsKcDyFdQ",
+                "title": "【WARHAMMER 40K SPACE MARINE 2】es war eine schwere Geburt (ein collab spiel zu finden) #kfp #sametori",
+                "date": "2025/02/19 02:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/7SXsKcDyFdQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8RI7QCsO-yIkx4DJ2PBPQJ-7T6w",
+                "description": "with @GawrGura !\nstream my new song, MIRAGE!✨https://cover.lnk.to/DQSp3S\n👀 Takanashi Kiara 1st Album \"Point of View\" 👀\nStreaming: https://cover.lnk.to/PointofView\n\n🏵️[Twitter]..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
@@ -539,15 +532,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "lWoFDbzj2ps",
-                "title": "Learning how to play Yu-Gi-Oh! MASTER DUEL with a coach! #sponsored",
-                "date": "2025/02/18 05:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/lWoFDbzj2ps/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlnJpqyGZv9olQyUtdbja1PKZ4rg",
-                "description": "download the game here https://bit.ly/yugiohmd \n\n& the wonderful coach @Colossa !!\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐ underage viewers  ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
