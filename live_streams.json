@@ -433,7 +433,14 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "2siScBV7irg",
+                "title": "【MINECRAFT NEW WORLD SERVER】noob jumps for the beef",
+                "thumbnail": "https://i.ytimg.com/vi/2siScBV7irg/hqdefault.jpg?v=67b4550e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDh5hgF7Mf7wm_GmClYK4lY0cG62w",
+                "description": "This game is being streamed and monetized after confirming with Mojang based on the following Terms and Conditions (https://account.mojang.com/terms)\n\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
