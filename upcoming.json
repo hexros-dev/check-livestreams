@@ -29,15 +29,7 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": [
-            {
-                "video_id": "muoFTCtdxN8",
-                "title": "【MHW:IB/モンハンワールド 】MR83→MR100いけんのかって！？たすけてください【ホロライブ/アキロゼ】",
-                "date": "2025/02/18 22:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/muoFTCtdxN8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBndeFdZ-nw1VxFjDGa-5-_JT4yMw",
-                "description": "🎂アキロゼ生誕祭グッズ発売中🎂\nhttps://shop.hololivepro.com/products/akirosenthal_bd2025\n\n🎧アキロゼ新曲【異薔薇】リリース\nhttps://cover.lnk.to/5bvecc\n\nLINEスタ..."
-            }
-        ]
+        "videos": []
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -455,7 +447,15 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/LnJxTvrkHQFdFlyMY2HPtXVEwA7KHlUp8rNzBepF1GQfPQjUN9yKGIqSYOD31F22Ow9vSTn9",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "SKA88JKFVdk",
+                "title": "【Super Mario World】IT'S A ME IMMERSION TIME",
+                "date": "2025/02/19 03:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/SKA88JKFVdk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-vHpPOQJVsgW9nEqMRSUGmyNb-g",
+                "description": "Thumbnail art: https://x.com/jarrdraws/status/1891541287523758387\n\nAdvent VS Justice Valentine's Day MERCH!!!\n▼Official Online Shop▼\nhttps://shop.hololivepro.com/en/products/hololiveen_advsjus_..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
