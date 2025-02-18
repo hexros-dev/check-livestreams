@@ -57,7 +57,15 @@
         "channel_url": "https://www.youtube.com/@GawrGura",
         "channel_name": "Gawr Gura Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/6BCfAqi9yIpZbHLbw9BAWySvB3XZf9r8jFqudO5nSOsHoGzLhlKrm1M1uuMCRabi_pXGDzl7",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "56JvXvA51ls",
+                "title": "【WARHAMMER 40K SPACE MARINE 2】BROTHERs",
+                "date": "2025/02/19 02:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/56JvXvA51ls/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvv9AUxcSDoXgo5sD7PZTee8kVCw",
+                "description": "with @TakanashiKiara !\n\n🐟 twitter: https://twitter.com/gawrgura \n🐟 thumbnail: https://x.com/underdatv\n\nThis game is being streamed and monetized in accordance with the streaming guidelines...."
+            }
+        ]
     },
     "@HakosBaelz": {
         "channel_url": "https://www.youtube.com/@HakosBaelz",
@@ -283,15 +291,7 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": [
-            {
-                "video_id": "D9Lb-GsBEus",
-                "title": "#3【Alisa】NO MORE BOGOS BINTED - Classic Late-90s Style Horror 【Pavolia Reine/hololiveID 2nd gen】",
-                "date": "2025/02/18 20:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/D9Lb-GsBEus/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpfUsP5SZE4B2-qu_ml6F8CY7xtg",
-                "description": "Support me here (overseas): https://streamlabs.com/pavoliareinechhololive-id/tip\nSupport me here (Indonesia): https://sociabuzz.com/pavoliareine/tribe\n\nThis game is being streamed and monetized..."
-            }
-        ]
+        "videos": []
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
