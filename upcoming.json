@@ -29,7 +29,15 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "muoFTCtdxN8",
+                "title": "【MHW:IB/モンハンワールド 】MR83→MR100いけんのかって！？たすけてください【ホロライブ/アキロゼ】",
+                "date": "2025/02/18 22:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/muoFTCtdxN8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBndeFdZ-nw1VxFjDGa-5-_JT4yMw",
+                "description": "🎂アキロゼ生誕祭グッズ発売中🎂\nhttps://shop.hololivepro.com/products/akirosenthal_bd2025\n\n🎧アキロゼ新曲【異薔薇】リリース\nhttps://cover.lnk.to/5bvecc\n\nLINEスタ..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -411,15 +419,7 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/4wLMmSJkzy4vmWfWYkmzn6YO9T__jp1cORNuFXN7YyihwvhGkqXCxNBaklKoXlgdik-Fp0Zu",
-        "videos": [
-            {
-                "video_id": "p1SjrlliS2Q",
-                "title": "【雑談＆お礼】寝なくて良い体が欲しい！！！！！！！！！【角巻わため/ホロライブ４期生】",
-                "date": "2025/02/18 22:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/p1SjrlliS2Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQR9SK-9dUqn73SG_Rd0PxGbsP4Q",
-                "description": "公式番組帰宅後にまったり...\nタグ：#ドドドライブ\n\n🐏ホロライブ バレンタインボイス2025 ～秘密の告白～\nhttps://shop.hololivepro.com/products/hololive_valent..."
-            }
-        ]
+        "videos": []
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
