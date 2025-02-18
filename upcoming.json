@@ -69,15 +69,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "zfKjWMvI4C8",
-                "title": "【麻雀格闘俱楽部Sp】 #ホロライブ麻雀大大大コラボ祭 神視点🀄MC・実況枠！【博衣こより視点/ホロライブ】",
-                "date": "2025/02/18 19:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/zfKjWMvI4C8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZ5zTvrZ8W9GmESQrxAS0xRo5KPg",
-                "description": "#PR @HoushouMarine @ShiranuiFlare @TakaneLui @HiodoshiAo の対局を神視点で実況します！🀄楽しみ！\n提供：麻雀格闘倶楽部Sp\n\n『麻雀格闘倶楽部Sp』 ホロライブ..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -89,15 +81,7 @@
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
         "channel_name": "Ao Ch. 火威青 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/sMnKpvVB1QLNSWGX-AIZ00lFTWAUzuZRAi_rlT7Cs9bIGzvWr-1yvKrKZ0tCtX7Ywtzds6ecSXM",
-        "videos": [
-            {
-                "video_id": "aG0e9eKWeSc",
-                "title": "【麻雀格闘倶楽部Sp 】罰ゲームありどころか....大大大罰ゲームって何！？【火威青視点】#hololiveDEV_IS #ReGLOSS",
-                "date": "2025/02/18 19:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/aG0e9eKWeSc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdP2TCZkwz_mitphYdYxZT_zmtRQ",
-                "description": "#PR\n提供：麻雀格闘倶楽部Sp\n\n『麻雀格闘倶楽部Sp』 ホロライブコラボ特設ページ：https://p.eagate.573.jp/game/mfc/mfc_sp/campaign/hololivecollabosai/\n『麻雀格闘倶..."
-            }
-        ]
+        "videos": []
     },
     "@HoshimachiSuisei": {
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
@@ -109,15 +93,7 @@
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/Z2QpYUZ4-jKoFR7Ms330gRQzjI2gZ4CB_uVP6f39YysxUe1u8icrtE07ffpRxCtpu9U65MWNDA",
-        "videos": [
-            {
-                "video_id": "6cjJFtnNU90",
-                "title": "【麻雀格闘倶楽部Sp】大大大罰ゲームありっていうけどマリンが最弱なんだがこのメンツ/マリン視点【ホロライブ/宝鐘マリン】",
-                "date": "2025/02/18 19:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/6cjJFtnNU90/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-eQlfIC3efvXIxhxDXKVDz_VPbg",
-                "description": "#PR\n提供：麻雀格闘倶楽部Sp\n\n『麻雀格闘倶楽部Sp』 ホロライブコラボ特設ページ：https://p.eagate.573.jp/game/mfc/mfc_sp/campaign/hololivecollabosai/\n『麻雀格闘倶..."
-            }
-        ]
+        "videos": []
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
@@ -215,7 +191,15 @@
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
         "channel_name": "Moona Hoshinova hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/9e7J_lAxCEZO6IRC_Sl3Gj-bt9uPvSXolU_vBpmqWABzv99oHxzbYhWWgvRI_c2qmB4jH0p_ZA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "BDE_q4LmLfo",
+                "title": "【Minecraft】What in this world?【Moona Hoshinova】",
+                "date": "2025/02/18 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/BDE_q4LmLfo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3OYO2Be9onWyGRxy2dikkG6WLbg",
+                "description": "Streamlabs donation link here : https://streamlabs.com/moonahoshinovahololive-id/tip\nSociaBuzz donation link here : https://sociabuzz.com/moonahoshinova/tribe\n======================================..."
+            }
+        ]
     },
     "@MoriCalliope": {
         "channel_url": "https://www.youtube.com/@MoriCalliope",
@@ -307,7 +291,15 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "D9Lb-GsBEus",
+                "title": "#3【Alisa】NO MORE BOGOS BINTED - Classic Late-90s Style Horror 【Pavolia Reine/hololiveID 2nd gen】",
+                "date": "2025/02/18 20:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/D9Lb-GsBEus/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpfUsP5SZE4B2-qu_ml6F8CY7xtg",
+                "description": "Support me here (overseas): https://streamlabs.com/pavoliareinechhololive-id/tip\nSupport me here (Indonesia): https://sociabuzz.com/pavoliareine/tribe\n\nThis game is being streamed and monetized..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -379,15 +371,7 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": [
-            {
-                "video_id": "_oa9GYpmPHU",
-                "title": "【 麻雀格闘倶楽部Sp 】罰ゲームあり！？今夜は運麻雀で勝つ！！【不知火フレア視点/ホロライブ】",
-                "date": "2025/02/18 19:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/_oa9GYpmPHU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkVwNwZAMc6lmyZ-JD39OXQNwX7A",
-                "description": "ホロライブ所属３期生の不知火フレア(Flare Shiranui)だよ～\n 対戦相手：@HoushouMarine @TakaneLui @HiodoshiAo \n 神視点：@HakuiKoyori    \n \n#PR\n提供： 麻雀格闘倶楽..."
-            }
-        ]
+        "videos": []
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -419,15 +403,7 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": [
-            {
-                "video_id": "c7ZgrpALLDA",
-                "title": "【 麻雀格闘倶楽部Sp 】負けたら恐怖の罰ゲーム⁉絶対勝たんといけない戦いがここにある！【鷹嶺ルイ視点/ホロライブ】",
-                "date": "2025/02/18 19:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/c7ZgrpALLDA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCUdXZ1cX90To8EXM7cgHy0stWWhg",
-                "description": "#PR\n提供：麻雀格闘倶楽部Sp\n\n『麻雀格闘倶楽部Sp』 ホロライブコラボ特設ページ：https://p.eagate.573.jp/game/mfc/mfc_sp/campaign/hololivecollabosai/\n『麻雀格闘倶..."
-            }
-        ]
+        "videos": []
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
