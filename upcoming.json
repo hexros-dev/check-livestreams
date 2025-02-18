@@ -71,13 +71,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
         "videos": [
             {
-                "video_id": "K4QgWtKD80M",
-                "title": "【Minecraft】新ホロ鯖！お昼のマイクラだああああ！！（予定は未定）【博衣こより/ホロライブ】",
-                "date": "2025/02/18 10:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/K4QgWtKD80M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDyqGCtWED-R5uWO0nyDlHygudNyA",
-                "description": "昼配信できるように仕事全力で終わらせてきます。朝こよで培ったジャーナリスト魂を滾らせながら今日もいく！　#こよクラ で建築案募集中⛏..."
-            },
-            {
                 "video_id": "zfKjWMvI4C8",
                 "title": "【麻雀格闘俱楽部Sp】 #ホロライブ麻雀大大大コラボ祭 神視点🀄MC・実況枠！【博衣こより視点/ホロライブ】",
                 "date": "2025/02/18 19:30:00",
@@ -198,15 +191,7 @@
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
-        "videos": [
-            {
-                "video_id": "Wzc-DPjGfcA",
-                "title": "【MINECRAFT - HOLOLIVE NEW SERVER】FOR THE GOOD OF THE GUILD: LET'S FIND QUARTZ!!【Kureiji Ollie】",
-                "date": "2025/02/18 10:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Wzc-DPjGfcA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDSa6QY8Yv0d2HyRN9W_4w3NOL-MA",
-                "description": "#IOLLIE #OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n==========================================\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/te..."
-            }
-        ]
+        "videos": []
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
@@ -402,7 +387,15 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "BZwLFAN7Es4",
+                "title": "【#白銀ノエル200万人】ついに！！200万人いくまで気持ちをこめて歌います🎤💖【白銀ノエル/ホロライブ】",
+                "date": "2025/02/18 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/BZwLFAN7Es4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCizZeKoglRsZUgAVnaNO_S1Iy4OQ",
+                "description": "昨年からずっと目標にしてた200万人！！！！みんなで見届けよう！\n\n[NEW]🔥焚火ASMRボイス販売中🔥→ https://shop.hololivepro.com/products/hololive_asmr_chillinb..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
