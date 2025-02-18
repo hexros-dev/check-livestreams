@@ -39,15 +39,7 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": [
-            {
-                "video_id": "Fc_euKPtNpA",
-                "title": "【Marvel Rivals】trying new heroes !【Ayunda Risu】",
-                "date": "2025/02/18 15:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Fc_euKPtNpA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbwQ8759xgZsWsbgHk5SkPyuT1Yw",
-                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nThis game is being streamed and monetized after confirming with NetEase Inc.\n\nMETROPOLIS MV : https://youtu.be/6ulGdHRkzGs?si=YlxSAABf361PYA..."
-            }
-        ]
+        "videos": []
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -149,7 +141,15 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/K39Md5CGHmCaMC5Ne3UWBzblgzDhUzXUFszrHfGapCvOldc8E7fWw3pxN0zhcjmoht4GngnD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "AK2kXVRr2UM",
+                "title": "【 Minecraft 】おうち作りむじゅかしい・・・・！✨＃１２【ホロライブ DEV_IS 響咲リオナ】",
+                "date": "2025/02/18 15:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/AK2kXVRr2UM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBH64SknjZFBY4gDiY420Sek9c92w",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております。\n\n♡...\n\nサムネイラスト..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -424,7 +424,7 @@
                 "title": "【 麻雀格闘倶楽部Sp 】罰ゲームあり！？今夜は運麻雀で勝つ！！【不知火フレア視点/ホロライブ】",
                 "date": "2025/02/18 19:30:00",
                 "thumbnail": "https://i.ytimg.com/vi/_oa9GYpmPHU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkVwNwZAMc6lmyZ-JD39OXQNwX7A",
-                "description": "ホロライブ所属３期生の不知火フレア(Flare Shiranui)だよ～\n 対戦相手：@HoushouMarine @TakaneLui @HiodoshiAo \n 神視点：@HakuiKoyori    \n \n#PR\n提供：麻雀格闘倶楽..."
+                "description": "ホロライブ所属３期生の不知火フレア(Flare Shiranui)だよ～\n 対戦相手：@HoushouMarine @TakaneLui @HiodoshiAo \n 神視点：@HakuiKoyori    \n \n#PR\n提供： 麻雀格闘倶楽..."
             }
         ]
     },
