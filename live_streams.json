@@ -385,14 +385,7 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/4wLMmSJkzy4vmWfWYkmzn6YO9T__jp1cORNuFXN7YyihwvhGkqXCxNBaklKoXlgdik-Fp0Zu",
-        "videos": [
-            {
-                "video_id": "p1SjrlliS2Q",
-                "title": "【雑談＆お礼】寝なくて良い体が欲しい！！！！！！！！！【角巻わため/ホロライブ４期生】",
-                "thumbnail": "https://i.ytimg.com/vi/p1SjrlliS2Q/hqdefault.jpg?v=67b364bb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQR9SK-9dUqn73SG_Rd0PxGbsP4Q",
-                "description": "公式番組帰宅後にまったり...\nタグ：#ドドドライブ\n\n🐏ホロライブ バレンタインボイス2025 ～秘密の告白～\nhttps://shop.hololivepro.com/products/hololive_valent..."
-            }
-        ]
+        "videos": []
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -428,7 +421,14 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/LnJxTvrkHQFdFlyMY2HPtXVEwA7KHlUp8rNzBepF1GQfPQjUN9yKGIqSYOD31F22Ow9vSTn9",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "SKA88JKFVdk",
+                "title": "【Super Mario World】IT'S A ME IMMERSION TIME",
+                "thumbnail": "https://i.ytimg.com/vi/SKA88JKFVdk/hqdefault.jpg?v=67b4a931&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-vHpPOQJVsgW9nEqMRSUGmyNb-g",
+                "description": "Thumbnail art: https://x.com/jarrdraws/status/1891541287523758387\n\nAdvent VS Justice Valentine's Day MERCH!!!\n▼Official Online Shop▼\nhttps://shop.hololivepro.com/en/products/hololiveen_advsjus_..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
