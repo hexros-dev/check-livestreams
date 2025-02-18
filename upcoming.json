@@ -141,15 +141,7 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/K39Md5CGHmCaMC5Ne3UWBzblgzDhUzXUFszrHfGapCvOldc8E7fWw3pxN0zhcjmoht4GngnD",
-        "videos": [
-            {
-                "video_id": "AK2kXVRr2UM",
-                "title": "【 Minecraft 】おうち作りむじゅかしい・・・・！✨＃１２【ホロライブ DEV_IS 響咲リオナ】",
-                "date": "2025/02/18 15:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/AK2kXVRr2UM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBH64SknjZFBY4gDiY420Sek9c92w",
-                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております。\n\n♡...\n\nサムネイラスト..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -508,7 +500,15 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/meRnxbRUm5yPSwq8Q5QpI5maFApm5QTGQV_LGblQFsoO0yAV4LI-nSZ70GYwMZ_tbfSa_O8MTCU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "7uxRjAJdAcM",
+                "title": "【 Overwatch2 】LE SSERAFIMメンバーとオーバーウォッチコラボ！？😳😳😳【常闇トワ/ホロライブ】",
+                "date": "2025/02/18 18:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/7uxRjAJdAcM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjn47OzFpTjH8MqHamU0WdAOoMMg",
+                "description": "◆LE SSERAFIM◆\nSAKURA\nHONG EUNCHAE\n\n@LESSERAFIM_official \nhttps://x.com/le_sserafim\n\n◆韓国ストリーマー◆\nKimjaewon @kimjaewonworld \nSeosaebom @BOM \nRunner&Flowervin @runner_flowervin..."
+            }
+        ]
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
