@@ -187,7 +187,14 @@
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "AWS-iyv8Z2k",
+                "title": "【MINECRAFT - OLD ID SERVER】GIVING CHIHAYA A TOUR AROUND THE OLD SERVER!!【Kureiji Ollie】",
+                "thumbnail": "https://i.ytimg.com/vi/AWS-iyv8Z2k/hqdefault.jpg?v=67b4315c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDD7A9gV2cBPDPL9XEuiD4Zi0Qa6A",
+                "description": "#IOLLIE #OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n==========================================\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/te..."
+            }
+        ]
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
@@ -322,20 +329,20 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/TejsfeJ29zBtQDJhP2TKDFAEk98-LuGRBGqrNIjbGQ05T9R5Jcl_VfsK27LZ_PXJmRP7DECk-w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "QhRBs4PPCmc",
+                "title": "【Minecraft /マイクラ】天才建築家のオリー先輩に旧鯖のID鯖を案内してもらう！！！【#Kureiji Ollie #輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "thumbnail": "https://i.ytimg.com/vi/QhRBs4PPCmc/hqdefault.jpg?v=67b391b3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9RxpS9TFFb0I65GMEhWofa0Vh1g",
+                "description": "オリーせんぱいの建築に大感動していたら案内まで！？！？\nたくさん勉強します！！\n\nサムネイルも作ってくれました！！！！！！\n\nお相手..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/GF0wbwZvZAGzYg8s8d6Yh1BDcWAE9UmLAh2uf3IMJ5l_ESi3sWeRqk2XfhW3IgzMeliHpt4cAw",
-        "videos": [
-            {
-                "video_id": "t9iYK9qUtdo",
-                "title": "【はげーぼー２周年】おめでとう・・・はげーぼーの為に歌うよ【#ホロライブ #ロボ子さん 】",
-                "thumbnail": "https://i.ytimg.com/vi/t9iYK9qUtdo/hqdefault.jpg?v=67b40aa5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDyMcbPcnTk-EemQ7RAIVC6FG_uAw",
-                "description": "💬＃ロボ子生放送　でポストしてってね✨\n\n\n\n📢Memberはこちらから❧\nhttps://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g/join\n・月一メンバー壁紙配布中💝..."
-            }
-        ]
+        "videos": []
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -378,13 +385,27 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "BZwLFAN7Es4",
+                "title": "【#白銀ノエル200万人】ついに！！200万人いくまで気持ちをこめて歌います🎤💖【白銀ノエル/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/BZwLFAN7Es4/hqdefault.jpg?v=67b3fad6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCizZeKoglRsZUgAVnaNO_S1Iy4OQ",
+                "description": "昨年からずっと目標にしてた200万人！！！！みんなで見届けよう！\n\n[NEW]🔥焚火ASMRボイス販売中🔥→ https://shop.hololivepro.com/products/hololive_asmr_chillinb..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Hi21dEGDTZY",
+                "title": "【デバッグデッドライン】デバッグ会社のアルバイトとしてゲームの異変をみつけるぞ！【獅白ぼたん/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/Hi21dEGDTZY/hqdefault.jpg?v=67b36c50&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhr7aol792ulsGrVkpUjl5RaMT_A",
+                "description": "アットホームな職場です\n\n配信ハッシュタグ：#ぐうたらいぶ\n本ゲームは、ガイドラインに則り配信、収益化を行っています。\nデバッグデッドライ..."
+            }
+        ]
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
@@ -408,14 +429,7 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": [
-            {
-                "video_id": "d54WWb9FgkY",
-                "title": "【歌枠】そらのどで歌枠しちゃうよ♪【ホロライブ/ときのそら/春先のどか】",
-                "thumbnail": "https://i.ytimg.com/vi/d54WWb9FgkY/hqdefault.jpg?v=67b3dbdd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC7OTVjdHM97BSDM5PT0Yyk0NoG5Q",
-                "description": "～サムネ～\n春先のどかちゃん\n一緒にお歌です！はじめてだ！ドキドキ♪\n\n～カラオケ～\nカラオケアプリ\n※このライブに用いている一部の音源は..."
-            }
-        ]
+        "videos": []
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
@@ -481,7 +495,14 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Nz9zxNxUO7E",
+                "title": "【Yu-Gi-Oh! MASTER DUEL 】 Teaching a Cat How to Duel 😼🔥 | #sponsored",
+                "thumbnail": "https://i.ytimg.com/vi/Nz9zxNxUO7E/hqdefault.jpg?v=67b41bbf&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB14OXpYjBEyf7X50-_rBQln2_ulg",
+                "description": "download the game here https://bit.ly/yugiohmd \n\n& the wonderful coach ‪@Colossa‬ !!\n\n\nRULES!\n▶Please only use English and Japanese in the chat.\n▶Please be respectful towards everyone...."
+            }
+        ]
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
@@ -505,7 +526,14 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "bSPv5kBBW54",
+                "title": "【Minecraft】新ホロ鯖だっちゃ！！！！！！！！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
+                "thumbnail": "https://i.ytimg.com/vi/bSPv5kBBW54/hqdefault.jpg?v=67b46920&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNfv2bPVDaz6RSE3d05uuskx3sZg",
+                "description": "本日もゲリラ\n\nサムネイラスト：憂姫はぐれ(@yuukihagure)マッマ\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usada..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
