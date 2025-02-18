@@ -171,15 +171,7 @@
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
         "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/4XC0YEED9T4kvdLbJNK5f8GRCUNJds21yPXR4lNgH_CCjR-gbOYzod-vjfbH93YNFm6CiSSskA",
-        "videos": [
-            {
-                "video_id": "c1Zk7G41AQ8",
-                "title": "【Minecraft】地　下　に　オ　ア　シ　ス　を　作　ろ　う　と　思　う　【虎金妃笑虎】",
-                "date": "2025/02/18 11:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/c1Zk7G41AQ8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYHRT85yok5WNf0Q1wzHNEZbgzHg",
-                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n【使用MOD】\n使用MOD：Comp..."
-            }
-        ]
+        "videos": []
     },
     "@KosekiBijou": {
         "channel_url": "https://www.youtube.com/@KosekiBijou",
@@ -335,7 +327,29 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/GF0wbwZvZAGzYg8s8d6Yh1BDcWAE9UmLAh2uf3IMJ5l_ESi3sWeRqk2XfhW3IgzMeliHpt4cAw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "QDaBBoHVlp8",
+                "title": "【オフコラボ】ANYA COME HOMEEEEEEE【Hololive robocosan/anya】",
+                "date": "2025/02/20 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/QDaBBoHVlp8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFxBSlpvmK4EJ9wil1-1CQ0yurBw",
+                "description": "💬＃ろぼんちょお家対談　でポストしてってね✨\n\nXでこれから質問募集します！タグと一緒にかんがえてくだちゃい＞＜\n\n\n📢Memberはこちらから❧..."
+            },
+            {
+                "video_id": "SJAS8Mtk2mU",
+                "title": "【 バイオハザードHDリマスター＃３ 】完全初見のバイオハザード！アニマルヤメテネ【ホロライブ /ロボ子さん 】",
+                "date": "2025/02/22 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/SJAS8Mtk2mU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFPOiEzzR12k09TQEVc8Le5tbK9g",
+                "description": "💬#ロボ子生放送　でポストしてってね✨\n初めての　＃バイオハザード　に挑戦、優しく見守っててね\n　\"この動画およびライブは\n　株式会社カ..."
+            },
+            {
+                "video_id": "ZEgFnvK-8b0",
+                "title": "【Member Only】ろぼちゃの日曜むーびー❣🎬映画『ジェラシックパーク』 同時視聴🍿",
+                "date": "2025/02/23 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ZEgFnvK-8b0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUZeCzAhmvVk1UmPNOhLBc9lYteA",
+                "description": "💬 #秘密のロボ子さん　でポストしてってね✨\n\n\n毎週日曜１８時～２０時に\nメンバーさんと一緒に映画を見てるよ👀\n一緒にみない。。？\n\n近くに..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
