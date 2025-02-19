@@ -42,14 +42,7 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": [
-            {
-                "video_id": "-PqUwzol03Y",
-                "title": "【MHW:IB/モンハンワールド 】再戦の時。ミラボレアス討伐リベンジ！！  #ネオポリスモンハン部 w/エビオ、こはく、ととみっくす【ホロライブ/アキロゼ】",
-                "thumbnail": "https://i.ytimg.com/vi/-PqUwzol03Y/hqdefault.jpg?v=67b55297&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCrY4BR5WrRZPaCQennAT0LgAF-qg",
-                "description": "初見で立ち向かう喜びと恐怖に打ち勝ち進むぞ！\nゼロから始めるミラボレアス討伐目指してひと狩りいこーぜ！\n\n前回➡https://youtube.com/live/G1hUBcm7wG..."
-            }
-        ]
+        "videos": []
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -493,7 +486,14 @@
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
         "channel_name": "Choco Ch. 癒月ちょこ",
         "avatar_url": "https://yt3.googleusercontent.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "LEi5wFbG1sw",
+                "title": "【録画はメン限】深夜の吐息ASMR【ホロライブ/癒月ちょこ】",
+                "thumbnail": "https://i.ytimg.com/vi/LEi5wFbG1sw/hqdefault.jpg?v=67b5f29b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDH3_eLZg10e07HZ69G9Z2xlSOrDg",
+                "description": "サブ垢→https://www.youtube.com/channel/UCp3tgHXw_HI0QMk1K8qh3g\n\n癒月ちょこ 誕生日記念2025\n■販売ページURL\nhttps://shop.hololivepro.com/products/yuzukichoco_bd2025\n\nOP＆ED動..."
+            }
+        ]
     },
     "@dooby3d": {
         "channel_url": "https://www.youtube.com/@dooby3d",
