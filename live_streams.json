@@ -106,7 +106,14 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "r1yH16aU2kM",
+                "title": "【DEVIL MAY CRY 4】Adios Kid!!",
+                "thumbnail": "https://i.ytimg.com/vi/r1yH16aU2kM/hqdefault.jpg?v=67b4c475&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAm2xU7TlIOdYuVRGu7eWlnuL0J-g",
+                "description": "KYRIEEEEEEEEE\n\nThis video and livestream are being streamed with permission and under license by CAPCOM CO., LTD.\nDevil May Cry \n©CAPCOM CO., LTD. ALL RIGHTS RESERVED.\n/ILLUSTRATIONS：Kazuma..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",

@@ -115,15 +115,7 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": [
-            {
-                "video_id": "r1yH16aU2kM",
-                "title": "【DEVIL MAY CRY 4】Adios Kid!!",
-                "date": "2025/02/19 11:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/r1yH16aU2kM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAm2xU7TlIOdYuVRGu7eWlnuL0J-g",
-                "description": "KYRIEEEEEEEEE\n\nThis video and livestream are being streamed with permission and under license by CAPCOM CO., LTD.\nDevil May Cry \n©CAPCOM CO., LTD. ALL RIGHTS RESERVED.\n/ILLUSTRATIONS：Kazuma..."
-            }
-        ]
+        "videos": []
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -245,7 +237,15 @@
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "_NBmcMHztmI",
+                "title": "【 Minecraft 】ポルカの水上コテージのために～！【ホロライブ/夏色まつり】",
+                "date": "2025/02/19 11:15:00",
+                "thumbnail": "https://i.ytimg.com/vi/_NBmcMHztmI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgeRnfV612Y_HcaswgqUO4esrOeQ",
+                "description": "...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\n\n素敵なサムネイル→もちょみ様\n@motityomi\n\n\n\n\n本ゲームは Mojang に確認を得..."
+            }
+        ]
     },
     "@NekomataOkayu": {
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
@@ -369,7 +369,15 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "SPrNpnIkxFk",
+                "title": "【Minecraft】0から始まる新ホロ鯖！！！2日ぶりのマイクラだあああ🔨⚡【白銀ノエル/ホロライブ】",
+                "date": "2025/02/19 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/SPrNpnIkxFk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDY5-zhv7qU9A5tkaNJXSbsbaN3YQ",
+                "description": "新しいトラチャン地図だしたり冒険したい！\n\n[NEW]🔥焚火ASMRボイス販売中🔥→ https://shop.hololivepro.com/products/hololive_asmr_chillinbythecampfire?_pos=2&_fid=86a4c..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -419,7 +427,15 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/4wLMmSJkzy4vmWfWYkmzn6YO9T__jp1cORNuFXN7YyihwvhGkqXCxNBaklKoXlgdik-Fp0Zu",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "9EM0yJdb_Ig",
+                "title": "【 Minecraft 】さあ、シンボルを作ろう..........！！！【角巻わため/ホロライブ４期生】",
+                "date": "2025/02/19 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/9EM0yJdb_Ig/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXUEBD_R0I_jLeUPp3eVG2Xl2cjg",
+                "description": "先に前回の続き部分や、細々したことやります！\nタグ：#ドドドライブ\n\n※本ゲームは Mojang に確認を得た上、Terms and Conditions\n (https://account.mojang.com/..."
+            }
+        ]
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
