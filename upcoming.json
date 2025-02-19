@@ -15,15 +15,7 @@
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
         "avatar_url": "https://yt3.googleusercontent.com/Ob0LQV8-i9FXY_GX4AEnsWsxvYUojcYtjZjtLsmjQRtPoYMZN5qWAe9hRhy7sMa19PlF61BG",
-        "videos": [
-            {
-                "video_id": "A-kEPKNH4ro",
-                "title": "【MINECRAFT】ダイヤ掘り💎&天空都市つくりする～～～！！！🌟【ホロライブ/赤井はあと】",
-                "date": "2025/02/19 21:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/A-kEPKNH4ro/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCc5PiR3jeeipHZeKZI3rJiBpQ5MQ",
-                "description": "Thumbnail:ニャドラ先輩\nhttps://x.com/nyanyadora\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に\n基づいて配信・収益化を..."
-            }
-        ]
+        "videos": []
     },
     "@AkiRosenthal": {
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
@@ -85,7 +77,15 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "h1HAv22tAWs",
+                "title": "【 #Vtuber甲子園2025 】パワプロ栄冠ナイン！ホロライブ高校2年目秋の大会スタート！～4勝したい大事な秋～ #6 【博衣こより/ホロライブ】",
+                "date": "2025/02/20 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/h1HAv22tAWs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBiEEJVe2PU4POiUVrboNbI-sTGtw",
+                "description": "#Vtuber甲子園2025 昨年優勝ホロライブ高校、ディフェンディングチャンピオン🏆として頑張ろうと思った矢先、1年目新入生ガチャが先輩含めヤバか..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -187,15 +187,7 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw",
-        "videos": [
-            {
-                "video_id": "bnIIF3Epznc",
-                "title": "【Minecraft 】今日はまったりダイヤ掘り【水宮枢／FLOW GLOW】#hololiveDEV_IS",
-                "date": "2025/02/19 21:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/bnIIF3Epznc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRA1aFlZg6xX8MfgsuRIFmO3SZAQ",
-                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n素敵なイラスト⬇️..."
-            }
-        ]
+        "videos": []
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
