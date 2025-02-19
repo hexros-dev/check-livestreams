@@ -185,14 +185,7 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw",
-        "videos": [
-            {
-                "video_id": "bnIIF3Epznc",
-                "title": "【Minecraft 】今日はまったりダイヤ掘り【水宮枢／FLOW GLOW】#hololiveDEV_IS",
-                "thumbnail": "https://i.ytimg.com/vi/bnIIF3Epznc/hqdefault.jpg?v=67b5d331&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRA1aFlZg6xX8MfgsuRIFmO3SZAQ",
-                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n素敵なイラスト⬇️..."
-            }
-        ]
+        "videos": []
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -265,7 +258,14 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "KiF12GTpR0Q",
+                "title": "【OHAPOL】#146  2/20木曜日！木曜日はぽるでんのひだよ！ #ポルカ公演中 【尾丸ポルカ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/KiF12GTpR0Q/hqdefault.jpg?v=67b64680&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfTcSrz45WMUXzrm0Y-Qv1VwscDw",
+                "description": "✨✨誕生日記念グッズ発売中！！！！✨✨\nホテルマンがコンセプトな今回は\n茨木春先生描き下ろし「B2タペストリー」や、「ランダムドアプレー..."
+            }
+        ]
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
