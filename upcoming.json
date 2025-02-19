@@ -71,15 +71,7 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": [
-            {
-                "video_id": "Ny51Ur3vR_k",
-                "title": "≪To The Moon≫ And Back",
-                "date": "2025/02/19 08:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Ny51Ur3vR_k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCA9uNFxna3hjOqQwXdsBjbjXiVAQ",
-                "description": "Will she cry? \n\nThumbnail: https://x.com/nyangnyang3580/status/1589979478369132546\n#telebae #hololiveenglish #febaerary \n\n««≪ °◇◆◇° ≫ »»\nThis game is being streamed and monetized..."
-            }
-        ]
+        "videos": []
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -213,7 +205,15 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/FT92k-lGkFhElXOuq3KlwCvCpWPlEYwtAy2tjRibnmkrPP-Aaksbf2_P7XY26O9R2W4efoP7",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "DWKBCuTRmMA",
+                "title": "【NEW MINECRAFT SERVER】What if the house was pink? #calliolive",
+                "date": "2025/02/20 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/DWKBCuTRmMA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBA_-oVe1107Gdr9uHdsk8uZAR-zA",
+                "description": "SOLO LIVE TICKETS ON SALE NOW!\nhttps://www.ticketmaster.com/event/0900618BF1E836DE\n\nPrecautions\n*For General Admission area will be all-standing. \n*For Early Entry GA Ticket you will be able..."
+            }
+        ]
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
