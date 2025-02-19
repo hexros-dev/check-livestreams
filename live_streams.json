@@ -106,14 +106,7 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": [
-            {
-                "video_id": "r1yH16aU2kM",
-                "title": "【DEVIL MAY CRY 4】Adios Kid!!",
-                "thumbnail": "https://i.ytimg.com/vi/r1yH16aU2kM/hqdefault.jpg?v=67b4c475&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAm2xU7TlIOdYuVRGu7eWlnuL0J-g",
-                "description": "KYRIEEEEEEEEE\n\nThis video and livestream are being streamed with permission and under license by CAPCOM CO., LTD.\nDevil May Cry \n©CAPCOM CO., LTD. ALL RIGHTS RESERVED.\n/ILLUSTRATIONS：Kazuma..."
-            }
-        ]
+        "videos": []
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -131,7 +124,14 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/K39Md5CGHmCaMC5Ne3UWBzblgzDhUzXUFszrHfGapCvOldc8E7fWw3pxN0zhcjmoht4GngnD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "cli-Rfe0-no",
+                "title": "【メン限配信】ちょおおおまったりと♡【ホロライブ DEV_IS 響咲リオナ】",
+                "thumbnail": "https://i.ytimg.com/vi/cli-Rfe0-no/hqdefault.jpg?v=67b59c61&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_dx1zMnUzDuSeLuE9X161EP6-dw",
+                "description": "生音風カラオケ屋www.youtube.com/‪@namakara‬ \n【プロが作る】カラオケちゃんねる【高音質】\n   / @プロが作るカラオケちゃんねる高音  \nこのライブに..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -149,7 +149,14 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/XXZ4apG-FPN8G8DpYacbnwxs7S5tf2tjV_u2Eaot3JHGAkSPFBYaGMOyJcAHhLYy_u11JD7O29I",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "lSOiDJCNRRU",
+                "title": "【25万人耐久】25万人目指して耐久雑談歌枠【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "thumbnail": "https://i.ytimg.com/vi/lSOiDJCNRRU/hqdefault.jpg?v=67b58bd9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCC4eloUBr8SLr1zVJO08JG5OYIbQ",
+                "description": "サムネイルの素敵なイラスト SUICABAR72さん　https://x.com/SUICABAR72　\n\n\n✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧\n\nhololive DEV_ISからデビュ..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -350,7 +357,14 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "SPrNpnIkxFk",
+                "title": "【Minecraft】0から始まる新ホロ鯖！！！2日ぶりのマイクラだあああ🔨⚡【白銀ノエル/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/SPrNpnIkxFk/hqdefault.jpg?v=67b558bd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDY5-zhv7qU9A5tkaNJXSbsbaN3YQ",
+                "description": "新しいトラチャン地図だしたり冒険したい！\n\n[NEW]🔥焚火ASMRボイス販売中🔥→ https://shop.hololivepro.com/products/hololive_asmr_chillinbythecampfire?_pos=2&_fid=86a4c..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -452,7 +466,14 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "tmDiRGEj6CQ",
+                "title": "【Minecraft】こんにちは！観光案内v2 ござるさん！しゃべりきつくなるまで！【風真いろは/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/tmDiRGEj6CQ/hqdefault.jpg?v=67b59d26&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCm-qJpYhuqTuziBrk-dI12Y2mlig",
+                "description": "作ってきたものをご紹介する枠💭\n調子が良ければそのまま配信する！\nイラスト▼\nhttps://x.com/twumi425/status/1887076660702593347\n\n本ゲームは Mojang に確認..."
+            }
+        ]
     },
     "@mikenekoko": {
         "channel_url": "https://www.youtube.com/@mikenekoko",

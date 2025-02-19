@@ -199,15 +199,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/XXZ4apG-FPN8G8DpYacbnwxs7S5tf2tjV_u2Eaot3JHGAkSPFBYaGMOyJcAHhLYy_u11JD7O29I",
-        "videos": [
-            {
-                "video_id": "lSOiDJCNRRU",
-                "title": "【25万人耐久】25万人目指して耐久雑談歌枠【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "date": "2025/02/19 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/lSOiDJCNRRU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCC4eloUBr8SLr1zVJO08JG5OYIbQ",
-                "description": "サムネイルの素敵なイラスト SUICABAR72さん　https://x.com/SUICABAR72　\n\n\n✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧\n\nhololive DEV_ISからデビュ..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -462,15 +454,7 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": [
-            {
-                "video_id": "SPrNpnIkxFk",
-                "title": "【Minecraft】0から始まる新ホロ鯖！！！2日ぶりのマイクラだあああ🔨⚡【白銀ノエル/ホロライブ】",
-                "date": "2025/02/19 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/SPrNpnIkxFk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDY5-zhv7qU9A5tkaNJXSbsbaN3YQ",
-                "description": "新しいトラチャン地図だしたり冒険したい！\n\n[NEW]🔥焚火ASMRボイス販売中🔥→ https://shop.hololivepro.com/products/hololive_asmr_chillinbythecampfire?_pos=2&_fid=86a4c..."
-            }
-        ]
+        "videos": []
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -494,7 +478,15 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/LObfzJe4AIufIErJzQy1xzwQcA5AX6rJh8AxJe-qvG2yBO-tbTVDwXqOkoeK_MoGPC6C3lMxQ_c",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "6nilgnlofds",
+                "title": "【Minecraft】あそびにきたぁ～！【轟はじめ/ReGLOSS】 #hololivedev_is",
+                "date": "2025/02/19 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/6nilgnlofds/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnsMzqwGHLZqFagKZs2FgQZvXBbA",
+                "description": "素敵なサムネお写真：ぽめ！様（@Pome_eee）\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化..."
+            }
+        ]
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
