@@ -21,14 +21,7 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": [
-            {
-                "video_id": "D4vKqU9HeMs",
-                "title": "【ASA￤Astraeos】最新MAPアストレオス！緊急スト鯖OPENされたのでいってみる！【アキロゼ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/D4vKqU9HeMs/hqdefault.jpg?v=67b73cd0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8Ozwtzy68LKdpuu9E7WQlJ4emQQ",
-                "description": "前のエクスティンクションの時みたいな感じで土井さんが開いてくれたサーバーらしい！\n誘ってもらったのでいってみるYO！\n\n配信タグ #アキびゅ..."
-            }
-        ]
+        "videos": []
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -318,7 +311,14 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZlovVsPyh8NgS37S4dfONiCBySiboGPbT9cYuirb8JM3JhSnqlpJk-8SQUEA7jPfqXpMvjaa",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "3-w9gHmvcRI",
+                "title": "Novelites, Assemble!【Sherlock Holmes: The Awakened】Pt.2",
+                "thumbnail": "https://i.ytimg.com/vi/3-w9gHmvcRI/hqdefault.jpg?v=67b1586e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCl1BAl53Gw8dD4HpUmOUHJrf7p7Q",
+                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n\n==============..."
+            }
+        ]
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
