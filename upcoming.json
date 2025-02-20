@@ -169,7 +169,15 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "g1SeRXCACGo",
+                "title": "【MINECRAFT NEW WORLD SERVER】LET'S GET OUR WINGS!",
+                "date": "2025/02/21 12:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/g1SeRXCACGo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAjr0RcCLmEBJ4kkT-1Sxg1QiFMA",
+                "description": "with @holoen_raorapanthera and @KaelaKovalskia \n\nThumbnail Art: @Moru2w thank you!\nhttps://x.com/Moru2w/status/1888602080811810862/photo/1\n\nMinecraft Skin: @aozane\n\nCODE:81800 new outfit reveal..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -199,15 +207,7 @@
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
         "channel_name": "Moona Hoshinova hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/9e7J_lAxCEZO6IRC_Sl3Gj-bt9uPvSXolU_vBpmqWABzv99oHxzbYhWWgvRI_c2qmB4jH0p_ZA",
-        "videos": [
-            {
-                "video_id": "PcbW3Wdg_fQ",
-                "title": "【Dead By Daylight】Help us...【Moona Hoshinova】",
-                "date": "2025/02/20 23:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/PcbW3Wdg_fQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0JYPwy_ueZPx_N9iTMSR6CVpUvw",
-                "description": "Streamlabs donation link here : https://streamlabs.com/moonahoshinovahololive-id/tip\nSociaBuzz donation link here : https://sociabuzz.com/moonahoshinova/tribe\n======================================..."
-            }
-        ]
+        "videos": []
     },
     "@MoriCalliope": {
         "channel_url": "https://www.youtube.com/@MoriCalliope",
