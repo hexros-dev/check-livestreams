@@ -377,14 +377,7 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/GF0wbwZvZAGzYg8s8d6Yh1BDcWAE9UmLAh2uf3IMJ5l_ESi3sWeRqk2XfhW3IgzMeliHpt4cAw",
-        "videos": [
-            {
-                "video_id": "QDaBBoHVlp8",
-                "title": "【オフコラボ】ANYA COME HOMEEEEEEE　＃ろぼーにゃ【Hololive robocosan/anya】",
-                "thumbnail": "https://i.ytimg.com/vi/QDaBBoHVlp8/hqdefault.jpg?v=67b407a4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFxBSlpvmK4EJ9wil1-1CQ0yurBw",
-                "description": "💬＃ろぼーにゃ　でポストしてってね✨\n\nXでこれから質問募集します！\n@AnyaMelfissa \n\n📢Memberはこちらから❧\nhttps://www.youtube.com/channel/UCDqI2jOz0weumE8s7p..."
-            }
-        ]
+        "videos": []
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -558,7 +551,14 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ZhEV_7TRgnM",
+                "title": "【NEW MINECRAFT WORLD】 BACK TO WORK! #CiaoRaora",
+                "thumbnail": "https://i.ytimg.com/vi/ZhEV_7TRgnM/hqdefault.jpg?v=67b6b2e7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1KFB6-99foX2_SfC4-SeDcwIofw",
+                "description": "『 X formely Twitter 』\nhttps://x.com/raorapanthera\n\n『 Hashtags 』\n╰┈➤ Live  #CiaoRaora\n╰┈➤ Fanarts  #RaorArt\n╰┈➤ Clips  #RaraWara\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
+            }
+        ]
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
