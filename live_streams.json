@@ -359,7 +359,14 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ISZULzPM8fU",
+                "title": "【Minecraft】執筆しないと。謎の作者も登場だ！！【ホロライブ/ときのそら】",
+                "thumbnail": "https://i.ytimg.com/vi/ISZULzPM8fU/hqdefault.jpg?v=67b6e5ff&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLufTGlB0b3WdqnMLyzmRQl39lgA",
+                "description": "いつ使うかさっぱりわからないけど、なんか本を書いてみる。\nPNでんでんとはいったい！？\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
