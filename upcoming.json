@@ -89,7 +89,7 @@
             {
                 "video_id": "h1HAv22tAWs",
                 "title": "【 #Vtuber甲子園2025 】パワプロ栄冠ナイン！ホロライブ高校2年目秋の大会スタート！～4勝したい大事な秋～ #6 【博衣こより/ホロライブ】",
-                "date": "2025/02/20 17:00:00",
+                "date": "2025/02/20 18:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/h1HAv22tAWs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBiEEJVe2PU4POiUVrboNbI-sTGtw",
                 "description": "#Vtuber甲子園2025 昨年優勝ホロライブ高校、ディフェンディングチャンピオン🏆として頑張ろうと思った矢先、1年目新入生ガチャが先輩含めヤバか..."
             }
@@ -156,15 +156,7 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/K39Md5CGHmCaMC5Ne3UWBzblgzDhUzXUFszrHfGapCvOldc8E7fWw3pxN0zhcjmoht4GngnD",
-        "videos": [
-            {
-                "video_id": "4pQe9RQz_DE",
-                "title": "【 Minecraft 】お気持ち用ダイヤ堀り・おうち・リオイーツ！！！！✨＃１３【ホロライブ DEV_IS 響咲リオナ】",
-                "date": "2025/02/20 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/4pQe9RQz_DE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATGYIevcP-F6C0XKGTzOuYq3vuMg",
-                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております。\n\n♡...\n\nサムネイラスト..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -218,7 +210,15 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "KKNDI6sTpXU",
+                "title": "【Minecraft 】初オークション参加と倉庫作り【水宮枢／FLOW GLOW】#hololiveDEV_IS",
+                "date": "2025/02/20 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/KKNDI6sTpXU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDucqtiO1a-fWQ3WIsCVuJS67a_Iw",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n素敵なイラスト⬇️..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -382,13 +382,6 @@
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/GF0wbwZvZAGzYg8s8d6Yh1BDcWAE9UmLAh2uf3IMJ5l_ESi3sWeRqk2XfhW3IgzMeliHpt4cAw",
         "videos": [
-            {
-                "video_id": "QDaBBoHVlp8",
-                "title": "【オフコラボ】ANYA COME HOMEEEEEEE　＃ろぼーにゃ【Hololive robocosan/anya】",
-                "date": "2025/02/20 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/QDaBBoHVlp8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFxBSlpvmK4EJ9wil1-1CQ0yurBw",
-                "description": "💬＃ろぼーにゃ　でポストしてってね✨\n\nXでこれから質問募集します！\n@AnyaMelfissa \n\n📢Memberはこちらから❧\nhttps://www.youtube.com/channel/UCDqI2jOz0weumE8s7p..."
-            },
             {
                 "video_id": "SJAS8Mtk2mU",
                 "title": "【 バイオハザードHDリマスター＃３ 】完全初見のバイオハザード！アニマルヤメテネ【ホロライブ /ロボ子さん 】",
