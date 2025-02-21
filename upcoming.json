@@ -79,15 +79,7 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": [
-            {
-                "video_id": "s7CP5jdhqKQ",
-                "title": "≪JP WEEK・日本語配信≫ 一週間日本語配信開始！！！",
-                "date": "2025/02/21 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/s7CP5jdhqKQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzesojGUn8barnkXBZsBaRUurPKg",
-                "description": "JP WEEK BEGINS!!!!\n\nThumbnail Art: https://x.com/RamphastoStella/status/1892488483136295227\n\n#telebae #hololiveenglish #febaerary \n\n««≪ °◇◆◇° ≫ »»\n\nWelcome to JP WEEK! This..."
-            }
-        ]
+        "videos": []
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -225,7 +217,15 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "GddzFXqXdP8",
+                "title": "【Minecraft 】ブラマイと建築【水宮枢／FLOW GLOW】#hololiveDEV_IS",
+                "date": "2025/02/21 20:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/GddzFXqXdP8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAchag-GTi_eyK4wNDh4J5U8LrllA",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n【使用MOD】\n使用MOD：Opti..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -267,7 +267,22 @@
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Dh5eHlVuhfg",
+                "title": "【 Minecraft 】ポルカの水上コテージ完成します～！【ホロライブ/夏色まつり】",
+                "date": "2025/02/22 13:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Dh5eHlVuhfg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADLJEPKO0i3ojK5Og9ixYAddzufg",
+                "description": "...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\n\n素敵なサムネイル→もちょみ様\n@motityomi\n\n\n\n\n本ゲームは Mojang に確認を得..."
+            },
+            {
+                "video_id": "KM8d6hh4QCw",
+                "title": "【歌枠】猫の日🐈KAWAII SONG!!【ホロライブ/夏色まつり】",
+                "date": "2025/02/22 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/KM8d6hh4QCw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBu6ij63jaTQ-6bIly81BIvg5sFmg",
+                "description": "...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\n\n素敵なサムネイル→好恵エネコ様\n@YoshieEneko\n\n...｡oо○**○оo｡...｡oо○**..."
+            }
+        ]
     },
     "@NekomataOkayu": {
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
@@ -391,15 +406,7 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/3st5iCi65fsN1P4-yTbWLHZH84eLsPqWsQ4MBkR1J72FW8pBm2IpHxFGtQ84ZFCcCX8sGJl-Ag",
-        "videos": [
-            {
-                "video_id": "QZBOzpr7ABg",
-                "title": "【  Minecraft 】新ホロ鯖で成り上がりからのからのからのからの！！！！【ホロライブ/さくらみこ】",
-                "date": "2025/02/21 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/QZBOzpr7ABg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_X5b_NVCD8OcFk2SAuhNyqo1TQA",
-                "description": "⪩⪨　お知らせ/ɪɴғᴏ\n￣￣￣￣￣￣￣￣￣￣￣￣￣\n　🌸さくらみこ 1st Album \n　　『flower rhapsody』 販売中！\n　　  https://cover.lnk.to/flowerrhapsody..."
-            }
-        ]
+        "videos": []
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
@@ -469,15 +476,7 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": [
-            {
-                "video_id": "3xVPjskhJ3Y",
-                "title": "【holo8】事務所の異変を見つけ出す。【ホロライブ/ときのそら】",
-                "date": "2025/02/21 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/3xVPjskhJ3Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOKsmUgUFDl6Bq4uLxeu-30fx9cw",
-                "description": "ホロライブの異変っていったい・・・。\n\n本ゲームは holo Indie の承諾を得た上で配信・収益化を行っております。\nThis game is being streamed and monetized..."
-            }
-        ]
+        "videos": []
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
@@ -495,15 +494,7 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
-        "videos": [
-            {
-                "video_id": "3QugBrm8QLA",
-                "title": "【アソビ大全 Clubhouse 51】Matsuzeta is back!!!! Neechan fight~!",
-                "date": "2025/02/21 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/3QugBrm8QLA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCidtkCoiMgc0-QxJoVeth5nF_N9g",
-                "description": "with @NatsuiroMatsuri \n\nGame title: Clubhouse Games™: 51 Worldwide Classics\nNintendo properties used in this video and livestream are used with permission and under license by Nintendo Co.,..."
-            }
-        ]
+        "videos": []
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
