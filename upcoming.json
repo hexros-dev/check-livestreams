@@ -145,7 +145,15 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "y70zJj1qTfA",
+                "title": "【Project Wingman】My Wings will TAKE FLIGHT",
+                "date": "2025/02/22 11:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/y70zJj1qTfA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-Og673UFos0fZatkb3i5hyhl80A",
+                "description": "Experiencing fighter jet combat without the motion sickness? YEAAAA\n\nThis game is distributed and monetized after obtaining confirmation from the rights holder.\n#hololiveenglish  #ホロライブ..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
