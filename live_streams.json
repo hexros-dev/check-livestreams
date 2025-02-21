@@ -133,14 +133,7 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/JyixAV--9ZFWIMEwRQFbZhkiQTEvb1ALCdX7bW9BarpyLBjAnbbmc98jymhVT_pZlJpWaDwk",
-        "videos": [
-            {
-                "video_id": "aAdU61f_vgI",
-                "title": "【メンバー限定】スパチャ読みす～る【一条莉々華/hololive DEV_IS　ReGLOSS】",
-                "thumbnail": "https://i.ytimg.com/vi/aAdU61f_vgI/hqdefault.jpg?v=67b85ac2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDuYZDq3ag-ThAK0rCnd3QltmGpOQ",
-                "description": "素敵なイラスト～🌸\nshie(しいちゃん)\n@shiechyan\n\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧\n\n合言葉は「可愛い！ポジティブ！ジーニアス！」..."
-            }
-        ]
+        "videos": []
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -195,14 +188,7 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg",
-        "videos": [
-            {
-                "video_id": "g1SeRXCACGo",
-                "title": "【MINECRAFT NEW WORLD SERVER】LET'S GET OUR WINGS!",
-                "thumbnail": "https://i.ytimg.com/vi/g1SeRXCACGo/hqdefault.jpg?v=67b74dbb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAjr0RcCLmEBJ4kkT-1Sxg1QiFMA",
-                "description": "with @holoen_raorapanthera and @KaelaKovalskia \n\nThumbnail Art: @Moru2w thank you!\nhttps://x.com/Moru2w/status/1888602080811810862/photo/1\n\nMinecraft Skin: @aozane\n\nCODE:81800 new outfit reveal..."
-            }
-        ]
+        "videos": []
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -323,7 +309,14 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ch71ZKEkuY8",
+                "title": "【Minecraft】PAVONASHI OCEAN ADVENTURE with Kiara【Pavolia Reine/hololiveID 2nd gen】",
+                "thumbnail": "https://i.ytimg.com/vi/ch71ZKEkuY8/hqdefault.jpg?v=67b863f3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDojzESkXerP3j8bUBgmTwApiWl3A",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\nThis game is being streamed..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -404,7 +397,14 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "_FMjfPGKdLU",
+                "title": "【MINECRAFT】OCEAN ADVENTURES WITH WEINE #kfp #PAVONASHI",
+                "thumbnail": "https://i.ytimg.com/vi/_FMjfPGKdLU/hqdefault.jpg?v=67b7c18e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbX6DNCpAyKyMZfQOYFm0zGm11eQ",
+                "description": "WITH @PavoliaReine \nstream my new song, MIRAGE!✨https://cover.lnk.to/DQSp3S\n👀 Takanashi Kiara 1st Album \"Point of View\" 👀\nStreaming: https://cover.lnk.to/PointofView\n\n\n 🏵️[Twitter]..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
