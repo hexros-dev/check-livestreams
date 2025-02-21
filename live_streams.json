@@ -184,7 +184,14 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "aqesFOxG7RQ",
+                "title": "【 歌枠 】あさうた！singing【 桃鈴ねね / hololive 】",
+                "thumbnail": "https://i.ytimg.com/vi/aqesFOxG7RQ/hqdefault.jpg?v=67b7bf71&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZoYPSfZ44EXz72g5sfFrnSMXtbw",
+                "description": "今日は短めです！\n⸜♡⸝MemberShipに入ったらもっとねねを知れるﾖ\nhttps://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA/join\n\n⸜♡⸝各音楽サイトにてオリジ..."
+            }
+        ]
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
@@ -407,14 +414,7 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/LnJxTvrkHQFdFlyMY2HPtXVEwA7KHlUp8rNzBepF1GQfPQjUN9yKGIqSYOD31F22Ow9vSTn9",
-        "videos": [
-            {
-                "video_id": "D2_iHYFl3sg",
-                "title": "【RESIDENT EVIL 6】Fighting our demons",
-                "thumbnail": "https://i.ytimg.com/vi/D2_iHYFl3sg/hqdefault.jpg?v=67b79661&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChvZGQg1VSojpwGW1FhUUh_BVYXQ",
-                "description": "--------------------------\n\n--------------------------\nHashtags\n📺 Livestream: #ImmerScreen \n🎨 Fanart: #Immergination\n🎻 Music: #ImmerPiece\n🤡 Memes: #ImmerMemes \n-------------------------..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
