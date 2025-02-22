@@ -9,20 +9,20 @@
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
         "channel_name": "Airani Iofifteen Channel hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/bF91weVtAIL7Uhnr2HVwtCTLVKK5kVsn4FC_Ze3Gl8rkSsEjDwyey3AbQ1PDfJQ1Oeac5cePeg",
-        "videos": [
-            {
-                "video_id": "GYzE8O__Szk",
-                "title": "【 SuchArt: Genius Artist Simulator 】🎨🎨🎨🎨【 iofi / hololiveID 】",
-                "thumbnail": "https://i.ytimg.com/vi/GYzE8O__Szk/hqdefault.jpg?v=67b97310&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC25CSIdXE5lpjyI3mcGCbOhng1Pw",
-                "description": "#ioLyfe #Airani_Iofifteen #hololive #holoID \n\n本ゲームはHypeTrain Digitalに確認の上配信・収益化を行なっております。\n\n【Support & Jajanin IOFI】🎨\nIndonesia : https://s..."
-            }
-        ]
+        "videos": []
     },
     "@AkaiHaato": {
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
         "avatar_url": "https://yt3.googleusercontent.com/Ob0LQV8-i9FXY_GX4AEnsWsxvYUojcYtjZjtLsmjQRtPoYMZN5qWAe9hRhy7sMa19PlF61BG",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "W2R9ugq-ujU",
+                "title": "【Minecraft】LET'S！ほろよい天空都市つくり～～～！🌟【ホロライブ/赤井はあと】",
+                "thumbnail": "https://i.ytimg.com/vi/W2R9ugq-ujU/hqdefault.jpg?v=67b9e406&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0Gh3-FD3qqKolmbrIMcLWkl9b5g",
+                "description": "Thumbnail:淋(そそぎ)めあり先輩\nhttps://x.com/mary_is_mine/status/1884526924204240896\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms)..."
+            }
+        ]
     },
     "@AkiRosenthal": {
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
@@ -77,14 +77,7 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": [
-            {
-                "video_id": "cMvvd0nH2Tg",
-                "title": "≪お絵描き心理テスト≫ 本当のハコ太郎をみせてあげよう",
-                "thumbnail": "https://i.ytimg.com/vi/cMvvd0nH2Tg/hqdefault.jpg?v=67b93533&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOQ-L8h5XPjEooyuv9kABOYf7fuA",
-                "description": "本当の僕ってどういうものなの？\n\n#telebae #hololiveenglish #febaerary \n\n««≪ °◇◆◇° ≫ »»\n\nWelcome to JP WEEK! This week is where I try to stream in full Japanese!..."
-            }
-        ]
+        "videos": []
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -103,14 +96,7 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/CTvZ3dUO8LocQMKbGkjUPysC524gC4asm5roilZmzhpBpWAWpLrhpRv0SpEaJeWm1oVP5v0g",
-        "videos": [
-            {
-                "video_id": "ePsGE7EjKRU",
-                "title": "大人の嗜み…ウイスキー山崎を呑むのらね…🥃(・o・🍬) ～高級クラブルーナ【姫森ルーナ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/ePsGE7EjKRU/hqdefault.jpg?v=67b7690d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCXc6nfVpfSG2Hwgn8lUITYg11ww",
-                "description": "サムネイラスト\n　月と犬さん　https://twitter.com/moon2dog\n\n▷====================================◁\n\n🥚スイートスプリングイースター🥚\n2025年3月2日 (日)..."
-            }
-        ]
+        "videos": []
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -425,7 +411,14 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "fcILZy_YPO0",
+                "title": "【AGE OF EMPIRES II】how do you turn this on #kfp #キアライブ",
+                "thumbnail": "https://i.ytimg.com/vi/fcILZy_YPO0/hqdefault.jpg?v=67b99a59&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhIQKLGiAFJCiHa3tenk_1_gWs2A",
+                "description": "stream my new song, MIRAGE!✨https://cover.lnk.to/DQSp3S\n👀 Takanashi Kiara 1st Album \"Point of View\" 👀\nStreaming: https://cover.lnk.to/PointofView\n\n🏵️[Twitter] 🏵️\nhttps://twitter.c..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
@@ -542,14 +535,7 @@
         "channel_url": "https://www.youtube.com/@mikenekoko",
         "channel_name": "みけねこch",
         "avatar_url": "https://yt3.googleusercontent.com/_bT74ettx8Ei9p0zHrSbKdAe1oyaCAbbbXa9teIsxgOtlPl2RADYotJ_kGKwHsNdtWh8D2Hu",
-        "videos": [
-            {
-                "video_id": "-CSoiBw_CW8",
-                "title": "【３周年】  重大発表  &  新モデルお披露目 🎉",
-                "thumbnail": "https://i.ytimg.com/vi/-CSoiBw_CW8/hqdefault.jpg?v=67b8cbb5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQCGEfpszI4GqbYXgKHIiPCI0zCg",
-                "description": "メジャーデビュー記念☆アクリルスタンド\nhttps://www.corazon-store.com/event/2025/02-21/13048/\n\n誕生日グッズ🌟巨乳！マウスパット２/２８迄\nhttps://mikenekoko.bo..."
-            }
-        ]
+        "videos": []
     },
     "@niminightmare": {
         "channel_url": "https://www.youtube.com/@niminightmare",
