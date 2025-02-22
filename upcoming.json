@@ -323,7 +323,15 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Tp2Tj60akMU",
+                "title": "【Minecraft】 Takoyaki House Left Outside of Fridge",
+                "date": "2025/02/23 05:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Tp2Tj60akMU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAseGfuViRtlFOyfy9X6zkjBlI6uw",
+                "description": "【Thumbnail Art】\nhttps://x.com/DDOLBANG11/status/1892341060007055397\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\nThis game is being streamed and monetized after confirming with Mojang..."
+            }
+        ]
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
