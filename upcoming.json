@@ -24,13 +24,6 @@
                 "date": "2025/02/22 21:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/GYzE8O__Szk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC25CSIdXE5lpjyI3mcGCbOhng1Pw",
                 "description": "#ioLyfe #Airani_Iofifteen #hololive #holoID \n\n本ゲームはHypeTrain Digitalに確認の上配信・収益化を行なっております。\n\n【Support & Jajanin IOFI】🎨\nIndonesia : https://s..."
-            },
-            {
-                "video_id": "jxizfOLIZOw",
-                "title": "【Honor of Kings】Lose Streak Dikit Ga Ngaruh【 iofi / hololiveID 】",
-                "date": "2025/02/22 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/jxizfOLIZOw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxX3JI4wGY-YSQHV2D50r3ALM74g",
-                "description": "#ioLyfe #Airani_Iofifteen #hololive #holoID #HonorofKings #HonorofKingsIndonesia #CobaAjaDulu #MOBAFOREVERYONE\n\nThis video and livestream are being streamed and monetized with permission and..."
             }
         ]
     },
@@ -134,15 +127,7 @@
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
         "channel_name": "Suisei Channel",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
-        "videos": [
-            {
-                "video_id": "ca7CDC30jSo",
-                "title": "【Minecraft】星街村開発中‼色々出来てきたのでご紹介✨【ホロライブ / 星街すいせい】",
-                "date": "2025/02/22 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/ca7CDC30jSo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4yo0w8XKeP0Ifv09j5HHKrcB0nA",
-                "description": "☄2025.2.1 Hoshimachi Suisei 日本武道館 Live “SuperNova” 配信チケット発売中☄\n◇特設サイト　https://supernova.hololivepro.com\n◇チケットページ\n・JP：https://sup..."
-            }
-        ]
+        "videos": []
     },
     "@HoushouMarine": {
         "channel_url": "https://www.youtube.com/@HoushouMarine",
@@ -250,13 +235,29 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "lcNLpOxYEAg",
+                "title": "【Minecraft 】建築だー！！【水宮枢／FLOW GLOW】#hololiveDEV_IS",
+                "date": "2025/02/22 20:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/lcNLpOxYEAg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFc_uvW0H31weoGn8eM1I0LSeA4w",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n【使用MOD】\n使用MOD：Opti..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "SiQO_1s6sU0",
+                "title": "【 Minecraft 】染料いっぱいほしいねね！【 桃鈴ねね / hololive 】",
+                "date": "2025/02/22 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/SiQO_1s6sU0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRSq7_5wTSBtqaXywwFys_GfzunA",
+                "description": "いっぱいっていうのは１０００００００００００００こくらい！！！！！！！！！！！\n⸜♡⸝MemberShipに入ったらもっとねねを知れるﾖ\nhttps://www.yo..."
+            }
+        ]
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
@@ -362,15 +363,7 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/Z78RNXxUqpOGYKFt-VrJV7nlehOHzl7Ta-l1cgPx5Ewucmr5kY64iGxmPSe7QqIdM1ZhvPlEOg",
-        "videos": [
-            {
-                "video_id": "SIonwOpTyn8",
-                "title": "【歌枠】アニソンとホロ曲メインで歌います！【 ホロライブ / 大神ミオ 】",
-                "date": "2025/02/22 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/SIonwOpTyn8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpWpjwdp--j2V2InY8poxlbkYd5g",
-                "description": "歌える限り🎤\n\nサムネillustrator：PAISHENさん　https://x.com/INUTOBI21\n\n🎤音源お借りします🎤\nカラオケ歌っちゃ王\nhttps://www.youtube.com/channel/UC1tk9F5-MGXEq4LWnj..."
-            }
-        ]
+        "videos": []
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -523,13 +516,6 @@
                 "date": "2025/02/22 20:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/B7BXilJR9SQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTI2K0FEscjr2mKDzR7bhvDG6nJA",
                 "description": "タイミング合えばヴィヴィちゃんも一緒に行くかも？\nタグ：#ドドドライブ\n\n◆ぼたんちゃん\n@ShishiroBotan \n\n配信タイトル：Minecraft\nストアページ：htt..."
-            },
-            {
-                "video_id": "U7XRWPUKEmc",
-                "title": "【 Minecraft 】エリトラを取りに行く準備の巻！【角巻わため/ホロライブ４期生】",
-                "date": "2025/02/22 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/U7XRWPUKEmc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCK9nJpI6BQJG6wnkCGgbymRJw6qA",
-                "description": "この枠は21時までには終わります！22時からエリトラ行くどー！\nタグ：#ドドドライブ\n\n配信タイトル：Minecraft\nストアページ：https://www.minecraft.net/ja-..."
             }
         ]
     },
