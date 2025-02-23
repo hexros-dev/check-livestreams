@@ -240,14 +240,7 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
-        "videos": [
-            {
-                "video_id": "f7fyCHDpUDE",
-                "title": "【 ゼノブレイド2 】完全初見✦ のんびり冒険はじめます #04【 猫又おかゆ/ホロライブ 】",
-                "thumbnail": "https://i.ytimg.com/vi/f7fyCHDpUDE/hqdefault.jpg?v=67b9e992&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtE20AQ_eZ8TkzxLOK1BGf-jTWpw",
-                "description": "-\n\n\nイラスト：Nannungさん( https://x.com/Nannung_mdr )\n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n❥・・ ┈┈┈┈┈┈..."
-            }
-        ]
+        "videos": []
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -265,7 +258,14 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "9CJZQtY7SBs",
+                "title": "【Minecraft】してェ・・・・冒険してェ～～～～～～～～～～～【尾丸ポルカ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/9CJZQtY7SBs/hqdefault.jpg?v=67baf103&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSrKu5mmJD5Umdlby_5Awy1Pn7Pg",
+                "description": "ゲリラ♥\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://www.minecraft.net/ja-jp) に基づいて配信・収益化を行なっております\n\n【使用MOD】..."
+            }
+        ]
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
@@ -277,14 +277,7 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": [
-            {
-                "video_id": "H_DARUp6nE8",
-                "title": "【#4】龍が如く６やるしゅばああああああああああああああああああああああああああ！！！！/YAKUZA 6【ネタバレ注意】",
-                "thumbnail": "https://i.ytimg.com/vi/H_DARUp6nE8/hqdefault.jpg?v=67b9ebd9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2bLJoGSWiBS7oq3DufWlxBuQ1JA",
-                "description": "This game is being streamed and monetized with permission and under license.\n©SEGA\n🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！..."
-            }
-        ]
+        "videos": []
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -368,7 +361,14 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "2Gjk9x5TaHA",
+                "title": "【 Minecraft 】エンド冒険とネザーと家の地下の冒険と・・・・・・・・・・。【鷹嶺ルイ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/2Gjk9x5TaHA/hqdefault.jpg?v=67ba4957&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKRQ2ldyRfMHXLD42_bRCxkYSQdw",
+                "description": "色々冒険したーい！！！！！！\n\n【使用MOD】\n使用MOD：Complementary Shaders\n制作者：EminGT\n配布URL：https://www.curseforge.com/minecraft/customization/complementary-shaders..."
+            }
+        ]
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
@@ -410,14 +410,7 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": [
-            {
-                "video_id": "rX26gHgJ478",
-                "title": "【Minecraft】人生初めてのブランチマイニングする！【 雪花ラミィ /ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/rX26gHgJ478/hqdefault.jpg?v=67bad4a2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCeDPRPMq0jZvGRcZ_DfgQS2XU5FA",
-                "description": "感想は #らみらいぶ で呟いて頂けたら嬉しいです！\n\nサムネイルイラスト：なべさま\nhttps://x.com/nabe_otome\n\n本ゲームは Mojang に確認を得た上、\nTerms..."
-            }
-        ]
+        "videos": []
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
