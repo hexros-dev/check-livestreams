@@ -370,7 +370,15 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "zjFW_twsN6U",
+                "title": "【Portal 2】2Brains Better Than 1 With @holoen_raorapanthera",
+                "date": "2025/02/24 09:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/zjFW_twsN6U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBECuw7uzllufIxO1zGJfXdxit7WQ",
+                "description": "This game is being streamed and monetized which following on Valve Video Policy (https://store.steampowered.com/video_policy)\n\n[Twitter]\nhttps://twitter.com/ourokronii\n\n[Thumbnail Art]\nhttps://x.co..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
