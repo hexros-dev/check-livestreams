@@ -296,14 +296,7 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": [
-            {
-                "video_id": "56oizb8Ir5w",
-                "title": "【Unarchived Karaoke】Quiet Songs Shh",
-                "thumbnail": "https://i.ytimg.com/vi/56oizb8Ir5w/hqdefault.jpg?v=67ba814f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKZ5yi6nKl1XOeRnn8Hpz976pokA",
-                "description": "[Twitter]\nhttps://twitter.com/ourokronii\n\n[Thumbnail Art]\nhttps://x.com/itsZenvy\n\n----------------------------------------------------------------------------\n\n[Viewer Rules]\nThank you for..."
-            }
-        ]
+        "videos": []
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
@@ -394,7 +387,14 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "f6rXt4lE948",
+                "title": "【Minecraft】木こりのそら。なんかチェスト汚くない？【ホロライブ/ときのそら】",
+                "thumbnail": "https://i.ytimg.com/vi/f6rXt4lE948/hqdefault.jpg?v=67bab714&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCybhMCtc8fOcQI1HDnEIMy7PeY0A",
+                "description": "倉庫を充実させるよ。\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
