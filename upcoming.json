@@ -101,7 +101,15 @@
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/Z2QpYUZ4-jKoFR7Ms330gRQzjI2gZ4CB_uVP6f39YysxUe1u8icrtE07ffpRxCtpu9U65MWNDA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "T_q_z9_TEu8",
+                "title": "【あつまれ！おえかきの森】ホロのツインテ集めたら画伯だらけになったので絵を描いてみる【ホロライブ/宝鐘マリン】",
+                "date": "2025/02/23 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/T_q_z9_TEu8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCflNC2WYM0roccdrIncPcfVgmkfQ",
+                "description": "#ホロツインテール組\n@AkiRosenthal @usadapekora @TokoyamiTowa @KikiraraVivi \n\n本ゲームは © cocone fukuoka corp. の確認を得た上で配信・収益化を行なっております..."
+            }
+        ]
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
@@ -329,15 +337,7 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": [
-            {
-                "video_id": "56oizb8Ir5w",
-                "title": "【Unarchived Karaoke】Quiet Songs Shh",
-                "date": "2025/02/23 10:05:00",
-                "thumbnail": "https://i.ytimg.com/vi/56oizb8Ir5w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKZ5yi6nKl1XOeRnn8Hpz976pokA",
-                "description": "[Twitter]\nhttps://twitter.com/ourokronii\n\n[Thumbnail Art]\nhttps://x.com/itsZenvy\n\n----------------------------------------------------------------------------\n\n[Viewer Rules]\nThank you for..."
-            }
-        ]
+        "videos": []
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
