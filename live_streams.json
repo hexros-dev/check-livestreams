@@ -88,14 +88,7 @@
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
         "channel_name": "Ao Ch. 火威青 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/sMnKpvVB1QLNSWGX-AIZ00lFTWAUzuZRAi_rlT7Cs9bIGzvWr-1yvKrKZ0tCtX7Ywtzds6ecSXM",
-        "videos": [
-            {
-                "video_id": "LWASW-yYQy4",
-                "title": "【 Minecraft 】執筆したり、建築したり。。。【火威青 】#hololiveDEV_IS #ReGLOSS",
-                "thumbnail": "https://i.ytimg.com/vi/LWASW-yYQy4/hqdefault.jpg?v=67ba8460&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBW44abC-1TTE11UL5qnp1cL6FKEA",
-                "description": "可愛い女の子かと思った？じゃじゃーん青くんでした！\n素敵なイラスト→ゆず(@_11nyz4） 先生✨\n- - - - - - - - - - - ༚༝༝५🖋️\n\n▼ 歌ってみた聞い..."
-            }
-        ]
+        "videos": []
     },
     "@HoshimachiSuisei": {
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
@@ -400,7 +393,14 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/meRnxbRUm5yPSwq8Q5QpI5maFApm5QTGQV_LGblQFsoO0yAV4LI-nSZ70GYwMZ_tbfSa_O8MTCU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "7At-XcNsOzk",
+                "title": "【Minecraft】今日は家を建てる！PART2【常闇トワ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/7At-XcNsOzk/hqdefault.jpg?v=67bab219&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYGGL38b22B4LCx3APfKl_yRRswQ",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n୨୧--------------------------..."
+            }
+        ]
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
