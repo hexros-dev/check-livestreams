@@ -15,14 +15,7 @@
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
         "avatar_url": "https://yt3.googleusercontent.com/Ob0LQV8-i9FXY_GX4AEnsWsxvYUojcYtjZjtLsmjQRtPoYMZN5qWAe9hRhy7sMa19PlF61BG",
-        "videos": [
-            {
-                "video_id": "W2R9ugq-ujU",
-                "title": "【Minecraft】LET'S！ほろよい天空都市つくり～～～！🌟【ホロライブ/赤井はあと】",
-                "thumbnail": "https://i.ytimg.com/vi/W2R9ugq-ujU/hqdefault.jpg?v=67b9e406&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0Gh3-FD3qqKolmbrIMcLWkl9b5g",
-                "description": "Thumbnail:淋(そそぎ)めあり先輩\nhttps://x.com/mary_is_mine/status/1884526924204240896\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms)..."
-            }
-        ]
+        "videos": []
     },
     "@AkiRosenthal": {
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
@@ -115,7 +108,14 @@
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
         "channel_name": "Ao Ch. 火威青 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/sMnKpvVB1QLNSWGX-AIZ00lFTWAUzuZRAi_rlT7Cs9bIGzvWr-1yvKrKZ0tCtX7Ywtzds6ecSXM",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "LWASW-yYQy4",
+                "title": "【 Minecraft 】執筆したり、建築したり。。。【火威青 】#hololiveDEV_IS #ReGLOSS",
+                "thumbnail": "https://i.ytimg.com/vi/LWASW-yYQy4/hqdefault.jpg?v=67ba8460&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBW44abC-1TTE11UL5qnp1cL6FKEA",
+                "description": "可愛い女の子かと思った？じゃじゃーん青くんでした！\n素敵なイラスト→ゆず(@_11nyz4） 先生✨\n- - - - - - - - - - - ༚༝༝५🖋️\n\n▼ 歌ってみた聞い..."
+            }
+        ]
     },
     "@HoshimachiSuisei": {
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
@@ -291,7 +291,14 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/Z78RNXxUqpOGYKFt-VrJV7nlehOHzl7Ta-l1cgPx5Ewucmr5kY64iGxmPSe7QqIdM1ZhvPlEOg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Ykx5bvhjD5Q",
+                "title": "【 Minecraft 】神社を建築しよう！⛩釣りもするかも【 ホロライブ / 大神ミオ 】",
+                "thumbnail": "https://i.ytimg.com/vi/Ykx5bvhjD5Q/hqdefault.jpg?v=67b9e3a6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhZPV355a1mOCZKGJAugNcO1nuXQ",
+                "description": "銅の屋根が作れそうなので、神社を建築してみたい⛩\n\nサムネillustrator：Deaverさん 　https://x.com/Deaver0501\nいつもかわいいイラストありがとうござい..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
