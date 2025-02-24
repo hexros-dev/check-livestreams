@@ -39,14 +39,7 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": [
-            {
-                "video_id": "u93fExfpJwg",
-                "title": "【M.M.M. / Monday Morning Malas】MMM IS BACK !!!【Ayunda Risu】",
-                "thumbnail": "https://i.ytimg.com/vi/u93fExfpJwg/hqdefault.jpg?v=67bbd683&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5M9vjb-hIRirj00Rq4qgn6Ihv3w",
-                "description": "#HappyRisuDay2025 #Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nMETROPOLIS MV : https://youtu.be/6ulGdHRkzGs?si=YlxSAABf361PYAyz\n\nSTREAM MY NEWEST ORIGINAL SONG メトロポリス..."
-            }
-        ]
+        "videos": []
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -126,7 +119,14 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/JyixAV--9ZFWIMEwRQFbZhkiQTEvb1ALCdX7bW9BarpyLBjAnbbmc98jymhVT_pZlJpWaDwk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "2Qp5uzZJHHo",
+                "title": "【#holoindie 】リリース最新作！！HoloRun、2時間でどこまで走り切れる…！？！【一条莉々華/hololive DEV_IS　ReGLOSS】",
+                "thumbnail": "https://i.ytimg.com/vi/2Qp5uzZJHHo/hqdefault.jpg?v=67bb48eb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1IBGU5tuhPTy3BzyC7exbnqAY6w",
+                "description": "本ゲームは holo Indie の承諾を得た上で配信・収益化を行っております。\nThis game is being streamed and monetized after receiving prior consent from holo Indie.\nストア..."
+            }
+        ]
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -150,7 +150,14 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/VL9aJ1o3yrN_xzHKTX0PvArQjUDHhtWtOtAYWjpzkqoFxR5HHWmWRWNgu6M5l4nSibqLaeKXqA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "FgavtYAB0fU",
+                "title": "【Chained Together】we can do this......... together.【KOPIKANON】",
+                "thumbnail": "https://i.ytimg.com/vi/FgavtYAB0fU/hqdefault.jpg?v=67ba0a85&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3Ib59h_Wlj4z02wxuQWFoCy6USQ",
+                "description": "playing with @ONShannon_ @PiaMeraleo-JKT48V \n-------------------------------------------------------------------------------------------------------\n【Donasi lokal】Traktir yang pahit-pahit..."
+            }
+        ]
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
