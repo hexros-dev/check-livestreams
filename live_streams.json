@@ -136,7 +136,14 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/VL9aJ1o3yrN_xzHKTX0PvArQjUDHhtWtOtAYWjpzkqoFxR5HHWmWRWNgu6M5l4nSibqLaeKXqA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "m4hiyAs-rF0",
+                "title": "【PEJUANG SENIN】#95 last PJS until April 14th! 👋【Kaela's Monday Warrior】",
+                "thumbnail": "https://i.ytimg.com/vi/m4hiyAs-rF0/hqdefault.jpg?v=67ba0658&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOdJbugYg2OP93wUY9TGA6UwhR-g",
+                "description": "the topics from the Pejuang Senin stream sometimes might be sensitive to be clipped without the context. please have that in mind😇\n---------------------------------------------------------------..."
+            }
+        ]
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
@@ -160,7 +167,14 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "XaExP0hlhjI",
+                "title": "【BLOODBORNE】ACQUIRING INSIGHT",
+                "thumbnail": "https://i.ytimg.com/vi/XaExP0hlhjI/hqdefault.jpg?v=67bb3bf3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCI5km-dlKVynfiNuiTN3ofXbv5wQ",
+                "description": "/.D\n\nThumbnail art: @kenjiuz46 THANK YOU!\nhttps://x.com/kenjiuz46/status/1884940763794223355\n\n====================\n✧Twitter: https://twitter.com/kosekibijou\n\n✧Hashtags: \n#biboo  \nAdvent:..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -202,14 +216,7 @@
         "channel_url": "https://www.youtube.com/@MurasakiShion",
         "channel_name": "Shion Ch. 紫咲シオン",
         "avatar_url": "https://yt3.googleusercontent.com/K91NQLuy_JMQ65n-Opf0Q2FZBO3yOURnMRusO7o5DTjaJ1QVtP-ANN4lehK57X4KXpcI2MiRig",
-        "videos": [
-            {
-                "video_id": "TKKABwqwePM",
-                "title": "【Minecraft】新ホロ鯖へこっそり潜入してみる👀【ホロライブ/紫咲シオン】",
-                "thumbnail": "https://i.ytimg.com/vi/TKKABwqwePM/hqdefault.jpg?v=67bb1c8a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCEkLwCJFkIogUBpgUkAPMDhPe7Q",
-                "description": "インターネット回線と仲良くなれたと思ってます！\n\n💘バレンタインボイス2025発売中💘\nhttps://shop.hololivepro.com/products/hololive_valentinevoice2025?utm_source=..."
-            }
-        ]
+        "videos": []
     },
     "@NakiriAyame": {
         "channel_url": "https://www.youtube.com/@NakiriAyame",
