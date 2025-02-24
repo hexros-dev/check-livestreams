@@ -123,7 +123,15 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "bHe725MxDFE",
+                "title": "【BOKURA】WE ARE COLD w/ @OuroKronii",
+                "date": "2025/02/25 09:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/bHe725MxDFE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLYYKk0AcGGaMm9KlO5E3ggHMNWg",
+                "description": "This game is enjoyed through 2 different perspectives so make sure to watch both!\n\nThis game is distributed and monetized after obtaining confirmation from the rights holder.\n#hololiveenglish..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
