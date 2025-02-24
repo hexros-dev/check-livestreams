@@ -116,7 +116,14 @@
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
         "channel_name": "Ao Ch. 火威青 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/sMnKpvVB1QLNSWGX-AIZ00lFTWAUzuZRAi_rlT7Cs9bIGzvWr-1yvKrKZ0tCtX7Ywtzds6ecSXM",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "7qjUJQ5QE1c",
+                "title": "【 Minecraft 】クラゲくんを作りたい.。o○【火威青 】#hololiveDEV_IS #ReGLOSS",
+                "thumbnail": "https://i.ytimg.com/vi/7qjUJQ5QE1c/hqdefault.jpg?v=67bc8022&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdcCFmg7JH8TuyTw4eARHQnP0gww",
+                "description": "可愛い女の子かと思った？じゃじゃーん青くんでした！\n素敵なイラスト→あまぎゆう(@_4gyu） 先生✨\n- - - - - - - - - - - ༚༝༝५🖋️\n\n▼ 歌ってみ..."
+            }
+        ]
     },
     "@HoshimachiSuisei": {
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
@@ -165,14 +172,7 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/9BFn9huZRtcJypmkYNt0qslTAf225UJsapBFMsyIWjVFZMkkRn6LULZ-iLMmg9nigp0xcDjP0kw",
-        "videos": [
-            {
-                "video_id": "dTvImZjw6os",
-                "title": "【東日本VS西日本どっちだクイズ】伝統工芸しかわかりません！！助け求！！！！【儒烏風亭らでん #ReGLOSS 】",
-                "thumbnail": "https://i.ytimg.com/vi/dTvImZjw6os/hqdefault.jpg?v=67bc5f51&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANvPgbfrKXQB0mqOzEH_wEswFQpA",
-                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\nサムネイル：春野ほたる様\nhttps://x.com/harunohota..."
-            }
-        ]
+        "videos": []
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
