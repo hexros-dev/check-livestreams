@@ -381,7 +381,15 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "D30O4ZuZ4Rk",
+                "title": "【 Sudocats 】朝活！デイリー猫パズルするわよ🐈【不知火フレア/ホロライブ】",
+                "date": "2025/02/25 06:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/D30O4ZuZ4Rk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNMq4U4DoqleBjrvmRnBV-pW5YpA",
+                "description": "ホロライブ所属３期生の不知火フレア(Flare Shiranui)だよ～\n\n■Newシングル「Funfair」🎧\niTunes・Spotify等でも 配信中✨\nhttps://cover.lnk.to/NEsgxK\n━━━━━..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -509,15 +517,7 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": [
-            {
-                "video_id": "fVIF717zxZU",
-                "title": "【Miscellaneous】 This VTuber does the Dles",
-                "date": "2025/02/25 06:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/fVIF717zxZU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAY7JVVgN9ZuT2LDYh3qJIE-VLmOQ",
-                "description": "short stream! doing daily puzzles!\n\n  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋\n\nKonbakuwa! I'm Nimi, the baku nurse VTuber of your nightmares~\n#VTuber #nimi\n\n☁  Socials  ☁\nhttps://x.com/niminig..."
-            }
-        ]
+        "videos": []
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",

@@ -385,14 +385,7 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/4wLMmSJkzy4vmWfWYkmzn6YO9T__jp1cORNuFXN7YyihwvhGkqXCxNBaklKoXlgdik-Fp0Zu",
-        "videos": [
-            {
-                "video_id": "0_e3zbgA1Oc",
-                "title": "【 Minecraft 】ついに着工！！！ブラマイもしたい！【角巻わため/ホロライブ４期生】",
-                "thumbnail": "https://i.ytimg.com/vi/0_e3zbgA1Oc/hqdefault.jpg?v=67bc3d5d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYpPsGKPESQQpqOAkek5-T79tsVw",
-                "description": "タグ：#ドドドライブ\n\n配信タイトル：Minecraft\nストアページ：https://www.minecraft.net/ja-jp\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://accoun..."
-            }
-        ]
+        "videos": []
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -464,7 +457,14 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "fVIF717zxZU",
+                "title": "【Miscellaneous】 This VTuber does the Dles",
+                "thumbnail": "https://i.ytimg.com/vi/fVIF717zxZU/hqdefault.jpg?v=67bce706&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAY7JVVgN9ZuT2LDYh3qJIE-VLmOQ",
+                "description": "short stream! doing daily puzzles!\n\n  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋\n\nKonbakuwa! I'm Nimi, the baku nurse VTuber of your nightmares~\n#VTuber #nimi\n\n☁  Socials  ☁\nhttps://x.com/niminig..."
+            }
+        ]
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
