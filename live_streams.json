@@ -83,14 +83,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "8sC0CTQ-syY",
-                "title": "【 #朝こよ 】2月最後の火曜日…ってマ！？な朝も朝こよ～☀ #221 【博衣こより/hololive】",
-                "thumbnail": "https://i.ytimg.com/vi/8sC0CTQ-syY/hqdefault.jpg?v=67bb500b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqesc6a5K5nkrdz7DRjky4p4KSDg",
-                "description": "#朝こよ を観れば日本ニキも海外ニキもホロライブの今が分かる、そんな番組になりたい \n※SuperChatは後日赤スパのみ御礼させていただきます！..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -337,7 +330,14 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "D30O4ZuZ4Rk",
+                "title": "【 Sudocats 】朝活！デイリー猫パズルするわよ🐈【不知火フレア/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/D30O4ZuZ4Rk/hqdefault.jpg?v=67bcf513&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNMq4U4DoqleBjrvmRnBV-pW5YpA",
+                "description": "ホロライブ所属３期生の不知火フレア(Flare Shiranui)だよ～\n\n■Newシングル「Funfair」🎧\niTunes・Spotify等でも 配信中✨\nhttps://cover.lnk.to/NEsgxK\n━━━━━..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
