@@ -3,14 +3,7 @@
         "channel_url": "https://www.youtube.com/@AZKi",
         "channel_name": "AZKi Channel",
         "avatar_url": "https://yt3.googleusercontent.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM",
-        "videos": [
-            {
-                "video_id": "CP65-v7Yf3U",
-                "title": "【Minecraft】新ホロ鯖にやってきた！ゲッサーピンの家つくる！【ホロライブ / AZKi】",
-                "thumbnail": "https://i.ytimg.com/vi/CP65-v7Yf3U/hqdefault.jpg?v=67bc1624&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDyq_-H2RxQlS9KvJNeU1V2nRcKxQ",
-                "description": "まったりスローライフ\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\nサムネイラスト：加速サトウ 様\nhttps://x.com/ksk_st\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈..."
-            }
-        ]
+        "videos": []
     },
     "@AiraniIofifteen": {
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
@@ -22,7 +15,14 @@
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
         "avatar_url": "https://yt3.googleusercontent.com/Ob0LQV8-i9FXY_GX4AEnsWsxvYUojcYtjZjtLsmjQRtPoYMZN5qWAe9hRhy7sMa19PlF61BG",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "fxw_GLOszms",
+                "title": "【Minecraft】YO！ほろよい建設ちゃまっちゃま～～～！💤【ホロライブ/赤井はあと】",
+                "thumbnail": "https://i.ytimg.com/vi/fxw_GLOszms/hqdefault.jpg?v=67bcc64f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6rafNx7ayDO8nwG2CWNXUTbmBLw",
+                "description": "サムネイラスト：日向はび（ひなたはび）先輩\nhttps://x.com/hinata_habi_ss/status/1880824538281459804\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions..."
+            }
+        ]
     },
     "@AkiRosenthal": {
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
