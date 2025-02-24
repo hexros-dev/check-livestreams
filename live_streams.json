@@ -58,14 +58,7 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": [
-            {
-                "video_id": "Bj8yvIhvGr0",
-                "title": "【TEKKEN 8 OFF-COLLAB with KEMOV's COYOTE｜鉄拳8】ultimate canine showdown 🐾【FUWAMOCO／けものフレンズVぷろじぇくと】",
-                "thumbnail": "https://i.ytimg.com/vi/Bj8yvIhvGr0/hqdefault.jpg?v=67bb596e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfBrohwvjCSZ6img-e_2ghu52vvw",
-                "description": "being taught how to fight together in the dog house ✨\nwith super trainer @Coyote_KemoV 💓\n🎂 Get your paws on our 𝟮𝟬𝟮𝟱 𝗙𝗨𝗪𝗔𝗠𝗢𝗖𝗢 𝗕𝗜𝗥𝗧𝗛𝗗..."
-            }
-        ]
+        "videos": []
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -120,7 +113,14 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "70SgVfJK3GY",
+                "title": "【Members Only】Blades of Glory Watchalong",
+                "thumbnail": "https://i.ytimg.com/vi/70SgVfJK3GY/hqdefault.jpg?v=67bb8510&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKC1raqfl6DxS2OQ_BIp3H_6Hx5Q",
+                "description": "Gotta watch this before winter is over\n\n#hololiveenglish  #ホロライブ \n＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝\n\nSTREAM MY NEW ORIGINAL SONG, TwiLight▼..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -218,7 +218,14 @@
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
         "channel_name": "Moona Hoshinova hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/9e7J_lAxCEZO6IRC_Sl3Gj-bt9uPvSXolU_vBpmqWABzv99oHxzbYhWWgvRI_c2qmB4jH0p_ZA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "a8gu2T2XsdI",
+                "title": "【Minecraft】it's Grind time!【Moona Hoshinova】",
+                "thumbnail": "https://i.ytimg.com/vi/a8gu2T2XsdI/hqdefault.jpg?v=67bbe8ce&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkYBIHAtxRVbQ1CWzUBQazZLrKMA",
+                "description": "Streamlabs donation link here : https://streamlabs.com/moonahoshinovahololive-id/tip\nSociaBuzz donation link here : https://sociabuzz.com/moonahoshinova/tribe\n======================================..."
+            }
+        ]
     },
     "@MoriCalliope": {
         "channel_url": "https://www.youtube.com/@MoriCalliope",
@@ -296,14 +303,7 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": [
-            {
-                "video_id": "zjFW_twsN6U",
-                "title": "【Portal 2】2Brains Better Than 1 With @holoen_raorapanthera",
-                "thumbnail": "https://i.ytimg.com/vi/zjFW_twsN6U/hqdefault.jpg?v=67bb9476&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBECuw7uzllufIxO1zGJfXdxit7WQ",
-                "description": "This game is being streamed and monetized which following on Valve Video Policy (https://store.steampowered.com/video_policy)\n\n[Twitter]\nhttps://twitter.com/ourokronii\n\n[Thumbnail Art]\nhttps://x.co..."
-            }
-        ]
+        "videos": []
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
