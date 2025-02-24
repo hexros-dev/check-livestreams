@@ -168,14 +168,7 @@
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
         "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/4XC0YEED9T4kvdLbJNK5f8GRCUNJds21yPXR4lNgH_CCjR-gbOYzod-vjfbH93YNFm6CiSSskA",
-        "videos": [
-            {
-                "video_id": "7af6BZ2Rrv0",
-                "title": "【ゲリラMinecraft】スライムトラップ作る虎さんを見守る配信です【虎金妃笑虎】",
-                "thumbnail": "https://i.ytimg.com/vi/7af6BZ2Rrv0/hqdefault.jpg?v=67bbcef8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvhD0Yg0cIHGHPmqmkITw0SGpTpA",
-                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n【使用MOD】\n使用MOD：Comp..."
-            }
-        ]
+        "videos": []
     },
     "@KosekiBijou": {
         "channel_url": "https://www.youtube.com/@KosekiBijou",
@@ -357,7 +350,14 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "vI1kekc9ybI",
+                "title": "【Minecraft】0から始まる新ホロ鯖！！！久々にIN太郎！色々かわってたりするのかな...ッ？！【白銀ノエル/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/vI1kekc9ybI/hqdefault.jpg?v=67bbe73a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAW-EuYXdJdFOCHfshrv2uNP3yInw",
+                "description": "わくわくそわそわ！\n\n[NEW]🔥焚火ASMRボイス販売中🔥→ https://shop.hololivepro.com/products/hololive_asmr_chillinbythecampfire?_pos=2&_fid=86a4c0ec0&_ss=c\n[NEW]💖バレンタ..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -387,7 +387,14 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "YTo0gHwg8Vc",
+                "title": "【ネタバレあり】ロマンシングで進めるロマンシング サガ2 リベンジオブザセブン～6～【ホロライブ/ときのそら】",
+                "thumbnail": "https://i.ytimg.com/vi/YTo0gHwg8Vc/hqdefault.jpg?v=67bbfe04&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDn_7h_VWfmR6A6TKQq7ZECWXRSag",
+                "description": "さぁ今日こそ次の時代だ～！！！！\n\n本動画のゲームプレイ映像は、株式会社スクウェア・エニックスの許諾を受けて使用しています。\n© SQUARE..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
