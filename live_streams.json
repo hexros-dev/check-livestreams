@@ -15,7 +15,14 @@
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
         "avatar_url": "https://yt3.googleusercontent.com/Ob0LQV8-i9FXY_GX4AEnsWsxvYUojcYtjZjtLsmjQRtPoYMZN5qWAe9hRhy7sMa19PlF61BG",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "w5Aflf4eVLs",
+                "title": "【バラード歌枠】おやすみ前に、まったり歌う💭【ホロライブ/赤井はあと】",
+                "thumbnail": "https://i.ytimg.com/vi/w5Aflf4eVLs/hqdefault.jpg?v=67bdb347&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnz7voZXZDM280gcwtdzt_3y2CeQ",
+                "description": "サムネイラスト：ちよねここ先輩\nhttps://x.com/chiyonekoko\n\n音源提供\nhttps://www.youtube.com/@UCWX2b3xIeJHoiNOPd9nTuKA \nhttps://www.youtube.com/@uta-cha-oh\nhttps://www.youtube.com/..."
+            }
+        ]
     },
     "@AkiRosenthal": {
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
@@ -138,7 +145,14 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/K39Md5CGHmCaMC5Ne3UWBzblgzDhUzXUFszrHfGapCvOldc8E7fWw3pxN0zhcjmoht4GngnD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "IuHjdrGamKI",
+                "title": "【20万人耐久】リングフィットアドベンチャーやります。本気です。【ホロライブ DEV_IS 響咲リオナ】",
+                "thumbnail": "https://i.ytimg.com/vi/IuHjdrGamKI/hqdefault.jpg?v=67bd7a48&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBcVdybU4uisCPETfZ2Upd9rmf1Fw",
+                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n\nサムネ\n汐よる様　(X：@ ushio_yoru)\n素敵なイラストありがとうござい..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -175,14 +189,7 @@
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
         "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/4XC0YEED9T4kvdLbJNK5f8GRCUNJds21yPXR4lNgH_CCjR-gbOYzod-vjfbH93YNFm6CiSSskA",
-        "videos": [
-            {
-                "video_id": "xlO50dz_Ac0",
-                "title": "【Minecraft】完成するんだよ、俺たちのスライム虎っプが【虎金妃笑虎】",
-                "thumbnail": "https://i.ytimg.com/vi/xlO50dz_Ac0/hqdefault.jpg?v=67bd260d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBytuRnjoawr7CY48skmUgOxsrUpw",
-                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n【使用MOD】\n使用MOD：Comp..."
-            }
-        ]
+        "videos": []
     },
     "@KosekiBijou": {
         "channel_url": "https://www.youtube.com/@KosekiBijou",
@@ -315,14 +322,7 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/TejsfeJ29zBtQDJhP2TKDFAEk98-LuGRBGqrNIjbGQ05T9R5Jcl_VfsK27LZ_PXJmRP7DECk-w",
-        "videos": [
-            {
-                "video_id": "d63GCOcIhwc",
-                "title": "【holo8】事務所の異変っていったい…【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "thumbnail": "https://i.ytimg.com/vi/d63GCOcIhwc/hqdefault.jpg?v=67bd8a7a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAn5vBj2pYXhuhEpJYxcAFsgNtX3A",
-                "description": "新人なんですけど・・・この事務所、なんか変！\n\n本ゲームは holo Indie の承諾を得た上で配信・収益化を行っております。\nThis game is being streamed..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -384,7 +384,14 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "b-jYODxtw28",
+                "title": "【スト6】舞ちゃんを練習する会！ #あきひろ中学校 開校【獅白ぼたん/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/b-jYODxtw28/hqdefault.jpg?v=67bcab34&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbLo1eRDWr9FNFJSynHKFLgnKYGA",
+                "description": "舞ちゃんの授業（練習会）！あきひろ中学校の開校ですが問題児ばかりの予感！\n配信ハッシュタグ：#ぐうたらいぶ #あきひろ中学校\n\n🏫生徒..."
+            }
+        ]
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
