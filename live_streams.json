@@ -420,7 +420,14 @@
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Co4aSyCHZmE",
+                "title": "【YU-GI-OH! MASTER DUEL】Unlocking NEW Emotes with Every Duel Win! ~ 💄",
+                "thumbnail": "https://i.ytimg.com/vi/Co4aSyCHZmE/hqdefault.jpg?v=67bdd4ae&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAErrBCbi-BEwzAm1btYWB_TZXmGg",
+                "description": "I’ve got 12 BRAND NEW EMOTES! 🎉\n...But I’m not just handing them out - I need to EARN them FOR THE BLOODFLAME KINGDOM! 💪\nFor every duel I win, I’ll unlock and upload one of my newly..."
+            }
+        ]
     },
     "@holoen_gigimurin": {
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
@@ -456,14 +463,7 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": [
-            {
-                "video_id": "USpA25-2xCs",
-                "title": "【Minecraft】新ホロ鯖でがんす！！！！！！！！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
-                "thumbnail": "https://i.ytimg.com/vi/USpA25-2xCs/hqdefault.jpg?v=67bd986d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB16_3NP9C5lwEuYu6W1p5VPg038A",
-                "description": "皆勤賞継続中！\n\nサムネイラスト：憂姫はぐれ(@yuukihagure)マッマ\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/us..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
