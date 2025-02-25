@@ -213,7 +213,15 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/FT92k-lGkFhElXOuq3KlwCvCpWPlEYwtAy2tjRibnmkrPP-Aaksbf2_P7XY26O9R2W4efoP7",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "JTMA9JobcFM",
+                "title": "【SOLO LIVE TOMORROW!!】Chatting Away the Nervousness!? #calliolive",
+                "date": "2025/02/26 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/JTMA9JobcFM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPSL3Ozs_oYjgxtrcab6reIq4fag",
+                "description": "SOLO LIVE TICKETS ON SALE NOW!\nhttps://www.ticketmaster.com/event/0900618BF1E836DE\n\nMERCH:\nhttps://shop.hololivepro.com/products/moricalliope_2ndconcert_2nd\n\nPrecautions\n*For General Admission..."
+            }
+        ]
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
