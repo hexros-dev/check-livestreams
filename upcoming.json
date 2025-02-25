@@ -15,7 +15,15 @@
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
         "avatar_url": "https://yt3.googleusercontent.com/Ob0LQV8-i9FXY_GX4AEnsWsxvYUojcYtjZjtLsmjQRtPoYMZN5qWAe9hRhy7sMa19PlF61BG",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "d66HKA9Bt4Q",
+                "title": "【バラード歌枠】おやすみ前に、まったり歌う💭【ホロライブ/赤井はあと】",
+                "date": "2025/02/25 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/d66HKA9Bt4Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQxj2RKMA92g11-pOwXeFJvJrY9w",
+                "description": "サムネイラスト：ちよねここ先輩\nhttps://x.com/chiyonekoko\n\n音源提供\nhttps://www.youtube.com/@UCWX2b3xIeJHoiNOPd9nTuKA \nhttps://www.youtube.com/@uta-cha-oh\nhttps://www.youtube.com/..."
+            }
+        ]
     },
     "@AkiRosenthal": {
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
@@ -554,15 +562,7 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": [
-            {
-                "video_id": "USpA25-2xCs",
-                "title": "【Minecraft】新ホロ鯖でがんす！！！！！！！！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
-                "date": "2025/02/25 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/USpA25-2xCs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB16_3NP9C5lwEuYu6W1p5VPg038A",
-                "description": "皆勤賞継続中！\n\nサムネイラスト：憂姫はぐれ(@yuukihagure)マッマ\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/us..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
