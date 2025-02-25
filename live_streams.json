@@ -9,7 +9,14 @@
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
         "channel_name": "Airani Iofifteen Channel hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/bF91weVtAIL7Uhnr2HVwtCTLVKK5kVsn4FC_Ze3Gl8rkSsEjDwyey3AbQ1PDfJQ1Oeac5cePeg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "qspSa97u6n4",
+                "title": "【Puzzle Together】3000+ Pieces Are u Up For It?【  iofi / hololiveID 】",
+                "thumbnail": "https://i.ytimg.com/vi/qspSa97u6n4/hqdefault.jpg?v=67bdb48e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCf6BROEGXXfdFQENo2fKJw_lorCA",
+                "description": "#ioLyfe #Airani_Iofifteen #hololive #holoID \n\nThis game is being streamed and monetized after confirming with Copyright 2020 IronZog LLC.\n\nAsset credit:\nhttps://ko-fi.com/lotusenta\n\n【Support..."
+            }
+        ]
     },
     "@AkaiHaato": {
         "channel_url": "https://www.youtube.com/@AkaiHaato",
@@ -108,20 +115,20 @@
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
         "channel_name": "Suisei Channel",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
-        "videos": [
-            {
-                "video_id": "Vzaqp2_drL4",
-                "title": "【Poppy Playtime】chapter4きた‼‼‼‼‼高速攻略しちゃいますか👆【ホロライブ / 星街すいせい】",
-                "thumbnail": "https://i.ytimg.com/vi/Vzaqp2_drL4/hqdefault.jpg?v=67bd67b2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6TmFuUmQKWxy6LXXP6PcNogrcfg",
-                "description": "☄2025.2.1 Hoshimachi Suisei 日本武道館 Live “SuperNova” 配信チケット発売中☄\n◇特設サイト　https://supernova.hololivepro.com\n◇チケットページ\n・JP：https://sup..."
-            }
-        ]
+        "videos": []
     },
     "@HoushouMarine": {
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/Z2QpYUZ4-jKoFR7Ms330gRQzjI2gZ4CB_uVP6f39YysxUe1u8icrtE07ffpRxCtpu9U65MWNDA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "F1t_yBMqWCs",
+                "title": "【メンバーシップ限定】睡眠導入☁️【ホロライブ/宝鐘マリン】",
+                "thumbnail": "https://i.ytimg.com/vi/F1t_yBMqWCs/hqdefault.jpg?v=67bdbe53&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjXrABPtFHvgX6HeWuI1mRGSlnfg",
+                "description": "サムネイラスト…だれか\nhttps://x.com/dareka3ab\n\n｡.｡:+* ﾟ ゜ﾟ *+:｡.｡:+* ﾟ ゜ﾟ *+:｡.｡.｡:+*ﾟ ゜ﾟ *+:｡.｡:+*ﾟ ゜ﾟ *+:｡.｡.｡:+*+:｡.｡｡\n..."
+            }
+        ]
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
@@ -237,7 +244,14 @@
         "channel_url": "https://www.youtube.com/@MurasakiShion",
         "channel_name": "Shion Ch. 紫咲シオン",
         "avatar_url": "https://yt3.googleusercontent.com/K91NQLuy_JMQ65n-Opf0Q2FZBO3yOURnMRusO7o5DTjaJ1QVtP-ANN4lehK57X4KXpcI2MiRig",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "3I84Ami9Gkk",
+                "title": "【Minecraft】新ホロ鯖へ今日も行くぞ～～～！！素材探したい！！【ホロライブ/紫咲シオン】",
+                "thumbnail": "https://i.ytimg.com/vi/3I84Ami9Gkk/hqdefault.jpg?v=67bdbca8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhGX0NQkzzh-XExKknuCyF0eP03g",
+                "description": "おうちづくりの素材探したり、ｷﾓﾁﾜﾙｲﾉをかっこよくしたい！\n\n素敵なおうち案ありがとうございます！！\nhttps://x.com/Hsun_52hz/status/1894077300720..."
+            }
+        ]
     },
     "@NakiriAyame": {
         "channel_url": "https://www.youtube.com/@NakiriAyame",
@@ -261,14 +275,7 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
-        "videos": [
-            {
-                "video_id": "ypUVO99QQ1w",
-                "title": "【 #神岡家​ 】神岡家の気まぐれにゃじお 第46回👻🍙【 にじさんじ×ホロライブ 】",
-                "thumbnail": "https://i.ytimg.com/vi/ypUVO99QQ1w/hqdefault.jpg?v=67bccf65&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPA3MEMZO-T3NSqPU0wNyYdlov1g",
-                "description": "-\n\n椎名さん👻 @ShiinaYuika \n\nふつおた募集してます！📮\nhttps://forms.gle/kjM1YzywKomyN1yu8\n\nイラスト : ポノノさん( https://x.com/pnn_sb )\n❥・・ ┈┈┈┈┈┈┈..."
-            }
-        ]
+        "videos": []
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -323,7 +330,14 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "J9rqKLsYbmk",
+                "title": "【Thought Experiment Simulator】Would I, or Would I Not...?【Pavolia Reine/hololiveID 2ndgen】",
+                "thumbnail": "https://i.ytimg.com/vi/J9rqKLsYbmk/hqdefault.jpg?v=67bd9972&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAon9hp2XqZ7JQGUwHTx2awxa3ddA",
+                "description": "Reine's new original song now 「Yummy Yum Yummy!」AVAILABLE on iTunes, Apple Music, Spotify etc. Click to stream!\nパヴォリア・レイネ新曲「ヤミヤムヤミ」\nhttps://cover.lnk.to/mU..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -410,7 +424,14 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "nPu--v28FfI",
+                "title": "【 Minecraft 】博物館建築開始！！！土台をきめたいいいいいいいいいいいい✨【鷹嶺ルイ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/nPu--v28FfI/hqdefault.jpg?v=67bd9da2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQ1pnW1N729JUH96ccYlo9I7vS2A",
+                "description": "どんな博物館にしようかな？\n\n【使用MOD】\n使用MOD：Complementary Shaders\n制作者：EminGT\n配布URL：https://www.curseforge.com/minecraft/customization/complementary-shaders..."
+            }
+        ]
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
