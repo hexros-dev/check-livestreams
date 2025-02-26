@@ -135,7 +135,14 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/XXZ4apG-FPN8G8DpYacbnwxs7S5tf2tjV_u2Eaot3JHGAkSPFBYaGMOyJcAHhLYy_u11JD7O29I",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "1_YGgat2O4M",
+                "title": "【Minecraft】ついに最強の武器を手に入れた農婦の物語【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "thumbnail": "https://i.ytimg.com/vi/1_YGgat2O4M/hqdefault.jpg?v=67bea260&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5aY1MaeYyNmsZDoTrCNxExTN3wg",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n【使用MOD】\n使用MOD：Comp..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -214,14 +221,7 @@
         "channel_url": "https://www.youtube.com/@NanashiMumei",
         "channel_name": "Nanashi Mumei Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ufO7pGRu0vUfA2FLPz7yN517i8wOYxAdcxB9nSTKKfiKhjec0ulSmwWmRA00KqVpOTIesgXhMA",
-        "videos": [
-            {
-                "video_id": "9LWzUU9rxTs",
-                "title": "【MUMEI DRAWS】ALL DONE !!! Let's go through 450 doodles !!! PART # 6",
-                "thumbnail": "https://i.ytimg.com/vi/9LWzUU9rxTs/hqdefault.jpg?v=67bd7e66&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-zzrhPgVc5xQ38Uc-o2YPiTXf7g",
-                "description": "Commissions are CLOSED !!! Not taking any new ones !!!\n\nThumbnail: https://www.pixiv.net/en/artworks/121558943\n\n≫ ──── ≪•◦ ❈ ◦•≫ ──── ≪\n\nTWITTER\nhttps://twitter.co..."
-            }
-        ]
+        "videos": []
     },
     "@NatsuiroMatsuri": {
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
