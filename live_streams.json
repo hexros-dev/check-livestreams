@@ -401,7 +401,14 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "cwDyFRz9huE",
+                "title": "【HoloRun】目指せRTA！１時間以内に自分でクリアしたい【ホロライブ/ときのそら】",
+                "thumbnail": "https://i.ytimg.com/vi/cwDyFRz9huE/hqdefault.jpg?v=67bf0c05&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSv8oVB3HT1zGk5wfWQY0iV39H2Q",
+                "description": "できるか！？\n最短への道\n\n\n～サムネイラスト～\n萌吉様：https://x.com/moezi_824\n\n本ゲームは holo Indie の承諾を得た上で配信・収益化を行っております..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
