@@ -84,7 +84,14 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "tUQOIux6e-I",
+                "title": "≪JP WEEK・日本語配信≫ ハコ太郎 VS ごく激辛麺",
+                "thumbnail": "https://i.ytimg.com/vi/tUQOIux6e-I/hqdefault.jpg?v=67c0137d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxZF6BOJiGFplXtWHcL4DcqeEUKQ",
+                "description": "明日が僕の生誕ライブです。\n盛り上がって。いきましょう。\n\n#telebae #hololiveenglish #febaerary \n\n««≪ °◇◆◇° ≫ »»\n\nWelcome to JP WEEK! This week is where..."
+            }
+        ]
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
