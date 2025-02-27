@@ -374,13 +374,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/Z78RNXxUqpOGYKFt-VrJV7nlehOHzl7Ta-l1cgPx5Ewucmr5kY64iGxmPSe7QqIdM1ZhvPlEOg",
         "videos": [
             {
-                "video_id": "DGIK6e8UT7E",
-                "title": "【 holo8 】ホロライブの事務所がお引越ししたらしいので行ってみる！【 ホロライブ / 大神ミオ】",
-                "date": "2025/02/27 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/DGIK6e8UT7E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2Baz2vvxC-Sir0lFMbxPul_vTbg",
-                "description": "ん・・？なんかおかしいような・・\n\n本ゲームは holo Indie の承諾を得た上で配信・収益化を行っております。\nThis game is being streamed and monetized..."
-            },
-            {
                 "video_id": "cNoSMkVlBeA",
                 "title": "【メンバーシップ限定】初めてのオノマトペASMR～～擬音を囁きます。",
                 "date": "2025/02/27 21:00:00",
@@ -465,6 +458,13 @@
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
         "videos": [
             {
+                "video_id": "PYzNgpvAe_M",
+                "title": "【HoloRun】駆け抜けてーゆくー僕達のぉーせーいーしゅーんのひかーりはー【ホロライブ/白上フブキ】",
+                "date": "2025/02/27 16:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/PYzNgpvAe_M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAf9VVy-4D4D2pZAuEabCdbjxnuKg",
+                "description": "\"🌽白上フブキ1stソロライブ FBKINGDOM “ANTHEM”🌽\n\n✦配信チケット(D席)\nhttps://fbkingdom.hololivepro.com/live/tickets/ \n✦グッズ 2次販売/3月10日（月）18:00まで..."
+            },
+            {
                 "video_id": "ea-kt_QynQE",
                 "title": "【リンバス・カンパニー】Limbus Company２周年おめでとぉおおおお！！【ホロライブ/白上フブキ】",
                 "date": "2025/02/27 20:00:00",
@@ -527,15 +527,7 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/meRnxbRUm5yPSwq8Q5QpI5maFApm5QTGQV_LGblQFsoO0yAV4LI-nSZ70GYwMZ_tbfSa_O8MTCU",
-        "videos": [
-            {
-                "video_id": "qXNTpNSpJzo",
-                "title": "【 雑談-Freetalk- 】ホロメンと遊んできたーー！！近況報告！！🌟【常闇トワ/ホロライブ】",
-                "date": "2025/02/27 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/qXNTpNSpJzo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBb7bgEEYqZ_gK25P0XUQhVMrXvdw",
-                "description": "BGM使用させていただきました。「Night Glow」\nhttps://www.youtube.com/watch?v=O42wSO-FEI8\n\n୨୧-------------------------------┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈..."
-            }
-        ]
+        "videos": []
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
@@ -595,7 +587,15 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "E2Zldcte4vI",
+                "title": "【DRAWING】GUESS WHO I WILL DRAWWW!!!!  👀",
+                "date": "2025/02/27 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/E2Zldcte4vI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcNDx15ZU81MP9HgWwRXh9gZE65g",
+                "description": "『 X formely Twitter 』\nhttps://x.com/raorapanthera\n\n『 Hashtags 』\n╰┈➤ Live  #CiaoRaora\n╰┈➤ Fanarts  #RaorArt\n╰┈➤ Clips  #RaraWara\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
+            }
+        ]
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
