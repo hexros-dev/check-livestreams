@@ -273,7 +273,22 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/FT92k-lGkFhElXOuq3KlwCvCpWPlEYwtAy2tjRibnmkrPP-Aaksbf2_P7XY26O9R2W4efoP7",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "iHEvDMazAUs",
+                "title": "【SOLO LIVE】After Talk and Behind the Scenes! #CalliMoire",
+                "date": "2025/02/28 12:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/iHEvDMazAUs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCn1KrR7EymFMq4_dJCrkaK9CowIg",
+                "description": "▼Streaming Tickets\nOverseas: https://grimoire.hololivepro.com/tickets/\n日本: https://grimoire.hololivepro.com/tickets/?lang=jp\n\n▼Concert Website\nhttps://grimoire.hololivepro.com/\n\n▼Concert..."
+            },
+            {
+                "video_id": "jnabzXDP86s",
+                "title": "【Member's Only】Concert Chatting!? #CalliMoire",
+                "date": "2025/02/28 14:10:00",
+                "thumbnail": "https://i.ytimg.com/vi/jnabzXDP86s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZUYhf2fZHc9qokbbg4z0hkg0zuA",
+                "description": "▼Streaming Tickets\nOverseas: https://grimoire.hololivepro.com/tickets/\n日本: https://grimoire.hololivepro.com/tickets/?lang=jp\n\n▼Concert Website\nhttps://grimoire.hololivepro.com/\n\n▼Concert..."
+            }
+        ]
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
