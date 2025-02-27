@@ -21,7 +21,22 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "7juJzyvfI2Y",
+                "title": "【Fast Food Simulator】バーガーショップはじめました！w/あれるさん、巫神こんちゃん【ホロライブ/アキ・ローゼンタール】",
+                "date": "2025/02/27 14:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/7juJzyvfI2Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDO2YcAnOdbpu3cBKQzfBqtB1_4XA",
+                "description": "🎂アキロゼ生誕祭グッズ発売🎂\nhttps://shop.hololivepro.com/products/akirosenthal_bd2025\n\n🎧アキロゼ新曲【異薔薇】リリース\nhttps://cover.lnk.to/5bvecc\n\n配信タグ..."
+            },
+            {
+                "video_id": "UQGnyyOr_D0",
+                "title": "【VALHEIM】#限界コントRUST 北欧神話の世界で海賊生活始めます！Part5【ホロライブ/アキロゼ】",
+                "date": "2025/02/27 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/UQGnyyOr_D0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcbFvep_-7xHzGicjPkYzLqbaJqw",
+                "description": "初見ヴァルヘイムだー！！え？海賊生活じゃない？\n\n🎂アキロゼ生誕祭グッズ発売🎂\nhttps://shop.hololivepro.com/products/akirosenthal_bd2025\n\n🎧アキロゼ新曲..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -381,15 +396,7 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZlovVsPyh8NgS37S4dfONiCBySiboGPbT9cYuirb8JM3JhSnqlpJk-8SQUEA7jPfqXpMvjaa",
-        "videos": [
-            {
-                "video_id": "2tUUw1ggPAg",
-                "title": "No Money No Wenches【Minecraft New Hololive Server】",
-                "date": "2025/02/27 07:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/2tUUw1ggPAg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhUciiEWHYneC0YyVd2qHtNE8bBA",
-                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n\n==============..."
-            }
-        ]
+        "videos": []
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
