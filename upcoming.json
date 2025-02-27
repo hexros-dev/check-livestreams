@@ -321,21 +321,21 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": [
-            {
-                "video_id": "2h2xPSqO_lg",
-                "title": "【AmiAmi】 Half-Year Anniversary Celebrations!!! What's New with AmiAmi?!",
-                "date": "2025/02/27 13:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/2h2xPSqO_lg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOSCZCWEIeSIOuUrpTQx7PLvLxbQ",
-                "description": "I became the official ambassador for AmiAmi!!\nMake sure to check out their website~!! \nhttps://www.amiami.com/eng/?utm_source=youtube&utm_medium=PR&utm_campaign=2409_Inanis\n\nQuick link to find..."
-            }
-        ]
+        "videos": []
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "UsLwSkhFjzg",
+                "title": "【歌枠/KARAOKE】放課後は✨️アニソンカラオケ✨️で決まり🎶 #ポルカ公演中 【尾丸ポルカ/ホロライブ】",
+                "date": "2025/02/27 14:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/UsLwSkhFjzg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADA5yy90CoQw4MaDKgmVPiWeSp-Q",
+                "description": "サムネありがとうございます！\nhttps://x.com/yami40oji\n\nこのライブに用いている一部音源は、株式会社エクシングより提供されています。\n\n\n\n\n◆+｡･ﾟ..."
+            }
+        ]
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
