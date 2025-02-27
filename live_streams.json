@@ -231,14 +231,7 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": [
-            {
-                "video_id": "2h2xPSqO_lg",
-                "title": "【AmiAmi】 Half-Year Anniversary Celebrations!!! What's New with AmiAmi?!",
-                "thumbnail": "https://i.ytimg.com/vi/2h2xPSqO_lg/hqdefault.jpg?v=67bfd21a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOSCZCWEIeSIOuUrpTQx7PLvLxbQ",
-                "description": "I became the official ambassador for AmiAmi!!\nMake sure to check out their website~!! \nhttps://www.amiami.com/eng/?utm_source=youtube&utm_medium=PR&utm_campaign=2409_Inanis\n\nQuick link to find..."
-            }
-        ]
+        "videos": []
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -364,7 +357,14 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/4wLMmSJkzy4vmWfWYkmzn6YO9T__jp1cORNuFXN7YyihwvhGkqXCxNBaklKoXlgdik-Fp0Zu",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "aJfIHTkolJQ",
+                "title": "【 Minecraft 】ペコムラで爆買いしたいので資金稼ぎをする！！【角巻わため/ホロライブ４期生】",
+                "thumbnail": "https://i.ytimg.com/vi/aJfIHTkolJQ/hqdefault.jpg?v=67bf56d2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCQFCGHlKxGGDdR3Z620eahv5w-g",
+                "description": "一旦20時までに終わる予定！\nタグ：#ドドドライブ\n\n配信タイトル：Minecraft\nストアページ：https://www.minecraft.net/ja-jp\n本ゲームは Mojang に確認を得た上..."
+            }
+        ]
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
