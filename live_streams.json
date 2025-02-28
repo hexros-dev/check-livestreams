@@ -91,14 +91,7 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": [
-            {
-                "video_id": "viPlIHvk724",
-                "title": "≪-KAGURA- Dance of the Gods 3D LIVE≫ Hakos Baelz Birthday 2025 + ANNOUNCEMENTS! #BaeDDay2025",
-                "thumbnail": "https://i.ytimg.com/vi/viPlIHvk724/hqdefault.jpg?v=67be8334&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAC3RTkC8lwmFEQOBjZ6PGeXpG-2Q",
-                "description": "神様の舞がくる。\n\n««≪ °◇◆◇° ≫ »»\n\n- KAGURA - Dance of the Gods Merch!\n(Available at 22:00 JST )\n\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/produc..."
-            }
-        ]
+        "videos": []
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -234,7 +227,14 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/ORf3qREMw-ycNKEoaOGFib5yr8B1v--YzmyODCIZ6aieC505HZoHxeEk-H0vjo7PFCd12p0LcQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Mlv7v4zm6iE",
+                "title": "【Escape the Backrooms】4人で怖い空間から脱出…！【水宮枢／FLOW GLOW】#hololiveDEV_IS",
+                "thumbnail": "https://i.ytimg.com/vi/Mlv7v4zm6iE/hqdefault.jpg?v=67c1681f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAaWtGTgV2dopVQfBB3b7G7RBqFA",
+                "description": "怖いの大苦手人間です✋\n@YukihanaLamy @ShiroganeNoel @Robocosan \n本ゲームは Fancy Games に確認の上配信・収益化を行なっております。\n\n素敵なイラスト⬇️..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -289,7 +289,14 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "jyfDICJUjwU",
+                "title": "【 Minecraft 】やりたいこといっぱいなんですよ～～う【 猫又おかゆ/ホロライブ 】",
+                "thumbnail": "https://i.ytimg.com/vi/jyfDICJUjwU/hqdefault.jpg?v=67c07c04&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6jO-kj9KmdTs0NUCM5PQVgC7_Jg",
+                "description": "-\n\nイラスト▸まつ@さん( https://x.com/forge_saikyo )\n\n※本ゲームは Mojang に確認を得た上、Terms and Conditions\n (https://account.mojang.com/terms)  に基づいて配信・..."
+            }
+        ]
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -326,7 +333,14 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "8XjnzOBEVVE",
+                "title": "【#生スバル】日常 同時視聴 / NICHIJOU watching party【ホロライブ/大空スバル】",
+                "thumbnail": "https://i.ytimg.com/vi/8XjnzOBEVVE/hqdefault.jpg?v=67c174cd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjK30NAkyfHsyU4wC982yCSeZm_w",
+                "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n+‥‥‥‥..."
+            }
+        ]
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -350,13 +364,27 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/TejsfeJ29zBtQDJhP2TKDFAEk98-LuGRBGqrNIjbGQ05T9R5Jcl_VfsK27LZ_PXJmRP7DECk-w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "E2Dwfgj3KgI",
+                "title": "【Minecraft /マイクラ】いろいろやるだよ～～～！【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "thumbnail": "https://i.ytimg.com/vi/E2Dwfgj3KgI/hqdefault.jpg?v=67c1a6ef&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAanyjp5r-JadwIRyKcFcq5q-t4iA",
+                "description": "ハチの巣探しとかいろいろやるぞ！！！\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms\n) に基づいて配信・収益化を..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/gKitLHfMqsfmC26xRBBNBVE9jz4m0X-xAvcdPUwy8VPa4FCw0-XRxOKLvJZxm-lQnIDQU2rDA0k",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "w5276dzo97U",
+                "title": "【 Escape the Backrooms 】なんだこの部屋は！！圧を感じるので早くここから脱出したいです！！【ホロライブ/ロボ子さん】",
+                "thumbnail": "https://i.ytimg.com/vi/w5276dzo97U/hqdefault.jpg?v=67c12bca&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVpIjTVzFp8hNRiL-kYmIuE6xvsQ",
+                "description": "💬＃ロボ子生放送　でポストしてってね✨\n\n\n@ShiroganeNoel \n@YukihanaLamy \n@MizumiyaSu \n\n\n本ゲームは Fancy Games に確認の上配信・収益化を行なっております..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -406,7 +434,14 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "JPVYJ80S9Uw",
+                "title": "【Escape the Backrooms】ずっと逃げ続けてきたけど...4人で探索なら怖くないッ！【白銀ノエル/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/JPVYJ80S9Uw/hqdefault.jpg?v=67c15ce2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqngZWrSUXzWd8sIJGjc96Hig2ig",
+                "description": "🔍バックルーム とは？\n\n💛素敵なメンバー💛\n@Robocosan 圧倒的高性能！ロボちゃん！\n@YukihanaLamy 圧倒的パッション！ラミィの助！\n@MizumiyaSu 圧倒的..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -456,7 +491,14 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "YfczCbwckm0",
+                "title": "【モンスターハンターワイルズ 】PART1　固定パーティ結成！いざ未知なる世界へ！🍖【常闇トワ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/YfczCbwckm0/hqdefault.jpg?v=67c17fd6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcJ808RiVOD0TnQWb62U2XNdbX3Q",
+                "description": "メンバー：\n常闇トワ　 @TokoyamiTowa  \nSelly  @Selly_o55  \nラトナ・プティ  @RatnaPetit  ←おやすみ\nアステル・レダ  @AstelLeda  \n\n\n\nこの動画およびライブは株..."
+            }
+        ]
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
@@ -480,7 +522,14 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "YxaMj5HB1-w",
+                "title": "【Escape the Backrooms】4人で何やら怪しい場所に出かけるそうです…【 雪花ラミィ /ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/YxaMj5HB1-w/hqdefault.jpg?v=67c057f1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCHzQJb_f5_FSU0S-8JKBeABjPJJQ",
+                "description": "ロボ子先輩　https://www.youtube.com/@Robocosan\nのえたん　　https://www.youtube.com/@ShiroganeNoel\nすうちゃん　https://www.youtube.com/@MizumiyaSu\n\n本ゲームは Fancy Games..."
+            }
+        ]
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
