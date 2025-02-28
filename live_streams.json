@@ -203,7 +203,14 @@
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
         "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/4XC0YEED9T4kvdLbJNK5f8GRCUNJds21yPXR4lNgH_CCjR-gbOYzod-vjfbH93YNFm6CiSSskA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "-gl6235YFj0",
+                "title": "【Minecraft】TNTキャノンの続き作ってゆっくりマイクラ！【虎金妃笑虎】",
+                "thumbnail": "https://i.ytimg.com/vi/-gl6235YFj0/hqdefault.jpg?v=67c1af5d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQMx5lOqIdzU9pNHsrHBP34SZFWQ",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n【使用MOD】\n使用MOD：Comp..."
+            }
+        ]
     },
     "@KosekiBijou": {
         "channel_url": "https://www.youtube.com/@KosekiBijou",
@@ -396,14 +403,7 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/aKZHZDkvcHSEQSq5B6NSBTylOs7GhBMxqasvmS3IGX9c3YJ7CQ349uy64oE4rQERMZuV3bwa",
-        "videos": [
-            {
-                "video_id": "CsdIz2Ql5zA",
-                "title": "【 #ホロタイピング最速王 】ホロライブタイピング最速王決定戦💻🔥トーナメント抽選会‼【ホロライブ/さくらみこ】",
-                "thumbnail": "https://i.ytimg.com/vi/CsdIz2Ql5zA/hqdefault.jpg?v=67c13da8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhOPzFUDzBYtAdiDry9-GminUebA",
-                "description": "#ホロタイピング最速王 は一体誰だ⁉\n決定戦 3/1 (土) 19:00 START\n\n配信素材🌸saku㊴\n使用ソフト　Weather Typing　\nhttps://denasu.com/software/weathertyping.html..."
-            }
-        ]
+        "videos": []
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
