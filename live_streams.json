@@ -63,7 +63,14 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "_XENcYnRd4Q",
+                "title": "≪#BaeDDay2025≫ 3D Special Dance Program!!",
+                "thumbnail": "https://i.ytimg.com/vi/_XENcYnRd4Q/hqdefault.jpg?v=67be83a3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDvinIMGKobiSzDDgWWQbR8GOpxsg",
+                "description": "send help.\n««≪ °◇◆◇° ≫ »»\nRequest from hololive Production to underage viewers:\nPlease be sure to check the link below before viewing our content.\nhttps://en.hololive.tv/request-to-..."
+            }
+        ]
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
