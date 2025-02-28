@@ -27,7 +27,7 @@
                 "video_id": "r3rUhDyMBZY",
                 "title": "【メンバー限定】いっぱいはなそ～～～～～！&作戦会議！💘【おつるーじゅ会】",
                 "thumbnail": "https://i.ytimg.com/vi/r3rUhDyMBZY/hqdefault.jpg?v=67c07844&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDh2reXAfd5UetkFulxBAm7zMSNeQ",
-                "description": "#はあちゃまなう　で放送ツイートしてね！🌟\n\n💖オリジナル新曲『Who2』でたよ！\nhttps://cover.lnk.to/pKnDsP\n\n💖Membership to support HAACHAMA!!!メンバーシッ..."
+                "description": "#はあちゃまなう　で放送ツイートしてね！🌟\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に\n基づいて配信・収..."
             }
         ]
     },
@@ -147,14 +147,7 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/LsouEz4pO50_T1MW5qjwwKuaI-HUjUS441UfS4mbmVKKDw-rTaNUVXRdM5ZJyfb_KHjyf0JU",
-        "videos": [
-            {
-                "video_id": "y7K1tKC7ycA",
-                "title": "【モンハンワイルズ】初モンハン。酔っ払いです。らでんちゃんが襲来しています【一条莉々華/hololive DEV_IS　ReGLOSS】",
-                "thumbnail": "https://i.ytimg.com/vi/y7K1tKC7ycA/hqdefault.jpg?v=67c19ba6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9f4ih7dhixt79CqnotN0ZGxUKXg",
-                "description": "この動画およびライブは株式会社カプコンの利用許諾を受けて配信しています\nモンスターハンターワイルズ \n©CAPCOM\n#モンハンワイルズ\n\nーーーー..."
-            }
-        ]
+        "videos": []
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -535,7 +528,14 @@
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
         "channel_name": "Choco Ch. 癒月ちょこ",
         "avatar_url": "https://yt3.googleusercontent.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "FMKBR_KrJZI",
+                "title": "【Liminalcore】現実が歪み、理性が試される世界で迷子になりました…。【ホロライブ/癒月ちょこ】",
+                "thumbnail": "https://i.ytimg.com/vi/FMKBR_KrJZI/hqdefault.jpg?v=67c12f35&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQE_7PWIlrnnW_u9GYkO9FJhKfDA",
+                "description": "サブ垢→https://www.youtube.com/channel/UCp3tgHXw_HI0QMk1K8qh3g\n\n癒月ちょこ 誕生日記念2025\n■販売ページURL\nhttps://shop.hololivepro.com/products/yuzukichoco_bd2025\n\nOP＆ED動..."
+            }
+        ]
     },
     "@dooby3d": {
         "channel_url": "https://www.youtube.com/@dooby3d",
