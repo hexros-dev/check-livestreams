@@ -194,15 +194,7 @@
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
         "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/4XC0YEED9T4kvdLbJNK5f8GRCUNJds21yPXR4lNgH_CCjR-gbOYzod-vjfbH93YNFm6CiSSskA",
-        "videos": [
-            {
-                "video_id": "2NvAMt_DW58",
-                "title": "【Minecraft】TNTキャノンリベンジする虎さんだぞ！！！！【虎金妃笑虎】",
-                "date": "2025/02/28 16:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/2NvAMt_DW58/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbbaRhncK8Fd7ZT8RBF_W8YlegAg",
-                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n【使用MOD】\n使用MOD：Comp..."
-            }
-        ]
+        "videos": []
     },
     "@KosekiBijou": {
         "channel_url": "https://www.youtube.com/@KosekiBijou",
@@ -348,7 +340,15 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "fkx544qvT80",
+                "title": "【モンハンワイルズ 】ギャルでいく‼️マルチだったりストーリーだったり‼️ #ポルカ公演中 【尾丸ポルカ視点/ホロライブ】",
+                "date": "2025/02/28 16:45:00",
+                "thumbnail": "https://i.ytimg.com/vi/fkx544qvT80/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUJP5EiiD-cDtWBQUCgQMkJ_S51A",
+                "description": "@AkiRosenthal ハーフエルフ\n@ShiranuiFlare ハーフエルフ\n@YukihanaLamy ハーフエルフ\n\n※予定があるので早抜けしたあと再び枠を取り直して合流予定です！..."
+            }
+        ]
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
@@ -550,17 +550,17 @@
         "videos": [
             {
                 "video_id": "YfczCbwckm0",
-                "title": "【モンスターハンターワイルズ 】PART1.5　固定パーティ結成！いざ未知なる世界へ！🍖【常闇トワ/ホロライブ】",
+                "title": "【モンスターハンターワイルズ 】PART1　固定パーティ結成！いざ未知なる世界へ！🍖【常闇トワ/ホロライブ】",
                 "date": "2025/02/28 20:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/YfczCbwckm0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcJ808RiVOD0TnQWb62U2XNdbX3Q",
-                "description": "メンバー：\n常闇トワ　 @TokoyamiTowa  \nSelly  @Selly_o55  \nラトナ・プティ  @RatnaPetit  \nアステル・レダ  @AstelLeda  \n\n\n\nこの動画およびライブは株式会社カプ..."
+                "description": "メンバー：\n常闇トワ　 @TokoyamiTowa  \nSelly  @Selly_o55  \nラトナ・プティ  @RatnaPetit  ←おやすみ\nアステル・レダ  @AstelLeda  \n\n\n\nこの動画およびライブは株..."
             },
             {
                 "video_id": "iC8ByfQY0aE",
-                "title": "【モンスターハンターワイルズ 】固定パーティ結成！いざ未知なる世界へ！🍖PART1【常闇トワ/ホロライブ】",
-                "date": "2025/02/28 17:00:00",
+                "title": "【モンスターハンターワイルズ 】武器探しやら操作慣れやら！【常闇トワ/ホロライブ】",
+                "date": "2025/02/28 17:30:00",
                 "thumbnail": "https://i.ytimg.com/vi/iC8ByfQY0aE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4hBRO5r7ElNdQNgPx91B2WOM3XQ",
-                "description": "メンバー：\n常闇トワ　@TokoyamiTowa \nSelly @Selly_o55 \nラトナ・プティ @RatnaPetit \nアステル・レダ @AstelLeda \n\n\n\nこの動画およびライブは株式会社カプコンの..."
+                "description": "この動画およびライブは株式会社カプコンの利用許諾を受けて配信しています\nモンスターハンターワイルズ \n©CAPCOM\n#モンハンワイルズ\n\nコード提..."
             }
         ]
     },
