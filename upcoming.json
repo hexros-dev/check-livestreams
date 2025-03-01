@@ -423,7 +423,15 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "iTsgSdUKkms",
+                "title": "【ドンキーコング リターンズ HD】めためた久々！覚えてるかな～？【ホロライブ/ときのそら】",
+                "date": "2025/03/01 12:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/iTsgSdUKkms/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQxJdwG6Ejy2HJ945Q7ZbwGazqeQ",
+                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n★★★★★★★★★★★★★★★★★★★★★★\n\n🌟ときのそら初..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
