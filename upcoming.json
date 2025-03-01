@@ -200,7 +200,15 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "S0iYZszbVBA",
+                "title": "【MONSTER HUNTER WILDS】I'M THE DANGER",
+                "date": "2025/03/02 07:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/S0iYZszbVBA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAY5q4BMtmMr-DSRcFJD22OST1YOg",
+                "description": "Thumbnail Art: @holystars123 thank you!\nhttps://x.com/holystars123/status/1893293494359466002/photo/1\n\nThis video and livestream are being streamed with permission and under license by CAPCOM..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
