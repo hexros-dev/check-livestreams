@@ -380,15 +380,7 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": [
-            {
-                "video_id": "UVpQW8tTToI",
-                "title": "#03【モンハンワイルズ 】ついに上位クエスト！いくぞ！【不知火フレア/ホロライブ】",
-                "date": "2025/03/01 22:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/UVpQW8tTToI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYy7ELRyAkFaMZyjW7PYTKGEEH8Q",
-                "description": "※ストーリーの一部は規約上、配信に乗せられないので画面消すこともあります\n\n■Newシングル「Funfair」🎧\niTunes・Spotify等でも 配信中✨\nhttps://cove..."
-            }
-        ]
+        "videos": []
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -529,7 +521,15 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "n1ozdIoJbdE",
+                "title": "【MONSTER HUNTER WILDS RELEASE】LET'S CONTINUE OUR ADVENTURE!!!",
+                "date": "2025/03/02 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/n1ozdIoJbdE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCosHhOkpbKtOh6wCwA0CgjZLz-ww",
+                "description": "HUNTING WITH \n@holoen_gigimurin  \n@NinomaeInanis \n@KosekiBijou \n\nThumbnail by https://x.com/kuwaharaT_art\n\n\nThis video and livestream are being streamed with permission and under license by..."
+            }
+        ]
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
