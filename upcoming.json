@@ -195,7 +195,15 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/ORf3qREMw-ycNKEoaOGFib5yr8B1v--YzmyODCIZ6aieC505HZoHxeEk-H0vjo7PFCd12p0LcQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "31nxN8weGhM",
+                "title": "【Toy Shop Simulator】シングルタスクです働きます✋【水宮枢／FLOW GLOW】#hololiveDEV_IS",
+                "date": "2025/03/01 20:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/31nxN8weGhM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCHnD5I0d6dXDnK7cBOMK4GyF6uPw",
+                "description": "本ゲームは PaperPixel Games に確認の上配信・収益化を行なっております。\n\n素敵なイラスト⬇️\nhttps://x.com/365sinabro/status/1895713910059376682?s=46&t=CbrrjZRpYKuQ..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -356,13 +364,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/aKZHZDkvcHSEQSq5B6NSBTylOs7GhBMxqasvmS3IGX9c3YJ7CQ349uy64oE4rQERMZuV3bwa",
         "videos": [
             {
-                "video_id": "11hUlAq5KrI",
-                "title": "【 #ホロタイピング最速王 】ホロライブタイピング最速王決定戦💻🏆！！！【ホロライブ/さくらみこ】",
-                "date": "2025/03/01 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/11hUlAq5KrI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlgn2jIwYH4n1dioqsooi1VR4vtw",
-                "description": "#ホロタイピング最速王 は一体誰だ⁉\n決定戦 3/1 (土) 19:00 START\n\n@Robocosan \n@AkiRosenthal \n@NatsuiroMatsuri \n@OozoraSubaru \n@NekomataOkayu \n@HoshimachiSuisei \n@ShiroganeNoel..."
-            },
-            {
                 "video_id": "w4dgql_5Rzk",
                 "title": "🌸 Free Chat ＆ みこち最新情報まとめ🌸",
                 "date": "2025/03/05 21:55:00",
@@ -509,15 +510,7 @@
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48",
-        "videos": [
-            {
-                "video_id": "Vz4Qig9Roro",
-                "title": "REBROADCAST =【UNARCHIVED KARAOKE】Need You Now~! 💄",
-                "date": "2025/03/01 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Vz4Qig9Roro/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgw9XMcJAEM-tAUWY9K1ItjD8AMw",
-                "description": "This is a rebroadcast = Unarchived karaoke time ♡ \nNew cover with Justice!: https://youtu.be/tBzZss_kh_0?si=LPCAhVIX_OgpyD-6 \n▬▬ι════════ﺤ\n❣ Credits ❣\n* Thumbnail..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_gigimurin": {
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
