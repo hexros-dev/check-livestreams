@@ -243,7 +243,15 @@
         "channel_url": "https://www.youtube.com/@MurasakiShion",
         "channel_name": "Shion Ch. 紫咲シオン",
         "avatar_url": "https://yt3.googleusercontent.com/K91NQLuy_JMQ65n-Opf0Q2FZBO3yOURnMRusO7o5DTjaJ1QVtP-ANN4lehK57X4KXpcI2MiRig",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "awnf6rTMzUs",
+                "title": "配信予定～～～！！！今日も1番可愛いよねっ？【ホロライブ/紫咲シオン】",
+                "date": "2025/03/02 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/awnf6rTMzUs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8CkVny77vb9ZifZCDdsJv02fUlw",
+                "description": "サムネイラスト\n\n💘バレンタインボイス2025発売中💘\nhttps://shop.hololivepro.com/products/hololive_valentinevoice2025?utm_source=youtube&utm_medium=product_shelf\n\n💜紫咲シ..."
+            }
+        ]
     },
     "@NakiriAyame": {
         "channel_url": "https://www.youtube.com/@NakiriAyame",
@@ -409,21 +417,21 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": [
-            {
-                "video_id": "m4HxLWusduE",
-                "title": "【超土下座】エクストリーム土下座（物理）【獅白ぼたん/ホロライブ】",
-                "date": "2025/03/02 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/m4HxLWusduE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDe0xHUAY_7HfYcFIhpO3Hte-BFXw",
-                "description": "土下座も物理演算でおこなう時代\n\n配信ハッシュタグ：#ぐうたらいぶ\nサムネイルのイラスト：Static\nhttps://x.com/An_Static/status/1793516023817363954\n\n配信タ..."
-            }
-        ]
+        "videos": []
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "DnNPy0kiygQ",
+                "title": "【MEMBERS ONLY】unarchived valentines karaoke ! ( rebroadcast!)",
+                "date": "2025/03/03 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/DnNPy0kiygQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJ8lePZHNRzY-guUO7Rxl_U0IBQw",
+                "description": "stream my new song, MIRAGE!✨https://cover.lnk.to/DQSp3S\n👀 Takanashi Kiara 1st Album \"Point of View\" 👀\nStreaming: https://cover.lnk.to/PointofView\n\n\n 🏵️[Twitter] 🏵️\nhttps://twitter..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
@@ -518,13 +526,6 @@
                 "date": "2025/03/03 03:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/OLfvCQbktg8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCGcsKK00OBKWzRzb6PGXcznufItQ",
                 "description": "Starting from...\n* Podcast Link: https://maximumfun.org/episodes/adventure-zone/ep-1-here-there-be-gerblins-chapter-one/  \n* Podcast:  The Adventure Zone \n* Episode: 02\n* Episode title: Here..."
-            },
-            {
-                "video_id": "i8HjPxTwMC8",
-                "title": "【KARA-REWIND】January & February Unarchived Karaoke ~! 💄",
-                "date": "2025/03/02 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/i8HjPxTwMC8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWKwRcvDz0sX35xjVyUYa3cWQ5zg",
-                "description": "LETS REWIND! A rebroadcast of ALL unarchived karaoke stream's from January & February! ♡ \n▬▬ι════════ﺤ\n❣ Credits ❣\n* Thumbnail Art: fian_f.n - https://x.com/Fianfn1..."
             }
         ]
     },
