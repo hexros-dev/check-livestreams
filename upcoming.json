@@ -3,7 +3,15 @@
         "channel_url": "https://www.youtube.com/@AZKi",
         "channel_name": "AZKi Channel",
         "avatar_url": "https://yt3.googleusercontent.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Y8EcFc0bS2s",
+                "title": "【メン限】月イチみんなとまったり雑談！3月ここだけの話！【ホロライブ / AZKi】",
+                "date": "2025/03/02 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Y8EcFc0bS2s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpgyIRfvRPiMnR3rjgd0_PZIWEgg",
+                "description": "※開始直前にメンバーシップ限定に切り替えます。\n\nサムネイラスト：花春 様\nhttps://twitter.com/KaSyun02\n\n▼メン限/Membership only　の配信について..."
+            }
+        ]
     },
     "@AiraniIofifteen": {
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
@@ -359,15 +367,7 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": [
-            {
-                "video_id": "g8GvA4645tM",
-                "title": "【モンハンワイルズ】HR4/スラッシュアックスは神武器です。【ホロライブ/白上フブキ】",
-                "date": "2025/03/02 12:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/g8GvA4645tM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBjxahqMlsE2UBNawc3Ujj0hAscg",
-                "description": "\"🌽白上フブキ1stソロライブ FBKINGDOM “ANTHEM”🌽\n\n✦配信チケット(D席)\nhttps://fbkingdom.hololivepro.com/live/tickets/ \n✦グッズ 2次販売/3月10日（月）18:00まで..."
-            }
-        ]
+        "videos": []
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
