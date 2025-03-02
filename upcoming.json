@@ -203,7 +203,15 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/ORf3qREMw-ycNKEoaOGFib5yr8B1v--YzmyODCIZ6aieC505HZoHxeEk-H0vjo7PFCd12p0LcQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "kb7FFY5ZZ50",
+                "title": "【スゴイツヨイトウフ】スゴイツヨイ水宮です✋【水宮枢／FLOW GLOW】#hololiveDEV_IS",
+                "date": "2025/03/02 20:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/kb7FFY5ZZ50/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBeRIgTwnrpz4NiRk6k6E9PHbcKxQ",
+                "description": "本ゲームは、配信ガイドラインに則り配信、収益化を行っています。\n『スゴイツヨイトウフ』\nhttps://store.steampowered.com/app/2408680/\n作品著作表記..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -329,7 +337,15 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/TejsfeJ29zBtQDJhP2TKDFAEk98-LuGRBGqrNIjbGQ05T9R5Jcl_VfsK27LZ_PXJmRP7DECk-w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "2y1J9Htdl_I",
+                "title": "【首都高バトル】日曜日の首都高ドライブ※ネタバレあり【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "date": "2025/03/02 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/2y1J9Htdl_I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbVyGs4EZvPB_ixMz_dI3klh3kDg",
+                "description": "お金貯めでライバルたちを蹴散らす\n\n\n本ゲームは元気株式会社に確認の上、配信・収益化を行なっております。\n© Genki\nhttps://store.steampowered.com/app/26..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -435,15 +451,7 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/LObfzJe4AIufIErJzQy1xzwQcA5AX6rJh8AxJe-qvG2yBO-tbTVDwXqOkoeK_MoGPC6C3lMxQ_c",
-        "videos": [
-            {
-                "video_id": "3oxT5s-RAQQ",
-                "title": "＃５【キミガシネ】完全初見！最終章突入！【轟はじめ/ReGLOSS】 #hololivedev_is",
-                "date": "2025/03/02 14:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/3oxT5s-RAQQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDWjeP_DAcRlw92XhkHeX30gF_NA",
-                "description": "素敵なサムネお写真：こちょ様（@fv2j4YyLZl30082）\n\n本ゲームは ⓒNankidai 2019 の承諾を得た上で配信・収益化を行なっております\n￣￣￣￣￣￣￣￣￣..."
-            }
-        ]
+        "videos": []
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
