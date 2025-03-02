@@ -225,15 +225,7 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": [
-            {
-                "video_id": "GQFy71KVaVo",
-                "title": "【 #桃鈴ねね生誕祭2025 】感謝の歌枠！誕生日迎えました～！重大告知あるから見てね！【 桃鈴ねね / hololive 】",
-                "date": "2025/03/02 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/GQFy71KVaVo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-OhTrA5RUUAXzaDYktkrIiL-oyQ",
-                "description": "うしし～～～～～！楽しみ！新しいセトリまみれ～～～！\n⸜♡⸝MemberShipに入ったらもっとねねを知れるﾖ\nhttps://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zq..."
-            }
-        ]
+        "videos": []
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
@@ -413,7 +405,15 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ndTTU7dXVMs",
+                "title": "#04【モンハンワイルズ 】上位クエスト！ストーリーいくぞ！【不知火フレア/ホロライブ】",
+                "date": "2025/03/02 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ndTTU7dXVMs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxbqlTlmtKCxklUh7rwx6zyELz5A",
+                "description": "※ストーリーの一部は規約上、配信に乗せられないので画面消すこともあります\n @AkiRosenthal ~アキロゼを添えて~\n\n■Newシングル「Funfair」🎧\niTunes・..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -491,7 +491,15 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "6D3aQXDGP7M",
+                "title": "【Holorun 】GUERILLA SUDDEN STREAM JUMPSCARE run in 3..2...1",
+                "date": "2025/03/02 18:15:00",
+                "thumbnail": "https://i.ytimg.com/vi/6D3aQXDGP7M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpxgxlfvJTw_O-fwZ_aYwjJ0wpZA",
+                "description": "Game title: HoloRun\n本ゲームは holo Indie の承諾を得た上で配信・収益化を行っております。\nThis game is being streamed and monetized after receiving prior consent..."
+            }
+        ]
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
