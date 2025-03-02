@@ -70,14 +70,7 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": [
-            {
-                "video_id": "Js6i2sLuTGI",
-                "title": "≪The Seven Deadly Sins: Grand Cross≫ KYAAAAAAAAAAAAAAAAAAAAAAA",
-                "thumbnail": "https://i.ytimg.com/vi/Js6i2sLuTGI/hqdefault.jpg?v=67c2f866&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCUcj5SkS_xZKLuja3XuHM31Rbp6Q",
-                "description": "Download the game here!! \nhttps://thesevenadlysinsglobal.onelink.me/magV/x56jmz6v\n\n*Sponsored The Seven Deadly Sins: Grand Cross（Netmarble Corp.)*\n\n・Website：https://7dsgc.netmarble.com..."
-            }
-        ]
+        "videos": []
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -422,7 +415,14 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "fDyrA0uuhSY",
+                "title": "【ネタバレあり】ロマンシングで進めるロマンシング サガ2 リベンジオブザセブン～8～【ホロライブ/ときのそら】",
+                "thumbnail": "https://i.ytimg.com/vi/fDyrA0uuhSY/hqdefault.jpg?v=67c3dfd9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCr1uIBPWjYwbQka1U_EQnll3a_sw",
+                "description": "本動画のゲームプレイ映像は、株式会社スクウェア・エニックスの許諾を受けて使用しています。\n© SQUARE ENIX\n\n※ネタバレありの作品です。..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
