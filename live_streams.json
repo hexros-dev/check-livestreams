@@ -400,7 +400,14 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Bg4DDoyCVKw",
+                "title": "【MONSTER HUNTER WILDS】Studying the best weapon in the game!!!",
+                "thumbnail": "https://i.ytimg.com/vi/Bg4DDoyCVKw/hqdefault.jpg?v=67c6086f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAU98yFI02IeqaGyl-quGIr2PIA2Q",
+                "description": "thumbnail art: https://x.com/nurizza_ilst/status/1892581766856118699\n\nhololive English SPRING PARTY!\n▼Official Online Shop▼\nhttps://shop.hololivepro.com/en/products/hololiveen_springparty..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
