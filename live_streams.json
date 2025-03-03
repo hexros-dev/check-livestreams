@@ -101,14 +101,7 @@
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
         "channel_name": "Suisei Channel",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
-        "videos": [
-            {
-                "video_id": "wRnwjqmgwEA",
-                "title": "【テトリス99】テトリスキャラだったことを覚えているだろうか【ホロライブ / 星街すいせい】",
-                "thumbnail": "https://i.ytimg.com/vi/wRnwjqmgwEA/hqdefault.jpg?v=67c567a8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAA8nMhEhSeviHM5d4NnYOE9QobAw",
-                "description": "☄2025.2.1 Hoshimachi Suisei 日本武道館 Live “SuperNova” 配信チケット発売中☄\n◇特設サイト　https://supernova.hololivepro.com\n◇チケットページ\n・JP：https://sup..."
-            }
-        ]
+        "videos": []
     },
     "@HoushouMarine": {
         "channel_url": "https://www.youtube.com/@HoushouMarine",
@@ -352,7 +345,14 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "bvlbvS2O5cM",
+                "title": "【Minecraft】逃げちゃダメだ！逃げちゃダメだ！地面から逃げるな！！！！【ホロライブ/白上フブキ】",
+                "thumbnail": "https://i.ytimg.com/vi/bvlbvS2O5cM/hqdefault.jpg?v=67c56c96&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxAvNaIoIZmXDWjKdxT9-D7lg9ig",
+                "description": "\"🌽白上フブキ1stソロライブ FBKINGDOM “ANTHEM”🌽\n\n✦配信チケット(D席)\nhttps://fbkingdom.hololivepro.com/live/tickets/ \n✦グッズ 2次販売/3月10日（月）18:00まで..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -416,9 +416,9 @@
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
         "videos": [
             {
-                "video_id": "M5qrBFWLNuU",
+                "video_id": "OtiKGbu3C0s",
                 "title": "【モンスターハンターワイルズ 】メインクエスト最終回！【常闇トワ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/M5qrBFWLNuU/hqdefault.jpg?v=67c55772&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEFnZR1bvu-nMCTgQWLVJz3V0VOA",
+                "thumbnail": "https://i.ytimg.com/vi/OtiKGbu3C0s/hqdefault.jpg?v=67c5925a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDw-PGtdHCIVlwVKa94E3GT08m4Dw",
                 "description": "今日のメンバー：\n常闇トワ　 @TokoyamiTowa  \nSelly  @Selly_o55  \nラトナ・プティ  @RatnaPetit\nアステル・レダ  @AstelLeda  \n\n\n\nこの動画およびライブは株式会社..."
             }
         ]

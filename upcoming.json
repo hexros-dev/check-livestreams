@@ -419,15 +419,7 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": [
-            {
-                "video_id": "bvlbvS2O5cM",
-                "title": "【Minecraft】逃げちゃダメだ！逃げちゃダメだ！地面から逃げるな！！！！【ホロライブ/白上フブキ】",
-                "date": "2025/03/03 18:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/bvlbvS2O5cM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxAvNaIoIZmXDWjKdxT9-D7lg9ig",
-                "description": "\"🌽白上フブキ1stソロライブ FBKINGDOM “ANTHEM”🌽\n\n✦配信チケット(D席)\nhttps://fbkingdom.hololivepro.com/live/tickets/ \n✦グッズ 2次販売/3月10日（月）18:00まで..."
-            }
-        ]
+        "videos": []
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -469,7 +461,15 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "5xeKXN6pPiw",
+                "title": "【Minecraft】のんびり木こりお散歩、それからインフラ【ホロライブ/ときのそら】",
+                "date": "2025/03/03 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/5xeKXN6pPiw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3wMNCnBozF8w14C4DqpwtvdQT1w",
+                "description": "整理整頓？知らない言葉ですね～。\n\n\n～サムネイラスト～\nくぅ。様\nhttps://x.com/kuuuu\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
