@@ -67,13 +67,6 @@
                 "description": "first we need to free ourselves though ✨\nlovely illustrations by @kadoseara 💓\n✨️🩵🩷 Go watch our 𝗙𝗨𝗪𝗔𝗠𝗢𝗖𝗢 𝟯𝗗 𝗕𝗜𝗥𝗧𝗛𝗗𝗔𝗬 𝗣𝗔..."
             },
             {
-                "video_id": "hhYC1mTUTPM",
-                "title": "【HOLO8】 searching for hidden anomalies in the hololive office 🐾 【FUWAMOCO】",
-                "date": "2025/03/04 09:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/hhYC1mTUTPM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBAszDHwfpVH2JnckwO1dFj_faxVw",
-                "description": "what type of chaos awaits us ✨\n✨️🩵🩷 Go watch our 𝗙𝗨𝗪𝗔𝗠𝗢𝗖𝗢 𝟯𝗗 𝗕𝗜𝗥𝗧𝗛𝗗𝗔𝗬 𝗣𝗔𝗥𝗧𝗬 🩵🩷✨️\n▶ https://www.youtube.c..."
-            },
-            {
                 "video_id": "xvYFHkBsDjo",
                 "title": "【#hololivefesEXPO25 PRE-EXPO CHATTING】see you next from the big stage at makuhari messe 🐾 【FUWAMOCO】",
                 "date": "2025/03/07 06:00:00",
@@ -252,7 +245,15 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "3y04kikHnNY",
+                "title": "【 モンハンワイルズ 】ダンスレッスンまでやる！！！！【 桃鈴ねね / hololive 】",
+                "date": "2025/03/04 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/3y04kikHnNY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAEWur6gpv4g6VamX7sQqw-CctR7A",
+                "description": "武器何が強くて使いやすいですか？ハンターたちよ・・・・・・\n⸜♡⸝MemberShipに入ったらもっとねねを知れるﾖ\nhttps://www.youtube.com/channel/UCAWSyEs_Io8..."
+            }
+        ]
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
