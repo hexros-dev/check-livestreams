@@ -3,7 +3,15 @@
         "channel_url": "https://www.youtube.com/@AZKi",
         "channel_name": "AZKi Channel",
         "avatar_url": "https://yt3.googleusercontent.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "YCNfLK8Agg8",
+                "title": "【Mini Tokyo 3D】東京の公共交通リアルタイム情報【ホロライブ / AZKi】",
+                "date": "2025/03/04 15:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/YCNfLK8Agg8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwq0QuCxB2oIqO7qmGT6QYC3mz6g",
+                "description": "東京都内、雪。\n\nMini Tokyo 3D\n東京の公共交通のリアルタイム3Dデジタルマップ\nマップ：https://minitokyo3d.com/\n概要：https://minitokyo3d.com/docs/master/ja/..."
+            }
+        ]
     },
     "@AiraniIofifteen": {
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
