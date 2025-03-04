@@ -3,14 +3,7 @@
         "channel_url": "https://www.youtube.com/@AZKi",
         "channel_name": "AZKi Channel",
         "avatar_url": "https://yt3.googleusercontent.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos",
-        "videos": [
-            {
-                "video_id": "YCNfLK8Agg8",
-                "title": "【Mini Tokyo 3D】東京の公共交通リアルタイム情報【ホロライブ / AZKi】",
-                "thumbnail": "https://i.ytimg.com/vi/YCNfLK8Agg8/hqdefault.jpg?v=67c69c9f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwq0QuCxB2oIqO7qmGT6QYC3mz6g",
-                "description": "東京都内、雪。\n\nMini Tokyo 3D\n東京の公共交通のリアルタイム3Dデジタルマップ\nマップ：https://minitokyo3d.com/\n概要：https://minitokyo3d.com/docs/master/ja/..."
-            }
-        ]
+        "videos": []
     },
     "@AiraniIofifteen": {
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
@@ -403,7 +396,14 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "sxDHMJHTEvg",
+                "title": "【 Minecraft 】おかゆｼｬｯﾁｮと一緒にピグリン要塞でフロッグライトトラップつくるうううう✨【鷹嶺ルイ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/sxDHMJHTEvg/hqdefault.jpg?v=67c61fe7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBm9QD73j0fY4e2yHxQLOPg-Y7koA",
+                "description": "みつけたぞおおおおおおおおおおおおおおおおお\n\n【使用MOD】\n使用MOD：Complementary Shaders\n制作者：EminGT\n配布URL：https://www.curseforge.com/minecraft/customizati..."
+            }
+        ]
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
