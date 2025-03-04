@@ -125,14 +125,7 @@
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": [
-            {
-                "video_id": "VRytLDcfK4Q",
-                "title": "【ただいま配信】ホロ・ライーブ エピソード563/ころねの帰還",
-                "thumbnail": "https://i.ytimg.com/vi/VRytLDcfK4Q/hqdefault.jpg?v=67c67af9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATQLjHIjE2jo1ItanBHfz2uTYEAQ",
-                "description": "タグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nころねTwitter▶https://twitter.com/inugamikorone\n\n-----------------------------..."
-            }
-        ]
+        "videos": []
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
@@ -156,7 +149,14 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/XXZ4apG-FPN8G8DpYacbnwxs7S5tf2tjV_u2Eaot3JHGAkSPFBYaGMOyJcAHhLYy_u11JD7O29I",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "UREtjYpvDvQ",
+                "title": "【Minecraft】伝説の農婦ヴィヴィと秘密の部屋【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "thumbnail": "https://i.ytimg.com/vi/UREtjYpvDvQ/hqdefault.jpg?v=67c6cc34&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDK8AXZQ9HQIjq5n_XfJRGxHDpukQ",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n【使用MOD】\n使用MOD：Comp..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -240,7 +240,14 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "9nFGqEzjuLw",
+                "title": "【 Minecraft 】ルイと一緒に蛙とらっぷ作るぞ～～🐸💜【 猫又おかゆ/ホロライブ 】",
+                "thumbnail": "https://i.ytimg.com/vi/9nFGqEzjuLw/hqdefault.jpg?v=67c6988d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvHDGjsxTwVnBC90rRoQxGG6a87g",
+                "description": "-\n\nルイがいるから安心安全😸\n\n---------\n\n🍙猫又おかゆ 2nd Live.「ぺるそにゃ～りすぺくと」🍙\n2025年5月28日（水）ぴあアリーナMMにて開催決定！..."
+            }
+        ]
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -277,7 +284,14 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "cuBAtp-_beY",
+                "title": "【#生スバル】記念ライブ振り返り＆ありがとうしゅばあああああああああああああああああ！！！！！【ホロライブ/大空スバル】",
+                "thumbnail": "https://i.ytimg.com/vi/cuBAtp-_beY/hqdefault.jpg?v=67c6af11&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZ_1STI4JVxdy7K6VQ_uivETrE8g",
+                "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n+‥‥‥‥..."
+            }
+        ]
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -314,14 +328,7 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/gKitLHfMqsfmC26xRBBNBVE9jz4m0X-xAvcdPUwy8VPa4FCw0-XRxOKLvJZxm-lQnIDQU2rDA0k",
-        "videos": [
-            {
-                "video_id": "yusLlVlS6oM",
-                "title": "【＃ロボ子７周年記念】７周年の特盛お披露目会❣逆凸にもいってみよおお【ホロライブ/ロボ子さん】",
-                "thumbnail": "https://i.ytimg.com/vi/yusLlVlS6oM/hqdefault.jpg?v=67c2accf&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvdKWyLLb-Ue0pBxqK_RILbTOt8Q",
-                "description": "💬  ＃ロボ子７周年記念  でポストしてってね✨\n\n２０時販売開始\nhttps://shop.hololivepro.com/products/robocosan_an7th\n\n📢Memberはこちらから❧\nhttps://www.youtube.c..."
-            }
-        ]
+        "videos": []
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -409,14 +416,7 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/LObfzJe4AIufIErJzQy1xzwQcA5AX6rJh8AxJe-qvG2yBO-tbTVDwXqOkoeK_MoGPC6C3lMxQ_c",
-        "videos": [
-            {
-                "video_id": "hveZ5j-WBkQ",
-                "title": "【メン限】ほぼ無言サインかきかき【轟はじめ/ReGLOSS】 #hololivedev_is",
-                "thumbnail": "https://i.ytimg.com/vi/hveZ5j-WBkQ/hqdefault.jpg?v=67c6cfb2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCv9RNFZvZ2d7gwkJ2NIdBhODVzHA",
-                "description": "素敵なサムネお写真：Elim Ou / エリム・オウ様（@elim_ou）\n\n1時間くらい作業するよ～！\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n✨宣伝✨\n\n💜【Ori..."
-            }
-        ]
+        "videos": []
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
@@ -495,7 +495,14 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "a9UcN8J8Ijo",
+                "title": "【MONSTER HUNTER WILDS】RAOOOOOOO I AM A PRO HUNTER NOW!!!",
+                "thumbnail": "https://i.ytimg.com/vi/a9UcN8J8Ijo/hqdefault.jpg?v=67c6705a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsBDNflZJb25HnylHqM-4_ASm2dw",
+                "description": "This video and livestream are being streamed with permission and under license by CAPCOM CO., LTD.\nMonster Hunter Wilds\n©CAPCOM\n#MHWilds\nPalico accessories were designed and created with permissio..."
+            }
+        ]
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
