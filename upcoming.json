@@ -282,7 +282,15 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/FT92k-lGkFhElXOuq3KlwCvCpWPlEYwtAy2tjRibnmkrPP-Aaksbf2_P7XY26O9R2W4efoP7",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "67oDstKku4k",
+                "title": "【TRIBE NINE】deadly BASEBALL with YOU DEAD BEATS!! #sponsored #ad",
+                "date": "2025/03/06 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/67oDstKku4k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1PczVVl9jOvt_0adSM4zUKagLEQ",
+                "description": "Promotion: Tribe Nine\n\nAvailable on Steam, iOS, and Android!\nDownload & play now from the link below!\nhttps://tribenine.onelink.me/C6Ov/rh55xbmp\n\n▼ Redeem a code to get in-game items!\n【T9STR0AA..."
+            }
+        ]
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -324,15 +332,7 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": [
-            {
-                "video_id": "__Y5dNpTv2c",
-                "title": "【MONSTER HUNTER WILDS】 SPEEEEEEEN",
-                "date": "2025/03/05 07:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/__Y5dNpTv2c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvy5apn1crwCjrLvigknGEBhsciQ",
-                "description": "【Thumbnail Art】\nhttps://x.com/Drowzzi_boi/status/1896657078418350256\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\nThis video and livestream are being streamed with permission and under..."
-            }
-        ]
+        "videos": []
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -447,7 +447,7 @@
             {
                 "video_id": "6AuVTbFcGMk",
                 "title": "【HOLORUN】RUNNING TO JAPAN #kfp #キアライブ",
-                "date": "2025/03/06 12:00:00",
+                "date": "2025/03/05 12:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/6AuVTbFcGMk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAigMlwr0eoSkLxTsvkpYFE_Wqi0A",
                 "description": "stream my new song, MIRAGE!✨https://cover.lnk.to/DQSp3S\n👀 Takanashi Kiara 1st Album \"Point of View\" 👀\nStreaming: https://cover.lnk.to/PointofView\n\n\n 🏵️[Twitter] 🏵️\nhttps://twitter..."
             }

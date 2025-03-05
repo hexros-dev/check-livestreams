@@ -231,20 +231,20 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "__Y5dNpTv2c",
+                "title": "【MONSTER HUNTER WILDS】 SPEEEEEEEN",
+                "thumbnail": "https://i.ytimg.com/vi/__Y5dNpTv2c/hqdefault.jpg?v=67c6e641&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvy5apn1crwCjrLvigknGEBhsciQ",
+                "description": "【Thumbnail Art】\nhttps://x.com/Drowzzi_boi/status/1896657078418350256\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\nThis video and livestream are being streamed with permission and under..."
+            }
+        ]
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": [
-            {
-                "video_id": "T3TsSekI7cw",
-                "title": "【OHAPOL】#148 3/5水曜日！がくますいようびだぞ！ #ポルカ公演中 【尾丸ポルカ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/T3TsSekI7cw/hqdefault.jpg?v=67c76994&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgBrrJ-0ic1XVqYSQrLJfP306AhQ",
-                "description": "サムネイルありがとうございます！\nhttps://x.com/urukyabe2\n\n✨️✨️1stアルバム「Filmy Funny」発売✨️✨️\nやしきん、cosMo＠暴走P、鈴華ゆう子（和楽器..."
-            }
-        ]
+        "videos": []
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
