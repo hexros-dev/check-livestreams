@@ -133,14 +133,7 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/LsouEz4pO50_T1MW5qjwwKuaI-HUjUS441UfS4mbmVKKDw-rTaNUVXRdM5ZJyfb_KHjyf0JU",
-        "videos": [
-            {
-                "video_id": "M9Lt3dU7jAk",
-                "title": "【#holoIndie 応援大使🎮】TOKYO INDIE GAMES SUMMIT2025 出展ゲーム紹介配信！【#一条莉々華 / ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/M9Lt3dU7jAk/hqdefault.jpg?v=67c727ed&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqET5AaATyChkeA9dn_zU9dxHJkA",
-                "description": "TOKYO INDIE GAMES SUMMITの説明から\nそこに出展されているゲーム達のプレイまで‼\n盛りだくさんでお届けするよー！！✨\nインディゲーム部の輪、広が..."
-            }
-        ]
+        "videos": []
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -191,7 +184,14 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/XXZ4apG-FPN8G8DpYacbnwxs7S5tf2tjV_u2Eaot3JHGAkSPFBYaGMOyJcAHhLYy_u11JD7O29I",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "bN9UGyhTc0Q",
+                "title": "【Minecraft】伝説は受け継がれる【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "thumbnail": "https://i.ytimg.com/vi/bN9UGyhTc0Q/hqdefault.jpg?v=67c852e0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWq1ZQnlYVj2SXhruLsEyYgs0zUw",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n【使用MOD】\n使用MOD：Comp..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -423,14 +423,7 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/LObfzJe4AIufIErJzQy1xzwQcA5AX6rJh8AxJe-qvG2yBO-tbTVDwXqOkoeK_MoGPC6C3lMxQ_c",
-        "videos": [
-            {
-                "video_id": "knuY5G219PA",
-                "title": "【オフコラボ】後輩のすうたんを呼び出してみた【轟はじめ/水宮枢】 #hololivedev_is",
-                "thumbnail": "https://i.ytimg.com/vi/knuY5G219PA/hqdefault.jpg?v=67c6c550&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzUSMM0t01jnS6OWegflFrBrbNzg",
-                "description": "呼び出しに答えてくれた素敵な後輩\n‪@MizumiyaSu \n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n\n✨宣伝✨\nラプラスショコラ／水宮枢 【歌ってみた】..."
-            }
-        ]
+        "videos": []
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",

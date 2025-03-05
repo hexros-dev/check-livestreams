@@ -85,7 +85,15 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "8jypFWOAiaI",
+                "title": "≪カラオケJOYSOUND for STREAMER≫ Last Minute Fes Practice!",
+                "date": "2025/03/06 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/8jypFWOAiaI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwDrJY7TTtHF94aH1EQsBIbNq9qg",
+                "description": "ALL THE SONGS I WISH I COULD HAVE UNTIL NOW AAAAAA\n\nThumbnail Art: https://x.com/NAMIORII/status/1895138411792798008/photo/1\n\n#telebae #hololiveenglish \n««≪ °◇◆◇° ≫ »»\n\n提供:XING..."
+            }
+        ]
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -173,15 +181,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/XXZ4apG-FPN8G8DpYacbnwxs7S5tf2tjV_u2Eaot3JHGAkSPFBYaGMOyJcAHhLYy_u11JD7O29I",
-        "videos": [
-            {
-                "video_id": "bN9UGyhTc0Q",
-                "title": "【Minecraft】伝説は受け継がれる【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "date": "2025/03/05 21:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/bN9UGyhTc0Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWq1ZQnlYVj2SXhruLsEyYgs0zUw",
-                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n【使用MOD】\n使用MOD：Comp..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
