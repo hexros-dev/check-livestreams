@@ -113,7 +113,14 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "UXHkih5skIM",
+                "title": "【Monster Hunter Wilds】I WILL WEAR YOU",
+                "thumbnail": "https://i.ytimg.com/vi/UXHkih5skIM/hqdefault.jpg?v=67c74aee&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCb_7uHu0-bpOPUkg7piyWWM3IChg",
+                "description": "and look amazing in it :D\n\nThis video and livestream are being streamed with permission and under license by CAPCOM CO., LTD.\nMonster Hunter Wilds\n©CAPCOM\n#MHWilds\n\n#hololiveenglish  #ホロライ..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -245,14 +252,7 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": [
-            {
-                "video_id": "__Y5dNpTv2c",
-                "title": "【MONSTER HUNTER WILDS】 SPEEEEEEEN",
-                "thumbnail": "https://i.ytimg.com/vi/__Y5dNpTv2c/hqdefault.jpg?v=67c6e641&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvy5apn1crwCjrLvigknGEBhsciQ",
-                "description": "【Thumbnail Art】\nhttps://x.com/Drowzzi_boi/status/1896657078418350256\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\nThis video and livestream are being streamed with permission and under..."
-            }
-        ]
+        "videos": []
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
