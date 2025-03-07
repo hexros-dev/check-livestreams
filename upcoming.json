@@ -573,7 +573,15 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "UYlNn2F817I",
+                "title": "【hololive 6th fes.EXPO 応援会場】そらとものみんなー！応援席だよ。【ホロライブ/ときのそら】#hololivefesEXPO25",
+                "date": "2025/03/10 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/UYlNn2F817I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDshDJ1IzmkKeDn7PIi5jBp9mGxPA",
+                "description": "☆EXPOとfes.の出演情報だよ☆\n「hololive SUPER EXPO 2025」\n→Day1 OPENING STAGE(11:00)\n\n「hololive 6th fes. Color Rise Harmony」\n→Day2 CREATER'S STAGE STAGE\n    Day2 hololive..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
