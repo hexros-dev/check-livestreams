@@ -297,7 +297,15 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/FT92k-lGkFhElXOuq3KlwCvCpWPlEYwtAy2tjRibnmkrPP-Aaksbf2_P7XY26O9R2W4efoP7",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "m_Ugf2skRYA",
+                "title": "【6TH FES DEAD ZONE】Cheer for Mori HERE!",
+                "date": "2025/03/09 15:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/m_Ugf2skRYA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA66pkPCaKpR8TAjgpbxa9E0ZsyrA",
+                "description": "【hololive 6th fes. Color Rise Harmony 】\n公演の一部をYouTube Liveで無料配信！\n全編をご覧になりたい方は下記よりチケットをご購入ください。\nハッシュタ..."
+            }
+        ]
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
