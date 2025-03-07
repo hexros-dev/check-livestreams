@@ -99,14 +99,7 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": [
-            {
-                "video_id": "qROKmkm6g4g",
-                "title": "【#HopeyBirthday2025】KARAOKE + BIG ANNOUNCEMENT! 誕生日歌枠！重大告知あり！",
-                "thumbnail": "https://i.ytimg.com/vi/qROKmkm6g4g/hqdefault.jpg?v=67c9c2f2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBp83nrC49AX9FT1g4zksQv6nOyhA",
-                "description": "Hopey Birthday To me!!! #hololiveenglish  #ホロライブ \n\n提供︓XING INC.\n※JOYSOUND音源を使用しているため本動画の切り抜きはご遠慮ください。\n---------------------..."
-            }
-        ]
+        "videos": []
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -178,7 +171,14 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/ORf3qREMw-ycNKEoaOGFib5yr8B1v--YzmyODCIZ6aieC505HZoHxeEk-H0vjo7PFCd12p0LcQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ioAotFHjN8I",
+                "title": "【モンハンワイルズ】初心者が討伐❕！ストーリー続き【水宮枢／FLOW GLOW】#hololiveDEV_IS",
+                "thumbnail": "https://i.ytimg.com/vi/ioAotFHjN8I/hqdefault.jpg?v=67ca659c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAi9trUoG3rnZO__fjXijUKIkUY7A",
+                "description": "この動画およびライブは株式会社カプコンの利用許諾を受けて配信しています\nモンスターハンターワイルズ \n©CAPCOM\n#モンハンワイルズ\n\n▹◃┄▸..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
