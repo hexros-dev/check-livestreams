@@ -227,15 +227,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/XXZ4apG-FPN8G8DpYacbnwxs7S5tf2tjV_u2Eaot3JHGAkSPFBYaGMOyJcAHhLYy_u11JD7O29I",
-        "videos": [
-            {
-                "video_id": "aIRNy-kQSOw",
-                "title": "【#hololivefesEXPO25_DAY1】ついにキターーーーーー!!!!今日から2日間一緒に楽しもう♡【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "date": "2025/03/08 05:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/aIRNy-kQSOw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0KS17K4fftq4IwkhTl3y0IgrcCg",
-                "description": "#hololivefesEXPO25\n✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧\n\nhololive DEV_ISからデビューしたFLOW GLOWのメイク担当💅✨\n\n𐙚₊˚⊹♡コスメ..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -579,7 +571,15 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Li5HG_csGUU",
+                "title": "【 hololive 6th fes. 】Fes応援会場🌼✨️STAGE1&CREATORS' STAGE　#hololivefesEXPO25 【常闇トワ/ホロライブ】",
+                "date": "2025/03/09 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Li5HG_csGUU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJTPQJEpvX7tU-vnyG8nOpr5Ybbg",
+                "description": "トワ様は　STAGE1　と　CREATORS' STAGE　にでるよ！！！！\n\n🌟STAGE1\nhttps://www.youtube.com/watch?v=IKkSNj5uN6I\n\n🌟CREATORS' STAGE\nhttps://www.youtube.com/watch?v=wCblx1C_j68..."
+            }
+        ]
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
