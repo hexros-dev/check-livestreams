@@ -145,7 +145,15 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ohwMi3hWdS0",
+                "title": "【hololive 6th fes】 CHEER SPACE 応援会場 Hope Is Descending onto the Stage!!!",
+                "date": "2025/03/10 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ohwMi3hWdS0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAu-XT8kuXVOdHHl2i21kPy9oN5ng",
+                "description": "LET THE FESTIVALS BEGIN! CHEER ME ON HERE!! :D\n\nWIll be a part of 𝗦𝗧𝗔𝗚𝗘 𝟭 and 𝗖𝗥𝗘𝗔𝗧𝗢𝗥𝗦 𝗦𝗧𝗔𝗚𝗘 on the 7th and 8th at 8pm PST!!\n\n#hololiveengli..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -209,15 +217,7 @@
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
         "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/4XC0YEED9T4kvdLbJNK5f8GRCUNJds21yPXR4lNgH_CCjR-gbOYzod-vjfbH93YNFm6CiSSskA",
-        "videos": [
-            {
-                "video_id": "LjN6aYN-eVY",
-                "title": "【モンスターハンターワイルズ 】人生初モンハン！熊VS虎！【虎金妃笑虎】",
-                "date": "2025/03/07 12:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/LjN6aYN-eVY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZn-B8m5zH7x5AiwB0_FvfeHFkUA",
-                "description": "サムネイルのイラストは手毬まこさん！このニコたんやはり好きすぎる！！\nhttps://x.com/Temari_Maco/status/1858163749485744594\n\nhttps://store.steampowered.com/app/22463..."
-            }
-        ]
+        "videos": []
     },
     "@KosekiBijou": {
         "channel_url": "https://www.youtube.com/@KosekiBijou",
