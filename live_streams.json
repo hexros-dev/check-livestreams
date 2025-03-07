@@ -93,7 +93,14 @@
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "h-NRRBYxbUw",
+                "title": "【歌枠】歌おう♪しゃべろう♪【ホロライブ/宝鐘マリン】",
+                "thumbnail": "https://i.ytimg.com/vi/h-NRRBYxbUw/hqdefault.jpg?v=67caa01e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC899KLCEqtdTKWOD9E6mwhg_6E1g",
+                "description": "サムネイラスト…あかさあい\n\nこのライブに用いている一部の音源は、株式会社エクシングより提供されています。\n\n・一味の有志の方の製作カラ..."
+            }
+        ]
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
@@ -142,7 +149,14 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/XXZ4apG-FPN8G8DpYacbnwxs7S5tf2tjV_u2Eaot3JHGAkSPFBYaGMOyJcAHhLYy_u11JD7O29I",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "xpJHI7KGoHw",
+                "title": "【Minecraft】ようこそ！ホロサーバーへ！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "thumbnail": "https://i.ytimg.com/vi/xpJHI7KGoHw/hqdefault.jpg?v=67caae01&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD25cVfevIrMAVJHI8jd_sVHZT_dA",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n【使用MOD】\n使用MOD：Comp..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -354,7 +368,14 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "PsaVzvjT0w8",
+                "title": "【 Minecraft 】フロッグライトのところまで線路ひくだけのまったり配信☺【鷹嶺ルイ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/PsaVzvjT0w8/hqdefault.jpg?v=67caa985&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWa25AbeQ8uN1agtOJUIe_J-74Cg",
+                "description": "明日はいよいよEXPOとFes.だああああああああああ\n\n【使用MOD】\n使用MOD：Complementary Shaders\n制作者：EminGT\n配布URL：https://www.curseforge.com/minecraft/customizatio..."
+            }
+        ]
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",

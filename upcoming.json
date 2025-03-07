@@ -30,7 +30,15 @@
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
         "avatar_url": "https://yt3.googleusercontent.com/Ob0LQV8-i9FXY_GX4AEnsWsxvYUojcYtjZjtLsmjQRtPoYMZN5qWAe9hRhy7sMa19PlF61BG",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ypxkNw05cfs",
+                "title": "3人コラボ【ホロライブ/赤井はあと】",
+                "date": "2025/03/07 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ypxkNw05cfs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAruxlFuEYsVxPXP6uxhxtThBH_NA",
+                "description": "#はあちゃまなう　で放送ツイートしてね！🌟\n\n💖オリジナル新曲『Who2』でたよ！\nhttps://cover.lnk.to/pKnDsP\n\n💖Membership to support HAACHAMA!!!メンバーシッ..."
+            }
+        ]
     },
     "@AkiRosenthal": {
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
@@ -183,15 +191,7 @@
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk",
-        "videos": [
-            {
-                "video_id": "h-NRRBYxbUw",
-                "title": "【歌枠】歌おう♪しゃべろう♪【ホロライブ/宝鐘マリン】",
-                "date": "2025/03/07 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/h-NRRBYxbUw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC899KLCEqtdTKWOD9E6mwhg_6E1g",
-                "description": "サムネイラスト…あかさあい\n\nこのライブに用いている一部の音源は、株式会社エクシングより提供されています。\n\n・一味の有志の方の製作カラ..."
-            }
-        ]
+        "videos": []
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
@@ -257,15 +257,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/XXZ4apG-FPN8G8DpYacbnwxs7S5tf2tjV_u2Eaot3JHGAkSPFBYaGMOyJcAHhLYy_u11JD7O29I",
-        "videos": [
-            {
-                "video_id": "xpJHI7KGoHw",
-                "title": "【Minecraft】ようこそ！ホロサーバーへ！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "date": "2025/03/07 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/xpJHI7KGoHw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD25cVfevIrMAVJHI8jd_sVHZT_dA",
-                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n【使用MOD】\n使用MOD：Comp..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -389,7 +381,15 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "02bqTmD6EOQ",
+                "title": "【雑談】明日からのEXPO＆FESの公式サイトをチェックしてみる！【 ホロライブ / 大神ミオ 】",
+                "date": "2025/03/07 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/02bqTmD6EOQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1WikXKpmAPMz1xJUDZeXN6gxO0A",
+                "description": "雑談しつつ、明日からのイベント情報チェックしてみよ～～！！！\n\nサムネillustrator：tamoさん　https://x.com/Gaikogaigaiko\n\n3月8日㈯～3月9日㈰ 幕張メッ..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -465,7 +465,15 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "RvGmTbjoVak",
+                "title": "【【#hololivefesEXPO25_DAY2】フブキングダム国民専用応援席👑【hololive 6th fes. Color Rise Harmony hololive STAGE3】",
+                "date": "2025/03/09 21:45:00",
+                "thumbnail": "https://i.ytimg.com/vi/RvGmTbjoVak/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCiyqZhASUemU-y0QDJVOIzHzdMOw",
+                "description": "【hololive 6th fes. Color Rise Harmony 】\nハッシュタグ「 #hololivefesEXPO25_DAY2」で応援してください！\n\n▼本編チケット購入(Purchase streaming tickets)\n日本 :..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -483,7 +491,15 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "d3bUhhdnDj0",
+                "title": "【Member only / メンバー限定】明日に向けて！すこしだけ～！【獅白ぼたん/ホロライブ】",
+                "date": "2025/03/07 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/d3bUhhdnDj0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyNJiPiyjCuxFa7cHaxTmM1-sW9g",
+                "description": "サムネイルがホラーですが普通に雑談ちょびっとして寝るよ！\n\n配信ハッシュタグ：＃ぐうたらいぶ\nサムネイルのイラスト：QuasarWolf\nhttps://x.com/Quas..."
+            }
+        ]
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
@@ -510,13 +526,6 @@
                 "date": "2025/03/09 21:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/E71i3uL2adI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDADBBnmD9a88nlN3A-k_V5UVB7Nw",
                 "description": "頑張るから応援たくさんよろしくね☺✨\n#ルイ姉みてみて でもポストまってるよ～‼\n\n▼本編チケット購入(Purchase streaming tickets)\n日本 :  https://hololiv..."
-            },
-            {
-                "video_id": "PsaVzvjT0w8",
-                "title": "【 Minecraft 】フロッグライトのところまで線路ひくだけのまったり配信☺【鷹嶺ルイ/ホロライブ】",
-                "date": "2025/03/07 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/PsaVzvjT0w8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWa25AbeQ8uN1agtOJUIe_J-74Cg",
-                "description": "明日はいよいよEXPOとFes.だああああああああああ\n\n【使用MOD】\n使用MOD：Complementary Shaders\n制作者：EminGT\n配布URL：https://www.curseforge.com/minecraft/customizatio..."
             }
         ]
     },
