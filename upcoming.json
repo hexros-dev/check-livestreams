@@ -210,7 +210,15 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/K39Md5CGHmCaMC5Ne3UWBzblgzDhUzXUFszrHfGapCvOldc8E7fWw3pxN0zhcjmoht4GngnD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "LhLbRNxeHFY",
+                "title": "【#hololivefesEXPO25_DAY1】6th Fes.STAGE２をFGでみるよ～～！【 #FLOWGLOW#hololivedev_is 】",
+                "date": "2025/03/08 16:45:00",
+                "thumbnail": "https://i.ytimg.com/vi/LhLbRNxeHFY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFZ8xidVXW9XeFFe5YgC8mONX88Q",
+                "description": "先輩たちのステージ楽しみだ～～～！\n\nFLOW GLOW\n‪@RindoChihaya \n‪@KoganeiNiko \n‪@KikiraraVivi \n@RindoChihaya \n\n\n【hololive 6th fes. Color Rise Harmony 】\n公演の一部をYo..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -445,15 +453,7 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/TejsfeJ29zBtQDJhP2TKDFAEk98-LuGRBGqrNIjbGQ05T9R5Jcl_VfsK27LZ_PXJmRP7DECk-w",
-        "videos": [
-            {
-                "video_id": "qmGPsA9ktew",
-                "title": "【#hololivefesEXPO25_DAY1】6th Fes.STAGE２をFGでみるよ～～！【   #FLOWGLOW#hololivedev_is 】",
-                "date": "2025/03/08 16:15:00",
-                "thumbnail": "https://i.ytimg.com/vi/qmGPsA9ktew/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBN7veSWEwYUKLloNlU9KiYB6f0Mw",
-                "description": "先輩たちのステージ楽しみだ～～～！\n\nFLOW GLOW\n@IsakiRiona \n@KoganeiNiko \n@MizumiyaSu \n@KikiraraVivi \n\n\n【hololive 6th fes. Color Rise Harmony 】\n公演の一部をYouTube..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
