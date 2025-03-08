@@ -29,7 +29,15 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ya2IIAUEuPs",
+                "title": "【hololive 6th fes. ＆ EXPO応援会場】アキロゼ応援席はコチラ！ #hololivefesEXPO25_DAY2【ホロライブ/アキ・ローゼンタール】",
+                "date": "2025/03/09 21:45:00",
+                "thumbnail": "https://i.ytimg.com/vi/ya2IIAUEuPs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCAAzbl55sVNzgRae-y61REILoyEg",
+                "description": "🍎アキロゼの出演ライブ予定はコチラ🍎\nhololive6th fes.Color Rise Harmony『STAGE3』\n17:00 OPEN  /18:30 START \n\nペンライトの色は　ライトグリーン🍏\n\n▼チラ見..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -121,15 +129,7 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": [
-            {
-                "video_id": "c7xfx5DOmes",
-                "title": "【 6th Fes. & EXPO感想会 】姫であるぞ💓最高のライブありがちゅうううう(・o・🍬) 【姫森ルーナ/ホロライブ】",
-                "date": "2025/03/08 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/c7xfx5DOmes/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVOk6qJWLJw13e_NMwe4WoA9Wfzw",
-                "description": "ふなあああああああ(・o・🍬)\nソロ「ぐるぐるまわるまわルーナ➡守護ってルーナイト」\nはあこよと「ハレ晴れユカイ」\n\n🎊hololivefesEXPO25 情報..."
-            }
-        ]
+        "videos": []
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
