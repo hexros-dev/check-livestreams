@@ -216,7 +216,14 @@
         "channel_url": "https://www.youtube.com/@MurasakiShion",
         "channel_name": "Shion Ch. 紫咲シオン",
         "avatar_url": "https://yt3.googleusercontent.com/K91NQLuy_JMQ65n-Opf0Q2FZBO3yOURnMRusO7o5DTjaJ1QVtP-ANN4lehK57X4KXpcI2MiRig",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "f4mrPG6aBdg",
+                "title": "【 hololive 6th fes.応援会場 】ライブ後感想配信！！みんな見ててねっ【ホロライブ/紫咲シオン】",
+                "thumbnail": "https://i.ytimg.com/vi/f4mrPG6aBdg/hqdefault.jpg?v=67cad6a6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWEw3OIjKkKO-JsYdk_HL_HkypkQ",
+                "description": "ライブ後感想配信する予定です！！！\n#シオンちゃんみてー　でみんながとってくれたお写真とかみせてほしい！！\n最後の全体ライブ頑張るね！..."
+            }
+        ]
     },
     "@NakiriAyame": {
         "channel_url": "https://www.youtube.com/@NakiriAyame",
@@ -234,14 +241,7 @@
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
-        "videos": [
-            {
-                "video_id": "k0eS6FQXLMI",
-                "title": "【#hololivefesEXPO25】DAY1打ち上げ会場✨【ホロライブ/夏色まつり】",
-                "thumbnail": "https://i.ytimg.com/vi/k0eS6FQXLMI/hqdefault.jpg?v=67cc3891&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCq-gs4gIJeb3h2OSDnymhy9pjbgg",
-                "description": "@AkaiHaato \n\n...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\n\n＼🏮まつりす向けメンバーシップ🏮／\n\n▷メンバーに入ると..."
-            }
-        ]
+        "videos": []
     },
     "@NekomataOkayu": {
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
