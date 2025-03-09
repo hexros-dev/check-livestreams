@@ -130,13 +130,6 @@
                 "date": "2025/03/14 22:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/A81NFOBNvuM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCMAkL6yh1rKSN7y09RnmR_fX3IPQ",
                 "description": "💿初オリジナル曲「WAO!!」各種音楽サービスでリリース中！▼\nhttps://cover.lnk.to/WAO\n\n会話OKのフリーチャットです(ᐡ •͈ ·̫ •͈ ᐡ)助手くん同志の..."
-            },
-            {
-                "video_id": "boORVdye89Q",
-                "title": "【hololive 6th fes.＆EXPO打ち上げ会場】6th fes&EXPOおつかれさま！2次会カラオケしたくな～～い？？？🥳 #hololivefesEXPO25 【博衣こより/ホロライブ】",
-                "date": "2025/03/09 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/boORVdye89Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6Fg7xe1pVwYXQEiUsLIWrBAIH7g",
-                "description": "#こより見て でfesやEXPOの写真をつぶやいてね❣配信で使わせてもらう可能性があります✨昨年から恒例！fes終わってほしくないよ～～な打ち上げ..."
             }
         ]
     },
@@ -310,7 +303,15 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "vjezlZ3rWfU",
+                "title": "【 hololive 6th fes. ＆ EXPO 】ねねとねっ子のフェスエキスポ思い出振り返り！【 桃鈴ねね / hololive 】",
+                "date": "2025/03/09 20:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/vjezlZ3rWfU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3BpwnO97tMeDOflM56Rp_nBIEAQ",
+                "description": "かたろ！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！\n⸜♡⸝MemberShipに入ったらもっとねねを知れるﾖ\nhttps://www.youtube.com/ch..."
+            }
+        ]
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
