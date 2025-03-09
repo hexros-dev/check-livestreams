@@ -43,7 +43,15 @@
         "channel_url": "https://www.youtube.com/@AmaneKanata",
         "channel_name": "Kanata Ch. Kanata Amane",
         "avatar_url": "https://yt3.googleusercontent.com/oPU9ckNcyeHD0FFsYSxkoD1mtbslSwdmMSfoCYQWphOu5e7UeCnIF-Nt0hvvF41L5Nykga07nQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "4vSCGPZp030",
+                "title": "【hololive 6th fes.&EXPO】2日間の振り返りだーー！！！！ #hololivefesEXPO25【天音かなた/ホロライブ】",
+                "date": "2025/03/10 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/4vSCGPZp030/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGQu9X3ElgNPKBTkXt4M_VQpO03A",
+                "description": "間に合えばXの #かなたそが見る タグの画像を紹介したい（間に合わなかったら後日）\n\n--------------------------------------------------------------------------------..."
+            }
+        ]
     },
     "@AnyaMelfissa": {
         "channel_url": "https://www.youtube.com/@AnyaMelfissa",
@@ -78,10 +86,10 @@
         "videos": [
             {
                 "video_id": "0c5pHPdCcg8",
-                "title": "【#hololivefesEXPO25 CONCERT】🩵🐾 FUWAMOCO FES FREECHAT 応援枠 🐾🩷【#hololive／ホロライブ】",
+                "title": "【#hololivefesEXPO25 AFTERPARTY】our harmony, together furr-ever 🐾 【FUWAMOCO】",
                 "date": "2025/03/10 08:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/0c5pHPdCcg8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBx61DOk24xbtl3mcukRxwrUX6bIg",
-                "description": "please watch over us closely as we debut on the big stage at hololive fes ✨ we'll make you proud 🩵🩷\nWe'll be a part of 𝗦𝗧𝗔𝗚𝗘 𝟭 and 𝗖𝗥𝗘𝗔𝗧𝗢𝗥𝗦..."
+                "description": "let's revisit this amazing weekend with lots of silly stories✨\nWe were a part of 𝗦𝗧𝗔𝗚𝗘 𝟭 and 𝗖𝗥𝗘𝗔𝗧𝗢𝗥𝗦 𝗦𝗧𝗔𝗚𝗘!! 🐾 Relive our harmony..."
             },
             {
                 "video_id": "uYBFgUM_cwk",
@@ -175,29 +183,13 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/LsouEz4pO50_T1MW5qjwwKuaI-HUjUS441UfS4mbmVKKDw-rTaNUVXRdM5ZJyfb_KHjyf0JU",
-        "videos": [
-            {
-                "video_id": "2IH6uBJSLZ0",
-                "title": "【振り返り】hololive EXPO ＆ 6th FES お疲れ様でしたあああ！！！ 【一条莉々華/hololive DEV_IS #ReGLOSS #ホロライブ】",
-                "date": "2025/03/09 21:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/2IH6uBJSLZ0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9_hpzykKsNJ3uXkrH3oBzJzExGA",
-                "description": "※時間調整の可能性アリます！\nはしゃぎすぎてヘロヘロだ～～～～！！！\nでも✨ちょっとお話しよーーー🥰💓\n\n✨hololivefesEXPO25 情報✨\n2025年3月8..."
-            }
-        ]
+        "videos": []
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": [
-            {
-                "video_id": "rQ-WOVUfUHY",
-                "title": "【hololive 6th fes. Color Rise Harmony】ころね応援席🎤🐶📣✨【ホロライブ/戌神ころね】",
-                "date": "2025/03/09 21:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/rQ-WOVUfUHY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnqnHFNrreNGy1dkL1x6CbccYJWQ",
-                "description": "タグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\n「hololive 6th fes. Color Rise Harmony」配信チケット好評販売中！..."
-            }
-        ]
+        "videos": []
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
@@ -229,15 +221,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/XXZ4apG-FPN8G8DpYacbnwxs7S5tf2tjV_u2Eaot3JHGAkSPFBYaGMOyJcAHhLYy_u11JD7O29I",
-        "videos": [
-            {
-                "video_id": "5YkLndjoAb8",
-                "title": "【#hololivefesEXPO25_DAY2】みんなありがとううう！【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "date": "2025/03/09 20:45:00",
-                "thumbnail": "https://i.ytimg.com/vi/5YkLndjoAb8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSs6BQri_Fp8btndeXWdu9H4plBQ",
-                "description": "#hololivefesexpo25_day2\nサムネイルの素敵なイラスト　ばんりさん　https://x.com/bnr_banri\n✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧\n\nhololive..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -323,7 +307,7 @@
             {
                 "video_id": "m7IMrXzB8go",
                 "title": "【 hololive 6th fes. 】百鬼組Fes応援会場！CREATORS' STAGE&STAGE3　DAY2✨　#hololivefesEXPO25【百鬼あやめ/ホロライブ】",
-                "date": "2025/03/09 21:00:00",
+                "date": "2025/03/10 15:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/m7IMrXzB8go/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCCi8UyQOE7mJ49BXRBths7i6_KpA",
                 "description": "- - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - -ഒ˖°\n\n\n　　🌟百鬼あやめ 誕生日記念グッズ2024🌟\n　　　※2025年01月14日..."
             }
@@ -350,10 +334,10 @@
         "videos": [
             {
                 "video_id": "p8oMeldeHkY",
-                "title": "hololive 6th fes. Color Rise Harmony / まつりす専用応援枠",
+                "title": "【#hololivefesEXPO25】振り返り配信✨ 【ホロライブ/夏色まつり】",
                 "date": "2025/03/10 16:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/p8oMeldeHkY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzcRBoU_v0Ro134l3KNVSiI_2ntg",
-                "description": "まつりす専用の応援枠✨\n\n...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\n\n＼🏮まつりす向けメンバーシップ🏮／..."
+                "description": "#まちゅとの思い出　でツイートしてくれた写真を配信で見ながら💞\n\n...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡..."
             }
         ]
     },
@@ -361,15 +345,7 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
-        "videos": [
-            {
-                "video_id": "R6TO9-s1yw4",
-                "title": "【 hololive 6th fes. ＆ EXPO応援会場 】おかゆ応援枠です🍙 #hololivefesEXPO25【 ホロライブ/猫又おかゆ 】",
-                "date": "2025/03/09 21:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/R6TO9-s1yw4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6uIAtCXsDDC09l8dCJdS6gMSW0g",
-                "description": "----------\n\n僕の出演時間🍙✦\n\nCREATORS’ STAGE / 11:30 OPEN 13:00 START\n\nSTAGE3 / 17:00 OPEN 18:30 START\n\n僕関連のグッズとか写真ぽすとするハッシュタグは #おかゆ..."
-            }
-        ]
+        "videos": []
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -404,10 +380,17 @@
         "videos": [
             {
                 "video_id": "TAsNcqrE9Cs",
-                "title": "【Free Chat】HololiveEXPO＆6thFES 2日間楽しも～～～！【 ホロライブ / 大神ミオ 】",
+                "title": "【Free Chat】HololiveEXPO＆6thFES 2日間ありがとう！【 ホロライブ / 大神ミオ 】",
                 "date": "2025/03/09 21:30:00",
                 "thumbnail": "https://i.ytimg.com/vi/TAsNcqrE9Cs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIOOvbmPM9b6BQ9XDQgz_7ZjhzJw",
                 "description": "3月8日㈯～3月9日㈰ 幕張メッセにて開催のイベント！\nホロライブEXPO＆FESの公式情報はこちら⇩\nhttps://hololivesuperexpo2025.hololivepro.com/\n✣✣––..."
+            },
+            {
+                "video_id": "d9P532KW5uY",
+                "title": "【 #朝ミオ 】フェス翌日！月曜日のおはみぉーん！",
+                "date": "2025/03/10 05:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/d9P532KW5uY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAtLhHMOLdkomWSVPVbaHfDQDpVA",
+                "description": "EXPO＆FESの振り返りや、みんなの思い出を見ていくよ！\n\n#朝ミオおたより Twitter(X)で募集中です🌟\n今回紹介するお題は、『ホロフェスの思い出2025..."
             }
         ]
     },
@@ -419,7 +402,7 @@
             {
                 "video_id": "0C2HvJDbZuM",
                 "title": "【#生スバル】hololive 6th fes. ＆ EXPO応援会場!!!! スバル応援会場🐣【ホロライブ/大空スバル】",
-                "date": "2025/03/09 21:00:00",
+                "date": "2025/03/10 18:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/0C2HvJDbZuM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5OHkhXRfjWxVY6GbPTEeZN8-mKA",
                 "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n+‥‥‥‥..."
             }
@@ -456,7 +439,7 @@
         "videos": [
             {
                 "video_id": "lbjGlvzHCnU",
-                "title": "【hololive 6th fes. ＆ EXPO】朝から高性能ロボ子さんの振り返り打ち上げカラオケにご招待🎤【ホロライブ/ロボ子さん】",
+                "title": "【hololive 6th fes. ＆ EXPO】幻のDAY3ｗ朝から高性能ロボ子さんの振り返り打ち上げカラオケにご招待🎤【ホロライブ/ロボ子さん】",
                 "date": "2025/03/10 05:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/lbjGlvzHCnU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYVPcN_DXIWCArfBrOm5RtbjrLkw",
                 "description": "💬  ＃ロボ子生放送  でポストしてってね✨\n※この枠は後に感想枠に進化します！時間はまだ未定です！\n\n\n⚡FES＆EXPO情報⚡\nhttps://hololivesuperexpo2025...."
@@ -477,7 +460,7 @@
             {
                 "video_id": "VzGNuQHy5rk",
                 "title": "【hololive 6th fes. ＆ EXPO応援会場】みこち応援席！🌸 #hololivefesEXPO25【ホロライブ/さくらみこ】",
-                "date": "2025/03/09 20:00:00",
+                "date": "2025/03/09 21:45:00",
                 "thumbnail": "https://i.ytimg.com/vi/VzGNuQHy5rk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCiTS8E-Xdzumf0D35AH5uoS8cIIw",
                 "description": "⪩⪨　お知らせ/ɪɴғᴏ\n￣￣￣￣￣￣￣￣￣￣￣￣￣\n　🌸さくらみこ 1st Album \n　　『flower rhapsody』 販売中！\n　　  https://cover.lnk.to/flowerrhapsody..."
             }
@@ -496,8 +479,8 @@
         "videos": [
             {
                 "video_id": "RvGmTbjoVak",
-                "title": "【#hololivefesEXPO25_DAY2】フブキングダム国民専用応援D席👑【hololive 6th fes. Color Rise Harmony hololive STAGE3】",
-                "date": "2025/03/09 21:45:00",
+                "title": "【#hololivefesEXPO25_DAY2】フブキングダム応援会場からのお疲れ様会！【hololive 6th fes. Color Rise Harmony hololive STAGE3】",
+                "date": "2025/03/09 21:15:00",
                 "thumbnail": "https://i.ytimg.com/vi/RvGmTbjoVak/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCiyqZhASUemU-y0QDJVOIzHzdMOw",
                 "description": "【hololive 6th fes. Color Rise Harmony 】\nハッシュタグ「 #hololivefesEXPO25_DAY2」で応援してください！\n\n▼本編チケット購入(Purchase streaming tickets)\n日本 :..."
             }
@@ -527,15 +510,7 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": [
-            {
-                "video_id": "PqzNyj67P2U",
-                "title": "【hololivefesEXPO25】ししろんの事を語るスレッド（応援会場）【獅白ぼたん/ホロライブ】",
-                "date": "2025/03/09 21:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/PqzNyj67P2U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2BrbjtUkkb679y8SBfJ009c5Vcw",
-                "description": "fes終了後、帰宅したらお礼配信にこの枠を使う予定です！\n#ぐうたらいぶ\n\n【スケジュール】\n3/8はEXPOステージの15:30から、ころさんとゲームステー..."
-            }
-        ]
+        "videos": []
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
@@ -721,7 +696,7 @@
         "videos": [
             {
                 "video_id": "pIzg1mlrU1w",
-                "title": "【STAGE2】風真いろは応援枠🎤6th fes. Color Rise Harmony ✨ #hololivefesEXPO25_DAY1",
+                "title": "【振り返り】お疲れ様でした会🎉プチお披露目とお知らせもありますよ👀#hololivefesEXPO25_DAY1【風真いろは/ホロライブ】",
                 "date": "2025/03/10 18:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/pIzg1mlrU1w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDvSKsWyxAZXfl1-smQ4ja7Ayf5XQ",
                 "description": "今年もこの舞台に立たせてくれて本当にありがとうございます\n\n全力で幕張にぱわーを注入してきます！！\nかざまに見せたいEXPO&Fes関連のお写真は..."
