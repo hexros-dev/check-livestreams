@@ -99,6 +99,13 @@
                 "date": "2025/03/14 22:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/A81NFOBNvuM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCMAkL6yh1rKSN7y09RnmR_fX3IPQ",
                 "description": "💿初オリジナル曲「WAO!!」各種音楽サービスでリリース中！▼\nhttps://cover.lnk.to/WAO\n\n会話OKのフリーチャットです(ᐡ •͈ ·̫ •͈ ᐡ)助手くん同志の..."
+            },
+            {
+                "video_id": "ERIxQaoEbXs",
+                "title": "【 3D LIVE 】豪華ゲスト & 生演奏 & 告知あり！ #博衣こより生誕Live2025 -FIRST STEP- 【博衣こより/ホロライブ】",
+                "date": "2025/03/15 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ERIxQaoEbXs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1NNTvH-aJmvM3pjCAJZVGwsZHXg",
+                "description": "3/15には遂に1stアルバム『FIRST STEP』が発売！ここからがアーティスト「博衣こより」の1歩目、という想いで届けるライブです。\n初めての生演奏で..."
             }
         ]
     },
@@ -264,7 +271,15 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "NG-f5W47L4A",
+                "title": "【  ポケモンSV 】久々に会うねねの虫パたちとDLC#1【 桃鈴ねね / hololive 】",
+                "date": "2025/03/10 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/NG-f5W47L4A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtXXJ6Ql5AaHmKdIy0TmPKKoIeMA",
+                "description": "ポケモンだぁあああああああああああああああああああああ！！！！！！！！！！！！！！！！！！！！！\n⸜♡⸝MemberShipに入ったらもっとねねを..."
+            }
+        ]
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
@@ -360,15 +375,7 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": [
-            {
-                "video_id": "0C2HvJDbZuM",
-                "title": "【#生スバル】hololive 6th fes. ＆ EXPO振り返り感想会～！！！🐣【ホロライブ/大空スバル】",
-                "date": "2025/03/10 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/0C2HvJDbZuM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5OHkhXRfjWxVY6GbPTEeZN8-mKA",
-                "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n+‥‥‥‥..."
-            }
-        ]
+        "videos": []
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -392,7 +399,15 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/TejsfeJ29zBtQDJhP2TKDFAEk98-LuGRBGqrNIjbGQ05T9R5Jcl_VfsK27LZ_PXJmRP7DECk-w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "tAPzhRTagws",
+                "title": "【雑談】夢みたいな2日間を振り返ろう～！【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "date": "2025/03/10 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/tAPzhRTagws/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJv-MQlrrBRA0DDbihhhdbtTuzpA",
+                "description": "最高の2日間だった！！！！！！！！！！！！！！！！\n\n\nねえ、いっしょに向こう側の景色を見に行かない？ \nホロライブDEV_ISからデビューした..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -483,7 +498,7 @@
         "videos": [
             {
                 "video_id": "UYlNn2F817I",
-                "title": "【hololive 6th fes.EXPO 応援会場】そらとものみんなー！応援席だよ。【ホロライブ/ときのそら】#hololivefesEXPO25",
+                "title": "【#hololivefesEXPO25】お疲れ様感想会！！【ホロライブ/ときのそら】",
                 "date": "2025/03/10 19:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/UYlNn2F817I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDshDJ1IzmkKeDn7PIi5jBp9mGxPA",
                 "description": "☆EXPOとfes.の出演情報だよ☆\n「hololive SUPER EXPO 2025」\n→Day1 OPENING STAGE(11:00)\n\n「hololive 6th fes. Color Rise Harmony」\n→Day2 CREATER'S STAGE STAGE\n    Day2 hololive..."
@@ -599,15 +614,7 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
-        "videos": [
-            {
-                "video_id": "pIzg1mlrU1w",
-                "title": "【振り返り】お疲れ様でした会🎉プチお披露目とお知らせもありますよ👀#hololivefesEXPO25_DAY1【風真いろは/ホロライブ】",
-                "date": "2025/03/10 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/pIzg1mlrU1w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDvSKsWyxAZXfl1-smQ4ja7Ayf5XQ",
-                "description": "今年もこの舞台に立たせてくれて本当にありがとうございます\n\n全力で幕張にぱわーを注入してきます！！\nかざまに見せたいEXPO&Fes関連のお写真は..."
-            }
-        ]
+        "videos": []
     },
     "@mikenekoko": {
         "channel_url": "https://www.youtube.com/@mikenekoko",
@@ -625,15 +632,7 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": [
-            {
-                "video_id": "1t-BaViarac",
-                "title": "【ポケモンエメラルド】完全初見でいく旅の始まり！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
-                "date": "2025/03/10 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/1t-BaViarac/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7vwPRwBEsggBj0cXaYbeyiBBjAQ",
-                "description": "御三家だれにしよかな！！！！！\n\nサムネイラスト：朱里(@ebiebieshrimp)さん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",

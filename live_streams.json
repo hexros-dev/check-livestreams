@@ -108,14 +108,7 @@
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
         "channel_name": "Suisei Channel",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
-        "videos": [
-            {
-                "video_id": "G9VLv6slxvo",
-                "title": "6th fes アフタートーク！✨【ホロライブ / 星街すいせい】",
-                "thumbnail": "https://i.ytimg.com/vi/G9VLv6slxvo/hqdefault.jpg?v=67ce7b19&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNrtZYvm3soCcY-XkAwKg7pAGKJA",
-                "description": "☄2025.2.1 Hoshimachi Suisei 日本武道館 Live “SuperNova” 配信チケット発売中☄\n◇特設サイト　https://supernova.hololivepro.com\n◇チケットページ\n・JP：https://sup..."
-            }
-        ]
+        "videos": []
     },
     "@HoushouMarine": {
         "channel_url": "https://www.youtube.com/@HoushouMarine",
@@ -291,7 +284,14 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "0C2HvJDbZuM",
+                "title": "【#生スバル】hololive 6th fes. ＆ EXPO振り返り感想会～！！！🐣【ホロライブ/大空スバル】",
+                "thumbnail": "https://i.ytimg.com/vi/0C2HvJDbZuM/hqdefault.jpg?v=67cebe2e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5OHkhXRfjWxVY6GbPTEeZN8-mKA",
+                "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n+‥‥‥‥..."
+            }
+        ]
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -382,14 +382,7 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": [
-            {
-                "video_id": "E71i3uL2adI",
-                "title": "🥀6th fes. Color Rise Harmony 『STAGE2』『CREATORS' STAGE』鷹嶺ルイ応援枠✨ #hololivefesEXPO25",
-                "thumbnail": "https://i.ytimg.com/vi/E71i3uL2adI/hqdefault.jpg?v=67ce627a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDADBBnmD9a88nlN3A-k_V5UVB7Nw",
-                "description": "頑張るから応援たくさんよろしくね☺✨\n#ルイ姉みてみて でもポストまってるよ～‼\n\n▼本編チケット購入(Purchase streaming tickets)\n日本 :  https://hololiv..."
-            }
-        ]
+        "videos": []
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
@@ -480,7 +473,14 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "pIzg1mlrU1w",
+                "title": "【振り返り】お疲れ様でした会🎉プチお披露目とお知らせもありますよ👀#hololivefesEXPO25_DAY1【風真いろは/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/pIzg1mlrU1w/hqdefault.jpg?v=67cd9df8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDvSKsWyxAZXfl1-smQ4ja7Ayf5XQ",
+                "description": "今年もこの舞台に立たせてくれて本当にありがとうございます\n\n全力で幕張にぱわーを注入してきます！！\nかざまに見せたいEXPO&Fes関連のお写真は..."
+            }
+        ]
     },
     "@mikenekoko": {
         "channel_url": "https://www.youtube.com/@mikenekoko",
@@ -498,7 +498,14 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "1t-BaViarac",
+                "title": "【ポケモンエメラルド】完全初見でいく旅の始まり！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
+                "thumbnail": "https://i.ytimg.com/vi/1t-BaViarac/hqdefault.jpg?v=67ceafee&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7vwPRwBEsggBj0cXaYbeyiBBjAQ",
+                "description": "ルール\n・一度ひんしになったポケモンは使えない\n・使用できるのはモンスターボールのみ\n\nサムネイラスト：朱里(@ebiebieshrimp)さん\n\n⋈ －－－－－..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
