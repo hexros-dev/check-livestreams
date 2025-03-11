@@ -328,7 +328,15 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "A5z3RPusCyg",
+                "title": "【#生スバル】モンハンワイルズやるしゅばああああああああああああああああああああ！！！！/ MONSTER HUNTER WILDS【ホロライブ/大空スバル】",
+                "date": "2025/03/12 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/A5z3RPusCyg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAksWnxO5fRzst3pJr4Qaps6dF-dQ",
+                "description": "この動画およびライブは株式会社カプコンの利用許諾を受けて配信しています\nモンスターハンターワイルズ \n©CAPCOM\n#モンハンワイルズ\n\nーーーー..."
+            }
+        ]
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -376,15 +384,7 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": [
-            {
-                "video_id": "a1rsI7OI3vA",
-                "title": "I Looked Into the Abyss to See a Potato Stare Back at Me 【Portal 2】",
-                "date": "2025/03/12 04:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/a1rsI7OI3vA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDu1t_S1mJ-b5-om0SMkCLAeDMC6Q",
-                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n\n==============..."
-            }
-        ]
+        "videos": []
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
