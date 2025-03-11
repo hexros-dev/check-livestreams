@@ -124,14 +124,7 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/K39Md5CGHmCaMC5Ne3UWBzblgzDhUzXUFszrHfGapCvOldc8E7fWw3pxN0zhcjmoht4GngnD",
-        "videos": [
-            {
-                "video_id": "-_bQxYm4pfY",
-                "title": "【 Minecraft 】金トラップの準備をしてみよう！#20【ホロライブ DEV_IS 響咲リオナ】",
-                "thumbnail": "https://i.ytimg.com/vi/-_bQxYm4pfY/hqdefault.jpg?v=67cfdcbb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAaQPly0N7NzEn5C2Q8W7MdLKRvIA",
-                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております。\n\n♡...\n\nサムネイラスト..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -186,7 +179,14 @@
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
         "channel_name": "Laplus ch. ラプラス・ダークネス - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/6Y5lj4DhikLBo0UqIZ1dT3-D3aYXVPbxUgNTyYiyE_Se8AVxkGAn05D3oc1y3whpzDu-CzEQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "SWUXCYKMShI",
+                "title": "【スト６】V最顔合わせ❕このメンバーで頑張るぞー❕🔥【ラプラス・ダークネス/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/SWUXCYKMShI/hqdefault.jpg?v=67cfb5d3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYDlRS8EP4TVwgT3m80choxS9Zrw",
+                "description": "大将 @rikka \n副将 @Kanae \n次鋒 @Inaba_Haneru \n先鋒 @LaplusDarknesss \n\nサムネ\n https://x.com/4t0Se\nhttps://x.com/croa76/status/1889294097946726601?s=46\n\nこの動画およびライブは..."
+            }
+        ]
     },
     "@MizumiyaSu": {
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
@@ -277,7 +277,14 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "wtBrJY4hX4I",
+                "title": "【#生スバル】モンハンワイルズやるしゅばああああああああああああああああああああ！！！！/ MONSTER HUNTER WILDS【ホロライブ/大空スバル】",
+                "thumbnail": "https://i.ytimg.com/vi/wtBrJY4hX4I/hqdefault.jpg?v=67d011d8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC413Yr91sK6OlKwZ878SeNm3m4kw",
+                "description": "この動画およびライブは株式会社カプコンの利用許諾を受けて配信しています\nモンスターハンターワイルズ \n©CAPCOM\n#モンハンワイルズ\n\nーーーー..."
+            }
+        ]
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -301,7 +308,14 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/TejsfeJ29zBtQDJhP2TKDFAEk98-LuGRBGqrNIjbGQ05T9R5Jcl_VfsK27LZ_PXJmRP7DECk-w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "a-Y0cb_OCqA",
+                "title": "【メン限】ゆるゆるしゃべりうたう【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "thumbnail": "https://i.ytimg.com/vi/a-Y0cb_OCqA/hqdefault.jpg?v=67d028e2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPGGQ1lIOY_kDA_YRARa6CKnnCjw",
+                "description": "めんげんさん\n\n提供:XING INC.\n※本サービスは株式会社エクシングより許諾を得た上で配信を行なっています。\n※JOYSOUND音源を使用しているため、本..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -349,14 +363,7 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": [
-            {
-                "video_id": "1PSY6GUclcE",
-                "title": "【スト6】Vライバル　ししもんくん量産化計画発表会場【獅白ぼたん/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/1PSY6GUclcE/hqdefault.jpg?v=67ceafae&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWjdy3y3Yr8BxEcCnT7M3GCYdxUg",
-                "description": "何が始まるんです？\n\n▼配信タイトル\nストリートファイター6\nこの動画およびライブは株式会社カプコンの利用許諾を受けて配信しています『スト..."
-            }
-        ]
+        "videos": []
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
@@ -386,14 +393,7 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": [
-            {
-                "video_id": "Ab9ZCHqGE14",
-                "title": "【STREET FIGHTER 6】V最でるので練習！エド力あげるの巻【常闇トワ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/Ab9ZCHqGE14/hqdefault.jpg?v=67cfdf80&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4VFY2UXESbiRJbzYiwpQRS_7jvA",
-                "description": "やるで～～～～\n\n\nこの動画およびライブは株式会社カプコンの利用許諾を受けて配信しています『ストリートファイター6』\n©CAPCOM CO., LTD. 2023..."
-            }
-        ]
+        "videos": []
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
@@ -453,7 +453,14 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "0oDpzkGN-TE",
+                "title": "【OFF COLLAB】LET' TRY EU SNACKS WITH @TakanashiKiara !!! 🩷🧡",
+                "thumbnail": "https://i.ytimg.com/vi/0oDpzkGN-TE/hqdefault.jpg?v=67cf7463&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBkmjn7Nkn__C4kOt3EcNlkRTEc_A",
+                "description": "『 X formely Twitter 』\nhttps://x.com/raorapanthera\n\n『 Hashtags 』\n╰┈➤ Live  #CiaoRaora\n╰┈➤ Fanarts  #RaorArt\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐ ˗ˏˋ ꒰New Year..."
+            }
+        ]
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
