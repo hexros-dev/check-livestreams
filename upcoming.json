@@ -51,7 +51,22 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "09O8ylooCFg",
+                "title": "【FUWAMOCO MORNING】episode 142 🐾 #FWMCMORNING",
+                "date": "2025/03/12 22:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/09O8ylooCFg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAp1ToIvGtTGi43tIlKTCa-SeKyMA",
+                "description": "wednesday means...? ✨\nlovely illustration by @decrilus 💕\njingle by @Sarina_A_Elysia ♪\n\n✨️🩵🩷 Go watch our 𝗙𝗨𝗪𝗔𝗠𝗢𝗖𝗢 𝟯𝗗 𝗕𝗜𝗥𝗧𝗛𝗗𝗔𝗬..."
+            },
+            {
+                "video_id": "IzPU6Pni-XQ",
+                "title": "【#hololivefesEXPO25 KARAOKE OFF-COLLAB AFTERPARTY】silly happy party together 🐾 #holoEN【FUWAMOCO】",
+                "date": "2025/03/12 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/IzPU6Pni-XQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDG_2xIjI3QRm5l0iKkaC1kmJkP-Q",
+                "description": "we're going to party together (no matter what tech issues happen!) ✨️\n@MoriCalliope @TakanashiKiara @NerissaRavencroft @KosekiBijou @holoen_ceciliaimmergreen @holoen_gigimurin \n\n✨️🩵🩷..."
+            }
+        ]
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
