@@ -309,7 +309,14 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "BvKurkM1JhQ",
+                "title": "OTSU FES AND EXPOOOO!!!! WOOOOOOWW +Announcement",
+                "thumbnail": "https://i.ytimg.com/vi/BvKurkM1JhQ/hqdefault.jpg?v=67d05821&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSpjnHs-uCbmu99avYVTHBzbsSRA",
+                "description": "Reine's new original song now 「Yummy Yum Yummy!」AVAILABLE on iTunes, Apple Music, Spotify etc. Click to stream!\nパヴォリア・レイネ新曲「ヤミヤムヤミ」\nhttps://cover.lnk.to/mU..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -491,14 +498,7 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": [
-            {
-                "video_id": "__MeE752Qkc",
-                "title": "【ポケモンエメラルド】完全初見でいく旅！！！！！！！！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
-                "thumbnail": "https://i.ytimg.com/vi/__MeE752Qkc/hqdefault.jpg?v=67cfd9f6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAo4By99OKAEA4KTl8mVSlSF6Oz2A",
-                "description": "ルール\n・一度ひんしになったポケモンは使えない\n・使用できるのはモンスターボールのみ\n\nひんしになった仲間\n・マックス（ポチエナ）\n・ハナ..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
