@@ -371,7 +371,7 @@
             {
                 "video_id": "5kz6A2JII5I",
                 "title": "【メン限】ゆるゆるしゃべりうたう【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "date": "2025/03/11 19:30:00",
+                "date": "2025/03/11 19:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/5kz6A2JII5I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBeFkx21fRNCJCEvTe9hqYUMDncbg",
                 "description": "めんげんさん\n\n提供:XING INC.\n※本サービスは株式会社エクシングより許諾を得た上で配信を行なっています。\n※JOYSOUND音源を使用しているため、本..."
             }
@@ -419,7 +419,15 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "guCw4ya2Yuc",
+                "title": "#07【モンハンワイルズ 】参加型で歴戦狩りしてアーティアガチャしたい！【不知火フレア/ホロライブ】",
+                "date": "2025/03/11 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/guCw4ya2Yuc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANJNDhrnL_1vM4pH3Qd7LB-Kq8bg",
+                "description": "おい！キミたちのクエストで一番いい素材のやつを私に提供しろください\n\n■Newシングル「Funfair」🎧\niTunes・Spotify等でも 配信中✨\nhttps://cover.lnk.to/..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
