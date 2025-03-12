@@ -156,15 +156,7 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/K39Md5CGHmCaMC5Ne3UWBzblgzDhUzXUFszrHfGapCvOldc8E7fWw3pxN0zhcjmoht4GngnD",
-        "videos": [
-            {
-                "video_id": "yJS34eVdwR4",
-                "title": "【 Minecraft 】制限時間１時間のチェスト整理#21【ホロライブ DEV_IS 響咲リオナ】",
-                "date": "2025/03/12 10:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/yJS34eVdwR4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4bDnCZO0ovS22jxTzzWK7pM0Mqw",
-                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております。\n\n♡...\n\nサムネイラスト..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -214,7 +206,15 @@
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "SSWobCOLxHs",
+                "title": "【hololive 6th fes & EXPO25 AFTERTALK】DID YOU MISS ME?? I BROUGHT UPON THOU, STORIES!!【Kureiji Ollie】",
+                "date": "2025/03/12 14:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/SSWobCOLxHs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDvD_QnSMVU2slKKyCc-tB2_555yA",
+                "description": "#OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n==========================================\n\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/kureijiollie_bd2024..."
+            }
+        ]
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
