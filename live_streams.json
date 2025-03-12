@@ -21,14 +21,7 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": [
-            {
-                "video_id": "stzeLVuXXTQ",
-                "title": "【 STREET FIGHTER 6】村長召喚！！！！！！！【アキロゼ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/stzeLVuXXTQ/hqdefault.jpg?v=67d15c4d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBte3Kk3oCQ7-hNN0xdUIeNI0EMbA",
-                "description": "@higuchi2001  たすけて村長！\n\n🎂アキロゼ生誕祭グッズ発売🎂\nhttps://shop.hololivepro.com/products/akirosenthal_bd2025\n\n🎧アキロゼ新曲【異薔薇】リリース..."
-            }
-        ]
+        "videos": []
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -180,7 +173,14 @@
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "IRxNLU7EPeE",
+                "title": "【holo8】SOMEONE REALLY SAID EXIT 8 BUT MAKE IT HOLOLIVE【Kureiji Ollie】",
+                "thumbnail": "https://i.ytimg.com/vi/IRxNLU7EPeE/hqdefault.jpg?v=67d1a60c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0ABsYalET-HJYj0Y6g4awUt38LQ",
+                "description": "#OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n==========================================\n\n本ゲームは holo Indie の承諾を得た上で配信・収益化を行っております。\nThis..."
+            }
+        ]
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
@@ -192,7 +192,14 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/ORf3qREMw-ycNKEoaOGFib5yr8B1v--YzmyODCIZ6aieC505HZoHxeEk-H0vjo7PFCd12p0LcQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "zmOxNC4iTM8",
+                "title": "【モンハンワイルズ】大初心者が行く❕ストーリー続き【水宮枢／FLOW GLOW】#hololiveDEV_IS",
+                "thumbnail": "https://i.ytimg.com/vi/zmOxNC4iTM8/hqdefault.jpg?v=67d1a375&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmz6fVfjnQD4Lm_014x_r3B0Gp_g",
+                "description": "この動画およびライブは株式会社カプコンの利用許諾を受けて配信しています\nモンスターハンターワイルズ \n©CAPCOM\n#モンハンワイルズ\n\n▹◃┄▸..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -284,27 +291,13 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": [
-            {
-                "video_id": "A5z3RPusCyg",
-                "title": "【#みこスバモンハン】みこちとモンハンワイルズやるしゅばああああああああああああああああああああ！！！！/ MONSTER HUNTER WILDS【ホロライブ/大空スバル】",
-                "thumbnail": "https://i.ytimg.com/vi/A5z3RPusCyg/hqdefault.jpg?v=67d15358&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAksWnxO5fRzst3pJr4Qaps6dF-dQ",
-                "description": "@SakuraMiko \nこの動画およびライブは株式会社カプコンの利用許諾を受けて配信しています\nモンスターハンターワイルズ \n©CAPCOM\n#モンハンワイルズ..."
-            }
-        ]
+        "videos": []
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/YQU4Moz1OujZA8STx9g8rtaZWm3BA9OGplnz3KP4l8RK0OBujDBkmnlWrJa94Udo4SOduAzWrQ",
-        "videos": [
-            {
-                "video_id": "UQLCB9Ygxjc",
-                "title": "【 メン限 】音乃瀬奏がサインをする作業配信【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-                "thumbnail": "https://i.ytimg.com/vi/UQLCB9Ygxjc/hqdefault.jpg?v=67d1782e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBI77PffIbYWLXcAIV0BDHk15cQIg",
-                "description": "▽ 最重要！！歌ってみた10作目公開中！ ▽\n「Beyond the way」 - 音乃瀬奏＆Mori Calliope（cover）\nhttps://youtu.be/bYZOxUX_iso\n\n୨୧♪:*:･･:*:･♪･:*:･･:*:･..."
-            }
-        ]
+        "videos": []
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
@@ -340,14 +333,7 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/aKZHZDkvcHSEQSq5B6NSBTylOs7GhBMxqasvmS3IGX9c3YJ7CQ349uy64oE4rQERMZuV3bwa",
-        "videos": [
-            {
-                "video_id": "prYdKNbj8cQ",
-                "title": "【 モンハンワイルズ 】みこスバモンハン成長物語！！！！！！！！～DAY1～【ホロライブ/さくらみこ/大空スバル】",
-                "thumbnail": "https://i.ytimg.com/vi/prYdKNbj8cQ/hqdefault.jpg?v=67d14db2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCCGo28ZNtBYe0nLiJPaGLX9WHwig",
-                "description": "@OozoraSubaru 　#みこスバモンハン\n\nサムネイラスト：ぶるー太先生\nhttps://x.com/blueta9810\nロゴ：柊椋先生\nhttps://x.com/hiiragiryo\n\n⪩⪨　お知らせ/ɪɴғᴏ..."
-            }
-        ]
+        "videos": []
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
