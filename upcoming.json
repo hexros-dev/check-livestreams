@@ -15,7 +15,15 @@
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
         "avatar_url": "https://yt3.googleusercontent.com/Ob0LQV8-i9FXY_GX4AEnsWsxvYUojcYtjZjtLsmjQRtPoYMZN5qWAe9hRhy7sMa19PlF61BG",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ahkmskRuSNw",
+                "title": "【ENGLISH】英語テスト！どれくらい解けるかな！？✨【#FLOWGLOW｜ホロライブ/赤井はあと】",
+                "date": "2025/03/13 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ahkmskRuSNw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBC040Rq8Eb_AZH0p9WOV1EU6yR2Q",
+                "description": "FGメンバー！✨⇨@IsakiRiona @MizumiyaSu @RindoChihaya @KoganeiNiko @KikiraraVivi \n\n#はあちゃまなう　で放送ツイートしてね！🌟\n\n💖オリジナル新曲『Who2』でた..."
+            }
+        ]
     },
     "@AkiRosenthal": {
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
@@ -28,13 +36,6 @@
         "channel_name": "Kanata Ch. Kanata Amane",
         "avatar_url": "https://yt3.googleusercontent.com/oPU9ckNcyeHD0FFsYSxkoD1mtbslSwdmMSfoCYQWphOu5e7UeCnIF-Nt0hvvF41L5Nykga07nQ",
         "videos": [
-            {
-                "video_id": "kjJ0YAEv-hA",
-                "title": "【いけるか？】160万人へ❗❗❗❗【天音かなた/ホロライブ】",
-                "date": "2025/03/12 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/kjJ0YAEv-hA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBoxRjoHCbv4Ser_p9ie9u63qE-UA",
-                "description": "うおおおおおおおおおおおおおおおおおおお\n\nサムネイラスト：\n双葉陽さん　https://x.com/hutaba_haru\n\n-----------------------------------------------------------------..."
-            },
             {
                 "video_id": "lGrUf1F0rTg",
                 "title": "【MemberOnly】振替メン限枠！アカペラ歌かも？【天音かなた/ホロライブ】",
@@ -263,15 +264,7 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": [
-            {
-                "video_id": "TYYSCMWsPGI",
-                "title": "【  ポケモンSV 】ねねと虫パ！DLC#2【 桃鈴ねね / hololive 】",
-                "date": "2025/03/12 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/TYYSCMWsPGI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCltui_n2e3XJ-JoTxAsnTGLYfv6w",
-                "description": "ポケモンだぁあああああああああああああああああああああ！！！！！！！！！！！！！！！！！！！！！\n⸜♡⸝MemberShipに入ったらもっとねねを..."
-            }
-        ]
+        "videos": []
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
@@ -439,7 +432,7 @@
                 "title": "【 モンハンワイルズ 】みこスバモンハンはじまるぜぇえええええええええ！！！【ホロライブ/さくらみこ/大空スバル】",
                 "date": "2025/03/12 19:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/prYdKNbj8cQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCCGo28ZNtBYe0nLiJPaGLX9WHwig",
-                "description": "@OozoraSubaru \n\n⪩⪨　お知らせ/ɪɴғᴏ\n￣￣￣￣￣￣￣￣￣￣￣￣￣\n　🌸さくらみこ 1st Album \n　　『flower rhapsody』 販売中！\n　　  https://cover.lnk.to/flowe..."
+                "description": "@OozoraSubaru 　#みこスバモンハン\n\n⪩⪨　お知らせ/ɪɴғᴏ\n￣￣￣￣￣￣￣￣￣￣￣￣￣\n　🌸さくらみこ 1st Album \n　　『flower rhapsody』 販売中！..."
             }
         ]
     },
@@ -628,10 +621,10 @@
         "videos": [
             {
                 "video_id": "7EW__2gnC8w",
-                "title": "【モンハンワイルズ】シオンちゃんとモンハン！！！！！！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
+                "title": "【モンハンワイルズ】シオンちゃんとモンハン！！！！！！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら/紫咲シオン】",
                 "date": "2025/03/12 18:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/7EW__2gnC8w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8Uq6tZS5Ee8gSAvC9rXSWV6qXZQ",
-                "description": "⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ #ぺこらいぶ でツイート🎶\n\nこの動画およ..."
+                "description": "禁足地も天下統一★@MurasakiShion \n\nサムネイラスト：FuwaFuwa 軟趴趴(@fuwafuwa_35)さん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕..."
             }
         ]
     },
