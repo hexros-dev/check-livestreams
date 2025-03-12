@@ -58,13 +58,6 @@
                 "date": "2025/03/12 22:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/09O8ylooCFg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAp1ToIvGtTGi43tIlKTCa-SeKyMA",
                 "description": "wednesday means...? ✨\nlovely illustration by @decrilus 💕\njingle by @Sarina_A_Elysia ♪\n\n✨️🩵🩷 Go watch our 𝗙𝗨𝗪𝗔𝗠𝗢𝗖𝗢 𝟯𝗗 𝗕𝗜𝗥𝗧𝗛𝗗𝗔𝗬..."
-            },
-            {
-                "video_id": "IzPU6Pni-XQ",
-                "title": "【#hololivefesEXPO25 KARAOKE OFF-COLLAB AFTERPARTY】silly happy party together 🐾 #holoEN【FUWAMOCO】",
-                "date": "2025/03/12 08:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/IzPU6Pni-XQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDG_2xIjI3QRm5l0iKkaC1kmJkP-Q",
-                "description": "we're going to party together (no matter what tech issues happen!) ✨️\n@MoriCalliope @TakanashiKiara @NerissaRavencroft @KosekiBijou @holoen_ceciliaimmergreen @holoen_gigimurin \n\n✨️🩵🩷..."
             }
         ]
     },
@@ -265,7 +258,15 @@
         "channel_url": "https://www.youtube.com/@MurasakiShion",
         "channel_name": "Shion Ch. 紫咲シオン",
         "avatar_url": "https://yt3.googleusercontent.com/K91NQLuy_JMQ65n-Opf0Q2FZBO3yOURnMRusO7o5DTjaJ1QVtP-ANN4lehK57X4KXpcI2MiRig",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "TfDN_TjmG3c",
+                "title": "【モンハンワイルズ】塩ぺこ天下統一モンハン！！行きますか…！(たぶん今日)【ホロライブ/紫咲シオン】",
+                "date": "2025/03/12 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/TfDN_TjmG3c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7VAUC9pekt4Cyzc9bvIwsnFFRRA",
+                "description": "マルチ初なので楽しみ！！\n\n💘バレンタインボイス2025発売中💘\nhttps://shop.hololivepro.com/products/hololive_valentinevoice2025?utm_source=youtube&utm_medium=product_shelf..."
+            }
+        ]
     },
     "@NakiriAyame": {
         "channel_url": "https://www.youtube.com/@NakiriAyame",
@@ -391,7 +392,15 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "dD4UifLsD6E",
+                "title": "Novelknight Training Camp【Monster Hunter: Wilds】",
+                "date": "2025/03/13 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/dD4UifLsD6E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCH_rRrW6ZiGCGKDQ-8DZ_nWDDSgw",
+                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n\n==============..."
+            }
+        ]
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",

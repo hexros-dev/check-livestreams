@@ -51,7 +51,14 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "IzPU6Pni-XQ",
+                "title": "【#hololivefesEXPO25 KARAOKE OFF-COLLAB AFTERPARTY】silly happy party together 🐾 #holoEN【FUWAMOCO】",
+                "thumbnail": "https://i.ytimg.com/vi/IzPU6Pni-XQ/hqdefault.jpg?v=67d0b496&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDG_2xIjI3QRm5l0iKkaC1kmJkP-Q",
+                "description": "we're going to party together (no matter what tech issues happen!) ✨️\n@MoriCalliope @TakanashiKiara @NerissaRavencroft @KosekiBijou @holoen_ceciliaimmergreen @holoen_gigimurin \n\n✨️🩵🩷..."
+            }
+        ]
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -147,14 +154,7 @@
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
         "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/4XC0YEED9T4kvdLbJNK5f8GRCUNJds21yPXR4lNgH_CCjR-gbOYzod-vjfbH93YNFm6CiSSskA",
-        "videos": [
-            {
-                "video_id": "A1kV2pEodbQ",
-                "title": "【モンスターハンターワイルズ 】人生初モンハン！お仕事の時間までやるぞ！【虎金妃笑虎】",
-                "thumbnail": "https://i.ytimg.com/vi/A1kV2pEodbQ/hqdefault.jpg?v=67cdb5ff&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAOcgfJB2o3nfZkoHOVhiL2RNVoMA",
-                "description": "サムネイルのイラストはとぅーみさん！しゃーーっ！！\nhttps://x.com/twumi425/status/1897222452025127212\n\nhttps://store.steampowered.com/app/2246340/Monster_Hunter_Wilds/..."
-            }
-        ]
+        "videos": []
     },
     "@KosekiBijou": {
         "channel_url": "https://www.youtube.com/@KosekiBijou",
@@ -202,14 +202,7 @@
         "channel_url": "https://www.youtube.com/@MurasakiShion",
         "channel_name": "Shion Ch. 紫咲シオン",
         "avatar_url": "https://yt3.googleusercontent.com/K91NQLuy_JMQ65n-Opf0Q2FZBO3yOURnMRusO7o5DTjaJ1QVtP-ANN4lehK57X4KXpcI2MiRig",
-        "videos": [
-            {
-                "video_id": "7LpT5kHEI_k",
-                "title": "【モンハンワイルズ】上位を少し嗜みに行ってみる！！【ホロライブ/紫咲シオン】",
-                "thumbnail": "https://i.ytimg.com/vi/7LpT5kHEI_k/hqdefault.jpg?v=67d03314&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmheWedWAVWQ8v0MgnFgQhKL4Zcw",
-                "description": "いくぞ～～～～～！！！\n\n💘バレンタインボイス2025発売中💘\nhttps://shop.hololivepro.com/products/hololive_valentinevoice2025?utm_source=youtube&utm_medium=product_shelf..."
-            }
-        ]
+        "videos": []
     },
     "@NakiriAyame": {
         "channel_url": "https://www.youtube.com/@NakiriAyame",
@@ -311,14 +304,7 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": [
-            {
-                "video_id": "a1rsI7OI3vA",
-                "title": "I Looked Into the Abyss to See a Potato Stare Back at Me 【Portal 2】",
-                "thumbnail": "https://i.ytimg.com/vi/a1rsI7OI3vA/hqdefault.jpg?v=67cf8266&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDu1t_S1mJ-b5-om0SMkCLAeDMC6Q",
-                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n\n==============..."
-            }
-        ]
+        "videos": []
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
@@ -354,7 +340,14 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "emoc1LP850o",
+                "title": "【 Minecraft 】仕事の時間までまったり朝活だよ。【鷹嶺ルイ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/emoc1LP850o/hqdefault.jpg?v=67d0cdcb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAVQwzjUt2G6zVpBAXZTa8KxcZvZA",
+                "description": "おはよだよ\n\n【使用MOD】\n使用MOD：Complementary Shaders\n制作者：EminGT\n配布URL：https://www.curseforge.com/minecraft/customization/complementary-shaders\n【使用MOD】\n使用MOD..."
+            }
+        ]
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
