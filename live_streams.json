@@ -99,7 +99,14 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "qpqMS39HdYI",
+                "title": "【Monster Hunter Wilds】HIGH RANK LETS GO",
+                "thumbnail": "https://i.ytimg.com/vi/qpqMS39HdYI/hqdefault.jpg?v=67d1dd14&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtVdQMCBK52BaQcKaKHl0lOHx9rw",
+                "description": "Please work TuT I am in the process of asking staff for help in buying a new PC though\n\nThis video and livestream are being streamed with permission and under license by CAPCOM CO., LTD.\nMonster..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
