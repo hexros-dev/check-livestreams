@@ -41,15 +41,7 @@
         "channel_url": "https://www.youtube.com/@AnyaMelfissa",
         "channel_name": "Anya Melfissa Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz",
-        "videos": [
-            {
-                "video_id": "cz9t8i0ppxw",
-                "title": "【#CuriousTune3D Post-Talk】3D Birthday Live Post-Talk! 生誕祭ライブ振り返り！ 【hololive | Anya Melfissa】",
-                "date": "2025/03/13 15:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/cz9t8i0ppxw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAG8r-USYO-Pf7DzHo4j2FEK0F_kw",
-                "description": "Support me here/ドネーション↓\nStreamlabs: https://streamlabs.com/anyamelfissachhololive-id/tip\nSociaBuzz(Local Donation): https://sociabuzz.com/anyamelfissa/tribe \n\n--\nYIPPEEEE! Also..."
-            }
-        ]
+        "videos": []
     },
     "@AyundaRisu": {
         "channel_url": "https://www.youtube.com/@AyundaRisu",
@@ -158,7 +150,15 @@
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "jKjjLzWv0Ko",
+                "title": "はじめてのポケモンスタジオム金銀やってみたい",
+                "date": "2025/03/13 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/jKjjLzWv0Ko/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5GI428A-HzG1JirfHM7KIhN8uAQ",
+                "description": "Play Game :  (  )\nタグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nころねTwitter▶https://twitter.com/inugamikorone\n\n-----------..."
+            }
+        ]
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
@@ -413,6 +413,13 @@
                 "date": "2025/03/13 18:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/1qOB2hTvEX8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQXXtRQNKnnY4eGWwBjHrrHqrpsQ",
                 "description": "\"🌽白上フブキ1stソロライブ FBKINGDOM “ANTHEM”🌽\n\n✦配信チケット(D席)\nhttps://fbkingdom.hololivepro.com/live/tickets/ \n✦グッズ 2次販売/3月10日（月）18:00まで..."
+            },
+            {
+                "video_id": "AnhxVnLpGR0",
+                "title": "【電脳戦機バーチャロン マスターピース】みんなで遊ぶ！！バーチャロンオフコラボ！！！【ホロライブ/白上フブキ/大空スバル/鷹嶺ルイ/一条莉々華】",
+                "date": "2025/03/14 15:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/AnhxVnLpGR0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBARkODsZ2ui1Rxx0VFfUeiH7q-yQ",
+                "description": "大空スバル　@OozoraSubaru \n鷹嶺ルイ　@TakaneLui \n一条莉々華 @IchijouRirika \n━━━━━━━━━━━━━━━━━━━━━━━\n\n✦『グローエンブレイス..."
             }
         ]
     },
