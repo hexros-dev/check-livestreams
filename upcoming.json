@@ -130,7 +130,15 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "V0plPBgyqPs",
+                "title": "【HOPE UPON A STAR 3D LIVE】IRyS 2025 BIRTHDAY LIVE #IRySBDay2025",
+                "date": "2025/03/16 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/V0plPBgyqPs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_A68NXRG5PQGBnBfs-isKdCyUXg",
+                "description": "Reaching for the Brightest Star \n\n#hololiveenglish  #ホロライブ \n＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝\n\nCHECK OUT MY NEW ORIGINAL SONG THAT JUST CAME..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -440,7 +448,15 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "X_bZgz4XXB0",
+                "title": "【歌枠】小さい声なら歌っていいよね？練習しよう！！【ホロライブ/ときのそら】",
+                "date": "2025/03/13 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/X_bZgz4XXB0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjuBJ0W6FpPLOwxX7GsNlVrHcO3w",
+                "description": "この時間の歌枠はそわそわする・・・。\n\n～サムネイラスト～\n萌吉様：https://x.com/moezi_824\n\n～カラオケ～\nカラオケアプリ\n※このライブに用いてい..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
@@ -466,15 +482,7 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
-        "videos": [
-            {
-                "video_id": "-agBx4yMSQ0",
-                "title": "Monster Hunter Wilds... I have returned...",
-                "date": "2025/03/13 18:15:00",
-                "thumbnail": "https://i.ytimg.com/vi/-agBx4yMSQ0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-nr7EwAgiULAlO3rfacfQQ6kZYg",
-                "description": "Game title: Monster Hunter Wilds\nThis video and livestream are being streamed with permission and under license by CAPCOM CO., LTD.\nMonster Hunter Wilds\n©CAPCOM\n#モンハンワイルズ\nストア..."
-            }
-        ]
+        "videos": []
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
