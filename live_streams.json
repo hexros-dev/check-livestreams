@@ -15,14 +15,7 @@
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
         "avatar_url": "https://yt3.googleusercontent.com/Ob0LQV8-i9FXY_GX4AEnsWsxvYUojcYtjZjtLsmjQRtPoYMZN5qWAe9hRhy7sMa19PlF61BG",
-        "videos": [
-            {
-                "video_id": "ahkmskRuSNw",
-                "title": "【ENGLISH】英語テスト！どれくらい解けるかな！？✨【#FLOWGLOW｜ホロライブ/赤井はあと】",
-                "thumbnail": "https://i.ytimg.com/vi/ahkmskRuSNw/hqdefault.jpg?v=67d14901&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBC040Rq8Eb_AZH0p9WOV1EU6yR2Q",
-                "description": "FGメンバー！✨⇨@IsakiRiona @MizumiyaSu @RindoChihaya @KoganeiNiko @KikiraraVivi \n\n#はあちゃまなう　で放送ツイートしてね！🌟\n\n💖オリジナル新曲『Who2』でた..."
-            }
-        ]
+        "videos": []
     },
     "@AkiRosenthal": {
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
@@ -95,14 +88,7 @@
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
         "channel_name": "Ao Ch. 火威青 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/sMnKpvVB1QLNSWGX-AIZ00lFTWAUzuZRAi_rlT7Cs9bIGzvWr-1yvKrKZ0tCtX7Ywtzds6ecSXM",
-        "videos": [
-            {
-                "video_id": "50fLXjHMvVM",
-                "title": "はくさーーーーーーーーーーい！！！！！！！！！【火威青 】#hololiveDEV_IS #ReGLOSS",
-                "thumbnail": "https://i.ytimg.com/vi/50fLXjHMvVM/hqdefault.jpg?v=67d2b3a8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvyhO8Zarj-Fk1RfNqkzWV77ImvQ",
-                "description": "可愛い女の子かと思った？じゃじゃーん青くんでした！\n素敵なイラスト→ヒロセ（＠hi_ro_se__）先生✨\n\n💙オリジナル曲アニメーションMV公開中💙..."
-            }
-        ]
+        "videos": []
     },
     "@HoshimachiSuisei": {
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
@@ -132,7 +118,14 @@
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "jKjjLzWv0Ko",
+                "title": "【ド★初見】はじめての「ポケモンスタジアム 金銀」遊んでみる！",
+                "thumbnail": "https://i.ytimg.com/vi/jKjjLzWv0Ko/hqdefault.jpg?v=67d2b33c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5GI428A-HzG1JirfHM7KIhN8uAQ",
+                "description": "Play Game : ポケモンスタジアム金銀 ( switch )\nタグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nころねTwitter▶https:/..."
+            }
+        ]
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
@@ -401,20 +394,20 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "X_bZgz4XXB0",
+                "title": "【歌枠】小さい声なら歌っていいよね？練習しよう！！【ホロライブ/ときのそら】",
+                "thumbnail": "https://i.ytimg.com/vi/X_bZgz4XXB0/hqdefault.jpg?v=67d2c190&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjuBJ0W6FpPLOwxX7GsNlVrHcO3w",
+                "description": "この時間の歌枠はそわそわする・・・。\n\n～サムネイラスト～\n萌吉様：https://x.com/moezi_824\n\n～カラオケ～\nカラオケアプリ\n※このライブに用いてい..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": [
-            {
-                "video_id": "QnnJCXtH7iE",
-                "title": "【STREET FIGHTER 6】練習～～～～～！！！→のち、コーチ【常闇トワ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/QnnJCXtH7iE/hqdefault.jpg?v=67d27818&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2rlwRBoinPuTj_P-S0f07oVNBmg",
-                "description": "やるで～～～～\n\n\nこの動画およびライブは株式会社カプコンの利用許諾を受けて配信しています『ストリートファイター6』\n©CAPCOM CO., LTD. 2023..."
-            }
-        ]
+        "videos": []
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
