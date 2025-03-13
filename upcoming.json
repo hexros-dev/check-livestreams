@@ -327,13 +327,6 @@
                 "date": "2025/03/13 18:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/D-lgq7J_4cA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgSbxyfAXsWgeHO0pXSdAzNwTM2g",
                 "description": "サムネイラスト：ぶるー太先生\nhttps://x.com/blueta9810\nロゴ：柊椋先生\nhttps://x.com/hiiragiryo\n\n@SakuraMiko \nこの動画およびライブは株式会社カプコンの利用..."
-            },
-            {
-                "video_id": "XkyLaeKcdq8",
-                "title": "【#生スバル】メンバーシップおひるごはんもぐもぐ配信 : membership only stream【ホロライブ/大空スバル】",
-                "date": "2025/03/13 10:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/XkyLaeKcdq8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJyqP54PvWwwRWP1ZpJPJNiMV8Lw",
-                "description": "🌟イラスト…https://x.com/Nishironpas\n\n🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users..."
             }
         ]
     },
@@ -545,7 +538,15 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "jORermy_SBM",
+                "title": "【ポケモンエメラルド】完全初見でいく人生縛りの旅！！！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
+                "date": "2025/03/13 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/jORermy_SBM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBb893x89phwWz_Z10BJRj3fo3Vew",
+                "description": "ルール\n・一度ひんしになったポケモンは使えない\n・使用できるのはモンスターボールのみ\n\nひんしになった仲間\n・マックス（ポチエナ）\n・ハナ..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
