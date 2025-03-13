@@ -81,7 +81,14 @@
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
         "channel_name": "Ao Ch. 火威青 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/sMnKpvVB1QLNSWGX-AIZ00lFTWAUzuZRAi_rlT7Cs9bIGzvWr-1yvKrKZ0tCtX7Ywtzds6ecSXM",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "50fLXjHMvVM",
+                "title": "はくさーーーーーーーーーーい！！！！！！！！！【火威青 】#hololiveDEV_IS #ReGLOSS",
+                "thumbnail": "https://i.ytimg.com/vi/50fLXjHMvVM/hqdefault.jpg?v=67d2b3a8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvyhO8Zarj-Fk1RfNqkzWV77ImvQ",
+                "description": "可愛い女の子かと思った？じゃじゃーん青くんでした！\n素敵なイラスト→ヒロセ（＠hi_ro_se__）先生✨\n\n💙オリジナル曲アニメーションMV公開中💙..."
+            }
+        ]
     },
     "@HoshimachiSuisei": {
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
@@ -106,14 +113,7 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": [
-            {
-                "video_id": "qpqMS39HdYI",
-                "title": "【Monster Hunter Wilds】HIGH RANK LETS GO",
-                "thumbnail": "https://i.ytimg.com/vi/qpqMS39HdYI/hqdefault.jpg?v=67d1dd14&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtVdQMCBK52BaQcKaKHl0lOHx9rw",
-                "description": "Please work TuT I am in the process of asking staff for help in buying a new PC though\n\nThis video and livestream are being streamed with permission and under license by CAPCOM CO., LTD.\nMonster..."
-            }
-        ]
+        "videos": []
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
