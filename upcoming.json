@@ -57,13 +57,6 @@
                 "date": "2025/03/15 21:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/JL2zOVg8-60/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAsjT4I9MfMAPi81uvC2A8bfofVZQ",
                 "description": "💠深夜のゴリレバラジオ / 再生リスト\nhttps://youtube.com/playlist?list=PLNvxSJodVoAujMmwQPAvliFJ96d1RVzo3\n\n第一回目　https://www.youtube.com/watch?v=AnLuOiOYR5w\n第二回目..."
-            },
-            {
-                "video_id": "djvEGxUUpy4",
-                "title": "【モンハンワイルズ】ころさんとストーリーやるのでキャラクリからマルチまで！！天才的なの作るぞおおおお！！！！！✨✨/ MONSTER HUNTER WILDS【天音かなた/ホロライブ】",
-                "date": "2025/03/14 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/djvEGxUUpy4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC7H1iB1dbMh4cRslxqUiGrscN3rA",
-                "description": "きちゃああああああああああ\n\nこの動画およびライブは株式会社カプコンの利用許諾を受けて配信しています\nモンスターハンターワイルズ \n©CAPCOM..."
             }
         ]
     },
@@ -261,15 +254,7 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": [
-            {
-                "video_id": "w6hiMwLSzuI",
-                "title": "【 歌枠 】ホワイトデー歌枠✨歌練習する！【 桃鈴ねね / hololive 】",
-                "date": "2025/03/14 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/w6hiMwLSzuI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClQ4tMHPF5eCNMISa3Jzs_oBlWCg",
-                "description": "ぐあああああ歌うまくなれ～～～～～～～～～！！！！！！\n⸜♡⸝MemberShipに入ったらもっとねねを知れるﾖ\nhttps://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m..."
-            }
-        ]
+        "videos": []
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
@@ -636,7 +621,15 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "pBuR52AkhiE",
+                "title": "【配信予定】帰ってこれたらこの時間！ぺこ！【ホロライブ/兎田ぺこら】",
+                "date": "2025/03/14 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/pBuR52AkhiE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUIDv3_jYZ1nG8tWGkuT8-z7yLQA",
+                "description": "サムネイラスト：()さん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ #ぺこらいぶ..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
