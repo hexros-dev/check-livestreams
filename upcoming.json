@@ -252,15 +252,7 @@
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
         "channel_name": "Moona Hoshinova hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/9e7J_lAxCEZO6IRC_Sl3Gj-bt9uPvSXolU_vBpmqWABzv99oHxzbYhWWgvRI_c2qmB4jH0p_ZA",
-        "videos": [
-            {
-                "video_id": "y7qyRVchLG0",
-                "title": "【Minecraft】it's Grind time!【Moona Hoshinova】",
-                "date": "2025/03/14 13:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/y7qyRVchLG0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAVMLZ6Qmpc3kUL-iHMlFzdSGiSTw",
-                "description": "Streamlabs donation link here : https://streamlabs.com/moonahoshinovahololive-id/tip\nSociaBuzz donation link here : https://sociabuzz.com/moonahoshinova/tribe\n======================================..."
-            }
-        ]
+        "videos": []
     },
     "@MoriCalliope": {
         "channel_url": "https://www.youtube.com/@MoriCalliope",
@@ -366,7 +358,15 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/TejsfeJ29zBtQDJhP2TKDFAEk98-LuGRBGqrNIjbGQ05T9R5Jcl_VfsK27LZ_PXJmRP7DECk-w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "2v1eurs-4Do",
+                "title": "配信予定枠！！30万人いくぞー！【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "date": "2025/03/14 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/2v1eurs-4Do/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDN2lrTDRl_5GTTX-DnCnm1Z-yVow",
+                "description": "ねえ、いっしょに向こう側の景色を見に行かない？ \nホロライブDEV_ISからデビューした FLOWGLOWのDJ兼運転手 輪堂千速です！ \n\n▼X\n＠rindochihaya\nhttps://x..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
