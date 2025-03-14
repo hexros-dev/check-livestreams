@@ -81,14 +81,7 @@
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
         "channel_name": "Ao Ch. 火威青 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/sMnKpvVB1QLNSWGX-AIZ00lFTWAUzuZRAi_rlT7Cs9bIGzvWr-1yvKrKZ0tCtX7Ywtzds6ecSXM",
-        "videos": [
-            {
-                "video_id": "AiFbjfZzips",
-                "title": "キミと僕のホワイトデー🎁💙【火威青 】#hololiveDEV_IS #ReGLOSS",
-                "thumbnail": "https://i.ytimg.com/vi/AiFbjfZzips/hqdefault.jpg?v=67d39541&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAS922dWY64gvoucnZpydNoAFmxmw",
-                "description": "可愛い女の子かと思った？じゃじゃーん青くんでした！\n素敵なイラスト→ももあ（@aokuyu_blue）先生✨\n\n💙オリジナル曲アニメーションMV公開中💙..."
-            }
-        ]
+        "videos": []
     },
     "@HoshimachiSuisei": {
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
@@ -322,7 +315,14 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "xnCzauzJ-VQ",
+                "title": "#06【モンハンワイルズ】上位クエスト！脳筋ハンマー！！待望の「モンスターハンターワイルズ」やっていくよ～！！！【白銀ノエル/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/xnCzauzJ-VQ/hqdefault.jpg?v=67d37436&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASS0LT97k6Xvmoi1PACg_q9cJqmw",
+                "description": "1週間ぶり！楽しみ太郎✨\n\nこの動画およびライブは株式会社カプコンの利用許諾を受けて配信しています\nモンスターハンターワイルズ \n©CAPCOM..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
