@@ -239,13 +239,6 @@
                 "date": "2025/03/15 12:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/2pJMfVim4pE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxpTKKLS7uk77MpnyRK9WFqoZCww",
                 "description": "サムくんをみてサムくんをみる。サンリオさん本当にありがとうございます、、サンリオキャラクター😭🫶🏻🫶🏻🫶🏻\n配信タイトル：Hello..."
-            },
-            {
-                "video_id": "qXA4rPm9SRo",
-                "title": "【忘れないで、大人になっても】#2 小学生になってタイムスリップ 未来を変えるぞ！ 【水宮枢／FLOW GLOW】#hololiveDEV_IS",
-                "date": "2025/03/14 20:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/qXA4rPm9SRo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCef71R68zrNAHn3w3DkabFpQcTgg",
-                "description": "ニンテンドーeショップ\nhttps://store-jp.nintendo.com/list/software/70010000045373.html\nSteam\nhttps://store.steampowered.com/app/1767220/_/\n公式サイト\nhttps://www.gagex.co.jp/extra/wor..."
             }
         ]
     },
@@ -355,7 +348,15 @@
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/YQU4Moz1OujZA8STx9g8rtaZWm3BA9OGplnz3KP4l8RK0OBujDBkmnlWrJa94Udo4SOduAzWrQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "dJkBFfBFVdg",
+                "title": "【 Minecraft 】深夜のゆったりマイクラ【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+                "date": "2025/03/14 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/dJkBFfBFVdg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDO3iyO2NWRXu1vfZ3TG0b0OIdPMQ",
+                "description": "▽ 最重要！！歌ってみた10作目公開中！ ▽\n「Beyond the way」 - 音乃瀬奏＆Mori Calliope（cover）\nhttps://youtu.be/bYZOxUX_iso\n\n୨୧♪:*:･･:*:･♪･:*:･･:*:･..."
+            }
+        ]
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
