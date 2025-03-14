@@ -35,7 +35,22 @@
         "channel_url": "https://www.youtube.com/@AmaneKanata",
         "channel_name": "Kanata Ch. Kanata Amane",
         "avatar_url": "https://yt3.googleusercontent.com/oPU9ckNcyeHD0FFsYSxkoD1mtbslSwdmMSfoCYQWphOu5e7UeCnIF-Nt0hvvF41L5Nykga07nQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "JL2zOVg8-60",
+                "title": "【作業用BGM】第5回 #ゴリレバ 定期深夜Chillラジオ【天音かなた、雪花ラミィ/ホロライブ】",
+                "date": "2025/03/15 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/JL2zOVg8-60/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAsjT4I9MfMAPi81uvC2A8bfofVZQ",
+                "description": "💠深夜のゴリレバラジオ / 再生リスト\nhttps://youtube.com/playlist?list=PLNvxSJodVoAujMmwQPAvliFJ96d1RVzo3\n\n第一回目　https://www.youtube.com/watch?v=AnLuOiOYR5w\n第二回目..."
+            },
+            {
+                "video_id": "djvEGxUUpy4",
+                "title": "【配信予定地】かなたそなにする【天音かなた/ホロライブ】",
+                "date": "2025/03/14 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/djvEGxUUpy4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC7H1iB1dbMh4cRslxqUiGrscN3rA",
+                "description": "なにする？\n\n---------------------------------------------------------------------------------\n\n🌌 天音かなた 1st フルアルバム\n　 「Unknown DIVA」全国流通にて発売中!!..."
+            }
+        ]
     },
     "@AnyaMelfissa": {
         "channel_url": "https://www.youtube.com/@AnyaMelfissa",
@@ -383,15 +398,7 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": [
-            {
-                "video_id": "273I3ui7uLg",
-                "title": "Olivia Screenshot Compilation【Monster Hunter: Wilds】",
-                "date": "2025/03/14 08:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/273I3ui7uLg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBBCALwZ-FmkJKis0PQDa7ikNAAA",
-                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n\n==============..."
-            }
-        ]
+        "videos": []
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
@@ -417,7 +424,15 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "xnCzauzJ-VQ",
+                "title": "#06【モンハンワイルズ】上位クエスト！脳筋ハンマー！！待望の「モンスターハンターワイルズ」やっていくよ～！！！【白銀ノエル/ホロライブ】",
+                "date": "2025/03/14 12:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/xnCzauzJ-VQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASS0LT97k6Xvmoi1PACg_q9cJqmw",
+                "description": "1週間ぶり！楽しみ太郎✨\n\nこの動画およびライブは株式会社カプコンの利用許諾を受けて配信しています\nモンスターハンターワイルズ \n©CAPCOM..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
