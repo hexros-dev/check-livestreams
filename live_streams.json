@@ -331,7 +331,14 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "7lk4T8uE7MY",
+                "title": "【#新生活大祭り】HP学園電撃入学！さくらみこ、いきなりのサヨナラ！？【ホロライブ／さくらみこ／白上フブキ】",
+                "thumbnail": "https://i.ytimg.com/vi/7lk4T8uE7MY/hqdefault.jpg?v=67d16a57&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCuNGv22PQHvwTlBA9TadfYrLqI4Q",
+                "description": "提供：株式会社日本HP\n『フブみこさんショッピング~HP学園編~』\n \n白上フブキとさくらみこがお届けする通販番組“風”配信「フブみこさんショッ..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
