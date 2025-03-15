@@ -44,7 +44,15 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "W_2asRHyQ6w",
+                "title": "【モンハンワイルズ】演奏会会場はコチラ。それゆけ！ #ホロモンハン部 【アキロゼ/ホロライブ】",
+                "date": "2025/03/15 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/W_2asRHyQ6w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjtIcGnGIXX6QA7YXbapqJeq4qDQ",
+                "description": "まもなく終了！3/17 18時まで！！！\n🎂アキロゼ生誕祭グッズ発売🎂\nhttps://shop.hololivepro.com/products/akirosenthal_bd2025\n\n🎧アキロゼ新曲【異薔薇】リリー..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -313,15 +321,7 @@
         "channel_url": "https://www.youtube.com/@MurasakiShion",
         "channel_name": "Shion Ch. 紫咲シオン",
         "avatar_url": "https://yt3.googleusercontent.com/K91NQLuy_JMQ65n-Opf0Q2FZBO3yOURnMRusO7o5DTjaJ1QVtP-ANN4lehK57X4KXpcI2MiRig",
-        "videos": [
-            {
-                "video_id": "qiTKAJrkL7k",
-                "title": "配信予定～～～～！！！最強無敵シオンちゃん！！【ホロライブ/紫咲シオン】",
-                "date": "2025/03/15 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/qiTKAJrkL7k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_Lacc0WSqDdBwLHIr9D4y_DSKvw",
-                "description": "💘バレンタインボイス2025発売中💘\nhttps://shop.hololivepro.com/products/hololive_valentinevoice2025?utm_source=youtube&utm_medium=product_shelf\n\n💜紫咲シオン4thオリジナル..."
-            }
-        ]
+        "videos": []
     },
     "@NakiriAyame": {
         "channel_url": "https://www.youtube.com/@NakiriAyame",
