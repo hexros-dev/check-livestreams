@@ -102,13 +102,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
         "videos": [
             {
-                "video_id": "ERIxQaoEbXs",
-                "title": "【 3D LIVE 】豪華ゲスト & 生演奏 & 告知あり！ #博衣こより生誕Live2025 -FIRST STEP- 【博衣こより/ホロライブ】",
-                "date": "2025/03/15 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/ERIxQaoEbXs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1NNTvH-aJmvM3pjCAJZVGwsZHXg",
-                "description": "3/15には遂に1stアルバム『FIRST STEP』が発売！ここからがアーティスト「博衣こより」の1歩目、という想いで届けるライブです。\n初めての生演奏で..."
-            },
-            {
                 "video_id": "d3cn_ZRI7LI",
                 "title": "【 Membership only 3D LIVE 】#博衣こより生誕Live2025 -FIRST STEP- メン限も！歌って踊って！記念撮影して！あの曲も！？楽しもう🎉【博衣こより/ホロライブ】",
                 "date": "2025/03/15 19:15:00",
@@ -594,7 +587,15 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "IuwYeE5NuNU",
+                "title": "【STREET FIGHTER 6】V最協チーム顔合わせ！🌟【常闇トワ/ホロライブ】",
+                "date": "2025/03/15 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/IuwYeE5NuNU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBeTY_cbcm2tbcDWmemKohPeDTb5A",
+                "description": "しずくさんは急用がはいっちゃったみたいで今度顔合わせです！\n\n\nこの動画およびライブは株式会社カプコンの利用許諾を受けて配信しています..."
+            }
+        ]
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
