@@ -234,7 +234,15 @@
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
         "channel_name": "Kobo Kanaeru Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/-CTSHFyohthgdHnFuQzUKOvtl-xpDUSp5-kkeRN9_PadA8DFtSRKhI-3PxoqILuq8_6TwszNBnk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "2bUJhqaDq98",
+                "title": "【MiSide】MITAAAAAAAAAAAAAA",
+                "date": "2025/03/15 22:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/2bUJhqaDq98/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBP8EcqcumsZMvgRBQEtMxRuV4kZA",
+                "description": "Bokobokobo- Kobo Kanaeru at your service! Let me be your sun to shine your day, ehe~ ;D ☔☔☔\n#OnAeru #Kobo_Kanaeru #holoID #holoID03\n\nThis game is being streamed and monetized after confirming..."
+            }
+        ]
     },
     "@KoganeiNiko": {
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
