@@ -149,7 +149,14 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/XXZ4apG-FPN8G8DpYacbnwxs7S5tf2tjV_u2Eaot3JHGAkSPFBYaGMOyJcAHhLYy_u11JD7O29I",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "-a1svxo_zIM",
+                "title": "【耐久歌枠/KARAOKE】３０万人目指して歌枠耐久！【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "thumbnail": "https://i.ytimg.com/vi/-a1svxo_zIM/hqdefault.jpg?v=67d4d366&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwI59OxksjQSxxIbRIxUMkTIqacw",
+                "description": "サムネイルの素敵なイラスト　ユウさん　https://x.com/Yu_d1005\n\n\n✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧\n\nhololive DEV_ISからデビューし..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -192,14 +199,7 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/ORf3qREMw-ycNKEoaOGFib5yr8B1v--YzmyODCIZ6aieC505HZoHxeEk-H0vjo7PFCd12p0LcQ",
-        "videos": [
-            {
-                "video_id": "2pJMfVim4pE",
-                "title": "【Hello Kitty Island Adventure】サンリオの世界に😭✨️世界に感謝。【水宮枢／FLOW GLOW】#hololiveDEV_IS",
-                "thumbnail": "https://i.ytimg.com/vi/2pJMfVim4pE/hqdefault.jpg?v=67d42b9d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxpTKKLS7uk77MpnyRK9WFqoZCww",
-                "description": "サムくんをみてサムくんをみる。サンリオさん本当にありがとうございます、、サンリオキャラクター😭🫶🏻🫶🏻🫶🏻\n配信タイトル：Hello..."
-            }
-        ]
+        "videos": []
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
