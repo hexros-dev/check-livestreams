@@ -21,7 +21,14 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "giaKCF6T5VU",
+                "title": "【麻雀一番街】第6回HP麻雀杯今度こそ優勝！【アキロゼ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/giaKCF6T5VU/hqdefault.jpg?v=67d624b9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtIaXOhf_ZN0eyoA2ttwHJflYcYQ",
+                "description": "麻雀一番街URL\nhttps://www.mahjong-jp.com/home\n#麻雀杯　#麻雀一番街\n本配信\nhttps://www.youtube.com/watch?v=t4gecGsirb8\n\n配信タグ #アキびゅーわーるど \n本ゲームは..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -69,7 +76,14 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "m0Zik_KhKWs",
+                "title": "【 #博衣こより生誕Live2025 】振り返り＆裏話とおうち3D新表情お披露目するよ～～～！✨ 【博衣こより/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/m0Zik_KhKWs/hqdefault.jpg?v=67d6689f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBEKNXJl-GsuX4qcrggO_g9IKAJcQ",
+                "description": "🎂博衣こより誕生日記念グッズ2025発売開始！👇🎂\nhttps://shop.hololivepro.com/products/hakuikoyori_bd2025\n💿1stアルバム「FIRST STEP」発売中！CD版が買えるの..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -254,14 +268,7 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
-        "videos": [
-            {
-                "video_id": "jXTOrE7-OCM",
-                "title": "【 ゼノブレイド2 】完全初見✦ のんびり冒険はじめます #08【 猫又おかゆ/ホロライブ 】",
-                "thumbnail": "https://i.ytimg.com/vi/jXTOrE7-OCM/hqdefault.jpg?v=67d58ccf&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCi5J3dPwl6kkL9ZSw42vCGGMloPQ",
-                "description": "----------\n\n🍙猫又おかゆ 2nd Live.「ぺるそにゃ～りすぺくと」🍙\n2025年5月28日（水）ぴあアリーナMMにて開催決定！\n▷ https://personyarespect.hololivepro.com/..."
-            }
-        ]
+        "videos": []
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -370,7 +377,14 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "qy0UEWRbwSM",
+                "title": "「これは赤ん坊ですか？」「いいえ、バケツです」-The Stanley Parable: Ultra Deluxe【獅白ぼたん/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/qy0UEWRbwSM/hqdefault.jpg?v=67d5998f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCg6cCiqG0sAMZFGGMp01RceNDN5g",
+                "description": "ナレーターの指示に逆張りしていくゲームです（たまに従ってもいい）\nバケツ（多分）と一緒にいろんなエンディング開拓していくぞ！\n\n配信ハ..."
+            }
+        ]
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
@@ -382,13 +396,27 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "YVsTDyVB9zk",
+                "title": "【 トルネコの大冒険3 】完全初見！久々の！！！！ポポロと一緒に大冒険【鷹嶺ルイ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/YVsTDyVB9zk/hqdefault.jpg?v=67d38883&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVDWjWgn1HKjHvKqsE9VThVBdgsA",
+                "description": "☺\n\n本動画のゲームプレイ映像は、株式会社スクウェア・エニックスの許諾を受けて使用しています。\nこの動画で利用している株式会社スクウェ..."
+            }
+        ]
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/LObfzJe4AIufIErJzQy1xzwQcA5AX6rJh8AxJe-qvG2yBO-tbTVDwXqOkoeK_MoGPC6C3lMxQ_c",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "DxPKIq255x0",
+                "title": "【雑談】みなたん元気ー！？お喋りしたいマン！【轟はじめ/ReGLOSS】 #hololivedev_is",
+                "thumbnail": "https://i.ytimg.com/vi/DxPKIq255x0/hqdefault.jpg?v=67d64625&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwQpxlJ51ykMS9HzPzB8g4fWZUAQ",
+                "description": "時間たっちゃったけどFesやExpoの感謝を...！！\n\n素敵なサムネお写真：ぴぃ汰様（@pisan_333）\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n✨宣伝✨..."
+            }
+        ]
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
@@ -424,7 +452,14 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "bh3eupWiBM4",
+                "title": "【#新生活大祭り】#ホロライブマッスル3 の私たちに日本HPのパソコンは軽すぎた！【ホロライブ/雪花ラミィ/白銀ノエル/天音かなた】",
+                "thumbnail": "https://i.ytimg.com/vi/bh3eupWiBM4/hqdefault.jpg?v=67d5533b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAh_3UuNsBj6jef06rhTb5MwSQSog",
+                "description": "白銀ノエル https://www.youtube.com/@UCdyqAaZDKHXg4Ahi7VENThQ \n天音かなた https://www.youtube.com/@UCZlDXzGoo7d44bwdNObFacg \n\n提供：株式会社日本HP\n『ムキムキマッスルシ..."
+            }
+        ]
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
