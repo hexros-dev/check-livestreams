@@ -99,7 +99,14 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "prIeCcZBxOo",
+                "title": "【3D LIVE - HOPE UPON A STAR 】MEMBERS ONLY LIVE ENCORE #IRySBDay2025",
+                "thumbnail": "https://i.ytimg.com/vi/prIeCcZBxOo/hqdefault.jpg?v=67d65016&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDe3KoZ0PilEAevCMWCUTQjNzHxgw",
+                "description": "Reaching for the Brightest Star \n\nMy newest EP \"YaBAI\" is open for pre-orders from 1:10PM JST/4:10AM GMT/9:10PM PST\n13:10〜EPカートオープン\nJP： https://shop.hololivepro.com/products/irys_..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -343,14 +350,7 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": [
-            {
-                "video_id": "Wm9sRdkGNmA",
-                "title": "【朝活雑談】おはまっするさんで～🌞✨【白銀ノエル/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/Wm9sRdkGNmA/hqdefault.jpg?v=67d5827a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACIddD1qvQ4BkUgO06Umxl7JQTcQ",
-                "description": "さずでーまっするぶり！今週もお疲れさまだ～🍵✨\n\n[NEW]🔥焚火ASMRボイス販売中🔥→ https://shop.hololivepro.com/products/hololive_asmr_chillinbythecampfire?_pos=2&..."
-            }
-        ]
+        "videos": []
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
