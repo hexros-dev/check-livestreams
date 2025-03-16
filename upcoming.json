@@ -392,7 +392,15 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "DQNecBAn-JY",
+                "title": "【モンハンワイルズ】モンのハンのワイルズ！【獅白ぼたん/ホロライブ】",
+                "date": "2025/03/17 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/DQNecBAn-JY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5aYzbtCwZ6JwYIxSR2fWPdZzJmA",
+                "description": "スト6を嗜む者達のモンハンワイルズ\n\n👊参加者\n・獅白ぼたん @ShishiroBotan \n・アキ・ローゼンタール @AkiRosenthal \n・折咲もしゅ @moshu.o \n・荒神オウガ..."
+            }
+        ]
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
@@ -486,15 +494,7 @@
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48",
-        "videos": [
-            {
-                "video_id": "R0sxa62ta2o",
-                "title": "[Yu-Gi-Oh! MASTER DUEL]  Duel of the Titans !!! ~💄 !YGO #sponsored",
-                "date": "2025/03/16 23:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/R0sxa62ta2o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD015KZ6WJKQ8MOU_l1nKUXOp7axA",
-                "description": "Check out the link here: https://bit.ly/yugiohmd\n＊This stream is sponsored by KONAMI＊\n▬▬ι════════ﺤ\n❣Credits ❣\n* Joshua React Art: Keen (https://x.com/keenbiscuit)..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_gigimurin": {
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
