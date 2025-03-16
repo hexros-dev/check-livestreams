@@ -162,14 +162,7 @@
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
         "channel_name": "Kobo Kanaeru Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/-CTSHFyohthgdHnFuQzUKOvtl-xpDUSp5-kkeRN9_PadA8DFtSRKhI-3PxoqILuq8_6TwszNBnk",
-        "videos": [
-            {
-                "video_id": "KuWz5L4gAaY",
-                "title": "【Monster Hunter Wilds】kobokerz, you know what to do 🙏",
-                "thumbnail": "https://i.ytimg.com/vi/KuWz5L4gAaY/hqdefault.jpg?v=67d63c1c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRG-3wgdOzWFerVceQDjCx55HPXQ",
-                "description": "Bokobokobo- Kobo Kanaeru at your service! Let me be your sun to shine your day, ehe~ ;D ☔☔☔\n#OnAeru #Kobo_Kanaeru #holoID #holoID03\n\nGame title: Monster Hunter Wilds\nThis video and livestream..."
-            }
-        ]
+        "videos": []
     },
     "@KoganeiNiko": {
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
@@ -285,14 +278,7 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": [
-            {
-                "video_id": "9LXfxiSQ4Vc",
-                "title": "【 モンハンワイルズ 】ストーリー進めてます！よちよちガンランス！【 ホロライブ / 大神ミオ 】",
-                "thumbnail": "https://i.ytimg.com/vi/9LXfxiSQ4Vc/hqdefault.jpg?v=67d660b0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBV8xwub2jqB1T-fDTXhwf_oEMGQg",
-                "description": "ちょっとトレーニングしてからガンランス君はやったほうがよい(学び)\n\nサムネillustrator：みあさん　https://x.com/960mia\n\nこの動画およびライブは株式..."
-            }
-        ]
+        "videos": []
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -322,7 +308,14 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/TejsfeJ29zBtQDJhP2TKDFAEk98-LuGRBGqrNIjbGQ05T9R5Jcl_VfsK27LZ_PXJmRP7DECk-w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Dcjkn703MC8",
+                "title": "【Minecraft /マイクラ】ゆるゆる車作り【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "thumbnail": "https://i.ytimg.com/vi/Dcjkn703MC8/hqdefault.jpg?v=67d69739&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAoQlGtNyVIo6IsGdrH8oS9r0ay0w",
+                "description": "ふぐ太郎の続きするぞ～～！\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms\n) に基づいて配信・収益化を行なってお..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -358,7 +351,14 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "nYV0_ibYbFY",
+                "title": "【ウィンヒロ】WIND BREAKERの ゲームアプリがでたぞ！！どんな感じが遊んでみよう！【不知火フレア/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/nYV0_ibYbFY/hqdefault.jpg?v=67d5d68f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-yLzu3xDNBWaAvrlJerJWosGtvQ",
+                "description": "提供：講談社\n\nウィンヒロDLはこちらから！\nhttps://www.wb-rebelheroes.com/\n\nTVアニメ「WIND BREAKER」Season 2\n4月3日から毎週木曜深夜0時26分～\nMBS/TBS系28 局「ス..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -445,14 +445,7 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": [
-            {
-                "video_id": "bh3eupWiBM4",
-                "title": "【#新生活大祭り】#ホロライブマッスル3 の私たちに日本HPのパソコンは軽すぎた！【ホロライブ/雪花ラミィ/白銀ノエル/天音かなた】",
-                "thumbnail": "https://i.ytimg.com/vi/bh3eupWiBM4/hqdefault.jpg?v=67d5533b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAh_3UuNsBj6jef06rhTb5MwSQSog",
-                "description": "白銀ノエル https://www.youtube.com/@UCdyqAaZDKHXg4Ahi7VENThQ \n天音かなた https://www.youtube.com/@UCZlDXzGoo7d44bwdNObFacg \n\n提供：株式会社日本HP\n『ムキムキマッスルシ..."
-            }
-        ]
+        "videos": []
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
