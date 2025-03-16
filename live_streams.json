@@ -168,14 +168,7 @@
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
         "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/4XC0YEED9T4kvdLbJNK5f8GRCUNJds21yPXR4lNgH_CCjR-gbOYzod-vjfbH93YNFm6CiSSskA",
-        "videos": [
-            {
-                "video_id": "6Oo-1iS2Y_I",
-                "title": "【Minecraft】ニコたん、ヴィヴィの足引っ張る見込み、アリ【虎金妃笑虎】",
-                "thumbnail": "https://i.ytimg.com/vi/6Oo-1iS2Y_I/hqdefault.jpg?v=67d5a87b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBAKcLi9iPLDf42LcejaCk2cLCZrQ",
-                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n【使用MOD】\n使用MOD：Comp..."
-            }
-        ]
+        "videos": []
     },
     "@KosekiBijou": {
         "channel_url": "https://www.youtube.com/@KosekiBijou",
@@ -205,14 +198,7 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": [
-            {
-                "video_id": "W_26yJ-Tasw",
-                "title": "【 #ホロライ部 】みんなの推し活を抜き打ちチェック‼【 桃鈴ねね / hololive 】",
-                "thumbnail": "https://i.ytimg.com/vi/W_26yJ-Tasw/hqdefault.jpg?v=67d69962&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTpY-IJfBEtSce9T1ADDBZFfsOSA",
-                "description": "#ホロライ部　←ねねが部長の推し活研究部！このタグ巡回してみんなの推し活に迫る！\n３月２９日はねねのお誕生日ライブがあるよ～💛予定空..."
-            }
-        ]
+        "videos": []
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
@@ -284,7 +270,14 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "odTjti_z5dQ",
+                "title": "【#みこスバモンハン】3日目！！！みこちとモンハンワイルズやるしゅばああああああああああああああああああああ！！！！/ MONSTER HUNTER WILDS【ホロライブ/大空スバル】",
+                "thumbnail": "https://i.ytimg.com/vi/odTjti_z5dQ/hqdefault.jpg?v=67d6968f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAf5tv5mDep3AWktzvmZLLhDREASg",
+                "description": "サムネイラスト：ぶるー太先生\nhttps://x.com/blueta9810\nロゴ：柊椋先生\nhttps://x.com/hiiragiryo\n\n@SakuraMiko \nこの動画およびライブは株式会社カプコンの利用..."
+            }
+        ]
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -333,7 +326,14 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/aKZHZDkvcHSEQSq5B6NSBTylOs7GhBMxqasvmS3IGX9c3YJ7CQ349uy64oE4rQERMZuV3bwa",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "bPZM-OfXBII",
+                "title": "【 モンハンワイルズ 】みこスバモンハン成長物語！！！！！！！！～DAY3～【ホロライブ/さくらみこ/大空スバル】",
+                "thumbnail": "https://i.ytimg.com/vi/bPZM-OfXBII/hqdefault.jpg?v=67d65271&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5vem139G7e6b80MfoN-ZTgdcTCQ",
+                "description": "@OozoraSubaru 　#みこスバモンハン\n\nサムネイラスト：ぶるー太先生\nhttps://x.com/blueta9810\nロゴ：柊椋先生\nhttps://x.com/hiiragiryo\n\n⪩⪨　お知らせ/ɪɴғᴏ..."
+            }
+        ]
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
@@ -351,14 +351,7 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": [
-            {
-                "video_id": "nYV0_ibYbFY",
-                "title": "【ウィンヒロ】WIND BREAKERの ゲームアプリがでたぞ！！どんな感じが遊んでみよう！【不知火フレア/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/nYV0_ibYbFY/hqdefault.jpg?v=67d5d68f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-yLzu3xDNBWaAvrlJerJWosGtvQ",
-                "description": "提供：講談社\n\nウィンヒロDLはこちらから！\nhttps://www.wb-rebelheroes.com/\n\nTVアニメ「WIND BREAKER」Season 2\n4月3日から毎週木曜深夜0時26分～\nMBS/TBS系28 局「ス..."
-            }
-        ]
+        "videos": []
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -402,14 +395,7 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/LObfzJe4AIufIErJzQy1xzwQcA5AX6rJh8AxJe-qvG2yBO-tbTVDwXqOkoeK_MoGPC6C3lMxQ_c",
-        "videos": [
-            {
-                "video_id": "DxPKIq255x0",
-                "title": "【雑談】みなたん元気ー！？お喋りしたいマン！【轟はじめ/ReGLOSS】 #hololivedev_is",
-                "thumbnail": "https://i.ytimg.com/vi/DxPKIq255x0/hqdefault.jpg?v=67d64625&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwQpxlJ51ykMS9HzPzB8g4fWZUAQ",
-                "description": "時間たっちゃったけどFesやExpoの感謝を...！！\n\n素敵なサムネお写真：ぴぃ汰様（@pisan_333）\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n✨宣伝✨..."
-            }
-        ]
+        "videos": []
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
