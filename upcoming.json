@@ -47,7 +47,15 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "9QOgHD4XOak",
+                "title": "【M.M.M.】Malam Main Marvel rivals !!!【Ayunda Risu】",
+                "date": "2025/03/17 20:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/9QOgHD4XOak/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPaaPNotBvcx7-hSq6ofnfPFhmlQ",
+                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nThis game is being streamed and monetized after confirming with NetEase Inc.\n\nMETROPOLIS MV : https://youtu.be/6ulGdHRkzGs?si=YlxSAABf361PYA..."
+            }
+        ]
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -419,15 +427,7 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/LObfzJe4AIufIErJzQy1xzwQcA5AX6rJh8AxJe-qvG2yBO-tbTVDwXqOkoeK_MoGPC6C3lMxQ_c",
-        "videos": [
-            {
-                "video_id": "TlRHMuU5q3A",
-                "title": "【ポケモンSV】はじめてのポケモン！バイオレットやってみる！【轟はじめ/ReGLOSS】 #hololivedev_is",
-                "date": "2025/03/17 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/TlRHMuU5q3A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNR4K41vGTKEmlLBX0Vmv2tdMe0g",
-                "description": "素敵なサムネお写真：ʜᴀɢᴇ様（@Ohagetty）\n\nポケットモンスター バイオレット\n公式サイト：https://www.pokemon.co.jp/ex/sv/ja/\n￣￣￣￣￣￣￣￣￣￣￣￣..."
-            }
-        ]
+        "videos": []
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
