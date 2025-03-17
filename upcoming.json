@@ -24,13 +24,6 @@
                 "date": "2025/03/17 21:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/3s_fvXcCnC0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9boubgAuiyo9dZVRJ10QJNXZEAg",
                 "description": "#ioLyfe #Airani_Iofifteen #hololive #holoID #monsterhunter \n\nこの動画およびライブは\n株式会社カプコンの利用許諾を受けて配信しています\nモンスターハンター..."
-            },
-            {
-                "video_id": "CTQP8l3adZQ",
-                "title": "【Honor of Kings】NEW SEASON WRYYYYYYY【 iofi / hololiveID 】",
-                "date": "2025/03/17 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/CTQP8l3adZQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYNvZfFeZjbLIl28-66QkcWSt4-A",
-                "description": "#ioLyfe #Airani_Iofifteen #hololive #holoID #HonorofKings #HonorofKingsIndonesia #CobaAjaDulu #MOBAFOREVERYONE\n\nThis video and livestream are being streamed and monetized with permission and..."
             }
         ]
     },
@@ -141,7 +134,15 @@
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
         "channel_name": "Suisei Channel",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "MomMW-sO9_I",
+                "title": "【マクドナルド】#ティロリミックス 同時視聴しながらバーチャルポテト食べる！【VRChat】",
+                "date": "2025/03/18 17:45:00",
+                "thumbnail": "https://i.ytimg.com/vi/MomMW-sO9_I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDs8aV1azvmL_B8zjsi9or1vev3yg",
+                "description": "ティロリミックス2025はコチラ！\nhttps://www.youtube.com/watch?v=Nr5OEA1PvJ8\n\nマックフライポテト®が揚がった時に聞こえる「ティロリ」音をアーティストの..."
+            }
+        ]
     },
     "@HoushouMarine": {
         "channel_url": "https://www.youtube.com/@HoushouMarine",
@@ -159,15 +160,7 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/LsouEz4pO50_T1MW5qjwwKuaI-HUjUS441UfS4mbmVKKDw-rTaNUVXRdM5ZJyfb_KHjyf0JU",
-        "videos": [
-            {
-                "video_id": "Drtytq81zRU",
-                "title": "【鬼チャレンジ】スーパーマリオブラザーズでノーワープノーセーブで残機ゼロになったら即終了！！【一条莉々華/hololive DEV_IS ReGLOSS】",
-                "date": "2025/03/17 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Drtytq81zRU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2rBP02Sqrp1eIBTM3GljSyBYF9w",
-                "description": "1度はクリアしてるわけだから…ホラ、ねっ！？！\n莉々華は一体何面まで進めるのだろう…か…！！！！\n\nこの動画およびライブは、任天堂著作物..."
-            }
-        ]
+        "videos": []
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -187,21 +180,21 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/K39Md5CGHmCaMC5Ne3UWBzblgzDhUzXUFszrHfGapCvOldc8E7fWw3pxN0zhcjmoht4GngnD",
-        "videos": [
-            {
-                "video_id": "vk-xMnnHkbE",
-                "title": "【 Minecraft 】ルイ先輩と金トラップを作るの巻♡#24【ホロライブ DEV_IS 響咲リオナ】",
-                "date": "2025/03/17 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/vk-xMnnHkbE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBC2GgCDFa2PQzVu1v26XdW8uu98A",
-                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております。\n\n♡...\n本日スーパーチ..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/9BFn9huZRtcJypmkYNt0qslTAf225UJsapBFMsyIWjVFZMkkRn6LULZ-iLMmg9nigp0xcDjP0kw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "gcot8fNlkgk",
+                "title": "【#ガレ展 】サントリー美術館さんのエミール・ガレ展に潜入！特別映像たっぷり&食レポ&解説でお届けします！【儒烏風亭らでん #ReGLOSS 】#PR",
+                "date": "2025/03/18 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/gcot8fNlkgk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBaWVvIsdCDdUNxYkxi66mz_GiWEQ",
+                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\nなんと今回は超スペシャルな配信をお届け！..."
+            }
+        ]
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -241,7 +234,15 @@
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
         "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/4XC0YEED9T4kvdLbJNK5f8GRCUNJds21yPXR4lNgH_CCjR-gbOYzod-vjfbH93YNFm6CiSSskA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "k0X25DKfHbM",
+                "title": "【Minecraft】FG分のネザライト集め！ニコたんの豪運なら５０個余裕！【虎金妃笑虎】",
+                "date": "2025/03/17 19:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/k0X25DKfHbM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9JU5fbsX7YStgK4flSPYemdrezw",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n【使用MOD】\n使用MOD：Comp..."
+            }
+        ]
     },
     "@KosekiBijou": {
         "channel_url": "https://www.youtube.com/@KosekiBijou",
@@ -333,15 +334,7 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": [
-            {
-                "video_id": "ow2Uy5dJCKM",
-                "title": "【MONSTER HUNTER WILDS】 No Sleep Hunters Unite",
-                "date": "2025/03/17 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/ow2Uy5dJCKM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4bPFr_WQPlAuhfDutTk6xJvJAGQ",
-                "description": "【Thumbnail Art】\nhttps://x.com/ani_019/status/1897755795254628844\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\nThis video and livestream are being streamed with permission and under..."
-            }
-        ]
+        "videos": []
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -360,13 +353,6 @@
                 "date": "2025/03/18 15:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/6SjMo6hujUk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjV4Apu_OOqbR-zy9WkzQb3rRk5Q",
                 "description": "ホロライブゲーマーズの４人で重大発表！！！！！！！\n\n#ホロライブゲーマーズ \n✣✣–––––––––––..."
-            },
-            {
-                "video_id": "g6guTqdHuno",
-                "title": "【 That's not my Neighbor 】ムムム...！怪しいヤツを見極めるお仕事！【 ホロライブ / 大神ミオ 】",
-                "date": "2025/03/17 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/g6guTqdHuno/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAj7sgcGPOjTJ2f05ITPlDK25LCbQ",
-                "description": "うちは、建物の管理人？として、\n最近たくさん現れているドッペルゲンガーを本人と間違えて\n建物に入れないようにがんばるお仕事をするみたい..."
             }
         ]
     },
@@ -482,15 +468,7 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": [
-            {
-                "video_id": "pB3e3SzBjJ8",
-                "title": "【 Minecraft 】リオナとゾンビピグリントラップつくるぞ～！！！！！金だ金だ金だ～！！！【鷹嶺ルイ/ホロライブ】",
-                "date": "2025/03/17 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/pB3e3SzBjJ8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRMwtiRgwg7NvE_a5G52-e2yFIHA",
-                "description": "安全なんて言葉はない\n\n【使用MOD】\n使用MOD：Complementary Shaders\n制作者：EminGT\n配布URL：https://www.curseforge.com/minecraft/customization/complementary-shaders\n【使用MO..."
-            }
-        ]
+        "videos": []
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
@@ -516,15 +494,7 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": [
-            {
-                "video_id": "xaMolk8zOp4",
-                "title": "【Underground Blossom】過去と未来へ旅をして秘密を解き明かせ 【常闇トワ/ホロライブ】",
-                "date": "2025/03/17 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/xaMolk8zOp4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9e9qlPSIpjKv50mt2kaXMDyCzzw",
-                "description": "本配信はRusty Lakeの確認を得た上で配信・収益化を行なっております。\n୨୧-------------------------------┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈..."
-            }
-        ]
+        "videos": []
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
