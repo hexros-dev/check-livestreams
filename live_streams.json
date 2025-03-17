@@ -69,14 +69,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "2l3H7_LpEmM",
-                "title": "【 #朝こよ 】ホロカ第4弾新情報＆更に告知アリ‼盛りだくさんな火曜日の朝も朝こよ～☀ #224 【博衣こより/hololive】",
-                "thumbnail": "https://i.ytimg.com/vi/2l3H7_LpEmM/hqdefault.jpg?v=67d7c66b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCHW3bZrTLcZsz45Jpv58gIflJ1Ow",
-                "description": "🎂博衣こより誕生日記念グッズ2025発売開始！👇🎂\nhttps://shop.hololivepro.com/products/hakuikoyori_bd2025\n💿1stアルバム「FIRST STEP」発売中！CD版が買えるの..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -167,7 +160,14 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "W6qn77VNBnc",
+                "title": "【MONSTER HUNTER WILDS】LEARNING ALL WEAPONS TO HUNT TEMPERED ARKVELD 14 TIMES【PART 2】",
+                "thumbnail": "https://i.ytimg.com/vi/W6qn77VNBnc/hqdefault.jpg?v=67d836f1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-62PQ3oCEPaZWs_XIM2x4XzwC4w",
+                "description": "Thumbnail Art: @PhdPigeon thank you!\nhttps://x.com/PhdPigeon/status/1901519952743698789/photo/1\n\nThis video and livestream are being streamed with permission and under license by CAPCOM CO.,..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
