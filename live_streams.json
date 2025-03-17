@@ -16,14 +16,7 @@
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
         "channel_name": "Airani Iofifteen Channel hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc",
-        "videos": [
-            {
-                "video_id": "CTQP8l3adZQ",
-                "title": "【Honor of Kings】NEW SEASON WRYYYYYYY【 iofi / hololiveID 】",
-                "thumbnail": "https://i.ytimg.com/vi/CTQP8l3adZQ/hqdefault.jpg?v=67d7b485&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYNvZfFeZjbLIl28-66QkcWSt4-A",
-                "description": "#ioLyfe #Airani_Iofifteen #hololive #holoID #HonorofKings #HonorofKingsIndonesia #CobaAjaDulu #MOBAFOREVERYONE\n\nThis video and livestream are being streamed and monetized with permission and..."
-            }
-        ]
+        "videos": []
     },
     "@AkaiHaato": {
         "channel_url": "https://www.youtube.com/@AkaiHaato",
@@ -175,7 +168,14 @@
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
         "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/4XC0YEED9T4kvdLbJNK5f8GRCUNJds21yPXR4lNgH_CCjR-gbOYzod-vjfbH93YNFm6CiSSskA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "k0X25DKfHbM",
+                "title": "【Minecraft】FG分のネザライト集め！ニコたんの豪運なら５０個余裕！【虎金妃笑虎】",
+                "thumbnail": "https://i.ytimg.com/vi/k0X25DKfHbM/hqdefault.jpg?v=67d7e6b9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9JU5fbsX7YStgK4flSPYemdrezw",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n【使用MOD】\n使用MOD：Comp..."
+            }
+        ]
     },
     "@KosekiBijou": {
         "channel_url": "https://www.youtube.com/@KosekiBijou",
@@ -315,7 +315,14 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/TejsfeJ29zBtQDJhP2TKDFAEk98-LuGRBGqrNIjbGQ05T9R5Jcl_VfsK27LZ_PXJmRP7DECk-w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "FdjDTjkfupQ",
+                "title": "【Minecraft /マイクラ】にこたんとネザーでネザライト堀【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "thumbnail": "https://i.ytimg.com/vi/FdjDTjkfupQ/hqdefault.jpg?v=67d7f37e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBgwCbV-sXJEMtgoET6w_0Y4A5_Q",
+                "description": "50個あつめおわるまで終われません、ま？？？\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms\n) に基づいて配信・収..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
