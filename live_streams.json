@@ -153,20 +153,20 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": [
-            {
-                "video_id": "83BqRnEPnnE",
-                "title": "【MONSTER HUNTER WILDS】LEARNING ALL WEAPONS TO HUNT TEMPERED ARKVELD 14 TIMES",
-                "thumbnail": "https://i.ytimg.com/vi/83BqRnEPnnE/hqdefault.jpg?v=67d6ef37&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOSeBOqS7eGT4exVTiHb-rIBfzbA",
-                "description": "Thumbnail Art: @KATSUSLIDER thank you!\nhttps://x.com/KATSUSLIDER/status/1901061032606675406\n\nThis video and livestream are being streamed with permission and under license by CAPCOM CO., LTD...."
-            }
-        ]
+        "videos": []
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "gCKf6sK9eRs",
+                "title": "【MINECRAFT - HOLOLIVE NEW SERVER】SHORT STREAM!!【Kureiji Ollie】",
+                "thumbnail": "https://i.ytimg.com/vi/gCKf6sK9eRs/hqdefault.jpg?v=67d7c6b9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBG_tZdaXbSBlm0ldlPCjnv9Gh8ZA",
+                "description": "#IOLLIE #OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n==========================================\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/te..."
+            }
+        ]
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
