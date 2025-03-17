@@ -28,7 +28,14 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "rLAgW3eTt6A",
+                "title": "【モンハンワイルズ】フルパでひと狩りいこーぜ！【アキロゼ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/rLAgW3eTt6A/hqdefault.jpg?v=67d7baca&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4vExiGmY8xPvM9Wa8q6uvT255pA",
+                "description": "まもなく終了！3/17 18時まで！！！\n🎂アキロゼ生誕祭グッズ発売🎂\nhttps://shop.hololivepro.com/products/akirosenthal_bd2025\n\n🎧アキロゼ新曲【異薔薇】リリー..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -199,7 +206,14 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/ORf3qREMw-ycNKEoaOGFib5yr8B1v--YzmyODCIZ6aieC505HZoHxeEk-H0vjo7PFCd12p0LcQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Jo305MRiZls",
+                "title": "【Minecraft 】ネザライト集める戦いらしい【水宮枢／FLOW GLOW】#hololiveDEV_IS",
+                "thumbnail": "https://i.ytimg.com/vi/Jo305MRiZls/hqdefault.jpg?v=67d7fce7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpwrNJh1jPskBpn2B4_cH4PvUHRQ",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n【使用MOD】\n使用MOD：Opti..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -278,14 +292,7 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": [
-            {
-                "video_id": "g6guTqdHuno",
-                "title": "【 That's not my Neighbor 】ムムム...！怪しいヤツを見極めるお仕事！【 ホロライブ / 大神ミオ 】",
-                "thumbnail": "https://i.ytimg.com/vi/g6guTqdHuno/hqdefault.jpg?v=67d7cb41&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAj7sgcGPOjTJ2f05ITPlDK25LCbQ",
-                "description": "うちは、建物の管理人？として、\n最近たくさん現れているドッペルゲンガーを本人と間違えて\n建物に入れないようにがんばるお仕事をするみたい..."
-            }
-        ]
+        "videos": []
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -352,7 +359,14 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "rnReEIBOMrw",
+                "title": "【 #にじホロ交流戦 】にじホロ交流戦2025 大発表&ドラフト会議【白上フブキ / ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/rnReEIBOMrw/hqdefault.jpg?v=67d2a04f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6aE4k_z3KE02KonYNYqDl5-wI6Q",
+                "description": "『にじさんじ』と『ホロライブ』初の共同リアルイベントが5月24日25日に開催決定\n「プロ野球スピリッツ2024-2025」で両グループ所属タレントをも..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -370,7 +384,14 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "DQNecBAn-JY",
+                "title": "【モンハンワイルズ】モンのハンのワイルズ！【獅白ぼたん/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/DQNecBAn-JY/hqdefault.jpg?v=67d6f7d0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5aYzbtCwZ6JwYIxSR2fWPdZzJmA",
+                "description": "スト6を嗜む者達のモンハンワイルズ\n\n👊参加者\n・獅白ぼたん @ShishiroBotan \n・アキ・ローゼンタール @AkiRosenthal \n・折咲もしゅ @moshu.o \n・荒神オウガ..."
+            }
+        ]
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
