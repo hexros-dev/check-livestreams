@@ -51,7 +51,14 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Sxx4UW3XKnc",
+                "title": "【PHASMOPHOBIA】solo, sick, and scared out of my wits 🐾 【MOCOCO SOLO】",
+                "thumbnail": "https://i.ytimg.com/vi/Sxx4UW3XKnc/hqdefault.jpg?v=67d6eb0e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRaMkNUU34_0EAFcXnua01iPEysg",
+                "description": "my first ever solo stream and it's almost our 2nd anniversary ✨\ni'm still a bit sick so please hold my paw even more than normal... ⤵️⤵️\nlovely illustration by @uki_shu 💕\n\n✨️🩵..."
+            }
+        ]
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -311,14 +318,7 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": [
-            {
-                "video_id": "mUxuAcensBs",
-                "title": "I'm a Rotten Girl Cleaning Rotten Deeds【Crime Scene Cleaner】",
-                "thumbnail": "https://i.ytimg.com/vi/mUxuAcensBs/hqdefault.jpg?v=67b4d78f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSrUJwBQLOA07cSYWxgvCkkNyhTQ",
-                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n\n==============..."
-            }
-        ]
+        "videos": []
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
