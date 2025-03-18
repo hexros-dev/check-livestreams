@@ -113,7 +113,15 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "lS9e43gkaLA",
+                "title": "今日はお酒を呑みたい気分……なのらね🍸(・o・🍬) ～高級クラブルーナ【姫森ルーナ/ホロライブ】",
+                "date": "2025/03/19 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/lS9e43gkaLA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCycKFqqUf8sdhyZr-uEKCZ6qhuQ",
+                "description": "サムネイラスト\n　月と犬さん　https://twitter.com/moon2dog\n\n▷==================================◁\n\n✨姫森ルーナのパペットぬいぐるみ登場✨\n2025年2月27日(木)か..."
+            }
+        ]
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -212,15 +220,7 @@
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
-        "videos": [
-            {
-                "video_id": "0s8mZ2BXNYk",
-                "title": "【ARCHIVED KARAOKE】 A TREAT FOR THE ZOMRADES ON THE OTHER SIDE OF THE WORLD 【Kureiji Ollie】",
-                "date": "2025/03/19 03:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/0s8mZ2BXNYk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAz5eiSlbHgeunTaMWg1pCaJyK6Q",
-                "description": "#OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n==========================================\n\nJOYSOUNDさんが音源提供してくださるホロライブメンバー専用アプリを使用して..."
-            }
-        ]
+        "videos": []
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
