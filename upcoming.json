@@ -71,7 +71,15 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "fvn_oKykb9s",
+                "title": "≪NieR Replicant ver.1.22474487139…≫ ROUTE B.. FIRST TIME PLAYTHROUGH! #6【SPOILER WARNING】",
+                "date": "2025/03/19 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/fvn_oKykb9s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBG2_4cVoRy1rVaZ0wWyRyk3f7JiA",
+                "description": "YokoTaro... I swear to god.\n\nThumbnail: https://x.com/planetdropper/status/1865206141724328168/photo/1\n#telebae #hololiveenglish \n\n««≪ °◇◆◇° ≫ »»\n\nThe gameplay footage in this..."
+            }
+        ]
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -91,15 +99,7 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": [
-            {
-                "video_id": "RTryKbwIogY",
-                "title": "【 Minecraft 】新ホロ鯖！\"んな電鉄\"お洒落にデザインしていくのら！！！＃５【姫森ルーナ/ホロライブ】",
-                "date": "2025/03/18 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/RTryKbwIogY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBeFNgPz2GQJLYgudFZlaJSy53oQA",
-                "description": "サムネイラスト\n　都にかさん　https://twitter.com/Ikanikannika09\n\nマインクラフト新ホロ鯖再生リスト\nhttps://www.youtube.com/playlist?list=PL6gUpTCMieF56nDTQ8RCVqkzhKLpab..."
-            }
-        ]
+        "videos": []
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -167,15 +167,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": [
-            {
-                "video_id": "Y7h2J9O8DjY",
-                "title": "【Minecraft】エリトラで目的地つくまで終われません！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "date": "2025/03/18 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Y7h2J9O8DjY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAGDx4yzbQOUtZob91vsGf8wnxpNw",
-                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n【使用MOD】\n使用MOD：Comp..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -239,7 +231,15 @@
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
         "channel_name": "Moona Hoshinova hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/9e7J_lAxCEZO6IRC_Sl3Gj-bt9uPvSXolU_vBpmqWABzv99oHxzbYhWWgvRI_c2qmB4jH0p_ZA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "67b4JCBKjIU",
+                "title": "【Monster Hunter Wilds】WIIIIIIIIIIIIIIIIIIIIIIII【Moona Hoshinova】",
+                "date": "2025/03/18 22:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/67b4JCBKjIU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgUdAJRgWfFmqEmV4fi9bcdqahFA",
+                "description": "Streamlabs donation link here : https://streamlabs.com/moonahoshinovahololive-id/tip\nSociaBuzz donation link here : https://sociabuzz.com/moonahoshinova/tribe\n======================================..."
+            }
+        ]
     },
     "@MoriCalliope": {
         "channel_url": "https://www.youtube.com/@MoriCalliope",
@@ -419,29 +419,13 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": [
-            {
-                "video_id": "iD_3ZphP60Q",
-                "title": "＃２【ポケモンSV】はじめてのポケモン！いよいよ冒険の旅に出る！【轟はじめ/ReGLOSS】 #hololivedev_is",
-                "date": "2025/03/18 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/iD_3ZphP60Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLwRx9Syz3RQXRqa5jpTTWVEK73Q",
-                "description": "素敵なサムネお写真：山森ぽてと様（@ptt_ymmr）\n\nポケットモンスター バイオレット\n公式サイト：https://www.pokemon.co.jp/ex/sv/ja/\n￣￣￣￣￣￣￣￣￣￣..."
-            }
-        ]
+        "videos": []
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": [
-            {
-                "video_id": "8Ojyus2Oiiw",
-                "title": "【ドンキーコング リターンズ HD】今日こそクリアだ！！【ホロライブ/ときのそら】",
-                "date": "2025/03/18 19:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/8Ojyus2Oiiw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXS-L0d9ZwFsiPnKz2sjv6zODtCA",
-                "description": "予習はばっちり！！\nあとはクリアするだけ～！！！\n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n～サムネイラ..."
-            }
-        ]
+        "videos": []
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
