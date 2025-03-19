@@ -39,7 +39,15 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "EuyhCnQ-6-I",
+                "title": "【A Game About Digging a Hole】We're going down !【Ayunda Risu】",
+                "date": "2025/03/19 15:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/EuyhCnQ-6-I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5WiX4xylU5HpUIcwgeMIHZaCj8A",
+                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nGame title: A Game About Digging A Hole\nStore Page: https://store.steampowered.com/app/3244220/A_Game_About_Digging_A_Hole/\n\n======..."
+            }
+        ]
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -72,10 +80,10 @@
         "videos": [
             {
                 "video_id": "MF8pJI16P-s",
-                "title": "【ポケモンSV ゼロの秘宝】こよのポケモン実況が帰ってきた！！！ぽにお～～～！！！👹✨【博衣こより/ホロライブ】",
+                "title": "【Minecraft】ひさびさホロ鯖～！！！おさんぽしたり箱庭したりお仕事したりしよっ(ᐡ •͈ ·̫ •͈ ᐡ)【博衣こより/ホロライブ】",
                 "date": "2025/03/19 18:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/MF8pJI16P-s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDF1PZR1kG7EaPWJgQhRiyvjtawsA",
-                "description": "配信できる日がくると信じて我慢しておいてよかった・・・！！DLCを超えてランクマに行きたい！！\n🎂博衣こより誕生日記念グッズ2025発売開始..."
+                "description": "ホロ鯖インできできてなさすぎて、故障してたり補充必要だったりなものがいっぱい！なので久々インじゃ～～～！！！\n🎂博衣こより誕生日記念..."
             },
             {
                 "video_id": "oe13CBFfPkU",
@@ -155,15 +163,7 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": [
-            {
-                "video_id": "3E_T1DYYGwM",
-                "title": "【 ポケットモンスターソード 】初見プレイ☆3つ目のジムバッチめざして✨【ホロライブ DEV_IS 響咲リオナ】",
-                "date": "2025/03/19 14:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/3E_T1DYYGwM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzi3YJn_pbkVjLc3lN-SKLkmraeg",
-                "description": "配信タイトル：ポケットモンスター ソード\n公式サイト：https://www.pokemon.co.jp/ex/sword_shield/\n\n♡...本日のスパーチャットはお名前読み上げのみになり..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
