@@ -294,14 +294,7 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": [
-            {
-                "video_id": "SRRQkxVvO9A",
-                "title": "【Minecraft /マイクラ】はじめてのトラップつくり！【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "thumbnail": "https://i.ytimg.com/vi/SRRQkxVvO9A/hqdefault.jpg?v=67dbd4ce&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEB3YFJGzaisrGkQpYqO-v5nPmUw",
-                "description": "にこヴィヴィとウィザスケトラップつくる！！！！\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms\n) に基づいて配信..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -421,7 +414,14 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "8YD3IIRzAc0",
+                "title": "【MONSTER HUNTER WILDS】A BEGINNER HUNTER WANTS TO HUUUUUUUUUUUUUNT",
+                "thumbnail": "https://i.ytimg.com/vi/8YD3IIRzAc0/hqdefault.jpg?v=67dc230f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsnTNFcEPIsXG4dscQJqBmoY08fQ",
+                "description": "art used: https://x.com/otter696969/status/1893324451673972957\n\nhololive English SPRING PARTY!\n▼Official Online Shop▼\nhttps://shop.hololivepro.com/en/products/hololiveen_springparty\n-----------..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
