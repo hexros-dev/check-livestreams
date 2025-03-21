@@ -268,7 +268,15 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "BBka4-DkUuU",
+                "title": "【LAST KARAOKE】Mori and Milky's Final Collab! #calliolive",
+                "date": "2025/03/24 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/BBka4-DkUuU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHx3ty56_Z8XNTNbWAFBouWsOc5g",
+                "description": "with @MilkyQueenVsinger \n\nSOLO LIVE ARCHIVE VIEWABLE NOW!\nhttps://www.ticketmaster.com/event/0900618BF1E836DE\n\nTicket information URL(official website)\nhttps://grimoire.hololivepro.com/tickets/..."
+            }
+        ]
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
