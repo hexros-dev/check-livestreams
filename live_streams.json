@@ -280,14 +280,7 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": [
-            {
-                "video_id": "SVR3KrxQ4T0",
-                "title": "【歌枠/KARAOKE】告知アリ～～～！！一週間お疲れ様だよ～！【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "thumbnail": "https://i.ytimg.com/vi/SVR3KrxQ4T0/hqdefault.jpg?v=67dd02cd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUcIkzZ8KFRL0aeFiZ0z10fR_Mxw",
-                "description": "ぷんぷん匂わせていたあれです！お待たせしました～～！\n3か月ぶり？！！\n\nサムネイル：涼織フィーカさま\nhttps://x.com/suzuori_fika\nありがとうござい..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -347,7 +340,14 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "D4gTkx7tA54",
+                "title": "【 #ウィンヒロ 】リリース初日からやっている私に任せなさい。新イベキャラ完凸すっぞ！【鷹嶺ルイ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/D4gTkx7tA54/hqdefault.jpg?v=67dcb62e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATMeUdyMk6VQTp3xduAdpY2ASdaQ",
+                "description": "提供：講談社\n\nウィンヒロDLはこちらから！\nhttps://www.wb-rebelheroes.com/\n\nTVアニメ「WIND BREAKER」Season 2\n4月3日から毎週木曜深夜0時26分～\nMBS/TBS系28 局「ス..."
+            }
+        ]
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
@@ -403,7 +403,14 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Yx0Q5qcEJ-g",
+                "title": "【  #雪花ラミィ新衣装 】重大告知あり！新しいラミィを見に来てね！！ 【 雪花ラミィ /ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/Yx0Q5qcEJ-g/hqdefault.jpg?v=67db8c90&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAIHebMzdSpebFqx-nhSYjwzzMtZg",
+                "description": "19：00～新衣装予想\n19：15～新衣装おひろめ\n19：35～重大告知①\n19：45～重大告知②\n\n19：50～予定空けといて！\n20：00～予定空けといて！\n\n感想は..."
+            }
+        ]
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
