@@ -108,14 +108,7 @@
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
         "channel_name": "Suisei Channel",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
-        "videos": [
-            {
-                "video_id": "hI-2Z3IhcD4",
-                "title": "７周年＆生誕カウントダウン‼【ホロライブ / 星街すいせい】",
-                "thumbnail": "https://i.ytimg.com/vi/hI-2Z3IhcD4/hqdefault.jpg?v=67dd5cd5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFsUSkUk0eYla8fEsnv-GN3DMfVw",
-                "description": "☄2025.1.22 3rdフルアルバム『新星目録』発売中！！☄\nhttps://cover.lnk.to/SHINSEIMOKUROKU\n\n☄2025.2.2 もうどうなってもいいや - Movie edition - 配信中☄\nhttps://Hos..."
-            }
-        ]
+        "videos": []
     },
     "@HoushouMarine": {
         "channel_url": "https://www.youtube.com/@HoushouMarine",
@@ -200,20 +193,20 @@
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
         "channel_name": "Laplus ch. ラプラス・ダークネス - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/6Y5lj4DhikLBo0UqIZ1dT3-D3aYXVPbxUgNTyYiyE_Se8AVxkGAn05D3oc1y3whpzDu-CzEQ",
-        "videos": [
-            {
-                "video_id": "Dn4pCIW9bSY",
-                "title": "ラプ様が遂に卒業する風呂雑談【メン限スマホ配信】",
-                "thumbnail": "https://i.ytimg.com/vi/Dn4pCIW9bSY/hqdefault.jpg?v=67dd811a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgta-SzJW_P12487lHj7Rtv3otGA",
-                "description": "﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏\n\nエデンの星に住む人間達諸君！🛸💜\n吾輩は holoX 総帥 ラプラス・ダークネスだ！֊  ̫ ֊\n貴様らの住む星..."
-            }
-        ]
+        "videos": []
     },
     "@MizumiyaSu": {
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "lTm3mY85ri8",
+                "title": "【ゲーム発展国＋＋】深夜にちるく社長になります 睡眠導入【水宮枢／FLOW GLOW】#hololiveDEV_IS",
+                "thumbnail": "https://i.ytimg.com/vi/lTm3mY85ri8/hqdefault.jpg?v=67dd8783&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdKWclNE9JogaS2UFEMoCG0w8HZw",
+                "description": "ゲーム発展国＋＋\nストアページ：https://store-jp.nintendo.com/item/software/D70010000013011\n▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸◂┄▹◃\n\n💙メンバーシップは..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -316,7 +309,14 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "8Ed5yDAUNQo",
+                "title": "【POKEMON SHIELD】MIDNIGHT POKEMON CHANNEL... 8【Pavolia Reine/hololiveID 2nd gen】",
+                "thumbnail": "https://i.ytimg.com/vi/8Ed5yDAUNQo/hqdefault.jpg?v=67dd837a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCllQ3xQPA5SYzK5gfJ5z-bge0F7A",
+                "description": "Reine's new original song now 「Yummy Yum Yummy!」AVAILABLE on iTunes, Apple Music, Spotify etc. Click to stream!\nパヴォリア・レイネ新曲「ヤミヤムヤミ」\nhttps://cover.lnk.to/mU..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
