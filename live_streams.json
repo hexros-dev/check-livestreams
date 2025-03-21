@@ -63,7 +63,14 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "r7a2m7Tuf3Y",
+                "title": "≪Misty Mountain Gaming DICE COLLAB!≫ WE PLAY DICE!",
+                "thumbnail": "https://i.ytimg.com/vi/r7a2m7Tuf3Y/hqdefault.jpg?v=67dc0b3b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcFxYRgousqsrz39chFcJRk6Mv_A",
+                "description": "#sponsored \nWe finally did it...\n\nThank you to Misty Mountain Gaming for the collaboration! \nPRE-ORDER LINK COMING SOON!\n\n*Design in progress, final version may differ*\n\nMisty Mountain Gaming..."
+            }
+        ]
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -432,14 +439,7 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": [
-            {
-                "video_id": "WHGltJEF0N4",
-                "title": "【CURSED DIGICAM】.............................................. I HATE BEING HERE",
-                "thumbnail": "https://i.ytimg.com/vi/WHGltJEF0N4/hqdefault.jpg?v=67dae4b4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxFU_GDfxL5MTTKvRm0Kh7AcXIJA",
-                "description": "『 X formely Twitter 』\nhttps://x.com/raorapanthera\n\n『 Hashtags 』\n╰┈➤ Live  #CiaoRaora\n╰┈➤ Fanarts  #RaorArt\n╰┈➤ Clips  #RaraWara\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
-            }
-        ]
+        "videos": []
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
