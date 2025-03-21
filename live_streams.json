@@ -304,14 +304,7 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": [
-            {
-                "video_id": "aWPQrnr-gP0",
-                "title": "Museum Cleaning Vlog【Crime Scene Cleaner】",
-                "thumbnail": "https://i.ytimg.com/vi/aWPQrnr-gP0/hqdefault.jpg?v=67b249e8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXHphc5RJOuW4YSVdx9Z-L8HerQQ",
-                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n\n==============..."
-            }
-        ]
+        "videos": []
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
@@ -347,7 +340,14 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "3GhYPzzwxhw",
+                "title": "【 Minecraft 】お昼までまったりゾンビピグリントラップの沸きつぶし【鷹嶺ルイ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/3GhYPzzwxhw/hqdefault.jpg?v=67dcb43f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAP-NDurLGLXx75ovgj0LJdZpZg9A",
+                "description": "ママンがお昼つくってくれるよ\n\n【使用MOD】\n使用MOD：Complementary Shaders\n制作者：EminGT\n配布URL：https://www.curseforge.com/minecraft/customization/complementary-shaders..."
+            }
+        ]
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
@@ -407,39 +407,39 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": [
-            {
-                "video_id": "8YD3IIRzAc0",
-                "title": "【MONSTER HUNTER WILDS】A BEGINNER HUNTER WANTS TO HUUUUUUUUUUUUUNT",
-                "thumbnail": "https://i.ytimg.com/vi/8YD3IIRzAc0/hqdefault.jpg?v=67dc230f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsnTNFcEPIsXG4dscQJqBmoY08fQ",
-                "description": "art used: https://x.com/otter696969/status/1893324451673972957\n\nhololive English SPRING PARTY!\n▼Official Online Shop▼\nhttps://shop.hololivepro.com/en/products/hololiveen_springparty\n-----------..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48",
-        "videos": [
-            {
-                "video_id": "g3YPK_SaPKU",
-                "title": "[Yu-Gi-Oh! MASTER DUEL]  Titan Challenger Cup !!! ~💄 !YGO #sponsored",
-                "thumbnail": "https://i.ytimg.com/vi/g3YPK_SaPKU/hqdefault.jpg?v=67dc529a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJiTej9LhXxNE8dU7GI-Jz-NGZ4g",
-                "description": "* Download the game: https://bit.ly/yugiohmd \n* Official Discord channel to attend the Titan Challenger Cup on 03/20: https://discord.gg/titanchallengercup  \n* Join my tournament here (https://disc..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_gigimurin": {
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "TSq0bkR4YNU",
+                "title": "【MONSTER HUNTER WILDS】HR HERE I COME!!!!",
+                "thumbnail": "https://i.ytimg.com/vi/TSq0bkR4YNU/hqdefault.jpg?v=67dbf0e7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBacCcrgW_7qUFVbzlkDe0i_hnsMQ",
+                "description": "thumbnail art: https://x.com/DailyGremPyro/status/1901743911678414953\n\nThis video and livestream are being streamed with permission and under license by CAPCOM CO., LTD.\nMonster Hunter Wilds..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "WHGltJEF0N4",
+                "title": "【CURSED DIGICAM】.............................................. I HATE BEING HERE",
+                "thumbnail": "https://i.ytimg.com/vi/WHGltJEF0N4/hqdefault.jpg?v=67dae4b4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxFU_GDfxL5MTTKvRm0Kh7AcXIJA",
+                "description": "『 X formely Twitter 』\nhttps://x.com/raorapanthera\n\n『 Hashtags 』\n╰┈➤ Live  #CiaoRaora\n╰┈➤ Fanarts  #RaorArt\n╰┈➤ Clips  #RaraWara\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
+            }
+        ]
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
@@ -457,14 +457,7 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": [
-            {
-                "video_id": "h5FnFpnNwHs",
-                "title": "baku baku baku baku baku (charity stream tomorrow!)",
-                "thumbnail": "https://i.ytimg.com/vi/h5FnFpnNwHs/hqdefault.jpg?v=67dc8e02&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDrwGq4PCiZuL7L3M3-oX55Ceh_og",
-                "description": "late stream reservation sorry!\n\n  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋\n\nKonbakuwa! I'm Nimi, the baku nurse VTuber of your nightmares~\n#VTuber #nimi\n\n☁  Socials  ☁\nhttps://x.com/niminightma..."
-            }
-        ]
+        "videos": []
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
