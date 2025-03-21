@@ -101,7 +101,14 @@
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
         "channel_name": "Suisei Channel",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "hI-2Z3IhcD4",
+                "title": "７周年＆生誕カウントダウン‼【ホロライブ / 星街すいせい】",
+                "thumbnail": "https://i.ytimg.com/vi/hI-2Z3IhcD4/hqdefault.jpg?v=67dd5cd5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFsUSkUk0eYla8fEsnv-GN3DMfVw",
+                "description": "☄2025.1.22 3rdフルアルバム『新星目録』発売中！！☄\nhttps://cover.lnk.to/SHINSEIMOKUROKU\n\n☄2025.2.2 もうどうなってもいいや - Movie edition - 配信中☄\nhttps://Hos..."
+            }
+        ]
     },
     "@HoushouMarine": {
         "channel_url": "https://www.youtube.com/@HoushouMarine",
@@ -321,14 +328,7 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/gKitLHfMqsfmC26xRBBNBVE9jz4m0X-xAvcdPUwy8VPa4FCw0-XRxOKLvJZxm-lQnIDQU2rDA0k",
-        "videos": [
-            {
-                "video_id": "TghNLs004Bc",
-                "title": "【🏠オフコラボ】ｴｯﾎｴｯﾎ✈　world　GeoGuessr　🌎👀【ホロライブ/ #ろぼいなぁず】",
-                "thumbnail": "https://i.ytimg.com/vi/TghNLs004Bc/hqdefault.jpg?v=67dbb07f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDz2T7MidYID7KFmh6WiRAQKN0SyA",
-                "description": "💬  #ろぼいなぁず でポストしてってね✨\n\n🏠welcome house\n ⁨@AZKi \n ⁨@NinomaeInanis \n\n⚡７周年記念グッズが販売中！\n今回はリアイベに最適なバッグや..."
-            }
-        ]
+        "videos": []
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
