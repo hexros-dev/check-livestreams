@@ -35,15 +35,7 @@
         "channel_url": "https://www.youtube.com/@AmaneKanata",
         "channel_name": "Kanata Ch. Kanata Amane",
         "avatar_url": "https://yt3.googleusercontent.com/oPU9ckNcyeHD0FFsYSxkoD1mtbslSwdmMSfoCYQWphOu5e7UeCnIF-Nt0hvvF41L5Nykga07nQ",
-        "videos": [
-            {
-                "video_id": "fQM4vKWPHO8",
-                "title": "【MemberOnly】おやすみ前のざつでぁん【天音かなた/ホロライブ】",
-                "date": "2025/03/21 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/fQM4vKWPHO8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_6pviNAaFRYfydS2R-S2HJ2tAzw",
-                "description": "なにする？\n\n---------------------------------------------------------------------------------\n\n🌌 天音かなた 1st フルアルバム\n　 「Unknown DIVA」全国流通にて発売中!!..."
-            }
-        ]
+        "videos": []
     },
     "@AnyaMelfissa": {
         "channel_url": "https://www.youtube.com/@AnyaMelfissa",
@@ -63,7 +55,15 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "umAm_EtEkkU",
+                "title": "【Prisuners Night】Happy FriYAY !!!【Ayunda Risu】",
+                "date": "2025/03/21 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/umAm_EtEkkU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDhFQc_x2CiqtaIQ29vCJEeLQTcw",
+                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\n==================\n\n【LOCAL DONATION LINK HERE】:\nhttps://sociabuzz.com/ayundarisu/tribe\n\n【Streamlabs donation link here】:\nhttps://str..."
+            }
+        ]
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -149,21 +149,21 @@
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
         "channel_name": "Suisei Channel",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "hI-2Z3IhcD4",
+                "title": "７周年＆生誕カウントダウン‼【ホロライブ / 星街すいせい】",
+                "date": "2025/03/21 21:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/hI-2Z3IhcD4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFsUSkUk0eYla8fEsnv-GN3DMfVw",
+                "description": "☄2025.1.22 3rdフルアルバム『新星目録』発売中！！☄\nhttps://cover.lnk.to/SHINSEIMOKUROKU\n\n☄2025.2.2 もうどうなってもいいや - Movie edition - 配信中☄\nhttps://Hos..."
+            }
+        ]
     },
     "@HoushouMarine": {
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk",
-        "videos": [
-            {
-                "video_id": "OKDQLenMytk",
-                "title": "【メンバーシップ限定】ルックバックいっしょに見ましょう！【ホロライブ/宝鐘マリン】",
-                "date": "2025/03/21 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/OKDQLenMytk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwNnM30sDnYz1NwAYqyga_l78sPQ",
-                "description": "https://www.amazon.co.jp/gp/video/detail/B0DH28ZZY2/ref=atv_dp_share_cu_r\nマリンはアマプラでみます！\n\n｡.｡:+* ﾟ ゜ﾟ *+:｡.｡:+* ﾟ ゜ﾟ *+:｡.｡.｡:+*ﾟ ゜ﾟ..."
-            }
-        ]
+        "videos": []
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
@@ -187,15 +187,7 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": [
-            {
-                "video_id": "teA6cFBaNkQ",
-                "title": "【完全栄養食】Huel（ヒュエル）を筋トレ(ハンドグリップ)しながら食レポしちゃいます✨【ホロライブ DEV_IS 響咲リオナ】",
-                "date": "2025/03/21 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/teA6cFBaNkQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7GmSfI40RfYZfbvBrUiGJ_g68Ng",
-                "description": "提供：Huel\n購入の際はこちらから！：https://my.huel.com/riona\n\n■タイアップ記念クーポンコードのお知らせ\n　　割引コード【RIONA15】\n\n・注意事項..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -241,7 +233,15 @@
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
         "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/ACubs_Mw4YtmgHDIIZvW_gZaPf_VR1wg9yffFLsq4Lrw-W7Md-0pK4Gob8OJebCYCmgrArsE",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "47_tKL4cybQ",
+                "title": "【朝活Minecraft】光るイカトラップ、、エメラルド交換所、、うずうず、、【虎金妃笑虎】",
+                "date": "2025/03/22 04:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/47_tKL4cybQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhguFMvwwG-QBT16t_c0xzPSqJyw",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n【使用MOD】\n使用MOD：Comp..."
+            }
+        ]
     },
     "@KosekiBijou": {
         "channel_url": "https://www.youtube.com/@KosekiBijou",
@@ -344,13 +344,6 @@
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
         "videos": [
-            {
-                "video_id": "XhnTPZ7VO3c",
-                "title": "【 逆再生キング 】声マネキングはドヘタだったけど今回こそは……！🔥😹【 猫又おかゆ/ホロライブ 】",
-                "date": "2025/03/21 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/XhnTPZ7VO3c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBgmPhvq3VOx44Vv08RG4yotfm8hA",
-                "description": "❥・・ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ・・❥\n\n🍙猫又おかゆ 2nd Live.「ぺるそにゃ～りすぺくと」🍙\n開催日：2025年5月28日(..."
-            },
             {
                 "video_id": "xxxakIHtdZ0",
                 "title": "=͟͟͞͞♡　|　生誕グッズ2025🍙 | Nekomata Okayu's BIRTHDAY GOODS 🍙✦.",
@@ -456,15 +449,7 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/gKitLHfMqsfmC26xRBBNBVE9jz4m0X-xAvcdPUwy8VPa4FCw0-XRxOKLvJZxm-lQnIDQU2rDA0k",
-        "videos": [
-            {
-                "video_id": "TghNLs004Bc",
-                "title": "【🏠オフコラボ】ｴｯﾎｴｯﾎ✈　world　GeoGuessr　🌎👀【ホロライブ/ #ろぼいなぁず】",
-                "date": "2025/03/21 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/TghNLs004Bc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDz2T7MidYID7KFmh6WiRAQKN0SyA",
-                "description": "💬  #ろぼいなぁず でポストしてってね✨\n\n🏠welcome house\n ⁨@AZKi \n ⁨@NinomaeInanis \n\n⚡７周年記念グッズが販売中！\n今回はリアイベに最適なバッグや..."
-            }
-        ]
+        "videos": []
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -502,7 +487,15 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "4XsKa3uw5ns",
+                "title": "【スパチャお礼】いつもありがとう～💐今日までのスパチャお礼【不知火フレア/ホロライブ】",
+                "date": "2025/03/21 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/4XsKa3uw5ns/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_f4LYGA-oR3jCSfB_2N2suRZbrw",
+                "description": "喉まだ枯れてるけど喉がやばそうな時は配信終わるのでご心配なく！\n\n■Newシングル「Funfair」🎧\niTunes・Spotify等でも 配信中✨\nhttps://cover.lnk.to/NEsgxK..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -668,15 +661,7 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": [
-            {
-                "video_id": "v0JJaI03oFk",
-                "title": "【Minecraft】新ホロ鯖！お久しぶりですスペシャル！ぺこ！【ホロライブ/兎田ぺこら】",
-                "date": "2025/03/21 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/v0JJaI03oFk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCHsgWyQSPoqUgiaCcRHhy-pSEXDg",
-                "description": "お仕事もしなきゃ！\n\nサムネイラスト：ごてん🍛(@510gensoku)さん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/us..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
