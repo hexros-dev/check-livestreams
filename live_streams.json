@@ -274,14 +274,7 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": [
-            {
-                "video_id": "8Ed5yDAUNQo",
-                "title": "【POKEMON SHIELD】MIDNIGHT POKEMON CHANNEL... 8【Pavolia Reine/hololiveID 2nd gen】",
-                "thumbnail": "https://i.ytimg.com/vi/8Ed5yDAUNQo/hqdefault.jpg?v=67dd837a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCllQ3xQPA5SYzK5gfJ5z-bge0F7A",
-                "description": "Reine's new original song now 「Yummy Yum Yummy!」AVAILABLE on iTunes, Apple Music, Spotify etc. Click to stream!\nパヴォリア・レイネ新曲「ヤミヤムヤミ」\nhttps://cover.lnk.to/mU..."
-            }
-        ]
+        "videos": []
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -426,7 +419,14 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "whvaZa_HHY8",
+                "title": "【A GAME ABOUT DIGGING A HOLE】got that dawg in me",
+                "thumbnail": "https://i.ytimg.com/vi/whvaZa_HHY8/hqdefault.jpg?v=67dd39f4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBrPnnqFffeswpRrT2TTTVmiVFNcg",
+                "description": "Game title: A Game About Digging A Hole\nStore Page: https://store.steampowered.com/app/3244220/A_Game_About_Digging_A_Hole/\n\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
