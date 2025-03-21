@@ -152,7 +152,15 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "1kDg7jzReWc",
+                "title": "【holo8】ホロライブの異変が集まる場所だときいたんですけど…【一条莉々華/hololive DEV_IS　ReGLOSS】",
+                "date": "2025/03/21 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/1kDg7jzReWc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXjTYAEg4q8dgS_xQgsJSai8RmQA",
+                "description": "ホロインディのゲームやるぞ～～！！！！\nちょっと始める前にお話しもする\n\n本ゲームは holo Indie の承諾を得た上で配信・収益化を行っておりま..."
+            }
+        ]
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -270,11 +278,25 @@
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
         "videos": [
             {
+                "video_id": "0IH0GW0saHA",
+                "title": "【KARAOKE】Singing...! With an Announcement!? #calliolive",
+                "date": "2025/03/25 09:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/0IH0GW0saHA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbO0n1CgZcgBx62-G8bbG1KbSfOg",
+                "description": "SOLO LIVE ARCHIVE VIEWABLE NOW!\nhttps://www.ticketmaster.com/event/0900618BF1E836DE\n\nTicket information URL(official website)\nhttps://grimoire.hololivepro.com/tickets/\n\n◼︎Concert Merch..."
+            },
+            {
                 "video_id": "BBka4-DkUuU",
                 "title": "【LAST KARAOKE】Mori and Milky's Final Collab! #calliolive",
                 "date": "2025/03/24 10:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/BBka4-DkUuU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHx3ty56_Z8XNTNbWAFBouWsOc5g",
                 "description": "with @MilkyQueenVsinger \n\nSOLO LIVE ARCHIVE VIEWABLE NOW!\nhttps://www.ticketmaster.com/event/0900618BF1E836DE\n\nTicket information URL(official website)\nhttps://grimoire.hololivepro.com/tickets/..."
+            },
+            {
+                "video_id": "VYYtZSSC1_E",
+                "title": "【SOLO LIVE】Watching My 2nd Solo Live with YOU! #CalliMoire",
+                "date": "2025/03/22 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/VYYtZSSC1_E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKlMOMG9RexN1svNkExBhoPCgFRg",
+                "description": "▼Streaming Tickets\nOverseas: https://grimoire.hololivepro.com/tickets/\n日本: https://grimoire.hololivepro.com/tickets/?lang=jp\n\n▼Concert Website\nhttps://grimoire.hololivepro.com/\n\n▼Concert..."
             }
         ]
     },
@@ -493,15 +515,7 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": [
-            {
-                "video_id": "R4JorJyEatA",
-                "title": "【STREET FIGHTER 6】ササモさんからコーチングうける！！【常闇トワ/ホロライブ】",
-                "date": "2025/03/21 15:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/R4JorJyEatA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCu2955wZwc_lDiMKcMDa_NIvbEKw",
-                "description": "本日の先生：ササモさん\nhttps://x.com/sasamostreet\nhttps://www.twitch.tv/sasamostreet\n\nこの動画およびライブは株式会社カプコンの利用許諾を受けて配信してい..."
-            }
-        ]
+        "videos": []
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",

@@ -358,7 +358,14 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "R4JorJyEatA",
+                "title": "【STREET FIGHTER 6】ササモさんからコーチングうける！！【常闇トワ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/R4JorJyEatA/hqdefault.jpg?v=67dd051a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCu2955wZwc_lDiMKcMDa_NIvbEKw",
+                "description": "本日の先生：ササモさん\nhttps://x.com/sasamostreet\nhttps://www.twitch.tv/sasamostreet\n\nこの動画およびライブは株式会社カプコンの利用許諾を受けて配信してい..."
+            }
+        ]
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
