@@ -63,14 +63,7 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": [
-            {
-                "video_id": "XlS-LfbmBFk",
-                "title": "≪カラオケ・KARAOKE≫ recovering these lungs",
-                "thumbnail": "https://i.ytimg.com/vi/XlS-LfbmBFk/hqdefault.jpg?v=67dd4e37&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxOZ6vWqx1Ytcf_867d6DiPFRWKg",
-                "description": "elo!!! we singing!!\n\nThumbnail Art: https://x.com/rantomato18/status/1902149519430840506/photo/1\n\n#telebae #hololiveenglish \n««≪ °◇◆◇° ≫ »»\n\n提供:XING INC.\n※本サービスは..."
-            }
-        ]
+        "videos": []
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -210,14 +203,7 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": [
-            {
-                "video_id": "VYYtZSSC1_E",
-                "title": "【SOLO LIVE】Watching My 2nd Solo Live with YOU! #CalliMoire",
-                "thumbnail": "https://i.ytimg.com/vi/VYYtZSSC1_E/hqdefault.jpg?v=67dd234b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKlMOMG9RexN1svNkExBhoPCgFRg",
-                "description": "▼Streaming Tickets\nOverseas: https://grimoire.hololivepro.com/tickets/\n日本: https://grimoire.hololivepro.com/tickets/?lang=jp\n\n▼Concert Website\nhttps://grimoire.hololivepro.com/\n\n▼Concert..."
-            }
-        ]
+        "videos": []
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -297,7 +283,14 @@
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "AIHEojKBiTw",
+                "title": "【 ポケモンSV 】はじめてのポケモン！冒険だー！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+                "thumbnail": "https://i.ytimg.com/vi/AIHEojKBiTw/hqdefault.jpg?v=67de363c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2xMcgvfneFFtG7wxgUWdgRfSGzg",
+                "description": "▽ 最重要！！歌ってみた10作目公開中！ ▽\n「Beyond the way」 - 音乃瀬奏＆Mori Calliope（cover）\nhttps://youtu.be/bYZOxUX_iso\n\n୨୧♪:*:･･:*:･♪･:*:･･:*:･..."
+            }
+        ]
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
@@ -321,7 +314,14 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/gKitLHfMqsfmC26xRBBNBVE9jz4m0X-xAvcdPUwy8VPa4FCw0-XRxOKLvJZxm-lQnIDQU2rDA0k",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "XImdqHbRsnI",
+                "title": "【 モンハンワイルズ 】初心者ハンターの成り上がり！【ホロライブ/ ロボ子さん】",
+                "thumbnail": "https://i.ytimg.com/vi/XImdqHbRsnI/hqdefault.jpg?v=67de12ee&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMeZN7InPvCaWbhofHvnpFnxBNcw",
+                "description": "＃ロボ子さん　＃ホロライブ　＃モンハンワイルズ\n\n💬  #ロボ子生放送　でポストしてってね✨\nこの動画およびライブは株式会社カプコンの利用..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -485,14 +485,7 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": [
-            {
-                "video_id": "SCJT7-EIT1o",
-                "title": "【BABY BEAN'S CHARITY BASH】 8 hour charity stream to fight childhood cancer!",
-                "thumbnail": "https://i.ytimg.com/vi/SCJT7-EIT1o/hqdefault.jpg?v=67ddb86e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDIRtvoERXl0lAAIFmQTT-NMlfK3w",
-                "description": "DONATE: https://tiltify.com/@niminightmare/baby-beans-charity-bash\n\nIn memory of my sweet cat who passed away from cancer, I'm hosting an 8 hour charity stream in support of St. Jude Children's..."
-            }
-        ]
+        "videos": []
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
