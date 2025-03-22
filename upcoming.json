@@ -574,15 +574,7 @@
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
         "channel_name": "Choco Ch. 癒月ちょこ",
         "avatar_url": "https://yt3.googleusercontent.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g",
-        "videos": [
-            {
-                "video_id": "qA4LfGSUxU8",
-                "title": "【Crime Scene Cleaner】証拠隠滅はちょこ先生にお任せあれ！【ホロライブ/癒月ちょこ】",
-                "date": "2025/03/22 17:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/qA4LfGSUxU8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3amyqf1-0KgUgwuuRHn1sj_9Byw",
-                "description": "サブ垢→https://www.youtube.com/channel/UCp3tgHXw_HI0QMk1K8qh3g\n\n癒月ちょこ 誕生日記念2025\n■販売ページURL\nhttps://shop.hololivepro.com/products/yuzukichoco_bd2025\n\nOP＆ED動..."
-            }
-        ]
+        "videos": []
     },
     "@dooby3d": {
         "channel_url": "https://www.youtube.com/@dooby3d",
@@ -606,7 +598,15 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "mz7vYlY0blw",
+                "title": "【MONSTER HUNTER WILDS】we are runnin it back in the shoebox",
+                "date": "2025/03/23 04:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/mz7vYlY0blw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQwTOhXjQ9v-1iIMbcaUVpYHxvgQ",
+                "description": "thumbnail art: https://x.com/Sticker_sr/status/1903197533171749075\n\nThis video and livestream are being streamed with permission and under license by CAPCOM CO., LTD.\nMonster Hunter Wilds\n©CAPCOM..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
