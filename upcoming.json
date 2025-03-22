@@ -153,7 +153,15 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "SYAh0xY0ZrM",
+                "title": "【Pokemon Snap】SNAP! It's the N64 version :o",
+                "date": "2025/03/23 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/SYAh0xY0ZrM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABUUYdUDhny1n_M_gVUk7m7cQnUw",
+                "description": "BEND AND SNAP \n\nGame title: Pokémon Snap\nOfficial page: https://www.nintendo.com/jp/software/feature/nintendo-classics/n-3240_j/index.html?lq=%3Fvcform[]%3Dn64\n\n#hololiveenglish  #ホロライブ..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
