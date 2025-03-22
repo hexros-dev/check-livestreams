@@ -376,7 +376,15 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "m-L1PBUROME",
+                "title": "【New Outfit Reveal】It's My Birthday And You're Invited ☕ #Maid4U",
+                "date": "2025/03/26 10:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/m-L1PBUROME/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzPyFW-GWr0FPjIiwpELKpWMtKsQ",
+                "description": "[Twitter]\nhttps://twitter.com/ourokronii\n\n----------------------------------------------------------------------------\n\n[Viewer Rules]\nThank you for watching my stream!\nTo help everyone enjoy..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
@@ -575,7 +583,7 @@
             {
                 "video_id": "XHoEoGoDzPw",
                 "title": "【LIVE2D RIGGING】LIIIIIIIVE, otomo... LIIIIIIIVE!!!",
-                "date": "2025/03/23 03:00:00",
+                "date": "2025/03/25 03:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/XHoEoGoDzPw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2G5S7DwFitpajliqABWoU4GS3xQ",
                 "description": "art used: https://x.com/Srewe5/status/1821399463904334020\n\nhololive English SPRING PARTY!\n▼Official Online Shop▼\nhttps://shop.hololivepro.com/en/products/hololiveen_springparty\n----------------..."
             }
