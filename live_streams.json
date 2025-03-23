@@ -387,7 +387,14 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "0LiiaV5pEzk",
+                "title": "【Minecraft】木に魅入られたそらは今日も植林地を求める【ホロライブ/ときのそら】",
+                "thumbnail": "https://i.ytimg.com/vi/0LiiaV5pEzk/hqdefault.jpg?v=67df9401&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEx1VY1QZmIWTi7L00IP9Q97qAdw",
+                "description": "のんびりまったり遊んでいくよ～。\n\n～サムネイラスト～\nDS様\nhttps://x.com/DS_NDSL\n\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.moja..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",

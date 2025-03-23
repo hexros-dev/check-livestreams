@@ -328,7 +328,15 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "zIDgyROejoY",
+                "title": "【 hololive OCG 】ホロカ開封！！！キラキラサインカード欲しい✦【 ホロライブ / 大神ミオ 】",
+                "date": "2025/03/23 15:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/zIDgyROejoY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBlLYJKLozhinFkFVGzX6EdtmOqQ",
+                "description": "初めてのホロカ開封❣出るか...サインカード...！\n\nサムネillustrator：トゥーミさん　https://x.com/twumi425\n\n3月24日(月) 18:00から公式オンラインショップ..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -382,7 +390,15 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "3vCMp-Z4yic",
+                "title": "【 BIOHAZARD 7 】ゾイルート攻略するぞい！※ネタバレ注意【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "date": "2025/03/23 15:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/3vCMp-Z4yic/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWAa_3Gd-19CvXCexIhTDwlSF82g",
+                "description": "ミアルートクリア済み！\nおひさしバイオ！！！操作だいぶ忘れております！！！！！！！！\n\nこの動画およびライブは\n株式会社カプコンの利用許..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -395,6 +411,13 @@
                 "date": "2025/03/24 16:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/FTaxBD-hziU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYJT4iXuymSThMuvu83qF_fHhjpg",
                 "description": "＃オフコラボ　＃料理\n\n💬  #ロボ子生放送  でポストしてってね✨\nボクの家にフブキとルイがきたあああああああああああああ\nま・ず・い・・・..."
+            },
+            {
+                "video_id": "TUQqdF1rFRM",
+                "title": "【Member Only】ろぼちゃの日曜むーびー❣🎬映画『ファザーフッド』 同時視聴🍿",
+                "date": "2025/03/23 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/TUQqdF1rFRM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClxu4TGJ75mn6Km3vxrrfzKn89QQ",
+                "description": "💬 #秘密のロボ子さん　でポストしてってね✨\nネトフリでみりゅううう\n\n毎週日曜１８時～２０時に\nメンバーさんと一緒に映画を見てるよ👀..."
             },
             {
                 "video_id": "omRFBHl3TrA",
@@ -492,15 +515,7 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": [
-            {
-                "video_id": "0LiiaV5pEzk",
-                "title": "【Minecraft】木に魅入られたそらは今日も植林地を求める【ホロライブ/ときのそら】",
-                "date": "2025/03/23 12:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/0LiiaV5pEzk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEx1VY1QZmIWTi7L00IP9Q97qAdw",
-                "description": "のんびりまったり遊んでいくよ～。\n\n～サムネイラスト～\nDS様\nhttps://x.com/DS_NDSL\n\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.moja..."
-            }
-        ]
+        "videos": []
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
