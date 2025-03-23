@@ -462,15 +462,7 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": [
-            {
-                "video_id": "hZ75b6vLH9c",
-                "title": "【朝活雑談】引っ越し間近！！おはまっするさんで～🌞✨【白銀ノエル/ホロライブ】",
-                "date": "2025/03/23 08:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/hZ75b6vLH9c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfeYN62jgZQKD60u2s9o3XV6iiWA",
-                "description": "今週もお疲れさまだ～🍵✨\n\n[NEW]🔥焚火ASMRボイス販売中🔥→ https://shop.hololivepro.com/products/hololive_asmr_chillinbythecampfire?_pos=2&_fid=86a4c0ec0&_ss=c\n[NEW]💖バ..."
-            }
-        ]
+        "videos": []
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -645,7 +637,15 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "a6WdQnJaQNk",
+                "title": "【ポケモンエメラルド】いざ四天王戦！完全初見でいく人生縛りの旅！！！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
+                "date": "2025/03/23 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/a6WdQnJaQNk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxUwn6GJ4C3LW4g_jFpjMqi7bH5w",
+                "description": "ルール\n・一度ひんしになったポケモンは使えない\n・使用できるのはモンスターボールのみ\n\nひんしになった仲間\n・マックス（ポチエナ）\n・ハナ..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
