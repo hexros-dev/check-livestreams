@@ -403,7 +403,15 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "DcfVi2rf1oc",
+                "title": "【声マネキング】おかゆ先輩！！ちはの声マネみてて！！！！【 #猫又おかゆ#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "date": "2025/03/24 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/DcfVi2rf1oc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnAhcARakGc4Yqvymp3_BnEdDdZw",
+                "description": "おかゆ先輩のお家で全力で声マネさせてもらいます・・・\nみんな見守っててね・・・\n\nおかゆ先輩といっしょ！\n@NekomataOkayu \n\n本ゲームは宮澤..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -460,6 +468,13 @@
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
         "videos": [
+            {
+                "video_id": "dU4mHxDr8SY",
+                "title": "【モンハンワイルズ】ねぽらぼワイルズ －3乙への期待－【獅白ぼたん/ホロライブ】",
+                "date": "2025/03/24 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/dU4mHxDr8SY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBnAXOr8NNvoXI7Dk9Z15OseQrFg",
+                "description": "プロハンターになるか、それとも…\n\n🍑🎪❄♌参加者\n@MomosuzuNene @OmaruPolka @YukihanaLamy @ShishiroBotan \n\n配信ハッシュタグ：#ねぽらぼ\nサムネイルのイラ..."
+            },
             {
                 "video_id": "smrMuN26M0Q",
                 "title": "【Free chat】『VAXEE x Shishiro Botan』コラボ商品が再販決定！－ししろんの射撃訓練場【ホロライブ/獅白ぼたん】",
@@ -577,15 +592,7 @@
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48",
-        "videos": [
-            {
-                "video_id": "vojeBxWHsUY",
-                "title": "【MEMBERSHIP】Yu-Gi-Oh! The Movie Watch-A-Long ~! 💄",
-                "date": "2025/03/24 03:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/vojeBxWHsUY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC62NubsxDuIlOkHB3O7dxDon_HPQ",
-                "description": "Movie: Yu-Gi-Oh! The Movie: Pyramid of Light \nYear: 2004\nNote: I'll be watching the English Dub version my end.\n▬▬ι════════ﺤ\n\n❣ Hashtags ❣\n♡ General: #BFKingdom..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_gigimurin": {
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
