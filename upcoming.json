@@ -471,15 +471,7 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": [
-            {
-                "video_id": "iSTSoCGTAzQ",
-                "title": "＃６【キミガシネ】完全初見！最終章の途中から！あの人は本物なのか...！？【轟はじめ/ReGLOSS】 #hololivedev_is",
-                "date": "2025/03/23 14:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/iSTSoCGTAzQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjVR9zhdnJBxKYyNiryUZ7-dohSQ",
-                "description": "素敵なサムネお写真：ぽめ！様（@Pome_eee）\n\n本ゲームは ⓒNankidai 2019 の承諾を得た上で配信・収益化を行なっております\n￣￣￣￣￣￣￣￣￣￣￣..."
-            }
-        ]
+        "videos": []
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
@@ -570,6 +562,13 @@
                 "date": "2025/03/23 17:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/h2Grai-TnBY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdalJ2SIoRzLWmjY_0ZNuGiC9gEw",
                 "description": "This is a rebroadcast = Unarchived Tribute Irish Songs !\n[ A Irish song themed set list ] \n▬▬ι════════ﺤ\n▬▬ι════════ﺤ\n❣ Hashtags ❣\n♡ General:..."
+            },
+            {
+                "video_id": "vojeBxWHsUY",
+                "title": "【MEMBERSHIP】Yu-Gi-Oh! The Movie Watch-A-Long ~! 💄",
+                "date": "2025/03/24 03:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/vojeBxWHsUY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC62NubsxDuIlOkHB3O7dxDon_HPQ",
+                "description": "Movie: Yu-Gi-Oh! The Movie: Pyramid of Light \nYear: 2004\nNote: I'll be watching the English Dub version my end.\n▬▬ι════════ﺤ\n\n❣ Hashtags ❣\n♡ General: #BFKingdom..."
             }
         ]
     },
@@ -577,7 +576,15 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "D9GraB00e8o",
+                "title": "【SHOVEL KNIGHT: TREASURE TROVE】the world's strongest weapon is the shovel",
+                "date": "2025/03/24 04:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/D9GraB00e8o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDyUO_5cfBVlyPrMMiMZ0ASE7rrig",
+                "description": "thumbnail: https://x.com/bellapawesborne/status/1903547418135994593\n\nThis game is being streamed and monetized in accordance with the video policy.\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
