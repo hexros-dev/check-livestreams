@@ -47,15 +47,7 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": [
-            {
-                "video_id": "-1O48aN7kDI",
-                "title": "【UNARCHIVED KARAOKE】WOW ???? SINGING ????【Ayunda Risu】",
-                "date": "2025/03/23 20:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/-1O48aN7kDI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzF__Y1P7l1TQJ2N_kjomgEqndBw",
-                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\n\nMETROPOLIS MV : https://youtu.be/6ulGdHRkzGs?si=YlxSAABf361PYAyz\n\nSTREAM MY NEWEST ORIGINAL SONG メトロポリス (metropolis) IN..."
-            }
-        ]
+        "videos": []
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -156,15 +148,7 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": [
-            {
-                "video_id": "3k209Fi7pGA",
-                "title": "【 Minecraft 】シュルカートラップ作り♡始めます！#27【ホロライブ DEV_IS 響咲リオナ】",
-                "date": "2025/03/23 20:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/3k209Fi7pGA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-g8u0lefvGiXzefrH43nH1LOfMQ",
-                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております。\n\n♡...\n本日スーパーチ..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -523,7 +507,15 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ol5SZCljXfY",
+                "title": "#４【ポケモンSV】はじめてのポケモン！ストーリーを進めてく！【轟はじめ/ReGLOSS】 #hololivedev_is",
+                "date": "2025/03/24 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ol5SZCljXfY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBr6hyvvjPmLvfQFcJiCzwCQlqCgw",
+                "description": "素敵なサムネお写真：プチコチ🧢様（@puchicochi_712）\n\nポケットモンスター バイオレット\n公式サイト：https://www.pokemon.co.jp/ex/sv/ja/\n￣￣￣￣￣￣￣￣..."
+            }
+        ]
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
