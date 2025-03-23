@@ -426,7 +426,14 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "D9GraB00e8o",
+                "title": "【SHOVEL KNIGHT: TREASURE TROVE】the world's strongest weapon is the shovel",
+                "thumbnail": "https://i.ytimg.com/vi/D9GraB00e8o/hqdefault.jpg?v=67dfb4cb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDyUO_5cfBVlyPrMMiMZ0ASE7rrig",
+                "description": "thumbnail: https://x.com/bellapawesborne/status/1903547418135994593\n\nThis game is being streamed and monetized in accordance with the video policy.\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
