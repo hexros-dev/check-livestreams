@@ -221,15 +221,7 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": [
-            {
-                "video_id": "piRzhqMsjrw",
-                "title": "【MEMBER'S STREAM】SONIC THE HEDGEHOG 2 WATCHALONG",
-                "date": "2025/03/24 06:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/piRzhqMsjrw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6AscAjq4ahhZnSEB7Tk1fNSqICQ",
-                "description": "Thumbnail Art:  @Yunaree Thank you!\nhttps://x.com/Yunaree/status/1903472755905093680/photo/1\n\n====================\n✧Twitter: https://twitter.com/kosekibijou\n\n✧Hashtags: \n#biboo  \nAdvent:..."
-            }
-        ]
+        "videos": []
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -383,7 +375,15 @@
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "s16zj3u2N2k",
+                "title": "【 メン限 】リハーサル帰りのスパチャ読み🎵【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+                "date": "2025/03/24 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/s16zj3u2N2k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzPSVbtMK3_NRulBKe1MzrR-gitg",
+                "description": "▽ 最重要！！歌ってみた10作目公開中！ ▽\n「Beyond the way」 - 音乃瀬奏＆Mori Calliope（cover）\nhttps://youtu.be/bYZOxUX_iso\n\n୨୧♪:*:･･:*:･♪･:*:･･:*:･..."
+            }
+        ]
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",

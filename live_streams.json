@@ -160,7 +160,14 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "piRzhqMsjrw",
+                "title": "【MEMBER'S STREAM】SONIC THE HEDGEHOG 2 WATCHALONG",
+                "thumbnail": "https://i.ytimg.com/vi/piRzhqMsjrw/hqdefault.jpg?v=67e000c9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6AscAjq4ahhZnSEB7Tk1fNSqICQ",
+                "description": "Thumbnail Art:  @Yunaree Thank you!\nhttps://x.com/Yunaree/status/1903472755905093680/photo/1\n\n====================\n✧Twitter: https://twitter.com/kosekibijou\n\n✧Hashtags: \n#biboo  \nAdvent:..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -413,14 +420,7 @@
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48",
-        "videos": [
-            {
-                "video_id": "Lq5kKs9A_gk",
-                "title": "【MEMBERSHIP】Suzume Watch-A-Long ~! 💄",
-                "thumbnail": "https://i.ytimg.com/vi/Lq5kKs9A_gk/hqdefault.jpg?v=67e0539c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAApwfMNi8-pZHa1Dw5SmFR1VFjZA",
-                "description": "Movie: Suzume \nYear: 2022\nTime: 2h 2m\nNote: I'll be watching the English Dub version my end.\n▬▬ι════════ﺤ\n\n❣ Hashtags ❣\n♡ General: #BFKingdom \n♡ Live: #BloodflameLive..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_gigimurin": {
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
