@@ -485,7 +485,15 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "5FRF6fP9ZOw",
+                "title": "【重大告知】歌うから何の告知かわからないふりを続けてどうぞ【不知火フレア/ホロライブ】",
+                "date": "2025/03/24 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/5FRF6fP9ZOw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_XKq74GriNKSlXJmiaQpnzahqew",
+                "description": "アニソン、ボカロ、J-popいろいろ歌うよ～\n\n■Newシングル「Funfair」🎧\niTunes・Spotify等でも 配信中✨\nhttps://cover.lnk.to/NEsgxK\n━━━━━━━━━━━━..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -680,6 +688,14 @@
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "yO439rG5Otw",
+                "title": "【原神】はじめまして、原神。フリーナに会いに行く。#結城さくな生放送",
+                "date": "2025/03/24 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/yO439rG5Otw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFOLeGhp_BY61qqhrFbZgDTfNRsw",
+                "description": "完全初見のためネタバレ禁止。指示禁止。優しいアドバイスはおねがいします！\n※配信後のスパチャ読みは体調が万全になるまではおやすみ中で..."
+            }
+        ]
     }
 }
