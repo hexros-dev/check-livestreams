@@ -33,14 +33,7 @@
         "channel_url": "https://www.youtube.com/@AnyaMelfissa",
         "channel_name": "Anya Melfissa Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz",
-        "videos": [
-            {
-                "video_id": "k2tU0TupxUE",
-                "title": "【That's not my Neighbor】See My Name on the List? 【hololive ID | Anya Melfissa】",
-                "thumbnail": "https://i.ytimg.com/vi/k2tU0TupxUE/hqdefault.jpg?v=67e03a15&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBs8att6jcCD9yeIiv5o4A4BZsZ_g",
-                "description": "Support me here/ドネーション↓\nStreamlabs: https://streamlabs.com/anyamelfissachhololive-id/tip\nSociaBuzz(Local Donation): https://sociabuzz.com/anyamelfissa/tribe \n\n--\nGame title: That's..."
-            }
-        ]
+        "videos": []
     },
     "@AyundaRisu": {
         "channel_url": "https://www.youtube.com/@AyundaRisu",
@@ -160,14 +153,7 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": [
-            {
-                "video_id": "piRzhqMsjrw",
-                "title": "【MEMBER'S STREAM】SONIC THE HEDGEHOG 2 WATCHALONG",
-                "thumbnail": "https://i.ytimg.com/vi/piRzhqMsjrw/hqdefault.jpg?v=67e000c9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6AscAjq4ahhZnSEB7Tk1fNSqICQ",
-                "description": "Thumbnail Art:  @Yunaree Thank you!\nhttps://x.com/Yunaree/status/1903472755905093680/photo/1\n\n====================\n✧Twitter: https://twitter.com/kosekibijou\n\n✧Hashtags: \n#biboo  \nAdvent:..."
-            }
-        ]
+        "videos": []
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -203,7 +189,14 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "BBka4-DkUuU",
+                "title": "【LAST KARAOKE】Mori and Milky's Final Collab! #calliolive",
+                "thumbnail": "https://i.ytimg.com/vi/BBka4-DkUuU/hqdefault.jpg?v=67dd2081&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHx3ty56_Z8XNTNbWAFBouWsOc5g",
+                "description": "with @MilkyQueenVsinger \n\nSOLO LIVE ARCHIVE VIEWABLE NOW!\nhttps://www.ticketmaster.com/event/0900618BF1E836DE\n\nTicket information URL(official website)\nhttps://grimoire.hololivepro.com/tickets/..."
+            }
+        ]
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
