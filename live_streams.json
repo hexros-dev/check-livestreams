@@ -179,14 +179,7 @@
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
         "channel_name": "Laplus ch. ラプラス・ダークネス - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/6Y5lj4DhikLBo0UqIZ1dT3-D3aYXVPbxUgNTyYiyE_Se8AVxkGAn05D3oc1y3whpzDu-CzEQ",
-        "videos": [
-            {
-                "video_id": "bXMv8KGt6hw",
-                "title": "【スト６】明日の練習#V最協第一幕【ラプラス・ダークネス/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/bXMv8KGt6hw/hqdefault.jpg?v=67dfefd9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtntCOtDWAu4pQJFHUjUa6308ZNg",
-                "description": "大将 @rikka \n副将 @Kanae \n次鋒 @Inaba_Haneru \n先鋒 @LaplusDarknesss \n\nサムネ\n https://x.com/4t0Se\n\n\nこの動画およびライブは株式会社カプコンの利用許諾を受けて..."
-            }
-        ]
+        "videos": []
     },
     "@MizumiyaSu": {
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
@@ -369,7 +362,14 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "22lYqe3WvJw",
+                "title": "【inZOI】new realistic life simulator!!!! #kfp #キアライブ",
+                "thumbnail": "https://i.ytimg.com/vi/22lYqe3WvJw/hqdefault.jpg?v=67e11989&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC99HdZ_dWVVm_vCnx8VqOYx0i-GQ",
+                "description": "stream my new song, MIRAGE!✨https://cover.lnk.to/DQSp3S\n👀 Takanashi Kiara 1st Album \"Point of View\" 👀\nStreaming: https://cover.lnk.to/PointofView\n\n\n 🏵️[Twitter] 🏵️\nhttps://twitter..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
