@@ -170,15 +170,7 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": [
-            {
-                "video_id": "40xVVQP87_E",
-                "title": "【 ポケットモンスターソード 】初見プレイ☆5つめのバッジがほしいいい🔥✨【ホロライブ DEV_IS 響咲リオナ】",
-                "date": "2025/03/24 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/40xVVQP87_E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5rtLY9pZX3ohUV6O0TBhd2g1t8w",
-                "description": "配信タイトル：ポケットモンスター ソード\n公式サイト：https://www.pokemon.co.jp/ex/sword_shield/\n\n♡...本日のスパーチャットはお名前読み上げのみになり..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -317,7 +309,15 @@
         "channel_url": "https://www.youtube.com/@MurasakiShion",
         "channel_name": "Shion Ch. 紫咲シオン",
         "avatar_url": "https://yt3.googleusercontent.com/K91NQLuy_JMQ65n-Opf0Q2FZBO3yOURnMRusO7o5DTjaJ1QVtP-ANN4lehK57X4KXpcI2MiRig",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "TikDVKv_IZE",
+                "title": "配信予定～～～～～！！！にゃんにゃんにゃん【ホロライブ/紫咲シオン】",
+                "date": "2025/03/24 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/TikDVKv_IZE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1c4o54BOPQFn7PU2J4bwEcALspA",
+                "description": "なんと渋々にゅーぴーしー設定した\n\n💘バレンタインボイス2025発売中💘\nhttps://shop.hololivepro.com/products/hololive_valentinevoice2025?utm_source=youtube&utm_medium=pr..."
+            }
+        ]
     },
     "@NakiriAyame": {
         "channel_url": "https://www.youtube.com/@NakiriAyame",
@@ -654,7 +654,15 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "lPEv2NoSvlU",
+                "title": "【SHOVEL KNIGHT: TREASURE TROVE】shovel guy looking for his shovel wife",
+                "date": "2025/03/25 04:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/lPEv2NoSvlU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3--qfD9UZt0NCu-mMDMYRQSiNVA",
+                "description": "i know i have a shield wife but i let her fall once and now im really scared\n\nthumbnail: https://x.com/Lokklel/status/1903871205754769690\n\nThis game is being streamed and monetized in accordance..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
