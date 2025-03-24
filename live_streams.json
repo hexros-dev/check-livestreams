@@ -69,14 +69,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "EpCA1ZXOx-k",
-                "title": "【 #朝こよ 】今年度最後の火曜日の朝も！朝こよ～☀ #225 【博衣こより/hololive】",
-                "thumbnail": "https://i.ytimg.com/vi/EpCA1ZXOx-k/hqdefault.jpg?v=67e0dac3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBaGGte-wK8qrnFB2rjx20Lg-9Eyg",
-                "description": "🎂博衣こより誕生日記念グッズ2025発売開始！👇🎂\nhttps://shop.hololivepro.com/products/hakuikoyori_bd2025\n💿1stアルバム「FIRST STEP」発売中！CD版が買えるの..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -160,7 +153,14 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "2rifjk558yM",
+                "title": "【BLOODBORNE】Kos, or as some say, Koseki",
+                "thumbnail": "https://i.ytimg.com/vi/2rifjk558yM/hqdefault.jpg?v=67e1bfdb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8ySc1dOnbY7gptkXxMep-pzQJvg",
+                "description": "awOOOOoooOOOOOO\n\nThumbnail art: @decrilus THANK YOU!\nhttps://x.com/decrilus/status/1902984517000003905/photo/1\n\n====================\n✧Twitter: https://twitter.com/kosekibijou\n\n✧Hashtags:..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -304,14 +304,7 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": [
-            {
-                "video_id": "6BfzpTaUfT8",
-                "title": "We Yearn for the Pickle Mines【Galaxy Burger ft. @holoen_erbloodflame 】",
-                "thumbnail": "https://i.ytimg.com/vi/6BfzpTaUfT8/hqdefault.jpg?v=67e065ac&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTe--iFujuToQVYTXuBWcT6ud94g",
-                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n\n==============..."
-            }
-        ]
+        "videos": []
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",

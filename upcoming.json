@@ -221,15 +221,7 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": [
-            {
-                "video_id": "2rifjk558yM",
-                "title": "【BLOODBORNE】Kos, or as some say, Koseki",
-                "date": "2025/03/25 06:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/2rifjk558yM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8ySc1dOnbY7gptkXxMep-pzQJvg",
-                "description": "awOOOOoooOOOOOO\n\nThumbnail art: @decrilus THANK YOU!\nhttps://x.com/decrilus/status/1902984517000003905/photo/1\n\n====================\n✧Twitter: https://twitter.com/kosekibijou\n\n✧Hashtags:..."
-            }
-        ]
+        "videos": []
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -442,7 +434,15 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "xj-PuCghOtY",
+                "title": "We're Taking the Hobbits to Isengard【Monster Hunter Wilds GAGA Edition】",
+                "date": "2025/03/26 04:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/xj-PuCghOtY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLConfXOeMgYUf-u8JM5ogfZIDtfAg",
+                "description": "This video and livestream are being streamed with permission and under license by CAPCOM CO., LTD.\nMonster Hunter Wilds\n©CAPCOM\n#モンハンワイルズ \n\n==============================\nCredits:..."
+            }
+        ]
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
