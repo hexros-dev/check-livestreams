@@ -149,7 +149,14 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ctO_KyTtXAQ",
+                "title": "【心霊物件　Haunted　Property】アパートに引っ越しました・・・【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "thumbnail": "https://i.ytimg.com/vi/ctO_KyTtXAQ/hqdefault.jpg?v=67e1f3fb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRFPIN5-QpvQ0pyY4_w6Jjjb-bvg",
+                "description": "配信タイトル：心霊物件\nストアページ：https://store.steampowered.com/app/3400040/_/\n\nサムネイルの素敵なイラスト　てんこもりさん　　https://x.com/tnkmr_tnkmr..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -191,14 +198,7 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": [
-            {
-                "video_id": "LkNmgoVLwjk",
-                "title": "【  ポケモンクリスタル 】完全初見‼ねねとクリスタルと古いポケモン‼#2【 桃鈴ねね / hololive 】",
-                "thumbnail": "https://i.ytimg.com/vi/LkNmgoVLwjk/hqdefault.jpg?v=67e269ed&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJpkVNLb6IxgVQ92K_zeg0VFVXLw",
-                "description": "ねねと相棒（１匹）で無限に進もうとするやつ～～～～～～～～～\n⸜♡⸝MemberShipに入ったらもっとねねを知れるﾖ\nhttps://www.youtube.com/channel/UCAWSyEs_..."
-            }
-        ]
+        "videos": []
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
