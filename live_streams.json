@@ -386,7 +386,14 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "fOvws0vIZu8",
+                "title": "【STREET FIGHTER 6】Red Bull LEGENDUS SF6 最強道場決定戦決勝：立川バレエ教室vsガイル村　【常闇トワ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/fOvws0vIZu8/hqdefault.jpg?v=67e21f74&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6pyTjeivZOSc3ccRrbd-Tj4FaHw",
+                "description": "立川バレエ教室\n@TokoyamiTowa \n@TachikawaBR \n@SHAKAch \n@Francisco_T \n@RobiNGame\n\nこの動画およびライブは株式会社カプコンの利用許諾を受けて配信しています『..."
+            }
+        ]
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
@@ -410,14 +417,7 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": [
-            {
-                "video_id": "MD31QjZ6m8Y",
-                "title": "【ポケットモンスター青】#04.5｜スロット9,999を目指すだけの配信【 雪花ラミィ /ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/MD31QjZ6m8Y/hqdefault.jpg?v=67e2278b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwdK3k-JunbsKd_rsoAb_Zt1KjrQ",
-                "description": "感想は #らみらいぶ で呟いて頂けたら嬉しいです！\n\n配信タイトル：ポケットモンスター 青\n公式サイト：https://www.pokemon.co.jp/game/other/gb-blue/\n..."
-            }
-        ]
+        "videos": []
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
