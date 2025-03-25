@@ -37,7 +37,15 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "hwbehU-sAyk",
+                "title": "【 STREET FIGHTER 6】#V最協第一幕 スクリム2日目VSチーム3【アキロゼ/ホロライブ】",
+                "date": "2025/03/25 20:55:00",
+                "thumbnail": "https://i.ytimg.com/vi/hwbehU-sAyk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCh41d4p1Cm1qnq1OYOytWh9TI_yQ",
+                "description": "🎧アキロゼ新曲【異薔薇】リリース\nhttps://cover.lnk.to/5bvecc\n\n配信タグ  #アキびゅーわーるど  \nこの動画およびライブは株式会社カプコンの利用許諾..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -50,6 +58,13 @@
         "channel_name": "Anya Melfissa Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz",
         "videos": [
+            {
+                "video_id": "1wOtD2N4668",
+                "title": "【Haunted Property | 心霊物件】A Totally Normal New Apartment, Yup! 【hololive ID | Anya Melfissa】",
+                "date": "2025/03/26 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/1wOtD2N4668/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDofx54N-xpdeM_285OCl2MuHBxAw",
+                "description": "Support me here/ドネーション↓\nStreamlabs: https://streamlabs.com/anyamelfissachhololive-id/tip\nSociaBuzz(Local Donation): https://sociabuzz.com/anyamelfissa/tribe \n\n--\nGame title: Haunted..."
+            },
             {
                 "video_id": "JAUSrqX0hW8",
                 "title": "【STREAM SCHEDULE/スケジュール】11.25-12.01",
@@ -199,15 +214,7 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": [
-            {
-                "video_id": "jDTIzYrN35M",
-                "title": "【Pokémon LEGENDS アルセウス】その①いざ新たな旅へ！！【儒烏風亭らでん #ReGLOSS 】",
-                "date": "2025/03/25 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/jDTIzYrN35M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDghzTnyyud5Mm6z1a0iYw2yyy6zQ",
-                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\n配信タイトル：Pokémon LEGENDS アルセウス..."
-            }
-        ]
+        "videos": []
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -266,15 +273,7 @@
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
-        "videos": [
-            {
-                "video_id": "4azMT8TYmS4",
-                "title": "【MINECRAFT - HOLOLIVE NEW SERVER】CONTINUING THE GUILD!!【Kureiji Ollie】",
-                "date": "2025/03/25 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/4azMT8TYmS4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDMMD9jEfjVwe3G9TrneOED4FnG1w",
-                "description": "#OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n==========================================\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms)..."
-            }
-        ]
+        "videos": []
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
@@ -533,15 +532,7 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": [
-            {
-                "video_id": "0Vm_cUsqKOM",
-                "title": "#５【ポケモンSV】はじめてのポケモン！ばんちょーの大冒険【轟はじめ/ReGLOSS】 #hololivedev_is",
-                "date": "2025/03/25 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/0Vm_cUsqKOM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCb84d_Wx8DR2zSz9Pvi_NoUFlU4g",
-                "description": "素敵なサムネお写真：ぴぃ汰様（@pisan_333）\n\nポケットモンスター バイオレット\n公式サイト：https://www.pokemon.co.jp/ex/sv/ja/\n￣￣￣￣￣￣￣￣￣￣￣￣..."
-            }
-        ]
+        "videos": []
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
@@ -685,15 +676,7 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": [
-            {
-                "video_id": "C7nG43KSV0k",
-                "title": "【＃にじホロ交流戦】はじめてのプロスピ！ぺこ学、育成開始ぺこ！１年目夏～ぺこ！【ホロライブ/兎田ぺこら】",
-                "date": "2025/03/25 19:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/C7nG43KSV0k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFvFSkihmhHfiuUrFJIXeFcuJpxw",
-                "description": "========================================================\n【育成ルール】\n・作成期間：3/18(火)～5/6(火)\n※ただし、4/20(日)までは「2年目の2025年8月30日(土)まで」で..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
