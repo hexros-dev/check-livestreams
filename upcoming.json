@@ -159,15 +159,7 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": [
-            {
-                "video_id": "Mqt8rLW7m2E",
-                "title": "【Members Only】Chitter Chatter for a bit",
-                "date": "2025/03/25 11:15:00",
-                "thumbnail": "https://i.ytimg.com/vi/Mqt8rLW7m2E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4acvPK5Fu22xaMcf-SFHE4kER7A",
-                "description": "HiRyS\n\n#hololiveenglish  #ホロライブ \n＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝\n\nSTREAM MY NEW ORIGINAL SONG, Diamond Girlfriend Feat.MOTSU▼\nhttps://youtu.b..."
-            }
-        ]
+        "videos": []
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -317,7 +309,15 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "YRySeGZNzQ0",
+                "title": "【3D BIRTHDAY LIVE】ARCANA - Mori Calliope's Birthday Concert! With Many Guests!",
+                "date": "2025/04/05 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/YRySeGZNzQ0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXo5H85oN883IxVPYTklEyhgvkbw",
+                "description": "?????????????????\nーーーーーーーーー\nBGM: https://x.com/BigRicePiano\nhttps://x.com/the_arkhand\n\nRequest from hololive Productions to underage viewers\nPlease search for [Request To..."
+            }
+        ]
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -562,6 +562,13 @@
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
         "videos": [
+            {
+                "video_id": "5hmFIO7Z5tQ",
+                "title": "【Free Chat & Donation Reading】 Post-talk about New Costume, Break It Down, Song Cover 【#Z3TAVERSARY】",
+                "date": "2025/03/25 21:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/5hmFIO7Z5tQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-eqsljDETELpdkV6jgUOvwbl6-g",
+                "description": "-----\nVestia Zeta's 2nd original song “Break It Down” is now out !!\n\nAll platform▶️ https://cover.lnk.to/jF9WTL\nMV ▶️  https://youtu.be/q4CY4XY-06Q?si=aVCDt4br-uT2LluZ\n\n-----\n\nThumbnail..."
+            },
             {
                 "video_id": "9bBmbRtv5pM",
                 "title": "【#Z3TAVERSARY】See? I'm a real secret agent【Zeta's 3rd Anniversary】",
