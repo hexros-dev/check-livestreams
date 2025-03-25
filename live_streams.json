@@ -244,7 +244,14 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "GZl7NMCa0TY",
+                "title": "【OHAPOL】#151 3/26水曜日！151のおもいで～～ #ポルカ公演中 【尾丸ポルカ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/GZl7NMCa0TY/hqdefault.jpg?v=67e31bbd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApdRuCyUPUXz1UThRdnLRIUMK8zQ",
+                "description": "サムネイルありがとうございます！\nhttps://x.com/yaki_ebiko\n\n※尾丸ポルカへ頂いたスパチャは、基本的に毎週木曜日19時から「ポルカの伝説」にて、動..."
+            }
+        ]
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
@@ -274,14 +281,7 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": [
-            {
-                "video_id": "vp1RKih7bcc",
-                "title": "【POKEMON SHIELD】MIDNIGHT POKEMON CHANNEL... 10【Pavolia Reine/hololiveID 2nd gen】",
-                "thumbnail": "https://i.ytimg.com/vi/vp1RKih7bcc/hqdefault.jpg?v=67e2bf68&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGwktTQ_ACCbDlmXVa68M5NPDHIw",
-                "description": "Reine's new original song now 「Yummy Yum Yummy!」AVAILABLE on iTunes, Apple Music, Spotify etc. Click to stream!\nパヴォリア・レイネ新曲「ヤミヤムヤミ」\nhttps://cover.lnk.to/mU..."
-            }
-        ]
+        "videos": []
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
