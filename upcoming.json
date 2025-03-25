@@ -337,15 +337,7 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": [
-            {
-                "video_id": "LkNmgoVLwjk",
-                "title": "【  ポケモンクリスタル 】完全初見‼ねねとクリスタルと古いポケモン‼#2【 桃鈴ねね / hololive 】",
-                "date": "2025/03/25 16:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/LkNmgoVLwjk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJpkVNLb6IxgVQ92K_zeg0VFVXLw",
-                "description": "ねねと相棒（１匹）で無限に進もうとするやつ～～～～～～～～～\n⸜♡⸝MemberShipに入ったらもっとねねを知れるﾖ\nhttps://www.youtube.com/channel/UCAWSyEs_..."
-            }
-        ]
+        "videos": []
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
@@ -698,7 +690,15 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "4R7Etkhmk4E",
+                "title": "【ABIOTIC FACTOR】survival crafting with @OuroKronii",
+                "date": "2025/03/26 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/4R7Etkhmk4E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBoq-a1pdlERwSzp_8HcKyCH46LA",
+                "description": "we either survive or she beat me in the head\n\nthumbnail: https://x.com/yori_171018/status/1894260350872109252\n\nThis game is being streamed and monetized after confirming with Playstack.\n\n‐‐‐..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
@@ -746,11 +746,18 @@
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
         "videos": [
             {
+                "video_id": "C7nG43KSV0k",
+                "title": "【＃にじホロ交流戦】はじめてのプロスピ！ぺこ学、育成開始ぺこ！１年目夏～ぺこ！【ホロライブ/兎田ぺこら】",
+                "date": "2025/03/25 19:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/C7nG43KSV0k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFvFSkihmhHfiuUrFJIXeFcuJpxw",
+                "description": "========================================================\n【育成ルール】\n・作成期間：3/18(火)～5/6(火)\n※ただし、4/20(日)までは「2年目の2025年8月30日(土)まで」で..."
+            },
+            {
                 "video_id": "FN7ic6djqyM",
-                "title": "【配信予定】ぺっこおおおおおおおおおおおおおおおおおおおおおおおおおおお！！！ぺこ！【ホロライブ/兎田ぺこら】",
+                "title": "【同時視聴】サッカー日本代表 VS サウジアラビア戦 みんなで見よう！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
                 "date": "2025/03/25 17:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/FN7ic6djqyM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjt3VTE1P8WXbXa5R5yA7VWgn57A",
-                "description": "サムネイラスト：()さん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ #ぺこらいぶ..."
+                "description": "みんなで楽しく応援ぺこ～～～～！！！！\n\n▼ABEMA de DAZNの視聴はこちらから\nhttps://abema.tv/live-event/14e83530-f88c-47ad-9e12-661b6f65708b\n\n⋈ －－－－－－－－..."
             }
         ]
     },
