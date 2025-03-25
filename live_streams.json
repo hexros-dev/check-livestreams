@@ -203,14 +203,7 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": [
-            {
-                "video_id": "0IH0GW0saHA",
-                "title": "【KARAOKE】Singing...! With an Announcement!? #calliolive",
-                "thumbnail": "https://i.ytimg.com/vi/0IH0GW0saHA/hqdefault.jpg?v=67dd2118&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbO0n1CgZcgBx62-G8bbG1KbSfOg",
-                "description": "SOLO LIVE ARCHIVE VIEWABLE NOW!\nhttps://www.ticketmaster.com/event/0900618BF1E836DE\n\nTicket information URL(official website)\nhttps://grimoire.hololivepro.com/tickets/\n\n◼︎Concert Merch..."
-            }
-        ]
+        "videos": []
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -396,7 +389,14 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "MD31QjZ6m8Y",
+                "title": "【ポケットモンスター青】#04.5｜スロット9,999を目指すだけの配信【 雪花ラミィ /ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/MD31QjZ6m8Y/hqdefault.jpg?v=67e2278b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwdK3k-JunbsKd_rsoAb_Zt1KjrQ",
+                "description": "感想は #らみらいぶ で呟いて頂けたら嬉しいです！\n\n配信タイトル：ポケットモンスター 青\n公式サイト：https://www.pokemon.co.jp/game/other/gb-blue/\n..."
+            }
+        ]
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
