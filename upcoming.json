@@ -195,7 +195,15 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ctO_KyTtXAQ",
+                "title": "【心霊物件　Haunted　Property】アパートに引っ越しました・・・【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "date": "2025/03/25 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ctO_KyTtXAQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRFPIN5-QpvQ0pyY4_w6Jjjb-bvg",
+                "description": "配信タイトル：心霊物件\nストアページ：https://store.steampowered.com/app/3400040/_/\n\nサムネイルの素敵なイラスト　てんこもりさん　　https://x.com/tnkmr_tnkmr..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -273,15 +281,7 @@
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
         "channel_name": "Moona Hoshinova hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/9e7J_lAxCEZO6IRC_Sl3Gj-bt9uPvSXolU_vBpmqWABzv99oHxzbYhWWgvRI_c2qmB4jH0p_ZA",
-        "videos": [
-            {
-                "video_id": "77Q-YGzAzGA",
-                "title": "【Monster Hunter Wilds】Playing with nerissa and raora!!【Moona Hoshinova】",
-                "date": "2025/03/25 07:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/77Q-YGzAzGA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsugO3Zfuy4nQUaUAGgeICCGGgtQ",
-                "description": "Play with @NerissaRavencroft and @holoen_raorapanthera \nStreamlabs donation link here : https://streamlabs.com/moonahoshinovahololive-id/tip\nSociaBuzz donation link here : https://sociabuzz.com/moo..."
-            }
-        ]
+        "videos": []
     },
     "@MoriCalliope": {
         "channel_url": "https://www.youtube.com/@MoriCalliope",
@@ -346,15 +346,7 @@
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
         "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ",
-        "videos": [
-            {
-                "video_id": "2wI7qdbgI7I",
-                "title": "HAVE NO FEAR, V3LVET'S HERE! | Monster Hunter Wilds",
-                "date": "2025/03/25 07:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/2wI7qdbgI7I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBlIiwRTjwQjN2iBbkdWf0KY9Dhg",
-                "description": "With @MoonaHoshinova @holoen_raorapanthera \n∴∴♪ *Credits* ♪∴∴\n\n♬ Mama: EB+ (https://twitter.com/ebkim00) \n♬ Papa: けっふぃー (https://twitter.com/keffiy) \n\n♬ *Logo, Schedule,..."
-            }
-        ]
+        "videos": []
     },
     "@NinomaeInanis": {
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
@@ -588,15 +580,7 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": [
-            {
-                "video_id": "hAeB505mpKc",
-                "title": "【MONSTER HUNTER WILDS】HUNTING  WITH CUTE GIRLS!!!",
-                "date": "2025/03/25 07:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/hAeB505mpKc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDm3gvhaS9mQzPvDrC6wDPNmBFATA",
-                "description": "This video and livestream are being streamed with permission and under license by CAPCOM CO., LTD.\nMonster Hunter Wilds\n©CAPCOM\n#MHWilds\nPalico accessories were designed and created with permissio..."
-            }
-        ]
+        "videos": []
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
@@ -608,7 +592,15 @@
         "channel_url": "https://www.youtube.com/@mikenekoko",
         "channel_name": "みけねこch",
         "avatar_url": "https://yt3.googleusercontent.com/_bT74ettx8Ei9p0zHrSbKdAe1oyaCAbbbXa9teIsxgOtlPl2RADYotJ_kGKwHsNdtWh8D2Hu",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "w_o04aDHYk4",
+                "title": "【歌枠】メジャーデビューだあああ㊗アーカイブ残りません！",
+                "date": "2025/03/25 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/w_o04aDHYk4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB--pyAOJbUJTm_N1uQDKyA2-SS5A",
+                "description": "❄アクキー販売しました！\nhttps://mikenekoko.booth.pm/items/6358263\nhttps://mikenekoko.booth.pm/items/6359606\n\n❤FANBOX \nhttps://mikenekoko.fanbox.cc/\n支援していただけると活..."
+            }
+        ]
     },
     "@niminightmare": {
         "channel_url": "https://www.youtube.com/@niminightmare",
