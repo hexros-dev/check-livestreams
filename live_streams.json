@@ -319,14 +319,7 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": [
-            {
-                "video_id": "FLdv9Ua9qWk",
-                "title": "【 リズダム 】みこコラボ決定⁉ベネッセさんから特別問題･･⁉ 目指せ100点余裕だにぇ！！！！！！！【ホロライブ/さくらみこ】",
-                "thumbnail": "https://i.ytimg.com/vi/FLdv9Ua9qWk/hqdefault.jpg?v=67e24feb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhbe15_KM820KHPeN1CVFkEjzxXA",
-                "description": "あ、これベネッセでやったとこだ！（わがんない）\n提供：株式会社ベネッセコーポレーション\n\n▼コラボキャンペーンはコチラ▼\nhttps://t.co/13g72pyDU..."
-            }
-        ]
+        "videos": []
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
@@ -338,7 +331,14 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "dFbY7UyIAVc",
+                "title": "【That's not my Neighbor】アパートの管理人になって本物か偽物か見極める！！！【ホロライブ/白上フブキ】",
+                "thumbnail": "https://i.ytimg.com/vi/dFbY7UyIAVc/hqdefault.jpg?v=67e23c07&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAg38PEUtKOuqwqPTnbmvEmLpJpZQ",
+                "description": "━━━━━━🎵M　U　S　I　C🎵━━━━━━━\n\n👑1st.Album『FBKINGDOM “Blessing”』\n▷https://cover.lnk.to/FBKINGDOMBlessing\n\n✦『Say!ファンファーレ!』..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -453,7 +453,14 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "WeGNPM4S9N8",
+                "title": "【 Pokémon Mystery Dungeon: Red Rescue Team】 Finally playing my favorite game of all time!!! 😸✨【#1】",
+                "thumbnail": "https://i.ytimg.com/vi/WeGNPM4S9N8/hqdefault.jpg?v=67e21bce&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvCxhu_vN5OVv6tWA5MYE-MvEpPA",
+                "description": "『 X formely Twitter 』\nhttps://x.com/raorapanthera\n\n『 Hashtags 』\n╰┈➤ Live  #CiaoRaora\n╰┈➤ Fanarts  #RaorArt\n╰┈➤ Clips  #RaraWara\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
+            }
+        ]
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
