@@ -546,15 +546,7 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": [
-            {
-                "video_id": "ng3j7a9Y5vk",
-                "title": "【Red Dead Redemption 2】Don't worry, I'll be good",
-                "date": "2025/03/27 03:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/ng3j7a9Y5vk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcy9NaKJj4gt50XoVVgI_DKw6buQ",
-                "description": "art used: https://x.com/Arqodeon/status/1895549117943980470\n\nhololive English SPRING PARTY!\n▼Official Online Shop▼\nhttps://shop.hololivepro.com/en/products/hololiveen_springparty\n--------------..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
@@ -598,7 +590,15 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "1pOQjq6wPNM",
+                "title": "【ELDEN RING】 Tapir plays Elden Ring for the first time!",
+                "date": "2025/03/27 05:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/1pOQjq6wPNM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAsDNNDIBfuGvvwfhWrCkQiFx2Dxg",
+                "description": "First time Elden Ring! Second souls game!\n\n  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋\n\nKonbakuwa! I'm Nimi, the baku nurse VTuber of your nightmares~\n#VTuber #nimi\n\n☁  Socials  ☁\nhttps://x.com/..."
+            }
+        ]
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
