@@ -189,7 +189,14 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "6De5K4MPv5Q",
+                "title": "【MYRIAD DEATH】They Made a Game About Me?! #calliolive",
+                "thumbnail": "https://i.ytimg.com/vi/6De5K4MPv5Q/hqdefault.jpg?v=67e2b1d8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBgZEJbhKyC6AX-SulOiKz4vj1txw",
+                "description": "download game: https://store.steampowered.com/app/3324320/MYRIAD_DEATH/\n\nSOLO LIVE ARCHIVE VIEWABLE NOW!\nhttps://www.ticketmaster.com/event/0900618BF1E836DE\n\nTicket information URL(official..."
+            }
+        ]
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -231,14 +238,7 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": [
-            {
-                "video_id": "QT_3k9yn8Hc",
-                "title": "【CHAT】 Most Likely a Chatting Stream....",
-                "thumbnail": "https://i.ytimg.com/vi/QT_3k9yn8Hc/hqdefault.jpg?v=67e308c5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBljPtXx_qAhI-odvBvRSb9F5tCfw",
-                "description": "【Thumbnail Art】\n\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\n__________________________________________________________________________________________\n\nEndcard Art by Me!\nEndcard..."
-            }
-        ]
+        "videos": []
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
