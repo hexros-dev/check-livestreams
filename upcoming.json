@@ -213,15 +213,7 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": [
-            {
-                "video_id": "umqoaWBJJs8",
-                "title": "【INZOI】A rock but in HD",
-                "date": "2025/03/27 06:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/umqoaWBJJs8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9cSFRIr_qI3iIsEYXnPhytEunug",
-                "description": "Thumbnail Art: @chocola_vt thank you!\nhttps://x.com/chocola_vt/status/1903914762020548915\n\nThis game is being streamed in accordance with copyright guidelines.\n====================\n✧Twitter:..."
-            }
-        ]
+        "videos": []
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -465,7 +457,15 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "blMVcgIfyjQ",
+                "title": "【WATCHALONG】Nintendo Direct! IF TWILIGHT PRINCESS I EAT HAT (in the near future) #kfp #キアライブ",
+                "date": "2025/03/27 20:55:00",
+                "thumbnail": "https://i.ytimg.com/vi/blMVcgIfyjQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxGxFXUzlgfV88hx0fiw_EQf2F2w",
+                "description": "stream my new song, MIRAGE!✨https://cover.lnk.to/DQSp3S\n👀 Takanashi Kiara 1st Album \"Point of View\" 👀\nStreaming: https://cover.lnk.to/PointofView\n\n\n 🏵️[Twitter] 🏵️\nhttps://twitter..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
