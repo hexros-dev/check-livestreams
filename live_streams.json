@@ -237,7 +237,14 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "SbTfzva-0bo",
+                "title": "【OHAPOL】#152 3/28金曜日！今週おわっちまう #ポルカ公演中 【尾丸ポルカ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/SbTfzva-0bo/hqdefault.jpg?v=67e5bbf8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1vBlyi5VRsAuJTJSk9DbJYwtQEg",
+                "description": "※尾丸ポルカへ頂いたスパチャは、基本的に毎週木曜日19時から「ポルカの伝説」にて、動画の最後に名前を載せさせていただいております！是非..."
+            }
+        ]
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
@@ -371,14 +378,7 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": [
-            {
-                "video_id": "mqh_elUR-uQ",
-                "title": "【 モンハンワイルズ  】明日はバカタレサーカスでモンハンなので整える！【角巻わため/ホロライブ４期生】",
-                "thumbnail": "https://i.ytimg.com/vi/mqh_elUR-uQ/hqdefault.jpg?v=67e4a35f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLbMJHYDi5mA3O7y_svxkv8jIroQ",
-                "description": "たでーま！\nタグ：#ドドドライブ \n\n配信タイトル：モンスターハンターワイルズ / Monster Hunter Wilds\nストアページ：https://store.steampowered.com/app/2246340/Mo..."
-            }
-        ]
+        "videos": []
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -414,7 +414,14 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ZV9Tvn11QUA",
+                "title": "【SPLIT FICTION】No bickering and only perfect teamwork by CCGG",
+                "thumbnail": "https://i.ytimg.com/vi/ZV9Tvn11QUA/hqdefault.jpg?v=67e513ad&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvxVRHugYNdtqvrMyxDNQ3nOPHig",
+                "description": "with: @holoen_gigimurin \nart used: https://x.com/isarobn/status/1885146020482363482\n\nhololive English SPRING PARTY!\n▼Official Online Shop▼\nhttps://shop.hololivepro.com/en/products/hololiveen_sp..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
