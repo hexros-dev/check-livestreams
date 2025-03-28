@@ -28,7 +28,14 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "EkyrF8mMYQA",
+                "title": "【 STREET FIGHTER 6】チーム名は「ひいろうず」#V最協第一幕 スクリム最終日VSチーム7＆8【アキロゼ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/EkyrF8mMYQA/hqdefault.jpg?v=67e697b8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRRMZTdKvUmhfxVQ2OY1MV5Fx_XQ",
+                "description": "🎧アキロゼ新曲【異薔薇】リリース\nhttps://cover.lnk.to/5bvecc\n\n配信タグ  #アキびゅーわーるど  \nこの動画およびライブは株式会社カプコンの利用許諾..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -53,7 +60,14 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "xN7sEVDgBso",
+                "title": "【Prisuners Night】Hello, it's Friday again【Ayunda Risu】",
+                "thumbnail": "https://i.ytimg.com/vi/xN7sEVDgBso/hqdefault.jpg?v=67e68fdd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKgIYGEBsgfo1EK4i0mL8dHMmp7w",
+                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\n==================\n\n【LOCAL DONATION LINK HERE】:\nhttps://sociabuzz.com/ayundarisu/tribe\n\n【Streamlabs donation link here】:\nhttps://str..."
+            }
+        ]
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -89,7 +103,14 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "f3UviINB9Z0",
+                "title": "【 本音と建前 】素直な気持ちを伝える…ってコト！？なのら(・o・🍬) 【姫森ルーナ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/f3UviINB9Z0/hqdefault.jpg?v=67e624c6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbjEzmUFPEUtkTp2Tl2Di704H_bQ",
+                "description": "サムネイラスト\n　ニャドラさん　https://twitter.com/nyanyadora\n\n【気持ち】本音と建前再生リスト\nhttps://www.youtube.com/playlist?list=PL6gUpTCMieF7mNC62Ug1JHZJTZx0HnLkP..."
+            }
+        ]
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -144,7 +165,14 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "uTOLWlsDbuc",
+                "title": "【Pokémon LEGENDS アルセウス】その③ストーリ進める（たぶん）【儒烏風亭らでん #ReGLOSS 】",
+                "thumbnail": "https://i.ytimg.com/vi/uTOLWlsDbuc/hqdefault.jpg?v=67e68712&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXEN2hlvkJ10r9HwhvyMXlt9sWIA",
+                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\n配信タイトル：Pokémon LEGENDS アルセウス..."
+            }
+        ]
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -180,19 +208,40 @@
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "iVDmXJyLue4",
+                "title": "【MINECRAFT - HOLOLIVE NEW SERVER】TERRAFORMING? MAKE A HOUSE? COMFY STREAM INCOMING!!【Kureiji Ollie】",
+                "thumbnail": "https://i.ytimg.com/vi/iVDmXJyLue4/hqdefault.jpg?v=67e6785c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDyEir0mzJ9NDO_7JE8GKsjrJziOw",
+                "description": "#IOLLIE #OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n==========================================\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/te..."
+            }
+        ]
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
         "channel_name": "Laplus ch. ラプラス・ダークネス - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/6Y5lj4DhikLBo0UqIZ1dT3-D3aYXVPbxUgNTyYiyE_Se8AVxkGAn05D3oc1y3whpzDu-CzEQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "tHuzctItv58",
+                "title": "【スト６】スクリム4日目！🔥#V最協第一幕【ラプラス・ダークネス/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/tHuzctItv58/hqdefault.jpg?v=67e53a36&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANqGrM7DlMICuNMaNULtY38yn4hw",
+                "description": "大将 @rikka \n副将 @Kanae \n次鋒 @Inaba_Haneru \n先鋒 @LaplusDarknesss \n\nサムネ\n https://x.com/4t0Se\n\nこの動画およびライブは株式会社カプコンの利用許諾を受けて配..."
+            }
+        ]
     },
     "@MizumiyaSu": {
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "HZ1BRIsWnxg",
+                "title": "【ドキドキ文芸部プラス #1 】完全初見！可愛い女の子ときゃっきゃうふふ…🥰【水宮枢／FLOW GLOW】#hololiveDEV_IS",
+                "thumbnail": "https://i.ytimg.com/vi/HZ1BRIsWnxg/hqdefault.jpg?v=67e57ffe&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWyj0kBSYRYiHmUNh05ssotgA2Ow",
+                "description": "本ゲームはPLAYISMに確認を得たうえで、実況ガイドラインに則り配信・収益化を行っております。\n© 2021 Team Salvato & Serenity Forge. All rights reserved...."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -240,14 +289,7 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
-        "videos": [
-            {
-                "video_id": "RC7pU_jB-0A",
-                "title": "【 同時視聴 】開幕戦⚾✦ 横浜VS中日一緒に見よう～～～！🔥😸【 猫又おかゆ/ホロライブ 】",
-                "thumbnail": "https://i.ytimg.com/vi/RC7pU_jB-0A/hqdefault.jpg?v=67e6256a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAS9J0LEUBdh0253XiKRbSgGrZAew",
-                "description": "❥・・ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ・・❥\n\n▼ABEMA de J SPORTSの視聴はこちらから\nhttps://abema.tv/live-event/289318b7-7133-406a-97c4-224a95ec5a78..."
-            }
-        ]
+        "videos": []
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -384,14 +426,7 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": [
-            {
-                "video_id": "sp6oXODmDjE",
-                "title": "【メンバー限定/Member only】SSRB総会 3月号【獅白ぼたん/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/sp6oXODmDjE/hqdefault.jpg?v=67e559af&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJyshiNncJEAsESwW8UYLs5J2B5Q",
-                "description": "SSRB総会とは、SSRBにむけて月1回ししろんがいろんなこぼれ話をするメンバーシップ限定の配信です\n感想やお便りは #SSRB総会 またはマシュマロまで..."
-            }
-        ]
+        "videos": []
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
@@ -409,7 +444,14 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "bv9kmK-p71U",
+                "title": "【メン限】まったりおはなしタイム！【轟はじめ/ReGLOSS】 #hololivedev_is",
+                "thumbnail": "https://i.ytimg.com/vi/bv9kmK-p71U/hqdefault.jpg?v=67e6226d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBY5cvtP_8Lgyg2qPTr3Krlpvm0Jw",
+                "description": "素敵なサムネお写真：みにろって様（@miNiloTTedayo）\n\n\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n✨宣伝✨\n\n💜【Original】Countach/轟はじめ【Official..."
+            }
+        ]
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
@@ -421,7 +463,14 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "qtEICvXdrhk",
+                "title": "【STREET FIGHTER 6】いんぱくと☆ふれんず：スクリム最終日　#V最協第一幕 【常闇トワ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/qtEICvXdrhk/hqdefault.jpg?v=67e38dae&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9rmOeCz_rSacclGmjQhpRFv0sYg",
+                "description": "いんぱくと☆ふれんず\n@TokoyamiTowa \n@Arurandeisu \n@InamiRai \n@ShironaShizuku \n\n素敵なサムネイル：\nhttps://x.com/eahdog\n\n\nこの動画およびライブは株式会社カプコン..."
+            }
+        ]
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
@@ -440,7 +489,14 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "UhJNBBSrxBI",
+                "title": "【Monster Hunter Wilds】 Night Hunt",
+                "thumbnail": "https://i.ytimg.com/vi/UhJNBBSrxBI/hqdefault.jpg?v=67e6930f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCORF3CGRa1-eB8-2zZDdkF6kC-mA",
+                "description": "Game title: Monster Hunter Wilds\nThis video and livestream are being streamed with permission and under license by CAPCOM CO., LTD.\nMonster Hunter Wilds\n©CAPCOM\n#モンハンワイルズ\nストア..."
+            }
+        ]
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
@@ -522,7 +578,7 @@
         "videos": [
             {
                 "video_id": "Ps171KyYV5w",
-                "title": "【ポケモンエメラルド】１６連勝から～金ダツラをクリア配信！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
+                "title": "【ポケモンエメラルド】金ダツラをクリア配信！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
                 "thumbnail": "https://i.ytimg.com/vi/Ps171KyYV5w/hqdefault.jpg?v=67e67012&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRFuC1rrgMRfzRe2ECM5KFJlzgIQ",
                 "description": "４２連勝でクリア\n\nサムネイラスト：\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ..."
             }
@@ -532,6 +588,13 @@
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "-P0Z1IFMlSk",
+                "title": "【原神】完全初見。これから一体何が起こるというの・・・？#結城さくな生放送",
+                "thumbnail": "https://i.ytimg.com/vi/-P0Z1IFMlSk/hqdefault.jpg?v=67e65448&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVc_iqDr9AG56bLN1-lLPgqsA0AQ",
+                "description": "完全初見のためネタバレ禁止。指示禁止。優しいアドバイスはおねがいします！\n※配信後のスパチャ読みは体調が万全になるまではおやすみ中で..."
+            }
+        ]
     }
 }
