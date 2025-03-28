@@ -61,7 +61,15 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "TVIz649D8ws",
+                "title": "【Monster Hunter Wilds】Teach me how to play",
+                "date": "2025/03/29 00:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/TVIz649D8ws/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-KqTkmgol_YfTsU8HQs9f9FFRgg",
+                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nThis video and livestream are being streamed with permission and under license by CAPCOM CO., LTD.\nMonster Hunter Wilds\n©CAPCOM\n#モンハ..."
+            }
+        ]
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
