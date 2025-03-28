@@ -317,15 +317,7 @@
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
         "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ",
-        "videos": [
-            {
-                "video_id": "fxP0ZODEOXk",
-                "title": "can I get uuuuuuuuuuuuuuuuuuuuh | Yappa yappa",
-                "date": "2025/03/28 07:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/fxP0ZODEOXk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBG7ydRiiNkUQuWSDgQ3C5-_gcUA",
-                "description": "∴∴♪ * Check Out My First EP Here!* ♪∴∴\nhttps://cover.lnk.to/esLvqA\n\n∴∴♪ * Check Out My Music Here!* ♪∴∴\nhttps://www.youtube.com/playlist?list=PLSJG6WXf5JvFn2FWv_B5HP7DklUtde..."
-            }
-        ]
+        "videos": []
     },
     "@NinomaeInanis": {
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
@@ -337,7 +329,15 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "BGIQCoQ0UYk",
+                "title": "【モンハンワイルズ 】フライデーナイトにバカ集合！！ #バカタレサーカス 【尾丸ポルカ視点/ホロライブ】",
+                "date": "2025/03/28 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/BGIQCoQ0UYk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1ounf8GfYKU50xOmlA4N4YxMc7g",
+                "description": "@ShirakamiFubuki わためを世話するもの\n@ShiranuiFlare わためを世話するもの\n@TsunomakiWatame 世話される覚悟のあるもの\n\nこの動画およびライブは株式会社カ..."
+            }
+        ]
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
@@ -397,15 +397,7 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": [
-            {
-                "video_id": "Q32Om1RAa1c",
-                "title": "Transferring Cramps to the Loser【Super Smash Bros. Ultimate with @MachinaXFlayon 】",
-                "date": "2025/03/28 07:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Q32Om1RAa1c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB7FOdN9vXmXf-8PMxHRT6QVvL9Ig",
-                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n\n==============..."
-            }
-        ]
+        "videos": []
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
