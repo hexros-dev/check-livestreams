@@ -275,7 +275,14 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Rb7cgCvkOhI",
+                "title": "【Chillquarium】Talking",
+                "thumbnail": "https://i.ytimg.com/vi/Rb7cgCvkOhI/hqdefault.jpg?v=67e63563&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnLasxwCcbNrjiOhV0XYAXAXum5Q",
+                "description": "This game is being streamed and monetized after confirming with Ben Reber.\n\n[Twitter]\nhttps://twitter.com/ourokronii\n\n[Thumbnail Art]\nhttps://x.com/c3ltc\n\n------------------------------------------..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
