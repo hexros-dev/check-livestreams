@@ -35,14 +35,7 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": [
-            {
-                "video_id": "EkyrF8mMYQA",
-                "title": "【 STREET FIGHTER 6】チーム名は「ひいろうず」#V最協第一幕 スクリム最終日VSチーム7＆8【アキロゼ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/EkyrF8mMYQA/hqdefault.jpg?v=67e697b8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRRMZTdKvUmhfxVQ2OY1MV5Fx_XQ",
-                "description": "🎧アキロゼ新曲【異薔薇】リリース\nhttps://cover.lnk.to/5bvecc\n\n配信タグ  #アキびゅーわーるど  \nこの動画およびライブは株式会社カプコンの利用許諾..."
-            }
-        ]
+        "videos": []
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -60,7 +53,14 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "TVIz649D8ws",
+                "title": "【Monster Hunter Wilds】Teach me how to play",
+                "thumbnail": "https://i.ytimg.com/vi/TVIz649D8ws/hqdefault.jpg?v=67e6d21d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-KqTkmgol_YfTsU8HQs9f9FFRgg",
+                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nThis video and livestream are being streamed with permission and under license by CAPCOM CO., LTD.\nMonster Hunter Wilds\n©CAPCOM\n#モンハ..."
+            }
+        ]
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -285,14 +285,7 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": [
-            {
-                "video_id": "O-5h6qS51QU",
-                "title": "【 Foundation 】領主となって人口１万人の国を作る！#２【 ホロライブ / 大神ミオ 】",
-                "thumbnail": "https://i.ytimg.com/vi/O-5h6qS51QU/hqdefault.jpg?v=67e66e40&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCMxcvs4UdqYOboz_0foyPR2LRkTw",
-                "description": "前回、１００人弱で終了しました。その１００倍か・・\n\nサムネillustrator：ディーバさん　https://x.com/Deaver0501\n\nFoundationはPolymorph Gamesに確認を得た上..."
-            }
-        ]
+        "videos": []
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
