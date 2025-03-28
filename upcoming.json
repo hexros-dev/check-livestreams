@@ -167,7 +167,15 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "UlTkiSP60Y4",
+                "title": "【Pokemon Stadium】Tapping into my N64 CORE MEMORIES",
+                "date": "2025/03/29 11:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/UlTkiSP60Y4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCHbNYnCjtNqkgkKnFjL2fxZ-THEg",
+                "description": "The source of 30% of my sibling fights\n\n配信タイトル：ポケモンスタジアム2\n公式サイト：https://www.nintendo.com/jp/software/feature/nintendo-classics/n-4590_j/index.html..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -583,15 +591,7 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": [
-            {
-                "video_id": "Y_x8evCDV9c",
-                "title": "【INZOI】Kartoffelcomputer high definition automaton",
-                "date": "2025/03/29 03:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Y_x8evCDV9c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCaLqWsg9PiGhcWsUym-e3Po167Gg",
-                "description": "art used: https://x.com/mpk__12/status/1894406562686660620\n\nhololive English SPRING PARTY!\n▼Official Online Shop▼\nhttps://shop.hololivepro.com/en/products/hololiveen_springparty\n---------------..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
