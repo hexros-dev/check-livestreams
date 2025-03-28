@@ -3,14 +3,7 @@
         "channel_url": "https://www.youtube.com/@AZKi",
         "channel_name": "AZKi Channel",
         "avatar_url": "https://yt3.googleusercontent.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos",
-        "videos": [
-            {
-                "video_id": "tSqAenEjnMM",
-                "title": "【モンハンワイルズ】人生初モンハン！！！！！ガンランスで行く初心者ハンター！#5【ホロライブ / AZKi】※ネタバレあり",
-                "thumbnail": "https://i.ytimg.com/vi/tSqAenEjnMM/hqdefault.jpg?v=67e63af2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkUMF_z3LkuBuaOreKZ01O_lGFpw",
-                "description": "※ストーリーネタバレ含みますのでご注意ください！\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\nサムネイラスト：ユキはる 様\nhttps://x.com/yukiharudayoyo..."
-            }
-        ]
+        "videos": []
     },
     "@AiraniIofifteen": {
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
@@ -376,7 +369,14 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "-Jm4gE3Htd4",
+                "title": "【MEMBERS】wawa time (not sure what to do yet)",
+                "thumbnail": "https://i.ytimg.com/vi/-Jm4gE3Htd4/hqdefault.jpg?v=67e6a6a8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6MWjHyRKXX-eLQ5RZuM6PqXtWaw",
+                "description": "stream my new song, MIRAGE!✨https://cover.lnk.to/DQSp3S\n👀 Takanashi Kiara 1st Album \"Point of View\" 👀\nStreaming: https://cover.lnk.to/PointofView\n\n\n 🏵️[Twitter] 🏵️\nhttps://twitter..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
