@@ -15,7 +15,14 @@
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
         "avatar_url": "https://yt3.googleusercontent.com/Ob0LQV8-i9FXY_GX4AEnsWsxvYUojcYtjZjtLsmjQRtPoYMZN5qWAe9hRhy7sMa19PlF61BG",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "gUsecLa0m6A",
+                "title": "【モンハンワイルズ】はじめてのモンハン生活！上位突破だあああああ！！！【ホロライブ/赤井はあと】",
+                "thumbnail": "https://i.ytimg.com/vi/gUsecLa0m6A/hqdefault.jpg?v=67e6032b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhQHqkIqUMaFL5hZH3jEDbFOP6Pw",
+                "description": "この動画およびライブは株式会社カプコンの利用許諾を受けて配信しています\nモンスターハンターワイルズ \n©CAPCOM\n#モンハンワイルズ\n\nモンスタ..."
+            }
+        ]
     },
     "@AkiRosenthal": {
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
@@ -70,14 +77,7 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": [
-            {
-                "video_id": "hzdA8g_tQAg",
-                "title": "just a lil chat",
-                "thumbnail": "https://i.ytimg.com/vi/hzdA8g_tQAg/hqdefault.jpg?v=67e61b85&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBpZKPm27i3PzrrYnE-9woccZtz5w",
-                "description": "««≪ °◇◆◇° ≫ »»\n\nRequest from hololive Productions to underage viewers\nPlease search for [Request To Minors] or click on the link below, to read it and enjoy the video!\nhttps://holol..."
-            }
-        ]
+        "videos": []
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
