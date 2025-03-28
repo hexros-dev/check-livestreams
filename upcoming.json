@@ -108,15 +108,7 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": [
-            {
-                "video_id": "hzdA8g_tQAg",
-                "title": "just a lil chat",
-                "date": "2025/03/28 11:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/hzdA8g_tQAg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBpZKPm27i3PzrrYnE-9woccZtz5w",
-                "description": "««≪ °◇◆◇° ≫ »»\n\nRequest from hololive Productions to underage viewers\nPlease search for [Request To Minors] or click on the link below, to read it and enjoy the video!\nhttps://holol..."
-            }
-        ]
+        "videos": []
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -136,7 +128,15 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "f3UviINB9Z0",
+                "title": "【 本音と建前 】素直な気持ちを伝える…ってコト！？なのら(・o・🍬) 【姫森ルーナ/ホロライブ】",
+                "date": "2025/03/28 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/f3UviINB9Z0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbjEzmUFPEUtkTp2Tl2Di704H_bQ",
+                "description": "サムネイラスト\n　ニャドラさん　https://twitter.com/nyanyadora\n\n【気持ち】本音と建前再生リスト\nhttps://www.youtube.com/playlist?list=PL6gUpTCMieF7mNC62Ug1JHZJTZx0HnLkP..."
+            }
+        ]
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
