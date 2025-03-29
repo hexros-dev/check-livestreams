@@ -149,14 +149,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": [
-            {
-                "video_id": "aRGVlWYD9ks",
-                "title": "【8番のりば】異変ホラー？余裕やもん！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "thumbnail": "https://i.ytimg.com/vi/aRGVlWYD9ks/hqdefault.jpg?v=67e74be4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRJtUlRjug8tLKdJl7XiQiH82z8A",
-                "description": "本ゲームは、動画配信ガイドラインに則り配信、収益化を行なっております。\nhttps://store.steampowered.com/app/2903560/_/\n\nサムネイルの素敵なイラスト..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -295,7 +288,14 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "eBdxuZMtzhU",
+                "title": "【POKEMON SHIELD】MIDNIGHT POKEMON CHANNEL... 14【Pavolia Reine/hololiveID 2nd gen】",
+                "thumbnail": "https://i.ytimg.com/vi/eBdxuZMtzhU/hqdefault.jpg?v=67e81462&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwT0NCTcilrJY0Z6_JdeFQSFLe-A",
+                "description": "~Day of MERAKyats~ 2025 merch kini tersedia🥳\nDapatkan\n🔵Boneka plushie Reine dengan kostum MERAKyats \n🔵\"Joinda!\" Topi Pelatih\n🔵Gelas Mug Menyegarkan MERAKyats \n🔵Kalung MERAKyats..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
