@@ -126,14 +126,7 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
-        "videos": [
-            {
-                "video_id": "2Vw6iryWxKE",
-                "title": "【明日はライブ！】意気込みとか話す…！！がんばってくるよ！！！ 【一条莉々華/hololive DEV_IS #ReGLOSS #ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/2Vw6iryWxKE/hqdefault.jpg?v=67e7e49e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZF3YbcWsi7oX5G7hazeEck8LPbg",
-                "description": "ちょっとだけおしゃべりしたい！！！！\n\n素敵なサムネイラスト🔽\nSteelBall🌃秘書見習い様\n@steel42886\n\n\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈୨..."
-            }
-        ]
+        "videos": []
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -170,7 +163,14 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "aRGVlWYD9ks",
+                "title": "【8番のりば】異変ホラー？余裕やもん！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "thumbnail": "https://i.ytimg.com/vi/aRGVlWYD9ks/hqdefault.jpg?v=67e74be4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRJtUlRjug8tLKdJl7XiQiH82z8A",
+                "description": "本ゲームは、動画配信ガイドラインに則り配信、収益化を行なっております。\nhttps://store.steampowered.com/app/2903560/_/\n\nサムネイルの素敵なイラスト..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -321,7 +321,7 @@
                 "video_id": "5O3RtONfG7c",
                 "title": "【Day of MERAKyats】 NEW MERCH!!! I MADE UP THIS OCCASION.【Pavolia Reine/hololiveID 2nd gen】",
                 "thumbnail": "https://i.ytimg.com/vi/5O3RtONfG7c/hqdefault.jpg?v=67e7be9b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKVAg-OtxgRXh3dSmPZ3nd14d70A",
-                "description": "Reine's new original song now 「Yummy Yum Yummy!」AVAILABLE on iTunes, Apple Music, Spotify etc. Click to stream!\nパヴォリア・レイネ新曲「ヤミヤムヤミ」\nhttps://cover.lnk.to/mU..."
+                "description": "Dapatkan Merch Day of Merakyats 2025 di link dibawah ini!\nGet your Day of Merakyats 2025 Merch below!\nレイネのメラッキャツの日のグッズ 販売中！\n\n----\n▼hololive production..."
             }
         ]
     },
@@ -342,7 +342,14 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/gKitLHfMqsfmC26xRBBNBVE9jz4m0X-xAvcdPUwy8VPa4FCw0-XRxOKLvJZxm-lQnIDQU2rDA0k",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "_jRiRK_Aizo",
+                "title": "【 モンハンワイルズ　＃４ 】夜更かしハンターは上位へ行く！参加型もできるかなああ？？【ホロライブ/ ロボ子さん】",
+                "thumbnail": "https://i.ytimg.com/vi/_jRiRK_Aizo/hqdefault.jpg?v=67e7aa09&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCL-0fclzhvSKO5AxdMXvyNi-qhrw",
+                "description": "＃ロボ子さん　＃ホロライブ　＃モンハンワイルズ\n\n💬  #ロボ子生放送　でポストしてってね✨\nこの動画およびライブは株式会社カプコンの利用..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -479,7 +486,14 @@
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
         "channel_name": "Choco Ch. 癒月ちょこ",
         "avatar_url": "https://yt3.googleusercontent.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Bg8415gk3Ww",
+                "title": "【Newspaper Day】何かがおかしい新聞配達のアルバイト悪魔がプレイしてみる…。【ホロライブ/癒月ちょこ】",
+                "thumbnail": "https://i.ytimg.com/vi/Bg8415gk3Ww/hqdefault.jpg?v=67e78355&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9R8q5pD1XOGIKZ53Om2DlOBoviQ",
+                "description": "サブ垢→https://www.youtube.com/channel/UCp3tgHXw_HI0QMk1K8qh3g\n\n癒月ちょこ 誕生日記念2025\n■販売ページURL\nhttps://shop.hololivepro.com/products/yuzukichoco_bd2025\n\nOP＆ED動..."
+            }
+        ]
     },
     "@dooby3d": {
         "channel_url": "https://www.youtube.com/@dooby3d",
@@ -509,14 +523,7 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": [
-            {
-                "video_id": "Nj4eS-H9QP4",
-                "title": "【500K CELEBRATIONS】 FREE CUCUMBERS TODAY!!! 🥒 NEW EMOTE, NEW ROOM  and MORE!",
-                "thumbnail": "https://i.ytimg.com/vi/Nj4eS-H9QP4/hqdefault.jpg?v=67e755f1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxm7ocM1wM6XPaVGJ8tu-Q3VeUrw",
-                "description": "『 X formely Twitter 』\nhttps://x.com/raorapanthera\n\n『 Hashtags 』\n╰┈➤ Live  #CiaoRaora\n╰┈➤ Fanarts  #RaorArt\n╰┈➤ Clips  #RaraWara\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
-            }
-        ]
+        "videos": []
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
@@ -528,7 +535,14 @@
         "channel_url": "https://www.youtube.com/@mikenekoko",
         "channel_name": "みけねこch",
         "avatar_url": "https://yt3.googleusercontent.com/_bT74ettx8Ei9p0zHrSbKdAe1oyaCAbbbXa9teIsxgOtlPl2RADYotJ_kGKwHsNdtWh8D2Hu",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "QvNd5TzMhMQ",
+                "title": "【World of Warships】視聴者参加型☆みんなで戦おお！！【audience participation type】",
+                "thumbnail": "https://i.ytimg.com/vi/QvNd5TzMhMQ/hqdefault.jpg?v=67e71fda&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9EbDQKr-BEyRczup2-wqiAkbV_A",
+                "description": "『World of Warships PC』を今すぐ無料でダウンロード！：https://wo.ws/3DmcC18 ※招待コード：PCBATTLE\n\n特典内容\n• プレミアム艦艇「チャールストン」と「..."
+            }
+        ]
     },
     "@niminightmare": {
         "channel_url": "https://www.youtube.com/@niminightmare",
