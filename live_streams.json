@@ -135,20 +135,20 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": [
-            {
-                "video_id": "mTLiJIJToqU",
-                "title": "【Minecraft】ひとりでエンドラ討伐！？準備編【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "thumbnail": "https://i.ytimg.com/vi/mTLiJIJToqU/hqdefault.jpg?v=67e8c00a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjFuu9FLe4HpsiNg4j8bU_ejAEYA",
-                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n【使用MOD】\n使用MOD：Comp..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
         "channel_name": "Kobo Kanaeru Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/-CTSHFyohthgdHnFuQzUKOvtl-xpDUSp5-kkeRN9_PadA8DFtSRKhI-3PxoqILuq8_6TwszNBnk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "EVUCX_Wn_Zk",
+                "title": "【VALORANT】Looking for a pro kobolonimbus, carry me to platinum (bukan aku yang carry kocak)",
+                "thumbnail": "https://i.ytimg.com/vi/EVUCX_Wn_Zk/hqdefault.jpg?v=67e985f1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWziVCwfRoa290qJKH3Pp0cjvR3Q",
+                "description": "Bokobokobo- Kobo Kanaeru at your service! Let me be your sun to shine your day, ehe~ ;D ☔☔☔\n#OnAeru #Kobo_Kanaeru #holoID #holoID03\n\nThis game is being streamed and monetized after receiving..."
+            }
+        ]
     },
     "@KoganeiNiko": {
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
@@ -316,14 +316,7 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": [
-            {
-                "video_id": "zwwVbuJtfnM",
-                "title": "#02【BIOHAZARD RE:4】初見バイオRE４！チャプター５からレオンはもうトラバサミに屈しない！【不知火フレア/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/zwwVbuJtfnM/hqdefault.jpg?v=67e92d4d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDojTEUjxO6UEdRxjRz2JRwrj-4jA",
-                "description": "※本ゲームはグロテスクな表現が含まれるのでご注意下さい！\n\n\n■Newフレアイリス シングル「青く在れ」🎧\n💿各種音楽サービス配信版 販売開始..."
-            }
-        ]
+        "videos": []
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
