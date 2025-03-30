@@ -46,7 +46,14 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "UD_6GbbrPSY",
+                "title": "【Monster Hunter Wilds】GRINDING",
+                "thumbnail": "https://i.ytimg.com/vi/UD_6GbbrPSY/hqdefault.jpg?v=67e92ffd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvtrrcNEgI8omxpjaUTpJYJk0H4w",
+                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nThis video and livestream are being streamed with permission and under license by CAPCOM CO., LTD.\nMonster Hunter Wilds\n©CAPCOM\n#モンハ..."
+            }
+        ]
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -386,14 +393,7 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": [
-            {
-                "video_id": "04lqRFLgtLs",
-                "title": "【STREET FIGHTER 6】WINNERS、やれること、やる。　#1NFWIN　#V最協第一幕 【常闇トワ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/04lqRFLgtLs/hqdefault.jpg?v=67e7ef75&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDu-1WlouunURn27r4qSl4hjT2PYA",
-                "description": "いんぱくと☆ふれんず\n@TokoyamiTowa \n@Arurandeisu \n@InamiRai \n@ShironaShizuku \n\n本配信：https://www.youtube.com/watch?v=O2o0bpA8NjM\n\n素敵なサムネイル：\nhttps://x.com/sia_Job00..."
-            }
-        ]
+        "videos": []
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
