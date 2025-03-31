@@ -39,7 +39,14 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "gdGcYcoHeD0",
+                "title": "【M.M.M. / Monday Morning Malas】OHAWRO GOZAIMALAS【Ayunda Risu】",
+                "thumbnail": "https://i.ytimg.com/vi/gdGcYcoHeD0/hqdefault.jpg?v=67e9ff71&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDddO7p6SJ9tOd5YUOFMkd2Py2HpQ",
+                "description": "#HappyRisuDay2025 #Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nMETROPOLIS MV : https://youtu.be/6ulGdHRkzGs?si=YlxSAABf361PYAyz\n\nSTREAM MY NEWEST ORIGINAL SONG メトロポリス..."
+            }
+        ]
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -419,14 +426,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "qckazzufZy4",
-                "title": "hololive English Spring Party! Collab with @FUWAMOCOch @HakosBaelz egg time",
-                "thumbnail": "https://i.ytimg.com/vi/qckazzufZy4/hqdefault.jpg?v=67e8ce7a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNdSzo44y_2ri-jm4ovSZWztdJOw",
-                "description": "hololive English Spring Party! Merchandise available\n▼Official Online Shop▼\nJP：https://shop.hololivepro.com/products/hololiveen_springparty\nEN：https://shop.hololivepro.com/en/products/holol..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
