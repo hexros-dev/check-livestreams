@@ -82,15 +82,7 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": [
-            {
-                "video_id": "09O8ylooCFg",
-                "title": "【FUWAMOCO MORNING】episode 142 🐾 #FWMCMORNING",
-                "date": "2025/03/31 22:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/09O8ylooCFg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAp1ToIvGtTGi43tIlKTCa-SeKyMA",
-                "description": "we'll be back soon...!! ✨\nlovely illustration by @decrilus 💕\njingle by @Sarina_A_Elysia ♪\n\n✨️🩵🩷 Go watch our 𝗙𝗨𝗪𝗔𝗠𝗢𝗖𝗢 𝟯𝗗 𝗕𝗜𝗥𝗧𝗛𝗗𝗔..."
-            }
-        ]
+        "videos": []
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -111,7 +103,7 @@
         "videos": [
             {
                 "video_id": "0jCBudtLKkQ",
-                "title": "【 #朝こよ 】エイプリルフールSp！？火曜日の朝は朝こよ～☀ #226 【博衣こより/hololive】",
+                "title": "【 #朝こよ 】エイプリルフールSp！？火曜日の朝は朝こよ☀～この配信はフィクションを含みます～ #226 【博衣こより/hololive】",
                 "date": "2025/04/01 05:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/0jCBudtLKkQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZihZLkrzAo2UmkRdQVTggunO_qQ",
                 "description": "今日の「朝こよ！」はひとあじ違う？\n🎂博衣こより誕生日記念グッズ2025発売開始！👇🎂\nhttps://shop.hololivepro.com/products/hakuikoyori_bd2025\n💿1stアルバ..."
@@ -146,7 +138,15 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "y38HRNtTG4M",
+                "title": "THE OYSTER STREAM",
+                "date": "2025/04/01 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/y38HRNtTG4M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmwAJaOKFtQunDdyKMeIaZgUT65Q",
+                "description": "My delivery of oysters should be arriving today\n\n#hololiveenglish  #ホロライブ \n＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝\n\nSTREAM MY NEW ORIGINAL SONG,..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -208,6 +208,13 @@
         "avatar_url": "https://yt3.googleusercontent.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
         "videos": [
             {
+                "video_id": "YkjfP7FBmPc",
+                "title": "【POKEMON LEGENDS: ARCEUS】YOU ALL KNOW WHO I'LL BE PICKING AS MY STARTER!!【Kureiji Ollie】",
+                "date": "2025/04/02 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/YkjfP7FBmPc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCN1dLeTXWn5-FHl5SoUm-ldYBRA",
+                "description": "#OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n==========================================\n\nGame title: Pokémon Legends: Arceus\nOfficial page: https://www.pokemon.co.jp/ex/legends_arceus/ja/..."
+            },
+            {
                 "video_id": "jB49KiOQLrc",
                 "title": "【AMIMIR】I WILL BE CATCHING SOME Zs【Kureiji Ollie】",
                 "date": "2025/04/01 18:00:00",
@@ -226,15 +233,7 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": [
-            {
-                "video_id": "i-9esoGCLOY",
-                "title": "【メン限】睡眠導入💤距離近めの甘め雑談 少し歌う【水宮枢／FLOW GLOW】#hololiveDEV_IS",
-                "date": "2025/03/31 22:15:00",
-                "thumbnail": "https://i.ytimg.com/vi/i-9esoGCLOY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQHprREv2PPTY-A8IZfxQH2cCe7w",
-                "description": "いつもより甘めです。\n甘々でもエイプリルフールなのでね✋！\n\n▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸◂┄▹◃\n\n💙メンバーシップはこちらから..."
-            }
-        ]
+        "videos": []
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -370,7 +369,15 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "GrWPu-x5agE",
+                "title": "【 初配信 】にゃっはろ～！さくらみこ初配信だにぇ！！！！！！🌸【ホロライブ/さくらみこ】",
+                "date": "2025/04/01 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/GrWPu-x5agE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCCZBTMYlKTwuuY4vyy24NKp8P7fw",
+                "description": "どきどき・・・・・💞　#さくらみこ初配信\n\n⪩⪨　お知らせ/ɪɴғᴏ\n￣￣￣￣￣￣￣￣￣￣￣￣￣\n　🌸さくらみこ誕生日記念グッズ2025販売中！..."
+            }
+        ]
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
