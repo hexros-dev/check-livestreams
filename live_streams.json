@@ -3,7 +3,14 @@
         "channel_url": "https://www.youtube.com/@AZKi",
         "channel_name": "AZKi Channel",
         "avatar_url": "https://yt3.googleusercontent.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "HT6rbhIvtEQ",
+                "title": "【メン限】ホロライブに所属して3年。月イチみんなとまったり雑談【ホロライブ / AZKi】",
+                "thumbnail": "https://i.ytimg.com/vi/HT6rbhIvtEQ/hqdefault.jpg?v=67ebb111&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgii2KBiE3KI_oRoAeF-sGkptbaQ",
+                "description": "※開始直前にメンバーシップ限定に切り替えます。\n\nサムネイラスト：花春 様\nhttps://twitter.com/KaSyun02\n\n▼メン限/Membership only　の配信について..."
+            }
+        ]
     },
     "@AiraniIofifteen": {
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
@@ -15,7 +22,14 @@
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
         "avatar_url": "https://yt3.googleusercontent.com/Ob0LQV8-i9FXY_GX4AEnsWsxvYUojcYtjZjtLsmjQRtPoYMZN5qWAe9hRhy7sMa19PlF61BG",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "h37V30vSjhI",
+                "title": "【Minecraft】超絶イケボで女を惑わすマイクラ。【ホロライブ/赤井はあと】",
+                "thumbnail": "https://i.ytimg.com/vi/h37V30vSjhI/hqdefault.jpg?v=67eb89dc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_ylNW01oKEINEHjN-exgzXffjqw",
+                "description": "サムネイラスト：淋(そそぎ)めあり先輩\nhttps://x.com/mary_is_mine/status/1866424464009036028\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.moj..."
+            }
+        ]
     },
     "@AkiRosenthal": {
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
@@ -312,14 +326,7 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": [
-            {
-                "video_id": "GrWPu-x5agE",
-                "title": "【 初配信 】にゃっはろ～！さくらみこ初配信だにぇ！！！！！！🌸【ホロライブ/さくらみこ】",
-                "thumbnail": "https://i.ytimg.com/vi/GrWPu-x5agE/hqdefault.jpg?v=67eab06d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCCZBTMYlKTwuuY4vyy24NKp8P7fw",
-                "description": "どきどき・・・・・💞　#さくらみこ2D初配信\n\n全体メイク担当🌸ソじま@SO_jima\n仕上げメイク担当🌸おるだん@ordan\n体操担当🌸rariemonn\n配信素材🌸..."
-            }
-        ]
+        "videos": []
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
@@ -453,14 +460,7 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": [
-            {
-                "video_id": "-mnOeGGJVBk",
-                "title": "【MYRIAD DEATH】Mori would be proud of my Death Count 💀🎤",
-                "thumbnail": "https://i.ytimg.com/vi/-mnOeGGJVBk/hqdefault.jpg?v=67eb4266&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDyG9nXAKOpzEsuHWsmBn6aDk7Vdw",
-                "description": "『 X formely Twitter 』\nhttps://x.com/raorapanthera\n\n『 Hashtags 』\n╰┈➤ Live  #CiaoRaora\n╰┈➤ Fanarts  #RaorArt\n╰┈➤ Clips  #RaraWara\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
-            }
-        ]
+        "videos": []
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
@@ -488,8 +488,8 @@
             {
                 "video_id": "6QZhk-ApSFQ",
                 "title": "IT'S ALIVE",
-                "thumbnail": "https://i.ytimg.com/vi/6QZhk-ApSFQ/hqdefault.jpg?v=67ebabf0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBegcdMM1mOltj3iQsSz0cEMFbgew",
-                "description": "サムネイラスト：()さん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ #ぺこらいぶ..."
+                "thumbnail": "https://i.ytimg.com/vi/6QZhk-ApSFQ/hqdefault.jpg?v=67ebe6df&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBegcdMM1mOltj3iQsSz0cEMFbgew",
+                "description": "#ジルくんを解放しろ\n#ヴィヴィを解放しろ\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタ..."
             }
         ]
     },
