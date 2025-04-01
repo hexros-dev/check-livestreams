@@ -393,14 +393,7 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": [
-            {
-                "video_id": "exT-OrcrEpg",
-                "title": "【???】Taxlady does your taxes",
-                "thumbnail": "https://i.ytimg.com/vi/exT-OrcrEpg/hqdefault.jpg?v=67ebc27c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAS5EQO8zNvsQ5YHYpiRtVPQa49kQ",
-                "description": "art used: https://x.com/tako_ro/status/1870407303083729385\n\nhololive English SPRING PARTY!\n▼Official Online Shop▼\nhttps://shop.hololivepro.com/en/products/hololiveen_springparty\n---------------..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
@@ -412,7 +405,14 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "B_fvVp0bIrQ",
+                "title": "idk yet!!!",
+                "thumbnail": "https://i.ytimg.com/vi/B_fvVp0bIrQ/hqdefault.jpg?v=67eb9b8d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZqmNVGW0A5JDooU0K3ikjDVhjwg",
+                "description": "gremkiss for one day only\n\n【Debut Celebration Merch】\n▼Official Online Shop▼\nJP：https://shop.hololivepro.com/products/hololiveen_justice_debut\nEN：https://shop.hololivepro.com/en/products..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
