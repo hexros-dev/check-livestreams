@@ -153,15 +153,7 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": [
-            {
-                "video_id": "y38HRNtTG4M",
-                "title": "THE OYSTER STREAM",
-                "date": "2025/04/01 10:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/y38HRNtTG4M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmwAJaOKFtQunDdyKMeIaZgUT65Q",
-                "description": "My delivery of oysters should be arriving today\n\n#hololiveenglish  #ホロライブ \n＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝\n\nSTREAM MY NEW ORIGINAL SONG,..."
-            }
-        ]
+        "videos": []
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -231,7 +223,15 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "RYr3UmidlcI",
+                "title": "NEW PRODUCT RELEASE! (NOT CLICKBAIT) MUST TRY! THE REVIEWS ARE CRAZY!!!",
+                "date": "2025/04/02 09:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/RYr3UmidlcI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCO19i17URMusc4flezjlCkhmxJg",
+                "description": "in collaboration with @ShioriNovella @NerissaRavencroft @FUWAMOCOch \n\n\n====================\n✧Twitter: https://twitter.com/kosekibijou\n\n✧Hashtags: \n#biboo  \nAdvent: #holoAdvent\nLive: #LIVEseki..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -394,15 +394,7 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": [
-            {
-                "video_id": "h-2SsiZjmMg",
-                "title": "【Ender Magnolia】Yay Pain | #2",
-                "date": "2025/04/01 10:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/h-2SsiZjmMg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfVkG14VBrZqHwIw0BMKqXskY5FQ",
-                "description": "This game is being streamed and monetized after confirming with © BINARY HAZE INTERACTIVE Inc. and according to guidelines determined by IP Usage Terms and Conditions.\n\n[Twitter]\nhttps://twitter.c..."
-            }
-        ]
+        "videos": []
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
@@ -446,7 +438,15 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "9OyEWSD8FjY",
+                "title": "Idol Training Arc with 100% Organic Enhancements【VRChat with ADVENT】",
+                "date": "2025/04/02 09:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/9OyEWSD8FjY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAn2wzYbjRm7fgXc0ErmhBsg6HHcQ",
+                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n\n==============..."
+            }
+        ]
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
