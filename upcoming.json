@@ -57,13 +57,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
         "videos": [
             {
-                "video_id": "fgyEd5hrT8M",
-                "title": "【Monster Hunter Wilds】GRINDING NEW ARMOR 【Ayunda Risu】",
-                "date": "2025/04/02 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/fgyEd5hrT8M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXYwjv7tU9OkiiRe11xHeenqEQuw",
-                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nThis video and livestream are being streamed with permission and under license by CAPCOM CO., LTD.\nMonster Hunter Wilds\n©CAPCOM\n#モンハ..."
-            },
-            {
                 "video_id": "m4bm8ziTp0U",
                 "title": "【Monster Hunter Wilds】FULL SQUAD HUNTING LET'S GO ! 【 Ayunda Risu 】",
                 "date": "2025/04/05 19:00:00",
@@ -230,15 +223,7 @@
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
-        "videos": [
-            {
-                "video_id": "YkjfP7FBmPc",
-                "title": "【POKEMON LEGENDS: ARCEUS】YOU ALL KNOW WHO I'LL BE PICKING AS MY STARTER!!【Kureiji Ollie】",
-                "date": "2025/04/02 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/YkjfP7FBmPc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCN1dLeTXWn5-FHl5SoUm-ldYBRA",
-                "description": "#OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n==========================================\n\nGame title: Pokémon Legends: Arceus\nOfficial page: https://www.pokemon.co.jp/ex/legends_arceus/ja/..."
-            }
-        ]
+        "videos": []
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
@@ -290,7 +275,15 @@
         "channel_url": "https://www.youtube.com/@MurasakiShion",
         "channel_name": "Shion Ch. 紫咲シオン",
         "avatar_url": "https://yt3.googleusercontent.com/K91NQLuy_JMQ65n-Opf0Q2FZBO3yOURnMRusO7o5DTjaJ1QVtP-ANN4lehK57X4KXpcI2MiRig",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "F0fcdeQeG-E",
+                "title": "【メンバー限定】前回のスパチャ読む！だけの配信【ホロライブ/紫咲シオン】",
+                "date": "2025/04/02 18:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/F0fcdeQeG-E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABijEqTgEeP22-D_ALamcG6dt4lw",
+                "description": "この枠のスパチャは読み上げないのでご理解のほどよろしくお願いします。\nいつもありがとうございます。\n\n🌙紫咲シオン卒業グッズ販売開始🌙..."
+            }
+        ]
     },
     "@NakiriAyame": {
         "channel_url": "https://www.youtube.com/@NakiriAyame",
@@ -457,7 +450,7 @@
                 "title": "【3DLIVE】３D新衣装も！ #不知火フレア生誕祭2025 ゲストと一緒に盛り上がろう🎉【不知火フレア/ホロライブ】",
                 "date": "2025/04/02 19:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/XcRns_s_wQ8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8FzPw31qBYBH-9cG3fcn72GdmPQ",
-                "description": "☀素敵なゲスト☀(敬称略)\n@ShirakamiFubuki \n@AZKi \n@TsunomakiWatame \n@OmaruPolka \n@IRyS \n@NinomaeInanis \n\n\n【Special Thanks】\n音源制作\nトライフロンティア合同会社..."
+                "description": "☀素敵なゲスト☀(敬称略)\n@ShirakamiFubuki \n@AZKi \n@TsunomakiWatame \n@OmaruPolka \n@IRyS \n@NinomaeInanis \n@usadapekora \n@HoushouMarine \n@ShiroganeNoel \n\n\n【Special Thanks】\n音源制作..."
             }
         ]
     },
