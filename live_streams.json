@@ -153,7 +153,14 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "NtzRhLagoJ0",
+                "title": "【CRAB ASMR/HANDCAM】Local rock breaks limbs live on stream",
+                "thumbnail": "https://i.ytimg.com/vi/NtzRhLagoJ0/hqdefault.jpg?v=67edb935&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYnEWvXm_CYuVp6f_K7ih6AVd5QQ",
+                "description": "/.D\n\nThumbnail art: @PhdPigeon thank you!\nhttps://x.com/PhdPigeon/status/1886315188581978201/photo/1\n\n====================\n✧Twitter: https://twitter.com/kosekibijou\n\n✧Hashtags: \n#biboo..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -405,14 +412,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "mJTzETFKnxc",
-                "title": "GIGI MURIN DOES WHAT IN INZOI?!?!??!",
-                "thumbnail": "https://i.ytimg.com/vi/mJTzETFKnxc/hqdefault.jpg?v=67eca95d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmn59yjd3OybYOrsak7SePKjN_Fg",
-                "description": "clickbait title\n\nThis game is being streamed in accordance with copyright guidelines.\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
