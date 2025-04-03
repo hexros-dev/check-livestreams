@@ -141,15 +141,7 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": [
-            {
-                "video_id": "LJtIbh_Nhyw",
-                "title": "【 ポケットモンスターソード 】チャンピョン・リオーナ、ガラルを救うの巻✨【ホロライブ DEV_IS 響咲リオナ】",
-                "date": "2025/04/03 14:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/LJtIbh_Nhyw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3EEz3dw7_pDXKy1FAdY6nZ_aYmQ",
-                "description": "配信タイトル：ポケットモンスター ソード\n公式サイト：https://www.pokemon.co.jp/ex/sword_shield/\n\n♡...本日のスパーチャットはお名前読み上げのみになり..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -420,7 +412,15 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ONoS5_cYUNw",
+                "title": "【 心霊物件】久々にホラゲやる・・・耐性は０。【鷹嶺ルイ/ホロライブ】",
+                "date": "2025/04/03 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ONoS5_cYUNw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCuUS3DEqttrCSwy1fTXwXGLBDHOw",
+                "description": "怖い怖い怖い。ﾑﾘ\n\n配信タイトル：心霊物件\nストアページ：https://store.steampowered.com/app/3400040/_/\n\n✦••┈┈┈••┈┈┈••✦••┈┈┈••┈..."
+            }
+        ]
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
@@ -473,13 +473,6 @@
                 "date": "2025/04/05 19:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/5IOkcfQ9G2k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmM3QbU0y0qVCf2nVAmnoPelmyeg",
                 "description": "#vestiazeta #zecretlive #hololive  #holoID #MHWilds\n\n\n‪Collab partners: @AyundaRisu @KaelaKovalskia  ‪@AiraniIofifteen \n\nこの動画およびライブは株式会社カプコンの利用許諾..."
-            },
-            {
-                "video_id": "nLm8IHG_gyM",
-                "title": "【Monster Hunter Wilds】 Noon Hunt / HR50 IKZ...???",
-                "date": "2025/04/03 14:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/nLm8IHG_gyM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDR-SaLyN8MhB9lxWNlY-7p6qj6IA",
-                "description": "Game title: Monster Hunter Wilds\nThis video and livestream are being streamed with permission and under license by CAPCOM CO., LTD.\nMonster Hunter Wilds\n©CAPCOM\n#モンハンワイルズ\nストア..."
             }
         ]
     },
