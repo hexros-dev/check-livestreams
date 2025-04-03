@@ -153,15 +153,7 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
-        "videos": [
-            {
-                "video_id": "H3l4uD_iq3A",
-                "title": "【モンハンワイルズ】メインクエスト進めるぞおおお！久しぶりのモンハン！上位！【一条莉々華/hololive DEV_IS　ReGLOSS】",
-                "date": "2025/04/03 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/H3l4uD_iq3A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADwjjbqZzJVaNJ--fqpJcnwn6OaQ",
-                "description": "サムネイラスト🔽\nLily is Asleep様\n@Kukie_nyan\n\nこの動画およびライブは株式会社カプコンの利用許諾を受けて配信しています\nモンスターハンターワイ..."
-            }
-        ]
+        "videos": []
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -231,7 +223,15 @@
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "U6eMc0LnrLQ",
+                "title": "【POKEMON LEGENDS: ARCEUS】THE ILLUSION OF CHOICE, BUT WITH QUILAVA!!【Kureiji Ollie】",
+                "date": "2025/04/03 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/U6eMc0LnrLQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDlR1faGinfD2FT3SdxA_AVrHnlHQ",
+                "description": "#OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n==========================================\n\nGame title: Pokémon Legends: Arceus\nOfficial page: https://www.pokemon.co.jp/ex/legends_arceus/ja/..."
+            }
+        ]
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
@@ -336,13 +336,29 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "mtNeWquUCGE",
+                "title": "【】【ホロライブ/大空スバル】",
+                "date": "2025/04/03 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/mtNeWquUCGE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdv5xArA0AFspFuREtZagQgO8YbA",
+                "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n+‥‥‥‥..."
+            }
+        ]
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "yOLyGyIt-So",
+                "title": "【 はいしにょてい 】なにしようかなぁ【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+                "date": "2025/04/03 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/yOLyGyIt-So/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmdPKv5gwFW88TdraHGvPnTibRbQ",
+                "description": "▽ 最重要！！歌ってみた10作目公開中！ ▽\n「Beyond the way」 - 音乃瀬奏＆Mori Calliope（cover）\nhttps://youtu.be/bYZOxUX_iso\n\n୨୧♪:*:･･:*:･♪･:*:･･:*:･..."
+            }
+        ]
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
@@ -459,15 +475,7 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": [
-            {
-                "video_id": "ONoS5_cYUNw",
-                "title": "【 心霊物件】久々にホラゲやる・・・耐性は０。【鷹嶺ルイ/ホロライブ】",
-                "date": "2025/04/03 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/ONoS5_cYUNw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCuUS3DEqttrCSwy1fTXwXGLBDHOw",
-                "description": "怖い怖い怖い。ﾑﾘ\n\n配信タイトル：心霊物件\nストアページ：https://store.steampowered.com/app/3400040/_/\n\n✦••┈┈┈••┈┈┈••✦••┈┈┈••┈..."
-            }
-        ]
+        "videos": []
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
@@ -617,7 +625,15 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "fdfB78UAN18",
+                "title": "【ポケモンエメラルド】20連勝から～ 金ダツラをクリアさせてください！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
+                "date": "2025/04/03 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/fdfB78UAN18/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwhbzOoeZjhOFLnf-2DexYgRAB4w",
+                "description": "１発で決める\n\nサムネイラスト：\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ #ぺこら..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
