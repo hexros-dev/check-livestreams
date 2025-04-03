@@ -405,7 +405,14 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Z502HkmHlFw",
+                "title": "【FALLOUT: NEW VEGAS】biking through the wastelands of my 77 hour fallout save",
+                "thumbnail": "https://i.ytimg.com/vi/Z502HkmHlFw/hqdefault.jpg?v=67ee4c94&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLC76mOIspyjueanjH-q01ZNNRRw",
+                "description": "thumbnail: https://x.com/raikko_9/status/1907584213173637369\n\nThis game's use of streaming is being consented by ©2010 Bethesda Softworks LLC. All Rights Reserved.\n--------------------------------..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
