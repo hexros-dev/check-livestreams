@@ -147,7 +147,14 @@
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
         "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/ACubs_Mw4YtmgHDIIZvW_gZaPf_VR1wg9yffFLsq4Lrw-W7Md-0pK4Gob8OJebCYCmgrArsE",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "zEbog0dQkLE",
+                "title": "【朝活Minecraft】自動畑、村人格納して完成させよっか♥【虎金妃笑虎】",
+                "thumbnail": "https://i.ytimg.com/vi/zEbog0dQkLE/hqdefault.jpg?v=67ef9a01&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwcwpYGaq2Ynf1fU51zbE4rwD1sw",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n【使用MOD】\n使用MOD：Comp..."
+            }
+        ]
     },
     "@KosekiBijou": {
         "channel_url": "https://www.youtube.com/@KosekiBijou",
@@ -364,14 +371,7 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": [
-            {
-                "video_id": "vuhKBPZilrQ",
-                "title": "【雑談＆お礼】オススメのおいしいものが聞きたい角巻わため【角巻わため/ホロライブ４期生】",
-                "thumbnail": "https://i.ytimg.com/vi/vuhKBPZilrQ/hqdefault.jpg?v=67eedf25&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBaI80keoRyZybshkOJh-VxBXvj5g",
-                "description": "タグ：#ドドドライブ \n\n🐏角巻わため & 大空スバル🦆\n初オリジナル曲『ラムダック』公開！\nMV：https://youtu.be/cs276NqBotM\n\n『ラムダック』購入はこち..."
-            }
-        ]
+        "videos": []
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
