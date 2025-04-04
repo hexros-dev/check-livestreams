@@ -309,7 +309,15 @@
         "channel_url": "https://www.youtube.com/@NanashiMumei",
         "channel_name": "Nanashi Mumei Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ufO7pGRu0vUfA2FLPz7yN517i8wOYxAdcxB9nSTKKfiKhjec0ulSmwWmRA00KqVpOTIesgXhMA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "o1J32L0zGYs",
+                "title": "【MEMBERS ONLY】Doodling with Owl Pals !!",
+                "date": "2025/04/05 09:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/o1J32L0zGYs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCscNVY-o1F7vTNz0VEQyI-fBxQ9Q",
+                "description": "Stream will become Members Only before starting!\n\nThumbnail: https://www.pixiv.net/en/artworks/128884583\nNOTE: All superchats will be read off stream to preserve my voice and keep the mood..."
+            }
+        ]
     },
     "@NatsuiroMatsuri": {
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
@@ -631,15 +639,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "QhDqg97kSqs",
-                "title": "【WATCHALONG】what if we were a Twisted Pair",
-                "date": "2025/04/05 05:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/QhDqg97kSqs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBH5LkMNTe9q8S6EnvMcO_wtgDDAw",
-                "description": "Twisted Pair (2018)\n\nNeil Breen\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
