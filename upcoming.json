@@ -106,7 +106,15 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "dmkGn1p7_Cw",
+                "title": "【 モンハンワイルズ 】HR241！エンジョイハンターがゆくのらああああ！！！(・o・🍬)【姫森ルーナ/ホロライブ】",
+                "date": "2025/04/04 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/dmkGn1p7_Cw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPxWWV-S2uhnu3Ig-2NP4We3T6TQ",
+                "description": "サムネイラスト\n　しいたけさん　https://twitter.com/siitake_hat\n\nモンハンワイルズ再生リスト\nhttps://www.youtube.com/playlist?list=PL6gUpTCMieF7c1TGzMPJIaFmrTvolscwU..."
+            }
+        ]
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -397,15 +405,7 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": [
-            {
-                "video_id": "G-Mm696jwbw",
-                "title": "Tea Party Handcam While Rating Your Clocks【Members Only】",
-                "date": "2025/04/04 08:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/G-Mm696jwbw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRU-1KDOYKrk8cCZcrGdqeztxCaQ",
-                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n\n==============..."
-            }
-        ]
+        "videos": []
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
@@ -550,6 +550,13 @@
                 "date": "2025/04/04 08:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/DXBpTF9C4gI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5vfX0gLsNcp8xbDnm94ritNJ7FA",
                 "description": "『 X formely Twitter 』\nhttps://x.com/raorapanthera\n\n『 Hashtags 』\n╰┈➤ Live  #CiaoRaora\n╰┈➤ Fanarts  #RaorArt\n╰┈➤ Clips  #RaraWara\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
+            },
+            {
+                "video_id": "dP0Jjkqbjpo",
+                "title": "【MONSTER HUNTER WILDS】I Came for Fashion, Stayed for the Monsters ✨🦖",
+                "date": "2025/04/04 11:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/dP0Jjkqbjpo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdaXnPC1moC8qi6IMmSPT04mKPsA",
+                "description": "This video and livestream are being streamed with permission and under license by CAPCOM CO., LTD.\nMonster Hunter Wilds\n©CAPCOM\n#MHWilds\nPalico accessories were designed and created with permissio..."
             }
         ]
     },
