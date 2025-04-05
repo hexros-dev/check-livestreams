@@ -200,7 +200,15 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "cyOeMozjRq4",
+                "title": "【MINECRAFT NEW WORLD SERVER】Showing the world to @AnyaMelfissa !!",
+                "date": "2025/04/05 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/cyOeMozjRq4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCFHYD9ps7WOKuHRVdgtffpsIPPQ",
+                "description": "Minecraft Skin: @aozane\n\n====================\n✧Twitter: https://twitter.com/kosekibijou\n\n✧Hashtags: \n#biboo  \nAdvent: #holoAdvent\nLive: #LIVEseki\nMemes: #LMOAI \nArt: #bijouwled \nPebble..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -310,15 +318,7 @@
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC",
-        "videos": [
-            {
-                "video_id": "h8_yB2Dw3II",
-                "title": "【 ポケモンSV 】はじめてのポケモン！冒険だー！！#03【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-                "date": "2025/04/05 14:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/h8_yB2Dw3II/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJPUvxLaY-FJ7zTS-s_CLn9CrJjQ",
-                "description": "▽ 最重要！！歌ってみた10作目公開中！ ▽\n「Beyond the way」 - 音乃瀬奏＆Mori Calliope（cover）\nhttps://youtu.be/bYZOxUX_iso\n\n୨୧♪:*:･･:*:･♪･:*:･･:*:･..."
-            }
-        ]
+        "videos": []
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
