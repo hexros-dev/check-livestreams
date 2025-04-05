@@ -58,14 +58,7 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": [
-            {
-                "video_id": "zfvP0XtuLFw",
-                "title": "【DONKEY KONG COUNTRY 2】the snes has been waiting, strong as ever 🍌【FUWAMOCO｜スーパードンキーコング2】",
-                "thumbnail": "https://i.ytimg.com/vi/zfvP0XtuLFw/hqdefault.jpg?v=67ee6462&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsrtIvHShV8wqKL0urMsTCWxmlZw",
-                "description": "lots of monkey business aBAUnd✨️\nlovely illustration by @HuuSri 💕\n\n✨️🩵🩷 Go watch our 𝗙𝗨𝗪𝗔𝗠𝗢𝗖𝗢 𝟯𝗗 𝗕𝗜𝗥𝗧𝗛𝗗𝗔𝗬 𝗣𝗔𝗥𝗧𝗬..."
-            }
-        ]
+        "videos": []
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -395,20 +388,20 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": [
-            {
-                "video_id": "87egWam3VX4",
-                "title": "#９【ポケモンSV】はじめてのポケモン！ばんちょーの大冒険【轟はじめ/ReGLOSS】 #hololivedev_is",
-                "thumbnail": "https://i.ytimg.com/vi/87egWam3VX4/hqdefault.jpg?v=67efe9c6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDknXdfrJQvZQP_AvKC8vyOBvs2Lg",
-                "description": "素敵なサムネお写真：げんたろ様（@G_teaLL）\n\nポケットモンスター バイオレット\n公式サイト：https://www.pokemon.co.jp/ex/sv/ja/\n￣￣￣￣￣￣￣￣￣￣￣..."
-            }
-        ]
+        "videos": []
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "yAvcBF4u68c",
+                "title": "【ゼルダの伝説 時のオカリナ】半分プレイしたことある気がする作品です。【ホロライブ/ときのそら】",
+                "thumbnail": "https://i.ytimg.com/vi/yAvcBF4u68c/hqdefault.jpg?v=67f0b5ee&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCv_7kZAdwthszklkd5jMRXSPwaTg",
+                "description": "絶対半分は遊んでる！！\nたぶん！！！\n\n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n\n★★★★★★★★★★★..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
