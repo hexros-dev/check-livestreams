@@ -64,7 +64,14 @@
         "channel_url": "https://www.youtube.com/@GawrGura",
         "channel_name": "Gawr Gura Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/6BCfAqi9yIpZbHLbw9BAWySvB3XZf9r8jFqudO5nSOsHoGzLhlKrm1M1uuMCRabi_pXGDzl7",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "75CCn33aA_w",
+                "title": "LOGGING IN",
+                "thumbnail": "https://i.ytimg.com/vi/75CCn33aA_w/hqdefault.jpg?v=67f1186a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCoeX_MQBqiN6PCs8xenobw0Vbk6w",
+                "description": "sidddown , we gotta talk"
+            }
+        ]
     },
     "@HakosBaelz": {
         "channel_url": "https://www.youtube.com/@HakosBaelz",
@@ -340,14 +347,7 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": [
-            {
-                "video_id": "BpEHruDK4yk",
-                "title": "【 ポケモンルビー 】みこちと金コイ伝説９日目～最弱からみんなで最強に育てる旅～【ホロライブ/さくらみこ】",
-                "thumbnail": "https://i.ytimg.com/vi/BpEHruDK4yk/hqdefault.jpg?v=67f102cc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8S0kTtC4hEFew7VHpNHnlfg1GOg",
-                "description": "いま【３０００匹目】🎣#みこちと金コイ伝説\n1/8192 の戦い････いつ釣れるかな？？？？？？？\n\n＜みこと金コイを最強にする旅のルール＞..."
-            }
-        ]
+        "videos": []
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
