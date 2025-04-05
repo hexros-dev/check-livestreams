@@ -39,14 +39,7 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": [
-            {
-                "video_id": "PbmIRRSdE2c",
-                "title": "【Monster Hunter Wilds】HEHEHEHE Zoh Sia hunt ? 【Ayunda Risu】",
-                "thumbnail": "https://i.ytimg.com/vi/PbmIRRSdE2c/hqdefault.jpg?v=67f15168&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBiYtKO-Vf_Lgv0VbK-NkFVF2AK3g",
-                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nThis video and livestream are being streamed with permission and under license by CAPCOM CO., LTD.\nMonster Hunter Wilds\n©CAPCOM\n#モンハ..."
-            }
-        ]
+        "videos": []
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -64,14 +57,7 @@
         "channel_url": "https://www.youtube.com/@GawrGura",
         "channel_name": "Gawr Gura Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/6BCfAqi9yIpZbHLbw9BAWySvB3XZf9r8jFqudO5nSOsHoGzLhlKrm1M1uuMCRabi_pXGDzl7",
-        "videos": [
-            {
-                "video_id": "75CCn33aA_w",
-                "title": "LOGGING IN",
-                "thumbnail": "https://i.ytimg.com/vi/75CCn33aA_w/hqdefault.jpg?v=67f1186a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCoeX_MQBqiN6PCs8xenobw0Vbk6w",
-                "description": "sidddown , we gotta talk"
-            }
-        ]
+        "videos": []
     },
     "@HakosBaelz": {
         "channel_url": "https://www.youtube.com/@HakosBaelz",
@@ -192,14 +178,7 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": [
-            {
-                "video_id": "qLzdu8Ob9_Q",
-                "title": "【A Dance of Fire and Ice】睡眠導入 チルく音ゲーするよ〜😴【FLOW GLOW 水宮枢】#hololiveDEV_IS",
-                "thumbnail": "https://i.ytimg.com/vi/qLzdu8Ob9_Q/hqdefault.jpg?v=67f128d3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKb3Pt6kU4Rt_iKNW-v9tNzmW4zw",
-                "description": "本ゲームは7th Beat Gamesの確認を得た上で配信・収益化を行なっております。\n\n▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸◂┄▹◃\n\n💙メンバーシップはこ..."
-            }
-        ]
+        "videos": []
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -455,7 +434,14 @@
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "M1ltgbdxiug",
+                "title": "[PATH OF EXILE 2]  Dawn Of The HUNT! HUZZAH! ~💄 #sponsored",
+                "thumbnail": "https://i.ytimg.com/vi/M1ltgbdxiug/hqdefault.jpg?v=67efc8da&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9sAa4Awp7lXCR0MSL0Et5XuH5dQ",
+                "description": "This is a sponsored stream! Thank you Grinding Gear Games! Huzzah!\n\nDawn of the Hunt is the latest content update for Path of Exile 2 developed by Grinding Gear Games. It features deep character..."
+            }
+        ]
     },
     "@holoen_gigimurin": {
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
