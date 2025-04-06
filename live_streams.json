@@ -256,14 +256,7 @@
         "channel_url": "https://www.youtube.com/@NanashiMumei",
         "channel_name": "Nanashi Mumei Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ufO7pGRu0vUfA2FLPz7yN517i8wOYxAdcxB9nSTKKfiKhjec0ulSmwWmRA00KqVpOTIesgXhMA",
-        "videos": [
-            {
-                "video_id": "dJ-yF_iTNl0",
-                "title": "【OVERWATCH 2】You Always Have My Back, Don't You ... Overwatch 2",
-                "thumbnail": "https://i.ytimg.com/vi/dJ-yF_iTNl0/hqdefault.jpg?v=67f1d433&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCIEXCmk9ukZtU5qDKG7mZQlELV2Q",
-                "description": ":D\n\nthumbnail: https://www.pixiv.net/en/artworks/128391794\nNOTE: All superchats will be read off stream to preserve my voice and keep the mood light ! Thank you, don don !!\n\n≫ ────..."
-            }
-        ]
+        "videos": []
     },
     "@NatsuiroMatsuri": {
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
@@ -410,7 +403,14 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "5thdJAiQIc4",
+                "title": "【 大阪杯 】 どの馬が勝つのか⁉大阪杯2025がくる！！！！！！！！！！【鷹嶺ルイ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/5thdJAiQIc4/hqdefault.jpg?v=67ef8926&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChwMtadicGksdjEnkFmduMJ9iNkQ",
+                "description": "15:40発走 阪神競馬場 芝2000m\n\n【2025年競馬配信】\nブラック企業時代に作っていた競馬口座に61万をBET。\n現在：61万円→57万5千円\n(退職金口座から移動..."
+            }
+        ]
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
