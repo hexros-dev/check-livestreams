@@ -347,14 +347,7 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": [
-            {
-                "video_id": "LnDP-iWGzrk",
-                "title": "【 手描き切り抜き 】べすとおぶ手描き切り抜き鑑賞‼🎬みんなで観るにぇ～～～～‼【ホロライブ/さくらみこ】",
-                "thumbnail": "https://i.ytimg.com/vi/LnDP-iWGzrk/hqdefault.jpg?v=67f2673e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlzxm3qUgz31kwScmU3d6yvTTSrQ",
-                "description": "手描き切り抜きを鑑賞していくにぇ‼🎬💞\n\n※切り抜き師さんたちは後程記述！※\n\n⪩⪨　お知らせ/ɪɴғᴏ\n￣￣￣￣￣￣￣￣￣￣￣￣￣\n..."
-            }
-        ]
+        "videos": []
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
@@ -404,7 +397,14 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "nE12CyKbaX8",
+                "title": "【SPLIT FICTION】takamori split screen nostalgia #kfp #calliolive",
+                "thumbnail": "https://i.ytimg.com/vi/nE12CyKbaX8/hqdefault.jpg?v=67f1b61c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAw5mW-srFjbVLTwbsv_pphUpIeag",
+                "description": "with @MoriCalliope !!!\nstream my new song, MIRAGE!✨https://cover.lnk.to/DQSp3S\n👀 Takanashi Kiara 1st Album \"Point of View\" 👀\nStreaming: https://cover.lnk.to/PointofView\n\n\n 🏵️[Twitter]..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
