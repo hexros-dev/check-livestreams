@@ -87,13 +87,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
         "videos": [
             {
-                "video_id": "Op6xoM5yoZU",
-                "title": "【クロノトリガー】完全初見★ドラクエとFFスタッフがタッグを組んだ神作、遂にやらせていただきます！！！ #5 【博衣こより/ホロライブ】【ネタバレあり】",
-                "date": "2025/04/06 09:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Op6xoM5yoZU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0xewV8ry1MgApK6EyviqUEeOunA",
-                "description": "ずっとやりたかった・・・！！！！！！！スクエニ様、ありがとうございます！！！！！！ネタバレ＆指示コメント禁止です！！！\n🎂博衣こより..."
-            },
-            {
                 "video_id": "cAGxmtfk6XQ",
                 "title": "【初代ポケモン】ピカチュウ版！いざ！シオンタウン！！！ #3 【博衣こより/ホロライブ】",
                 "date": "2025/04/06 19:00:00",
@@ -262,15 +255,7 @@
         "channel_url": "https://www.youtube.com/@NanashiMumei",
         "channel_name": "Nanashi Mumei Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ufO7pGRu0vUfA2FLPz7yN517i8wOYxAdcxB9nSTKKfiKhjec0ulSmwWmRA00KqVpOTIesgXhMA",
-        "videos": [
-            {
-                "video_id": "dJ-yF_iTNl0",
-                "title": "【MINECRAFT 】Exploring The New World Server For The First Time !!",
-                "date": "2025/04/06 09:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/dJ-yF_iTNl0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCIEXCmk9ukZtU5qDKG7mZQlELV2Q",
-                "description": ":D\n\nthumbnail: https://www.pixiv.net/en/artworks/118474638\nNOTE: All superchats will be read off stream to preserve my voice and keep the mood light ! Thank you, don don !!\n\n≫ ────..."
-            }
-        ]
+        "videos": []
     },
     "@NatsuiroMatsuri": {
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
@@ -406,7 +391,15 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "DEBeNbCSYj4",
+                "title": "Zoinks! It's Zoinking Time!【Project Zomboid】",
+                "date": "2025/04/07 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/DEBeNbCSYj4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBO4UvOv4GDyMAgooxRbmaCSNFYow",
+                "description": "Project Zomboid with @NanashiMumei and @VestiaZeta \n\nHashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹..."
+            }
+        ]
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
@@ -498,7 +491,15 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "PFs1MDalfBA",
+                "title": "【歌枠】第１２３回！わためぇ Night Fever!! Singing Stream🎤【角巻わため/ホロライブ４期生】",
+                "date": "2025/04/06 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/PFs1MDalfBA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3Zo5J88QC4-Q0k-P7xjRYzd14ZA",
+                "description": "楽しく歌って踊って今週もがんばろう！\nタグ：#ドドドライブ\n\n※このライブに用いている一部の音源は、株式会社エクシングより提供されていま..."
+            }
+        ]
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
