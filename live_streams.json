@@ -138,7 +138,14 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Jd6FEQyWie8",
+                "title": "【  Minecraft  】行ったことのない場所に冒険に行く！！！【ホロライブ DEV_IS 響咲リオナ】",
+                "thumbnail": "https://i.ytimg.com/vi/Jd6FEQyWie8/hqdefault.jpg?v=67f3cfc6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAn7evUaA5EzBd6HEbbuZt7IkdPvw",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております。\n\n♡...本日のスパーチ..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -336,7 +343,14 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "lAQV5NuTR68",
+                "title": "【首都高バトル】平日夜の首都高を流す※ネタバレあり【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "thumbnail": "https://i.ytimg.com/vi/lAQV5NuTR68/hqdefault.jpg?v=67f3cc00&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAGPwvtzde8V7L3XuKIuM9w2SNsuw",
+                "description": "本ゲームは元気株式会社に確認の上、配信・収益化を行なっております。\n© Genki\nhttps://store.steampowered.com/app/2634950/_/\n\nサムネイルイラスト：そはら..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -384,14 +398,7 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": [
-            {
-                "video_id": "o-DqXc7dUPM",
-                "title": "【Tropico 6】そうだ、ここに独裁国家を作ろう【獅白ぼたん/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/o-DqXc7dUPM/hqdefault.jpg?v=67f2f917&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnLD0odSTyfiUao1_pWWGEeBj8Pw",
-                "description": "ししろん大統領の島国運営物語\n\n配信ハッシュタグ：#ぐうたらいぶ\nサムネイルのイラスト：ゆ宇\nhttps://x.com/yuu201023/status/1449440409373929474/\n\n配信タイ..."
-            }
-        ]
+        "videos": []
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
