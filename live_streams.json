@@ -153,14 +153,7 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": [
-            {
-                "video_id": "VTOzgx6x7zw",
-                "title": "【PATH OF EXILE 2】Exploring Dawn of The Hunt Update with @MoriCalliope !! #sponsored",
-                "thumbnail": "https://i.ytimg.com/vi/VTOzgx6x7zw/hqdefault.jpg?v=67f28034&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXd4oQ-KmDtPsvk3lDvuscEzQyLw",
-                "description": "Get the Early Access Key here: https://www.pathofexile.com/hunt/BmcQXbSYGI \n\n#PR #sponsored\n\nDawn of the Hunt is the latest content update for Path of Exile 2 developed by Grinding Gear Games...."
-            }
-        ]
+        "videos": []
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -196,14 +189,7 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": [
-            {
-                "video_id": "SaMJXXh00fI",
-                "title": "【PATH OF EXILE 2】BIG UPDATE!! Mayhem with BIBOO! #sponsored",
-                "thumbnail": "https://i.ytimg.com/vi/SaMJXXh00fI/hqdefault.jpg?v=67f30eca&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASgA-J2mDWqA-yi4stnrAUksKLEQ",
-                "description": "Dawn of the Hunt is the latest content update for Path of Exile 2 developed by Grinding Gear Games. It features deep character progression, dark and gritty environments, mechanically meaningful..."
-            }
-        ]
+        "videos": []
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -432,7 +418,14 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "BMtynlMuCQw",
+                "title": "【DRAWING】Practice & Doodle! Let's draw together!",
+                "thumbnail": "https://i.ytimg.com/vi/BMtynlMuCQw/hqdefault.jpg?v=67f28e20&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxVSawgmi2w1_s2U8ZIDOsqGBtCw",
+                "description": "『 X formely Twitter 』\nhttps://x.com/raorapanthera\n\n『 Hashtags 』\n╰┈➤ Live  #CiaoRaora\n╰┈➤ Fanarts  #RaorArt\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐ ˗ˏˋ ꒰New Year..."
+            }
+        ]
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
