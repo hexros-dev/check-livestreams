@@ -419,7 +419,14 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "upHGRmE4HqE",
+                "title": "【THE CHEF'S SHIFT】WAITER, WAITER! ANOTHER GREMLIN PLEASE!",
+                "thumbnail": "https://i.ytimg.com/vi/upHGRmE4HqE/hqdefault.jpg?v=67f36ac0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-Spkdsm2aKlGYMtPQrE8ICY6PNA",
+                "description": "me and another one of my 500 cooking and typing games\n\nthumbnail: https://x.com/Neidrcj/status/1908594660936953950\n\nGame title: The Chef's Shift\nStore page : https://store.steampowered.com/app/2390..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
