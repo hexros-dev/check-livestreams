@@ -258,14 +258,7 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": [
-            {
-                "video_id": "xZ9hStv0kjE",
-                "title": "プロデューサー帰ってきたよ！今日は学マ水曜日✨️学園アイドルマスター✨️ネタバレあり 【尾丸ポルカ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/xZ9hStv0kjE/hqdefault.jpg?v=67f5b3db&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmSKHKP9Xo7Itpu8bpTO8tvbXJBg",
-                "description": "教えてくれ・・・親愛度10からの世界を・・・\nN.I.A編いくぞ！！！！！！\n\n\nこのゲーム実況は「バンダイナムコエンターテインメント ゲーム実況..."
-            }
-        ]
+        "videos": []
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
@@ -446,7 +439,14 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "M-DHQARbYMU",
+                "title": "【inZOI】RTX RAORA IS HERE!!!😼✨",
+                "thumbnail": "https://i.ytimg.com/vi/M-DHQARbYMU/hqdefault.jpg?v=67f55686&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdSlYBg7WoqD_Lp54gVk_8VJMlhg",
+                "description": "『 X formely Twitter 』\nhttps://x.com/raorapanthera\n\n『 Hashtags 』\n╰┈➤ Live  #CiaoRaora\n╰┈➤ Fanarts  #RaorArt\n╰┈➤ Clips  #RaraWara\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
+            }
+        ]
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
