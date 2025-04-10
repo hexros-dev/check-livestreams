@@ -231,7 +231,14 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "rmfa7Bu7xkw",
+                "title": "【MONSTER HUNTER WILDS】 MORE MONHUN BECAUSE I CAN!!!!!!",
+                "thumbnail": "https://i.ytimg.com/vi/rmfa7Bu7xkw/hqdefault.jpg?v=67f7ec65&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2_-kF1CPvT5sfUhxSclbZCppGbA",
+                "description": "【Thumbnail Art】\n\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\nThis video and livestream are being streamed with permission and under license by CAPCOM CO., LTD.\nMonster Hunter Wilds..."
+            }
+        ]
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -393,14 +400,7 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": [
-            {
-                "video_id": "C0_X6Y3QnVQ",
-                "title": "【WATCHALONG】Walking Dead S1 with @KosekiBijou DON'T DEAD OPEN INSIDE (tv show)",
-                "thumbnail": "https://i.ytimg.com/vi/C0_X6Y3QnVQ/hqdefault.jpg?v=67f7f6f3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNDnGLndtTrlv_6lWSAVGyHcP9SQ",
-                "description": "art used: https://x.com/Fongban_/status/1900918284251177207\n\nhololive English SPRING PARTY!\n▼Official Online Shop▼\nhttps://shop.hololivepro.com/en/products/hololiveen_springparty\n--------------..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
