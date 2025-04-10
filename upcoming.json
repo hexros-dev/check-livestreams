@@ -11,13 +11,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc",
         "videos": [
             {
-                "video_id": "0AiQ_iuQmRg",
-                "title": "【Blood Typers】TYPE TYPE TYPE!【 iofi / hololiveID 】",
-                "date": "2025/04/10 22:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/0AiQ_iuQmRg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADXdKuwXNByLVgTS1mikoNoo7i5A",
-                "description": "#ioLyfe #Airani_Iofifteen #hololive #holoID\nGame title: Blood Typers\nStore page: https://store.steampowered.com/app/2790330/Blood_Typers/\n\n【Support & Jajanin IOFI】🎨\nIndonesia : https://socia..."
-            },
-            {
                 "video_id": "3J8vHB7VxhQ",
                 "title": "【#io5thversary】The Sea【 iofi / hololiveID 】",
                 "date": "2025/04/12 20:00:00",
@@ -30,7 +23,15 @@
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
         "avatar_url": "https://yt3.googleusercontent.com/Ob0LQV8-i9FXY_GX4AEnsWsxvYUojcYtjZjtLsmjQRtPoYMZN5qWAe9hRhy7sMa19PlF61BG",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "fJnqTFaZgq8",
+                "title": "【Minecraft】あの子に🎁・・・！？作っちゃうぞ～～～！！！✨【ホロライブ/赤井はあと】",
+                "date": "2025/04/11 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/fJnqTFaZgq8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWl3fgizcCoSm6E-QL_8YKAJXLxg",
+                "description": "ひさびさのマイクラ！！！🌟\n\n超極秘計画だあああ～～～～～～～～～！！！✨\n\n(*￣▽￣)ﾌﾌﾌｯ♪(*￣▽￣)ﾌﾌﾌｯ♪(*￣▽￣)ﾌﾌﾌｯ♪(*￣..."
+            }
+        ]
     },
     "@AkiRosenthal": {
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
@@ -54,15 +55,7 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": [
-            {
-                "video_id": "S1hKca67n_w",
-                "title": "【#AnniversaRi5u】UNARCHIVED KARAOKE !!!【Ayunda Risu】",
-                "date": "2025/04/10 22:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/S1hKca67n_w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCOO7KpGKY6WaC_nCbCBY1VgbC2UA",
-                "description": "#RisuSwitch #Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nSTREAM MY NEWEST ORIGINAL SONG メトロポリス (metropolis) IN YOUR PREFERRED MUSIC STREAMING PLATFROM!!!\nhttps://cover.lnk.t..."
-            }
-        ]
+        "videos": []
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
