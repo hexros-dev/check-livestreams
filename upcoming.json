@@ -49,13 +49,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
         "videos": [
             {
-                "video_id": "1FRKm_v4yNA",
-                "title": "【#AnniversaRi5u】Anniversary Special : HANDCAM BREWEK !!!【Ayunda Risu】",
-                "date": "2025/04/10 15:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/1FRKm_v4yNA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCrdD38wafOuWXl3STx7XcBsXnX_w",
-                "description": "#RisuSwitch #Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nSTREAM MY NEWEST ORIGINAL SONG メトロポリス (metropolis) IN YOUR PREFERRED MUSIC STREAMING PLATFROM!!!\nhttps://cover.lnk.t..."
-            },
-            {
                 "video_id": "CMxmUSvmYAc",
                 "title": "【#AnniversaRi5u】The Earth【Ayunda Risu】",
                 "date": "2025/04/10 20:00:00",
@@ -545,7 +538,15 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "mTyPGI1LbS0",
+                "title": "【FALLOUT: NEW VEGAS】i'm pickin everything up if you get what i'm putting down",
+                "date": "2025/04/11 04:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/mTyPGI1LbS0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACHN9fy5DSc5X27C5MOGpFeQeqjw",
+                "description": "This game's use of streaming is being consented by ©2010 Bethesda Softworks LLC. All Rights Reserved.\n--------------------------------------------------\n【New Year Merch】\n▼Hololive Closet..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
