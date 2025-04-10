@@ -106,7 +106,14 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "GOmZAlsOGYY",
+                "title": "【Monster Hunter Wilds】Checking out the recent UPDATE!",
+                "thumbnail": "https://i.ytimg.com/vi/GOmZAlsOGYY/hqdefault.jpg?v=67f73b74&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBEmgHM8mPVXcNrqQOW4s32wRKRJg",
+                "description": "Now the real question...do I still remember how to hunt\n\nThis video and livestream are being streamed with permission and under license by CAPCOM CO., LTD.\nMonster Hunter Wilds\n©CAPCOM\n#MHWilds..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -228,14 +235,7 @@
         "channel_url": "https://www.youtube.com/@NanashiMumei",
         "channel_name": "Nanashi Mumei Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ufO7pGRu0vUfA2FLPz7yN517i8wOYxAdcxB9nSTKKfiKhjec0ulSmwWmRA00KqVpOTIesgXhMA",
-        "videos": [
-            {
-                "video_id": "9JrByWGXhSA",
-                "title": "【LEFT 4 DEAD 2】We Are Brain Dead 2 !!!",
-                "thumbnail": "https://i.ytimg.com/vi/9JrByWGXhSA/hqdefault.jpg?v=67f71cda&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9ZIZion5fclzAHyZbGPogRau9ig",
-                "description": ":D\nwith @AnyaMelfissa \n\nthumbnail: https://x.com/NitoAtelier/status/1844024139297997168\n\n≫ ──── ≪•◦ ❈ ◦•≫ ──── ≪\n\nTWITTER\nhttps://twitter.com/nanashimumei_en..."
-            }
-        ]
+        "videos": []
     },
     "@NatsuiroMatsuri": {
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
@@ -332,14 +332,7 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": [
-            {
-                "video_id": "MJh-tE_Tcx0",
-                "title": "【R.E.P.O.】Sweaty Gamer Mode with Advent but Rissa is Here in Bird Spirit",
-                "thumbnail": "https://i.ytimg.com/vi/MJh-tE_Tcx0/hqdefault.jpg?v=67f575ea&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAVCfoxiDOHwPM0MQZUxfY3SlcdCw",
-                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n\n==============..."
-            }
-        ]
+        "videos": []
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
