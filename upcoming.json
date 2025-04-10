@@ -467,7 +467,15 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Mc4VvpCm1jY",
+                "title": "【 忘れないで、おとなになっても。 】どんな未来が待っているのか、結末を見に行こう...【角巻わため/ホロライブ４期生】",
+                "date": "2025/04/11 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Mc4VvpCm1jY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBeubjzw39LJf6Gqet3V_CQ0JULtw",
+                "description": "クリアまで！\nタグ：#ドドドライブ \n\n配信タイトル：忘れないで、おとなになっても。\nニンテンドーeショップ\nhttps://store-jp.nintendo.com/list/software/7001..."
+            }
+        ]
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -503,15 +511,7 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": [
-            {
-                "video_id": "C0_X6Y3QnVQ",
-                "title": "【WATCHALONG】Walking Dead S1 with @KosekiBijou DON'T DEAD OPEN INSIDE (tv show)",
-                "date": "2025/04/11 03:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/C0_X6Y3QnVQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNDnGLndtTrlv_6lWSAVGyHcP9SQ",
-                "description": "art used: https://x.com/Fongban_/status/1900918284251177207\n\nhololive English SPRING PARTY!\n▼Official Online Shop▼\nhttps://shop.hololivepro.com/en/products/hololiveen_springparty\n--------------..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
