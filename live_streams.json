@@ -9,7 +9,14 @@
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
         "channel_name": "Airani Iofifteen Channel hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "aeFgAD1h1FM",
+                "title": "DRAWING NEXT PROJECT + Membership Wallpaper",
+                "thumbnail": "https://i.ytimg.com/vi/aeFgAD1h1FM/hqdefault.jpg?v=67f8fe59&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9x-HZXq4twxUZ45g-rlMRZA9pvg",
+                "description": "#ioLyfe #Airani_Iofifteen #hololive #holoid \n\n【Support & Jajanin IOFI】🎨\nIndonesia : https://sociabuzz.com/airaniiofifteen/tribe\nOverseas : https://streamlabs.com/airaniiofifteenchannelhololi..."
+            }
+        ]
     },
     "@AkaiHaato": {
         "channel_url": "https://www.youtube.com/@AkaiHaato",
@@ -28,7 +35,14 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "9x_eU5eye7I",
+                "title": "【 STREET FIGHTER 6】Mガイル1時間ランクマ潜り！【アキロゼ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/9x_eU5eye7I/hqdefault.jpg?v=67f92494&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCLsbYGT5GR89QWW-KJ7deKtYjgpA",
+                "description": "アキロゼ新曲【異薔薇】きいてね！\nhttps://cover.lnk.to/5bvecc\n\n配信タグ  #アキびゅーわーるど  \nこの動画およびライブは株式会社カプコンの利用許諾..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -72,7 +86,14 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "KZ896BEEnRc",
+                "title": "【FUWAMOCO MORNING】episode 146 🐾 #FWMCMORNING",
+                "thumbnail": "https://i.ytimg.com/vi/KZ896BEEnRc/hqdefault.jpg?v=67f7efb0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDMNUU1ugSUC0AHX5g6oGFf_A7OHw",
+                "description": "mogu mogu gummy ✨\nlovely illustration by @maumauma_maumau 💕\njingle by @Sarina_A_Elysia ♪\n\n✨️🩵🩷 Go watch our 𝗙𝗨𝗪𝗔𝗠𝗢𝗖𝗢 𝟯𝗗 𝗕𝗜𝗥𝗧𝗛𝗗𝗔..."
+            }
+        ]
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -312,14 +333,7 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": [
-            {
-                "video_id": "droIYawGwCM",
-                "title": "【#生スバル】Fate/stay night みるしゅばああああああああああああああああああ！！！！！！：Fate/stay night watching party【ホロライブ/大空スバル】",
-                "thumbnail": "https://i.ytimg.com/vi/droIYawGwCM/hqdefault.jpg?v=67f8ae28&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzOS0DiuKaoq6ENdHqWCAmHo5Dhw",
-                "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n+‥‥‥‥..."
-            }
-        ]
+        "videos": []
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -459,20 +473,20 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": [
-            {
-                "video_id": "LHVGUpsSXr4",
-                "title": "【ポケットモンスタークリスタル】#07 完全初見！新地方のジム制覇していく！！【 雪花ラミィ /ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/LHVGUpsSXr4/hqdefault.jpg?v=67f8a309&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC7GtnViFvyTBcxUpsbfEE4aULOkA",
-                "description": "感想は #らみらいぶ で呟いて頂けたら嬉しいです！\n\nサムネイルのイラスト：aohaさま\nhttps://x.com/aohasor_\n\n配信タイトル：ポケットモンスター クリス..."
-            }
-        ]
+        "videos": []
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
         "channel_name": "Choco Ch. 癒月ちょこ",
         "avatar_url": "https://yt3.googleusercontent.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "22SFJUStqkQ",
+                "title": "【 #ホロライブファーマーズ】悪魔ファーマー農業6日目!!!!!!!!!!!!【ホロライブ/癒月ちょこ】",
+                "thumbnail": "https://i.ytimg.com/vi/22SFJUStqkQ/hqdefault.jpg?v=67f927f9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsYib6-iJow0DVZ3b8zR_EB9mCCQ",
+                "description": "サブ垢→https://www.youtube.com/channel/UCp3tgHXw_HI0QMk1K8qh3g\n\nOP＆ED動画：松賀りお。様@rio_matsuka\nしょこらデザイン＆イラスト：むーらん様@M_uu418\nサムネイラ..."
+            }
+        ]
     },
     "@dooby3d": {
         "channel_url": "https://www.youtube.com/@dooby3d",
