@@ -70,7 +70,15 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "p7JQIymWyPA",
+                "title": "【PRISUNERS NIGHT】IT'S FRIDAY !!【Ayunda Risu】",
+                "date": "2025/04/11 20:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/p7JQIymWyPA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEIzH6x2-otKYUfayG6FdnONY_cQ",
+                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nーーーーーーーーー\nCHECK OUT RISU 5TH ANNIVERSARY MERCH!\nSales start: 10 April 2025, 21:00 WIB/ 23:00 JST\nSales end: 12 May..."
+            }
+        ]
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -166,21 +174,21 @@
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": [
-            {
-                "video_id": "yoR1qrMKvrs",
-                "title": "【歌枠】告知＆プチお披露目あり！久しぶりに歌を歌うんだ～～～～！【戌神ころね】",
-                "date": "2025/04/11 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/yoR1qrMKvrs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVJMOMaBX2i3-5AVGgdJD30y2QTA",
-                "description": "タグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nころねTwitter▶https://twitter.com/inugamikorone\n\n-----------------------------..."
-            }
-        ]
+        "videos": []
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "LRSvK1ePA8o",
+                "title": "【MYRIAD DEATH】大好きなカリオペ先輩になって、リオーナ冥界救っちゃいます✨【ホロライブ DEV_IS 響咲リオナ】",
+                "date": "2025/04/11 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/LRSvK1ePA8o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDinjWvpMouxItJ8gvP2ATpTEIoPA",
+                "description": "本ゲームは holo Indie の承諾を得た上で配信・収益化を行なっております。\n\n♡...本日のスパーチャットはお名前読み上げのみになります！！..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -198,7 +206,15 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "NVG2u0u-j4g",
+                "title": "【 Farming Simulator 25 】金のリンゴを見つけるまでいきます【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "date": "2025/04/11 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/NVG2u0u-j4g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtv6wQvyGKWE0gxEeqyCmSQGq6tw",
+                "description": "本ゲームは Giants Software に確認の上配信・収益化を行なっております。\n\n #ホロライブファーマーズ #hololiveFarmers \n\nサムネイルの素敵なイラスト..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -413,15 +429,7 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": [
-            {
-                "video_id": "ddiVcsU8LVE",
-                "title": "【首都高バトル】12時過ぎのシンデレラを迎えに行く※ネタバレあり【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "date": "2025/04/11 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/ddiVcsU8LVE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBRzyiiUJ0t22Dxj8gWRr3LhMsVw",
-                "description": "本ゲームは元気株式会社に確認の上、配信・収益化を行なっております。\n© Genki\nhttps://store.steampowered.com/app/2634950/_/\n\nサムネイルイラスト：くたに..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -439,22 +447,7 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": [
-            {
-                "video_id": "FVEkQs6o0uU",
-                "title": "【 キャブボくんばっばい・・・ 】【ホロライブ/さくらみこ】",
-                "date": "2025/04/11 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/FVEkQs6o0uU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAsrJE_X4cRWYb4r56nDcW0HiLLRg",
-                "description": "⪩⪨　お知らせ/ɪɴғᴏ\n￣￣￣￣￣￣￣￣￣￣￣￣￣\n　🌸さくらみこ誕生日記念グッズ2025販売中！🌸\n　　https://shop.hololivepro.com/products/sakuramiko_bd2..."
-            },
-            {
-                "video_id": "HwhYIUkyN3M",
-                "title": "【 ポケモンルビー 】みこちと金コイ伝説１１日目～最弱からみんなで最強に育てる旅～【ホロライブ/さくらみこ】",
-                "date": "2025/04/11 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/HwhYIUkyN3M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTDlaMDziUf5z7zdnAkuxOETlgUA",
-                "description": "いま【４０００匹目】🎣#みこちと金コイ伝説\n1/8192 の戦い････いつ釣れるかな？？？？？？？\n\n＜みこと金コイを最強にする旅のルール＞..."
-            }
-        ]
+        "videos": []
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
@@ -474,15 +467,7 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": [
-            {
-                "video_id": "4gkVmuJoas4",
-                "title": "【マリオメーカー２】四天王を倒してBOSSクッパ！？！？！？！【白上フブキ/ホロライブ】",
-                "date": "2025/04/11 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/4gkVmuJoas4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDf8QXVn9LRbuQJo1X_6rAJmp2Hw",
-                "description": "📢2025年7月5日～6日の２DAYS！\n◤さいたまスーパーアリーナ◢\n\nハッシュタグは #超ゲマズ2\n\n詳細は公式サイトや公式Xをチェック\n公式X▷https://x.com/G..."
-            }
-        ]
+        "videos": []
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -676,15 +661,7 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": [
-            {
-                "video_id": "UG6VVIBGxFg",
-                "title": "【ダクソ３かマリメレート戦】ぺこ！【ホロライブ/兎田ぺこら】",
-                "date": "2025/04/11 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/UG6VVIBGxFg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBozgnsJpS4RXGLgX5OvH1YjkDqWg",
-                "description": "本日のマリカ占い\n\nサムネイラスト：()さん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタ..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
