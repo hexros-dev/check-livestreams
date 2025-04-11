@@ -238,7 +238,14 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "rcyIIEW8VJs",
+                "title": "【BLOOD TYPERS】 Hi @holoen_gigimurin Thank You for the Thumbnail",
+                "thumbnail": "https://i.ytimg.com/vi/rcyIIEW8VJs/hqdefault.jpg?v=67f912d5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADdMvO7WZ_nrGPGHOBkE8BgWFMYw",
+                "description": "【Thumbnail Art】\n\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\nThis game is being streamed and monetized after confirming with Squeaky Wheel and aliasBLACK.\n________________________________..."
+            }
+        ]
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -428,14 +435,7 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": [
-            {
-                "video_id": "I04-25jk2No",
-                "title": "【SEKIRO】FINALE - REVENGE VERSION - overcoming my trauma (spoilers!!!)",
-                "thumbnail": "https://i.ytimg.com/vi/I04-25jk2No/hqdefault.jpg?v=67f9412a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-zUKQI6Opv2f52ugMvzvxg_L36g",
-                "description": "art: https://x.com/Jess75_/status/1902874473075814544\n\nhololive English SPRING PARTY!\n▼Official Online Shop▼\nhttps://shop.hololivepro.com/en/products/hololiveen_springparty\n--------------------..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
@@ -447,7 +447,14 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "roFNVs40MHQ",
+                "title": "【BLOOD TYPERS】frantic typing for our lives with @NinomaeInanis",
+                "thumbnail": "https://i.ytimg.com/vi/roFNVs40MHQ/hqdefault.jpg?v=67f8ad7f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD16-5dWVHYFA-CVgn4n52JZ6MErA",
+                "description": "thumbnail art by ninomae inanis\n\nGame title: Blood Typers\nStore page: https://store.steampowered.com/app/2790330/Blood_Typers/\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
