@@ -323,7 +323,15 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "z6KuSC3r6e4",
+                "title": "ポルカプロデュースx公式アパレルコラボ！？3人で新情報をお届け！！【hololive Connect】",
+                "date": "2025/04/11 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/z6KuSC3r6e4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjPWKwo7wL5Q1FZn7XnuVFrMPDYA",
+                "description": "◆尾丸ポルカ @OmaruPolka \n◆白上フブキ @ShirakamiFubuki \n◆ラプラス・ダークネス @LaplusDarknesss\n\n『hololive Connect』から、タレントプロデュース企画「hololi..."
+            }
+        ]
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
@@ -347,15 +355,7 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": [
-            {
-                "video_id": "11-Os-yuj34",
-                "title": "【Donut Hole / ドーナツホール Afterparty】Yummy",
-                "date": "2025/04/11 10:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/11-Os-yuj34/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTTkoUYeTJd7C5yVS-oOfd2oS6Sg",
-                "description": "uwu master buy my little birthday merch pretty pwease uwu or ill cry 🔪 uwuuuuuuu\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/ourokronii_bd2025\nEN: https://shop..."
-            }
-        ]
+        "videos": []
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
