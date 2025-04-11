@@ -37,15 +37,7 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": [
-            {
-                "video_id": "7OfDi4fOLho",
-                "title": "【ツーポイントミュージアム】経営シュミレーションで続・おばけ博物館作り！？👻【アキロゼ/ホロライブ】",
-                "date": "2025/04/11 23:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/7OfDi4fOLho/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCI6xYMigsOk8DFZMYKNOPKUW6HVw",
-                "description": "🎧アキロゼ新曲【異薔薇】聞いてね！\nhttps://cover.lnk.to/5bvecc\n\n配信タグ  #アキびゅーわーるど  \n\nこの動画およびライブは、コンテンツ利用許諾契約..."
-            }
-        ]
+        "videos": []
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -260,7 +252,15 @@
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "12sSMlFTbk8",
+                "title": "【歌枠】病み曲限定歌枠♡【ホロライブ/夏色まつり】",
+                "date": "2025/04/12 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/12sSMlFTbk8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfQD_ZLTxHFqfbD_X6GeSrhrlbhg",
+                "description": "...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\n\n素敵なサムネイル→夜宮あまねこ様\n@yomiya_amaneko\n\n\n...｡oо○**○оo｡...｡o..."
+            }
+        ]
     },
     "@NekomataOkayu": {
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
@@ -365,7 +365,15 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/gKitLHfMqsfmC26xRBBNBVE9jz4m0X-xAvcdPUwy8VPa4FCw0-XRxOKLvJZxm-lQnIDQU2rDA0k",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "bNKJHe2j1BQ",
+                "title": "【 #ホロライブファーマーズ】求人をみてやってきました、新人です【ホロライブ/ ロボ子さん】",
+                "date": "2025/04/12 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/bNKJHe2j1BQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2gtb4zkpRcQf7nIh66PuHfYJcmA",
+                "description": "＃ロボ子さん　＃ホロライブ　\n\n💬  #ロボ子生放送　でポストしてってね✨\n\n本ゲームは Giants Software に確認の上配信・収益化を行なっております..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -449,7 +457,15 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "EXkzI6mjJ1A",
+                "title": "#１２【ポケモンSV】はじめてのポケモン！ばんちょーの大冒険【轟はじめ/ReGLOSS】 #hololivedev_is",
+                "date": "2025/04/12 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/EXkzI6mjJ1A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9IpORmWeaNaHja3i-M4URIsLjzQ",
+                "description": "素敵なサムネお写真：よく響くギロ様（@giro9192）\n\nポケットモンスター バイオレット\n公式サイト：https://www.pokemon.co.jp/ex/sv/ja/\n￣￣￣￣￣￣￣￣￣..."
+            }
+        ]
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
@@ -579,7 +595,15 @@
         "channel_url": "https://www.youtube.com/@mikenekoko",
         "channel_name": "みけねこch",
         "avatar_url": "https://yt3.googleusercontent.com/_bT74ettx8Ei9p0zHrSbKdAe1oyaCAbbbXa9teIsxgOtlPl2RADYotJ_kGKwHsNdtWh8D2Hu",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "7Zhzk1nZjTc",
+                "title": "【大炎上中⁉】元祖！猫宮るなちゃんと初コラボ！！！",
+                "date": "2025/04/12 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/7Zhzk1nZjTc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXmeYMObqk2eNB3O7qlQEtJW4uMg",
+                "description": "2025.3.25 Release ドリーミュージック・メジャーデビューシングル「猫になって／みけねこ。」\nhttps://lnk.to/mikeneko_nekoninatteTD\n\n■今ネットで騒がれてる..."
+            }
+        ]
     },
     "@niminightmare": {
         "channel_url": "https://www.youtube.com/@niminightmare",
