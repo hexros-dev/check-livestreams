@@ -180,13 +180,6 @@
                 "date": "2025/04/13 21:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/6zsb0OjGixM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZ94tAkvAq55Ekl2xRTIESs_kdqA",
                 "description": "Bokobokobo- Kobo Kanaeru at your service! Let me be your sun to shine your day, ehe~ ;D ☔☔☔\n#OnAeru #Kobo_Kanaeru #holoID #holoid03 \n==================================\nDONASI LOKAL GUYS!..."
-            },
-            {
-                "video_id": "O5_DZEH_0-I",
-                "title": "【Unarchived Karaoke】Naughty Naughty",
-                "date": "2025/04/12 23:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/O5_DZEH_0-I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCMrNxMkPx3mI66nKBA9WEDQDQHdw",
-                "description": "Bokobokobo- Kobo Kanaeru at your service! Let me be your sun to shine your day, ehe~ ;D ☔☔☔\n#OnAeru #Kobo_Kanaeru #holoID #holoid03 \n==================================\nDONASI LOKAL GUYS!..."
             }
         ]
     },
@@ -426,7 +419,15 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "t0fNEuOkHco",
+                "title": "#１3【ポケモンSV】はじめてのポケモン！ばんちょーの大冒険【轟はじめ/ReGLOSS】 #hololivedev_is",
+                "date": "2025/04/13 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/t0fNEuOkHco/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUGiUInLrtOrYUB4ffGHRDnhQUZA",
+                "description": "素敵なサムネお写真：あずまのひかり様（@Sunrise_East2）\n\nポケットモンスター バイオレット\n公式サイト：https://www.pokemon.co.jp/ex/sv/ja/\n￣￣￣￣￣￣..."
+            }
+        ]
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",

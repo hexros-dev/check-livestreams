@@ -125,14 +125,7 @@
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": [
-            {
-                "video_id": "J6RW2SRK984",
-                "title": "【晩酌】お酒飲みながら６周年カウントダウン！！【戌神ころね】",
-                "thumbnail": "https://i.ytimg.com/vi/J6RW2SRK984/hqdefault.jpg?v=67fa6ca0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbbnPHyVWOrF4JgtNO-JPR35kLMQ",
-                "description": "タグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nころねTwitter▶https://twitter.com/inugamikorone\n\n-----------------------------..."
-            }
-        ]
+        "videos": []
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
@@ -176,7 +169,14 @@
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
         "channel_name": "Kobo Kanaeru Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/-CTSHFyohthgdHnFuQzUKOvtl-xpDUSp5-kkeRN9_PadA8DFtSRKhI-3PxoqILuq8_6TwszNBnk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "O5_DZEH_0-I",
+                "title": "【Unarchived Karaoke】Naughty Naughty",
+                "thumbnail": "https://i.ytimg.com/vi/O5_DZEH_0-I/hqdefault.jpg?v=67f4cb04&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCMrNxMkPx3mI66nKBA9WEDQDQHdw",
+                "description": "Bokobokobo- Kobo Kanaeru at your service! Let me be your sun to shine your day, ehe~ ;D ☔☔☔\n#OnAeru #Kobo_Kanaeru #holoID #holoid03 \n==================================\nDONASI LOKAL GUYS!..."
+            }
+        ]
     },
     "@KoganeiNiko": {
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
