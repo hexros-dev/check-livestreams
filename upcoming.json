@@ -73,15 +73,7 @@
         "channel_url": "https://www.youtube.com/@GawrGura",
         "channel_name": "Gawr Gura Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/6BCfAqi9yIpZbHLbw9BAWySvB3XZf9r8jFqudO5nSOsHoGzLhlKrm1M1uuMCRabi_pXGDzl7",
-        "videos": [
-            {
-                "video_id": "qgYK9k2KF7Q",
-                "title": "【R.E.P.O】tax time! secret :3",
-                "date": "2025/04/13 06:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/qgYK9k2KF7Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDuvxSq6RRggwwWlEdNAtpIK4v7Q",
-                "description": "with: \n@TakanashiKiara @OuroKronii @holoen_raorapanthera \n\n🐟 twitter: https://twitter.com/gawrgura \n🐟 thumbnail: https://x.com/DDOLBANG11\n\nThis game is being streamed and monetized after..."
-            }
-        ]
+        "videos": []
     },
     "@HakosBaelz": {
         "channel_url": "https://www.youtube.com/@HakosBaelz",
@@ -107,7 +99,15 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "MBTe3cDomgs",
+                "title": "【 エレクトーン 】ルーナ姫が楽器のお稽古中なのら～～～！！！🎹🎶(・o・🍬)【姫森ルーナ/ホロライブ】",
+                "date": "2025/04/13 13:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/MBTe3cDomgs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBgQY-vYJO3KwGolaBt8ACRx01O_A",
+                "description": "サムネイラスト\n　森林ウオさん　https://twitter.com/sinrin_uo\n\nエレクトーン演奏再生リスト\nhttps://www.youtube.com/playlist?list=PL6gUpTCMieF4AIOivtfh-akjOBcKy7gV_..."
+            }
+        ]
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -225,15 +225,7 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": [
-            {
-                "video_id": "69sWvEz9Qx0",
-                "title": "【MEMBER'S STREAM】SONIC THE HEDGEHOG 3 WATCHALONG",
-                "date": "2025/04/13 06:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/69sWvEz9Qx0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfVKU2HiinYbKgO2fZf-XvPDdi_A",
-                "description": "/.D\n\nThumbnail Art:  @yuu_dai_1998 Thank you!\nhttps://x.com/yuu_dai_1998/status/1904190843222646843\n\n====================\n✧Twitter: https://twitter.com/kosekibijou\n\n✧Hashtags: \n#biboo ..."
-            }
-        ]
+        "videos": []
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -404,15 +396,7 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": [
-            {
-                "video_id": "pVGkP_iAcFc",
-                "title": "【REPO】Should I Be Afraid ​",
-                "date": "2025/04/13 06:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/pVGkP_iAcFc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASev-9iE0eVvl4hTFI4esnEnXdfQ",
-                "description": "This game is being streamed and monetized which following on Valve Video Policy (https://store.steampowered.com/video_policy)\n\n[Players]\n@GawrGura \n@TakanashiKiara \n@holoen_raorapanthera \n..."
-            }
-        ]
+        "videos": []
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
@@ -621,16 +605,9 @@
             {
                 "video_id": "1SimGW3FGro",
                 "title": "【The Convenience Store】I am going to kombini... you guys want anything?",
-                "date": "2025/04/13 09:00:00",
+                "date": "2025/04/14 09:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/1SimGW3FGro/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTOQ7o9rWRT1mQPgtGokj1H2BiNw",
                 "description": "『 X formely Twitter 』\nhttps://x.com/raorapanthera\n\n『 Hashtags 』\n╰┈➤ Live  #CiaoRaora\n╰┈➤ Fanarts  #RaorArt\n╰┈➤ Clips  #RaraWara\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
-            },
-            {
-                "video_id": "Khp-BDYtHaQ",
-                "title": "【R.E.P.O. COLLAB】Trust the plan (we don’t have one) 😇",
-                "date": "2025/04/13 06:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Khp-BDYtHaQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAu9QJIKCNHfSPgq4l3YuAia371DQ",
-                "description": "Collab with:\n@TakanashiKiara \n@OuroKronii \n@GawrGura \n\n\n『 X formely Twitter 』\nhttps://x.com/raorapanthera\n\n『 Hashtags 』\n╰┈➤ Live  #CiaoRaora\n╰┈➤ Fanarts  #RaorArt\n╰┈➤..."
             }
         ]
     },
