@@ -76,14 +76,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "gVTc2RQnMBo",
-                "title": "【クロノトリガー】完全初見★最終回かも！？？？ドラクエとFFスタッフがタッグを組んだ神作、いざラスボスへ！！！ #6 【博衣こより/ホロライブ】【ネタバレあり】",
-                "thumbnail": "https://i.ytimg.com/vi/gVTc2RQnMBo/hqdefault.jpg?v=67f7f4ad&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUb4N9scoIPyQ1EcubDwCseWAhoA",
-                "description": "ずっとやりたかった・・・！！！！！！！スクエニ様、ありがとうございます！！！！！！ネタバレ＆指示コメント禁止です！！！最終回かも！..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -364,7 +357,14 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "zsZ5zYJ2vUE",
+                "title": "【心霊物件】Q.新居が心霊物件だったらどうする？ A.ぱいぱい除霊をする【白銀ノエル/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/zsZ5zYJ2vUE/hqdefault.jpg?v=67f8e2c2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC11F82Tnvf3jwJSe97ofoIxnCyFQ",
+                "description": "引越し休暇明けの初配信がこれってええんか？(縁起的な意味で)\n※ぱいぱい除霊という単語がしっくりきただけでマリンは関係ないです...ｺﾞﾒ..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
