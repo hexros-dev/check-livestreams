@@ -35,7 +35,14 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "EPoWsAAPkio",
+                "title": "【モンハンワイルズ】アーティア笛作りたい！ #あっぷれあ #ホロモンハン部 【アキロゼ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/EPoWsAAPkio/hqdefault.jpg?v=67fa717a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD81ZSWTBtkHmg2ewhY0B_02iTq8Q",
+                "description": "🎧アキロゼ新曲【異薔薇】リリース\nhttps://cover.lnk.to/5bvecc\n\n歴戦のハンター\n@ShiranuiFlare \n配信タグ  #アキびゅーわーるど  \n\nこの動画およびライブは..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -366,20 +373,20 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": [
-            {
-                "video_id": "jS3BvDn2gV0",
-                "title": "【VRChat】のんびり！素敵なカフェでお花見雑談しませんか？　#フブキングダムVRC【白上フブキ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/jS3BvDn2gV0/hqdefault.jpg?v=67fa4a0d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAIsIax95Lsy9BBZZ_PXCWrsOFSZA",
-                "description": "遊びに行ったワールド\n▷　まろの大樹 -maro’s cafe-\nhttps://vrchat.com/home/world/wrld_c241d23b-cb41-4ece-8322-78276e78d71e/info\n━━━━━━━━━━━━━━━━━..."
-            }
-        ]
+        "videos": []
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "LTN7NNCzeuk",
+                "title": "【モンハンワイルズ 】#あっぷれあ で一狩りいくぞっ【不知火フレア/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/LTN7NNCzeuk/hqdefault.jpg?v=67fa668c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1sRuiWxvsJHZxqSSGwQsjthw6ZA",
+                "description": "@AkiRosenthal 笛/ガンランス\n \n■不知火フレア 誕生日記念2025グッズ　（受注販売）\nhttps://shop.hololivepro.com/products/shiranuiflare_bd2025\n※2025年4月2日(水)..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -391,14 +398,7 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": [
-            {
-                "video_id": "TEX1_L-CDU4",
-                "title": "【Tropico 6】独裁国家を目指して！初めてのミッションは陰謀と策略の物語【獅白ぼたん/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/TEX1_L-CDU4/hqdefault.jpg?v=67f95a5a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDJ2ex6GQNOuG9AmNe-YEKhziKcQ",
-                "description": "シシロ・プレジデンテの島国運営物語\n今日はミッションやっていきます！独立国家を作るためには犠牲もいとわないよねぇ…\n\n配信ハッシュタグ..."
-            }
-        ]
+        "videos": []
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
@@ -465,7 +465,14 @@
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
         "channel_name": "Choco Ch. 癒月ちょこ",
         "avatar_url": "https://yt3.googleusercontent.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "29Xh_T6jOZY",
+                "title": "【 #ホロライブファーマーズ】悪魔ファーマー農業７日目!!!!!!!!!!!!【ホロライブ/癒月ちょこ】",
+                "thumbnail": "https://i.ytimg.com/vi/29Xh_T6jOZY/hqdefault.jpg?v=67fa70d6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBq-dgexV57jFTLTe5_e_rY6kTaGA",
+                "description": "サブ垢→https://www.youtube.com/channel/UCp3tgHXw_HI0QMk1K8qh3g\n\nOP＆ED動画：松賀りお。様@rio_matsuka\nしょこらデザイン＆イラスト：むーらん様@M_uu418\nサムネイラ..."
+            }
+        ]
     },
     "@dooby3d": {
         "channel_url": "https://www.youtube.com/@dooby3d",
@@ -507,7 +514,14 @@
         "channel_url": "https://www.youtube.com/@mikenekoko",
         "channel_name": "みけねこch",
         "avatar_url": "https://yt3.googleusercontent.com/_bT74ettx8Ei9p0zHrSbKdAe1oyaCAbbbXa9teIsxgOtlPl2RADYotJ_kGKwHsNdtWh8D2Hu",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "7Zhzk1nZjTc",
+                "title": "【大炎上中⁉】元祖！猫宮るなちゃんと初コラボ！！！",
+                "thumbnail": "https://i.ytimg.com/vi/7Zhzk1nZjTc/hqdefault.jpg?v=67f93a7a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXmeYMObqk2eNB3O7qlQEtJW4uMg",
+                "description": "2025.3.25 Release ドリーミュージック・メジャーデビューシングル「猫になって／みけねこ。」\nhttps://lnk.to/mikeneko_nekoninatteTD\n\n■今ネットで騒がれてる..."
+            }
+        ]
     },
     "@niminightmare": {
         "channel_url": "https://www.youtube.com/@niminightmare",
