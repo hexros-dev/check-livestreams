@@ -167,13 +167,29 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/VL9aJ1o3yrN_xzHKTX0PvArQjUDHhtWtOtAYWjpzkqoFxR5HHWmWRWNgu6M5l4nSibqLaeKXqA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "6EE7WsMByjA",
+                "title": "【PEJUANG SENIN】#96 HIIIII PJS IS BACK!! HOW R YA?【Kaela's Monday Warrior】",
+                "date": "2025/04/14 07:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/6EE7WsMByjA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb4wXvf_B4ewOnWdwpv3TbVehVTw",
+                "description": "the topics from the Pejuang Senin stream sometimes might be sensitive to be clipped without the context. please have that in mind😇\n∘₊✧──────✧₊∘∘₊✧──────..."
+            }
+        ]
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "kycJJ6RN00Q",
+                "title": "【 BIOHAZARD ０ HD REMASTER  】クリアまで！完全初見！バイオハザード０【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "date": "2025/04/13 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/kycJJ6RN00Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANQCKXFQgeCDdCOQgHLbcTutOCDg",
+                "description": "この動画およびライブは\n株式会社カプコンの利用許諾を受けて配信しています\nバイオハザード0 HDリマスター\n©CAPCOM CO., LTD. ALL RIGHTS RESERVED.\n..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -326,10 +342,10 @@
         "videos": [
             {
                 "video_id": "vG7n0ZnatCU",
-                "title": "よていち！【尾丸ポルカ/ホロライブ】",
+                "title": "低気圧敗北メン限＃3",
                 "date": "2025/04/13 20:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/vG7n0ZnatCU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABd-9OHmtIPHGpUIL4wsEIrWjJgg",
-                "description": "※尾丸ポルカへ頂いたスパチャは、基本的に毎週木曜日19時から「ポルカの伝説」にて、動画の最後に名前を載せさせていただいております！是非..."
+                "description": "サムネイルありがとうございます！\nhttps://x.com/itataboon\n\n※尾丸ポルカへ頂いたスパチャは、基本的に毎週木曜日19時から「ポルカの伝説」にて、動..."
             }
         ]
     },
@@ -338,6 +354,13 @@
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
         "videos": [
+            {
+                "video_id": "6b-ToRif4VY",
+                "title": "【メンバーシップ限定】夜中にちょこっと雑談して寝よう",
+                "date": "2025/04/13 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/6b-ToRif4VY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3L5A2tFC_4cVq9tbHCYL_sJ5rIg",
+                "description": "マイクラできなかった・・\n\nサムネillustrator：しろくまあいすさん　\n✣✣––––––––––––––..."
+            },
             {
                 "video_id": "y3pGqDOpUrk",
                 "title": "【 #朝ミオ 】月曜日だよ～！！！おはみぉーん！",
@@ -375,15 +398,7 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": [
-            {
-                "video_id": "SE83m5jlu_U",
-                "title": "【Unpacking】ゆるゆるお片付けしよ～～～【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "date": "2025/04/13 19:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/SE83m5jlu_U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDW8jm1a0hkmC5ymtgwaahhLFOQ8g",
-                "description": "ちるげーだから睡眠導入にいいかもだけどくしゃみで起こしちゃったらごめんね\n\n本ゲームは権利者に確認を得た上で配信・収益化を行なっており..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
