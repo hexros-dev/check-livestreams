@@ -83,14 +83,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "6lkKhlvEj94",
-                "title": "【初代ポケモン】緊急耐久！9999枚まで旅に出られまてん！ポリゴンGETして、でんせつ＆ポケモンリーグ！！ #6 【博衣こより/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/6lkKhlvEj94/hqdefault.jpg?v=67fb9bfc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFP--lIZiJffLvJhybIkdR2pNNew",
-                "description": "じょチュウ(ピカチュウ)＆酒のつまみシリーズ＆ふしんしゃのだいぼうけん。バッジ8個集まったよ！\n🎂博衣こより誕生日記念グッズ2025発売開始..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -421,7 +414,14 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "vPNPBkmE4TQ",
+                "title": "【ELDEN RING】I'm Harry Potter if he were a staff spinner and cooler (spoilers)!",
+                "thumbnail": "https://i.ytimg.com/vi/vPNPBkmE4TQ/hqdefault.jpg?v=67fbd8ca&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6J5p3wiofmaOGRbgkG5TDfFrFIA",
+                "description": "art used: \nhttps://x.com/cobaph/status/1910331432242762215\n\nhololive English SPRING PARTY!\n▼Official Online Shop▼\nhttps://shop.hololivepro.com/en/products/hololiveen_springparty\n---------------..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
