@@ -158,21 +158,21 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": [
-            {
-                "video_id": "SRs1CEJAFMo",
-                "title": "【 Farming Simulator 25 】農婦ヴィヴィ帰還【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "date": "2025/04/14 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/SRs1CEJAFMo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAEEgqK0suVGvZC3T_wBd2mSPYjgw",
-                "description": "本ゲームは Giants Software に確認の上配信・収益化を行なっております。\n\n #ホロライブファーマーズ #hololiveFarmers \n\nサムネイルの素敵なイラスト..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
         "channel_name": "Kobo Kanaeru Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/-CTSHFyohthgdHnFuQzUKOvtl-xpDUSp5-kkeRN9_PadA8DFtSRKhI-3PxoqILuq8_6TwszNBnk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "dFixf_1aLD4",
+                "title": "【Honor of Kings】Review Skin Penghijauan Dunia",
+                "date": "2025/04/14 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/dFixf_1aLD4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkvTtmMYZkZD9dIFXSTX8H0SU8TA",
+                "description": "==================================\nDONASI LOKAL GUYS! JAJANIN SEBLAK:\nhttps://sociabuzz.com/kobokanaeru/tribe\n==================================\n\nThis video and livestream are being streamed..."
+            }
+        ]
     },
     "@KoganeiNiko": {
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
@@ -227,13 +227,6 @@
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
         "videos": [
-            {
-                "video_id": "DqWQwiPyBiY",
-                "title": "【Euro Truck Simulator 2】免許？🥰ギリギリのドキドキドライブ！🩵【水宮枢／FLOW GLOW】#hololiveDEV_IS",
-                "date": "2025/04/14 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/DqWQwiPyBiY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbptqWh7diqWEx66rlk-WOyyGtHw",
-                "description": "本ゲームは SCS Software に確認を得た上、SCS Software s.r.o. - VIDEO GAME CONTENT SHARING & MONETIZATION LICENCE (http://www.scssoft.com/video_sharing_licence.pdf) に基づいて配信..."
-            },
             {
                 "video_id": "FiSC2pNWxjg",
                 "title": "【未解決事件は終わらせないといけないから】嘘を整理する【水宮枢／FLOW GLOW】#hololiveDEV_IS",
@@ -332,15 +325,7 @@
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC",
-        "videos": [
-            {
-                "video_id": "Yvon_whMYbw",
-                "title": "【 逆再生キング 】【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-                "date": "2025/04/14 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Yvon_whMYbw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFFv1tBr_K7WCcBaoIqf7r5almpw",
-                "description": "▽ 最重要！！歌ってみた10作目公開中！ ▽\n「Beyond the way」 - 音乃瀬奏＆Mori Calliope（cover）\nhttps://youtu.be/bYZOxUX_iso\n\n୨୧♪:*:･･:*:･♪･:*:･･:*:･..."
-            }
-        ]
+        "videos": []
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
@@ -512,7 +497,15 @@
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
         "channel_name": "Choco Ch. 癒月ちょこ",
         "avatar_url": "https://yt3.googleusercontent.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "-KwYm9innak",
+                "title": "【 #ホロライブファーマーズ】悪魔ファーマー農業９日目!!!!!!!!!!!!【ホロライブ/癒月ちょこ】",
+                "date": "2025/04/14 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/-KwYm9innak/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQU7ypexk8rYN2UosnYc2aT8FxZw",
+                "description": "サブ垢→https://www.youtube.com/channel/UCp3tgHXw_HI0QMk1K8qh3g\n\nOP＆ED動画：松賀りお。様@rio_matsuka\nしょこらデザイン＆イラスト：むーらん様@M_uu418\nサムネイラ..."
+            }
+        ]
     },
     "@dooby3d": {
         "channel_url": "https://www.youtube.com/@dooby3d",
@@ -574,7 +567,15 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "92guVRL2e-E",
+                "title": "【Farming Simulator 25】ホロライブサーバー農業生活３日目ぺこ！【ホロライブ/兎田ぺこら】",
+                "date": "2025/04/14 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/92guVRL2e-E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNnIh6e4cbh-pT9d5HQKO7-gOCig",
+                "description": "ｽｩｰ\n\nサムネイラスト：()さん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ #ぺこら..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
