@@ -3,13 +3,27 @@
         "channel_url": "https://www.youtube.com/@AZKi",
         "channel_name": "AZKi Channel",
         "avatar_url": "https://yt3.googleusercontent.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "BU72x16_wdo",
+                "title": "【心霊物件】格安アパートで新生活はじめます！ホラゲー苦手です！【ホロライブ / AZKi】",
+                "thumbnail": "https://i.ytimg.com/vi/BU72x16_wdo/hqdefault.jpg?v=67fcd588&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAT7DD6Db1lSqx98sb8IrQEu2WeNA",
+                "description": "右下で愉悦してるのは誰じゃ…？\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\nサムネイラスト：티비아래underdatv 様\nhttps://x.com/underdatv\n\n┈┈┈┈┈┈┈┈┈..."
+            }
+        ]
     },
     "@AiraniIofifteen": {
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
         "channel_name": "Airani Iofifteen Channel hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "LhYtaYP5PNg",
+                "title": "【Senin Produktif】With Raora!【 iofi / hololiveID 】",
+                "thumbnail": "https://i.ytimg.com/vi/LhYtaYP5PNg/hqdefault.jpg?v=67fc9e5a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCbXdacJ0-Pb39kzenSso52nc5RA",
+                "description": "#ioLyfe #Airani_Iofifteen #hololive #holoID \n\nWith: @holoen_raorapanthera \n\n【Support & Jajanin IOFI】🎨\nIndonesia : https://sociabuzz.com/airaniiofifteen/tribe\nOverseas : https://streamlabs.co..."
+            }
+        ]
     },
     "@AkaiHaato": {
         "channel_url": "https://www.youtube.com/@AkaiHaato",
@@ -294,14 +308,7 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": [
-            {
-                "video_id": "sQAiFDKx8QA",
-                "title": "【ドーナツの穴】目には見えないものって誰が決めたんだろうね【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "thumbnail": "https://i.ytimg.com/vi/sQAiFDKx8QA/hqdefault.jpg?v=67fce7c9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBinTdfRnbOf67Jv7bN2FJfTDXMw",
-                "description": "ドーナツは真ん中に穴あいてるから0カロリー？\n\nドーナツの穴\nhttps://unityroom.com/games/judge_donut_hole\n\nサムネイルイラスト：最牙さま\nhttps://x.com/Neosaiga..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -410,14 +417,7 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": [
-            {
-                "video_id": "rMLVpvO2Pls",
-                "title": "【ポケットモンスタークリスタル】#08 完全初見！ライコウ、エンテイ三犬捕獲計画！！【 雪花ラミィ /ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/rMLVpvO2Pls/hqdefault.jpg?v=67fcaa31&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBAoxKSWzEQvkpCpY44W2ykQhUz4A",
-                "description": "感想は #らみらいぶ で呟いて頂けたら嬉しいです！\n\nサムネイルのイラスト：Kai (カイ)さま\nhttps://x.com/HecklerKai\n\n配信タイトル：ポケットモンスター..."
-            }
-        ]
+        "videos": []
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
@@ -477,7 +477,14 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "B40BTIWFUps",
+                "title": "【マリメ】負ける度に消えていくレート戦で消える前に３勝するぞ！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
+                "thumbnail": "https://i.ytimg.com/vi/B40BTIWFUps/hqdefault.jpg?v=67fcf332&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBuId1126M32meDlXVgNVb9_7mv8g",
+                "description": "古の企画やるぜ！\n\nサムネイラスト：かにかまさん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
