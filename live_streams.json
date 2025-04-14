@@ -39,7 +39,14 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "olnrPlT1SXA",
+                "title": "【M.M.M.】Monday Morning Malas : It's Malas-ing time !【Ayunda Risu】",
+                "thumbnail": "https://i.ytimg.com/vi/olnrPlT1SXA/hqdefault.jpg?v=67fc7214&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5yQqFeiZhr0TWRwVWMIMZclqPAw",
+                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nーーーーーーーーー\nCHECK OUT RISU 5TH ANNIVERSARY MERCH!\nSales start: 10 April 2025, 21:00 WIB/ 23:00 JST\nSales end: 12 May..."
+            }
+        ]
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -228,14 +235,7 @@
         "channel_url": "https://www.youtube.com/@NanashiMumei",
         "channel_name": "Nanashi Mumei Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ufO7pGRu0vUfA2FLPz7yN517i8wOYxAdcxB9nSTKKfiKhjec0ulSmwWmRA00KqVpOTIesgXhMA",
-        "videos": [
-            {
-                "video_id": "1Dkw9BAEqB4",
-                "title": "【MEMBERS ONLY】ASMR !! Scratchy Scratch ... and a lil coughing probably",
-                "thumbnail": "https://i.ytimg.com/vi/1Dkw9BAEqB4/hqdefault.jpg?v=67fc1153&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTRVqzG6yMQ2ZWRDHjZQOYhavl-w",
-                "description": "Stream will become Members Only before starting!\n\nThumbnail: https://x.com/magika_ru/status/1905458641588945064\nNOTE: All superchats will be read off stream to preserve my voice and keep the..."
-            }
-        ]
+        "videos": []
     },
     "@NatsuiroMatsuri": {
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
