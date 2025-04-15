@@ -80,7 +80,15 @@
         "channel_url": "https://www.youtube.com/@GawrGura",
         "channel_name": "Gawr Gura Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/6BCfAqi9yIpZbHLbw9BAWySvB3XZf9r8jFqudO5nSOsHoGzLhlKrm1M1uuMCRabi_pXGDzl7",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "7WFg2wq10rw",
+                "title": "important announcement - gawr gura",
+                "date": "2025/04/16 09:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/7WFg2wq10rw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2paz6kUlSxE54LhalFc5XQb5icw",
+                "description": "💙\n\n\n🐟 twitter: https://twitter.com/gawrgura \n🐟 thumbnail art: https://x.com/ryu04_33"
+            }
+        ]
     },
     "@HakosBaelz": {
         "channel_url": "https://www.youtube.com/@HakosBaelz",
