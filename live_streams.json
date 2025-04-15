@@ -357,14 +357,7 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": [
-            {
-                "video_id": "ipGh2D1-4a8",
-                "title": "【 モンハンワイルズ  】わためぇの重ね着をつくりたい！！！【角巻わため/ホロライブ４期生】",
-                "thumbnail": "https://i.ytimg.com/vi/ipGh2D1-4a8/hqdefault.jpg?v=67fd5af9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCI-KyudYFZoQ69-waVZYyMCeD9AA",
-                "description": "参加型もやるよー！\nタグ：#ドドドライブ \n\n配信タイトル：モンスターハンターワイルズ / Monster Hunter Wilds\nストアページ：https://store.steampowered.com/ap..."
-            }
-        ]
+        "videos": []
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -419,7 +412,14 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "fZz-rUn5DGw",
+                "title": "【HOLLOW KNIGHT】i yearn to bug for a few hours",
+                "thumbnail": "https://i.ytimg.com/vi/fZz-rUn5DGw/hqdefault.jpg?v=67fe16d9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAoXoJryyUlCeYKLHqr8waK5NrI6w",
+                "description": "I HAVE HAACHAMA COLLAB TODAY SO I GOTTA CUT THIS SHORT.\nI ALSO HAVE A JUSTICE COLLAB AFTER THE HAACHAMA COLLAB..............................................\n\nthumbnail: https://x.com/SpiderKaiku/st..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
