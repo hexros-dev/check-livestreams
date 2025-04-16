@@ -29,15 +29,7 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": [
-            {
-                "video_id": "eITwEqMBKjU",
-                "title": "【ツーポイントミュージアム】枠とりなおし￤経営シミュレーション！エイリアン博物館！？👽【アキロゼ/ホロライブ】",
-                "date": "2025/04/17 02:10:00",
-                "thumbnail": "https://i.ytimg.com/vi/eITwEqMBKjU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhR_jokwm3yQj1YaZyCKWxDohUIA",
-                "description": "🎧アキロゼ新曲【異薔薇】聞いてね！\nhttps://cover.lnk.to/5bvecc\n\n配信タグ  #アキびゅーわーるど  \n\nこの動画およびライブは、コンテンツ利用許諾契約..."
-            }
-        ]
+        "videos": []
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -164,7 +156,15 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "q612di3kIHo",
+                "title": "【睡眠導入 朗読配信】『銀河鉄道の夜』/宮沢賢治🌌🌟【ホロライブ DEV_IS 響咲リオナ】",
+                "date": "2025/04/17 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/q612di3kIHo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwPtYMjRuDQorivqEzlcLMKR-1sg",
+                "description": "初めての朗読配信です。\n初回に選ばせていただいた作品は宮沢賢治さんの『銀河鉄道の夜』です。\nあなたの日常にそっと寄り添う時間になります..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
