@@ -189,7 +189,14 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Ok5S744WN1Y",
+                "title": "【Doom 2016】...until it is DONE. #calliolive",
+                "thumbnail": "https://i.ytimg.com/vi/Ok5S744WN1Y/hqdefault.jpg?v=67fe4921&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAb7Z2xf78xGTJDX23XQvDmErGWhw",
+                "description": "💀💀 BIRTHDAY MERCHANDISE 💀💀\nーーーーーーーーーーーーーーーー\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/moricalliope_bd2025\nEN:..."
+            }
+        ]
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
