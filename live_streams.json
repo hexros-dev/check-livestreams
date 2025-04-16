@@ -9,7 +9,14 @@
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
         "channel_name": "Airani Iofifteen Channel hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "mmvpFCxcA8E",
+                "title": "【Honor of Kings】ROLE GACHA!【 iofi / hololiveID 】",
+                "thumbnail": "https://i.ytimg.com/vi/mmvpFCxcA8E/hqdefault.jpg?v=67ff359c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4ZAv1N1cAQZCMBRrjXWzBzeorvA",
+                "description": "#ioLyfe #Airani_Iofifteen #hololive #holoID #HonorofKings #HonorofKingsIndonesia #CobaAjaDulu #MOBAFOREVERYONE\n\nThis video and livestream are being streamed and monetized with permission and..."
+            }
+        ]
     },
     "@AkaiHaato": {
         "channel_url": "https://www.youtube.com/@AkaiHaato",
@@ -189,14 +196,7 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": [
-            {
-                "video_id": "Ok5S744WN1Y",
-                "title": "【Doom 2016】...until it is DONE. #calliolive",
-                "thumbnail": "https://i.ytimg.com/vi/Ok5S744WN1Y/hqdefault.jpg?v=67fe4921&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAb7Z2xf78xGTJDX23XQvDmErGWhw",
-                "description": "💀💀 BIRTHDAY MERCHANDISE 💀💀\nーーーーーーーーーーーーーーーー\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/moricalliope_bd2025\nEN:..."
-            }
-        ]
+        "videos": []
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -400,7 +400,14 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "55SATGeEseg",
+                "title": "【R.E.P.O.】JUSTICE JUST LIKE THAT! hi there",
+                "thumbnail": "https://i.ytimg.com/vi/55SATGeEseg/hqdefault.jpg?v=67fef06c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3f5-KV8aCRMnZ1eTkOS84w57jDQ",
+                "description": "i have no idea how to play this game\nwith: @holoen_erbloodflame @holoen_raorapanthera @holoen_gigimurin \n\nart used: https://x.com/gvmechoco/status/1912143845875212684\n\nhololive English SPRING..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
@@ -412,13 +419,27 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "FKXP7eP9SI0",
+                "title": "【R.E.P.O】late night spooky gaming for JUSTICE!!!",
+                "thumbnail": "https://i.ytimg.com/vi/FKXP7eP9SI0/hqdefault.jpg?v=67fe196c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCw5BEkwreAP9wkXKp2fFaUQ5nGzw",
+                "description": "sry if im eepy im usually braindead during this hour\n\nwith @holoen_ceciliaimmergreen @holoen_erbloodflame @holoen_raorapanthera \n\nthumbnail: https://x.com/gvmechoco/status/1911041479708942640..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "JcAEZ37zsa8",
+                "title": "【R.E.P.O.】JUSTICE WILL TAKE YOUR MONEY!!!!💸💸💸 #holojustice",
+                "thumbnail": "https://i.ytimg.com/vi/JcAEZ37zsa8/hqdefault.jpg?v=67fea593&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsLoxfddEoyJL4GsM2De8u3FrInw",
+                "description": "X formely Twitter 』\nhttps://x.com/raorapanthera\n\n『 Hashtags 』\n╰┈➤ Live  #CiaoRaora\n╰┈➤ Fanarts  #RaorArt\n╰┈➤ Clips  #RaraWara\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
+            }
+        ]
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
