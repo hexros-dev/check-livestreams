@@ -58,13 +58,6 @@
                 "date": "2025/04/17 07:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/3FVGWsQtn10/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwOyH9TxWNHvhwGCoQS15nMpDrJQ",
                 "description": "will our previous training pay off...? ✨️\nlovely illustration by @yuri_kyanon 💕\nNintendo properties used in this video and livestream are used with permission and under license by Nintendo..."
-            },
-            {
-                "video_id": "uEvwiMKgiT0",
-                "title": "【FUWAMOCO MORNING】episode 148 🐾 #FWMCMORNING",
-                "date": "2025/04/16 22:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/uEvwiMKgiT0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOjCLCPAt9r-ZqmpLVGINJ3mmlSw",
-                "description": "is fuwawa in trouble ✨\nlovely illustration by @usa_mirinn 💕\njingle by @Sarina_A_Elysia ♪\n\n✨️🩵🩷 Go watch our 𝗙𝗨𝗪𝗔𝗠𝗢𝗖𝗢 𝟯𝗗 𝗕𝗜𝗥𝗧𝗛𝗗𝗔..."
             }
         ]
     },
@@ -92,7 +85,15 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "KLACqkGZG8s",
+                "title": "【対談コラボ】#ディスコードショッキング ～今月のゲスト：英リサ様～【博衣こより/ホロライブ】",
+                "date": "2025/04/17 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/KLACqkGZG8s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgLADt1ywvFv6iAsuWOqZumQwppw",
+                "description": "#ディスコードショッキング でポスト❣ ゲストの紹介でゲストを繋いでいく企画を月イチで開催中！(ゲストはホロライブ外の女性で繋いでいく予..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -273,7 +274,7 @@
         "videos": [
             {
                 "video_id": "MrzXY7e00a0",
-                "title": "【スーパーマリオパーティジャンボリー】#マシぺこ でマリパする！👑【ホロライブ/紫咲シオン】",
+                "title": "【スーパーマリオパーティジャンボリー】#マシぺこ (塩田マリ子) でマリパする！👑【ホロライブ/紫咲シオン】",
                 "date": "2025/04/17 19:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/MrzXY7e00a0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgLhuuTd8K3SYLNUKLF6kW8lka5A",
                 "description": "新作のマリパやりたくてマシぺこに声かけた！！\n遊んでくれてうれしい！！\n\n🌟メンバー🌟\n@usadapekora \n@HoushouMarine \n@InugamiKorone \n\n🌙紫咲シオン卒..."
