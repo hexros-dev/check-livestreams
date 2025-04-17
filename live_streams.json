@@ -197,14 +197,7 @@
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
         "channel_name": "Moona Hoshinova hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/9e7J_lAxCEZO6IRC_Sl3Gj-bt9uPvSXolU_vBpmqWABzv99oHxzbYhWWgvRI_c2qmB4jH0p_ZA",
-        "videos": [
-            {
-                "video_id": "6kdTc887rNE",
-                "title": "【Coral Island】just chilling at day on coral island【Moona Hoshinova】",
-                "thumbnail": "https://i.ytimg.com/vi/6kdTc887rNE/hqdefault.jpg?v=68007588&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCP-mZFxkU6qIRvEV41pc4GPDuk-A",
-                "description": "Last day to preorder the PANDORA Physical album!!\nhttps://shop.hololivepro.com/products/moonahoshinova_1stal_pandora\n\nStreamlabs donation link here : https://streamlabs.com/moonahoshinovahololive-i..."
-            }
-        ]
+        "videos": []
     },
     "@MoriCalliope": {
         "channel_url": "https://www.youtube.com/@MoriCalliope",
@@ -294,7 +287,14 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Q3Z2YqB69Hg",
+                "title": "【Unpacking】片付けは人生だ【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "thumbnail": "https://i.ytimg.com/vi/Q3Z2YqB69Hg/hqdefault.jpg?v=6800d54b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSdw1HAAcL15mxKZOPJcUyfT_JVQ",
+                "description": "ナンシーになにがあったんだ？\n\n本ゲームは権利者に確認を得た上で配信・収益化を行なっております。\n\nサムネイルイラスト：コノさま\nhttps://x.co..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
