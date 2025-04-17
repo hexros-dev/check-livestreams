@@ -51,7 +51,14 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "3FVGWsQtn10",
+                "title": "【DONKEY KONG COUNTRY 2】 haunted hall minecart mayhem 🍌【FUWAMOCO｜スーパードンキーコング2】",
+                "thumbnail": "https://i.ytimg.com/vi/3FVGWsQtn10/hqdefault.jpg?v=67fba62f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwOyH9TxWNHvhwGCoQS15nMpDrJQ",
+                "description": "will our previous training pay off...? ✨️\nlovely illustration by @yuri_kyanon 💕\nNintendo properties used in this video and livestream are used with permission and under license by Nintendo..."
+            }
+        ]
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -231,14 +238,7 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": [
-            {
-                "video_id": "1DsFfOr4LnI",
-                "title": "【Promise Mascot Agency】 I Will Become the Next Yagoo (I Think) 【#1】",
-                "thumbnail": "https://i.ytimg.com/vi/1DsFfOr4LnI/hqdefault.jpg?v=67fe843b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjzVnUCgSh73HgnKEP2WcE6u67qg",
-                "description": "【Thumbnail Art】\n\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\nThis game is being streamed and monetized after confirming with Squeaky Wheel and aliasBLACK.\n________________________________..."
-            }
-        ]
+        "videos": []
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -419,14 +419,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "vWGFxfD--Ts",
-                "title": "【THE CHEF'S SHIFT】THE FINALE(?) TO OUR SOAP OPERA",
-                "thumbnail": "https://i.ytimg.com/vi/vWGFxfD--Ts/hqdefault.jpg?v=67fe1af5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANv23A9UDw3d_ltIPwxLzXqc5JmQ",
-                "description": "got 3 hrs to beat this i got this\n\nthumbnail: https://x.com/Neidrcj/status/1911403901342937101\n\nGame title: The Chef's Shift\nStore page : https://store.steampowered.com/app/2390230/The_Chefs_Shift/..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
