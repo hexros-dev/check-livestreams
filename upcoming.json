@@ -79,15 +79,7 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": [
-            {
-                "video_id": "Osq_NSB3Fio",
-                "title": "≪SNOW BROS. 2 SPECIAL≫ SNOW BALLIN w/ @IRyS",
-                "date": "2025/04/17 10:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Osq_NSB3Fio/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwY71J4nlJqLFjVCdJGmIp3rpEqw",
-                "description": "Thank you Gravity Co., Ltd. for sponsoring this stream!\n\nSnow Bros. 2 Special is a remake of ‘Snow Bros. 2’ with improved and modernized graphics.\n\nGame Features\n- Two styles: the original..."
-            }
-        ]
+        "videos": []
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -145,7 +137,15 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "558IIXxYfcc",
+                "title": "【#ぬいぬい超超RTA】ニコニコ超会議開催直前PR配信！【一条莉々華 with カエラ・コヴァルスキア /hololive DEV_IS　ReGLOSS】",
+                "date": "2025/04/17 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/558IIXxYfcc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFnotnwK1TdWX7SMqXs-CYbQuB0A",
+                "description": "@KaelaKovalskia Senpaiと一緒に✨\n＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿\n💻holoIndie公式HP\nhttps://ccmc-corp.com/ \n\n📱holoIndie公式X\nhttps://x.co..."
+            }
+        ]
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -208,13 +208,6 @@
                 "date": "2025/04/18 08:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/NkAX2TkhcbA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBW8qQyrv1YQQlQrkFQE5FVFUczag",
                 "description": "FEATURING MANY MANY GUESTS!!\n\nSPECIAL THANKS TO MY AMAZING TEAM:\n@longlivereya\n@VanillaCherie\n@heywowart\n@pinocolodoo\n@hdyjeon\n\n====================\n✧Twitter: https://twitter.com/kosekibijou..."
-            },
-            {
-                "video_id": "inMIA4x-qYk",
-                "title": "【HITMAN WORLD OF ASSASSINATION】I got a job for you Agent 4'7...",
-                "date": "2025/04/17 10:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/inMIA4x-qYk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBW2DanEPsUafkDRHjILakBntF_lA",
-                "description": "Thumbnail Art by:@Gigfor1  THANK YOU!\nhttps://x.com/Gigfor1/status/1907460494707011729\n\n\n====================\n✧Twitter: https://twitter.com/kosekibijou\n\n✧Hashtags: \n#biboo  \nAdvent: #holoAdvent..."
             }
         ]
     },
@@ -438,13 +431,29 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "k10zPf21VPc",
+                "title": "#08【モンハンワイルズ】久々モンハン！上位クエストクリア目指して！脳筋ハンマーはアプデの世界も見たい👀💡【白銀ノエル/ホロライブ】",
+                "date": "2025/04/17 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/k10zPf21VPc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9CfwyyP31yUs_6k2Yao48Lignjg",
+                "description": "期間限定クエストをしつつ！！あわよくばアプデも感じたい！\n\nこの動画およびライブは株式会社カプコンの利用許諾を受けて配信しています..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "LjhmyMU2-pQ",
+                "title": "【HITMAN 2】エージェント446の華麗なるスローライフ －HITMAN World of Assassination【獅白ぼたん/ホロライブ】",
+                "date": "2025/04/17 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/LjhmyMU2-pQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBk5y_B8pdGpDn34_uTGJQYrACb4w",
+                "description": "今回はアメリカへ！余裕があればスゴール島も\n\n配信ハッシュタグ：#ぐうたらいぶ\nサムネイルのイラスト：チカミ\nhttps://x.com/chikamisironeko/status/14580..."
+            }
+        ]
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
