@@ -51,14 +51,7 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": [
-            {
-                "video_id": "3FVGWsQtn10",
-                "title": "【DONKEY KONG COUNTRY 2】 haunted hall minecart mayhem 🍌【FUWAMOCO｜スーパードンキーコング2】",
-                "thumbnail": "https://i.ytimg.com/vi/3FVGWsQtn10/hqdefault.jpg?v=67fba62f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwOyH9TxWNHvhwGCoQS15nMpDrJQ",
-                "description": "will our previous training pay off...? ✨️\nlovely illustration by @yuri_kyanon 💕\nNintendo properties used in this video and livestream are used with permission and under license by Nintendo..."
-            }
-        ]
+        "videos": []
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -70,14 +63,7 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": [
-            {
-                "video_id": "Osq_NSB3Fio",
-                "title": "≪SNOW BROS. 2 SPECIAL≫ SNOW BALLIN w/ @IRyS",
-                "thumbnail": "https://i.ytimg.com/vi/Osq_NSB3Fio/hqdefault.jpg?v=67fdfbd8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwY71J4nlJqLFjVCdJGmIp3rpEqw",
-                "description": "Thank you Gravity Co., Ltd. for sponsoring this stream!\n\nSnow Bros. 2 Special is a remake of ‘Snow Bros. 2’ with improved and modernized graphics.\n\nGame Features\n- Two styles: the original..."
-            }
-        ]
+        "videos": []
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -204,7 +190,14 @@
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
         "channel_name": "Moona Hoshinova hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/9e7J_lAxCEZO6IRC_Sl3Gj-bt9uPvSXolU_vBpmqWABzv99oHxzbYhWWgvRI_c2qmB4jH0p_ZA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "6kdTc887rNE",
+                "title": "【Coral Island】just chilling at day on coral island【Moona Hoshinova】",
+                "thumbnail": "https://i.ytimg.com/vi/6kdTc887rNE/hqdefault.jpg?v=68007588&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCP-mZFxkU6qIRvEV41pc4GPDuk-A",
+                "description": "Last day to preorder the PANDORA Physical album!!\nhttps://shop.hololivepro.com/products/moonahoshinova_1stal_pandora\n\nStreamlabs donation link here : https://streamlabs.com/moonahoshinovahololive-i..."
+            }
+        ]
     },
     "@MoriCalliope": {
         "channel_url": "https://www.youtube.com/@MoriCalliope",
