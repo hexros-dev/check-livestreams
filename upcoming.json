@@ -59,7 +59,15 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "_6w5RilptZM",
+                "title": "【FUWAMOCO MORNING】episode 150 🐾 #FWMCMORNING",
+                "date": "2025/04/28 22:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/_6w5RilptZM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCmKilhFBZwoxmnbnbqVN2QC5o7Q",
+                "description": "we never thought that we would get here... episode 150!! ✨\nlovely illustration by @MauveSR 💕\njingle by @Sarina_A_Elysia ♪\n\n✨️🩵🩷 Go watch our 𝗙𝗨𝗪𝗔𝗠𝗢𝗖𝗢..."
+            }
+        ]
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -349,7 +357,22 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "5Gf_OXuNwfE",
+                "title": "【#10】龍が如く７やるしゅばあああああああああああああああああああああああああああああああ！！！！！：yakuza7【※ネタバレあり】",
+                "date": "2025/04/19 11:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/5Gf_OXuNwfE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzA1RhUnQC1cX5HZNdDuc8_MHhpg",
+                "description": "この動画およびライブは、コンテンツ利用許諾契約に基づいて配信しています。\n©SEGA\n\n🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメン..."
+            },
+            {
+                "video_id": "e1aWk2tuIMI",
+                "title": "【#生スバル】おはすば！！！！！ / OHASHUBA！！！FREE TALK【ホロライブ/大空スバル】",
+                "date": "2025/04/19 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/e1aWk2tuIMI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCeLCmeh-FOf1CAduqDFXwL-v6YxQ",
+                "description": "★イラスト…https://x.com/genkina_dog777/status/1912805695101288792\n★サムネ…ｳﾕﾁｬﾝ.com： https://x.com/uyucomxx\n🐣おやくそく/Rule🐣\n・待機所でお喋りしない..."
+            }
+        ]
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -389,7 +412,15 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "XIrigUIZRXM",
+                "title": "【F1® 24】F1やるぞ～～～～～～～～～～～～～～～！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "date": "2025/04/19 13:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/XIrigUIZRXM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-hAoDjzLFuQWe6bLKl7KySuU-bA",
+                "description": "サウジのコースはしりたーーーい！！\n\n配信タイトル：F1® 24\nストアページ：https://store.steampowered.com/app/2488620/F1_24/\n\nサムネイルイラスト：きみさま..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -529,15 +560,7 @@
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
         "channel_name": "Choco Ch. 癒月ちょこ",
         "avatar_url": "https://yt3.googleusercontent.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g",
-        "videos": [
-            {
-                "video_id": "YiTMocHWl-0",
-                "title": "【 #ホロライブファーマーズ】悪魔ファーマー農業11日目!!!!!!!!!!!!【ホロライブ/癒月ちょこ】",
-                "date": "2025/04/18 22:39:00",
-                "thumbnail": "https://i.ytimg.com/vi/YiTMocHWl-0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWRR4at8PQF94QJYsjwQdwYY2nTw",
-                "description": "サブ垢→https://www.youtube.com/channel/UCp3tgHXw_HI0QMk1K8qh3g\n\nOP＆ED動画：松賀りお。様@rio_matsuka\nしょこらデザイン＆イラスト：むーらん様@M_uu418\nサムネイラ..."
-            }
-        ]
+        "videos": []
     },
     "@dooby3d": {
         "channel_url": "https://www.youtube.com/@dooby3d",
