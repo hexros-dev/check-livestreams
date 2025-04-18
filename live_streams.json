@@ -153,7 +153,14 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "NkAX2TkhcbA",
+                "title": "KOSEKI BIJOU VS. THE WORLD #BIBIRTHDAY2025",
+                "thumbnail": "https://i.ytimg.com/vi/NkAX2TkhcbA/hqdefault.jpg?v=6800672b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBW8qQyrv1YQQlQrkFQE5FVFUczag",
+                "description": "Get your own talking Biboo Plushie!\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/kosekibijou_birthday_2025\nEN: https://shop.hololivepro.com/en/products/kosekibijou..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -429,14 +436,7 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": [
-            {
-                "video_id": "-Xbo_P9R3fI",
-                "title": "【ELDEN RING】 My hat is bigger than yours | #11",
-                "thumbnail": "https://i.ytimg.com/vi/-Xbo_P9R3fI/hqdefault.jpg?v=6801707b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8dh_0TbEtQKKXJ-uQAyFAS1FHsw",
-                "description": "I thought about playing something else but it's just elden ring...\n\n☁  Thumbnail Art  ☁\nhttps://x.com/odech44/status/1912920492333514918\nThank you so much!!\n\n  ‧₊ ˚  ⊹ ࣭ ⭑ ...."
-            }
-        ]
+        "videos": []
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
