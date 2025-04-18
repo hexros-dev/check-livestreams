@@ -55,15 +55,7 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": [
-            {
-                "video_id": "XJxarw5jY4c",
-                "title": "【Two Point Museum】I AM OPENING A NEW MUSEUM !【Ayunda Risu】",
-                "date": "2025/04/18 15:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/XJxarw5jY4c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUHhDxh36HqGpzeN_Vkq-LsbhpvQ",
-                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nThis game is being streamed and monetized with permission and under license.\nGame title： 『ツーポイントミュージアム』..."
-            }
-        ]
+        "videos": []
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -426,7 +418,15 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "2JXUlBm0unc",
+                "title": "【creature creator】バケモンにはバケモンぶつける【#水宮枢#虎金妃笑虎#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "date": "2025/04/18 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/2JXUlBm0unc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPuajxqh6iM4tfA2pDW4BrwgymFQ",
+                "description": "自称でかいばけもんと自称虎のばけもん​\n@MizumiyaSu @KoganeiNiko \n\ncreature creator\nhttps://store.steampowered.com/app/1990050/Creature_Creator/\n\nサムネイルイラスト：み..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -582,7 +582,22 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "5tMkf-SJFpE",
+                "title": "【メンバー限定】のんびり晩酌しつつのメン限雑談【 雪花ラミィ /ホロライブ】",
+                "date": "2025/04/18 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/5tMkf-SJFpE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWjrVoW2HRE8UcrjxT-VM4R2q04A",
+                "description": "※22時になったらメンバー限定配信に切り替わります\n　At22:00 p.m., the distribution will switch to members-only distribution.\n　メン限で話した内容は内緒でお願..."
+            },
+            {
+                "video_id": "oDUN27KdkxY",
+                "title": "【ポケットモンスタークリスタル】#09 完全初見！ルギア、ホウオウGETするぞ！！【 雪花ラミィ /ホロライブ】",
+                "date": "2025/04/19 13:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/oDUN27KdkxY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDrvQrx9lrP2VqSVlR3MghV-uc-3g",
+                "description": "感想は #らみらいぶ で呟いて頂けたら嬉しいです！\n\nサムネイルのイラスト：なまかつさま\nhttps://x.com/namakatsuillust\n\n配信タイトル：ポケットモンス..."
+            }
+        ]
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
