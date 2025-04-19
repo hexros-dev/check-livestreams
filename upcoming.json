@@ -300,7 +300,15 @@
         "channel_url": "https://www.youtube.com/@NanashiMumei",
         "channel_name": "Nanashi Mumei Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ufO7pGRu0vUfA2FLPz7yN517i8wOYxAdcxB9nSTKKfiKhjec0ulSmwWmRA00KqVpOTIesgXhMA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "WSM66DoRFV0",
+                "title": "【SAD GIRL HOURS】Emo Times with @NerissaRavencroft ​",
+                "date": "2025/04/20 06:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/WSM66DoRFV0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwB4UN1n-b0U-tdu07Cn6o4gaFXA",
+                "description": ":D\n\nThumbnail: https://x.com/DasDokter/status/1707582869353513311\n\n≫ ──── ≪•◦ ❈ ◦•≫ ──── ≪\n\nTWITTER\nhttps://twitter.com/nanashimumei_en\n@nanashimumei_en\n\n≫..."
+            }
+        ]
     },
     "@NatsuiroMatsuri": {
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
@@ -533,15 +541,7 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": [
-            {
-                "video_id": "WHjcKRF4R_U",
-                "title": "【UNARCHIVED KARAOKE】SATURDAY SINGING with you!!",
-                "date": "2025/04/20 02:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/WHjcKRF4R_U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgAmX_lljYD6K6r-QLTHatzjnu5w",
-                "description": "art used: https://x.com/Fineria_/status/1899458307695452193\nhttps://x.com/TheAndyBowShow/status/1807348812379205956\n\nhololive English SPRING PARTY!\n▼Official Online Shop▼\nhttps://shop.hololivep..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
