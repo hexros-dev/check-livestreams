@@ -202,14 +202,7 @@
         "channel_url": "https://www.youtube.com/@MurasakiShion",
         "channel_name": "Shion Ch. 紫咲シオン",
         "avatar_url": "https://yt3.googleusercontent.com/K91NQLuy_JMQ65n-Opf0Q2FZBO3yOURnMRusO7o5DTjaJ1QVtP-ANN4lehK57X4KXpcI2MiRig",
-        "videos": [
-            {
-                "video_id": "NyQA-oXdwS4",
-                "title": "【#holoRUST】ガチ初見RUST！！ホロ鯖冒険します！！2【ホロライブ/紫咲シオン】",
-                "thumbnail": "https://i.ytimg.com/vi/NyQA-oXdwS4/hqdefault.jpg?v=68039960&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-VX6-R4VvNkvo0e_WydKzpfiHXQ",
-                "description": "🌙紫咲シオン卒業グッズ販売開始🌙\n\nフルセット購入特典は数量限定直筆サインポストカードです！できる限り多くの人に届けられるように沢山..."
-            }
-        ]
+        "videos": []
     },
     "@NakiriAyame": {
         "channel_url": "https://www.youtube.com/@NakiriAyame",
@@ -426,7 +419,14 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "wlnI543rx94",
+                "title": "【TWILIGHT MONK】Embarking on a beautiful hand-drawn journey together!! #ad",
+                "thumbnail": "https://i.ytimg.com/vi/wlnI543rx94/hqdefault.jpg?v=68032c94&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBEguCEzYDAvasEKj5qBErx7n4xcA",
+                "description": "'TWILIGHT MONK' IS AVAILABLE NOW ON PC AND SWITCH!\nExplore Intricate Metroidvania Dungeons Across a Vast Multiple Continent Overworld\n\nFeatures:\n- Intricate metroidvanian dungeons full of hidden..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
@@ -450,7 +450,14 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "HA2ESdHjLJY",
+                "title": "【RimWorld】 Nimi... The colony is burning... Nimi...",
+                "thumbnail": "https://i.ytimg.com/vi/HA2ESdHjLJY/hqdefault.jpg?v=680418e0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAx1Or9MV737OtbyH_9fBVxPPaT8w",
+                "description": "First time RimWorld!!\n\n  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋\n\nKonbakuwa! I'm Nimi, the baku nurse VTuber of your nightmares~\n#VTuber #nimi\n\n☁  Socials  ☁\nhttps://x.com/niminightmare..."
+            }
+        ]
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
