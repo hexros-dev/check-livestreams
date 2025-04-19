@@ -43,15 +43,7 @@
         "channel_url": "https://www.youtube.com/@AmaneKanata",
         "channel_name": "Kanata Ch. Kanata Amane",
         "avatar_url": "https://yt3.googleusercontent.com/oPU9ckNcyeHD0FFsYSxkoD1mtbslSwdmMSfoCYQWphOu5e7UeCnIF-Nt0hvvF41L5Nykga07nQ",
-        "videos": [
-            {
-                "video_id": "QHwH-w5aj0Y",
-                "title": "【ELDEN RING DLC】#10 ラウフの古遺跡→絶対にギザ山に行く！！！初見エルデンリング！！！【天音かなた/ホロライブ】",
-                "date": "2025/04/19 12:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/QHwH-w5aj0Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2jCDbTY7jz2kP4zJGnAPVd_5jOQ",
-                "description": "ギザ山に行く（確定）\n\n前　DLC #09　https://youtube.com/live/luqKimCMCBM\n後　DLC #11　\n\n💍ELDEN RING / 再生リスト\nhttps://www.youtube.com/playlist?list=PLNvxSJodVoAs9O9qkeoOWR..."
-            }
-        ]
+        "videos": []
     },
     "@AnyaMelfissa": {
         "channel_url": "https://www.youtube.com/@AnyaMelfissa",
@@ -607,7 +599,15 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "wlnI543rx94",
+                "title": "【TWILIGHT MONK】Embarking on a beautiful hand-drawn journey together!! #ad",
+                "date": "2025/04/20 05:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/wlnI543rx94/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBEguCEzYDAvasEKj5qBErx7n4xcA",
+                "description": "'TWILIGHT MONK' IS AVAILABLE NOW ON PC AND SWITCH!\nExplore Intricate Metroidvania Dungeons Across a Vast Multiple Continent Overworld\n\nFeatures:\n- Intricate metroidvanian dungeons full of hidden..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
