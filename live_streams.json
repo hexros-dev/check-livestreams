@@ -22,14 +22,7 @@
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
         "avatar_url": "https://yt3.googleusercontent.com/Ob0LQV8-i9FXY_GX4AEnsWsxvYUojcYtjZjtLsmjQRtPoYMZN5qWAe9hRhy7sMa19PlF61BG",
-        "videos": [
-            {
-                "video_id": "v7cNnZ66XzU",
-                "title": "【 #holoRUST 】冒険するっちゃまああああ～～～！！！！！🔥🐎【ホロライブ/赤井はあと】",
-                "thumbnail": "https://i.ytimg.com/vi/v7cNnZ66XzU/hqdefault.jpg?v=680368a4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUNCZ-Y8Ar3zDsKFN4k50z6SlfZw",
-                "description": "✅放送ハッシュタグ\n#holoRUST\n\n🎨 ファンアート\n#holoRUSTFA\n\n🎬 切り抜き\n#holoRUST切り抜き\n\nサムネイルイラスト：宮城あやほ先輩\nhttps://www.pixiv.net/artwor..."
-            }
-        ]
+        "videos": []
     },
     "@AkiRosenthal": {
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
@@ -388,14 +381,7 @@
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC",
-        "videos": [
-            {
-                "video_id": "3sqIsbVe_Bg",
-                "title": "【 誕生日カウントダウン 】もう明日が生誕ライブ？！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-                "thumbnail": "https://i.ytimg.com/vi/3sqIsbVe_Bg/hqdefault.jpg?v=680351fa&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAEOnqlYsRLio-D0_BoGOPvTVVlQg",
-                "description": "▽ 最重要！！歌ってみた10作目公開中！ ▽\n「Beyond the way」 - 音乃瀬奏＆Mori Calliope（cover）\nhttps://youtu.be/bYZOxUX_iso\n\n୨୧♪:*:･･:*:･♪･:*:･･:*:･..."
-            }
-        ]
+        "videos": []
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
@@ -481,7 +467,14 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "kngDJQgSxoc",
+                "title": "【YAKUZA IN HAWAII】MUST RESIST MINIGAMES.......barrel addiction... #kfp #キアライブ",
+                "thumbnail": "https://i.ytimg.com/vi/kngDJQgSxoc/hqdefault.jpg?v=6802fd35&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzmVnI6uD5JMNkK9kQPyYXwJXGGQ",
+                "description": "playing Like a Dragon: Pirate Yakuza in Hawaii\n\nstream my new song, MIRAGE!✨https://cover.lnk.to/DQSp3S\n👀 Takanashi Kiara 1st Album \"Point of View\" 👀\nStreaming: https://cover.lnk.to/Pointof..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
