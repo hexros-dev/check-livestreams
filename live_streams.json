@@ -159,7 +159,14 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Lxu3ryvArPA",
+                "title": "【 #holoRUST 】電気科卒Vtuber ！初めてのRUSTで回路組めるかな？？【ホロライブ DEV_IS 響咲リオナ】",
+                "thumbnail": "https://i.ytimg.com/vi/Lxu3ryvArPA/hqdefault.jpg?v=6803a99d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5sIJnPRsKxwdMtL4ZE0vXuu968w",
+                "description": "論理回路…そういや昔やったな…\nRUSTを通して、あの頃の記憶を呼び覚ます！！\n\n 一般ハッシュタグ\n#holoRUST\n\n ファンアート\n#holoRUSTFA\n\n 切り抜き..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -210,14 +217,7 @@
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
         "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/ACubs_Mw4YtmgHDIIZvW_gZaPf_VR1wg9yffFLsq4Lrw-W7Md-0pK4Gob8OJebCYCmgrArsE",
-        "videos": [
-            {
-                "video_id": "Rz4XltKC8RY",
-                "title": "【Shadow Corridor 】ニコ影廊を頑張るからァッッ！ルイ先輩無言になんないでェッ！！【虎金妃笑虎/見守り人 鷹嶺ルイ @TakaneLui⁩  】#鷹偽タイガー",
-                "thumbnail": "https://i.ytimg.com/vi/Rz4XltKC8RY/hqdefault.jpg?v=68024d07&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVL3vvgSOT_34T6KELqKKbLRJOZQ",
-                "description": "本ゲームは ©城間一樹/Regista の承諾を得た上で配信・収益化を行なっております\n\nサムネイルのイラストはあだちくんさん✨\nhttps://x.com/jienju/status/1..."
-            }
-        ]
+        "videos": []
     },
     "@KosekiBijou": {
         "channel_url": "https://www.youtube.com/@KosekiBijou",
