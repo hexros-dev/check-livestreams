@@ -228,20 +228,20 @@
         "channel_url": "https://www.youtube.com/@NanashiMumei",
         "channel_name": "Nanashi Mumei Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ufO7pGRu0vUfA2FLPz7yN517i8wOYxAdcxB9nSTKKfiKhjec0ulSmwWmRA00KqVpOTIesgXhMA",
-        "videos": [
-            {
-                "video_id": "fEO6kSCseE0",
-                "title": "【MUMEI + LUI】Q&A With Bird Sisters !!! @TakaneLui",
-                "thumbnail": "https://i.ytimg.com/vi/fEO6kSCseE0/hqdefault.jpg?v=6802be6c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZRlnD-IEksS9c8EPOprYtRfIC9g",
-                "description": ":D\n\nThumbnail: https://x.com/La_Lune_000/status/1782762439991255044\n\n≫ ──── ≪•◦ ❈ ◦•≫ ──── ≪\n\nTWITTER\nhttps://twitter.com/nanashimumei_en\n@nanashimumei_en..."
-            }
-        ]
+        "videos": []
     },
     "@NatsuiroMatsuri": {
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ruvVoj0908s",
+                "title": "【 Minecraft 】ネザライト枯渇！大量にとるぞ！！【ホロライブ/夏色まつり】",
+                "thumbnail": "https://i.ytimg.com/vi/ruvVoj0908s/hqdefault.jpg?v=680242ef&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjBRFYjBZ-LrHZYht4AN541oCzrA",
+                "description": "...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\n\nオリジナル曲『ラヴレター』配信スタート！\n🏮楽曲配信\nhttps://cover.lnk.t..."
+            }
+        ]
     },
     "@NekomataOkayu": {
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
@@ -277,7 +277,14 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "5Gf_OXuNwfE",
+                "title": "【#10】龍が如く７やるしゅばあああああああああああああああああああああああああああああああ！！！！！：yakuza7【※ネタバレあり】",
+                "thumbnail": "https://i.ytimg.com/vi/5Gf_OXuNwfE/hqdefault.jpg?v=68027494&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzA1RhUnQC1cX5HZNdDuc8_MHhpg",
+                "description": "この動画およびライブは、コンテンツ利用許諾契約に基づいて配信しています。\n©SEGA\n\n🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメン..."
+            }
+        ]
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
