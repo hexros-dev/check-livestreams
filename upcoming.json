@@ -308,15 +308,7 @@
         "channel_url": "https://www.youtube.com/@NanashiMumei",
         "channel_name": "Nanashi Mumei Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ufO7pGRu0vUfA2FLPz7yN517i8wOYxAdcxB9nSTKKfiKhjec0ulSmwWmRA00KqVpOTIesgXhMA",
-        "videos": [
-            {
-                "video_id": "WSM66DoRFV0",
-                "title": "【SAD GIRL HOURS】Emo Times with @NerissaRavencroft ​",
-                "date": "2025/04/20 06:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/WSM66DoRFV0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwB4UN1n-b0U-tdu07Cn6o4gaFXA",
-                "description": ":D\n\nThumbnail: https://x.com/DasDokter/status/1707582869353513311\n\n≫ ──── ≪•◦ ❈ ◦•≫ ──── ≪\n\nTWITTER\nhttps://twitter.com/nanashimumei_en\n@nanashimumei_en\n\n≫..."
-            }
-        ]
+        "videos": []
     },
     "@NatsuiroMatsuri": {
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
@@ -431,7 +423,15 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "mHkPCoG5XhM",
+                "title": "【 皐月賞 】春のG1皐月賞2025で夢を賭ける！にぇ！！！！！！！【ホロライブ/さくらみこ】",
+                "date": "2025/04/20 12:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/mHkPCoG5XhM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBV_sjgmxjHrDCi5_qEHYu_RvU8xw",
+                "description": "⪩⪨　お知らせ/ɪɴғᴏ\n￣￣￣￣￣￣￣￣￣￣￣￣￣\n　🌸さくらみこ誕生日記念グッズ2025販売中！🌸\n　　https://shop.hololivepro.com/products/sakuramiko_bd2..."
+            }
+        ]
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
