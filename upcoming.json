@@ -267,15 +267,7 @@
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
         "channel_name": "Moona Hoshinova hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/9e7J_lAxCEZO6IRC_Sl3Gj-bt9uPvSXolU_vBpmqWABzv99oHxzbYhWWgvRI_c2qmB4jH0p_ZA",
-        "videos": [
-            {
-                "video_id": "Y60v-lHeNnE",
-                "title": "【RUST】Day 2 - trying to get more scraps?【Moona | hololive ID】",
-                "date": "2025/04/20 11:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/Y60v-lHeNnE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJ143L2qVaph64hBVUfGPJcTTwGQ",
-                "description": "Streamlabs donation link here : https://streamlabs.com/moonahoshinovahololive-id/tip\nSociaBuzz donation link here : https://sociabuzz.com/moonahoshinova/tribe\n======================================..."
-            }
-        ]
+        "videos": []
     },
     "@MoriCalliope": {
         "channel_url": "https://www.youtube.com/@MoriCalliope",
@@ -515,7 +507,15 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "A0GzfMTRFig",
+                "title": "【ゼルダの伝説 時のオカリナ】未知の世界へ突入だ！！【ホロライブ/ときのそら】",
+                "date": "2025/04/20 12:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/A0GzfMTRFig/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2FpWHDCzxA00hwWg1BXg22FXrkg",
+                "description": "ここからは知らない世界だ・・・。\nなにが始まるんだ！？\n\n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
