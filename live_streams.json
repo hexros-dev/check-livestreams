@@ -21,14 +21,7 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": [
-            {
-                "video_id": "u06szu4hEg4",
-                "title": "【#holoRUST】ホロ鯖RUST出撃！！2日目【アキロゼ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/u06szu4hEg4/hqdefault.jpg?v=6804fdf0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEsJQP8ZNLfICn-ulXwdKeNytTPQ",
-                "description": "いったんトランペット吹きたい、攻略系も行ってみたい\n\n配信タグ  #アキびゅーわーるど  \n\n本ゲームはFacepunch Studiosの確認を得た上で、ガイドライ..."
-            }
-        ]
+        "videos": []
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -257,7 +250,14 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "_kPQQXLNIpU",
+                "title": "【 #朝ミオ 】月曜日だよ～！！！おはみぉーん！！！",
+                "thumbnail": "https://i.ytimg.com/vi/_kPQQXLNIpU/hqdefault.jpg?v=6804de85&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApNmR4zQeCal7DJ5DvROpJ2O6Amw",
+                "description": "もう少しでGWかぁ\n\n#朝ミオおたより Twitter(X)で募集中です🌟\n今回紹介するお題は、『GWにやりたいこと』です！\n\nサムネillustrator：友絵竹成さん..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
