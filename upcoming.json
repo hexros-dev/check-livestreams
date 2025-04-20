@@ -34,13 +34,6 @@
                 "date": "2025/04/22 19:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/UdbB5g1ncHs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD528tgLOu1_SEBy2LXqV1mZhv1zw",
                 "description": "編集中\n\n---------------------------------------------------------------------------------\n\n※ホロライブプロダクションから未成年の視聴者の方へお願い\n[ カバー..."
-            },
-            {
-                "video_id": "snCZALpaWCY",
-                "title": "【#holoRUST】記憶よ甦れ！RUSTきたああああああ！【天音かなた/ホロライブ】",
-                "date": "2025/04/20 11:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/snCZALpaWCY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASVrqQmwzUELH5VEyUP7KAdltx_g",
-                "description": "RUSTだあああああああああああああああああああああああ！！！！！\n\n\n✅ 一般ハッシュタグ\n#holoRUST\n🎨 ファンアート\n#holoRUSTFA\n🎬 切り抜き\n#holoRUST..."
             }
         ]
     },
@@ -193,15 +186,7 @@
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
         "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/ACubs_Mw4YtmgHDIIZvW_gZaPf_VR1wg9yffFLsq4Lrw-W7Md-0pK4Gob8OJebCYCmgrArsE",
-        "videos": [
-            {
-                "video_id": "NRM6OEWzQMU",
-                "title": "【🔰Demon's Souls #7】もう、全ロスしたくない___【虎金妃笑虎🔰】",
-                "date": "2025/04/20 11:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/NRM6OEWzQMU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOCk1B7vJFuaR5nqDHQnLB8MO3KQ",
-                "description": "本ゲームは著作権ガイドラインに則り配信を行っております。\nhttps://www.playstation.com/ja-jp/games/demons-souls/\n\nサムネイルのイラストはぐりふさん！✨..."
-            }
-        ]
+        "videos": []
     },
     "@KosekiBijou": {
         "channel_url": "https://www.youtube.com/@KosekiBijou",
@@ -282,7 +267,15 @@
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
         "channel_name": "Moona Hoshinova hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/9e7J_lAxCEZO6IRC_Sl3Gj-bt9uPvSXolU_vBpmqWABzv99oHxzbYhWWgvRI_c2qmB4jH0p_ZA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Y60v-lHeNnE",
+                "title": "【RUST】Day 2 - trying to get more scraps?【Moona | hololive ID】",
+                "date": "2025/04/20 11:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/Y60v-lHeNnE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJ143L2qVaph64hBVUfGPJcTTwGQ",
+                "description": "Streamlabs donation link here : https://streamlabs.com/moonahoshinovahololive-id/tip\nSociaBuzz donation link here : https://sociabuzz.com/moonahoshinova/tribe\n======================================..."
+            }
+        ]
     },
     "@MoriCalliope": {
         "channel_url": "https://www.youtube.com/@MoriCalliope",
@@ -349,13 +342,6 @@
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
         "videos": [
-            {
-                "video_id": "kEFL88TOlVU",
-                "title": "【#11】龍が如く７やるしゅばあああああああああああああああああああああああああああああああ！！！！！：yakuza7【※ネタバレあり】",
-                "date": "2025/04/20 11:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/kEFL88TOlVU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQY6qOWSaswuijf9jSLVA8LOGl9Q",
-                "description": "この動画およびライブは、コンテンツ利用許諾契約に基づいて配信しています。\n©SEGA\n\n🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメン..."
-            },
             {
                 "video_id": "qZkkS2s8Nrg",
                 "title": "【#holoRUST】Daｙ２仙人のホロ鯖おさんぽRUST【ホロライブ/大空スバル】",
