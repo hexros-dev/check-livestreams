@@ -299,14 +299,7 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": [
-            {
-                "video_id": "djHm7lVCKhY",
-                "title": "【 #holoRUST 】色々と大変なRUSTの世界で、平和にフブキと生活！【 ホロライブ / 大神ミオ 】",
-                "thumbnail": "https://i.ytimg.com/vi/djHm7lVCKhY/hqdefault.jpg?v=6804a3e9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAf5Qt6A4wTNPotcAfmc2HgEs7sCA",
-                "description": "うちはスクラップを集めるのと家庭菜園に勤しんでいます。\n\nサムネillustrator：ディーバさん　https://x.com/Deaver0501\n\n✅ 一般ハッシュタグ\n#holoRUST..."
-            }
-        ]
+        "videos": []
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -418,7 +411,14 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ek8jNz882Qk",
+                "title": "【YAKUZA IN HAWAII】sailing the seas until my 3D LIVE! #kfp #キアライブ",
+                "thumbnail": "https://i.ytimg.com/vi/ek8jNz882Qk/hqdefault.jpg?v=68042ea5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkiA-fQ9Lk70lnlCELdisfi-JBxg",
+                "description": "playing Like a Dragon: Pirate Yakuza in Hawaii\n\nstream my new song, MIRAGE!✨https://cover.lnk.to/DQSp3S\n👀 Takanashi Kiara 1st Album \"Point of View\" 👀\nStreaming: https://cover.lnk.to/Pointof..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
