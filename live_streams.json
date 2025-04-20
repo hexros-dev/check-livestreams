@@ -238,14 +238,7 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": [
-            {
-                "video_id": "anS_ZA3I8RU",
-                "title": "【#holoRUST】absolute MENACE in the Holohood #calliolive",
-                "thumbnail": "https://i.ytimg.com/vi/anS_ZA3I8RU/hqdefault.jpg?v=68036629&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBed9nu3In0qW_AD1NynV2cc0qZyA",
-                "description": "💀💀 BIRTHDAY MERCHANDISE 💀💀\nーーーーーーーーーーーーーーーー\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/moricalliope_bd2025\nEN:..."
-            }
-        ]
+        "videos": []
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -403,7 +396,14 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "BIQ6ENNIrvs",
+                "title": "【 皐月賞 】 推し馬ジョバンニは勝てるのか⁉3歳馬の熱いレースをみるぞ！！！【鷹嶺ルイ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/BIQ6ENNIrvs/hqdefault.jpg?v=6803d9b4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCILqhJzrQ0b5SgP3BosvBzDvcAWg",
+                "description": "15:40発走 中山競馬場 芝2000m\n\n【2025年競馬配信】\nブラック企業時代に作っていた競馬口座に61万をBET。\n現在：61万円→56万8千円\n(退職金口座から移動..."
+            }
+        ]
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
