@@ -3,7 +3,14 @@
         "channel_url": "https://www.youtube.com/@AZKi",
         "channel_name": "AZKi Channel",
         "avatar_url": "https://yt3.googleusercontent.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "SHYEqpVy0-I",
+                "title": "【#holoRUST】ホロ鯖RUST参戦！！！！！DAY3【ホロライブ / AZKi】",
+                "thumbnail": "https://i.ytimg.com/vi/SHYEqpVy0-I/hqdefault.jpg?v=6806103c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATYoeygkRqIkoG5yJM4aqtV5LovQ",
+                "description": "殺伐とした世界で生き残る――\n\n✅ 一般ハッシュタグ：#holoRUST\n🎨 ファンアート：#holoRUSTFA\n🎬 切り抜き：#holoRUST切り抜き\n\n┈┈┈┈┈┈┈┈┈┈..."
+            }
+        ]
     },
     "@AiraniIofifteen": {
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
@@ -357,14 +364,7 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": [
-            {
-                "video_id": "jZL983zeJW8",
-                "title": "【#holoRUST】装備を整えたい！！！脱原始人【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "thumbnail": "https://i.ytimg.com/vi/jZL983zeJW8/hqdefault.jpg?v=6805e776&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmxBK288R6LPlQ9jRhv0D1KjHsmA",
-                "description": "服と武器と移動手段\n\n\n本ゲームはFacepunch Studiosの確認を得た上で、ガイドラインに則り配信・収益化を行なっております。\nhttps://facepunch.com/legal#FanC..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -401,13 +401,27 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "6CSHNPeT9ds",
+                "title": "【#holoRUST 】さて、軍資金稼いでいきますか　DAY３【白上フブキ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/6CSHNPeT9ds/hqdefault.jpg?v=6806393b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbd6qKDaGOLd1DZpCFVUkplt-liw",
+                "description": "✅ ハッシュタグ\n#holoRUST\n🎨 ファンアート\n#holoRUSTFA\n🎬 切り抜き\n#holoRUST切り抜き\n━━━━━━━━━━━━━━━━━━━━━━━\n🌽京都利休..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Cka7T9Zu8Kk",
+                "title": "【 #holoRUST 】私の平和的生活にはイースターの卵が必要不可欠だ【不知火フレア/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/Cka7T9Zu8Kk/hqdefault.jpg?v=6806213c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0YaC3aPMOSW-qfAQk06FfPx51sQ",
+                "description": "まず思い出すところから始めるわ\n\n■不知火フレア 誕生日記念2025グッズ　（受注販売）\nhttps://shop.hololivepro.com/products/shiranuiflare_bd2025\n※2025年4月2日(..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -482,9 +496,9 @@
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
         "videos": [
             {
-                "video_id": "GWJpfMOcSiQ",
+                "video_id": "tFQV2f1z3M8",
                 "title": "【#holoRUST】ホロ鯖にラミィ初上陸！！お散歩するよ～【 雪花ラミィ /ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/GWJpfMOcSiQ/hqdefault.jpg?v=6805ef3b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBe4zb_jy18kEIsmgK4Vq5TruazSg",
+                "thumbnail": "https://i.ytimg.com/vi/tFQV2f1z3M8/hqdefault.jpg?v=680642fa&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC7LHbSbrhazkfQGERv7B_UgPoVSg",
                 "description": "記憶なし、不安です。\n\n感想は #らみらいぶ で呟いて頂けたら嬉しいです！\n\nサムネイルのイラスト：珈琲猫さま\nhttps://x.com/Tuginoneko\n\n本ゲームはFace..."
             }
         ]
@@ -542,7 +556,14 @@
         "channel_url": "https://www.youtube.com/@mikenekoko",
         "channel_name": "みけねこch",
         "avatar_url": "https://yt3.googleusercontent.com/_bT74ettx8Ei9p0zHrSbKdAe1oyaCAbbbXa9teIsxgOtlPl2RADYotJ_kGKwHsNdtWh8D2Hu",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "PcIlIFt_B5E",
+                "title": "くらら卒業妨害マリカ！！！！",
+                "thumbnail": "https://i.ytimg.com/vi/PcIlIFt_B5E/hqdefault.jpg?v=680643fa&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbhni6uljhgVTGlQD5ZcGaOHTe7A",
+                "description": "2025.3.25 Release ドリーミュージック・メジャーデビューシングル「猫になって／みけねこ。」\nhttps://lnk.to/mikeneko_nekoninatteTD\n\n■今ネットで騒がれてる..."
+            }
+        ]
     },
     "@niminightmare": {
         "channel_url": "https://www.youtube.com/@niminightmare",
