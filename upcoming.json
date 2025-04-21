@@ -183,7 +183,15 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "RETqmA7YMoI",
+                "title": "【RUST】DAY 3 - Eggs.",
+                "date": "2025/04/22 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/RETqmA7YMoI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsmJ23oENVANj3iX4NcF_FMUdVjg",
+                "description": "Thumbnail Art by:@booniecake THANK YOU!\nhttps://x.com/booniecake/status/1909760089453482307\n\nBIRTHDAY MERCH\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/kosekibijo..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
