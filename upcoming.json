@@ -19,13 +19,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc",
         "videos": [
             {
-                "video_id": "H1Fxl1RFI6E",
-                "title": "【Senin Produktif】Doodles and Free Talk【 iofi / hololiveID 】",
-                "date": "2025/04/21 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/H1Fxl1RFI6E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBApodG6obx8CH45A4tZzp0n0RwSA",
-                "description": "#ioLyfe #Airani_Iofifteen #hololive #holoID \n\n【Support & Jajanin IOFI】🎨\nIndonesia : https://sociabuzz.com/airaniiofifteen/tribe\nOverseas : https://streamlabs.com/airaniiofifteenchannelhololi..."
-            },
-            {
                 "video_id": "xux-0AgfePA",
                 "title": "【Hello Kitty Island Adventure】ADVENTURE! 【 iofi / hololiveID 】",
                 "date": "2025/04/21 22:00:00",
@@ -77,7 +70,15 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "y1IuMGeZltw",
+                "title": "【Two Point Museum】MUSEUM IS NOW OPEN !【Ayunda Risu】",
+                "date": "2025/04/21 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/y1IuMGeZltw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgNNmzZx5j4ZclyG7ZpyB_-IsT8g",
+                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nThis game is being streamed and monetized with permission and under license.\nGame title： 『ツーポイントミュージアム』..."
+            }
+        ]
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -178,7 +179,15 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "iWr_Q7zcW50",
+                "title": "【 #holoRUST 】電気科卒Vtuber ！鉄壁要塞を作り始めます✨【ホロライブ DEV_IS 響咲リオナ】",
+                "date": "2025/04/21 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/iWr_Q7zcW50/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6WuR6sTpjv7FXvtU2wmRyoLnpSQ",
+                "description": "論理回路…そういや昔やったな…\nRUSTを通して、あの頃の記憶を呼び覚ます！！\n\n 一般ハッシュタグ\n#holoRUST\n\n ファンアート\n#holoRUSTFA\n\n 切り抜き..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -204,15 +213,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": [
-            {
-                "video_id": "0qFASWjvzis",
-                "title": "【 #holoRUST 】原始人ヴィヴィ帰還【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "date": "2025/04/21 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/0qFASWjvzis/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApusOUu5aeQWEU_BO_YjrIZ9KlEw",
-                "description": "本ゲームはFacepunch Studiosの確認を得た上で、ガイドラインに則り配信・収益化を行なっております。\nhttps://facepunch.com/legal#FanContentandBroadcastGuidelines..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -299,13 +300,29 @@
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
         "channel_name": "Moona Hoshinova hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/9e7J_lAxCEZO6IRC_Sl3Gj-bt9uPvSXolU_vBpmqWABzv99oHxzbYhWWgvRI_c2qmB4jH0p_ZA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "WIFCmbNw5V0",
+                "title": "【RUST】Day 3 - Aw SCRAPS!【Moona | hololive ID】",
+                "date": "2025/04/21 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/WIFCmbNw5V0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtbNTJyVhvCD_AkojyViW7rdRDpQ",
+                "description": "Streamlabs donation link here : https://streamlabs.com/moonahoshinovahololive-id/tip\nSociaBuzz donation link here : https://sociabuzz.com/moonahoshinova/tribe\n======================================..."
+            }
+        ]
     },
     "@MoriCalliope": {
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "CQB11HL43y8",
+                "title": "【#holoRUST】hmm...what shall we build next?? #calliolive",
+                "date": "2025/04/22 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/CQB11HL43y8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqAOC61k-hH06sS_Qomh23skRl9w",
+                "description": "💀💀 BIRTHDAY MERCHANDISE 💀💀\nーーーーーーーーーーーーーーーー\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/moricalliope_bd2025\nEN:..."
+            }
+        ]
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -391,7 +408,15 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "DMZQJd_mzSM",
+                "title": "【Members Only】Let's watch the new black mirror lol【Pavolia Reine/hololiveID 2nd gen】",
+                "date": "2025/04/21 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/DMZQJd_mzSM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYyxSMZtTeEi_3Qe0NnRWsV_NmIg",
+                "description": "Reine's new original song now AVAILABLE on iTunes, Apple Music, Spotify etc. starting September 10, 2023 00:00 your local time!!!\n\nGet it here:\n➡️https://cover.lnk.to/SipSomeTea\n\nWatch..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -539,15 +564,7 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": [
-            {
-                "video_id": "GWJpfMOcSiQ",
-                "title": "【#holoRUST】ホロ鯖にラミィ初上陸！！お散歩するよ～【 雪花ラミィ /ホロライブ】",
-                "date": "2025/04/21 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/GWJpfMOcSiQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBe4zb_jy18kEIsmgK4Vq5TruazSg",
-                "description": "記憶なし、不安です。\n\n感想は #らみらいぶ で呟いて頂けたら嬉しいです！\n\nサムネイルのイラスト：珈琲猫さま\nhttps://x.com/Tuginoneko\n\n本ゲームはFace..."
-            }
-        ]
+        "videos": []
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
