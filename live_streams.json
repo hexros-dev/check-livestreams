@@ -46,7 +46,14 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "y1IuMGeZltw",
+                "title": "【Two Point Museum】MUSEUM IS NOW OPEN !【Ayunda Risu】",
+                "thumbnail": "https://i.ytimg.com/vi/y1IuMGeZltw/hqdefault.jpg?v=68062f3b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgNNmzZx5j4ZclyG7ZpyB_-IsT8g",
+                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nThis game is being streamed and monetized with permission and under license.\nGame title： 『ツーポイントミュージアム』..."
+            }
+        ]
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -138,13 +145,27 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "iWr_Q7zcW50",
+                "title": "【 #holoRUST 】電気科卒Vtuber ！鉄壁要塞を作り始めます✨【ホロライブ DEV_IS 響咲リオナ】",
+                "thumbnail": "https://i.ytimg.com/vi/iWr_Q7zcW50/hqdefault.jpg?v=6806329f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6WuR6sTpjv7FXvtU2wmRyoLnpSQ",
+                "description": "論理回路…そういや昔やったな…\nRUSTを通して、あの頃の記憶を呼び覚ます！！\n\n 一般ハッシュタグ\n#holoRUST\n\n ファンアート\n#holoRUSTFA\n\n 切り抜き..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "lRGl7mVpbT0",
+                "title": "【りりらでん日本酒の会】長野編！！今日は飲むぞー！！ #りりらでん酒盛 【一条莉々華/儒烏風亭らでん 】",
+                "thumbnail": "https://i.ytimg.com/vi/lRGl7mVpbT0/hqdefault.jpg?v=68062258&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgVQFItjE8I78L4Uk0uK6vrX-3Qw",
+                "description": "一条莉々華\nhttps://www.youtube.com/@IchijouRirika\n\nサムネイル：鳥串びあ様\nhttps://x.com/sunset_kanpai\n\n\nメンバーシップうまく入れない方へ\n📢 iOS ユーザーの皆..."
+            }
+        ]
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -175,14 +196,7 @@
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
         "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/ACubs_Mw4YtmgHDIIZvW_gZaPf_VR1wg9yffFLsq4Lrw-W7Md-0pK4Gob8OJebCYCmgrArsE",
-        "videos": [
-            {
-                "video_id": "ye7lt8Cur_Y",
-                "title": "【🔰#holoRUST #2】やりたいことが山ほどあんだよな【虎金妃笑虎🔰】",
-                "thumbnail": "https://i.ytimg.com/vi/ye7lt8Cur_Y/hqdefault.jpg?v=6805ede6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_7VGf7Qiqi8lPx3eVipiBf7eBBw",
-                "description": "サムネイルのイラストはDipsさん！\nhttps://x.com/Dips_0416/status/1854908782067032291\n\n本ゲームはFacepunch Studiosの確認を得た上で、ガイドラインに則り配信・収..."
-            }
-        ]
+        "videos": []
     },
     "@KosekiBijou": {
         "channel_url": "https://www.youtube.com/@KosekiBijou",
@@ -206,7 +220,14 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "FiSC2pNWxjg",
+                "title": "【未解決事件は終わらせないといけないから】嘘を整理する【水宮枢／FLOW GLOW】#hololiveDEV_IS",
+                "thumbnail": "https://i.ytimg.com/vi/FiSC2pNWxjg/hqdefault.jpg?v=67fc1ae6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBJGe9BJ-K_Q7gaWbNJIIGQ4ihVQ",
+                "description": "本ゲームは Somi に確認の上配信・収益化を行なっております。\n▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸◂┄▹◃\n\n💙メンバーシップはこちらから..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -218,7 +239,14 @@
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
         "channel_name": "Moona Hoshinova hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/9e7J_lAxCEZO6IRC_Sl3Gj-bt9uPvSXolU_vBpmqWABzv99oHxzbYhWWgvRI_c2qmB4jH0p_ZA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "WIFCmbNw5V0",
+                "title": "【RUST】Day 3 - Aw SCRAPS!【Moona | hololive ID】",
+                "thumbnail": "https://i.ytimg.com/vi/WIFCmbNw5V0/hqdefault.jpg?v=68062f69&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtbNTJyVhvCD_AkojyViW7rdRDpQ",
+                "description": "Streamlabs donation link here : https://streamlabs.com/moonahoshinovahololive-id/tip\nSociaBuzz donation link here : https://sociabuzz.com/moonahoshinova/tribe\n======================================..."
+            }
+        ]
     },
     "@MoriCalliope": {
         "channel_url": "https://www.youtube.com/@MoriCalliope",
@@ -268,7 +296,14 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ddlKdN0kwjI",
+                "title": "【 ASMR 】低音ボイスで君にご奉仕します😸 / 耳かき/吐息/囁き/マッサージ…KU-100 Ear Cleaning 【 猫又おかゆ/ホロライブ 】",
+                "thumbnail": "https://i.ytimg.com/vi/ddlKdN0kwjI/hqdefault.jpg?v=6805367a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMGW_SD1Vt-45Lxf_X0LVWTnDiXA",
+                "description": "ㅤㅤㅤㅤ\nいつもより低音ボイスでお届け予定です✦\n広告はOFFになってます！高評価チャンネル登録励みになります😸💜\n❥・・ ┈┈┈┈┈┈┈..."
+            }
+        ]
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -402,7 +437,14 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "VH5rVy3YQe0",
+                "title": "#１５【ポケモンSV】はじめてのポケモン！エンディングへ！【轟はじめ/ReGLOSS】 #hololivedev_is",
+                "thumbnail": "https://i.ytimg.com/vi/VH5rVy3YQe0/hqdefault.jpg?v=68062861&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCUWdnDilliLo9v0_1fZnblA_eM-Q",
+                "description": "素敵なサムネお写真：とあ様（@toa_inusuki）\n\nポケットモンスター バイオレット\n公式サイト：https://www.pokemon.co.jp/ex/sv/ja/\n￣￣￣￣￣￣￣￣￣￣￣￣..."
+            }
+        ]
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
