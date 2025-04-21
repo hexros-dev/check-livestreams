@@ -251,15 +251,7 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": [
-            {
-                "video_id": "RuHMrcGExhI",
-                "title": "【Pokémon Emerald Nuzlocke】Back to My First Pokemon Game!! (part 1)",
-                "date": "2025/04/21 08:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/RuHMrcGExhI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDleEbSHrxYNYQHrb5IIinpB3v4_w",
-                "description": "💀💀 BIRTHDAY MERCHANDISE 💀💀\nーーーーーーーーーーーーーーーー\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/moricalliope_bd2025\nEN:..."
-            }
-        ]
+        "videos": []
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -429,15 +421,7 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": [
-            {
-                "video_id": "jjLLByDa3Xc",
-                "title": "【3D CONCERT】KIARA & FRIENDS: H!P Cover Song Spring Concert #HPmeetsHoloEN",
-                "date": "2025/04/21 07:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/jjLLByDa3Xc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDrJPffj8DoTa_h3wx8F6_dybXtUA",
-                "description": "@WatsonAmelia ​@MoriCalliope @NinomaeInanis @OuroKronii @IRyS @NerissaRavencroft @FUWAMOCOch @KosekiBijou @ShioriNovella @holoen_erbloodflame @holoen_raorapanthera @holoen_ceciliaimmergreen..."
-            }
-        ]
+        "videos": []
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
@@ -473,7 +457,15 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ZBNksbARKS4",
+                "title": "【Overwatch2】With friends~!! Ow2.. it's been awhile!!!",
+                "date": "2025/04/21 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ZBNksbARKS4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXRjsZSyQvHkwPqXMlHMN6kbgBIQ",
+                "description": "#hololive #holoid #vestiazeta  #vtuber #overwatch2\n\n\nThis stream has been approved by Blizzard Entertainment.\nThe views, information, or opinions expressed during the stream do not represent..."
+            }
+        ]
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
