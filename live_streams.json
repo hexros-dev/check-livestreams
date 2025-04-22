@@ -35,7 +35,14 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "rGMtBa2LrgA",
+                "title": "【#holoRUST】ホロ鯖RUST！ガレージ作りたい！そして水4日目【アキロゼ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/rGMtBa2LrgA/hqdefault.jpg?v=6807a3a5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBuJcnEkJL_7NXYVzlVEQgOuGIolA",
+                "description": "いったんトランペット吹きたい、攻略系も行ってみたい\n\n配信タグ  #アキびゅーわーるど  \n\n本ゲームはFacepunch Studiosの確認を得た上で、ガイドライ..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -279,14 +286,7 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": [
-            {
-                "video_id": "bh8cPOEoR5I",
-                "title": "低気圧敗北メン限＃4",
-                "thumbnail": "https://i.ytimg.com/vi/bh8cPOEoR5I/hqdefault.jpg?v=68078baf&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWqw3-WAVEyT-kl_xjqjt1clHcDQ",
-                "description": "※尾丸ポルカへ頂いたスパチャは、基本的に毎週木曜日19時から「ポルカの伝説」にて、動画の最後に名前を載せさせていただいております！是非..."
-            }
-        ]
+        "videos": []
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
