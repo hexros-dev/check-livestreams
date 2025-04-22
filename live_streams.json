@@ -341,7 +341,14 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Qw_tfe1kFRc",
+                "title": "【HOLOTALK】With our 33rd guest: Nanashi Mumei! #holotalk",
+                "thumbnail": "https://i.ytimg.com/vi/Qw_tfe1kFRc/hqdefault.jpg?v=6806db60&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3gx6YRUx-3Fm3mGo7nn7U7fT2QA",
+                "description": "@NanashiMumei !!!\nHolotalk is a live talkshow with the purpose of interviewing and live translating (mainly) Japanese Hololive talents to bring as much wholesome knowledge to oversea viewers..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
@@ -419,7 +426,14 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "8jmBqwfB_uM",
+                "title": "【FATAL FURY: City of the Wolves】first time fighting game player learning how to get good #ad",
+                "thumbnail": "https://i.ytimg.com/vi/8jmBqwfB_uM/hqdefault.jpg?v=68073c77&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-qcqFXCZFf4FRTO7Yv0nHpR_a6g",
+                "description": "check out Fatal Fury: CotW here!\nhttp://bit.ly/3GeJzh1\n\n#REVITUP #FATALFURY\n#ad #sponsored\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐  ⸜(｡˃ ᵕ ˂ )⸝♡ credits (˶ˆᗜˆ˵)  ‐‐‐..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
