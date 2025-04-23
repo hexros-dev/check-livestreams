@@ -3,21 +3,21 @@
         "channel_url": "https://www.youtube.com/@AZKi",
         "channel_name": "AZKi Channel",
         "avatar_url": "https://yt3.googleusercontent.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "soGc8X2Mmus",
+                "title": "【#holoRUST】ホロ鯖RUST参戦！！！！！DAY5【ホロライブ / AZKi】",
+                "date": "2025/04/23 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/soGc8X2Mmus/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAR6NgjTaDakna6HL2BzloRj-GwPQ",
+                "description": "殺伐とした世界で生き残る――\n\n✅ 一般ハッシュタグ：#holoRUST\n🎨 ファンアート：#holoRUSTFA\n🎬 切り抜き：#holoRUST切り抜き\n\n┈┈┈┈┈┈┈┈┈┈..."
+            }
+        ]
     },
     "@AiraniIofifteen": {
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
         "channel_name": "Airani Iofifteen Channel hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc",
-        "videos": [
-            {
-                "video_id": "2JZB1bKJTl4",
-                "title": "【プロジェクトセカイ】I AM HOME, LEN!【 iofi / hololiveID 】",
-                "date": "2025/04/23 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/2JZB1bKJTl4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBD2puwCXykOi4rjjLngcrrGxDQlw",
-                "description": "#ioLyfe #Airani_Iofifteen #hololive #holoID  \n\nThis game is being streamed and monetized based on the following derivative creation guidelines after confirming with SEGA Co., Ltd.　https://pjsekai..."
-            }
-        ]
+        "videos": []
     },
     "@AkaiHaato": {
         "channel_url": "https://www.youtube.com/@AkaiHaato",
@@ -42,6 +42,13 @@
                 "date": "2025/04/23 17:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/C-g4sVyPo-E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDlnUuqs6FvQKnTHlfbzcHc2DW9GQ",
                 "description": "今年もありがとう！\n\n---------------------------------------------------------------------------------\n\n📣2025.07.23(wed) 2nd アルバム『Trigger』発売決定📣\n🔽予約開始..."
+            },
+            {
+                "video_id": "XE2ZLbRwy4U",
+                "title": "【#holoRUST】NPC、戦車、ヘリ、船……何やる？【天音かなた/ホロライブ】",
+                "date": "2025/04/23 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/XE2ZLbRwy4U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRu6acO8hOzADjFVnA9G6vte89KA",
+                "description": "明日早いため0時まで！\n\n📣2025.07.23(wed) 2nd アルバム『Trigger』発売決定📣\n🔽予約開始\nhttps://cover.lnk.to/Trigger\n🔽hololive production OFFICIAL SHOP\nhttps://shop.h..."
             }
         ]
     },
@@ -49,7 +56,15 @@
         "channel_url": "https://www.youtube.com/@AnyaMelfissa",
         "channel_name": "Anya Melfissa Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "-tTh3zujDak",
+                "title": "【RUST #holoRUST】Maybe We Raid NPCs Today? - DAY 5【hololive ID 2nd Generation | Anya Melfissa】",
+                "date": "2025/04/23 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/-tTh3zujDak/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAsVkBm_enz8DnfiORuJCntWcKd2A",
+                "description": "Support me here/ドネーション↓\nStreamlabs: https://streamlabs.com/anyamelfissachhololive-id/tip\nSociaBuzz(Local Donation): https://sociabuzz.com/anyamelfissa/tribe \n\n--\nThis game is..."
+            }
+        ]
     },
     "@AyundaRisu": {
         "channel_url": "https://www.youtube.com/@AyundaRisu",
@@ -256,7 +271,15 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "aG9OGvGvP5o",
+                "title": "【#holoRUST】強くなりたい初心者RUST#3【水宮枢／FLOW GLOW】#hololiveDEV_IS",
+                "date": "2025/04/23 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/aG9OGvGvP5o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6bWeNZEAcmth7lC3ZbdCPXzNkuQ",
+                "description": "本ゲームはFacepunch Studiosの確認を得た上で、ガイドラインに則り配信・収益化を行なっております。\nhttps://facepunch.com/legal#FanContentandBroadcastGuidelines..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -322,15 +345,7 @@
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
-        "videos": [
-            {
-                "video_id": "IHOVJRznN-A",
-                "title": "【 #holoRUST 】ハラハラしてぇよ【ホロライブ/夏色まつり】",
-                "date": "2025/04/23 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/IHOVJRznN-A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3O-jAtSQsgdsGoaOE33IHY6oZKg",
-                "description": "...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\n\n素敵なサムネイル→好恵エネコ様\n@YoshieEneko\n\n\n本ゲームはFacepunch Studiosの..."
-            }
-        ]
+        "videos": []
     },
     "@NekomataOkayu": {
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
@@ -607,7 +622,15 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "DktjqzuuYgA",
+                "title": "【#holoRUST】ホロライブサーバー上陸！DAY5 ぺこ！【ホロライブ/兎田ぺこら】",
+                "date": "2025/04/23 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/DktjqzuuYgA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhM4hGTWrScOVqsGuguYtXXtqr8g",
+                "description": "ﾋﾟｬ!!\n\nサムネイラスト：セイクオさん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
