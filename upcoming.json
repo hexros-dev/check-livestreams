@@ -37,13 +37,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/oPU9ckNcyeHD0FFsYSxkoD1mtbslSwdmMSfoCYQWphOu5e7UeCnIF-Nt0hvvF41L5Nykga07nQ",
         "videos": [
             {
-                "video_id": "C-g4sVyPo-E",
-                "title": "【3DLIVEありがとう】感謝です後夜祭【天音かなた/ホロライブ】",
-                "date": "2025/04/23 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/C-g4sVyPo-E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDlnUuqs6FvQKnTHlfbzcHc2DW9GQ",
-                "description": "今年もありがとう！\n\n---------------------------------------------------------------------------------\n\n📣2025.07.23(wed) 2nd アルバム『Trigger』発売決定📣\n🔽予約開始..."
-            },
-            {
                 "video_id": "XE2ZLbRwy4U",
                 "title": "【#holoRUST】NPC、戦車、ヘリ、船……何やる？【天音かなた/ホロライブ】",
                 "date": "2025/04/23 19:00:00",
@@ -189,7 +182,15 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "fv4RvcFnko0",
+                "title": "【 #holoRUST 】ホロライブサーバーDAY4！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "date": "2025/04/23 17:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/fv4RvcFnko0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCj-PflyV2yxLPsIDmkeZhk_lAE1w",
+                "description": "本ゲームはFacepunch Studiosの確認を得た上で、ガイドラインに則り配信・収益化を行なっております。\nhttps://facepunch.com/legal#FanContentandBroadcastGuidelines..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -439,7 +440,15 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "pCwgytSgT4Q",
+                "title": "【 #holoRUST 】DAY5🔥holoRUST参戦！！！！！！！！！！【ホロライブ/さくらみこ】",
+                "date": "2025/04/23 17:15:00",
+                "thumbnail": "https://i.ytimg.com/vi/pCwgytSgT4Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2wD0y6NmVDimJ9Nz5-HCau0bN7Q",
+                "description": "いくぜええええええええええええええええええええ！！！！！！\n\n⪩⪨　お知らせ/ɪɴғᴏ\n￣￣￣￣￣￣￣￣￣￣￣￣￣\n　🌸さくらみこ誕生日記..."
+            }
+        ]
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
@@ -492,15 +501,7 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": [
-            {
-                "video_id": "kpRxgBm1uGI",
-                "title": "【#holoRUST】初上陸！テーマパークに来たみたいだぜ【獅白ぼたん/ホロライブ】",
-                "date": "2025/04/23 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/kpRxgBm1uGI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAiTkq2oNmXTL3B9uInq-HVd-JxVw",
-                "description": "初上陸～！わくわく！水着写真がはやっているみたいなので\n\n配信ハッシュタグ：#holoRUST　#ぐうたらいぶ\nサムネイルのイラスト：MOOQ\nhttps://x.com/MOM..."
-            }
-        ]
+        "videos": []
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
@@ -622,15 +623,7 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": [
-            {
-                "video_id": "DktjqzuuYgA",
-                "title": "【#holoRUST】ホロライブサーバー上陸！DAY5 ぺこ！【ホロライブ/兎田ぺこら】",
-                "date": "2025/04/23 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/DktjqzuuYgA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhM4hGTWrScOVqsGuguYtXXtqr8g",
-                "description": "ﾋﾟｬ!!\n\nサムネイラスト：セイクオさん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
