@@ -236,9 +236,9 @@
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
         "videos": [
             {
-                "video_id": "aG9OGvGvP5o",
+                "video_id": "-VTOUNIZf18",
                 "title": "【#holoRUST】強くなりたい初心者RUST#3【水宮枢／FLOW GLOW】#hololiveDEV_IS",
-                "thumbnail": "https://i.ytimg.com/vi/aG9OGvGvP5o/hqdefault.jpg?v=6808aba9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6bWeNZEAcmth7lC3ZbdCPXzNkuQ",
+                "thumbnail": "https://i.ytimg.com/vi/-VTOUNIZf18/hqdefault.jpg?v=6808ede3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYhZYG1Fg7o8Xvp1OaOebcMwpOmg",
                 "description": "本ゲームはFacepunch Studiosの確認を得た上で、ガイドラインに則り配信・収益化を行なっております。\nhttps://facepunch.com/legal#FanContentandBroadcastGuidelines..."
             }
         ]
@@ -478,7 +478,14 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "P8H0t3Zi5qs",
+                "title": "【#holoRUST】初心者のそらはスローライフがしたい【ホロライブ/ときのそら】",
+                "thumbnail": "https://i.ytimg.com/vi/P8H0t3Zi5qs/hqdefault.jpg?v=6808dff9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1fMLvPakey0KH4G-9d-UrWouXAg",
+                "description": "まずはおしゃれな家作りだよね。\n\n本ゲームはFacepunch Studiosの確認を得た上で、ガイドラインに則り配信・収益化を行なっております。\nhttps://facepun..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
