@@ -75,7 +75,14 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "oMN1XfO9bUE",
+                "title": "【 #holoRUST 】んなファームの新\"かぼた\"生活始まるのら！！！＃４【姫森ルーナ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/oMN1XfO9bUE/hqdefault.jpg?v=68087639&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC7ftYynoLoVZIHRd7CCy9sLhYkMA",
+                "description": "サムネイラスト\n　しいたけさん　https://twitter.com/siitake_hat\n\nholoRUST再生リスト\nhttps://www.youtube.com/playlist?list=PL6gUpTCMieF7PM0bJL52qvzN5kTcNiuEU\n\n本ゲームはFacep..."
+            }
+        ]
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -172,14 +179,7 @@
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
         "channel_name": "Laplus ch. ラプラス・ダークネス - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/6Y5lj4DhikLBo0UqIZ1dT3-D3aYXVPbxUgNTyYiyE_Se8AVxkGAn05D3oc1y3whpzDu-CzEQ",
-        "videos": [
-            {
-                "video_id": "84uF02NNbVY",
-                "title": "【#holoRUST】メンテあけ！Rust昼部門、ファーム課【ラプラス・ダークネス/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/84uF02NNbVY/hqdefault.jpg?v=680873ce&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhm6oc8QbmtU-Ok4rJHMimvvlXsg",
-                "description": "サムネ：https://x.com/croa76/status/1819561758962733266?s=46\n\nタグ：#holoRUST\n\n配信タイトル：RUST\nストアページ：https://store.steampowered.com/app/252490/Rust/\n本ゲームはF..."
-            }
-        ]
+        "videos": []
     },
     "@MizumiyaSu": {
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
