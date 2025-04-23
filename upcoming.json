@@ -545,7 +545,15 @@
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
         "channel_name": "Choco Ch. 癒月ちょこ",
         "avatar_url": "https://yt3.googleusercontent.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "0lOSvxyevnc",
+                "title": "【 #holoRUST】RUST4日目！かぼちゃ農業完成させる🎃【ホロライブ/癒月ちょこ】",
+                "date": "2025/04/23 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/0lOSvxyevnc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZ7VC7EA5wLqSfJ5NYnABeDw-ZNw",
+                "description": "サブ垢→https://www.youtube.com/channel/UCp3tgHXw_HI0QMk1K8qh3g\n\nOP＆ED動画：松賀りお。様@rio_matsuka\nしょこらデザイン＆イラスト：むーらん様@M_uu418\nサムネイラ..."
+            }
+        ]
     },
     "@dooby3d": {
         "channel_url": "https://www.youtube.com/@dooby3d",
@@ -575,15 +583,7 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": [
-            {
-                "video_id": "vO-DNog3zaU",
-                "title": "【RUST】BIG CAT MEEEEEAANS... BIG SURVIVAL SKILLS?",
-                "date": "2025/04/23 18:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/vO-DNog3zaU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2hW7qEHb4sPPJwNaoWvdvDajMaw",
-                "description": "『 X formely Twitter 』\nhttps://x.com/raorapanthera\n\n『 Hashtags 』\n╰┈➤ Live  #CiaoRaora\n╰┈➤ Fanarts  #RaorArt\n╰┈➤ Clips  #RaraWara\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
-            }
-        ]
+        "videos": []
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
