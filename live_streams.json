@@ -3,20 +3,20 @@
         "channel_url": "https://www.youtube.com/@AZKi",
         "channel_name": "AZKi Channel",
         "avatar_url": "https://yt3.googleusercontent.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "soGc8X2Mmus",
+                "title": "【#holoRUST】ホロ鯖RUST参戦！！！！！DAY5【ホロライブ / AZKi】",
+                "thumbnail": "https://i.ytimg.com/vi/soGc8X2Mmus/hqdefault.jpg?v=6808ae04&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAR6NgjTaDakna6HL2BzloRj-GwPQ",
+                "description": "殺伐とした世界で生き残る――\n\n✅ 一般ハッシュタグ：#holoRUST\n🎨 ファンアート：#holoRUSTFA\n🎬 切り抜き：#holoRUST切り抜き\n\n┈┈┈┈┈┈┈┈┈┈..."
+            }
+        ]
     },
     "@AiraniIofifteen": {
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
         "channel_name": "Airani Iofifteen Channel hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc",
-        "videos": [
-            {
-                "video_id": "2JZB1bKJTl4",
-                "title": "【プロジェクトセカイ】I AM HOME, LEN!【 iofi / hololiveID 】",
-                "thumbnail": "https://i.ytimg.com/vi/2JZB1bKJTl4/hqdefault.jpg?v=68088901&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBD2puwCXykOi4rjjLngcrrGxDQlw",
-                "description": "#ioLyfe #Airani_Iofifteen #hololive #holoID  \n\nThis game is being streamed and monetized based on the following derivative creation guidelines after confirming with SEGA Co., Ltd.　https://pjsekai..."
-            }
-        ]
+        "videos": []
     },
     "@AkaiHaato": {
         "channel_url": "https://www.youtube.com/@AkaiHaato",
@@ -34,14 +34,7 @@
         "channel_url": "https://www.youtube.com/@AmaneKanata",
         "channel_name": "Kanata Ch. Kanata Amane",
         "avatar_url": "https://yt3.googleusercontent.com/oPU9ckNcyeHD0FFsYSxkoD1mtbslSwdmMSfoCYQWphOu5e7UeCnIF-Nt0hvvF41L5Nykga07nQ",
-        "videos": [
-            {
-                "video_id": "C-g4sVyPo-E",
-                "title": "【3DLIVEありがとう】感謝です後夜祭【天音かなた/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/C-g4sVyPo-E/hqdefault.jpg?v=6807a82e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDlnUuqs6FvQKnTHlfbzcHc2DW9GQ",
-                "description": "今年もありがとう！\n\n---------------------------------------------------------------------------------\n\n📣2025.07.23(wed) 2nd アルバム『Trigger』発売決定📣\n🔽予約開始..."
-            }
-        ]
+        "videos": []
     },
     "@AnyaMelfissa": {
         "channel_url": "https://www.youtube.com/@AnyaMelfissa",
@@ -181,7 +174,14 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "LYRmRruQk6M",
+                "title": "【RUST】#4 - TAMAGOOOOOOOOOOOOOOOOOOOOO",
+                "thumbnail": "https://i.ytimg.com/vi/LYRmRruQk6M/hqdefault.jpg?v=6808a360&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChodFgxHWNxowE6bDE3eKEHwSNQA",
+                "description": "Thumbnail Art by:@shutowl THANK YOU!\nhttps://x.com/shutowl/status/1914726035527958703\n\nBIRTHDAY MERCH\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/kosekibijou_birt..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -364,7 +364,14 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "-6UAXNjokfg",
+                "title": "【#今夜はノエルと吞まKnight】BIG3！新居で初オフコラボ！！！地下室で除霊と喋くり太郎だ～！！！【白銀ノエル/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/-6UAXNjokfg/hqdefault.jpg?v=68079895&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDi49ud7vdD1_j90fcoxaRWz15PMg",
+                "description": "去年から企画してたアレコレ！初は心の友！BIG3だ～～～～！！\n※もちろんノンアルとお酒どっちもあるよ！！\n\n[NEW]🔥焚火ASMRボイス販売中🔥→..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
