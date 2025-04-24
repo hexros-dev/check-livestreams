@@ -46,14 +46,7 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": [
-            {
-                "video_id": "HtJOXR9fCDM",
-                "title": "【MARVEL RIVALS】Playing Rivals With Bestie+daily mission【Ayunda Risu】",
-                "thumbnail": "https://i.ytimg.com/vi/HtJOXR9fCDM/hqdefault.jpg?v=6809dba8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1bZ8FDF5SeMSV7ei1s1_UcOcE0A",
-                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nThis game is being streamed and monetized after confirming with NetEase Inc.\n\nーーーーーーーーー\nCHECK OUT RISU 5TH ANNIVERSARY..."
-            }
-        ]
+        "videos": []
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -151,14 +144,7 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": [
-            {
-                "video_id": "g64uu1K2d08",
-                "title": "【メン限雑談】今週あったことやここだけのお話など！【儒烏風亭らでん #ReGLOSS 】",
-                "thumbnail": "https://i.ytimg.com/vi/g64uu1K2d08/hqdefault.jpg?v=6809fa5f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6iQI4KrJ-aG3nobKSTfngP4KS1Q",
-                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\nメンバー限定配信です！\n\n\n◢◤￣￣￣￣￣￣..."
-            }
-        ]
+        "videos": []
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -220,7 +206,14 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "-KuoTOiHgZU",
+                "title": "【#holoRUST】強化発展したい、初心者RUST#4【水宮枢／FLOW GLOW】#hololiveDEV_IS",
+                "thumbnail": "https://i.ytimg.com/vi/-KuoTOiHgZU/hqdefault.jpg?v=6809e935&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTDqUeIuKQl4n07GbabAcOvRY_MA",
+                "description": "本ゲームはFacepunch Studiosの確認を得た上で、ガイドラインに則り配信・収益化を行なっております。\nhttps://facepunch.com/legal#FanContentandBroadcastGuidelines..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
