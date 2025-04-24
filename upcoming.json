@@ -467,15 +467,7 @@
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
         "channel_name": "Choco Ch. 癒月ちょこ",
         "avatar_url": "https://yt3.googleusercontent.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g",
-        "videos": [
-            {
-                "video_id": "rXyeVpMws2s",
-                "title": "【 #holoRUST】RUST最終日！最強カメラマン始動🎃【ホロライブ/癒月ちょこ】",
-                "date": "2025/04/24 18:45:00",
-                "thumbnail": "https://i.ytimg.com/vi/rXyeVpMws2s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBknfdFJqrSH82J8DDcV77iFImTyw",
-                "description": "サブ垢→https://www.youtube.com/channel/UCp3tgHXw_HI0QMk1K8qh3g\n\nOP＆ED動画：松賀りお。様@rio_matsuka\nしょこらデザイン＆イラスト：むーらん様@M_uu418\nサムネイラ..."
-            }
-        ]
+        "videos": []
     },
     "@dooby3d": {
         "channel_url": "https://www.youtube.com/@dooby3d",
@@ -487,7 +479,15 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ROg7o252xIc",
+                "title": "【RUNE FACTORY: Guardians of Azuma】Exclusive first look!!! YAY #ad",
+                "date": "2025/04/25 02:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ROg7o252xIc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAx6EzCKTu9wTpzm7xgRPsYDVbVEg",
+                "description": "Pre-order here!!! NA: https://bit.ly/CeciliaAzuma\nWishlist on steam here!!! https://store.steampowered.com/app/2864560/_/\n--------------------------\nHashtags\n📺 Livestream: #ImmerScreen ..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
