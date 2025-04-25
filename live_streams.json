@@ -3,14 +3,7 @@
         "channel_url": "https://www.youtube.com/@AZKi",
         "channel_name": "AZKi Channel",
         "avatar_url": "https://yt3.googleusercontent.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos",
-        "videos": [
-            {
-                "video_id": "A7f-bCaVsow",
-                "title": "【#holoRUST】ホロ鯖RUST参戦！！！！！DAY7【ホロライブ / AZKi】",
-                "thumbnail": "https://i.ytimg.com/vi/A7f-bCaVsow/hqdefault.jpg?v=680b421d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAe9t5_U0LCm6M4lL2w9K4UlmmXtQ",
-                "description": "殺伐とした世界で生き残る――\n\n✅ 一般ハッシュタグ：#holoRUST\n🎨 ファンアート：#holoRUSTFA\n🎬 切り抜き：#holoRUST切り抜き\n\n┈┈┈┈┈┈┈┈┈┈..."
-            }
-        ]
+        "videos": []
     },
     "@AiraniIofifteen": {
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
@@ -420,7 +413,14 @@
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "eU2ED67DCN8",
+                "title": "【BIRTHDAY COLLAB】My First ERBday + Surprises ~! 💄👧🍵🐱🐙⏳👁‍🗨🗿🎼🍂 #ERBday2025",
+                "thumbnail": "https://i.ytimg.com/vi/eU2ED67DCN8/hqdefault.jpg?v=680a8cbe&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCLyZoQZ8H2YNx7bBu1gMmzl0xteA",
+                "description": "It's my first ERBday! Thank you for spending it with me!\n* holo EN & ID girlies VRC adventure! * New Smol Outfit REVEAL! * Another reveal? Hmmm?\nHUZZAH!\n💄👧🍵🐱🐙⏳👁‍🗨🗿🎼..."
+            }
+        ]
     },
     "@holoen_gigimurin": {
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
