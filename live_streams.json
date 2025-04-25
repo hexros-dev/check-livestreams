@@ -214,7 +214,14 @@
         "channel_url": "https://www.youtube.com/@NanashiMumei",
         "channel_name": "Nanashi Mumei Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ufO7pGRu0vUfA2FLPz7yN517i8wOYxAdcxB9nSTKKfiKhjec0ulSmwWmRA00KqVpOTIesgXhMA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "mroOshTylXM",
+                "title": "【MEMBERS ONLY】Final Owl Pal Stream !!",
+                "thumbnail": "https://i.ytimg.com/vi/mroOshTylXM/hqdefault.jpg?v=6809bbc4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBiNfQqfqN70lookNo816cQMgfeQ",
+                "description": "Stream will become Members Only before starting!\n\nThumbnail: https://www.pixiv.net/en/artworks/129260997\nNOTE: All superchats will be read off stream to preserve my voice and keep the mood..."
+            }
+        ]
     },
     "@NatsuiroMatsuri": {
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
@@ -364,14 +371,7 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": [
-            {
-                "video_id": "FFs7OOo_pT8",
-                "title": "【 #holoRUST 】ただいまー！！！今日こそ漁村！【角巻わため/ホロライブ４期生】",
-                "thumbnail": "https://i.ytimg.com/vi/FFs7OOo_pT8/hqdefault.jpg?v=680a93b6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCUu_pBhlv-ObX_Lhu73vVorEQwXg",
-                "description": "ベイさんは...\nタグ：#holoRUST\n\n配信タイトル：RUST\nストアページ：https://store.steampowered.com/app/252490/Rust/\n本ゲームはFacepunch Studiosの確認を得た上で、ガ..."
-            }
-        ]
+        "videos": []
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -413,14 +413,7 @@
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48",
-        "videos": [
-            {
-                "video_id": "eU2ED67DCN8",
-                "title": "【BIRTHDAY COLLAB】My First ERBday + Surprises ~! 💄👧🍵🐱🐙⏳👁‍🗨🗿🎼🍂 #ERBday2025",
-                "thumbnail": "https://i.ytimg.com/vi/eU2ED67DCN8/hqdefault.jpg?v=680a8cbe&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCLyZoQZ8H2YNx7bBu1gMmzl0xteA",
-                "description": "It's my first ERBday! Thank you for spending it with me!\n* holo EN & ID girlies VRC adventure! * New Smol Outfit REVEAL! * Another reveal? Hmmm?\nHUZZAH!\n💄👧🍵🐱🐙⏳👁‍🗨🗿🎼..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_gigimurin": {
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
