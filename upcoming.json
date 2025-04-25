@@ -21,15 +21,7 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": [
-            {
-                "video_id": "cvSvKMXspXA",
-                "title": "【#holoRUST】ホロ鯖RUST！パイ＆ティーSHOPそして攻略！7日目【アキロゼ/ホロライブ】",
-                "date": "2025/04/25 23:15:00",
-                "thumbnail": "https://i.ytimg.com/vi/cvSvKMXspXA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCp0a8NEhaMrRGbjjz7N2qm6r_tEg",
-                "description": "農園もいい感じに整った！養鶏場もできた！攻略も少し行きたいね！\n\n配信タグ  #アキびゅーわーるど  \n\n本ゲームはFacepunch Studiosの確認を得た上で..."
-            }
-        ]
+        "videos": []
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -186,7 +178,15 @@
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
         "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/ACubs_Mw4YtmgHDIIZvW_gZaPf_VR1wg9yffFLsq4Lrw-W7Md-0pK4Gob8OJebCYCmgrArsE",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "MgUoiab-7-U",
+                "title": "【🔰#holoRUST ＃4】計画性をもって行動しましょう【虎金妃笑虎🔰】",
+                "date": "2025/04/26 07:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/MgUoiab-7-U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1S91DSWvCizvmbMK2gvTiFyOMXQ",
+                "description": "サムネイルのイラストはぶるー太。さん！\nhttps://x.com/blueta9810/status/1855229663674810476\n\n本ゲームはFacepunch Studiosの確認を得た上で、ガイドラインに則り..."
+            }
+        ]
     },
     "@KosekiBijou": {
         "channel_url": "https://www.youtube.com/@KosekiBijou",
@@ -477,7 +477,15 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "LUnHNJGu9GQ",
+                "title": "【#BASEFOOD】実食BASEFOOD！！みんなの食に関するお悩みも解決するよ～！【 雪花ラミィ /ホロライブ】",
+                "date": "2025/04/27 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/LUnHNJGu9GQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5fhq-n4J4yijjce7C27hG9dqcbQ",
+                "description": "プロモーション：BASE FOOD\n【ご購入はこちらから！】https://shop.basefood.co.jp/lp/yakisoba?coupon=LAMY&argument=WTgLzY2D&dmai=a6807281d3bb23\n\n【専用クーポン】\nクーポ..."
+            }
+        ]
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
