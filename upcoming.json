@@ -460,7 +460,15 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "7ZjcUPJBkVY",
+                "title": "【 ドラゴンクエスト11S 】完全初見。姐さんと一緒に世界に平和をとりもどすわよ～【鷹嶺ルイ/ホロライブ】※ネタバレあり",
+                "date": "2025/04/26 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/7ZjcUPJBkVY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCksQf6Y9HpGHGo-HkkXqSamP2wrA",
+                "description": "シルビア姐さんだいすっち\n※タイトルの『※ネタバレあり』とは、【ゲーム本編のネタバレが含まれた配信】という意味でネタバレやアドバイス..."
+            }
+        ]
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
@@ -540,15 +548,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "CxBrNqVZxvA",
-                "title": "【FATAL FURY: City of the Wolves】gigi murin goes back into the lab #ad",
-                "date": "2025/04/26 06:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/CxBrNqVZxvA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWeOrGpSAC_bkWXhr9tkrWVCj9Pw",
-                "description": "check out Fatal Fury: CotW here!\nhttp://bit.ly/3GeJzh1\n\nthumbnail: https://x.com/tabakko\n\n#REVITUP #FATALFURY\n#ad #sponsored\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐  ⸜(｡˃ ᵕ ˂..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
