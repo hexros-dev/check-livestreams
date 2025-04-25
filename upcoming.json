@@ -318,13 +318,6 @@
                 "date": "2025/04/26 11:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/BBZmcncSRpQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7__HV_oj1tU-cNSDH95OfL5d34w",
                 "description": "この動画およびライブは、コンテンツ利用許諾契約に基づいて配信しています。\n©SEGA\n\n🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメン..."
-            },
-            {
-                "video_id": "VKnoAYHVei4",
-                "title": "【#3】Fate/stay night みるしゅばああああああああああああああああああ！！！！！！：Fate/stay night watching party【ホロライブ/大空スバル】",
-                "date": "2025/04/25 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/VKnoAYHVei4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMBtDp86XrW7ddZzuX4e_8Y2gXpw",
-                "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n+‥‥‥‥..."
             }
         ]
     },
@@ -440,21 +433,21 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "r7i4KcB_9vw",
+                "title": "すきなうたを歌っていく！【轟はじめ】",
+                "date": "2025/04/25 21:00:01",
+                "thumbnail": "https://i.ytimg.com/vi/r7i4KcB_9vw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzEbckKAcZbV_mv2zFU8WGIAaptw",
+                "description": "素敵なサムネお写真：aoha様（@aohasor_）\n\nお借りした音源\n歌っちゃ王様　@uta-cha-oh\nこのライブに用いている一部の音源は、株式会社エクシングより..."
+            }
+        ]
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": [
-            {
-                "video_id": "i-GZFwDYM3Y",
-                "title": "【ゼルダの伝説 時のオカリナ】ゼルダには会えないけどリンクは強くなった【ホロライブ/ときのそら】",
-                "date": "2025/04/25 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/i-GZFwDYM3Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYvBE91o-4q4-4e2LbAmdchl47qA",
-                "description": "いつもの流れなのでは・・・？\n\n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n\n★★★★★★★★★★★★★★..."
-            }
-        ]
+        "videos": []
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
@@ -466,15 +459,7 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": [
-            {
-                "video_id": "FFs7OOo_pT8",
-                "title": "【 #holoRUST 】ただいまー！！！今日こそ漁村！【角巻わため/ホロライブ４期生】",
-                "date": "2025/04/25 20:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/FFs7OOo_pT8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCUu_pBhlv-ObX_Lhu73vVorEQwXg",
-                "description": "ベイさんは...\nタグ：#holoRUST\n\n配信タイトル：RUST\nストアページ：https://store.steampowered.com/app/252490/Rust/\n本ゲームはFacepunch Studiosの確認を得た上で、ガ..."
-            }
-        ]
+        "videos": []
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",

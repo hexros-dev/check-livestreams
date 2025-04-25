@@ -222,14 +222,7 @@
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
-        "videos": [
-            {
-                "video_id": "_GG0JJIn74c",
-                "title": "【PARTY ANIMALS】 COLLAB BESAR!! PERKUMPULAN ID VTUBER, TAPI JADI BINATANG SEMUA WKWK 【Kureiji Ollie】",
-                "thumbnail": "https://i.ytimg.com/vi/_GG0JJIn74c/hqdefault.jpg?v=680a5a39&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtPS8EWQxRwu-P7ljiPz3-ITJ1bA",
-                "description": "#OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n==========================================\n\nCHECK THESE AWESOME PEEPS OUT!!\n\n@MoonaHoshinova \nhttps://x.com/moonahoshinova\n\n@MichiMochievee \nhttps://x..."
-            }
-        ]
+        "videos": []
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
@@ -340,7 +333,14 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "VKnoAYHVei4",
+                "title": "【#3】Fate/stay night みるしゅばああああああああああああああああああ！！！！！！：Fate/stay night watching party【ホロライブ/大空スバル】",
+                "thumbnail": "https://i.ytimg.com/vi/VKnoAYHVei4/hqdefault.jpg?v=680b8031&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMBtDp86XrW7ddZzuX4e_8Y2gXpw",
+                "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n+‥‥‥‥..."
+            }
+        ]
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -464,7 +464,14 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "i-GZFwDYM3Y",
+                "title": "【ゼルダの伝説 時のオカリナ】ゼルダには会えないけどリンクは強くなった【ホロライブ/ときのそら】",
+                "thumbnail": "https://i.ytimg.com/vi/i-GZFwDYM3Y/hqdefault.jpg?v=680b7dd3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYvBE91o-4q4-4e2LbAmdchl47qA",
+                "description": "いつもの流れなのでは・・・？\n\n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n\n★★★★★★★★★★★★★★..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
@@ -476,7 +483,14 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "FFs7OOo_pT8",
+                "title": "【 #holoRUST 】ただいまー！！！今日こそ漁村！【角巻わため/ホロライブ４期生】",
+                "thumbnail": "https://i.ytimg.com/vi/FFs7OOo_pT8/hqdefault.jpg?v=680a93b6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCUu_pBhlv-ObX_Lhu73vVorEQwXg",
+                "description": "ベイさんは...\nタグ：#holoRUST\n\n配信タイトル：RUST\nストアページ：https://store.steampowered.com/app/252490/Rust/\n本ゲームはFacepunch Studiosの確認を得た上で、ガ..."
+            }
+        ]
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
