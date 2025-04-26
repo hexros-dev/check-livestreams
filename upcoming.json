@@ -487,7 +487,15 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "1YR7IPSZaVw",
+                "title": "【ELDEN RING】PERISH!!! with @KosekiBijou joining half way in! (spoilers)",
+                "date": "2025/04/27 02:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/1YR7IPSZaVw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpBv_FXS2FxPuLDBTykzlCW2H6NQ",
+                "description": "art used: \nhttps://x.com/KekiriKiki/status/1914930947927036028\n\nhololive English SPRING PARTY!\n▼Official Online Shop▼\nhttps://shop.hololivepro.com/en/products/hololiveen_springparty\n-----------..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
