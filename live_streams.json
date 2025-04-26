@@ -3,7 +3,14 @@
         "channel_url": "https://www.youtube.com/@AZKi",
         "channel_name": "AZKi Channel",
         "avatar_url": "https://yt3.googleusercontent.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "GR82EoZr-fU",
+                "title": "【#holoRUST】ホロ鯖RUST参戦！！！！！DAY8【ホロライブ / AZKi】",
+                "thumbnail": "https://i.ytimg.com/vi/GR82EoZr-fU/hqdefault.jpg?v=680cbc27&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhgJpiWwHhVdvbCHRvaOxU1SZiXg",
+                "description": "殺伐とした世界で生き残る――\n\n✅ 一般ハッシュタグ：#holoRUST\n🎨 ファンアート：#holoRUSTFA\n🎬 切り抜き：#holoRUST切り抜き\n\n┈┈┈┈┈┈┈┈┈┈..."
+            }
+        ]
     },
     "@AiraniIofifteen": {
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
@@ -69,13 +76,27 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "AxUY1LV7Q6A",
+                "title": "【Membership Only】ゲリラメン限雑談～！ナイショのおはなし、しよっ♡【博衣こより/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/AxUY1LV7Q6A/hqdefault.jpg?v=680cdc26&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDv9NCTpTdakMcHeqs_Su_oUqW6rQ",
+                "description": "めんげん！　※開始直前にメンバー限定に切り替えます\n【大切なお約束！！！】\n⚠メンバー限定で発信している配信内容での発言や、コミュニテ..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "_Ifx-t9UIwM",
+                "title": "【 メンバー限定 】んな話するのら！！！(・o・🍬)【姫森ルーナ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/_Ifx-t9UIwM/hqdefault.jpg?v=680cacd3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRfpxX7owbPrwsKFBwMzRMVlVgrg",
+                "description": "サムネイラスト\n　ニャドラさん　https://twitter.com/nyanyadora\n\n※切り抜きOKなのらね(・o・🍬)\n\n▷==================================◁\n\n🎮第3弾デュエマコラボ..."
+            }
+        ]
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -195,14 +216,7 @@
         "channel_url": "https://www.youtube.com/@MurasakiShion",
         "channel_name": "Shion Ch. 紫咲シオン",
         "avatar_url": "https://yt3.googleusercontent.com/K91NQLuy_JMQ65n-Opf0Q2FZBO3yOURnMRusO7o5DTjaJ1QVtP-ANN4lehK57X4KXpcI2MiRig",
-        "videos": [
-            {
-                "video_id": "4RYbmR8oJHw",
-                "title": "【#紫咲シオン卒業LIVE】最大の感謝を込めて。【MurasakiShion Graduation LIVE】",
-                "thumbnail": "https://i.ytimg.com/vi/4RYbmR8oJHw/hqdefault.jpg?v=680b9574&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRx23LnZ3JLER7OveKZfGCkK-fcw",
-                "description": "最強の魔法使い！\n\n🌙紫咲シオン卒業グッズ販売開始🌙\n\nフルセット購入特典は数量限定直筆サインポストカードです！できる限り多くの人に届..."
-            }
-        ]
+        "videos": []
     },
     "@NakiriAyame": {
         "channel_url": "https://www.youtube.com/@NakiriAyame",
@@ -226,7 +240,14 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ZRtpdxWvYTw",
+                "title": "【 ポケモン｜リーフグリーン 】人生縛りでポケモンマスター目指す😸#01【 猫又おかゆ/ホロライブ 】",
+                "thumbnail": "https://i.ytimg.com/vi/ZRtpdxWvYTw/hqdefault.jpg?v=680c7b6c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBI9vk80xiZtyiEszyXoIQdsomWgw",
+                "description": "ㅤ\n✅ルール説明\n・ひんしになったポケモンは使用不可\n・ルール書こうと思ったけど全然書くことなかった\n\n❥・・ ┈┈┈┈┈┈┈┈┈┈┈┈┈..."
+            }
+        ]
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -298,7 +319,14 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "vh3hhmmctkE",
+                "title": "【 切り抜き鑑賞 】#holoRUST 切り抜き鑑賞するにぇ！！！！！！🔥【ホロライブ/さくらみこ】",
+                "thumbnail": "https://i.ytimg.com/vi/vh3hhmmctkE/hqdefault.jpg?v=680cd87d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQwX8eG465PmLz_96Z3ZHn8RqUDg",
+                "description": "きょうは短めなのでRUST切り抜きを鑑賞するにぇ！！！！！🎬\n\n⪩⪨　お知らせ/ɪɴғᴏ\n￣￣￣￣￣￣￣￣￣￣￣￣￣\n　🌸さくらみこ誕生日記念グ..."
+            }
+        ]
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
@@ -328,7 +356,14 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "JKt4Dbpg3Vw",
+                "title": "【#holoRUST】4/26：おもひでいっぱいホロライブ【獅白ぼたん/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/JKt4Dbpg3Vw/hqdefault.jpg?v=680bfce1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMIjiW9iRT1Vd04D0baQm7mW2fFA",
+                "description": "バイク探し&4/28にわためぇと冒険にいく予定なので物資あつめしたい！\nあとまだ見てないホロメンの建物も見たい！\n\n配信ハッシュタグ：#holoRUST..."
+            }
+        ]
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
@@ -442,7 +477,14 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "YeBTV22C06g",
+                "title": "【#holoRUST】ホロライブサーバー上陸！DAY8 ぺこ！【ホロライブ/兎田ぺこら】",
+                "thumbnail": "https://i.ytimg.com/vi/YeBTV22C06g/hqdefault.jpg?v=680cceca&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2mju1goQGEdqF0uORLSDu35SX6w",
+                "description": "明日できない＆朝から稼働あるから短めだけどやるぜ！\n\nサムネイラスト：セイクオさん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
