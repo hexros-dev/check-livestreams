@@ -194,7 +194,15 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "TXt4EY_mZ6c",
+                "title": "【星のカービィディスカバリー】カービィと最強に【水宮枢／FLOW GLOW】#hololiveDEV_IS",
+                "date": "2025/04/27 14:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/TXt4EY_mZ6c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXgBHXbMfVxzBe67_eWU-9a1mXqw",
+                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸◂┄▹◃\n\n💙メンバーシップは..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -415,15 +423,7 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": [
-            {
-                "video_id": "qBTiFv0AEPk",
-                "title": "【ゼルダの伝説 時のオカリナ】世界をめぐるリンクがやっぱり好きだ【ホロライブ/ときのそら】",
-                "date": "2025/04/27 13:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/qBTiFv0AEPk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCATkNPnVYBa15-7WchRwDBCSZvRA",
-                "description": "ミニゲームにはまりがち勇者のリンク。\n\n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n\n★★★★★★★★★★..."
-            }
-        ]
+        "videos": []
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",

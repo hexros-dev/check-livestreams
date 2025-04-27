@@ -380,7 +380,14 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "qBTiFv0AEPk",
+                "title": "【ゼルダの伝説 時のオカリナ】世界をめぐるリンクがやっぱり好きだ【ホロライブ/ときのそら】",
+                "thumbnail": "https://i.ytimg.com/vi/qBTiFv0AEPk/hqdefault.jpg?v=680dcaae&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCATkNPnVYBa15-7WchRwDBCSZvRA",
+                "description": "ミニゲームにはまりがち勇者のリンク。\n\n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n～サムネイラスト～..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
