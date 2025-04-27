@@ -228,14 +228,7 @@
         "channel_url": "https://www.youtube.com/@NanashiMumei",
         "channel_name": "Nanashi Mumei Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ufO7pGRu0vUfA2FLPz7yN517i8wOYxAdcxB9nSTKKfiKhjec0ulSmwWmRA00KqVpOTIesgXhMA",
-        "videos": [
-            {
-                "video_id": "0CxQ7XOVWZA",
-                "title": "【🤎】Good Laughs & Good Byes !! 凸待ち ~",
-                "thumbnail": "https://i.ytimg.com/vi/0CxQ7XOVWZA/hqdefault.jpg?v=680c65a9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVfSY6WRSpM0uoowuwDlc808t96Q",
-                "description": ":,D\n\nThumbnail: https://www.pixiv.net/en/artworks/128693646\n\n≫ ──── ≪•◦ ❈ ◦•≫ ──── ≪\n\nTWITTER\nhttps://twitter.com/nanashimumei_en\n@nanashimumei_en\n\n≫ ───..."
-            }
-        ]
+        "videos": []
     },
     "@NatsuiroMatsuri": {
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
@@ -271,7 +264,14 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "PhLuV4oA8uk",
+                "title": "【マリオカート8DX】あまりにも久しぶりすぎるマリカ【 ホロライブ / 大神ミオ 】",
+                "thumbnail": "https://i.ytimg.com/vi/PhLuV4oA8uk/hqdefault.jpg?v=680dd560&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-D9W2xYrrbpASNRybQEC9DnZY7g",
+                "description": "ドリフトも分からない\n\nサムネillustrator：JBさん　https://x.com/JB_jagbung\n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
