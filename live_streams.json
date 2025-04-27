@@ -198,14 +198,7 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": [
-            {
-                "video_id": "WifH_s1P6cI",
-                "title": "【 開封 / カメラ 】ホロカ開封！サインカードで気分爆上げ！【 桃鈴ねね / hololive 】",
-                "thumbnail": "https://i.ytimg.com/vi/WifH_s1P6cI/hqdefault.jpg?v=680df3d7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCujAM47w-V8LAcjE-3UMoX6EvV0w",
-                "description": "お誕生日グッズ発売中！もうすぐ締め切りだから１こ買って～💛\nhttps://shop.hololivepro.com/products/momosuzunene_bd2025\n\n⸜♡⸝MemberShipに入ったらもっとねね..."
-            }
-        ]
+        "videos": []
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
@@ -467,7 +460,14 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "toMLBjb1BqA",
+                "title": "【MONSTER HUNTER WILDS】GRIND GRIND GRIND! CHATTINI, JOIN ME!!!",
+                "thumbnail": "https://i.ytimg.com/vi/toMLBjb1BqA/hqdefault.jpg?v=680db713&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBkWBEcq7CtEqmJiX7id_WZaNujjw",
+                "description": "This video and livestream are being streamed with permission and under license by CAPCOM CO., LTD.\nMonster Hunter Wilds\n©CAPCOM\n#MHWilds\nPalico accessories were designed and created with permissio..."
+            }
+        ]
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
