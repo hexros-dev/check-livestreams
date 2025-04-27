@@ -152,7 +152,15 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/VL9aJ1o3yrN_xzHKTX0PvArQjUDHhtWtOtAYWjpzkqoFxR5HHWmWRWNgu6M5l4nSibqLaeKXqA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "v4tft46pmSw",
+                "title": "【PEJUANG SENIN】#97 oh its PJS time~【Kaela's Monday Warrior】",
+                "date": "2025/04/28 07:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/v4tft46pmSw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5AsR8PT-nhV0sy6lcLJc86hTq0Q",
+                "description": "the topics from the Pejuang Senin stream sometimes might be sensitive to be clipped without the context. please have that in mind😇\n∘₊✧──────✧₊∘∘₊✧──────..."
+            }
+        ]
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
