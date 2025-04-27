@@ -322,7 +322,14 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "1IaFnJE7JsE",
+                "title": "【朝活雑談】1時間だけお喋り！おはまっするさんで～🌞✨【白銀ノエル/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/1IaFnJE7JsE/hqdefault.jpg?v=680cf293&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwqf7UoxgNjtfojpEIGhp2zqB4wQ",
+                "description": "スパチャは後日お礼させてね！\n\n[NEW]🔥焚火ASMRボイス販売中🔥→ https://shop.hololivepro.com/products/hololive_asmr_chillinbythecampfire?_pos=2&_fid=86a4c0ec0&_ss=c..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -400,14 +407,7 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": [
-            {
-                "video_id": "1YR7IPSZaVw",
-                "title": "【ELDEN RING】PERISH!!! with @KosekiBijou joining half way in! (spoilers)",
-                "thumbnail": "https://i.ytimg.com/vi/1YR7IPSZaVw/hqdefault.jpg?v=680d1931&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpBv_FXS2FxPuLDBTykzlCW2H6NQ",
-                "description": "art used: \nhttps://x.com/KekiriKiki/status/1914930947927036028\n\nhololive English SPRING PARTY!\n▼Official Online Shop▼\nhttps://shop.hololivepro.com/en/products/hololiveen_springparty\n-----------..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
@@ -419,14 +419,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "WBGCibM2r3s",
-                "title": "【GREMBERS WATCHALONG】Teen Wolf Watchalong - s3A ep 9-12",
-                "thumbnail": "https://i.ytimg.com/vi/WBGCibM2r3s/hqdefault.jpg?v=680c6a94&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9Bf9ldy13RoXGuOMr3ZCG79YELg",
-                "description": "#holoJustice #hololiveenglish \n\nthumbnail art: https://x.com/yu_us0/status/1823127593010569457\n\n\n--------------------------------------------------\n\n【Acrylic Stands】\n▼Official Online..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
