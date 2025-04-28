@@ -98,15 +98,7 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": [
-            {
-                "video_id": "S7s1kzk_zqQ",
-                "title": "【 #holoRUST 】んなファームの新\"かぼた\"生活終了なのら！！！＃７【姫森ルーナ/ホロライブ】",
-                "date": "2025/04/28 13:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/S7s1kzk_zqQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBktIcjSmf41x1GS6CbkpxGAlRPAQ",
-                "description": "サムネイラスト\n　ばんりさん　https://twitter.com/bnr_banri\n\nholoRUST再生リスト\nhttps://www.youtube.com/playlist?list=PL6gUpTCMieF7PM0bJL52qvzN5kTcNiuEU\n\n本ゲームはFacepunch..."
-            }
-        ]
+        "videos": []
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -166,7 +158,15 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "hQir3_9Am98",
+                "title": "【 #holoRUST 】ついに最終日！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "date": "2025/04/28 14:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/hQir3_9Am98/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtWMUyMtWAmdJgdD6gIOfkvDUmKg",
+                "description": "本ゲームはFacepunch Studiosの確認を得た上で、ガイドラインに則り配信・収益化を行なっております。\nhttps://facepunch.com/legal#FanContentandBroadcastGuidelines..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -205,7 +205,15 @@
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "GYM9UWODoYw",
+                "title": "【POKEMON LEGENDS: ARCEUS】TODAY IS THE DAY!! TYPHLOSION JOINS US!!【Kureiji Ollie】",
+                "date": "2025/04/28 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/GYM9UWODoYw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOzXSnsczKbfqRi70BB9D5VlYy8A",
+                "description": "#OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n==========================================\n\nGame title: Pokémon Legends: Arceus\nOfficial page: https://www.pokemon.co.jp/ex/legends_arceus/ja/..."
+            }
+        ]
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
