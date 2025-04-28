@@ -442,7 +442,15 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "LKlRu2DfcZE",
+                "title": "【 ドラゴンクエスト11S 】完全初見。僕たちは、前を向かなきゃいけない。【鷹嶺ルイ/ホロライブ】※ネタバレあり",
+                "date": "2025/04/29 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/LKlRu2DfcZE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAV69OrHovzkzIv-WpojFtWHsME3w",
+                "description": "。。。\n※タイトルの『※ネタバレあり』とは、【ゲーム本編のネタバレが含まれた配信】という意味でネタバレやアドバイスをしてOKという意味..."
+            }
+        ]
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
@@ -510,15 +518,7 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": [
-            {
-                "video_id": "7JPKYUhHYXs",
-                "title": "【The Elder Scrolls IV: Oblivion Remastered】The game with the dating mini game",
-                "date": "2025/04/29 02:15:00",
-                "thumbnail": "https://i.ytimg.com/vi/7JPKYUhHYXs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXhj4fXu1EkxNFPdOhHdOfMXLTwA",
-                "description": "if you think about it this has a relationship raising mini game hidden inside of it which makes it a romance visual novel. \n\nart used: https://x.com/Fineria_/status/1893683049855881354\n------------..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
