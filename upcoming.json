@@ -129,35 +129,27 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "NmtBqsZya6Y",
+                "title": "【つぐのひ -彁名縛りの部屋-】「つぐのひ」新作きちゃ！日常侵食リアルホラー…怖いよ…！【一条莉々華/hololive DEV_IS　ReGLOSS】",
+                "date": "2025/04/28 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/NmtBqsZya6Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCysmSqksNDngesRF9TaKPOpnuo3w",
+                "description": "ﾋｴｯ…今日眠れるかな…？\n\n🔽サムネイラスト🔽\nやさしいV@VGGC C-19.20様\n@V33983897\n\n配信タイトル：つぐのひ -彁名縛りの部屋-\nストアページ：https..."
+            }
+        ]
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": [
-            {
-                "video_id": "o11cDM2EYkw",
-                "title": "【神回】SIMPLEシリーズ：THE ころねの雑談シミュレーター",
-                "date": "2025/04/28 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/o11cDM2EYkw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnQhmVlUGBBZH7oUAcdilu8q72WQ",
-                "description": "タグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nころねTwitter▶https://twitter.com/inugamikorone\n\n-----------------------------..."
-            }
-        ]
+        "videos": []
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": [
-            {
-                "video_id": "l50dJY8DxqM",
-                "title": "【 #holoRUST 】こより先輩と初の攻略💛！最終日、さみしいなあああああ(´;ω;｀)【ホロライブ DEV_IS 響咲リオナ】",
-                "date": "2025/04/28 18:40:00",
-                "thumbnail": "https://i.ytimg.com/vi/l50dJY8DxqM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAx4ASfkCrMw9LUlx8BejWG28LQdw",
-                "description": "hololive SUPER EXPO 2025\n後夜祭 ~bonus stage~\n情報解禁 & 公式Xスタート\n\n5/24(土)埼玉を皮切りに、日本全国6会場を巡回！\n\nhttps://estream-store.com/lp/hololive_koyasai2..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -207,15 +199,7 @@
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
-        "videos": [
-            {
-                "video_id": "GYM9UWODoYw",
-                "title": "【POKEMON LEGENDS: ARCEUS】TODAY IS THE DAY!! TYPHLOSION JOINS US!!【Kureiji Ollie】",
-                "date": "2025/04/28 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/GYM9UWODoYw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOzXSnsczKbfqRi70BB9D5VlYy8A",
-                "description": "#OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n==========================================\n\nGame title: Pokémon Legends: Arceus\nOfficial page: https://www.pokemon.co.jp/ex/legends_arceus/ja/..."
-            }
-        ]
+        "videos": []
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
@@ -378,7 +362,15 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ZRd6zw3GI64",
+                "title": "【 メンバー限定 】まったりレアレアKARAOKE🎵🌸【ホロライブ/さくらみこ】",
+                "date": "2025/04/28 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ZRd6zw3GI64/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8EQe6izIbfiWsNfywzzIvh0Khbg",
+                "description": "⪩⪨　お知らせ/ɪɴғᴏ\n￣￣￣￣￣￣￣￣￣￣￣￣￣\n　🌸さくらみこ誕生日記念グッズ2025販売中！🌸\n　　https://shop.hololivepro.com/products/sakuramiko_bd2..."
+            }
+        ]
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
@@ -416,15 +408,7 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": [
-            {
-                "video_id": "eN0SqndOWjQ",
-                "title": "【#holoRUST】4/28：旅は続くよどこまでも【獅白ぼたん/ホロライブ】",
-                "date": "2025/04/28 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/eN0SqndOWjQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPmaQdLANgn1_KkfLf-WvkG2Zk3w",
-                "description": "PvEは今日が最終日、最後まで楽しむぞい～！わためぇと冒険にも行く予定！\n\n配信ハッシュタグ：#holoRUST　#ぐうたらいぶ\nサムネイルのイラスト：C..."
-            }
-        ]
+        "videos": []
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
@@ -467,13 +451,6 @@
                 "date": "2025/04/29 19:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/W0-WPK9C1bs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLDubnmPd4dLEUZ6pVf0FPCTpaPQ",
                 "description": "#PR　#麻雀Spホロライブコラボ\n提供： 麻雀格闘倶楽部Sp\n\nホロライブ麻雀コラボリレー イベント詳細： https://p.eagate.573.jp/game/mfc/mfc_sp/news/info/2025/0428/..."
-            },
-            {
-                "video_id": "rNA8J__xzqo",
-                "title": "【 #holoRUST 】ラストのRUST！！みんなと遊びたい！！！【角巻わため/ホロライブ４期生】",
-                "date": "2025/04/28 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/rNA8J__xzqo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyl-l7XN0pNHMMRPY5FA6bBaepjQ",
-                "description": "ほのぼのRUST楽しかった！\nタグ：#holoRUST\n\n配信タイトル：RUST\nストアページ：https://store.steampowered.com/app/252490/Rust/\n本ゲームはFacepunch Studiosの確認を得..."
             }
         ]
     },
