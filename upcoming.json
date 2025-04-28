@@ -152,15 +152,7 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/VL9aJ1o3yrN_xzHKTX0PvArQjUDHhtWtOtAYWjpzkqoFxR5HHWmWRWNgu6M5l4nSibqLaeKXqA",
-        "videos": [
-            {
-                "video_id": "v4tft46pmSw",
-                "title": "【PEJUANG SENIN】#97 oh its PJS time~【Kaela's Monday Warrior】",
-                "date": "2025/04/28 07:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/v4tft46pmSw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5AsR8PT-nhV0sy6lcLJc86hTq0Q",
-                "description": "the topics from the Pejuang Senin stream sometimes might be sensitive to be clipped without the context. please have that in mind😇\n∘₊✧──────✧₊∘∘₊✧──────..."
-            }
-        ]
+        "videos": []
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
@@ -313,7 +305,15 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "BpQcZ871C5o",
+                "title": "【告知歌枠】告知がある...２つ！！！！！もちろん良い方のヤツ【 ホロライブ / 大神ミオ 】",
+                "date": "2025/04/29 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/BpQcZ871C5o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATyZxFIr6Gp4KbtgFpxFW7oQgJbw",
+                "description": "告知枠だ～！！！いつも慣れない・・\n\nサムネillustrator：CinEさん　https://x.com/wazd0183\n\n🎤音源お借りします🎤\nカラオケ歌っちゃ王\nhttps://www.youtube.com..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -444,6 +444,13 @@
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
         "videos": [
+            {
+                "video_id": "W0-WPK9C1bs",
+                "title": "【麻雀格闘倶楽部Sp】目指せ脱初心者！視聴者対局もやるよー！！【角巻わため/ホロライブ４期生】",
+                "date": "2025/04/29 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/W0-WPK9C1bs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLDubnmPd4dLEUZ6pVf0FPCTpaPQ",
+                "description": "#PR　#麻雀Spホロライブコラボ\n提供： 麻雀格闘倶楽部Sp\n\nホロライブ麻雀コラボリレー イベント詳細： https://p.eagate.573.jp/game/mfc/mfc_sp/news/info/2025/0428/..."
+            },
             {
                 "video_id": "rNA8J__xzqo",
                 "title": "【 #holoRUST 】ラストのRUST！！みんなと遊びたい！！！【角巻わため/ホロライブ４期生】",
