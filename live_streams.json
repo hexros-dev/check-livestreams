@@ -240,14 +240,7 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
-        "videos": [
-            {
-                "video_id": "54b3EbyCLeM",
-                "title": "【 ポケモン｜リーフグリーン 】人生縛りでポケモンマスター目指す😸#03【 猫又おかゆ/ホロライブ 】",
-                "thumbnail": "https://i.ytimg.com/vi/54b3EbyCLeM/hqdefault.jpg?v=6810620d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPoNYgqYo9CpN7pmpF35L-54MtYA",
-                "description": "ㅤ\n#01 ▶https://www.youtube.com/watch?v=ZRtpdxWvYTw\n#02 ▶https://www.youtube.com/live/uJQa9CZe9z0?si=hlTZjX_obug_wDfQ\n\n✅ルール説明\n・ひんしになったポケモンは使用不可..."
-            }
-        ]
+        "videos": []
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -474,7 +467,14 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Zmd26irH7-c",
+                "title": "【DRAWING】AAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "thumbnail": "https://i.ytimg.com/vi/Zmd26irH7-c/hqdefault.jpg?v=6810793b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEoCyYyPPLQzHXULQ1CWIOR26Qxw",
+                "description": "『 X formely Twitter 』\nhttps://x.com/raorapanthera\n\n『 Hashtags 』\n╰┈➤ Live  #CiaoRaora\n╰┈➤ Fanarts  #RaorArt\n╰┈➤ Clips  #RaraWara\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
+            }
+        ]
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
