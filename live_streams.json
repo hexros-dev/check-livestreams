@@ -153,7 +153,14 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Gf14qpwQaGI",
+                "title": "【The Elder Scrolls IV: Oblivion Remastered】The Tale of John Chad the FOUL BEAST",
+                "thumbnail": "https://i.ytimg.com/vi/Gf14qpwQaGI/hqdefault.jpg?v=68110f14&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDyXGfoLKlNs7kjKsEHOfVf8Wm4bA",
+                "description": "Thumbnail Art by:@ghosttbyun THANK YOU!\nhttps://x.com/ghosttbyun/status/1904285445623808293/photo/1\n\nBIRTHDAY MERCH\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/ko..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -237,14 +244,7 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": [
-            {
-                "video_id": "ILW4fFnvugY",
-                "title": "【OHAPOL】#156 4/30水曜日！夜に歌ってみたをあげたいという気持ち #ポルカ公演中 【尾丸ポルカ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/ILW4fFnvugY/hqdefault.jpg?v=6811387a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCD8yVzfUUwMbugJI5HouvyuDOmyg",
-                "description": "サムネイルありがとうございます！\nhttps://x.com/takobuta73\n\n※尾丸ポルカへ頂いたスパチャは、基本的に毎週木曜日19時から「ポルカの伝説」にて、動..."
-            }
-        ]
+        "videos": []
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
