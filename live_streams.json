@@ -168,7 +168,14 @@
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
         "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/ACubs_Mw4YtmgHDIIZvW_gZaPf_VR1wg9yffFLsq4Lrw-W7Md-0pK4Gob8OJebCYCmgrArsE",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "KKDifQJllnc",
+                "title": "【Q REMASTERED】地頭は結構いいんだよね【虎金妃笑虎】",
+                "thumbnail": "https://i.ytimg.com/vi/KKDifQJllnc/hqdefault.jpg?v=680fec35&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDut-8zL03x2xWo7SSIO4XZUo2SzA",
+                "description": "サムネイルのイラストは絵心KIDさん！✨\nhttps://x.com/egokorokid/status/1907059751932108920\n\n本ゲームは 株式会社リイカ の確認を得た上で配信・収益化を行な..."
+            }
+        ]
     },
     "@KosekiBijou": {
         "channel_url": "https://www.youtube.com/@KosekiBijou",
@@ -368,14 +375,7 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": [
-            {
-                "video_id": "LKlRu2DfcZE",
-                "title": "【 ドラゴンクエスト11S 】完全初見。僕たちは、前を向かなきゃいけない。【鷹嶺ルイ/ホロライブ】※ネタバレあり",
-                "thumbnail": "https://i.ytimg.com/vi/LKlRu2DfcZE/hqdefault.jpg?v=680fd725&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAV69OrHovzkzIv-WpojFtWHsME3w",
-                "description": "。。。\n※タイトルの『※ネタバレあり』とは、【ゲーム本編のネタバレが含まれた配信】という意味でネタバレやアドバイスをしてOKという意味..."
-            }
-        ]
+        "videos": []
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
