@@ -231,7 +231,14 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "_GWlUcen4Bc",
+                "title": "【MYTH RELAY】BOKO BOKO #holomyth",
+                "thumbnail": "https://i.ytimg.com/vi/_GWlUcen4Bc/hqdefault.jpg?v=68123213&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLjE63nDXFzeYlHLpkI0iNBUUNhg",
+                "description": "with @GawrGura @TakanashiKiara @MoriCalliope \n\n【Thumbnail Art】\nhttps://x.com/DDOLBANG11\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\nThis game is being streamed and monetized after..."
+            }
+        ]
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -327,14 +334,7 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": [
-            {
-                "video_id": "hTzFgc4gABM",
-                "title": "【MYTH RELAY】boxing with myth as 4 one last time #kfp #キアライブ",
-                "thumbnail": "https://i.ytimg.com/vi/hTzFgc4gABM/hqdefault.jpg?v=681185d4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6-38yE66TSdfLUn8K9GphgqbuMQ",
-                "description": "@MoriCalliope → @TakanashiKiara (you are here) → @NinomaeInanis → @GawrGura \n\n 🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara\n\n 🏵️[Hashtags] 🏵️\n#kfp #キアライブ#ho..."
-            }
-        ]
+        "videos": []
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
