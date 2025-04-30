@@ -189,14 +189,7 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": [
-            {
-                "video_id": "jD8HAiQfzFY",
-                "title": "【MYTH RELAY】One Last Minecraft Trip. #holomyth",
-                "thumbnail": "https://i.ytimg.com/vi/jD8HAiQfzFY/hqdefault.jpg?v=6810d8d4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBp9X74A_CJAQakoLoqLYdjVObing",
-                "description": "with  @GawrGura  @TakanashiKiara and @NinomaeInanis \n\n💀💀 BIRTHDAY MERCHANDISE 💀💀\nーーーーーーーーーーーーーーーー\n▼hololive production OFFICIAL SHOP\nJP: https://shop.h..."
-            }
-        ]
+        "videos": []
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -304,14 +297,7 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": [
-            {
-                "video_id": "4o_gx4JH6ww",
-                "title": "It's NOW or NEVER: Really Sudden GUERILLA Stream【Black Myth: Wukong】",
-                "thumbnail": "https://i.ytimg.com/vi/4o_gx4JH6ww/hqdefault.jpg?v=68124484&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCA5Ap1OIik1to0bArjo0daKz0DvA",
-                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n\n==============..."
-            }
-        ]
+        "videos": []
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
@@ -341,7 +327,14 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "hTzFgc4gABM",
+                "title": "【MYTH RELAY】boxing with myth as 4 one last time #kfp #キアライブ",
+                "thumbnail": "https://i.ytimg.com/vi/hTzFgc4gABM/hqdefault.jpg?v=681185d4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6-38yE66TSdfLUn8K9GphgqbuMQ",
+                "description": "@MoriCalliope → @TakanashiKiara (you are here) → @NinomaeInanis → @GawrGura \n\n 🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara\n\n 🏵️[Hashtags] 🏵️\n#kfp #キアライブ#ho..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
