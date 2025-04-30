@@ -22,14 +22,7 @@
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
         "avatar_url": "https://yt3.googleusercontent.com/Ob0LQV8-i9FXY_GX4AEnsWsxvYUojcYtjZjtLsmjQRtPoYMZN5qWAe9hRhy7sMa19PlF61BG",
-        "videos": [
-            {
-                "video_id": "rEKXQIae8Lc",
-                "title": "【メンバー限定】みんなの事ずっと見てたよ～～～～～？💘【#推し活はあとん日記】",
-                "thumbnail": "https://i.ytimg.com/vi/rEKXQIae8Lc/hqdefault.jpg?v=6810e1a3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAno1AJpvUxIvtR1wibqt3gXipjqg",
-                "description": "#推し活はあとん日記　最高のタグだった～～～！\n4月は、はあとん成分マシマシでいっぱい頑張れたよおおお！\nありがとん❤️‍🔥\n\n早速！第一..."
-            }
-        ]
+        "videos": []
     },
     "@AkiRosenthal": {
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
@@ -65,7 +58,14 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "CI-1qV2kpOk",
+                "title": "【FUWAMOCO MORNING】episode 151 🐾 #FWMCMORNING",
+                "thumbnail": "https://i.ytimg.com/vi/CI-1qV2kpOk/hqdefault.jpg?v=68116c42&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYa_IPfY-dqVjOfNcDzYgg97BTOQ",
+                "description": "we'll be here for eachother, okay? let's be a bit more kind than usual ✨\nlovely illustration by @Tsurukieeeak 💕\njingle by @Sarina_A_Elysia ♪\n\n✨️🩵🩷 Go watch our 𝗙𝗨𝗪𝗔𝗠..."
+            }
+        ]
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -144,14 +144,7 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": [
-            {
-                "video_id": "ueT5xYzgrgA",
-                "title": "【#らでんのラジオ 】第二十七回目らでんのラジオ！まだギリ桜の季節ではないだろうか【儒烏風亭らでん #ReGLOSS 】",
-                "thumbnail": "https://i.ytimg.com/vi/ueT5xYzgrgA/hqdefault.jpg?v=681217f6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCoq37AA9194ubenBZOXGzwcNdBIA",
-                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\n\nらでんのラジオとは…？\n毎週水曜日（仮）23..."
-            }
-        ]
+        "videos": []
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -232,7 +225,14 @@
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
         "channel_name": "Moona Hoshinova hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/9e7J_lAxCEZO6IRC_Sl3Gj-bt9uPvSXolU_vBpmqWABzv99oHxzbYhWWgvRI_c2qmB4jH0p_ZA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "97b8hBwtZvY",
+                "title": "【Membership】Streaming on my Laptop【Moona Hoshinova】",
+                "thumbnail": "https://i.ytimg.com/vi/97b8hBwtZvY/hqdefault.jpg?v=681239bc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBAUGmMta4-8bazuMDFd5phOfj6vg",
+                "description": "▼Moona Hoshinova「Multiverse」\nhttps://lnk.to/mh_Multiverse\n\nStreamlabs donation link here : https://streamlabs.com/moonahoshinovahololive-id/tip\nSociaBuzz donation link here : https://sociabuz..."
+            }
+        ]
     },
     "@MoriCalliope": {
         "channel_url": "https://www.youtube.com/@MoriCalliope",
@@ -268,14 +268,7 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
-        "videos": [
-            {
-                "video_id": "WGUNH-AT5Yg",
-                "title": "【 🟣メン限配信 】月一企画🍙 セリフ読み配信😸✦【 猫又おかゆ/ホロライブ 】",
-                "thumbnail": "https://i.ytimg.com/vi/WGUNH-AT5Yg/hqdefault.jpg?v=680dc0a7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtGHeyYdSGP2Dum2iRvBLMY36MnQ",
-                "description": "❥・・ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ・・❥\n\n猫又おかゆ 2nd Live.『ぺるそにゃ～りすぺくと』\n‣ https://personyarespect.hololivepro.com/\n開催日..."
-            }
-        ]
+        "videos": []
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -306,14 +299,7 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": [
-            {
-                "video_id": "vWy7CNK0LEE",
-                "title": "【メンバーシップ限定】月１ASMR！敬語で耳かきしちゃいます。",
-                "thumbnail": "https://i.ytimg.com/vi/vWy7CNK0LEE/hqdefault.jpg?v=68121104&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkP5kduHqKX3QwuZIdxCzuaAS8Kw",
-                "description": "お耳お掃除しましょうね～✨\n\nサムネillustrator：緑豆だいずさん　https://x.com/nattoushouyu3\n✣✣––––––––––..."
-            }
-        ]
+        "videos": []
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -480,20 +466,20 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": [
-            {
-                "video_id": "uX2O6Z5-cio",
-                "title": "【メンバー限定】4月最後のメンバー限定雑談【 雪花ラミィ /ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/uX2O6Z5-cio/hqdefault.jpg?v=6810d5c6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdiMBt13K2VDx80WqNJiahqXS1Cg",
-                "description": "※22時になったらメンバー限定配信に切り替わります\n　At22:00 p.m., the distribution will switch to members-only distribution.\n　メン限で話した内容は内緒でお願..."
-            }
-        ]
+        "videos": []
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
         "channel_name": "Choco Ch. 癒月ちょこ",
         "avatar_url": "https://yt3.googleusercontent.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "WfuDIM2i0Ok",
+                "title": "【録画はメン限】悪魔の吐息ASMR【ホロライブ/癒月ちょこ】",
+                "thumbnail": "https://i.ytimg.com/vi/WfuDIM2i0Ok/hqdefault.jpg?v=68122eaa&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1aRL7BRlULLOIMVrwg7FpVkeYnA",
+                "description": "サブ垢→https://www.youtube.com/channel/UCp3tgHXw_HI0QMk1K8qh3gQ\nサムネイラスト：兎乃介様@Rakugaki_Usagi\n\nOP＆ED動画：松賀りお。様@rio_matsuka\nしょこらデザイン＆..."
+            }
+        ]
     },
     "@dooby3d": {
         "channel_url": "https://www.youtube.com/@dooby3d",
@@ -547,14 +533,7 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": [
-            {
-                "video_id": "FPxmtyR2j1A",
-                "title": "【マリカ8DX】１位とったから鍋作って夜ご飯食べる←二時間以内に1位を取れなかったらバター1本丸ごと揚げて食べる！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
-                "thumbnail": "https://i.ytimg.com/vi/FPxmtyR2j1A/hqdefault.jpg?v=681213bc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2SMiuyAR1U3UdpHcUjspRyG1Lag",
-                "description": "サムネイラスト：右左見あむろお(@usami_amroo)さん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシ..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
