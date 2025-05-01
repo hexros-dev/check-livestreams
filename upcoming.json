@@ -253,7 +253,22 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Ei6C67VsfSM",
+                "title": "【#holoRUST】強くなる初心者PvP1日目【水宮枢／FLOW GLOW】#hololiveDEV_IS",
+                "date": "2025/05/02 16:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/Ei6C67VsfSM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAni2Egu_9rPODiadwuF6ZHfkd1ug",
+                "description": "本ゲームはFacepunch Studiosの確認を得た上で、ガイドラインに則り配信・収益化を行なっております。\nhttps://facepunch.com/legal#FanContentandBroadcastGuidelines..."
+            },
+            {
+                "video_id": "VGTgeibNOxo",
+                "title": "【Minecraft 】今日から釣り名人【水宮枢／FLOW GLOW】#hololiveDEV_IS",
+                "date": "2025/05/03 11:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/VGTgeibNOxo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCOAPwgKWp1Ndw6hL4iYspywa3Caw",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n【使用MOD】\n使用MOD：Opti..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -515,7 +530,15 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "EQhdClmT1cs",
+                "title": "【PIANO】practicing and making silly notes by pressing keys! CASUAL RELAXING I AM SO RELAXED",
+                "date": "2025/05/02 02:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/EQhdClmT1cs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2AzT6Up6ORx5EoHy6885i66034w",
+                "description": "pling\n--------------------------\nHashtags\n📺 Livestream: #ImmerScreen \n🎨 Fanart: #Immergination\n🎻 Music: #ImmerPiece\n🤡 Memes: #ImmerMemes \n--------------------------\n\n-------------------..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
