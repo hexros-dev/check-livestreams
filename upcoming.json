@@ -209,15 +209,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": [
-            {
-                "video_id": "aeaBPFozNMw",
-                "title": "【Slither.io】人生初！ランキング載るぞおおお【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "date": "2025/05/01 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/aeaBPFozNMw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_mNgIkEcF0isNEuTqMTdEVU_-AA",
-                "description": "本ゲームは Steven Howse の確認を得た上で配信・収益化を行なっております\n\nサムネイルの素敵なイラスト　かきまりさんhttps://x.com/kakimariii\nてんこも..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -311,15 +303,7 @@
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
-        "videos": [
-            {
-                "video_id": "Y9UzZ5_pRP0",
-                "title": "【歌枠】ご注文はおうたのじかんですか？【ホロライブ/夏色まつり】",
-                "date": "2025/05/01 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Y9UzZ5_pRP0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-ol6tja-OO7-UZsDOjWk0Z9OiZg",
-                "description": "...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\n\n素敵なサムネイル→FeliXKohai様\n@FelixKohai\n\n\n...｡oо○**○оo｡...｡oо○**○о..."
-            }
-        ]
+        "videos": []
     },
     "@NekomataOkayu": {
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
@@ -349,7 +333,15 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ZrW0Pt9zsCs",
+                "title": "【相談のるヨ】ミオしゃが相談にのってみる枠【 ホロライブ / 大神ミオ 】",
+                "date": "2025/05/01 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ZrW0Pt9zsCs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxoD_mxxe8p_jeBknWxrho0feT7g",
+                "description": "もしかして、あなた悩んでませんか？...え？悩んでない...そうですか、ﾊﾊﾊ\n\nサムネillustrator：餅雪さん　https://x.com/Gigfor1\n✣✣–––..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -386,13 +378,6 @@
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/gKitLHfMqsfmC26xRBBNBVE9jz4m0X-xAvcdPUwy8VPa4FCw0-XRxOKLvJZxm-lQnIDQU2rDA0k",
         "videos": [
-            {
-                "video_id": "XYC6ESXVapQ",
-                "title": "【GARTIC PHONE】５月最初の視聴者参加型✨お絵描きしよおおお【ホロライブ/ ロボ子さん】",
-                "date": "2025/05/01 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/XYC6ESXVapQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhjt2cGEXNNrobjyhjKyPfTID50w",
-                "description": "＃ロボ子さん　＃ホロライブ　\n\n💬  #ロボ子生放送　でポストしてってね✨\n\n本ゲームはOnrizon Social Gamesに確認の上配信・収益化を行っております..."
-            },
             {
                 "video_id": "ck1hmHDhmAI",
                 "title": "【🏠オフコラボ】日本のお菓子を沢山買ってきた！！！食べ比べ✨【ホロライブ/Koseki Bijou ＆ロボ子さん #Robibooo  】",
@@ -602,13 +587,6 @@
                 "date": "2025/05/01 21:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/R6UKexCVv5Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5q2ziiTkNozQ2bla16lNdkbNB6w",
                 "description": "サムネイラスト：()さん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ #ぺこらいぶ..."
-            },
-            {
-                "video_id": "k8690rXzsuw",
-                "title": "【マリカ8DX】一時間以内に1位を取れなかったら23時からバター1本丸ごと揚げて食べる！ぺこ！【ホロライブ/兎田ぺこら】",
-                "date": "2025/05/01 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/k8690rXzsuw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5EhtS9TnvJqW8Z4mTB2f0SQG1LA",
-                "description": "見れるかバター揚げ！\n\nサムネイラスト：右左見あむろお(@usami_amroo)さん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://tw..."
             }
         ]
     },
