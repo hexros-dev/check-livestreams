@@ -291,14 +291,7 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": [
-            {
-                "video_id": "D2Ki2BjqedU",
-                "title": "【 ポケモンルビー 】色違い耐久１３日目🎣みこちと金コイ伝説～最弱からみんなで最強に育てる旅～【ホロライブ/さくらみこ】",
-                "thumbnail": "https://i.ytimg.com/vi/D2Ki2BjqedU/hqdefault.jpg?v=6813513c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCIDNsMI06crmHzffc3zHzJdMMk0A",
-                "description": "いま【５４００匹目】🎣#みこちと金コイ伝説\n1/8192 の戦い････いつ釣れるかな？？？？？？？\n\n＜みこと金コイを最強にする旅のルール＞..."
-            }
-        ]
+        "videos": []
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
@@ -407,7 +400,14 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "EQhdClmT1cs",
+                "title": "【PIANO】practicing and making silly notes by pressing keys! CASUAL RELAXING I AM SO RELAXED",
+                "thumbnail": "https://i.ytimg.com/vi/EQhdClmT1cs/hqdefault.jpg?v=6813adda&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2AzT6Up6ORx5EoHy6885i66034w",
+                "description": "pling\n--------------------------\nHashtags\n📺 Livestream: #ImmerScreen \n🎨 Fanart: #Immergination\n🎻 Music: #ImmerPiece\n🤡 Memes: #ImmerMemes \n--------------------------\n\n-------------------..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
