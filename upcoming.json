@@ -86,15 +86,7 @@
         "channel_url": "https://www.youtube.com/@GawrGura",
         "channel_name": "Gawr Gura Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/6BCfAqi9yIpZbHLbw9BAWySvB3XZf9r8jFqudO5nSOsHoGzLhlKrm1M1uuMCRabi_pXGDzl7",
-        "videos": [
-            {
-                "video_id": "EAdh6m3E3UI",
-                "title": "【Graduation 3D Mini Live - Gawr Gura】",
-                "date": "2025/05/01 07:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/EAdh6m3E3UI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtCo1TABXCDXm8GKwE6ROEdomSzw",
-                "description": "💙"
-            }
-        ]
+        "videos": []
     },
     "@HakosBaelz": {
         "channel_url": "https://www.youtube.com/@HakosBaelz",
@@ -160,7 +152,15 @@
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "PWS1ftGoeb8",
+                "title": "【#大空スバルちゅきちゅき選手権】ホロメンで一番スバルをちゅきなのは誰か！？【ホロライブ/宝鐘マリン】",
+                "date": "2025/05/01 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/PWS1ftGoeb8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArkz9R_8fWJZEb05NcoBBLjveAPA",
+                "description": "この枠にはいませんが愛されている人…@OozoraSubaru \n\n【司会・審査】\n@SakuraMiko @HoushouMarine \n\n【大空スバルちゅきちゅき芸人】\n@ShiroganeNoel @TsunomakiWatam..."
+            }
+        ]
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
@@ -418,7 +418,22 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/gKitLHfMqsfmC26xRBBNBVE9jz4m0X-xAvcdPUwy8VPa4FCw0-XRxOKLvJZxm-lQnIDQU2rDA0k",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "XYC6ESXVapQ",
+                "title": "【GARTIC PHONE】５月最初の視聴者参加型✨お絵描きしよおおお【ホロライブ/ ロボ子さん】",
+                "date": "2025/05/01 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/XYC6ESXVapQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhjt2cGEXNNrobjyhjKyPfTID50w",
+                "description": "＃ロボ子さん　＃ホロライブ　\n\n💬  #ロボ子生放送　でポストしてってね✨\n\n本ゲームはOnrizon Social Gamesに確認の上配信・収益化を行っております..."
+            },
+            {
+                "video_id": "ck1hmHDhmAI",
+                "title": "【🏠オフコラボ】日本のお菓子を沢山買ってきた！！！食べ比べ✨【ホロライブ/Koseki Bijou ＆ロボ子さん #Robibooo  】",
+                "date": "2025/05/02 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ck1hmHDhmAI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdsrN24z8LngnBZmVQMiNgW3onQQ",
+                "description": "＃オフコラボ　＃お菓子\n\n💬  #Robibooo   でポストしてってね✨\nbibooに日本のおかしをたべてもらうぞぞ\n🏠welcome house\n@KosekiBijou \n\n⚡毎日１２時にシ..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -566,15 +581,7 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": [
-            {
-                "video_id": "TbbY5wCBL2E",
-                "title": "【POKEMON EMERALD】TO THE SECOND GYM AND BEYOND!【NUZLOCKE】",
-                "date": "2025/05/01 10:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/TbbY5wCBL2E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHNdG-kwQJqENUQEqsHNhdEGlAaQ",
-                "description": "【Acrylic Stands】 \n▼Official Online Shop▼\nJP: https://shop.hololivepro.com/products/hololiveen_regularoutfit_acrylicstand \nEN: https://shop.hololivepro.com/en/products/hololiveen_regularoutf..."
-            }
-        ]
+        "videos": []
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",

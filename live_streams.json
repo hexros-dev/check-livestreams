@@ -51,7 +51,20 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "d3Mit2Fq6EI",
+                "title": "【FWMC MINECRAFT JOURNEY】fuzzy and soothing minecraft silliness 🐾【MOCOCO POV】",
+                "thumbnail": "https://i.ytimg.com/vi/d3Mit2Fq6EI/hqdefault.jpg?v=68122ba2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgEsNov65tfqfpD5JR_EZ2w06Jvw",
+                "description": "calming return back to discovering minecraft from a newbie's perspective ✨\nour first real guerilla... let's just take big breaths together 🐾\nlovely illustration by @_hinatahirune 💕..."
+            },
+            {
+                "video_id": "lOxEx3GQJic",
+                "title": "【FWMC MINECRAFT JOURNEY】fluffy and soothing minecraft silliness 🐾【FUWAWA POV】",
+                "thumbnail": "https://i.ytimg.com/vi/lOxEx3GQJic/hqdefault.jpg?v=68122c1f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtyJ22q8Ybj2nCCGWyM98WDdrfZw",
+                "description": "calming return back to discovering minecraft from a newbie's perspective ✨\nour first real guerilla... let's just take big breaths together 🐾\nlovely illustration by @_hinatahirune 💕..."
+            }
+        ]
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -411,7 +424,14 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "TbbY5wCBL2E",
+                "title": "【POKEMON EMERALD】TO THE SECOND GYM AND BEYOND!【NUZLOCKE】",
+                "thumbnail": "https://i.ytimg.com/vi/TbbY5wCBL2E/hqdefault.jpg?v=68110eef&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHNdG-kwQJqENUQEqsHNhdEGlAaQ",
+                "description": "【Acrylic Stands】 \n▼Official Online Shop▼\nJP: https://shop.hololivepro.com/products/hololiveen_regularoutfit_acrylicstand \nEN: https://shop.hololivepro.com/en/products/hololiveen_regularoutf..."
+            }
+        ]
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
@@ -429,14 +449,7 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": [
-            {
-                "video_id": "kiAVL8T-fUE",
-                "title": "【Oblivion Remastered】 So when does Faendal show up?",
-                "thumbnail": "https://i.ytimg.com/vi/kiAVL8T-fUE/hqdefault.jpg?v=68128fc0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxYqRqNwawORDmxiSJ3_seFSy19w",
-                "description": "100 FOV vs motion sickness who will win\n\n☁  Thumbnail Art  ☁\nhttps://x.com/noromin__/status/1916990813457846418\nThank you so much!!\n\n  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋\n\nKonbakuwa!..."
-            }
-        ]
+        "videos": []
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
