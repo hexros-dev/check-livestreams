@@ -53,13 +53,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
         "videos": [
             {
-                "video_id": "FFVSnJtV15I",
-                "title": "【DONKEY KONG COUNTRY 2】 these demon dogs have DEFINITELY gone bananas 🍌【FUWAMOCO｜スーパードンキーコング2】",
-                "date": "2025/05/02 12:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/FFVSnJtV15I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCrOwL75IgwVnbmPuGsHRmhZeaAhg",
-                "description": "are we donkey kong professionals yet ✨️\nlovely illustration by @_OrangeJuice13 💕\nNintendo properties used in this video and livestream are used with permission and under license by Nintendo..."
-            },
-            {
                 "video_id": "T5I5u9M1ZKY",
                 "title": "【FUWAMOCO MORNING】episode 152 🐾 #FWMCMORNING",
                 "date": "2025/05/02 22:00:00",
@@ -436,7 +429,15 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "YtZSK69ga70",
+                "title": "【デュエルマスターズ プレイス】ホロライブコラボきちゃあああ！早速フレアと遊んでみる！！！【白銀ノエル/ホロライブ】",
+                "date": "2025/05/02 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/YtZSK69ga70/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkkW_4X-mHjkHebz9MCL35KSld3A",
+                "description": "🔥コラボ相手様：不知火フレア(@ShiranuiFlare )\n\n■デュエル・マスターズ プレイス公式YouTubeチャンネル http://www.youtube.com/channel/UC86Z1jxgb8dpJSL1h4d_5Ug?sub_..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
