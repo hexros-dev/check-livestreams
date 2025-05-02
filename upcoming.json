@@ -410,7 +410,15 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "cSVfZtL8GyQ",
+                "title": "A Wonderland Tea Party【Happy Birthday 2025】#partyvella2025",
+                "date": "2025/05/03 09:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/cSVfZtL8GyQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPJIffBQTf8vdTidhfleiBDxQhyw",
+                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n\n==============..."
+            }
+        ]
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
@@ -526,15 +534,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "ZFtGoJATKGA",
-                "title": "【R.E.P.O.】absorbing mori calliope's braincells",
-                "date": "2025/05/02 09:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/ZFtGoJATKGA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFkGDJeO_-hvdHQD5b3BY2gcSLSA",
-                "description": "@MoriCalliope \n\nGame title: R.E.P.O\nStore page: https://store.steampowered.com/app/3241660/REPO/\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
@@ -546,6 +546,13 @@
                 "title": "【ASMR】Let this Sleepy Cat guide you to dreamland 🐱✨🩷",
                 "date": "2025/05/02 11:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/GwtUl6LqdZY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZSlJeaUokBVDiDZ9Nyb-BHRWWkg",
+                "description": "『 X formely Twitter 』\nhttps://x.com/raorapanthera\n\n『 Hashtags 』\n╰┈➤ Live  #CiaoRaora\n╰┈➤ Fanarts  #RaorArt\n╰┈➤ Clips  #RaraWara\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
+            },
+            {
+                "video_id": "MeLBh4BTBNs",
+                "title": "【ASMR】Whispers from a Sleepy Cat 🐱✨🩷【MEMBERS ONLY】",
+                "date": "2025/05/02 12:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/MeLBh4BTBNs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsc5jial-xdEs4n0WXqnWs0388MA",
                 "description": "『 X formely Twitter 』\nhttps://x.com/raorapanthera\n\n『 Hashtags 』\n╰┈➤ Live  #CiaoRaora\n╰┈➤ Fanarts  #RaorArt\n╰┈➤ Clips  #RaraWara\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
             }
         ]
