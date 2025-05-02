@@ -39,7 +39,15 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "LJEoA_1vfmU",
+                "title": "【MARVEL RIVALS】WE'RE BACK DOING DAILIES !!【Ayunda Risu】",
+                "date": "2025/05/02 12:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/LJEoA_1vfmU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCA_oUE1fqSFXqmyr6TDskxSa3LPw",
+                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nThis game is being streamed and monetized after confirming with NetEase Inc.\n\nーーーーーーーーー\nCHECK OUT RISU 5TH ANNIVERSARY..."
+            }
+        ]
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -541,15 +549,7 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": [
-            {
-                "video_id": "MeLBh4BTBNs",
-                "title": "【ASMR】Whispers from a Sleepy Cat 🐱✨🩷【MEMBERS ONLY】",
-                "date": "2025/05/02 12:20:00",
-                "thumbnail": "https://i.ytimg.com/vi/MeLBh4BTBNs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsc5jial-xdEs4n0WXqnWs0388MA",
-                "description": "『 X formely Twitter 』\nhttps://x.com/raorapanthera\n\n『 Hashtags 』\n╰┈➤ Live  #CiaoRaora\n╰┈➤ Fanarts  #RaorArt\n╰┈➤ Clips  #RaraWara\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
-            }
-        ]
+        "videos": []
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
