@@ -256,14 +256,7 @@
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
         "channel_name": "Laplus ch. ラプラス・ダークネス - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/6Y5lj4DhikLBo0UqIZ1dT3-D3aYXVPbxUgNTyYiyE_Se8AVxkGAn05D3oc1y3whpzDu-CzEQ",
-        "videos": [
-            {
-                "video_id": "1AfUpwBNRLQ",
-                "title": "【#holoRUST】ホロメンを合法的にやりまくる！！！🤓【ラプラス・ダークネス/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/1AfUpwBNRLQ/hqdefault.jpg?v=6814725f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQHFGkzCrJV7tKj3uahX0eCaGxPw",
-                "description": "～PVP開催期間﻿～\n5月2日 18:00～25:00 公認PVP時間 20:00～23:00\n5月3日 18:00～24:00 公認PVP時間 20:00～23:00\n集計＆発表 23:00～24:00\n\n～ルール～\n・２日間の間..."
-            }
-        ]
+        "videos": []
     },
     "@MizumiyaSu": {
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
@@ -331,14 +324,7 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
-        "videos": [
-            {
-                "video_id": "BOo3SCHWsng",
-                "title": "【 Minecraft / ホロ鯖 】道徳崩壊経験値トラップの切り抜きを見よう😸🗡️✦【 猫又おかゆ/ホロライブ 】",
-                "thumbnail": "https://i.ytimg.com/vi/BOo3SCHWsng/hqdefault.jpg?v=68139575&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4x0CmHP6IENnAEwZlnTarB9DmJg",
-                "description": "❥・・ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ・・❥\n\n猫又おかゆ 2nd Live.『ぺるそにゃ～りすぺくと』\n‣ https://personyarespect.hololivepro.com/\n開催日..."
-            }
-        ]
+        "videos": []
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -400,7 +386,14 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "qIS2CpQOvqE",
+                "title": "【Members Only】THAT'S NOT MY NEIGHBOR【Pavolia Reine/hololiveID 2nd gen】",
+                "thumbnail": "https://i.ytimg.com/vi/qIS2CpQOvqE/hqdefault.jpg?v=6814bf00&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJIhq3dCagIyvnkJeZA4aPV_fabA",
+                "description": "Game title: That's not my Neighbor\nStore page: https://store.steampowered.com/app/3431040/Thats_not_my_Neighbor/\n\nReine's new original song now AVAILABLE on iTunes, Apple Music, Spotify etc...."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
