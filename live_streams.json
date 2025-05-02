@@ -79,7 +79,14 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "T5I5u9M1ZKY",
+                "title": "【FUWAMOCO MORNING】episode 152 🐾 #FWMCMORNING",
+                "thumbnail": "https://i.ytimg.com/vi/T5I5u9M1ZKY/hqdefault.jpg?v=68127883&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBamp6pOAiP7kzTa80_uyeLseICQQ",
+                "description": "ending off the week together again ✨\nlovely illustration by @Ikanikannika09 💕\njingle by @Sarina_A_Elysia ♪\n\n✨️🩵🩷 Go watch our 𝗙𝗨𝗪𝗔𝗠𝗢𝗖𝗢 𝟯𝗗 𝗕𝗜𝗥..."
+            }
+        ]
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -91,20 +98,20 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "LQ-bt1Fz5QQ",
+                "title": "≪Midnight Friday Radio - unarchived≫ Episode 13 #shorts",
+                "thumbnail": "https://i.ytimg.com/vi/LQ-bt1Fz5QQ/hqdefault.jpg?v=68145c82&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDOdcZoTxDaBVtCncUtcvwBGyiDw",
+                "description": "say hello to the void \n\n#telebae  #hololiveenglish \n\n««≪ °◇◆◇° ≫ »»\n\n≪ NEW ORIGINAL「狂宴-FEAST-」 ≫\nhttps://www.youtube.com/watch?v=j4-E6tEpyiU\nhttps://cover.lnk.to/R6l97d..."
+            }
+        ]
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "bVP0na4yyvQ",
-                "title": "【モンハンワイルズ】歴戦王レ・ダウきちゃ！初挑戦！！乙ったら脱ぐモンハン！【博衣こより/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/bVP0na4yyvQ/hqdefault.jpg?v=68132f6f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDSpvjUByRzZFD67CsceUIUcVL6ZA",
-                "description": "ふつうのレ・ダウの動きはだいぶ覚えてますので自信ありますけども・・・！？？？？\n💿1stアルバム「FIRST STEP」発売中！全曲新録！成長した歌..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -135,14 +142,7 @@
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk",
-        "videos": [
-            {
-                "video_id": "yxmy8Md88No",
-                "title": "【メンバーシップ限定】【ホロライブ/宝鐘マリン】",
-                "thumbnail": "https://i.ytimg.com/vi/yxmy8Md88No/hqdefault.jpg?v=681475cd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATU-kVH-PLjX3Fr8ksKsM5w71Rbw",
-                "description": "｡.｡:+* ﾟ ゜ﾟ *+:｡.｡:+* ﾟ ゜ﾟ *+:｡.｡.｡:+*ﾟ ゜ﾟ *+:｡.｡:+*ﾟ ゜ﾟ *+:｡.｡.｡:+*+:｡.｡｡\n🏴‍☠️🐻クマリンまみれグッズ販売開始🐻🏴..."
-            }
-        ]
+        "videos": []
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
@@ -287,7 +287,14 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "2X8h7UI28mE",
+                "title": "【SPLIT FICTION】Saving the World with @TakanashiKiara !! (finale)",
+                "thumbnail": "https://i.ytimg.com/vi/2X8h7UI28mE/hqdefault.jpg?v=6810dafa&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBuq9eTmFcX3m72mAc-tKvr_pLq5Q",
+                "description": "watch the previous: https://www.youtube.com/watch?v=g_HGuPjhvF8\n\n💀💀 CONCERT MERCHANDISE 💀💀\nーーーーーーーーーーーーーーーー\n▼hololive production OFFICIAL SHOP..."
+            }
+        ]
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -354,14 +361,7 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": [
-            {
-                "video_id": "uM1Y5NnnV6k",
-                "title": "【#4】Fate/stay night みるしゅばああああああああああああああああああ！！！！！！：Fate/stay night watching party【ホロライブ/大空スバル】",
-                "thumbnail": "https://i.ytimg.com/vi/uM1Y5NnnV6k/hqdefault.jpg?v=6814ba53&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDq7DU_wfq9SNrrOMcXhMXxsT45TA",
-                "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n+‥‥‥‥..."
-            }
-        ]
+        "videos": []
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -472,7 +472,14 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Deyw4rrRM1A",
+                "title": "【雑談】おしゃヴぇりしよ～！【轟はじめ/ReGLOSS】 #hololivedev_is",
+                "thumbnail": "https://i.ytimg.com/vi/Deyw4rrRM1A/hqdefault.jpg?v=6814cb4e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPN4phK5nUtCKooyNL4BHTMU4JzQ",
+                "description": "素敵なサムネお写真：muiまる様（@mui_maru）\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n✨宣伝✨\n\n💜【Original】Countach/轟はじめ【Official MV】💜..."
+            }
+        ]
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
