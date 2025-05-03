@@ -202,7 +202,14 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "kCiO6UWFpSs",
+                "title": "【MONSTER HUNTER WILDS】This stream ends when i beat arch tempered rey dau",
+                "thumbnail": "https://i.ytimg.com/vi/kCiO6UWFpSs/hqdefault.jpg?v=6815de02&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChxdoGOVZv5NkvIRHUKVFzyb08cw",
+                "description": "This video and livestream are being streamed with permission and under license by CAPCOM CO., LTD.\nMonster Hunter Wilds\n©CAPCOM\n#MHWilds\nPalico accessories were designed and created with permissio..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
