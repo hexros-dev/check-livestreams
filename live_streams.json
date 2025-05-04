@@ -485,7 +485,14 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "PIorDk74QTw",
+                "title": "【スゴイツヨイトウフ】わたしは湯豆腐が好きです。【ホロライブ/ときのそら】",
+                "thumbnail": "https://i.ytimg.com/vi/PIorDk74QTw/hqdefault.jpg?v=681765f8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDssnvddoJaTGc0yArRrm2J_j1MPw",
+                "description": "一体どんなゲームなんだ！？\n\n\n本ゲームは、配信ガイドラインに則り配信、収益化を行っています。\n『スゴイツヨイトウフ』\nhttps://store.steampowered...."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
