@@ -29,14 +29,7 @@
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
         "avatar_url": "https://yt3.googleusercontent.com/Ob0LQV8-i9FXY_GX4AEnsWsxvYUojcYtjZjtLsmjQRtPoYMZN5qWAe9hRhy7sMa19PlF61BG",
-        "videos": [
-            {
-                "video_id": "wn2DcixtE3w",
-                "title": "【 歌枠 】GW！✨おでかけでまったり聴きたい曲歌う！【ホロライブ/赤井はあと】",
-                "thumbnail": "https://i.ytimg.com/vi/wn2DcixtE3w/hqdefault.jpg?v=681772e5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCz6b8uLdjZzhRj6fA28lJVMJKxVw",
-                "description": "サムネイラスト：MAGOWASABI先輩\nhttps://x.com/magowasabi\n\n音源提供\nhttps://www.youtube.com/@UCWX2b3xIeJHoiNOPd9nTuKA \nhttps://www.youtube.com/@uta-cha-oh\nhttps://www.youtube.com/@ア..."
-            }
-        ]
+        "videos": []
     },
     "@AkiRosenthal": {
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
@@ -232,7 +225,14 @@
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
         "channel_name": "Moona Hoshinova hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/9e7J_lAxCEZO6IRC_Sl3Gj-bt9uPvSXolU_vBpmqWABzv99oHxzbYhWWgvRI_c2qmB4jH0p_ZA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "rceEPXHIBLM",
+                "title": "【might be UNARCHIVE】Karaoke time!! 【Moona Hoshinova】",
+                "thumbnail": "https://i.ytimg.com/vi/rceEPXHIBLM/hqdefault.jpg?v=68178401&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBgJR5TSLBU7ugd2je2zrFQpoHMRg",
+                "description": "Streamlabs donation link here : https://streamlabs.com/moonahoshinovahololive-id/tip\nSociaBuzz donation link here : https://sociabuzz.com/moonahoshinova/tribe\n======================================..."
+            }
+        ]
     },
     "@MoriCalliope": {
         "channel_url": "https://www.youtube.com/@MoriCalliope",
@@ -275,14 +275,7 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
-        "videos": [
-            {
-                "video_id": "y4kQsTa2GYY",
-                "title": "【 ポケモン｜リーフグリーン 】人生縛りでポケモンマスター目指す😸#05【 猫又おかゆ/ホロライブ 】",
-                "thumbnail": "https://i.ytimg.com/vi/y4kQsTa2GYY/hqdefault.jpg?v=68160311&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1JIpWmhf6oknFK2DsNDAxSgbUWw",
-                "description": "ㅤ\n#01 ▶https://www.youtube.com/watch?v=ZRtpdxWvYTw\n#04 ▶https://www.youtube.com/live/E14H0uLMFF8?si=9s0Hf15htrvZV_5k\n\n✅ルール説明\n・ひんしになったポケモンは使用不可..."
-            }
-        ]
+        "videos": []
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
