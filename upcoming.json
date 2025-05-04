@@ -94,13 +94,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
         "videos": [
             {
-                "video_id": "8wmsTKu_Jlk",
-                "title": "【ワギャンランド2】 #こよの日24 ゲームトライアスロン2枠目！完全初見クリア耐久！【博衣こより/ホロライブ】",
-                "date": "2025/05/04 22:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/8wmsTKu_Jlk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRe0SF7TqtPHIEyMoicHvEwuIsaA",
-                "description": "#こよの日24 ゲームトライアスロン5/4(日)19:00～5/5(月)19:00の24時間開催！🎉クリア次第次のゲームへ！\n🎮1枠目：星のカービィ64▶ https://youtube.com/liv..."
-            },
-            {
                 "video_id": "KMAWPYDMrno",
                 "title": "【 #朝こよ 】24時間配信の次の日も！？火曜日の朝は朝こよ！新衣装でお届け☀ #231 【博衣こより/hololive】",
                 "date": "2025/05/06 05:00:00",
@@ -215,7 +208,15 @@
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
         "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/ACubs_Mw4YtmgHDIIZvW_gZaPf_VR1wg9yffFLsq4Lrw-W7Md-0pK4Gob8OJebCYCmgrArsE",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "fhS6FwYDSfI",
+                "title": "【リトルナイトメア】多分今までで一番怖いやつです。虎の勘です。※ネタバレあり【虎金妃笑虎】",
+                "date": "2025/05/05 18:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/fhS6FwYDSfI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDonSn0fOxB2vfkSgkBNT7OERnTaw",
+                "description": "サムネイルのイラストはねこやまさん！✨\nhttps://x.com/neko_yama/status/1855221304040825052\n\nこのゲーム実況は「バンダイナムコエンターテインメント..."
+            }
+        ]
     },
     "@KosekiBijou": {
         "channel_url": "https://www.youtube.com/@KosekiBijou",
@@ -477,7 +478,15 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "QntWuW99SsY",
+                "title": "【FINAL FANTASY XIV】FF14初見太郎！ナイトはタンクらしい？！ホロメンと一緒に極タイタン討滅戦を目指すぞ🔥【#HOLOXIV 白銀ノエル視点】",
+                "date": "2025/05/05 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/QntWuW99SsY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7-2QbgbumM5WUA0B_Op1fr-QYAg",
+                "description": "スイッチスイッチスイッチ！！！\n\n＼\\　#FF14 討滅戦企画　/／\n\n#HOLOXIV は初心者&経験者で挑む超絶エンジョイ企画です。\n\n【配信スケジュール..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
