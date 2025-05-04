@@ -103,13 +103,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
         "videos": [
             {
-                "video_id": "3pQM8MJ_-yA",
-                "title": "【星のカービィ64】 #こよの日24 ゲームトライアスロン1枠目！完全初見クリア耐久！【博衣こより/ホロライブ】",
-                "date": "2025/05/04 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/3pQM8MJ_-yA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4FKhJbuQypTQej2k2cfDzr0U-ig",
-                "description": "#こよの日24 ゲームトライアスロン5/4(日)19:00～5/5(月)19:00の24時間開催！🎉クリア次第次のゲームへ！\n🎮1枠目：星のカービィ64▶ ココ！\n🎮2枠目..."
-            },
-            {
                 "video_id": "8wmsTKu_Jlk",
                 "title": "【ワギャンランド2】 #こよの日24 ゲームトライアスロン2枠目！完全初見クリア耐久！【博衣こより/ホロライブ】",
                 "date": "2025/05/04 22:00:00",
@@ -207,15 +200,7 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": [
-            {
-                "video_id": "PP4VFOVVfdo",
-                "title": "【#気まぐれ薄明ラジオ 】5月に見に行きたい！全国の展覧会を紹介しますスペシャル！！【儒烏風亭らでん #ReGLOSS 】",
-                "date": "2025/05/04 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/PP4VFOVVfdo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAsa1i1awq5JW2CRVIFLIipu4uYmw",
-                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\n気まぐれ薄明ラジオとは…？\n儒烏風亭らでん..."
-            }
-        ]
+        "videos": []
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -601,7 +586,15 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "q96wjZayV-g",
+                "title": "【ポケットモンスターエメラルド】#02 完全初見！2つ目のバッジ目指して！【 雪花ラミィ /ホロライブ】",
+                "date": "2025/05/05 12:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/q96wjZayV-g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzyDB9ekFMMt3ZwZdviiDMwnWN8A",
+                "description": "感想は #らみらいぶ で呟いて頂けたら嬉しいです！\n\nサムネイルのイラスト：岐兎こるたさま\nhttps://x.com/kito_koruta\n\n配信タイトル：ポケットモンス..."
+            }
+        ]
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
@@ -737,11 +730,11 @@
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
         "videos": [
             {
-                "video_id": "4IFSnOI2vmw",
-                "title": "【配信予定】ぺこ！【ホロライブ/兎田ぺこら】",
-                "date": "2025/05/04 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/4IFSnOI2vmw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCrK1GPnO4gF63stX3BrvGsZpzWGQ",
-                "description": "めちゃねた委員長\n\nサムネイラスト：()さん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタ..."
+                "video_id": "_JHLX_DNlXc",
+                "title": "【料理】「揚げバター」ついに作るぞ！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
+                "date": "2025/05/04 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/_JHLX_DNlXc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNF0pjXNIiArrZV1eSQoHy4D8M9A",
+                "description": "さすがに１位２回はあのぺこーらもキツイやろ！\n\nサムネイラスト：()さん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕..."
             }
         ]
     },
