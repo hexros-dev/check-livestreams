@@ -574,7 +574,15 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "dgfH4qnRlfw",
+                "title": "【ENigmatic Recollection】surely i didn't miss anything while i was away for a day right",
+                "date": "2025/05/06 06:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/dgfH4qnRlfw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyXtxI2Xktv0k0TKP2fm4jar6z_w",
+                "description": "start time is ballpark range\nthumbnail: https://x.com/_nHase/status/1919082092828516566\n\n------------------\n◆Chapter 2 Theme Song \"MONSTER\" MV: https://youtu.be/nUrITFpI85A\n◆ENigmatic Recollect..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
