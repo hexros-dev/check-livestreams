@@ -39,14 +39,7 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": [
-            {
-                "video_id": "D24911D0HVc",
-                "title": "【M.M.M.】Monday Morning Malas : with New PC【Ayunda Risu】",
-                "thumbnail": "https://i.ytimg.com/vi/D24911D0HVc/hqdefault.jpg?v=6817b717&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBN2r3wYtdiIZ1HIn2FXq_VSfFr_A",
-                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nーーーーーーーーー\nCHECK OUT RISU 5TH ANNIVERSARY MERCH!\nSales start: 10 April 2025, 21:00 WIB/ 23:00 JST\nSales end: 12 May..."
-            }
-        ]
+        "videos": []
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -289,7 +282,14 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "k9ZejRHvNV0",
+                "title": "【ENigmatic Recollection】I... Am Weary",
+                "thumbnail": "https://i.ytimg.com/vi/k9ZejRHvNV0/hqdefault.jpg?v=68184d9f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLByNpPukjQ-mv2iz3m9mjuSvFi0pw",
+                "description": "◆Chapter 2 Theme Song \"MONSTER\" MV: https://youtu.be/nUrITFpI85A\n◆ENigmatic Recollection Chapter 2 Game Trailer: https://youtu.be/dr1ss6z3CH4\n\n◆What is “ENigmatic Recollection”?\nENigmatic..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
@@ -387,14 +387,7 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": [
-            {
-                "video_id": "CwwD8D1uvAw",
-                "title": "【ゼルダの伝説 時のオカリナ】いよいよ最後の戦いか！？【ホロライブ/ときのそら】",
-                "thumbnail": "https://i.ytimg.com/vi/CwwD8D1uvAw/hqdefault.jpg?v=68182486&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWsU0fs_XG1rUiPBcqu5iulFY1AQ",
-                "description": "いくぞ！！ラストダンジョン！！\n\n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n～サムネイラスト～\nジャッピ..."
-            }
-        ]
+        "videos": []
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
