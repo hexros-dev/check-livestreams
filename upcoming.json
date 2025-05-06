@@ -286,7 +286,15 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "l9HKSDG50HM",
+                "title": "【ENigmatic Recollection】There is No #3 :3【#4】",
+                "date": "2025/05/07 07:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/l9HKSDG50HM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0LoP4awuprYAl0uvT7pZYkBW_uw",
+                "description": "◆Chapter 2 Theme Song \"MONSTER\" MV: https://youtu.be/nUrITFpI85A\n◆ENigmatic Recollection Chapter 2 Game Trailer: https://youtu.be/dr1ss6z3CH4\n\n◆What is “ENigmatic Recollection”?\nENigmatic..."
+            }
+        ]
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
