@@ -65,7 +65,14 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "mUbbdKNGz9g",
+                "title": "【FUWAMOCO MORNING】episode 154 🐾 #FWMCMORNING",
+                "thumbnail": "https://i.ytimg.com/vi/mUbbdKNGz9g/hqdefault.jpg?v=681a27f4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBp0_RvO8g-pMhm0bsogWsXkss-XA",
+                "description": "keep going strong ✨\nlovely illustration by @11matsuri_co11 💕\njingle by @Sarina_A_Elysia ♪\n\n✨️🩵🩷 Go watch our 𝗙𝗨𝗪𝗔𝗠𝗢𝗖𝗢 𝟯𝗗 𝗕𝗜𝗥𝗧𝗛𝗗𝗔..."
+            }
+        ]
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -126,14 +133,7 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
-        "videos": [
-            {
-                "video_id": "AoMvTyH_LJg",
-                "title": "【#スマブラサドンデス】生き残るのは誰だ！？ DEV_IS スマブラ サドンデスバトル🔥【一条莉々華/hololive DEV_IS　ReGLOSS】",
-                "thumbnail": "https://i.ytimg.com/vi/AoMvTyH_LJg/hqdefault.jpg?v=681b6ce8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRfjLXNqpo-lT7aVC0jS0RLhLESw",
-                "description": "5/6 12:00に正式告知予定です！\n\nデバイスメンバーで、ドキドキの✨大乱闘スマッシュブラザーズSPECIAL✨\nデバイス最強は一体誰の手に…！？！！！..."
-            }
-        ]
+        "videos": []
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -387,14 +387,7 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": [
-            {
-                "video_id": "jy2x67ny1rw",
-                "title": "【誕生日に向けて】準備してます＆配信の相談会！！【ホロライブ/ときのそら】",
-                "thumbnail": "https://i.ytimg.com/vi/jy2x67ny1rw/hqdefault.jpg?v=681b566e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBaShEaZ5ZB9iKXNrRTatlMN81cHA",
-                "description": "という名の雑談です。\n相談といっても重いものは全くない！！\n\n～サムネイラスト～\nくぅ。様\nhttps://x.com/kuuuu\n★★★★★★★★★★★★★★★★..."
-            }
-        ]
+        "videos": []
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
@@ -412,7 +405,14 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "C4E83RBpjt0",
+                "title": "【The Elder Scrolls IV: Oblivion Remastered】Testing it out...",
+                "thumbnail": "https://i.ytimg.com/vi/C4E83RBpjt0/hqdefault.jpg?v=681af1da&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBy7Ck4Rv3274AUZvVtn3TrwkPYtA",
+                "description": "Game Title: The Elder Scrolls IV: Oblivion Remastered\nStore Page: https://store.steampowered.com/app/2623190/The_Elder_Scrolls_IV_Oblivion_Remastered/\n\n-----\nVestia Zeta's  2nd Original Song..."
+            }
+        ]
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
@@ -424,14 +424,7 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": [
-            {
-                "video_id": "v4anDGjPjOk",
-                "title": "【ラミィの大冒険】ラミィがプレイするラミィの大冒険！！【 雪花ラミィ /ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/v4anDGjPjOk/hqdefault.jpg?v=6819d7a0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA27ROdhtm4I-rddEUbRGsbplorsg",
-                "description": "感想は #らみらいぶ で呟いて頂けたら嬉しいです！\n\nサムネイルのイラスト：めあさま\nhttps://x.com/Meir_night\n\n\n配信タイトル：ラミィの大冒険 1&2..."
-            }
-        ]
+        "videos": []
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
@@ -455,14 +448,7 @@
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48",
-        "videos": [
-            {
-                "video_id": "1tE2N1kP2YA",
-                "title": "【ENigmatic Recollection】Episode 04: \"The Chains Of Fate\" (Chapter 02) ~! 💄",
-                "thumbnail": "https://i.ytimg.com/vi/1tE2N1kP2YA/hqdefault.jpg?v=68168c7b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDN04HkHrGa3geu7B50fsentM6DrQ",
-                "description": "EPISODE 04.\n▬▬ι════════ﺤ\n◆Chapter 2 Theme Song \"MONSTER\" MV: https://youtu.be/nUrITFpI85A\n◆ENigmatic Recollection Chapter 2 Game Trailer: https://youtu.be/dr1ss6z3CH4..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_gigimurin": {
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
