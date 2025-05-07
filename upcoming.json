@@ -325,7 +325,22 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "JhW7ajKWC84",
+                "title": "【Frostpunk 2】New Update + Something More...?",
+                "date": "2025/05/08 05:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/JhW7ajKWC84/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDepT1Xh3Sk6oSlbYoVBLWc1ZHDCg",
+                "description": "This game is being streamed and monetized after confirming with 11 bit studios.\n\n[Twitter]\nhttps://twitter.com/ourokronii\n\n[Thumbnail Art]\nhttps://x.com/GGT_can\n\n-----------------------------------..."
+            },
+            {
+                "video_id": "PukMnVXnJMo",
+                "title": "【ENigmatic Recollection】HUZZAH",
+                "date": "2025/05/08 09:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/PukMnVXnJMo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmOrAuh565p9hbuwkLG7sPeaArVQ",
+                "description": "◆Chapter 2 Theme Song \"MONSTER\" MV: https://youtu.be/nUrITFpI85A\n◆ENigmatic Recollection Chapter 2 Game Trailer: https://youtu.be/dr1ss6z3CH4\n\n◆What is “ENigmatic Recollection”?\nENigmatic..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
