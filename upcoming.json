@@ -107,7 +107,15 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "UyN7jwsiiXA",
+                "title": "【ENigmatic Recollection: Chapter 2】Libestal Days",
+                "date": "2025/05/08 08:40:00",
+                "thumbnail": "https://i.ytimg.com/vi/UyN7jwsiiXA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbS7KYDQ0jyjs-2cNbD09WRrcftA",
+                "description": "HPO part 4 (Day 5)\n\n#hololiveenglish  #ホロライブ \n\nSTREAM MY NEW ORIGINAL SONG, Diamond Girlfriend Feat.MOTSU▼\nhttps://youtu.be/EXM0EE_NpQc\n\nMy newest EP \"YaBAI\" is open for pre-orders..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
