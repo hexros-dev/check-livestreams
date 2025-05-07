@@ -153,14 +153,7 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": [
-            {
-                "video_id": "Zg3rYsc61XI",
-                "title": "【ENigmatic Recollection: The Chains of Fate】Let's get that BREAD【DAY 4】#ENreco",
-                "thumbnail": "https://i.ytimg.com/vi/Zg3rYsc61XI/hqdefault.jpg?v=681a6d02&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3hOAzK6-iACp5eEkS5ha44Np4nA",
-                "description": "BIRTHDAY MERCH\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/kosekibijou_birthday_2025\nEN: https://shop.hololivepro.com/en/products/kosekibijou_birthday_2025..."
-            }
-        ]
+        "videos": []
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -288,7 +281,14 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "CmZEPlBgSpE",
+                "title": "【HADES】DAYTIME HADES STREAM【Pavolia Reine/hololiveID 2nd gen】",
+                "thumbnail": "https://i.ytimg.com/vi/CmZEPlBgSpE/hqdefault.jpg?v=681afc61&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWIU8ADvVVbszWvOG-Xj9I21ku5A",
+                "description": "~Day of MERAKyats~ 2025 merch kini tersedia🥳\nDapatkan\n🔵Boneka plushie Reine dengan kostum MERAKyats \n🔵\"Joinda!\" Topi Pelatih\n🔵Gelas Mug Menyegarkan MERAKyats \n🔵Kalung MERAKyats..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
