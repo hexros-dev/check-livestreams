@@ -53,14 +53,7 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": [
-            {
-                "video_id": "-x1roGqIVFI",
-                "title": "【DINKUM】Chilling in Dinkum【Ayunda Risu】",
-                "thumbnail": "https://i.ytimg.com/vi/-x1roGqIVFI/hqdefault.jpg?v=681b0c0c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAukxr2ClVO5180hLGBVa-nx-xHPQ",
-                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nGame Title: Dinkum\nStore Page: https://store.steampowered.com/app/1062520/Dinkum/\n\nーーーーーーーーー\nCHECK OUT RISU 5TH ANNIVERSAR..."
-            }
-        ]
+        "videos": []
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -121,14 +114,7 @@
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk",
-        "videos": [
-            {
-                "video_id": "TKZL2bw8eaY",
-                "title": "【メンバーシップ限定】システムボイス公開録音!!キミたちのリクエストお応え【ホロライブ/宝鐘マリン】",
-                "thumbnail": "https://i.ytimg.com/vi/TKZL2bw8eaY/hqdefault.jpg?v=681b1b8e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqz-7D7dMi5Q0Mkc9BV6NsfB3vcA",
-                "description": "｡.｡:+* ﾟ ゜ﾟ *+:｡.｡:+* ﾟ ゜ﾟ *+:｡.｡.｡:+*ﾟ ゜ﾟ *+:｡.｡:+*ﾟ ゜ﾟ *+:｡.｡.｡:+*+:｡.｡｡\n🏴‍☠️🐻クマリンまみれグッズ販売開始🐻🏴..."
-            }
-        ]
+        "videos": []
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
@@ -140,7 +126,14 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "vENN_dst0lc",
+                "title": "【#スマブラサドンデス】生き残るのは誰だ！？ DEV_IS スマブラ サドンデスバトル🔥【一条莉々華/hololive DEV_IS　ReGLOSS】",
+                "thumbnail": "https://i.ytimg.com/vi/vENN_dst0lc/hqdefault.jpg?v=6818e385&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZ4-9GEVsh95mwA1cn1OMJIGwKgA",
+                "description": "5/6 12:00に正式告知予定です！\n\nデバイスメンバーで、ドキドキの✨大乱闘スマッシュブラザーズSPECIAL✨\nデバイス最強は一体誰の手に…！？！！！..."
+            }
+        ]
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -323,7 +316,14 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "MIhQclC7NRY",
+                "title": "【BLUE PRINCE】DOOR OPEN: START!【Pavolia Reine/hololiveID 2nd gen】",
+                "thumbnail": "https://i.ytimg.com/vi/MIhQclC7NRY/hqdefault.jpg?v=681b44b9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmsa1df6yi-hvPslHDr0dJsMQuew",
+                "description": "~Day of MERAKyats~ 2025 merch kini tersedia🥳\nDapatkan\n🔵Boneka plushie Reine dengan kostum MERAKyats \n🔵\"Joinda!\" Topi Pelatih\n🔵Gelas Mug Menyegarkan MERAKyats \n🔵Kalung MERAKyats..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -408,7 +408,14 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "jy2x67ny1rw",
+                "title": "【誕生日に向けて】準備してます＆配信の相談会！！【ホロライブ/ときのそら】",
+                "thumbnail": "https://i.ytimg.com/vi/jy2x67ny1rw/hqdefault.jpg?v=681b566e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBaShEaZ5ZB9iKXNrRTatlMN81cHA",
+                "description": "という名の雑談です。\n相談といっても重いものは全くない！！\n\n～サムネイラスト～\nくぅ。様\nhttps://x.com/kuuuu\n★★★★★★★★★★★★★★★★..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
