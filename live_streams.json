@@ -226,7 +226,14 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "QpuVXgtsUAs",
+                "title": "寝起き声低許して雑談",
+                "thumbnail": "https://i.ytimg.com/vi/QpuVXgtsUAs/hqdefault.jpg?v=681d1cdc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCAOmy0upddEpFa-LX1eNi-WyO5qg",
+                "description": "❥・・ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ・・❥\n\n猫又おかゆ 2nd Live.『ぺるそにゃ～りすぺくと』\n‣ https://personyarespect.hololivepro.com/\n開催日..."
+            }
+        ]
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -244,7 +251,14 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "xKie7Am4NdA",
+                "title": "【OHAPOL】#161 5/9金曜日！はあ・・・はあ・・・金曜日？ #ポルカ公演中 【尾丸ポルカ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/xKie7Am4NdA/hqdefault.jpg?v=681d1a55&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDceRI9Sa7acn8kf2XKDZLZ-bkmCw",
+                "description": "OHAPOL（おはポル）は不定期で朝6時から配信！\n主に水曜〜日曜に開催されることが多いですが、毎日ではありません。\n「起きられたらやる！」と..."
+            }
+        ]
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
@@ -406,13 +420,27 @@
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "uEB2dIe37oo",
+                "title": "【ENigmatic Recollection】Episode 05: \"The Chains Of Fate\" (Chapter 02) ~! 💄",
+                "thumbnail": "https://i.ytimg.com/vi/uEB2dIe37oo/hqdefault.jpg?v=68168da4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_VxSsGfQ1gmigsrLGq6332EJ_rA",
+                "description": "EPISODE 05.\n▬▬ι════════ﺤ\n◆Chapter 2 Theme Song \"MONSTER\" MV: https://youtu.be/nUrITFpI85A\n◆ENigmatic Recollection Chapter 2 Game Trailer: https://youtu.be/dr1ss6z3CH4..."
+            }
+        ]
     },
     "@holoen_gigimurin": {
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "X-yRrwZns5w",
+                "title": "【CookieRun: Kingdom】GIVE ME THE NEW COOKIE GIVE HER TO ME NOW #ad",
+                "thumbnail": "https://i.ytimg.com/vi/X-yRrwZns5w/hqdefault.jpg?v=681c7be6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1nzN7MOAF4_n6pwYWCDiR1bOAZg",
+                "description": "play cookie run kingdom with me\nhttps://bit.ly/gremcookie\n\n#CookieRunKingdom #CookieRun\n#EternalSugarCookie #sponsored\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐  ⸜(｡˃ ᵕ ˂ )⸝♡..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
