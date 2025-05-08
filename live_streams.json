@@ -343,20 +343,20 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "vBWvhMbAQ0k",
+                "title": "【メンバー限定】1時間だけ！【白銀ノエル/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/vBWvhMbAQ0k/hqdefault.jpg?v=681c39ac&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCAP0vYxPdFMjj7LyBxTUgND4EhSg",
+                "description": "お薬がきいてだいぶ咳が良くなってきた！軽～くお喋りしたい🌸\n\n[NEW]🔥焚火ASMRボイス販売中🔥→ https://shop.hololivepro.com/products/hololive_asmr_chillinbyt..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": [
-            {
-                "video_id": "Y2rEnId-iBQ",
-                "title": "【#獅白杯3rd 特別編】スト6！獅白ぼたんと視聴者で“特別ミッションのクリア”を目指してHPから値引きをもぎ取るぞ！【獅白ぼたん/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/Y2rEnId-iBQ/hqdefault.jpg?v=681b640f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6L0I-9usOTVToss7h4d2QinR-HQ",
-                "description": "本日は獅白ぼたんと視聴者で“特別ミッションのクリア”を目指してHPから値引きをもぎ取る回です！\n「ストリートファイター6」をｽﾃﾝﾊﾞｰ..."
-            }
-        ]
+        "videos": []
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
@@ -477,7 +477,14 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "o8oD_0EgPTA",
+                "title": "【ポケモン/ファイアレッド】完全初見でいく人生縛りの旅！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
+                "thumbnail": "https://i.ytimg.com/vi/o8oD_0EgPTA/hqdefault.jpg?v=681c76f2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAeIAwF0s3NasnkqERKghYYD-m8lg",
+                "description": "ルール\n・一度ひんしになったポケモンは使えない\n・HP回復アイテムは買えない\n\nサムネイラスト：朱里(@ebiebieshrimp)さん\n\n⋈ －－－－－－－－－－..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
