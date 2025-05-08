@@ -27,14 +27,7 @@
         "channel_url": "https://www.youtube.com/@AmaneKanata",
         "channel_name": "Kanata Ch. Kanata Amane",
         "avatar_url": "https://yt3.googleusercontent.com/oPU9ckNcyeHD0FFsYSxkoD1mtbslSwdmMSfoCYQWphOu5e7UeCnIF-Nt0hvvF41L5Nykga07nQ",
-        "videos": [
-            {
-                "video_id": "xot4NqOk4WQ",
-                "title": "【ELDEN RING DLC】#11 もう龍と出会いませんように！！！初見エルデンリング！！！【天音かなた/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/xot4NqOk4WQ/hqdefault.jpg?v=681c6308&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDY0EZ3dKgV2xyYwtVcUlkuoC0hxA",
-                "description": "ギザ山に行った（過去形）\n\n前　DLC #10　https://youtube.com/live/QHwH-w5aj0Y\n後　DLC #12　\n\n💍ELDEN RING / 再生リスト\nhttps://www.youtube.com/playlist?list=PLNvxSJodVoAs9O9q..."
-            }
-        ]
+        "videos": []
     },
     "@AnyaMelfissa": {
         "channel_url": "https://www.youtube.com/@AnyaMelfissa",
@@ -190,7 +183,14 @@
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
         "channel_name": "Kobo Kanaeru Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/-CTSHFyohthgdHnFuQzUKOvtl-xpDUSp5-kkeRN9_PadA8DFtSRKhI-3PxoqILuq8_6TwszNBnk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "h_NLuWFgBZo",
+                "title": "【Kobolonimbus】dan Yap",
+                "thumbnail": "https://i.ytimg.com/vi/h_NLuWFgBZo/hqdefault.jpg?v=681caa18&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC7TLN27CEkehePfwRNhdxtvXQ1BA",
+                "description": "Art by: https://x.com/JadeA5124/status/1911348739228504406"
+            }
+        ]
     },
     "@KoganeiNiko": {
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
@@ -289,14 +289,7 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
-        "videos": [
-            {
-                "video_id": "YQyAN0Rrexs",
-                "title": "【 Toy Shop Simulator 】す～ぱ～おもちゃ大好き猫又さんです💜【 猫又おかゆ/ホロライブ 】",
-                "thumbnail": "https://i.ytimg.com/vi/YQyAN0Rrexs/hqdefault.jpg?v=681bd342&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0BsNQEkP7JMvOtXv_PQu9GNKUyg",
-                "description": "❥・・ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ・・❥\n\n猫又おかゆ 2nd Live.『ぺるそにゃ～りすぺくと』\n‣ https://personyarespect.hololivepro.com/\n開催日..."
-            }
-        ]
+        "videos": []
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -489,9 +482,9 @@
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
         "videos": [
             {
-                "video_id": "Fwj2zY_MBQc",
+                "video_id": "85tduR2yK6g",
                 "title": "【ラミィの大冒険】ラミィの大冒険Ⅱ～まだまだラミィの冒険は終わらない～【 雪花ラミィ /ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/Fwj2zY_MBQc/hqdefault.jpg?v=681c3700&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnOUh-_9U36_kniodzi_JlgXLXrw",
+                "thumbnail": "https://i.ytimg.com/vi/85tduR2yK6g/hqdefault.jpg?v=681cacd8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD25-nrVJO83A8TzVmP2iEx5jOjYw",
                 "description": "感想は #らみらいぶ で呟いて頂けたら嬉しいです！\n\nサムネイルのイラスト：山の水雲さま\nhttps://x.com/mt_mozuku\n\n\n配信タイトル：ラミィの大冒険..."
             }
         ]
