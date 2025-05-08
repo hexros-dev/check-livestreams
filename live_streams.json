@@ -151,19 +151,40 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "n_cDItJdI6Y",
+                "title": "【都市伝説解体センター】#3 くらえ！解体センターアタック！！（ドロップキック）　※ネタバレ注意！【儒烏風亭らでん #ReGLOSS 】",
+                "thumbnail": "https://i.ytimg.com/vi/n_cDItJdI6Y/hqdefault.jpg?v=681c91b5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDawmF69XhrSn2aD8fgQkntPP00MA",
+                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\n配信タイトル：都市伝説解体センター\n公式サ..."
+            }
+        ]
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/VL9aJ1o3yrN_xzHKTX0PvArQjUDHhtWtOtAYWjpzkqoFxR5HHWmWRWNgu6M5l4nSibqLaeKXqA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "FvwkycGDOjw",
+                "title": "【R.E.P.O.】what a sudden repo night【hololive】",
+                "thumbnail": "https://i.ytimg.com/vi/FvwkycGDOjw/hqdefault.jpg?v=681ca357&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9zw22tezQ8gzHa_3kpSy1rNa7Pw",
+                "description": "Playing with @PavoliaReine @KosekiBijou @holoen_raorapanthera 🎉\n∘₊✧──────✧₊∘∘₊✧──────✧₊∘∘₊✧──────✧₊∘∘₊✧────..."
+            }
+        ]
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "7AIXJEexjYc",
+                "title": "【 Minecraft 】農婦ヴィヴィ帰還！蜘蛛の巣を求めて…【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "thumbnail": "https://i.ytimg.com/vi/7AIXJEexjYc/hqdefault.jpg?v=681c9b33&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCfXmmXOQo_SeDo6MwS7iDmc9HmqA",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n【使用MOD】\n使用MOD：Comp..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -181,7 +202,14 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "uJZzzcjxqj0",
+                "title": "【REPO COLLAB】REP-O:",
+                "thumbnail": "https://i.ytimg.com/vi/uJZzzcjxqj0/hqdefault.jpg?v=681c759a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDu33kNXHDYK6f8c8IYMxOtrlhUaQ",
+                "description": "with @holoen_raorapanthera @PavoliaReine  and @KaelaKovalskia \n\nGame title: R.E.P.O\nStore page: https://store.steampowered.com/app/3241660/REPO/\n\nBIRTHDAY MERCH\n▼hololive production OFFICIAL..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -199,7 +227,14 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "kO6adz9okPM",
+                "title": "【僕、アルバイトォォ！！】水宮アルバイトをする【水宮枢／FLOW GLOW】#hololiveDEV_IS",
+                "thumbnail": "https://i.ytimg.com/vi/kO6adz9okPM/hqdefault.jpg?v=681bc533&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBx-x_jNBn9vemvh-poOoOvUM074g",
+                "description": "本ゲームは配信ポリシーに則り配信・収益化を行なっております。\n「僕、アルバイトォォ！！」\nhttps://store.steampowered.com/app/2985930/_/\n▹◃┄▸◂┄..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -297,7 +332,14 @@
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "SbLRr53L230",
+                "title": "【 Garten of banban 】子供がいない幼稚園？！ 怖すぎる...【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+                "thumbnail": "https://i.ytimg.com/vi/SbLRr53L230/hqdefault.jpg?v=681c951b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAS7JPxpnBDsn5e8ZPDVbNBiuFaWQ",
+                "description": "▽音乃瀬奏 誕生日記念2025グッズ▽\n4/20(日)　21：10より販売開始！\nhttps://shop.hololivepro.com/products/otonosekanade_birthday_2025\n※受注受付期間 : 2025年04月20日..."
+            }
+        ]
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
@@ -309,7 +351,14 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "sWDPYe75KrM",
+                "title": "【R.E.P.O.】NEW UPDATE! Is the duck bucket effective for peafowls?【Pavolia Reine/hololiveID 2nd gen】",
+                "thumbnail": "https://i.ytimg.com/vi/sWDPYe75KrM/hqdefault.jpg?v=681c9c3c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgKIBRFUJVeSDWF2vDtdIXkhXRdw",
+                "description": "Game title: R.E.P.O\nStore page: https://store.steampowered.com/app/3241660/REPO/\n\nReine's new original song now 「Yummy Yum Yummy!」AVAILABLE on iTunes, Apple Music, Spotify etc. Click to..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -358,7 +407,14 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "KgF_ahgXLaA",
+                "title": "【事故物件鑑定士試験】過去問をやってオンライン試験に備える【不知火フレア/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/KgF_ahgXLaA/hqdefault.jpg?v=681c9da8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIka-lIjJiLcWG4GzRa0yyxKh4gw",
+                "description": "※ホラー注意\n事故物件鑑定士試験 \njikobukkenkanteishi.com\n\n当試験には、霊素環境構築のための霊器素養の開孔と受容のプロセスが含まれます。これら..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -388,7 +444,14 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "nwUSBnVJLtA",
+                "title": "【雑談】きいてきいて～！夢が1個叶った✨【轟はじめ/ReGLOSS】 #hololivedev_is",
+                "thumbnail": "https://i.ytimg.com/vi/nwUSBnVJLtA/hqdefault.jpg?v=681c9912&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAb2NPNkwidsmKGmFVnGVfc7dl8uQ",
+                "description": "素敵なサムネお写真：とあ様（@toa_inusuki）\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n✨宣伝✨\n\n💜【Original】Countach/轟はじめ【Official MV】💜..."
+            }
+        ]
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
@@ -424,7 +487,14 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Fwj2zY_MBQc",
+                "title": "【ラミィの大冒険】ラミィの大冒険Ⅱ～まだまだラミィの冒険は終わらない～【 雪花ラミィ /ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/Fwj2zY_MBQc/hqdefault.jpg?v=681c3700&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnOUh-_9U36_kniodzi_JlgXLXrw",
+                "description": "感想は #らみらいぶ で呟いて頂けたら嬉しいです！\n\nサムネイルのイラスト：山の水雲さま\nhttps://x.com/mt_mozuku\n\n\n配信タイトル：ラミィの大冒険..."
+            }
+        ]
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
