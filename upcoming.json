@@ -85,29 +85,13 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "DZX_ilRKg5E",
-                "title": "【ときめきメモリアル】人生初！完全初見♡はじめましてときメモちゃん。好みの子を探しに行く！！！ #1 【博衣こより/ホロライブ】【ネタバレあり】",
-                "date": "2025/05/08 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/DZX_ilRKg5E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjUb_mqrANMnVia2QTp-39MWsSNg",
-                "description": "ときメモは藤崎詩織ちゃんの名前だけ知ってます。完全初見です。コツとか教えないでください。自らの力で女の子とシアワセになりたいです。..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": [
-            {
-                "video_id": "FSIxxappliE",
-                "title": "【 The Elder Scrolls IV: Oblivion Remastered 】初めてのオブリビオンで遊んでみるのら！！！【姫森ルーナ/ホロライブ】",
-                "date": "2025/05/08 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/FSIxxappliE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDveT8xiPUXWSxjN7XzOPD31jcz4Q",
-                "description": "サムネイラスト\n　かいえさん　https://twitter.com/kaie_5214\n\n配信タイトル：The Elder Scrolls IV: Oblivion Remastered\nhttps://store.steampowered.com/app/2623190/The_Elder_Scrolls..."
-            }
-        ]
+        "videos": []
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -137,7 +121,15 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "HB8sU0qsePE",
+                "title": "【＃一条莉々華生誕祭2025】初の生誕ライブ開幕！！一条莉々華生誕祭ライブ2025【一条莉々華/hololive DEV_IS　ReGLOSS】",
+                "date": "2025/05/12 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/HB8sU0qsePE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3PFliLixOD_GryWvp0gSLwtWNpw",
+                "description": "沢山のゲストと一緒にホロライブ楽曲メドレーします✨\nたのしみ～～～！！！！\n（概要欄のちほど更新します！）\n୨୧┈┈┈┈┈┈┈┈┈┈┈..."
+            }
+        ]
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -283,15 +275,7 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
-        "videos": [
-            {
-                "video_id": "YQyAN0Rrexs",
-                "title": "【 Toy Shop Simulator 】す～ぱ～おもちゃ大好き猫又さんです💜【 猫又おかゆ/ホロライブ 】",
-                "date": "2025/05/08 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/YQyAN0Rrexs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0BsNQEkP7JMvOtXv_PQu9GNKUyg",
-                "description": "❥・・ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ・・❥\n\n猫又おかゆ 2nd Live.『ぺるそにゃ～りすぺくと』\n‣ https://personyarespect.hololivepro.com/\n開催日..."
-            }
-        ]
+        "videos": []
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -425,15 +409,7 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": [
-            {
-                "video_id": "Y2rEnId-iBQ",
-                "title": "【#獅白杯3rd 特別編】スト6！獅白ぼたんと視聴者で“特別ミッションのクリア”を目指してHPから値引きをもぎ取るぞ！【獅白ぼたん/ホロライブ】",
-                "date": "2025/05/08 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Y2rEnId-iBQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6L0I-9usOTVToss7h4d2QinR-HQ",
-                "description": "本日は獅白ぼたんと視聴者で“特別ミッションのクリア”を目指してHPから値引きをもぎ取る回です！\n「ストリートファイター6」をｽﾃﾝﾊﾞｰ..."
-            }
-        ]
+        "videos": []
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
@@ -577,6 +553,13 @@
                 "date": "2025/05/09 04:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/X-yRrwZns5w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1nzN7MOAF4_n6pwYWCDiR1bOAZg",
                 "description": "play cookie run kingdom with me\nhttps://bit.ly/gremcookie\n\n#CookieRunKingdom #CookieRun\n#EternalSugarCookie #sponsored\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐  ⸜(｡˃ ᵕ ˂ )⸝♡..."
+            },
+            {
+                "video_id": "p5xrAxTh8ho",
+                "title": "【ENigmatic Recollection】clueless",
+                "date": "2025/05/09 08:15:00",
+                "thumbnail": "https://i.ytimg.com/vi/p5xrAxTh8ho/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDuQuwW_d0xK__22lCgfmg9oi9E0A",
+                "description": "erm...forgot about dance practice\n\nthumbnail: https://x.com/SkyJacc/status/1919907213411221973\n\n------------------\n◆Chapter 2 Theme Song \"MONSTER\" MV: https://youtu.be/nUrITFpI85A\n◆ENigmatic..."
             }
         ]
     },
