@@ -28,14 +28,7 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": [
-            {
-                "video_id": "4YiA-xN5G3E",
-                "title": "【ゴッドフィールド：緊急企業雑談！？】本間ひまわり、八雲べに、アキロゼで企業を語る【アキロゼ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/4YiA-xN5G3E/hqdefault.jpg?v=681dd5e2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAVHK7eWonQ6WYdAI5YB5ajgVtyeQ",
-                "description": "#ちくまろ \n@HonmaHimawari @yakumo_beni @YuzukiChoco @AkiRosenthal \n\nサムネイラスト：かむでんさま\nhttps://x.com/kyomunomoushigo/status/1912733766193479996\n本ゲームは©..."
-            }
-        ]
+        "videos": []
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -151,7 +144,14 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "pvJy6WJB1lI",
+                "title": "【メン限同時視聴】水曜どうでしょう　シェフ大泉夏野菜スペシャル同時視聴配信 【儒烏風亭らでん 】",
+                "thumbnail": "https://i.ytimg.com/vi/pvJy6WJB1lI/hqdefault.jpg?v=681df41a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnE6qQF3Thsc1QOsfaKd-xF4FrtA",
+                "description": "同時視聴する映画\n水曜どうでしょう\nシェフ大泉夏野菜スペシャル1話から4話\n\n同時視聴の方法\n①それぞれで映画を用意（映像サブスクサービスや..."
+            }
+        ]
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -291,7 +291,14 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "YWq8F9v2-ac",
+                "title": "【#最終回】Fate/stay night みるしゅばああああああああああああああああああ！！！！！！：Fate/stay night watching party【ホロライブ/大空スバル】",
+                "thumbnail": "https://i.ytimg.com/vi/YWq8F9v2-ac/hqdefault.jpg?v=681df26b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQ5EQSIDXC3uQqOC3jC-Gv0HL_SA",
+                "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n+‥‥‥‥..."
+            }
+        ]
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -388,7 +395,14 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "TGl3P3oTOYs",
+                "title": "【夜間警備】はい、異常なーし...ん？ホラゲ？【轟はじめ/ReGLOSS】 #hololivedev_is",
+                "thumbnail": "https://i.ytimg.com/vi/TGl3P3oTOYs/hqdefault.jpg?v=681dddaa&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDIxruMhD3qMui3kMwp6NhoAdWhcA",
+                "description": "素敵なサムネお写真：RAY_様（@_RAY_o0）\n\n本ゲームは © Chilla's Art, LLC® 2023 の承諾を得た上で配信・収益化を行なっております\nーーーーーーーー..."
+            }
+        ]
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
