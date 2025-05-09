@@ -28,7 +28,14 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "4YiA-xN5G3E",
+                "title": "【ゴッドフィールド：緊急企業雑談！？】本間ひまわり、八雲べに、アキロゼで企業を語る【アキロゼ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/4YiA-xN5G3E/hqdefault.jpg?v=681dd5e2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAVHK7eWonQ6WYdAI5YB5ajgVtyeQ",
+                "description": "#ちくまろ \n@HonmaHimawari @yakumo_beni @YuzukiChoco @AkiRosenthal \n\nサムネイラスト：かむでんさま\nhttps://x.com/kyomunomoushigo/status/1912733766193479996\n本ゲームは©..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -297,14 +304,7 @@
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC",
-        "videos": [
-            {
-                "video_id": "d6ehT97ng24",
-                "title": "【 もののがたり 】ABEMAさん同時視聴！新作ゲームもあるらしい？！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-                "thumbnail": "https://i.ytimg.com/vi/d6ehT97ng24/hqdefault.jpg?v=681ccab3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBv1fdF8eQNVbMDBpjETQyStn1kMQ",
-                "description": "提供：アソビモ株式会社\nタイトル：もののがたり 〜異界ノ契〜（いかいノちぎり） \n\nアニメ『もののがたり』原作をベースにした新作スマホRPGが..."
-            }
-        ]
+        "videos": []
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
