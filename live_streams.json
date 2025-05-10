@@ -120,14 +120,7 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": [
-            {
-                "video_id": "os9TbwMUcbk",
-                "title": "【ENigmatic Recollection: Chapter 2】HPO's Identity Crisis?",
-                "thumbnail": "https://i.ytimg.com/vi/os9TbwMUcbk/hqdefault.jpg?v=681e4df5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDaGh_fxxDdl81rpzDeDD8sdVUv7g",
-                "description": "HPO'S abdomen pains continue (Day 7)\n\n#hololiveenglish  #ホロライブ \n\nSTREAM MY NEW ORIGINAL SONG, Diamond Girlfriend Feat.MOTSU▼\nhttps://youtu.be/EXM0EE_NpQc\n\nMy newest EP \"YaBAI\" is..."
-            }
-        ]
+        "videos": []
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -308,7 +301,14 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "uUV0PbR15aU",
+                "title": "【Bloodborne】#4 禁域の森へ！※ネタバレ禁止【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "thumbnail": "https://i.ytimg.com/vi/uUV0PbR15aU/hqdefault.jpg?v=681ee359&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWaZqYR7EmKWZ-7oaAQMxkqIoQBQ",
+                "description": "罠には引っかからない\n\n\n本ゲームは著作権ガイドラインに則り配信を行っております。\n\nおねがい\n・こういったゲームをコントローラーでプレイ..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
