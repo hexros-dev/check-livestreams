@@ -16,14 +16,7 @@
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
         "channel_name": "Airani Iofifteen Channel hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc",
-        "videos": [
-            {
-                "video_id": "r-yfywRv7Cw",
-                "title": "【#IOLLIE】PUSH! PUUSHH!! PUUUSHH!!! @KureijiOllie 【 iofi / hololiveID 】",
-                "thumbnail": "https://i.ytimg.com/vi/r-yfywRv7Cw/hqdefault.jpg?v=681cd935&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnU9B3qKJUfKD-81MqLZ06I2m0MQ",
-                "description": "#ioLyfe #Airani_Iofifteen #hololive #holoID #Dinkum\n\nGame title: Pushing it! Together - Sisyphus Co-op\nStore page: https://store.steampowered.com/app/3298460/Pushing_it_Together__Sisyphus_Coop/..."
-            }
-        ]
+        "videos": []
     },
     "@AkaiHaato": {
         "channel_url": "https://www.youtube.com/@AkaiHaato",
@@ -139,7 +132,14 @@
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "1JBv6EddjPM",
+                "title": "#01【PS2】神ゲー「チュウリップ」やるぞ！【戌神ころね】",
+                "thumbnail": "https://i.ytimg.com/vi/1JBv6EddjPM/hqdefault.jpg?v=681f0fe7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOXAx34cdiJQF6wCHX7R-88W2tMQ",
+                "description": "Play Game : チュウリップ CHULIP ( PS2 )\nタグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nころねTwitter▶https://twitter.co..."
+            }
+        ]
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
@@ -278,7 +278,14 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "0gZL6oALbss",
+                "title": "【 違う星のぼくら 】フブミオで見えてる世界が違う？阿吽の呼吸で協力できるか？！【大神ミオ視点】",
+                "thumbnail": "https://i.ytimg.com/vi/0gZL6oALbss/hqdefault.jpg?v=681ef428&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_pwaeJy4Cnv_OGLIlDD1PYlKeuQ",
+                "description": "お互いになぜか見えている世界が違う？！\n協力してプレイするゲームです✦前作も面白かったので！\n\n🦊一緒にプレイする🦊\n白上フブキ 🌽..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -333,14 +340,7 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": [
-            {
-                "video_id": "3KlfJAS7GBw",
-                "title": "【 ポケモンルビー 】色違い耐久１５日目🎣みこちと金コイ伝説～最弱からみんなで最強に育てる旅～【ホロライブ/さくらみこ】",
-                "thumbnail": "https://i.ytimg.com/vi/3KlfJAS7GBw/hqdefault.jpg?v=681d8f08&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVy1KVRnaDcs_2R1QPD0dXlSRtEQ",
-                "description": "いま【7000匹目】🎣#みこちと金コイ伝説\n1/8192 の戦い････いつ釣れるかな？？？？？？？\n\n＜みこと金コイを最強にする旅のルール＞\n①金コイ..."
-            }
-        ]
+        "videos": []
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
@@ -352,13 +352,27 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "VOZCRNj8MOs",
+                "title": "【フブキ視点】違う星のぼくら ＃フブミオ【白上フブキ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/VOZCRNj8MOs/hqdefault.jpg?v=681ef7b7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDMmEpVfVNPMOqGfuWtdaP_zBehIg",
+                "description": "大神ミオ　@OokamiMio \n━━━━━━━━━━━━━━━━━━━━━━━\n📢2025年7月5日～6日の２DAYS！\n◤さいたまスーパーアリーナ◢\n\nハッシュタ..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "o4I4i98Eftc",
+                "title": "#01【Project:;COLD case.mirage】#フレポル で謎を解き明かしていく【不知火フレア/ホロライブ】※ネタバレあり",
+                "thumbnail": "https://i.ytimg.com/vi/o4I4i98Eftc/hqdefault.jpg?v=681eb3d2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtI09oLFhFKX3ThxY00VL4ZP3bOQ",
+                "description": "フレア⇒謎解き・操作する人\n@OmaruPolka ⇒謎解き・横から口出す人\n\n記憶を失った主人公は、デスクトップ画面に現れた謎の少年「イオリ・ハート..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -500,9 +514,9 @@
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
         "videos": [
             {
-                "video_id": "3V318IOI32E",
+                "video_id": "MkOi-vVP958",
                 "title": "【ポケモン/ファイアレッド】完全初見でいく人生縛りの旅！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
-                "thumbnail": "https://i.ytimg.com/vi/3V318IOI32E/hqdefault.jpg?v=681f234c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCCTHmkpsUJ_wNSyHgkdldxH61QiQ",
+                "thumbnail": "https://i.ytimg.com/vi/MkOi-vVP958/hqdefault.jpg?v=681f3b66&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYmnPV6jcfYAZWXlxlYuwA9SGNmQ",
                 "description": "ルール\n・一度ひんしになったポケモンは使えない\n・HP回復アイテムは買えない\n\nひんしになった仲間\n・レグルス 15Lv（ニドラン♂）\n・ひょっこり..."
             }
         ]
