@@ -194,14 +194,7 @@
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
-        "videos": [
-            {
-                "video_id": "FxcsYjk6wjM",
-                "title": "【#IOLLIE 】TWO BESTIES WALK INTO AN ARCADE... WITH NEW DRIP?!?! @AiraniIofifteen 【Kureiji Ollie】",
-                "thumbnail": "https://i.ytimg.com/vi/FxcsYjk6wjM/hqdefault.jpg?v=681d48c0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjgQZpUdfUv365km17Rq5VSSUgqQ",
-                "description": "#OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n==========================================\n\nHere is the schedule of #IOLLIE 's relay! (WIB/GMT+7)\n• 15:00~16:00 - I'm on Observation Duty\nhttps://ww..."
-            }
-        ]
+        "videos": []
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
@@ -213,7 +206,14 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "vXHhP86sdLI",
+                "title": "【ICEY】指示従えます偉いので✨！【水宮枢／FLOW GLOW】#hololiveDEV_IS",
+                "thumbnail": "https://i.ytimg.com/vi/vXHhP86sdLI/hqdefault.jpg?v=681e6ddd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9wwlQqjv1wTzFWtdlZnrukSSeAg",
+                "description": "ストアページ：https://store-jp.nintendo.com/item/software/D70010000010461\n© 2025 XD Inc., All Rights Reserved.\n\n▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸◂┄▹◃\n\n💙メンバ..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -429,7 +429,14 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "fQnn3ULb1pg",
+                "title": "【スーパーマリオブラザーズ3】2時間でどこまでいけるかな！？【ホロライブ/ときのそら】",
+                "thumbnail": "https://i.ytimg.com/vi/fQnn3ULb1pg/hqdefault.jpg?v=681f5276&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6o9aXFrU0bNH-zhC4WfcbLm5-aA",
+                "description": "タイムで区切るチャレンジはあんまりしたことないよね？\nぬんぬん。\n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信していま..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
