@@ -174,15 +174,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": [
-            {
-                "video_id": "Nzl4s9vMTl8",
-                "title": "【 Bus Simulator 21 】深夜バスご乗車ありがとうございます【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "date": "2025/05/11 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Nzl4s9vMTl8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7NgNdKWhcy5a9Y0VP6D7-CNxEeA",
-                "description": "本ゲームはastragon Entertainment GmbHに確認の上配信・収益化を行っております\n\nサムネイルの素敵なイラスト  Fugotaさん　https://x.com/Fugota314\n\n✧♡✧♡✧..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -526,7 +518,15 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "FwJqFDxNofM",
+                "title": "【配信予定地】未来で待ってる🌱【風真いろは/ホロライブ】",
+                "date": "2025/05/17 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/FwJqFDxNofM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_6OQ33DBRE9X9P53TBY9Eg3jRpQ",
+                "description": "*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――\n\n💚風真いろはからのおしらせ💚\n🎤風真いろは 新オリ曲..."
+            }
+        ]
     },
     "@mikenekoko": {
         "channel_url": "https://www.youtube.com/@mikenekoko",
