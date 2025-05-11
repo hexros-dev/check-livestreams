@@ -213,7 +213,14 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "hcA1WwhoA1Y",
+                "title": "【マリオカート8DX】10位以下即終了 視聴者参加型【水宮枢／FLOW GLOW】#hololiveDEV_IS",
+                "thumbnail": "https://i.ytimg.com/vi/hcA1WwhoA1Y/hqdefault.jpg?v=68204137&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMvyhk9E12uyOYk1Y2b7wLoWUibg",
+                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸◂┄▹◃\n\n💙メンバーシップは..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -525,13 +532,6 @@
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": [
-            {
-                "video_id": "1nf_HSn1sak",
-                "title": "【#結城さくな新衣装】はじめての新衣装だあああああ！！！！！！！！告知もあっるよ！",
-                "thumbnail": "https://i.ytimg.com/vi/1nf_HSn1sak/hqdefault.jpg?v=68201e1f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjLJ8nOYsLAgldSVpaHwfE73xztw",
-                "description": "🎀新衣装グッズ発売！🐾\nhttps://yuki-sakuna.stores.jp/\n\n🎀バレンタインボイス発売！🐾\nhttps://yuki-sakuna.stores.jp/\n\n🎀歌ってみた動画🐾\nhttps://youtube.com/pl..."
-            }
-        ]
+        "videos": []
     }
 }

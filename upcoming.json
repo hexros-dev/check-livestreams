@@ -47,7 +47,15 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "A_DRvPH31xQ",
+                "title": "【PRISUNERS NIGHT】Sunday Night Prisuners【Ayunda Risu】",
+                "date": "2025/05/11 20:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/A_DRvPH31xQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBgnfnNlRY-soSpzwZP2c5i-tnV8A",
+                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nーーーーーーーーー\nCHECK OUT RISU 5TH ANNIVERSARY MERCH!\nSales start: 10 April 2025, 21:00 WIB/ 23:00 JST\nSales end: 12 May..."
+            }
+        ]
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -218,15 +226,7 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": [
-            {
-                "video_id": "hcA1WwhoA1Y",
-                "title": "【マリオカート8DX】10位以下即終了 視聴者参加型【水宮枢／FLOW GLOW】#hololiveDEV_IS",
-                "date": "2025/05/11 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/hcA1WwhoA1Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMvyhk9E12uyOYk1Y2b7wLoWUibg",
-                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸◂┄▹◃\n\n💙メンバーシップは..."
-            }
-        ]
+        "videos": []
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -423,6 +423,13 @@
                 "date": "2025/05/15 18:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/IZDRnl38gvY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYG-mLkobb-RhOeEk2AbZ-LebrKw",
                 "description": "★★★★★★★★★★★★★★★★★★★★★★\n✨お知らせ✨\nLIVE Blu-ray\nときのそら 6th Anniversary Party\n「Keep Shinin'」\n4/23(水)発売決定！！\n\n💛詳し..."
+            },
+            {
+                "video_id": "Iv3ZUdlrpcw",
+                "title": "【誕生日に向けて】データ整理が終わりません。作業しながらお話します。【ホロライブ/ときのそら】",
+                "date": "2025/05/11 20:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/Iv3ZUdlrpcw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBm8f9z72miukTr4n3wnA8TwXIDeg",
+                "description": "わあああああ！！\nPCのファイルがぐちゃぐちゃだぁ！！\n\n\n～サムネイラスト～\nインセイン様\n\n★★★★★★★★★★★★★★★★★★★★★★..."
             }
         ]
     },
