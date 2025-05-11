@@ -326,14 +326,7 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": [
-            {
-                "video_id": "P5fosAkAJR4",
-                "title": "【 競馬 】NHKマイルカップ2025で夢を賭ける！にぇ！！！！！！！！【ホロライブ/さくらみこ】",
-                "thumbnail": "https://i.ytimg.com/vi/P5fosAkAJR4/hqdefault.jpg?v=681fc7ef&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKKidng8aHEKLHj4_D5jm3rZKi6w",
-                "description": "⪩⪨　お知らせ/ɪɴғᴏ\n￣￣￣￣￣￣￣￣￣￣￣￣￣\n　🌸さくらみこ1st Live \"flower fantasista!\" \n　　  Blu-ray 受注受付開始🎉予約 6/2まで✅\n　..."
-            }
-        ]
+        "videos": []
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
@@ -381,7 +374,14 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "431Ez2FA8xY",
+                "title": "【マリオカート８DX】1時間以内に3位目指す！！ぶんぶんぶーん！【轟はじめ/ReGLOSS】 #hololivedev_is",
+                "thumbnail": "https://i.ytimg.com/vi/431Ez2FA8xY/hqdefault.jpg?v=682026d1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCz2srdqxosRrqc-o9PjBUJjdRVfQ",
+                "description": "素敵なサムネお写真：猫背大仏様（@nekoze_daibutu）\n\n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n￣￣￣￣￣￣￣..."
+            }
+        ]
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
