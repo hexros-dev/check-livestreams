@@ -28,7 +28,14 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "WDabbOTV-qc",
+                "title": "【 #アキロゼ100万人耐久 】チャンネル登録100万人いくまで歌うぞ！！【アキロゼ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/WDabbOTV-qc/hqdefault.jpg?v=681fe3a2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvi3Klk50D6u9tWKaIvHzWF6egJQ",
+                "description": "応援＆チャンネル登録お願いします！\n\n🎧アキロゼ オリジナル楽曲🎧\n🆕アキロゼ5th 新曲【異薔薇】聞いてね！\nhttps://cover.lnk.to/5bvecc\n\n▹▸1st..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -217,14 +224,7 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": [
-            {
-                "video_id": "fF_-m3ez5l0",
-                "title": "【Clair Obscur: Expedition 33】the more I play the more french I become...? (SPOILERS!!)",
-                "thumbnail": "https://i.ytimg.com/vi/fF_-m3ez5l0/hqdefault.jpg?v=681f7ddc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDMi5lzyKcYA2lGZHfSby_a1KlQKw",
-                "description": "💀💀 BIRTHDAY MERCHANDISE 💀💀\nーーーーーーーーーーーーーーーー\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/moricalliope_bd2025\nEN:..."
-            }
-        ]
+        "videos": []
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
