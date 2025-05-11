@@ -28,14 +28,7 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": [
-            {
-                "video_id": "WDabbOTV-qc",
-                "title": "【 #アキロゼ100万人耐久 】チャンネル登録100万人いくまで歌うぞ！！【アキロゼ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/WDabbOTV-qc/hqdefault.jpg?v=681fe3a2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvi3Klk50D6u9tWKaIvHzWF6egJQ",
-                "description": "応援＆チャンネル登録お願いします！\n\n🎧アキロゼ オリジナル楽曲🎧\n🆕アキロゼ5th 新曲【異薔薇】聞いてね！\nhttps://cover.lnk.to/5bvecc\n\n▹▸1st..."
-            }
-        ]
+        "videos": []
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -205,7 +198,14 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "_sU_JdluMuM",
+                "title": "【 雑談 】推し活しに○○まで行ってきた話【 桃鈴ねね / hololive 】",
+                "thumbnail": "https://i.ytimg.com/vi/_sU_JdluMuM/hqdefault.jpg?v=682072ac&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBgOH9wMgGn9EPRl8hTgsAfVjj0NQ",
+                "description": "推し活～～～～～～～～～～～～～～～～～～～～～～！！！！！今日は縦枠！\n⸜♡⸝MemberShipに入ったらもっとねねを知れるﾖ\nhttps://www.youtube.com..."
+            }
+        ]
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
@@ -265,14 +265,7 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": [
-            {
-                "video_id": "KwK-PlSZvLc",
-                "title": "フレアの枠で配信するわよ 【尾丸ポルカ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/KwK-PlSZvLc/hqdefault.jpg?v=68205f77&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0gOFqkO-T1fXeRrdEcQmqjmwerw",
-                "description": "19時から\nhttps://www.youtube.com/watch?v=BqkOV059U0s\n\nサムネイルありがとうございます！\nhttps://x.com/pippi07146181\n\n※尾丸ポルカへ頂いたスパチャは、基本的に..."
-            }
-        ]
+        "videos": []
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
@@ -351,7 +344,14 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "BqkOV059U0s",
+                "title": "#02【Project:;COLD case.mirage】3章～ #フレポル で謎を解き明かしていく【不知火フレア/ホロライブ】※ネタバレあり",
+                "thumbnail": "https://i.ytimg.com/vi/BqkOV059U0s/hqdefault.jpg?v=681fb932&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXpX4zLhLUZg98U6Utw2MOm4sCYQ",
+                "description": "フレア⇒謎解き・操作する人\n @OmaruPolka   ⇒謎解き・横から口出す人\n\n記憶を失った主人公は、デスクトップ画面に現れた謎の少年「イオリ・ハー..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -459,7 +459,14 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "HMF00UhB_Zg",
+                "title": "【Minecraft】ホロ鯖うらしまござるです🌴【風真いろは/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/HMF00UhB_Zg/hqdefault.jpg?v=68206a40&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0zBa0KhGbUDOA9aeR0JwZyCRCsQ",
+                "description": "イラスト▼\nhttps://x.com/twumi425/status/1892520278627918273\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms)  に基づいて配信・収..."
+            }
+        ]
     },
     "@mikenekoko": {
         "channel_url": "https://www.youtube.com/@mikenekoko",
@@ -477,7 +484,14 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "79lglMmituk",
+                "title": "【ポケモン/ファイアレッド】いざ四天王戦！完全初見でいく人生縛りの旅！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
+                "thumbnail": "https://i.ytimg.com/vi/79lglMmituk/hqdefault.jpg?v=682062bd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAaukr0kHNloaA1Jkugf1ZsI9tnvg",
+                "description": "ルール\n・一度ひんしになったポケモンは使えない\n・HP回復アイテムは買えない\n\nひんしになった仲間\n・レグルス 15Lv（ニドラン♂）\n・ひょっこり..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
