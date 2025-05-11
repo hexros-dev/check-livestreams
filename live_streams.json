@@ -143,14 +143,7 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/VL9aJ1o3yrN_xzHKTX0PvArQjUDHhtWtOtAYWjpzkqoFxR5HHWmWRWNgu6M5l4nSibqLaeKXqA",
-        "videos": [
-            {
-                "video_id": "8rAxBr-0EiA",
-                "title": "【PICO PARK 2】completing game in one sitting? ofcourse..... we can't ✋",
-                "thumbnail": "https://i.ytimg.com/vi/8rAxBr-0EiA/hqdefault.jpg?v=68202810&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9GHglraVZo5Z1hMyvhV92xf_iJg",
-                "description": "Playing with @ONShannon_ @PiaMeraleo-JKT48V @DaisyIgnaciaYCh \n∘₊✧──────✧₊∘∘₊✧──────✧₊∘∘₊✧──────✧₊∘∘₊✧──────..."
-            }
-        ]
+        "videos": []
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
@@ -314,7 +307,14 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/gKitLHfMqsfmC26xRBBNBVE9jz4m0X-xAvcdPUwy8VPa4FCw0-XRxOKLvJZxm-lQnIDQU2rDA0k",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Pf33vF9sztQ",
+                "title": "【Member Only】NO.13 ろぼちゃの日曜むーびー❣🎬映画『　ベルサイユのばら　』 同時視聴🍿",
+                "thumbnail": "https://i.ytimg.com/vi/Pf33vF9sztQ/hqdefault.jpg?v=682070fc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8_lA4IpXHH5bANABFLBTbS7_GBQ",
+                "description": "💬 #秘密のロボ子さん　でポストしてってね✨\nねとふりにきてた！！はじめてみるぞおおおおお\n\n毎週日曜に\nメンバーさんと一緒に映画を見てる..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -326,7 +326,14 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "YeuzpGpYuFw",
+                "title": "【 Pushing it! Together 】リスナーと協力して岩を転がす絆の参加型岩おじ！！！！【ホロライブ/さくらみこ】",
+                "thumbnail": "https://i.ytimg.com/vi/YeuzpGpYuFw/hqdefault.jpg?v=68207e07&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQdykbatdFQ5_tWFU019Xgn49hrA",
+                "description": "リスナー参加型！？できんのかって、おれたち―――。\n\n⪩⪨　お知らせ/ɪɴғᴏ\n￣￣￣￣￣￣￣￣￣￣￣￣￣\n　🌸さくらみこ1st Live \"flower fantasist..."
+            }
+        ]
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
@@ -497,6 +504,13 @@
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "1nf_HSn1sak",
+                "title": "【#結城さくな新衣装】はじめての新衣装だあああああ！！！！！！！！告知もあっるよ！",
+                "thumbnail": "https://i.ytimg.com/vi/1nf_HSn1sak/hqdefault.jpg?v=68201e1f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjLJ8nOYsLAgldSVpaHwfE73xztw",
+                "description": "🎀バレンタインボイス発売！🐾\nhttps://yuki-sakuna.stores.jp/\n\n🎀歌ってみた動画🐾\nhttps://youtube.com/playlist?list=PLErsMirGq93vRw-CcRaaZfR4QVxl2uBsb&si=BRmEr8erE6aR-UJb..."
+            }
+        ]
     }
 }
