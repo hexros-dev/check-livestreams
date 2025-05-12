@@ -69,14 +69,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "fqiTQDaDm0Y",
-                "title": "【 #朝こよ 】おやすみ期間も火曜日の朝は～！朝こよ！ #232 【博衣こより/hololive】",
-                "thumbnail": "https://i.ytimg.com/vi/fqiTQDaDm0Y/hqdefault.jpg?v=682186a4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYwnjcwfZm4X3suWeo9SEyYSJDfg",
-                "description": "🎀新衣装記念グッズ発売開始！フルセットは全員直筆サイン付き👇\nhttps://shop.hololivepro.com/products/hakuikoyori_newoutfit_2025\n💿1stアルバム「FIRST STEP」発..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -160,7 +153,14 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "NPdIsSd2bbI",
+                "title": "【MEMBER'S STREAM】YAPPING WITH BIBOO",
+                "thumbnail": "https://i.ytimg.com/vi/NPdIsSd2bbI/hqdefault.jpg?v=68220204&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJjZhIUOpLj5dhReYx_XpbCvSS-w",
+                "description": "/.D\n\nThumbnail Art:  @Omeberry_ Thank you!\nhttps://x.com/Omeberry_/status/1920522696015687871\n\n====================\n✧Twitter: https://twitter.com/kosekibijou\n\n✧Hashtags: \n#biboo  \nAdvent:..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
