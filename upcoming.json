@@ -153,13 +153,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
         "videos": [
             {
-                "video_id": "HB8sU0qsePE",
-                "title": "【＃一条莉々華生誕祭2025】初の生誕ライブ開幕！！一条莉々華生誕祭ライブ2025【一条莉々華/hololive DEV_IS　ReGLOSS】",
-                "date": "2025/05/12 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/HB8sU0qsePE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3PFliLixOD_GryWvp0gSLwtWNpw",
-                "description": "沢山のゲストと一緒にホロライブ楽曲メドレーします✨\nたのしみ～～～！！！！\n\n※コラボパートは事前収録です。\n\n（概要欄のちほど更新します..."
-            },
-            {
                 "video_id": "TWwssoCCOhQ",
                 "title": "【＃一条莉々華生誕祭2025】メンバー限定！！アンコールLIVE予定地【一条莉々華/hololive DEV_IS ReGLOSS】",
                 "date": "2025/05/12 18:15:00",
@@ -347,7 +340,15 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "t1nq757tWTQ",
+                "title": "【NEW OUTFIT REVEAL】Kukuku...New Clothes... + EXCITING ANNOUNCEMENT AT THE END!!! #AriseTakodachi",
+                "date": "2025/05/13 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/t1nq757tWTQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWavI3GKK11HypO_IFjDYAXo9t7Q",
+                "description": "【Thumbnail Art】\n\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\n__________________________________________________________________________________________\n\nEndcard Art by Me!\nEndcard..."
+            }
+        ]
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -415,7 +416,15 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "a2kHc3yx2Mg",
+                "title": "【 F1® 24 】爆走！F1レーサーさくらみこ、いきます！！！！！！！！！！【ホロライブ/さくらみこ】",
+                "date": "2025/05/12 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/a2kHc3yx2Mg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkVDR0WoS9KDlT_ikoJawnYQT3Ww",
+                "description": "⪩⪨　お知らせ/ɪɴғᴏ\n￣￣￣￣￣￣￣￣￣￣￣￣￣\n　🌸さくらみこ1st Live \"flower fantasista!\" \n　　  Blu-ray 受注受付開始🎉予約 6/2まで✅\n　..."
+            }
+        ]
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
