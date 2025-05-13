@@ -9,7 +9,15 @@
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
         "channel_name": "Airani Iofifteen Channel hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "OT0o-3xHUVw",
+                "title": "【DINKUM】DIKUM, JUST DINKUM【 iofi / hololiveID 】",
+                "date": "2025/05/14 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/OT0o-3xHUVw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBCA6qSyeHKQ3_yDs-khFixt9RaQ",
+                "description": "#ioLyfe #Airani_Iofifteen #hololive #holoID #Dinkum\n\nWith: @AyundaRisu\n\nGame Title: Dinkum\nStore Page: https://store.steampowered.com/app/1062520/Dinkum/\n\n【Support & Jajanin IOFI】🎨\nIndonesia..."
+            }
+        ]
     },
     "@AkaiHaato": {
         "channel_url": "https://www.youtube.com/@AkaiHaato",
@@ -47,15 +55,7 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": [
-            {
-                "video_id": "nmP5AsSd9DQ",
-                "title": "kerasukan",
-                "date": "2025/05/13 21:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/nmP5AsSd9DQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-hU1cw1ypUynU3oIGFk7VuPbQgQ",
-                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nーーーーーーーーー\nCHECK OUT RISU 5TH ANNIVERSARY MERCH!\nSales start: 10 April 2025, 21:00 WIB/ 23:00 JST\nSales end: 12 May..."
-            }
-        ]
+        "videos": []
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
