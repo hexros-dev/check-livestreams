@@ -184,14 +184,7 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": [
-            {
-                "video_id": "kWaQ1AeuRy0",
-                "title": "昼休憩！一緒にごはんをたべましょう！！！【 桃鈴ねね / hololive 】",
-                "thumbnail": "https://i.ytimg.com/vi/kWaQ1AeuRy0/hqdefault.jpg?v=6822abfa&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6BOhGDxznsnzH4BKLVI95L5ZoIA",
-                "description": "ねねは寝起き\n⸜♡⸝MemberShipに入ったらもっとねねを知れるﾖ\nhttps://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA/join\n\n⸜♡⸝各音楽サイトにてオリジナル..."
-            }
-        ]
+        "videos": []
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
@@ -384,7 +377,14 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "tD8THQk6bLo",
+                "title": "【Aooni The Horror of Blueberry Onsen】#3  Ending...?",
+                "thumbnail": "https://i.ytimg.com/vi/tD8THQk6bLo/hqdefault.jpg?v=6822a7b8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCS-Ly4ALUPDdH0hcxMQQlVCOQuAQ",
+                "description": "Game title：青鬼 ブルーベリー温泉の怪異\nOfficial page：https://www.gamestudio.co.jp/Aooni/\n© LiTMUS / noprops / Game Studio Inc.\n\n-----\nVestia Zeta's  2nd Original Song  ▶..."
+            }
+        ]
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
