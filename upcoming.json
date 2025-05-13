@@ -55,7 +55,15 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "t7dZECbBODw",
+                "title": "【DINKUM】Dinkum Mania【Ayunda Risu】",
+                "date": "2025/05/14 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/t7dZECbBODw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClSjgVwkFBoS5Vn6DqYoZbTuJEtg",
+                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nGame Title: Dinkum\nStore Page: https://store.steampowered.com/app/1062520/Dinkum/\n\nーーーーーーーーー\nCHECK OUT RISU 5TH ANNIVERSAR..."
+            }
+        ]
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
