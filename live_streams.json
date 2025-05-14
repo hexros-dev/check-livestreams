@@ -82,14 +82,7 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": [
-            {
-                "video_id": "d4UzY2T6ZOQ",
-                "title": "【 キャプテン翼 RISE OF NEW CHAMPIONS 】キャプ翼もサッカーもミリしらなので遊んでみるのら！！！＃２【姫森ルーナ/ホロライブ】ネタバレあり",
-                "thumbnail": "https://i.ytimg.com/vi/d4UzY2T6ZOQ/hqdefault.jpg?v=68235efe&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAB0TvyiL6HCQ3m31HxsAhBD2VllQ",
-                "description": "Switch版でプレイしてるのら(・o・🍬)\n\nサムネイラスト\n　昼野いすさん　https://twitter.com/tree_isu\n\nキャプテン翼 RISE OF NEW CHAMPIONS再生リスト\nhttps://www.yo..."
-            }
-        ]
+        "videos": []
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -201,14 +194,7 @@
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
-        "videos": [
-            {
-                "video_id": "1XjPFP7MFTw",
-                "title": "【FREETALK】HELLO CHAT!! LET'S CHAT!!【Kureiji Ollie】",
-                "thumbnail": "https://i.ytimg.com/vi/1XjPFP7MFTw/hqdefault.jpg?v=68245d87&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAimTOCxD77JDvcG8rcLdyE9HeZwA",
-                "description": "#OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n==========================================\n\nThumbnail by https://x.com/KGhazir/\nhttps://x.com/KGhazir/status/1921574269202424133/photo/1\n\n============..."
-            }
-        ]
+        "videos": []
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
@@ -323,7 +309,14 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "72Fm9fWaogo",
+                "title": "【HADES】MORE DEATH DEFIANCE【Pavolia Reine/hololiveID 2nd gen】",
+                "thumbnail": "https://i.ytimg.com/vi/72Fm9fWaogo/hqdefault.jpg?v=682495ad&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZUz6KoeHBjaz7PScp6jtr5yeHXg",
+                "description": "This game is being streamed and monetized after confirming with Supergiant Games.\nGet \"Hades\" here: https://store.steampowered.com/app/1145360/Hades/\n\nReine's new original song now 「Yummy..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -408,7 +401,14 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "0eIUDz4MJmQ",
+                "title": "【いよいよ今日は】誕生日のカウントダウンだ～！！【ホロライブ/ときのそら】",
+                "thumbnail": "https://i.ytimg.com/vi/0eIUDz4MJmQ/hqdefault.jpg?v=6824710a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtm7fSrUq4DXg_nuwHpRfVLLzBxw",
+                "description": "もう明日なんて信じられない！！\n楽しむぞ～！！\n\n～サムネイラスト～\nしいのち様\nhttps://x.com/shiinochi\n\n★★★★★★★★★★★★★★★★★★★..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
@@ -512,14 +512,7 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": [
-            {
-                "video_id": "fSJHpQUi5e4",
-                "title": "【ポケモン/ファイアレッド】四天王戦リベンジ！絶対に倒す完全初見でいく人生縛りの旅！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
-                "thumbnail": "https://i.ytimg.com/vi/fSJHpQUi5e4/hqdefault.jpg?v=6824390d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFF62nDIq-LG04H5hPIQC5O-YFuA",
-                "description": "ルール\n・一度ひんしになったポケモンは使えない\n・HP回復アイテムは買えない\n\nひんしになった仲間\n・レグルス 15Lv（ニドラン♂）\n・ひょっこり..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
