@@ -237,7 +237,14 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "lbXWOn-EIDo",
+                "title": "【OHAPOL】#164 5/15木曜日！ポル伝曜日！！！！！！！ #ポルカ公演中 【尾丸ポルカ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/lbXWOn-EIDo/hqdefault.jpg?v=6825036c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnqTHZ7WARaCOsQKIibLukbIVrmw",
+                "description": "OHAPOL（おはポル）は不定期で朝6時から配信！\n主に水曜〜日曜に開催されることが多いですが、毎日ではありません。\n「起きられたらやる！」と..."
+            }
+        ]
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
@@ -412,7 +419,14 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Z7bzRaA8rBg",
+                "title": "【GREMBERS UNARCHIVED】vibez",
+                "thumbnail": "https://i.ytimg.com/vi/Z7bzRaA8rBg/hqdefault.jpg?v=682459de&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJiM4yvwF5ewxwFVw3bnX6JrQj2w",
+                "description": "【Acrylic Stands】\n▼Official Online Shop▼\nJP：https://shop.hololivepro.com/products/hololiveen_regularoutfit_acrylicstand\nEN：https://shop.hololivepro.com/en/products/hololiveen_regularoutf..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
