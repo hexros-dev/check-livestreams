@@ -135,14 +135,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": [
-            {
-                "video_id": "CEwKY-FPMg0",
-                "title": "【 Thief Simulator 2 】窃盗！？あなたのハートと金品をいただきます。怪盗ヴィヴィ【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "thumbnail": "https://i.ytimg.com/vi/CEwKY-FPMg0/hqdefault.jpg?v=68247b33&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCP5g8adbvvDdQCHCoub-23wPYDZw",
-                "description": "本ゲームは PlayWay S.A. に確認の上配信・収益化を行なっております。\n\nサムネイルの素敵なイラスト  QHRさん　https://x.com/Q_Hito_Ramen\n\n✧♡✧♡✧♡✧..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -400,7 +393,14 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "V_2PTEHrw0U",
+                "title": "【X-Men Origins: WOLVERINE】I had to buy 5 Xbox 360s for this-",
+                "thumbnail": "https://i.ytimg.com/vi/V_2PTEHrw0U/hqdefault.jpg?v=68248996&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCc2T5CzoiJMYavcGyUJAXWzq1K4Q",
+                "description": "this might not be a dating game\n\n--------------------------\nHashtags\n📺 Livestream: #ImmerScreen \n🎨 Fanart: #Immergination\n🎻 Music: #ImmerPiece\n🤡 Memes: #ImmerMemes \n--------------------..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
