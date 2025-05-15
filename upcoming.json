@@ -539,7 +539,15 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "S3bKNAy1Kck",
+                "title": "【GBVS RISING】sandalphon granblue fantasy i am in your walls AGAIN",
+                "date": "2025/05/16 04:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/S3bKNAy1Kck/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBkhi1UnYeC_G94KtpDVns8sjGpgg",
+                "description": "im playin for the story AGAIN\n\nThis game is being streamed and monetized with permission from Cygames and in accordance with the streaming policy.\nhttps://www.cygames.co.jp/streaming_guidelines/..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
