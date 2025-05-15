@@ -170,7 +170,14 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "E4ruql0-HsE",
+                "title": "【 Thief Simulator 2 】怪盗は盗むのが仕事。【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "thumbnail": "https://i.ytimg.com/vi/E4ruql0-HsE/hqdefault.jpg?v=6825c1db&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2s1faGrPEeQyX_vLO-xOiXUEG1w",
+                "description": "本ゲームは PlayWay S.A. に確認の上配信・収益化を行なっております。\n\nサムネイルの素敵なイラスト  Fugotaさん　https://x.com/Fugota314\n\n✧♡✧♡✧♡✧..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -285,7 +292,14 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Mak5Yh5gMy0",
+                "title": "【 Farming Simulator 25 】久しぶりに畑見に行くか！【 #ホロライブファーマーズ 】",
+                "thumbnail": "https://i.ytimg.com/vi/Mak5Yh5gMy0/hqdefault.jpg?v=682594f1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAa8lgaNVu1kZi4tsA0DRdXHR2kHw",
+                "description": "収穫しまくった記憶はある...！\n\nサムネillustrator：DoHoonさん　https://x.com/dohoon416\n\n本ゲームは Giants Software に確認の上配信・収益化を行なっておりま..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -316,13 +330,27 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "sym122RL3mo",
+                "title": "#3【BLUE PRINCE】Enjoying the fruit of the technician's labor【Pavolia Reine/hololiveID 2nd gen】",
+                "thumbnail": "https://i.ytimg.com/vi/sym122RL3mo/hqdefault.jpg?v=6825e1ef&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCx7gw6FM7f_0h_fNk9Cpj7e2n20A",
+                "description": "Game title: Blue Prince\nOfficial page: https://www.blueprincegame.com/\n\nReine's new original song now 「Yummy Yum Yummy!」AVAILABLE on iTunes, Apple Music, Spotify etc.\nパヴォリア・レイ..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "_GynQbjqnIo",
+                "title": "【Bloodborne】#4.5　番外編　輸血マラソン！ ※ネタバレ禁止【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "thumbnail": "https://i.ytimg.com/vi/_GynQbjqnIo/hqdefault.jpg?v=6825835a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBitjM_k-Dw6FLr0QG9E6qmJcjFhQ",
+                "description": "あつめるぞ～～～～！\n\n\n本ゲームは著作権ガイドラインに則り配信を行っております。\n\nおねがい\n・こういったゲームをコントローラーでプレイ..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -408,14 +436,7 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": [
-            {
-                "video_id": "Yp4_aGGNZ-o",
-                "title": "【#ときのそらお披露目誕生日2025】メンバー限定アフターライブ【ホロライブ/ときのそら】",
-                "thumbnail": "https://i.ytimg.com/vi/Yp4_aGGNZ-o/hqdefault.jpg?v=6820a55f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqvzJ9vNN8y0KSycMXvSXlw5P35A",
-                "description": "🐻ときのそら誕生日記念グッズ2025発売💿\nhttps://shop.hololivepro.com/products/tokinosora_birthday_2025\n\n★★★★★★★★★★★★★★★★★★★★★★..."
-            }
-        ]
+        "videos": []
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
