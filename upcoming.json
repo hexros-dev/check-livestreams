@@ -131,7 +131,15 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "6S3xcW6OQ_0",
+                "title": "【Clair Obscur: Expedition 33】Expediting!!!! If that is a word",
+                "date": "2025/05/17 10:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/6S3xcW6OQ_0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5J1oZIS3A_CMMIJyDu2LRFqHsjQ",
+                "description": "I just looked it up...it is a word but the definition is totally different from what I expected\n\n#hololiveenglish  #ホロライブ \n\nMy newest EP \"YaBAI\" is open for pre-orders NOW!!!\nJP：..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
