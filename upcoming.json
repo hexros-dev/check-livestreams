@@ -129,21 +129,21 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
-        "videos": [
-            {
-                "video_id": "rtLy-AK6Vic",
-                "title": "【青鬼 ブルーベリー温泉の怪異】あの青鬼の最新作…温泉？【一条莉々華/hololive DEV_IS　ReGLOSS】",
-                "date": "2025/05/16 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/rtLy-AK6Vic/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdR-GLh65eElifaerB60GGj3tU1w",
-                "description": "タケシ以外の記憶ないけど大丈夫そ？\n\n配信タイトル：青鬼 ブルーベリー温泉の怪異\n公式サイト：https://www.gamestudio.co.jp/Aooni/\n© LiTMUS / noprops..."
-            }
-        ]
+        "videos": []
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "GEys6kE40wg",
+                "title": "【】あそぼ！はいしにょていち！【】",
+                "date": "2025/05/16 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/GEys6kE40wg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHjp69GH9QR4hr_kbBbLPdxSWpfw",
+                "description": "Play Game :  (  )\nタグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nころねTwitter▶https://twitter.com/inugamikorone\n\n-----------..."
+            }
+        ]
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
@@ -463,7 +463,15 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ibZR3MOZXEE",
+                "title": "【】【轟はじめ/ReGLOSS】 #hololivedev_is",
+                "date": "2025/05/16 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ibZR3MOZXEE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAGYjnsu2223VZDBGvrnOeP8WpTIA",
+                "description": "素敵なサムネお写真：けちゃ様（@mayoyoriketyaha）\n\n\n\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n✨宣伝✨\n\n💜【Original】Countach/轟はじめ【Official..."
+            }
+        ]
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
