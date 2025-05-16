@@ -152,7 +152,7 @@
         "videos": [
             {
                 "video_id": "XSWNgeCmUJE",
-                "title": "【Life is Strange】選択で運命が変わる、これが私の選択です！【ホロライブ DEV_IS 響咲リオナ】【ネタバレあり】",
+                "title": "【Life is Strange】選択で運命が変わる、これが私の選択です！#episode 1【ホロライブ DEV_IS 響咲リオナ】【ネタバレあり】",
                 "date": "2025/05/16 19:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/XSWNgeCmUJE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCB1jquvkUiPlRi85MPCLt5T9-2iQ",
                 "description": "*ﾟ ゜ﾟ*☆*ﾟ ゜ﾟ*☆*ﾟ ゜ﾟ･｡*ﾟ ゜ﾟ*☆*ﾟ ゜ﾟ*☆*ﾟ ゜ﾟ･｡\nhololive SUPER EXPO 2025\n後夜祭 ~bonus stage~\n情報解禁 & 公式Xスタート\n\n5/24(土)埼玉..."
@@ -211,7 +211,15 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "WFCQZnupuQ4",
+                "title": "【マリオカート8DX】俺強くなる。視聴者参加型【水宮枢／FLOW GLOW】#hololiveDEV_IS",
+                "date": "2025/05/16 20:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/WFCQZnupuQ4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdjddh-gqhb2FfON7Fj9-cLE8TGw",
+                "description": "耐久ではない！！！！！！！\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -388,15 +396,7 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": [
-            {
-                "video_id": "Sqx2sk5eibs",
-                "title": "【告知あり】抜き打ち!?魔法少女テスト新米VS先輩ウィッチ対決!!【#ホロウィッチ】",
-                "date": "2025/05/16 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Sqx2sk5eibs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6S9Of2lBbYvKn_S2BIdTiBwq5Rg",
-                "description": "✨ホロウィッチメンバー \n天音かなた：@AmaneKanata\nさくらみこ：@SakuraMiko\n姫森ルーナ：@HimemoriLuna\n宝鐘マリン：@HoushouMarine\n白上フブキ：@ShirakamiFubuki..."
-            }
-        ]
+        "videos": []
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
