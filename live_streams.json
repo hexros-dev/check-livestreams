@@ -63,14 +63,7 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": [
-            {
-                "video_id": "IR1yTxFFfBw",
-                "title": "≪CAPCOM FIGHTING COLLECTION 2 LAUNCH≫ BUTTON MASHING in POWER STONE 2 #sponsored",
-                "thumbnail": "https://i.ytimg.com/vi/IR1yTxFFfBw/hqdefault.jpg?v=68271ecd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxCyx4nFiij8pZ3p1-hgZnF-DvKA",
-                "description": "WAKE UP DP!!!!!!!!!!!!!!!!!!! \nI will do my absolute best! Thank you CAPCOM for the opportunity!!\n\n©CAPCOM ©SNK CORPORATION ALL RIGHTS RESERVED.\nhttps://store.steampowered.com/app/2400430/Capcom_..."
-            }
-        ]
+        "videos": []
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -113,7 +106,14 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "6S3xcW6OQ_0",
+                "title": "【Clair Obscur: Expedition 33】Expediting!!!! If that is a word",
+                "thumbnail": "https://i.ytimg.com/vi/6S3xcW6OQ_0/hqdefault.jpg?v=68279a83&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5J1oZIS3A_CMMIJyDu2LRFqHsjQ",
+                "description": "I just looked it up...it is a word but the definition is totally different from what I expected\n\n#hololiveenglish  #ホロライブ \n\nMy newest EP \"YaBAI\" is open for pre-orders NOW!!!\nJP：..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -361,7 +361,14 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ttbnXSIOLG8",
+                "title": "【 ドラゴンクエスト11S 】完全初見。ニズ・・・ゼル・・・ファ・・・・・・？？？【鷹嶺ルイ/ホロライブ】※ネタバレあり",
+                "thumbnail": "https://i.ytimg.com/vi/ttbnXSIOLG8/hqdefault.jpg?v=6825faec&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCaUh9ZNxY7SmwKsLJ7cYDvCWPpnw",
+                "description": "あの禍々しいやつなんなの\n※タイトルの『※ネタバレあり』とは、【ゲーム本編のネタバレが含まれた配信】という意味でネタバレやアドバイス..."
+            }
+        ]
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
