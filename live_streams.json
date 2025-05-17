@@ -54,7 +54,14 @@
         "channel_url": "https://www.youtube.com/@AnyaMelfissa",
         "channel_name": "Anya Melfissa Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "4f3REQWSoUg",
+                "title": "【Tsugunohi -The Chamber of Phantom Name-】Back With Some Tsugunohi! つぐのひの新作やるわよー！SPOILER ALERT【Anya】",
+                "thumbnail": "https://i.ytimg.com/vi/4f3REQWSoUg/hqdefault.jpg?v=682842b6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhHRAYMSc5b_MprDeyc2aeaQVRcw",
+                "description": "Support me here/ドネーション↓\nStreamlabs: https://streamlabs.com/anyamelfissachhololive-id/tip\nSociaBuzz(Local Donation): https://sociabuzz.com/anyamelfissa/tribe \n\n--\nGame title: Tsugunohi..."
+            }
+        ]
     },
     "@AyundaRisu": {
         "channel_url": "https://www.youtube.com/@AyundaRisu",
@@ -400,7 +407,14 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "GKW5XX49B4I",
+                "title": "【MemberOnly/同時視聴】amazonプライムで映画版「ブルーピリオド」を一緒見よう🎨🖼【不知火フレア/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/GKW5XX49B4I/hqdefault.jpg?v=682861ff&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMeOkYhbhcNSGmPT7i5k9Svg0_9Q",
+                "description": "🔥メンバーシップはこちらから\n➡https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg/join\n\n今日の同時視聴「ブルーピリオド」\nhttps://www.amazon.co.jp/gp/video/deta..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -419,14 +433,7 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": [
-            {
-                "video_id": "KfMCaSYkzAU",
-                "title": "【#獅白杯3rd / Day1】獅白杯3rd STREET FIGHTER 6 powered by HP【獅白ぼたん/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/KfMCaSYkzAU/hqdefault.jpg?v=68262e66&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFOuzm8N4ppdCCRBxgDZGeA7Glfg",
-                "description": "🔸獅白杯3rdについて\n獅白ぼたんが主催するストリートファイター6のイベント。\n第3回は『マスターの部』『グランドマスターの部』『レジェンド..."
-            }
-        ]
+        "videos": []
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
