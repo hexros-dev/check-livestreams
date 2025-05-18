@@ -35,7 +35,14 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "oLyTgrhDvtw",
+                "title": "【メンバー限定/Member】まったりしよ【ホロライブ/アキロゼ】",
+                "thumbnail": "https://i.ytimg.com/vi/oLyTgrhDvtw/hqdefault.jpg?v=6829e5cc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKwmZHb_tsOVGPNf1QiFdRGujU2A",
+                "description": "配信直前にメンバー限定配信に切り替わります\n\n🎧アキロゼ新曲【異薔薇】聞いてね！\nhttps://cover.lnk.to/5bvecc\n\n配信タグ  #蔦の間\n・－・－・－・－..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -89,14 +96,7 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": [
-            {
-                "video_id": "depKsHslMmQ",
-                "title": "【 Poppy Playtime | ホラゲ 】ポピープレイタイムやってみるのら！！！ - チャプター１【姫森ルーナ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/depKsHslMmQ/hqdefault.jpg?v=6829157e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlRzIz8xJWi8U65DO1o70blC3MaQ",
-                "description": "サムネイラスト\n　ねこやまさん　https://twitter.com/neko_yama\n\nPoppy Playtime再生リスト\nhttps://www.youtube.com/playlist?list=PL6gUpTCMieF7KDvPJMYbzi7V9rxjuLmG6\n\n本ゲームはM..."
-            }
-        ]
+        "videos": []
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -420,14 +420,7 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": [
-            {
-                "video_id": "ogAhRqcN4uE",
-                "title": "【世界のアソビ大全51】後輩たちに闇のゲームを教えルドー！！！【角巻わため/ホロライブ４期生】",
-                "thumbnail": "https://i.ytimg.com/vi/ogAhRqcN4uE/hqdefault.jpg?v=6828a761&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIQxDOaVXegRh-SPf1DmgdszsfLA",
-                "description": "タグ：#ホロルドー\n\n◆らでんちゃん\n@JuufuuteiRaden \n◆リオナちゃん\n@IsakiRiona \n◆笑虎ちゃん\n@KoganeiNiko \n\n配信タイトル：世界のアソビ大全51\nストアペ..."
-            }
-        ]
+        "videos": []
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
