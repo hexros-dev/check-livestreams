@@ -21,7 +21,15 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "oLyTgrhDvtw",
+                "title": "【メンバー限定/Member】まったりしよ【ホロライブ/アキロゼ】",
+                "date": "2025/05/18 21:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/oLyTgrhDvtw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKwmZHb_tsOVGPNf1QiFdRGujU2A",
+                "description": "配信直前にメンバー限定配信に切り替わります\n\n🎧アキロゼ新曲【異薔薇】聞いてね！\nhttps://cover.lnk.to/5bvecc\n\n配信タグ  #蔦の間\n・－・－・－・－..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -379,10 +387,10 @@
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
         "videos": [
             {
-                "video_id": "hqAZgfzajB4",
+                "video_id": "fgZnldo4NLg",
                 "title": "【ツーポイントミュージアム】深夜に廃れた科学博物館の★２を目指す【不知火フレア/ホロライブ】",
-                "date": "2025/05/18 21:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/hqAZgfzajB4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8Gcn7LMlQMmvhfjFWipvZNsUXEA",
+                "date": "2025/05/18 21:11:03",
+                "thumbnail": "https://i.ytimg.com/vi/fgZnldo4NLg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDY9ZqjcldgqQ9BA8oMYj83n7DTCQ",
                 "description": "■Newシングル「薄明光線」🎧\n💿各種音楽サービス配信版 配信中✨\nhttps://cover.lnk.to/6EmWZn\nMVも公開中\nhttps://www.youtube.com/watch?v=CwEGRizGRvQ\n━━━━━━..."
             }
         ]
@@ -391,15 +399,7 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": [
-            {
-                "video_id": "Q-FRQRsAR6Q",
-                "title": "【ASMR】憂鬱な気持ちを吹き飛ばす♡ぐっすり安眠耳かき＆マッサージ♡【白銀ノエル/ホロライブ】",
-                "date": "2025/05/18 20:59:00",
-                "thumbnail": "https://i.ytimg.com/vi/Q-FRQRsAR6Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAeQvWL4RtINRtImGXDYcQYEv3Fsg",
-                "description": "ASMRは全て広告OFFにしてるので安心してねんねしてね✨\nこの配信はNOメン限なので誰でも視聴できます！\nもし少しでも良いと思ったらチャンネル登..."
-            }
-        ]
+        "videos": []
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
