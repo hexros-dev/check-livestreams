@@ -282,7 +282,14 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "IWk_3bP0qbI",
+                "title": "【InZOI】Superchat Catchup But It's In RTX",
+                "thumbnail": "https://i.ytimg.com/vi/IWk_3bP0qbI/hqdefault.jpg?v=6829237b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0d6iwHS_2uoUXF27xLZE_ij5m7Q",
+                "description": "Since I couldn't read the superchats, I want to thank the rest of the people who kindly sent in their superchat.\n\nThis game is being streamed in accordance with copyright guidelines.\n\n[Twitter]..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",

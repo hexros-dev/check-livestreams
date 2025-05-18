@@ -355,21 +355,21 @@
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "V4BVsCJFxGw",
+                "title": "【 ポケモンSV 】はじめてのポケモン！冒険だー！！#08【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+                "date": "2025/05/18 12:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/V4BVsCJFxGw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfXQray1OGyps-TJz6jzMAiwML0w",
+                "description": "▽音乃瀬奏 誕生日記念2025グッズ▽\n4/20(日)　21：10より販売開始！\nhttps://shop.hololivepro.com/products/otonosekanade_birthday_2025\n※受注受付期間 : 2025年04月20日..."
+            }
+        ]
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": [
-            {
-                "video_id": "IWk_3bP0qbI",
-                "title": "【InZOI】Superchat Catchup But It's In RTX",
-                "date": "2025/05/18 10:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/IWk_3bP0qbI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0d6iwHS_2uoUXF27xLZE_ij5m7Q",
-                "description": "Since I couldn't read the superchats, I want to thank the rest of the people who kindly sent in their superchat.\n\nThis game is being streamed in accordance with copyright guidelines.\n\n[Twitter]..."
-            }
-        ]
+        "videos": []
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
