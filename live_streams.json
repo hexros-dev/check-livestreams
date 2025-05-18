@@ -243,7 +243,14 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "K8L_9gGY35U",
+                "title": "【 #朝ミオ 】月曜日の朝！おはみぉーん！",
+                "thumbnail": "https://i.ytimg.com/vi/K8L_9gGY35U/hqdefault.jpg?v=68299875&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC7RdWCCifFHI12SWYoMG7BWUJUig",
+                "description": "なんか暑くなってきたような・・夏？\n\n#朝ミオおたより Twitter(X)で募集中です🌟\n今回紹介するお題は、『お祝いで食べたいごはん』です！\n..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -407,14 +414,7 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": [
-            {
-                "video_id": "XW3h-0N_9fw",
-                "title": "Playing SSBU for the first time solely to beat up Mario【SUPER SMASH BROS. ULTIMATE】",
-                "thumbnail": "https://i.ytimg.com/vi/XW3h-0N_9fw/hqdefault.jpg?v=6829ddbf&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKxnyecCAGRPVp3wOgOAHOV1jqEA",
-                "description": "deadweight, awful, evil rec brother\n\nart: https://x.com/HiraethShoujo/status/1923430376476672322\n--------------------------\nHashtags\n📺 Livestream: #ImmerScreen \n🎨 Fanart: #Immergination..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",

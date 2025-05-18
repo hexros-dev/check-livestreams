@@ -334,15 +334,7 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": [
-            {
-                "video_id": "K8L_9gGY35U",
-                "title": "【 #朝ミオ 】月曜日の朝！おはみぉーん！",
-                "date": "2025/05/19 05:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/K8L_9gGY35U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC7RdWCCifFHI12SWYoMG7BWUJUig",
-                "description": "なんか暑くなってきたような・・夏？\n\n#朝ミオおたより Twitter(X)で募集中です🌟\n今回紹介するお題は、『お祝いで食べたいごはん』です！\n..."
-            }
-        ]
+        "videos": []
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -456,7 +448,15 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "7uZ3l_JZ9yg",
+                "title": "【 Minecraft 】特大つのまきじゃんけん建築開始！！！【角巻わため/ホロライブ４期生】",
+                "date": "2025/05/19 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/7uZ3l_JZ9yg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXnM6ZvSW_-TE1DHv8XHeT7DNUmQ",
+                "description": "楽しみにしてくれてると聞いて...hehe\nタグ：#ドドドライブ \n\n配信タイトル：Minecraft\nストアページ：https://www.minecraft.net/ja-jp\n本ゲームは Mojang に確認..."
+            }
+        ]
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
