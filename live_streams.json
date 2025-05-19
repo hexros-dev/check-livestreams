@@ -15,7 +15,14 @@
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
         "avatar_url": "https://yt3.googleusercontent.com/Ob0LQV8-i9FXY_GX4AEnsWsxvYUojcYtjZjtLsmjQRtPoYMZN5qWAe9hRhy7sMa19PlF61BG",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "fdJ7OT_wDR8",
+                "title": "【晩酌】月曜から晩酌だ～～～！✨山梨づくしで飲むぞおおおお！！【ホロライブ/赤井はあと】",
+                "thumbnail": "https://i.ytimg.com/vi/fdJ7OT_wDR8/hqdefault.jpg?v=682b2b35&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCCikx9vQCYy_-83_lw94qKlEpaNg",
+                "description": "サムネイラスト：ん行　先輩\nhttps://twitter.com/99_manten/status/1533013681067331584?s=20&t=W3kvzKyAyDIkaKyipVKNxw\n\n💖Membership to support HAACHAMA!!!メンバーシップ加入は..."
+            }
+        ]
     },
     "@AkiRosenthal": {
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
@@ -269,14 +276,7 @@
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC",
-        "videos": [
-            {
-                "video_id": "Eq8k_Jl6gVc",
-                "title": "【 メン限 】咳が出るけど歌いたい気分なので歌う歌枠【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-                "thumbnail": "https://i.ytimg.com/vi/Eq8k_Jl6gVc/hqdefault.jpg?v=682b23c1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDuou_m-x_UBLsMAsAtk5EXYbHZCQ",
-                "description": "▽音乃瀬奏 誕生日記念2025グッズ▽\n4/20(日)　21：10より販売開始！\nhttps://shop.hololivepro.com/products/otonosekanade_birthday_2025\n※受注受付期間 : 2025年04月20日..."
-            }
-        ]
+        "videos": []
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
