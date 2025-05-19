@@ -9,15 +9,7 @@
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
         "channel_name": "Airani Iofifteen Channel hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc",
-        "videos": [
-            {
-                "video_id": "nZsmhpGd7JI",
-                "title": "I'm on Observation Duty... again? iofi / hololiveID 】",
-                "date": "2025/05/19 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/nZsmhpGd7JI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCIdoSgBSoG-A233PoRuI18aDzOaQ",
-                "description": "#ioLyfe #Airani_Iofifteen #hololive #holoID \n\nThis game is being streamed and monetized after confirming with Notovia.\nhttps://store.steampowered.com/app/1257810/Im_on_Observation_Duty_2/\n..."
-            }
-        ]
+        "videos": []
     },
     "@AkaiHaato": {
         "channel_url": "https://www.youtube.com/@AkaiHaato",
@@ -119,15 +111,7 @@
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
         "channel_name": "Suisei Channel",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
-        "videos": [
-            {
-                "video_id": "K-O4Xi6ipnk",
-                "title": "【お披露目/告知】VRchatで新3D衣装お披露目👗✨【ホロライブ / 星街すいせい】",
-                "date": "2025/05/19 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/K-O4Xi6ipnk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhKXUrEMVpV2Nj_anZDFX2klGleA",
-                "description": "☄2025.1.22 3rdフルアルバム『新星目録』発売中！！☄\nhttps://cover.lnk.to/SHINSEIMOKUROKU\n\n『機動戦士Gundam GQuuuuuuX』EDテーマ\n新曲「もうどうなってもいいや..."
-            }
-        ]
+        "videos": []
     },
     "@HoushouMarine": {
         "channel_url": "https://www.youtube.com/@HoushouMarine",
@@ -191,7 +175,15 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "bkL1aYjD9uo",
+                "title": "【 マリオカート８DX  】FGマリカ最弱王と走ろう！視聴者参加型【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "date": "2025/05/19 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/bkL1aYjD9uo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhkQXE8R1lkkdplGVShggzFJ-8iw",
+                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\nサムネイルの素敵なイラスト　ちゃんまろるさん　https://x.com/chanmar..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -476,7 +468,15 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ewYbMHcrdqY",
+                "title": "【 Stardew Valley 】#4：1年目夏　ナツいアツがきた！！！！【常闇トワ/ホロライブ】",
+                "date": "2025/05/19 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ewYbMHcrdqY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCixyCzR0CRgKisVbro3xyUN2OH_g",
+                "description": "本ゲームは、権利者様のポリシーに則り配信、収益化を行なっております。\nhttps://www.stardewvalley.net/faq/\n\n୨୧-------------------------------┈┈┈┈┈┈┈..."
+            }
+        ]
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
@@ -508,7 +508,15 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "RFsVhxecKrE",
+                "title": "【雑談】リフレッシュしてるラミィの雑な談話【 雪花ラミィ /ホロライブ】",
+                "date": "2025/05/20 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/RFsVhxecKrE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhslEjl06xTTyQgd9IR7kws3ED2w",
+                "description": "感想は #らみらいぶ で呟いて頂けたら嬉しいです！\n\nサムネイラスト：Bratjaさま\nhttps://x.com/Bratjasan\n\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈୨..."
+            }
+        ]
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
