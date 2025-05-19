@@ -58,14 +58,7 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": [
-            {
-                "video_id": "rCe4rFxjdLs",
-                "title": "【FATAL FRAME】peering into your soul through our viewfinder 🐾【FUWAMOCO｜零 zero】",
-                "thumbnail": "https://i.ytimg.com/vi/rCe4rFxjdLs/hqdefault.jpg?v=6828b397&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAIViBr3ww3MzgH-wUvile7wSaZ-w",
-                "description": "please don't be super hard please don't get lost please don't make us look at ghosts please ✨️\nlovely illustration by @Sobbi11 💕\n\n🌸 𝗙𝗨𝗪𝗔𝗠𝗢𝗖𝗢 𝟭 𝗠𝗶𝗹𝗹..."
-            }
-        ]
+        "videos": []
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -113,7 +106,14 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "8DWvYDaW_XY",
+                "title": "【KARAOKE / 歌枠】Singing some songs because why not :D",
+                "thumbnail": "https://i.ytimg.com/vi/8DWvYDaW_XY/hqdefault.jpg?v=682a1908&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgkdQRGLwgvpOHA2-YcdNKaj_27Q",
+                "description": "Been a while since my last archived karaoke ;o LAST DAY TO GET MY YaBAI EP BTW :D \n↓↓↓↓\nJP： https://shop.hololivepro.com/products/irys_ep_yabai\nEN：https://shop.hololivepro.com/en/produc..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -384,7 +384,14 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Y11C8gk9aGc",
+                "title": "【BLEACH Rebirth of Souls】BANKAI.",
+                "thumbnail": "https://i.ytimg.com/vi/Y11C8gk9aGc/hqdefault.jpg?v=682626db&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbHGSP0zMEaxdyUUYSPycgOMtZpA",
+                "description": "This game is being streamed with in accordance with the “Bandai Namco Entertainment Game Video Policy”\nhttps://www.bandainamcoent.co.jp/info/videopolicy/\n\n-----\nVestia Zeta's  2nd Original..."
+            }
+        ]
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
