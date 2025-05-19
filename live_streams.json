@@ -142,14 +142,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": [
-            {
-                "video_id": "bkL1aYjD9uo",
-                "title": "【 マリオカート８DX  】FGマリカ最弱王と走ろう！視聴者参加型【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "thumbnail": "https://i.ytimg.com/vi/bkL1aYjD9uo/hqdefault.jpg?v=682b015c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhkQXE8R1lkkdplGVShggzFJ-8iw",
-                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\nサムネイルの素敵なイラスト　ちゃんまろるさん　https://x.com/chanmar..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -233,7 +226,14 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "eAiztXN31yQ",
+                "title": "深夜におかゆを大さじ一杯",
+                "thumbnail": "https://i.ytimg.com/vi/eAiztXN31yQ/hqdefault.jpg?v=682b60e8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBN6pmJmKJ4kfzU4f2HeYnX2x1-Ng",
+                "description": "❥・・ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ・・❥\n\n猫又おかゆ 2nd Live.『ぺるそにゃ～りすぺくと』\n‣ https://personyarespect.hololivepro.com/\n開催日..."
+            }
+        ]
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -446,7 +446,14 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "9TN_Hb-cIJU",
+                "title": "【MEMBERS ONLY】Hello Chattini!!! Keep me company a little bit!!!",
+                "thumbnail": "https://i.ytimg.com/vi/9TN_Hb-cIJU/hqdefault.jpg?v=682b316d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD40GehQsfG1aUHa7OfU2P8zx4ARw",
+                "description": "『 X formely Twitter 』\nhttps://x.com/raorapanthera\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐ ˗ˏˋ ꒰Merch ꒱ ˎˊ˗  ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n🎉Raora Panthera..."
+            }
+        ]
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
