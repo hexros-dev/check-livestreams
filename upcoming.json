@@ -351,7 +351,7 @@
         "videos": [
             {
                 "video_id": "iNGoDWB3l4Y",
-                "title": "【】【ホロライブ/大空スバル】",
+                "title": "【】マリカかなんか【ホロライブ/大空スバル】",
                 "date": "2025/05/21 18:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/iNGoDWB3l4Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqtuppCmH4MQsqQKH41kXEG_srHQ",
                 "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n+‥‥‥‥..."
@@ -419,7 +419,15 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "-y5GhiRHeOQ",
+                "title": "Neurons Activated! We're Going In!【Blue Prince】Ep.2",
+                "date": "2025/05/21 04:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/-y5GhiRHeOQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1_0hylK9fILp4R0LEZDLhBHREvQ",
+                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n\n==============..."
+            }
+        ]
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
