@@ -530,16 +530,16 @@ def send_email_upcoming(live_streams: str) -> None:
         print_text(f"prev_upcoming_hash: {prev_hash}")
         print_text(f"curr_upcoming_hash: {current_hash}")
         if prev_hash != current_hash:
+            if is_send:
+                send_discord_message(DISCORD_WEBHOOK_URL, message=message)
             file.seek(0, 0)
             file.write(current_hash)
             send_email(subject, body)
-            if is_send:
-                send_discord_message(DISCORD_WEBHOOK_URL, message=message)
         else:
             if upcoming_counter:
-                send_email(subject, body)
                 if is_send:
                     send_discord_message(DISCORD_WEBHOOK_URL, message=message)
+                send_email(subject, body)
             else:
                 print_text("Nothing changed!", "S")
 
