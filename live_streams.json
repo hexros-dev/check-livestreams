@@ -21,14 +21,7 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": [
-            {
-                "video_id": "atX1z909TX4",
-                "title": "【ツーポイントミュージアム】経営シミュレーション！！海の博物館を豪華にするよ～【アキロゼ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/atX1z909TX4/hqdefault.jpg?v=682ca72f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_aGvggSJTV4YquRlMTfIH8z1tSQ",
-                "description": "🎧アキロゼ新曲【異薔薇】聞いてね！\nhttps://cover.lnk.to/5bvecc\n\n配信タグ  #アキびゅーわーるど  \n\nこの動画およびライブは、コンテンツ利用許諾契約..."
-            }
-        ]
+        "videos": []
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -304,7 +297,14 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "-y5GhiRHeOQ",
+                "title": "Neurons Activated! We're Going In!【Blue Prince】Ep.2",
+                "thumbnail": "https://i.ytimg.com/vi/-y5GhiRHeOQ/hqdefault.jpg?v=682ccd59&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1_0hylK9fILp4R0LEZDLhBHREvQ",
+                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n\n==============..."
+            }
+        ]
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
