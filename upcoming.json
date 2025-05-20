@@ -334,7 +334,15 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "SMUFrLnXe6c",
+                "title": "【金壺まで】なくした金壺を取り戻す【 Getting Over It with Bennett Foddy 】",
+                "date": "2025/05/20 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/SMUFrLnXe6c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9i63PchOAVg7Z9zdJxpdSNMXIIg",
+                "description": "steamのアカウントがリセットになった時になくした金壺、\nちまちまと進めてあと８回です。取り戻すぜ\n\nサムネillustrator：倉火さん　https://x.com/s_lov..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -588,6 +596,14 @@
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Qbxa_Wrw_IA",
+                "title": "【１００人マイクラ】視聴者１００人とマイクラする！！！！！！　#結城さくな生放送",
+                "date": "2025/05/20 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Qbxa_Wrw_IA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDvYTf58ULhNPGbWnI6MJ0aiubVlw",
+                "description": "🎀結城さくな新衣装記念グッズ2025🐾\nyuki-sakuna.stores.jp\n\n🎀歌ってみた動画🐾\nhttps://youtube.com/playlist?list=PLErsMirGq93vRw-CcRaaZfR4QVxl2uBsb&si=BRmEr8erE6aR-UJb..."
+            }
+        ]
     }
 }
