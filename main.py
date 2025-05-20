@@ -335,7 +335,7 @@ def send_email(subject: str, body: str) -> None:
     msg.attach(MIMEText(body, "html"))
 
     try:
-        server = smtplib.SMTP_SSL("smtp.gmail.com", 456)
+        server = smtplib.SMTP("smtp.gmail.com", 587)
         server.starttls()
         server.login(SENDER_EMAIL, SENDER_PWD)
         text = msg.as_string()
