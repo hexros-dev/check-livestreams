@@ -153,14 +153,7 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": [
-            {
-                "video_id": "Vfmzx9G1-vY",
-                "title": "WHERE'S BIBOO?",
-                "thumbnail": "https://i.ytimg.com/vi/Vfmzx9G1-vY/hqdefault.jpg?v=682caace&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwTBfiFLU0L-DNZ00V0gcuU6uCSw",
-                "description": "Thumbnail Art by:@PhdPigeon THANK YOU!\nhttps://x.com/PhdPigeon/status/1923601737614754224\n\n\n====================\n✧Twitter: https://twitter.com/kosekibijou\n\n✧Hashtags: \n#biboo  \nAdvent:..."
-            }
-        ]
+        "videos": []
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -238,7 +231,14 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "I-J11Da5ONY",
+                "title": "【3D LIVE】『EVERMORE』 Ninomae Ina'nis Birthday Live 2025  #EvermoreLIVE",
+                "thumbnail": "https://i.ytimg.com/vi/I-J11Da5ONY/hqdefault.jpg?v=682b0e6d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBoAG94dkRzhqEkZKrgIq0p5Te-A",
+                "description": "GUESTS:\n💛  @AkiRosenthal⁩  \n🩶 ⁨@ShishiroBotan⁩  \n💛 @TsunomakiWatame⁩\n❤️ @HakosBaelz  \n    \n\nLOGO:\nsaku㊴  https://twitter.com/skb318\n\nSTORY ANIMATION:\nAnimation:\ntellingbone..."
+            }
+        ]
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
