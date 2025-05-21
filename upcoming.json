@@ -319,7 +319,15 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "OZlvi6MktyA",
+                "title": "【】【ホロライブ/大空スバル】",
+                "date": "2025/05/22 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/OZlvi6MktyA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBoTMJ4tlv2S23ne4cf49NpoxLqVA",
+                "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n+‥‥‥‥..."
+            }
+        ]
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -512,15 +520,7 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": [
-            {
-                "video_id": "tdCEQ_nWh5U",
-                "title": "【MEMBERS ONLY】AH",
-                "date": "2025/05/22 02:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/tdCEQ_nWh5U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUJ0RhgUbIWA_vmf5FBIhWDWFczQ",
-                "description": "『 X formely Twitter 』\nhttps://x.com/raorapanthera\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐ ˗ˏˋ ꒰Merch ꒱ ˎˊ˗  ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n🎉Raora Panthera..."
-            }
-        ]
+        "videos": []
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
