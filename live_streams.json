@@ -28,7 +28,14 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "DdGHo3DaTB0",
+                "title": "【Fast Food Simulator】バーガー屋店長が従業員に振り回される店2 #あっぷれあ 【アキロゼ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/DdGHo3DaTB0/hqdefault.jpg?v=682dd58a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmE__g_F5fGj_PYB0i0qmCn4Cj2g",
+                "description": "🎧アキロゼ新曲【異薔薇】きいてね！\nhttps://cover.lnk.to/5bvecc\n\n従業員くん\n@ShiranuiFlare \n\n本ゲームは No Ceiling Games に確認の上配信・収益化を行なって..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -151,7 +158,14 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "v5gBFhyO1GE",
+                "title": "【#らでんのラジオ 】第二十八回目らでんのラジオ！ふつおたスペシャル【儒烏風亭らでん #ReGLOSS 】",
+                "thumbnail": "https://i.ytimg.com/vi/v5gBFhyO1GE/hqdefault.jpg?v=682dd17c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCGdLqUADABKXVvsK0kbVj6vjVBeA",
+                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\n\nらでんのラジオとは…？\n毎週水曜日（仮）23..."
+            }
+        ]
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -261,14 +275,7 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
-        "videos": [
-            {
-                "video_id": "WnZ9w4x4bPc",
-                "title": "【 声マネキング 】オフコラボ！4人揃って…声真似バトルだああ！🌽🌲🍙🥐【 #ホロライブゲーマーズ 】",
-                "thumbnail": "https://i.ytimg.com/vi/WnZ9w4x4bPc/hqdefault.jpg?v=682c9503&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDp71jkMpnXOETDdlDYMkNaGHQm6Q",
-                "description": "ㅤ\n🌽@ShirakamiFubuki  🌲@OokamiMio  🥐@InugamiKorone \n\n❥・・ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ・・❥\n\n猫又おかゆ 2nd Live.『ぺるそにゃ～りすぺく..."
-            }
-        ]
+        "videos": []
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -298,14 +305,7 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": [
-            {
-                "video_id": "oDjN0xHjlCA",
-                "title": "【#生スバル】スバルの小屋！！！やるしゅばあああああああああああああああああ！！！！！～ゲスト：Lamy～【ホロライブ/大空スバル】",
-                "thumbnail": "https://i.ytimg.com/vi/oDjN0xHjlCA/hqdefault.jpg?v=682caee4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBE8B7oZiLKvpl8g_xYCk8F3P5yfQ",
-                "description": "@YukihanaLamy \n🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid..."
-            }
-        ]
+        "videos": []
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -335,14 +335,7 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/gKitLHfMqsfmC26xRBBNBVE9jz4m0X-xAvcdPUwy8VPa4FCw0-XRxOKLvJZxm-lQnIDQU2rDA0k",
-        "videos": [
-            {
-                "video_id": "QP6Az9ad6NM",
-                "title": "【歌】ゲリラ！もう少しでライブだしうたっちゃお～～～！！！【ホロライブ/ ロボ子さん】",
-                "thumbnail": "https://i.ytimg.com/vi/QP6Az9ad6NM/hqdefault.jpg?v=682dc369&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_ZI0STd-4CRrb5ydL6UI58Rmz9g",
-                "description": "＃ロボ子さん　＃ホロライブ　\n\n💬  #ロボ子生放送　でポストしてってね✨\n今日はリクエスト拾いたい気分！\n\n📢Memberはこちらから❧\nhttps://www.you..."
-            }
-        ]
+        "videos": []
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -372,7 +365,14 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "BXSQ_WMXUFg",
+                "title": "【Fast Food Simulator】 #あっぷれあ てんちょぉおおお！うあああああ！！！【不知火フレア/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/BXSQ_WMXUFg/hqdefault.jpg?v=682dafa0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5xY8nNxlGaBncJno4zX-7bkl5Ng",
+                "description": "@AkiRosenthal   アキ店長\n\n\n■Newシングル「薄明光線」🎧\n💿各種音楽サービス配信版 配信中✨\nhttps://cover.lnk.to/6EmWZn\nMVも公開中\nhttps://www.youtube.com/watch?v..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
