@@ -231,14 +231,7 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": [
-            {
-                "video_id": "I-J11Da5ONY",
-                "title": "【3D LIVE】『EVERMORE』 Ninomae Ina'nis Birthday Live 2025  #EvermoreLIVE",
-                "thumbnail": "https://i.ytimg.com/vi/I-J11Da5ONY/hqdefault.jpg?v=682b0e6d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBoAG94dkRzhqEkZKrgIq0p5Te-A",
-                "description": "GUESTS:\n💛  @AkiRosenthal⁩  \n🩶 ⁨@ShishiroBotan⁩  \n💛 @TsunomakiWatame⁩\n❤️ @HakosBaelz  \n    \n\nLOGO:\nsaku㊴  https://twitter.com/skb318\n\nSTORY ANIMATION:\nAnimation:\ntellingbone..."
-            }
-        ]
+        "videos": []
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -268,7 +261,14 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "3JX6PPP-Njw",
+                "title": "【Ender Magnolia】Progress | #3",
+                "thumbnail": "https://i.ytimg.com/vi/3JX6PPP-Njw/hqdefault.jpg?v=682c3556&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArTmVJMlaCZDtXUVXK4pPo-LuxOA",
+                "description": "This game is being streamed and monetized after confirming with © BINARY HAZE INTERACTIVE Inc. and according to guidelines determined by IP Usage Terms and Conditions.\n\n[Twitter]\nhttps://twitter.c..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
