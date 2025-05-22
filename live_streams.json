@@ -39,7 +39,14 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "reU2nu279v0",
+                "title": "STRAYA",
+                "thumbnail": "https://i.ytimg.com/vi/reU2nu279v0/hqdefault.jpg?v=682eae71&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9CwY68htbD48RmuwkiWL6RqaJuQ",
+                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nGame Title: Dinkum\nStore Page: https://store.steampowered.com/app/1062520/Dinkum/\n\nーーーーーーーーー\nCHECK OUT RISU 5TH ANNIVERSAR..."
+            }
+        ]
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -63,14 +70,7 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": [
-            {
-                "video_id": "x5v8DZIcJ1U",
-                "title": "≪Clair Obscur: Expedition 33≫ SASAGEYO En Français #2",
-                "thumbnail": "https://i.ytimg.com/vi/x5v8DZIcJ1U/hqdefault.jpg?v=682dae86&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXfkBncqK1k-iDPx-0wwCEKy8aEQ",
-                "description": "rat is the spoiler.\n\nThumbnail Art: https://x.com/Big_Umamii/status/1798829718533292295\n\n#telebae  #hololiveenglish \n\n««≪ °◇◆◇° ≫ »»\n\nThis game is being streamed and monetized..."
-            }
-        ]
+        "videos": []
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -428,7 +428,14 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ZLLoOTLAtlI",
+                "title": "【GUERILLA】title yeah",
+                "thumbnail": "https://i.ytimg.com/vi/ZLLoOTLAtlI/hqdefault.jpg?v=682ebc2f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCX-05axRiYh5CJMrjmuq92xC_b0A",
+                "description": "--------------------------\nHashtags\n📺 Livestream: #ImmerScreen \n🎨 Fanart: #Immergination\n🎻 Music: #ImmerPiece\n🤡 Memes: #ImmerMemes \n--------------------------\n\n-------------------------..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
