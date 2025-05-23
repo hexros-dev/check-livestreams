@@ -51,14 +51,7 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": [
-            {
-                "video_id": "FFVSnJtV15I",
-                "title": "【DONKEY KONG COUNTRY 2】 these demon dogs have DEFINITELY gone bananas 🍌【FUWAMOCO｜スーパードンキーコング2】",
-                "thumbnail": "https://i.ytimg.com/vi/FFVSnJtV15I/hqdefault.jpg?v=681277ef&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCrOwL75IgwVnbmPuGsHRmhZeaAhg",
-                "description": "are we donkey kong professionals yet ✨️\nlovely illustration by @_OrangeJuice13 💕\nNintendo properties used in this video and livestream are used with permission and under license by Nintendo..."
-            }
-        ]
+        "videos": []
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -143,7 +136,14 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/VL9aJ1o3yrN_xzHKTX0PvArQjUDHhtWtOtAYWjpzkqoFxR5HHWmWRWNgu6M5l4nSibqLaeKXqA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "uTAiHJe15PI",
+                "title": "【Old Market Simulator】opening the market... again【Timesmith】",
+                "thumbnail": "https://i.ytimg.com/vi/uTAiHJe15PI/hqdefault.jpg?v=682fdbc4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzyirD5Mm5uahQxUeSKV3e4_DsqA",
+                "description": "Playing with @OuroKronii \n∘₊✧──────✧₊∘∘₊✧──────✧₊∘∘₊✧──────✧₊∘∘₊✧──────✧₊∘\n【Donasi lokal】Traktir..."
+            }
+        ]
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
