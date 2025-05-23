@@ -558,7 +558,15 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Ks69TfmzkoU",
+                "title": "【雑談＆お礼】今の季節は夏ですか？？？【角巻わため/ホロライブ４期生】",
+                "date": "2025/05/24 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Ks69TfmzkoU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXvnP8bcCt4FKGFPwJjQPWHj3wiw",
+                "description": "昼夜逆転には厳しい季節が来た...！\nタグ：#ドドドライブ \n\n🐏角巻わため & 大空スバル🦆\n初オリジナル曲『ラムダック』公開！\nMV：https://youtu.be/c..."
+            }
+        ]
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -637,10 +645,10 @@
         "videos": [
             {
                 "video_id": "Vbeg5t0guUA",
-                "title": "【配信予定地】ここが未来です✌【風真いろは/ホロライブ】",
+                "title": "【Minecraft】エンドラRTA(笑)です。ゆっくり💭目標5時間以内ﾀﾞｯ！【風真いろは/ホロライブ】",
                 "date": "2025/05/24 17:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/Vbeg5t0guUA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6rTCGMzBAn31k7DXTbRp8LcThAg",
-                "description": "※本ゲームは Mojang に確認を得た上、Terms and Conditions\n (https://account.mojang.com/terms)  に基づいて配信・収益化を行なっております。\n*⇔*――*⇔*――*..."
+                "description": "RTAは練習タイムは気にしないアタックです✌\nバージョン下げてやれっていわれてたので調べたら1.16.1がいいらしい💭\nRTA用のツールだと思ってた..."
             }
         ]
     },
@@ -654,15 +662,7 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": [
-            {
-                "video_id": "HdU8TAbf4Yg",
-                "title": "【The Sims 2: Castaway】 The Weird and Wonderful Sims 2 Game For the Wii",
-                "date": "2025/05/24 05:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/HdU8TAbf4Yg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6b-9C7BnElxEFcmur3ZrRWEQ3bg",
-                "description": "The retro streamer is back\n\n  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋\n\nKonbakuwa! I'm Nimi, the baku nurse VTuber of your nightmares~\n#VTuber #nimi\n\n☁  Socials  ☁\nhttps://x.com/niminightmare..."
-            }
-        ]
+        "videos": []
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
