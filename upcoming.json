@@ -363,7 +363,15 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ldddDS56ICo",
+                "title": "【Members Only】 Oh",
+                "date": "2025/05/25 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ldddDS56ICo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2ndpP9bZ8_aBS9jKECffKw0d6fA",
+                "description": "[Twitter]\nhttps://twitter.com/ourokronii\n\n----------------------------------------------------------------------------\n\n[Viewer Rules]\nThank you for watching my stream!\nTo help everyone enjoy..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
