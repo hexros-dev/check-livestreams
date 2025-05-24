@@ -202,13 +202,6 @@
                 "date": "2025/05/25 17:30:00",
                 "thumbnail": "https://i.ytimg.com/vi/nw16krNTFWY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAj8-Pphbl4Seb7vjCnZx89dhv5_g",
                 "description": "￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n\n虎金妃笑虎　X\n\nhttps://x.com/koganeiniko\n\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\nデビュー曲MV『FG ROADSTER..."
-            },
-            {
-                "video_id": "rVE-lcCrbfQ",
-                "title": "【完全初見🔰DARK SOULS REMASTERED #2 】目標ボス３匹狩る！【虎金妃笑虎🔰】※ネタバレあり",
-                "date": "2025/05/25 08:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/rVE-lcCrbfQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0YNalLYoRj5mlIQq9Qx9DEgs4NA",
-                "description": "本ゲームは株式会社フロム・ソフトウェアに確認を得た上、「動画・画像の投稿に関するガイドライン」に則り配信・収益化を行なっております..."
             }
         ]
     },
@@ -383,7 +376,15 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "RP2mh4OL4NA",
+                "title": "【オークス/競馬】初心者のけいば！オークス編【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "date": "2025/05/25 12:45:00",
+                "thumbnail": "https://i.ytimg.com/vi/RP2mh4OL4NA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzlt7wmEQI0DlGk1_nzA9c8UidHg",
+                "description": "勝つためには・・・？\n\nサムネイルイラスト：MiReiDaさま\nhttps://x.com/MEReiDaSensei\nありがとうございます！\n\n\n\nねえ、いっしょに向こう側の景色を見に..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -642,15 +643,7 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": [
-            {
-                "video_id": "DoVZ0BTPSb0",
-                "title": "【ELDEN RING】 Entering the supposed worst area in Elden Ring | #17",
-                "date": "2025/05/25 05:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/DoVZ0BTPSb0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTlvnTd4Pq-cpTguBPxqSajkxoBg",
-                "description": "the alpha erdtree vs the omega haligtree (and yet they all burn the same)\n\n☁  Thumbnail Art  ☁\nhttps://x.com/CharKunSama/status/1923448308145529106\nThank you so much!!\n\n  ‧₊ ˚  ⊹..."
-            }
-        ]
+        "videos": []
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",

@@ -21,14 +21,7 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": [
-            {
-                "video_id": "zKilPAKBqt4",
-                "title": "【ツーポイントミュージアム】経営シミュレーション！宇宙人いっぱい博物館！【アキロゼ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/zKilPAKBqt4/hqdefault.jpg?v=6831ebda&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOGAhYVE_ksRIztfm_SqjSYZP6vA",
-                "description": "🎧アキロゼ新曲【異薔薇】聞いてね！\nhttps://cover.lnk.to/5bvecc\n\n配信タグ  #アキびゅーわーるど  \n\nこの動画およびライブは、コンテンツ利用許諾契約..."
-            }
-        ]
+        "videos": []
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -443,7 +436,14 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "DoVZ0BTPSb0",
+                "title": "【ELDEN RING】 Entering the supposed worst area in Elden Ring | #17",
+                "thumbnail": "https://i.ytimg.com/vi/DoVZ0BTPSb0/hqdefault.jpg?v=68323390&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTlvnTd4Pq-cpTguBPxqSajkxoBg",
+                "description": "the alpha erdtree vs the omega haligtree (and yet they all burn the same)\n\n☁  Thumbnail Art  ☁\nhttps://x.com/CharKunSama/status/1923448308145529106\nThank you so much!!\n\n  ‧₊ ˚  ⊹..."
+            }
+        ]
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
