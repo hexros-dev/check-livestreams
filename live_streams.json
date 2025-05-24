@@ -304,14 +304,7 @@
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC",
-        "videos": [
-            {
-                "video_id": "mHprgLHwsuU",
-                "title": "【 ポケモンSV 】はじめてのポケモン！冒険だー！！#09【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-                "thumbnail": "https://i.ytimg.com/vi/mHprgLHwsuU/hqdefault.jpg?v=6830c6c3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwjtRM2yJdhSWh4rbU2Ew6Po3c-w",
-                "description": "▽音乃瀬奏 誕生日記念2025グッズ▽\n4/20(日)　21：10より販売開始！\nhttps://shop.hololivepro.com/products/otonosekanade_birthday_2025\n※受注受付期間 : 2025年04月20日..."
-            }
-        ]
+        "videos": []
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
@@ -408,7 +401,14 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Qq1XJlAORL4",
+                "title": "【ゼルダの伝説 ムジュラの仮面】リンクの長い戦いがはじまる。【ホロライブ/ときのそら】",
+                "thumbnail": "https://i.ytimg.com/vi/Qq1XJlAORL4/hqdefault.jpg?v=6831523d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6EE79xpCYaqcrZhiAXdqk_0pLIQ",
+                "description": "時をこえるんだ！リンク！\n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n\n🐻ときのそら誕生日記念グッズ2025発..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
