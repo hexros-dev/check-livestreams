@@ -442,7 +442,22 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "G0MPiVtZAzg",
+                "title": "【Dollmare】不気味なおもちゃ工場で働く5日間【轟はじめ/ReGLOSS】 #hololivedev_is",
+                "date": "2025/05/25 15:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/G0MPiVtZAzg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcHFdYv_gwYFnBply39iH2on9j0A",
+                "description": "配信タイトル：Dollmare\nストアページ：https://store.steampowered.com/app/2793710/Dollmare/\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n✨宣伝✨\n\n💜【Original】Cou..."
+            },
+            {
+                "video_id": "I7EU970mmgI",
+                "title": "【R.E.P.O.】ひよらない【轟はじめ/ReGLOSS】 #hololivedev_is",
+                "date": "2025/05/25 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/I7EU970mmgI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjn59Ge5dFv_7LU3P6voRu6cBdog",
+                "description": "@Robocosan @TokoyamiTowa @HakosBaelz @FUWAMOCOch @KikiraraVivi \n配信タイトル：R.E.P.O.\nストアページ：https://store.steampowered.com/app/3241660/REPO/\n￣￣￣￣￣￣￣￣￣￣￣..."
+            }
+        ]
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
