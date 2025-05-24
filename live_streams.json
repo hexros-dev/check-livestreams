@@ -240,7 +240,14 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Va9CbkNF1Kg",
+                "title": "【 爆盛食堂 】🍚🍚🍚🍚🍚🍚🍚🍚【 猫又おかゆ/ホロライブ 】",
+                "thumbnail": "https://i.ytimg.com/vi/Va9CbkNF1Kg/hqdefault.jpg?v=6830c48c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWKHuHg2zsPvak75GDbrQ6eXbAzQ",
+                "description": "❥・・ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ・・❥\n\n猫又おかゆ 2nd Live.『ぺるそにゃ～りすぺくと』\n‣ https://personyarespect.hololivepro.com/\n開催日..."
+            }
+        ]
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -264,27 +271,13 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": [
-            {
-                "video_id": "IrPS0pLuPYg",
-                "title": "【 Detroit: Become Human 】完全初見プレイなデトロイト【 ホロライブ / 大神ミオ 】",
-                "thumbnail": "https://i.ytimg.com/vi/IrPS0pLuPYg/hqdefault.jpg?v=6830ab5c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKvQaKOWKuqY45CNlKx3rHt-2h9A",
-                "description": "何も知らない状態ですが、大丈夫そうでしょうか・・ﾄﾞｷﾄﾞｷ\n\nサムネillustrator：にくにくにんにくさん　https://x.com/bignorishio\n\n本ゲームは著作..."
-            }
-        ]
+        "videos": []
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": [
-            {
-                "video_id": "_C3TLf_mlC0",
-                "title": "【#3】龍が如く７外伝 名を消した男 やるしゅばあああああああああああ！！！！：Like a Dragon Gaiden: The Man Who Erased His Name【ネタバレあり】",
-                "thumbnail": "https://i.ytimg.com/vi/_C3TLf_mlC0/hqdefault.jpg?v=68305f51&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFZyH2oXLXVZ1PygfoJ2QvbsMmBA",
-                "description": "この動画およびライブは、コンテンツ利用許諾契約に基づいて配信しています。©SEGA\n龍が如く７外伝 名を消した男：\nhttps://ryu-ga-gotoku.com/gaiden/..."
-            }
-        ]
+        "videos": []
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -363,7 +356,14 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "mIgA4wc8FAg",
+                "title": "【47ラーメン増刊号】お台場のラーメン国技館でお腹を満たし、ゲストと共にジョイポリスへ潜入！【獅白ぼたん/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/mIgA4wc8FAg/hqdefault.jpg?v=6830ba15&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCMyAkAvm_EUgrQBbT4as0u42mLgA",
+                "description": "2025年5月30日(金)から『ホロライブ×ジョイポリス SWEETY PARTY』が開催！\nそれにちなんで、お台場にある「ラーメン国技館」に足を運んできたぞい～..."
+            }
+        ]
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
@@ -387,14 +387,7 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": [
-            {
-                "video_id": "Qq1XJlAORL4",
-                "title": "【ゼルダの伝説 ムジュラの仮面】リンクの長い戦いがはじまる。【ホロライブ/ときのそら】",
-                "thumbnail": "https://i.ytimg.com/vi/Qq1XJlAORL4/hqdefault.jpg?v=6831523d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6EE79xpCYaqcrZhiAXdqk_0pLIQ",
-                "description": "時をこえるんだ！リンク！\n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n\n🐻ときのそら誕生日記念グッズ2025発..."
-            }
-        ]
+        "videos": []
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
