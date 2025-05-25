@@ -185,7 +185,14 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ZiY_YnZEoKo",
+                "title": "【歌枠 KARAOKE】縦型で久々の歌枠🧊【水宮枢／FLOW GLOW】\n#hololiveDEV_IS",
+                "thumbnail": "https://i.ytimg.com/vi/ZiY_YnZEoKo/hqdefault.jpg?v=6832d47e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_ofbEULGiNWh77LUezf_-378zLQ",
+                "description": "このライブに用いている一部の音源は、株式会社エクシングより提供されています。\n​\n▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸◂┄▹◃\n\n💙メンバー..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -387,14 +394,7 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": [
-            {
-                "video_id": "60CxXmqT-cA",
-                "title": "【sing】夕方に楽しく歌うのだ！！【ホロライブ/ときのそら】",
-                "thumbnail": "https://i.ytimg.com/vi/60CxXmqT-cA/hqdefault.jpg?v=6832ab2e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYHbYN8wX3IORt84qPx3zYp_0RNQ",
-                "description": "今日はお留守番の日。\nなので、歌います！（？）\n\n\n🐻ときのそら誕生日記念グッズ2025発売💿\nhttps://shop.hololivepro.com/products/tokinosora_birthday_2025..."
-            }
-        ]
+        "videos": []
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
