@@ -33,14 +33,7 @@
         "channel_url": "https://www.youtube.com/@AnyaMelfissa",
         "channel_name": "Anya Melfissa Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz",
-        "videos": [
-            {
-                "video_id": "2O0Qwqw5jog",
-                "title": "【HER TREES : THE PUZZLE HOUSE】Chill & Quiet Puzzle Gaming for Sleep 睡眠導入謎解きゲーム配信【holoID | Anya】",
-                "thumbnail": "https://i.ytimg.com/vi/2O0Qwqw5jog/hqdefault.jpg?v=6832a2cb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-nvAu3nW4Gz4NHOV3lzcwu5BtzA",
-                "description": "Support me here/ドネーション↓\nStreamlabs: https://streamlabs.com/anyamelfissachhololive-id/tip\nSociaBuzz(Local Donation): https://sociabuzz.com/anyamelfissa/tribe\n\n--\nGame Title: HER..."
-            }
-        ]
+        "videos": []
     },
     "@AyundaRisu": {
         "channel_url": "https://www.youtube.com/@AyundaRisu",
@@ -308,7 +301,14 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "RM_FNLVps2Q",
+                "title": "【Bloodborne】#7　DLC！ルドウイークのその先へ！ ※ネタバレ禁止【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "thumbnail": "https://i.ytimg.com/vi/RM_FNLVps2Q/hqdefault.jpg?v=6832c69e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQXn8dOKgPn-GcWyhn3KpN8e32_A",
+                "description": "強敵ルドウイークの先に待ち受けるものは\n\n本ゲームは著作権ガイドラインに則り配信を行っております。\n\nおねがい\n・こういったゲームをコント..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -374,7 +374,14 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "G0MPiVtZAzg",
+                "title": "【Dollmare】不気味なおもちゃ工場で働く5日間【轟はじめ/ReGLOSS】 #hololivedev_is",
+                "thumbnail": "https://i.ytimg.com/vi/G0MPiVtZAzg/hqdefault.jpg?v=6831e436&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcHFdYv_gwYFnBply39iH2on9j0A",
+                "description": "配信タイトル：Dollmare\nストアページ：https://store.steampowered.com/app/2793710/Dollmare/\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n✨宣伝✨\n\n💜【Original】Cou..."
+            }
+        ]
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
@@ -393,7 +400,14 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "iAVMIVpZs2I",
+                "title": "【STREET FIGHTER 6】ササモ先生にコーチングしてもらう！！ます！【常闇トワ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/iAVMIVpZs2I/hqdefault.jpg?v=6832b696&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjYy3r7LlB1ZakopYOreWdvf_NwQ",
+                "description": "ササモ先生\nhttps://www.twitch.tv/sasamostreet\n\n\nこの動画およびライブは株式会社カプコンの利用許諾を受けて配信しています『ストリートファイター6』..."
+            }
+        ]
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
