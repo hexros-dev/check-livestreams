@@ -15,14 +15,7 @@
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
         "avatar_url": "https://yt3.googleusercontent.com/Ob0LQV8-i9FXY_GX4AEnsWsxvYUojcYtjZjtLsmjQRtPoYMZN5qWAe9hRhy7sMa19PlF61BG",
-        "videos": [
-            {
-                "video_id": "cwoIw99s970",
-                "title": "【It Takes Two】Time to adventure!!! We are RED STONE!!! @KosekiBijou",
-                "thumbnail": "https://i.ytimg.com/vi/cwoIw99s970/hqdefault.jpg?v=6831b801&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZDCY-gxCDiM6vQrXBfqhYoEbANw",
-                "description": "本ゲームは© 2020 Electronic Arts Inc. の承諾を得た上で配信・収益化を行なっております。\n\n💖Membership to support HAACHAMA!!!メンバーシップ加入はこちら！..."
-            }
-        ]
+        "videos": []
     },
     "@AkiRosenthal": {
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
@@ -53,7 +46,14 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "5PD_mZ7TmAQ",
+                "title": "MAMMA MIA",
+                "thumbnail": "https://i.ytimg.com/vi/5PD_mZ7TmAQ/hqdefault.jpg?v=6832c210&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAu19-8UI4ITEEjiv-xzUyUFTlZzA",
+                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nGame Title: Dinkum\nStore Page: https://store.steampowered.com/app/1062520/Dinkum/\n\nーーーーーーーーー\nCHECK OUT RISU 5TH ANNIVERSAR..."
+            }
+        ]
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -362,14 +362,7 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": [
-            {
-                "video_id": "Rp4J43oRr9o",
-                "title": "【CLAIR OBSCUR: Expedition 33】(act 2) I NEED DISTRACTION #kfp #キアライブ",
-                "thumbnail": "https://i.ytimg.com/vi/Rp4J43oRr9o/hqdefault.jpg?v=6831bedc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB30P8zX2HMj0PM1QeEHV8xfo76gg",
-                "description": "stream my new song, PERFUME✨ https://cover.lnk.to/zJ4BEH\n\n\n 🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara\n\n 🏵️[Hashtags] 🏵️\n#kfp #キアライブ#hololiveenglish #holomyth..."
-            }
-        ]
+        "videos": []
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
