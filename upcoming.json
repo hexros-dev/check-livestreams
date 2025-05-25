@@ -47,7 +47,15 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "5PD_mZ7TmAQ",
+                "title": "MAMMA MIA",
+                "date": "2025/05/25 14:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/5PD_mZ7TmAQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAu19-8UI4ITEEjiv-xzUyUFTlZzA",
+                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nGame Title: Dinkum\nStore Page: https://store.steampowered.com/app/1062520/Dinkum/\n\nーーーーーーーーー\nCHECK OUT RISU 5TH ANNIVERSAR..."
+            }
+        ]
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -472,15 +480,7 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": [
-            {
-                "video_id": "60CxXmqT-cA",
-                "title": "【sing】夕方に楽しく歌うのだ！！【ホロライブ/ときのそら】",
-                "date": "2025/05/25 14:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/60CxXmqT-cA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYHbYN8wX3IORt84qPx3zYp_0RNQ",
-                "description": "今日はお留守番の日。\nなので、歌います！（？）\n\n\n🐻ときのそら誕生日記念グッズ2025発売💿\nhttps://shop.hololivepro.com/products/tokinosora_birthday_2025..."
-            }
-        ]
+        "videos": []
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
