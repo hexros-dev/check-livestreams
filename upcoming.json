@@ -15,15 +15,7 @@
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
         "avatar_url": "https://yt3.googleusercontent.com/Ob0LQV8-i9FXY_GX4AEnsWsxvYUojcYtjZjtLsmjQRtPoYMZN5qWAe9hRhy7sMa19PlF61BG",
-        "videos": [
-            {
-                "video_id": "cwoIw99s970",
-                "title": "【It Takes Two】Time to adventure!!! We are RED STONE!!! @KosekiBijou",
-                "date": "2025/05/25 10:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/cwoIw99s970/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZDCY-gxCDiM6vQrXBfqhYoEbANw",
-                "description": "本ゲームは© 2020 Electronic Arts Inc. の承諾を得た上で配信・収益化を行なっております。\n\n💖Membership to support HAACHAMA!!!メンバーシップ加入はこちら！..."
-            }
-        ]
+        "videos": []
     },
     "@AkiRosenthal": {
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
@@ -67,7 +59,15 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Z5cpzbdsLDE",
+                "title": "【#ホロREPO COLLAB】 みんなでチームワーク✨️ time to team together and survive【FUWAMOCO視点 POV】",
+                "date": "2025/05/25 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Z5cpzbdsLDE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLj0aAxDaRVo28J_8_eSzxcqppMQ",
+                "description": "絶対に生き残るんだー！！gonna keep living ✨️\n@Robocosan @TokoyamiTowa @HakosBaelz @TodorokiHajime @KikiraraVivi \nThis game is being streamed and monetized after confirming with..."
+            }
+        ]
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -85,15 +85,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "Y-x7v_iCwjQ",
-                "title": "【鬼武者2】完全初見🌟新作リマスターで松田優作氏が主人公モデルの世界をたぶんクリアまで!! #2 【博衣こより/ホロライブ】",
-                "date": "2025/05/25 09:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Y-x7v_iCwjQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBpQXJDssKdcCvXs-zSIxVj7IHkgQ",
-                "description": "先週やった「鬼武者」の続編！「鬼武者2」リマスターが5/23発売！！！やるよおおおお！！！！！✨\n🎀新衣装記念グッズ発売開始！フルセットは..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -183,7 +175,15 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "BaVeYOIOZbY",
+                "title": "【 R.E.P.O. 】初めての協力ホラゲーコラボ！足ひっぱらない・・・！！#ホロREPO【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "date": "2025/05/25 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/BaVeYOIOZbY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBuLdthHJaPq0NyFRMTVI8VXRLLng",
+                "description": "配信タイトル：R.E.P.O.\nストアページ：https://store.steampowered.com/app/3241660/REPO/\n\nコラボメンバー\n@Robocosan @TokoyamiTowa @HakosBaelz @FUWAMOCOch @TodorokiHajime ..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -297,7 +297,15 @@
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
         "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "1E648b259_U",
+                "title": "Adventure! Explore! | AFK Journey #ad #sponsored",
+                "date": "2025/05/26 05:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/1E648b259_U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDB261x-F_QdKNOpKi5vRklBljdzg",
+                "description": "Get the Game Here:\nhttps://bit.ly/NerissaAFKJ250501AFKJourneycollab\n#AFKJourney #FairyTail\n\n∴∴♪ * Check Out My First EP Here!* ♪∴∴\nhttps://cover.lnk.to/esLvqA\n\n∴∴♪ * Check..."
+            }
+        ]
     },
     "@NinomaeInanis": {
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
