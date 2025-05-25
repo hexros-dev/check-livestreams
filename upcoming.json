@@ -79,7 +79,15 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "rVYFKofyw0Y",
+                "title": "≪PROMISE COLLAB≫ what am i doing here",
+                "date": "2025/05/26 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/rVYFKofyw0Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtmQ9W1-91NnmsfAElPPnqY0e1zw",
+                "description": "IRyS said this wasn't scary\nw/ @IRyS @OuroKronii \n\nThumbnail Art: https://x.com/oscar_get/status/1919983550616764528/photo/1\n\n#telebae  #hololiveenglish \n\n««≪ °◇◆◇° ≫ »»\n\nThis..."
+            }
+        ]
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -361,15 +369,7 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": [
-            {
-                "video_id": "mCyqtSUUXUw",
-                "title": "Listening to Hololive Office Sins【Confession Stream】",
-                "date": "2025/05/26 00:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/mCyqtSUUXUw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVGZ_mPkMn1z6vntglP_qdJOnOkQ",
-                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n\n==============..."
-            }
-        ]
+        "videos": []
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
