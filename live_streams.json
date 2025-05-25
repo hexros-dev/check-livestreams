@@ -264,13 +264,27 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "5SMbSnzkUZs",
+                "title": "【 Detroit: Become Human 】完全初見プレイなデトロイト その２【 ホロライブ / 大神ミオ 】",
+                "thumbnail": "https://i.ytimg.com/vi/5SMbSnzkUZs/hqdefault.jpg?v=683193ca&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkNz4PxJBB36cJmns2raa_jlj6wg",
+                "description": "多分これで完結です！\n\nサムネillustrator：にくにくにんにくさん　https://x.com/bignorishio\n\n本ゲームは著作権ガイドラインに則り配信を行っております..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "AMX3sacAJ_o",
+                "title": "【#4】龍が如く７外伝 名を消した男 やるしゅばあああああああああああ！！！！：Like a Dragon Gaiden: The Man Who Erased His Name【ネタバレあり】",
+                "thumbnail": "https://i.ytimg.com/vi/AMX3sacAJ_o/hqdefault.jpg?v=68305fe1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnugkViT-szq9Nb3nr9AXZzqfLDg",
+                "description": "この動画およびライブは、コンテンツ利用許諾契約に基づいて配信しています。©SEGA\n龍が如く７外伝 名を消した男：\nhttps://ryu-ga-gotoku.com/gaiden/..."
+            }
+        ]
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
