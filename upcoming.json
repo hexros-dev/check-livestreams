@@ -240,15 +240,7 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": [
-            {
-                "video_id": "-hC4W1BXS-E",
-                "title": "【 BLEACH Rebirth of Souls 】ブリーチ夢女子による冒険 #4【 桃鈴ねね / hololive 】",
-                "date": "2025/05/26 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/-hC4W1BXS-E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7xdwmwDWJJupJ6FlUxZdDMXifaQ",
-                "description": "平子真子・・・・・・・・・・・・・・・・・・・・・・・・・まってろよな・・・・・・・・\n⸜♡⸝MemberShipに入ったらもっとねねを知れるﾖ..."
-            }
-        ]
+        "videos": []
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
@@ -406,7 +398,22 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Mr2DkOVtrrg",
+                "title": "【雑談】お疲れ様でしたーな雑談配信をする。【白上フブキ/ホロライブ】",
+                "date": "2025/05/26 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Mr2DkOVtrrg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB49gbUiUx3xoVPd9W62S5qkuaJSg",
+                "description": "🌽 『超超超超ゲーマーズ2』イベント公式サイト\n▶️ https://abe.ma/3DEqNyS\n\n🌲 チケット販売ページ\n▶️ https://abe.ma/43JlWXz\n\n🍙 配信チケット販売ペー..."
+            },
+            {
+                "video_id": "xtwo26ulU2s",
+                "title": "【Darkwater】潜水艦で生き延びろ！！！脱出ホラーゲームがYABAI【#バカタレサーカス】",
+                "date": "2025/05/26 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/xtwo26ulU2s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYApM8cuBmsOYPvssgloPiJo7lZg",
+                "description": "#バカタレサーカス\n\n不知火フレア　@ShiranuiFlare \n角巻わため　@TsunomakiWatame \n尾丸ポルカ　@OmaruPolka \n━━━━━━━━━━━━━━━━━━━━━━..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
