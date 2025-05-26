@@ -219,15 +219,7 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": [
-            {
-                "video_id": "ZDa0AJiWYmo",
-                "title": "【近畿霊務局】関西弁で、物理で幽霊倒すぞ👊【水宮枢／FLOW GLOW】#hololiveDEV_IS",
-                "date": "2025/05/26 20:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/ZDa0AJiWYmo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDw1dAFuJ_9PL51tl0leeQ3KXvLJw",
-                "description": "本ゲームは、配信ガイドラインに則り配信、収益化を行っています。\nイラストhttps://x.com/a_hiru_duck\n▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸◂┄▹◃..."
-            }
-        ]
+        "videos": []
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -343,7 +335,15 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/gKitLHfMqsfmC26xRBBNBVE9jz4m0X-xAvcdPUwy8VPa4FCw0-XRxOKLvJZxm-lQnIDQU2rDA0k",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "PeloVuAoUSI",
+                "title": "【 Stardew Valley 】＃１初見だぁ～よ！夢のスローライフ生活🏠🏠【ホロライブ/ ロボ子さん】",
+                "date": "2025/05/26 22:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/PeloVuAoUSI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCLTf5DDXotK8KSC04IILe9jpt8g",
+                "description": "＃ホロライブ　#hololive \n💬  #ロボ子生放送　でポストしてってね✨\n\n💌new 歌ってみた➡ 鬼ノ宴　Listen to me🎶\nhttps://youtu.be/zZtIOlu0ZQM?si=6gblA4P7AuvTqVrx..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -507,6 +507,13 @@
                 "date": "2025/05/30 05:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/VRVExNHW9Go/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCI42gtlrvcSx8UTLQBMoAEjf4GMg",
                 "description": "place your bets\n\nthumbnail: https://x.com/decrilus/status/1926115446882779211\nThis game is being streamed and monetized after confirming with © 2020 StudioMDHR Entertainment Inc.\n\n‐‐‐‐‐..."
+            },
+            {
+                "video_id": "abdE9pnu8wU",
+                "title": "【SUPERCHAT READING】backlog as big as my game backlog",
+                "date": "2025/05/27 05:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/abdE9pnu8wU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnPzaYUnSjMEIkDLRfOq-8TL-sIg",
+                "description": "7am....\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
             }
         ]
     },
