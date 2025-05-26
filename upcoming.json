@@ -335,15 +335,7 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/gKitLHfMqsfmC26xRBBNBVE9jz4m0X-xAvcdPUwy8VPa4FCw0-XRxOKLvJZxm-lQnIDQU2rDA0k",
-        "videos": [
-            {
-                "video_id": "PeloVuAoUSI",
-                "title": "【 Stardew Valley 】＃１初見だぁ～よ！夢のスローライフ生活🏠🏠【ホロライブ/ ロボ子さん】",
-                "date": "2025/05/26 22:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/PeloVuAoUSI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCLTf5DDXotK8KSC04IILe9jpt8g",
-                "description": "＃ホロライブ　#hololive \n💬  #ロボ子生放送　でポストしてってね✨\n\n💌new 歌ってみた➡ 鬼ノ宴　Listen to me🎶\nhttps://youtu.be/zZtIOlu0ZQM?si=6gblA4P7AuvTqVrx..."
-            }
-        ]
+        "videos": []
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -473,7 +465,15 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "O_1z0UhvY2Y",
+                "title": "【Hi】Standing behind you and breathing into your ear while repeating the sentence currently stuck in-",
+                "date": "2025/05/27 04:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/O_1z0UhvY2Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnEO3Y3svk8vdYqlhfnvtxlEuX7w",
+                "description": "--------------------------\nHashtags\n📺 Livestream: #ImmerScreen \n🎨 Fanart: #Immergination\n🎻 Music: #ImmerPiece\n🤡 Memes: #ImmerMemes \n--------------------------\n\n-------------------------..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
