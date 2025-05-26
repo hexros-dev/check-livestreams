@@ -286,14 +286,7 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/gKitLHfMqsfmC26xRBBNBVE9jz4m0X-xAvcdPUwy8VPa4FCw0-XRxOKLvJZxm-lQnIDQU2rDA0k",
-        "videos": [
-            {
-                "video_id": "PeloVuAoUSI",
-                "title": "【 Stardew Valley 】＃１初見だぁ～よ！夢のスローライフ生活🏠🏠【ホロライブ/ ロボ子さん】",
-                "thumbnail": "https://i.ytimg.com/vi/PeloVuAoUSI/hqdefault.jpg?v=68346912&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCLTf5DDXotK8KSC04IILe9jpt8g",
-                "description": "＃ホロライブ　#hololive \n💬  #ロボ子生放送　でポストしてってね✨\n\n💌new 歌ってみた➡ 鬼ノ宴　Listen to me🎶\nhttps://youtu.be/zZtIOlu0ZQM?si=6gblA4P7AuvTqVrx..."
-            }
-        ]
+        "videos": []
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -311,7 +304,14 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "jAblnfLDors",
+                "title": "Unsupervised Shiori Ventures the World 【Pokemon Violet】Ep 2",
+                "thumbnail": "https://i.ytimg.com/vi/jAblnfLDors/hqdefault.jpg?v=6833d2b4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAw5ekSeJ3G61L3dgkqUa-XBwx-5Q",
+                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n\n==============..."
+            }
+        ]
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
