@@ -63,7 +63,7 @@
             {
                 "video_id": "uWdnMXkKj_g",
                 "title": "【FUWAMOCO MORNING】episode 161 🐾 #FWMCMORNING",
-                "date": "2025/05/26 22:00:00",
+                "date": "2025/05/28 22:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/uWdnMXkKj_g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8Grc7T2J3eCDuHabjKlI_wyv1YQ",
                 "description": "time for the monday magic ✨\nlovely illustration by @kidakupo 💕\njingle by @Sarina_A_Elysia ♪\n\n🌸 𝗙𝗨𝗪𝗔𝗠𝗢𝗖𝗢 𝟭 𝗠𝗶𝗹𝗹𝗶𝗼𝗻 𝗦𝘂𝗯𝘀𝗰𝗿..."
             }
@@ -91,7 +91,7 @@
                 "title": "【 #朝こよ 】5月＆シーズン10ラスト！な火曜日の朝も朝こよ！☀ #234 【博衣こより/hololive】",
                 "date": "2025/05/27 05:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/vKsoxx2wdSA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPXHJtatl5BTQPuIDs9CCHdFjzAA",
-                "description": "🎀新衣装記念グッズ発売開始！フルセットは全員直筆メッセージ付き👇\nhttps://shop.hololivepro.com/products/hakuikoyori_newoutfit_2025\n💿1stアルバム「FIRST..."
+                "description": "シーズン10台詞大賞アンケートはこちら→ https://forms.gle/THCUH5A1UrHGLGe46\n🎀新衣装記念グッズ発売開始！フルセットは全員直筆メッセージ付き👇..."
             }
         ]
     },
@@ -251,7 +251,15 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ukYZ4iMSTAg",
+                "title": "新しい朝がきた～～ 希望の朝だ～～～～～～！🌤",
+                "date": "2025/05/27 05:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ukYZ4iMSTAg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAi7C2Q7pcEFiu7P64g9XrrY0xaBA",
+                "description": "ㅤ\nこのあとリハーサル＋ホテル入りなので今日は朝活する～～～～！\n朝活決起会ってこと…!?\n\n❥・・ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈..."
+            }
+        ]
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -315,15 +323,7 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": [
-            {
-                "video_id": "01vvIFgPGgc",
-                "title": "【SUDOCATS】sudoku but with cats【Pavolia Reine/hololiveID 2nd gen】",
-                "date": "2025/05/26 21:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/01vvIFgPGgc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRdyABlIfTJYMB6R55h3TGv8_SVA",
-                "description": "Support me here (overseas): https://streamlabs.com/pavoliareinechhololive-id/tip\nSupport me here (Indonesia): https://sociabuzz.com/pavoliareine/tribe\n\nReine's new original song now 「Yummy..."
-            }
-        ]
+        "videos": []
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
