@@ -81,7 +81,7 @@
                 "title": "【FUWAMOCO MORNING】episode 161 🐾 #FWMCMORNING",
                 "date": "2025/05/28 22:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/uWdnMXkKj_g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8Grc7T2J3eCDuHabjKlI_wyv1YQ",
-                "description": "time for the monday magic ✨\nlovely illustration by @kidakupo 💕\njingle by @Sarina_A_Elysia ♪\n\n🌸 𝗙𝗨𝗪𝗔𝗠𝗢𝗖𝗢 𝟭 𝗠𝗶𝗹𝗹𝗶𝗼𝗻 𝗦𝘂𝗯𝘀𝗰𝗿..."
+                "description": "time for the -monday- wednesday magic ✨\nlovely illustration by @kidakupo 💕\njingle by @Sarina_A_Elysia ♪\n\n🌸 𝗙𝗨𝗪𝗔𝗠𝗢𝗖𝗢 𝟭 𝗠𝗶𝗹𝗹𝗶𝗼𝗻 𝗦𝘂𝗯..."
             }
         ]
     },
@@ -338,10 +338,10 @@
         "videos": [
             {
                 "video_id": "716EGbZHk2Y",
-                "title": "【】【ホロライブ/大空スバル】",
+                "title": "【#生スバル】👻深夜の監視員がみた「何か」とは… 圧倒的高評価ホラゲー！Fears to Fathom - Ironbark Lookout👻【ホロライブ/大空スバル】",
                 "date": "2025/05/28 20:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/716EGbZHk2Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9Jv--AEI3IcJsafjadE-wzW4WGg",
-                "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n+‥‥‥‥..."
+                "description": "配信タイトル：Fears to Fathom - Ironbark Lookout\nストアページ：https://store.steampowered.com/app/2506160/Fears_to_Fathom__Ironbark_Lookout/\n\n🐣おやくそく/Rule🐣\n・待機所..."
             }
         ]
     },
@@ -393,15 +393,7 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": [
-            {
-                "video_id": "7xyrj2D6Xfk",
-                "title": "【 はいしんよてち！ 】【ホロライブ/さくらみこ】",
-                "date": "2025/05/28 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/7xyrj2D6Xfk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0AWlaT4b_tRpGuvz_WjwfJsWk4w",
-                "description": "⪩⪨　お知らせ/ɪɴғᴏ\n￣￣￣￣￣￣￣￣￣￣￣￣￣\n　🌸さくらみこ1st Live \"flower fantasista!\" \n　　  Blu-ray 受注受付開始🎉予約 6/2まで✅\n　..."
-            }
-        ]
+        "videos": []
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
@@ -427,7 +419,15 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "r9lsn2a_-zk",
+                "title": "【ツーポイントミュージアム】新博物館開館！今度の博物館はすごい！（予定）【不知火フレア/ホロライブ】",
+                "date": "2025/05/28 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/r9lsn2a_-zk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBK-01648F2TtFWNvnivCWYcHlgog",
+                "description": "この動画およびライブは、コンテンツ利用許諾契約に基づいて配信しています。\nタイトル名： 『ツーポイントミュージアム』\n公式サイト：..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -480,21 +480,21 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "dnOuqWPlptM",
+                "title": "【The Boba Teashop】タピオカ屋さんはじめました。タピるお茶屋【轟はじめ/ReGLOSS】 #hololivedev_is",
+                "date": "2025/05/29 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/dnOuqWPlptM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSiYIuo3aFW3DgImkP54FINAXhAA",
+                "description": "素敵なサムネお写真：すずなみ様（@suzunami_illust）\n配信タイトル：The Boba Teashop\nストアページ：https://store.steampowered.com/app/3461920/The_Boba_Teashop/\n￣￣￣..."
+            }
+        ]
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": [
-            {
-                "video_id": "__GbPSYc3gg",
-                "title": "【ゼルダの伝説 ムジュラの仮面】リンクさん・・・リンクさーん！！【ホロライブ/ときのそら】",
-                "date": "2025/05/28 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/__GbPSYc3gg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArcpmahG9t3oMEIQVN22xR62p5Kw",
-                "description": "なんかいろんなお店に行って遊びたい気がしなくもない。\n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n\n🐻と..."
-            }
-        ]
+        "videos": []
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
