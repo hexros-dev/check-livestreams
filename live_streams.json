@@ -220,7 +220,14 @@
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "AH25hyaWhm8",
+                "title": "【ホロアース】鉄の時代を謳歌するぞ！【ホロライブ/夏色まつり】",
+                "thumbnail": "https://i.ytimg.com/vi/AH25hyaWhm8/hqdefault.jpg?v=6835c99c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGRJeuW8Nn2Ag9PUYKJksW0KdZQQ",
+                "description": "ホロアースDLはこちら→https://holoearth.com/\n\n\n素敵なサムネイル→ホロアース運営さん\n\n\n...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**..."
+            }
+        ]
     },
     "@NekomataOkayu": {
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
@@ -412,14 +419,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "BheSRh58mPg",
-                "title": "【The Elder Scrolls IV: Oblivion Remastered】2006 called except it's not 2006 and it's 2025",
-                "thumbnail": "https://i.ytimg.com/vi/BheSRh58mPg/hqdefault.jpg?v=68333dca&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASvp25ntSfr2LBybT7CbN8ZDI1Sg",
-                "description": "also this is my first time playing oblivion\nthumbnail: https://x.com/Ku_da_ri_/status/1925160752836723113\n\ngame title: The Elder Scrolls IV: Oblivion Remastered\nhttps://store.steampowered.com/app/2..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
