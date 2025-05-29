@@ -87,7 +87,14 @@
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
         "channel_name": "Suisei Channel",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "HNPgS65dq1Q",
+                "title": "【R.E.P.O】【ホロライブ / 星街すいせい】",
+                "thumbnail": "https://i.ytimg.com/vi/HNPgS65dq1Q/hqdefault.jpg?v=68383c4f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbHlhOdjZ65YsSIBj_Y5kZs6tidA",
+                "description": "⇩　星街すいせい メンバー限定カレンダー2025　はこちら　⇩\nhttps://shop.hololivepro.com/products/hoshimachisuisei_membersonly_2025calendar\n\n購入方法の詳細は下記..."
+            }
+        ]
     },
     "@HoushouMarine": {
         "channel_url": "https://www.youtube.com/@HoushouMarine",
@@ -233,7 +240,14 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "qKO3T6mKIno",
+                "title": "【 #おかゆセカンド 】ソロライブ打ち上げだああッ！衣装お披露目＆告知もアリです🔥【 猫又おかゆ/ホロライブ 】",
+                "thumbnail": "https://i.ytimg.com/vi/qKO3T6mKIno/hqdefault.jpg?v=6837fd2c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtMVW-PaR5fv8tw0awCNQgVt5YpA",
+                "description": "❥・・ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ・・❥\n\n猫又おかゆ 2nd Live.『ぺるそにゃ～りすぺくと』\n‣ https://personyarespect.hololivepro.com/\n▼公式..."
+            }
+        ]
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -270,20 +284,20 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "pWP-gqjhwuc",
+                "title": "【#生スバル】👻化け物の住み家で宝探し！全員で生きて帰れ！圧倒的高評価神ゲーやるしゅばあああああああああああああああああああああ！！！！！！👻R.E.P.O【ホロライブ/大空スバル】",
+                "thumbnail": "https://i.ytimg.com/vi/pWP-gqjhwuc/hqdefault.jpg?v=68383c3d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6S3QuyQgfflckTCtpv-8nI-zBiQ",
+                "description": "@SakuraMiko \n@HoshimachiSuisei \n\n配信タイトル：R.E.P.O.\nストアページ：https://store.steampowered.com/app/3241660/REPO/\n\n🐣おやくそく/Rule🐣\n・待機所でお喋りしない..."
+            }
+        ]
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC",
-        "videos": [
-            {
-                "video_id": "QkdLjD839xA",
-                "title": "【 超土下座 】誠に申し訳ございませんｯｯｯ!!!【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-                "thumbnail": "https://i.ytimg.com/vi/QkdLjD839xA/hqdefault.jpg?v=6837c586&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIGj8rKRXRmk9WPtkrse9wkI28KA",
-                "description": "▽音乃瀬奏 誕生日記念2025グッズ▽\n4/20(日)　21：10より販売開始！\nhttps://shop.hololivepro.com/products/otonosekanade_birthday_2025\n※受注受付期間 : 2025年04月20日..."
-            }
-        ]
+        "videos": []
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
@@ -319,7 +333,14 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "R5Lk7lxXkB4",
+                "title": "【R.E.P.O.】すばみこめっとで話題のホラゲーやるにぇ！！！！！！！！【ホロライブ/さくらみこ】",
+                "thumbnail": "https://i.ytimg.com/vi/R5Lk7lxXkB4/hqdefault.jpg?v=68383bc0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSMUyB1av0u01ymOnGXHMAUAkkuA",
+                "description": "@OozoraSubaru @HoshimachiSuisei \n\n⪩⪨　お知らせ/ɪɴғᴏ\n￣￣￣￣￣￣￣￣￣￣￣￣￣\n　🌸さくらみこ1st Live \"flower fantasista!\" \n　　  Blu-ray 受注受付開始🎉..."
+            }
+        ]
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
@@ -331,7 +352,14 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "x8ur1d0OQNU",
+                "title": "【HER TREES : THE PUZZLE HOUSE】奇妙な部屋で謎解き。【ホロライブ/白上フブキ】",
+                "thumbnail": "https://i.ytimg.com/vi/x8ur1d0OQNU/hqdefault.jpg?v=68381c50&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_nkdbK-9OJvehNkc_qY7Ynpqxxg",
+                "description": "🌽 『超超超超ゲーマーズ2』イベント公式サイト\n▶️ https://abe.ma/3DEqNyS\n\n🌲 チケット販売ページ\n▶️ https://abe.ma/43JlWXz\n\n🍙 配信チケット販売ペー..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -493,10 +521,10 @@
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
         "videos": [
             {
-                "video_id": "UD-YrCT-tjM",
-                "title": "【里帰り】兎田ぺこら幻のホラゲースペシャル part① ぺこ！【ホロライブ/兎田ぺこら】",
-                "thumbnail": "https://i.ytimg.com/vi/UD-YrCT-tjM/hqdefault.jpg?v=68384190&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAb-2inVbIAZ4NAjxE13AD6otfuBw",
-                "description": "ぴゃああああああああああああああああああああ！！！\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora..."
+                "video_id": "PmTiOUZs1Jk",
+                "title": "【姫井ダム】兎田ぺこら幻のホラゲースペシャル part② ぺこ！【ホロライブ/兎田ぺこら】",
+                "thumbnail": "https://i.ytimg.com/vi/PmTiOUZs1Jk/hqdefault.jpg?v=68383b77&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCX3uANouWddo7ryovF1YP01SC-yA",
+                "description": "ぴょおおおおおおおおおおおおおおおおおお！！！\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora..."
             }
         ]
     },
