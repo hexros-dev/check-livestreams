@@ -148,15 +148,7 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": [
-            {
-                "video_id": "Q-mL_wRus3A",
-                "title": "【 #響咲リオナ生誕祭2025 】初❤誕生日！ホロライブ歌枠するっぞ✨【ホロライブ DEV_IS 響咲リオナ】",
-                "date": "2025/05/29 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Q-mL_wRus3A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBseCXzYb-mPDq7iHNh-cXy2AqaTQ",
-                "description": "響咲リオナ、初めての誕生日を迎えます♡\nホロライブのメンバーとして誕生日を迎えられることがとっても幸せです♪\n\n初めての誕生日配信は、..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -530,7 +522,15 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "s56d02Nvz7A",
+                "title": "【メンバー限定/Memberonly】また～～～りお話っ【常闇トワ/ホロライブ】",
+                "date": "2025/05/29 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/s56d02Nvz7A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7cUVjTSc_5JmOY3sZ47k4ORKzGw",
+                "description": "୨୧-------------------------------┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧\n\n⚠👾お知らせ/ Notice 👾⚠\n\nいつも切り抜きを作成して..."
+            }
+        ]
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
