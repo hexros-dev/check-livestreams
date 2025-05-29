@@ -241,15 +241,7 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": [
-            {
-                "video_id": "7UzGI1461HU",
-                "title": "【DAVE THE DIVER】睡眠導入　ちるく寿司握る#４【水宮枢／FLOW GLOW】#hololiveDEV_IS",
-                "date": "2025/05/29 23:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/7UzGI1461HU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0HHi7Z2MP6H5ccBmR5sMZTfQ9aQ",
-                "description": "本ゲームはNEXON/MINTROCKETに確認の上配信・収益化を行なっております。\nhttps://store-jp.nintendo.com/list/software/70010000060371.html\n▹◃┄▸◂┄▹◃┄▸◂┄..."
-            }
-        ]
+        "videos": []
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -378,7 +370,15 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "JTcrbmNABlY",
+                "title": "【Split Fiction】Switching Minds And Worlds With @holoen_raorapanthera",
+                "date": "2025/05/30 06:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/JTcrbmNABlY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWGOuxH90sRwlsoSJJsSma7Sob1A",
+                "description": "Game title: Split Fiction\nStore page: https://store.steampowered.com/app/2001120/_/\n\n[Twitter]\nhttps://twitter.com/ourokronii\n\n[Thumbnail Art]\nhttps://x.com/koizumi_arata\n\n-------------------------..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
