@@ -259,7 +259,14 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "T7p6OcVMLXA",
+                "title": "【AmiAmi】May Special Featuring @HakosBaelz  !!",
+                "thumbnail": "https://i.ytimg.com/vi/T7p6OcVMLXA/hqdefault.jpg?v=68374ec9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBklyTdK18ZtNf5bqxcxaeOi9rTsw",
+                "description": "I became the official ambassador for AmiAmi!!\nMake sure to check out their website~!! \nhttps://www.amiami.com/eng/?utm_source=youtube&utm_medium=PR&utm_campaign=2409_Inanis\n\nQuick link to find..."
+            }
+        ]
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
