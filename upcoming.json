@@ -361,7 +361,15 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "jrAsYFOQ0EE",
+                "title": "【Superchat Catchup】Birthday Supa Catchup 💕",
+                "date": "2025/05/29 12:45:00",
+                "thumbnail": "https://i.ytimg.com/vi/jrAsYFOQ0EE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDvK-zVP4l6kbQA98P9E2nvchAV6Q",
+                "description": "Since I couldn't read the superchats, I want to thank the rest of the people who kindly sent in their superchat.\n\n[Twitter]\nhttps://twitter.com/ourokronii\n\n[Thumbnail Art]\nhttps://x.com/Reulem5..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
