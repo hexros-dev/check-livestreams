@@ -188,13 +188,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/ACubs_Mw4YtmgHDIIZvW_gZaPf_VR1wg9yffFLsq4Lrw-W7Md-0pK4Gob8OJebCYCmgrArsE",
         "videos": [
             {
-                "video_id": "rQ0Abv0fXr4",
-                "title": "【逆再生キング】声マネキングではAEGだの言われましたがいつだって真剣です【虎金妃笑虎】",
-                "date": "2025/05/29 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/rQ0Abv0fXr4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDsAWdTUVdtmIUmz1FWkZxZkmyYQ",
-                "description": "サムネイルのイラストは\nMNさん！✨\nhttps://x.com/mn374390/status/1923381658398470432\n\n逆再生キング\nストアページ：https://store-jp.nintendo.com/item/software/D700100000920..."
-            },
-            {
                 "video_id": "t_bkkb8T3E8",
                 "title": "【会員制(メンシプ)スナックきわこ】本日はどないなボトル(歌リクエスト)を入れてくださる、、？【虎金妃笑虎】",
                 "date": "2025/06/01 19:00:00",
@@ -423,7 +416,15 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "R5Lk7lxXkB4",
+                "title": "【 こらーぼ 】【ホロライブ/さくらみこ】",
+                "date": "2025/05/29 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/R5Lk7lxXkB4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSMUyB1av0u01ymOnGXHMAUAkkuA",
+                "description": "⪩⪨　お知らせ/ɪɴғᴏ\n￣￣￣￣￣￣￣￣￣￣￣￣￣\n　🌸さくらみこ1st Live \"flower fantasista!\" \n　　  Blu-ray 受注受付開始🎉予約 6/2まで✅\n　..."
+            }
+        ]
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
@@ -635,15 +636,7 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
-        "videos": [
-            {
-                "video_id": "oKrsaJBhFs0",
-                "title": "【Minecraft】ちょっとずつ早くなってきた！RTAと呼べるがくるのか？【風真いろは/ホロライブ】",
-                "date": "2025/05/29 17:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/oKrsaJBhFs0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVcbT974UdmdR6x0bsNFXqj87z0g",
-                "description": "RTAは練習タイムは気にしないアタックです✌\nバージョン下げてやれっていわれてたので調べたら1.16.1がいいらしい💭\nRTA用のツールだと思ってた..."
-            }
-        ]
+        "videos": []
     },
     "@mikenekoko": {
         "channel_url": "https://www.youtube.com/@mikenekoko",
