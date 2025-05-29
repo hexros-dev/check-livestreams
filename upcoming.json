@@ -252,7 +252,15 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "-xpxg2nzuLE",
+                "title": "【member's only】sing and chat! #calliolive",
+                "date": "2025/05/30 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/-xpxg2nzuLE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcOmUiOWwW2g23lPqkk-A9jXTseg",
+                "description": "ーーーーーーーーー\nBGM: https://x.com/BigRicePiano\nhttps://x.com/the_arkhand\nhttps://x.com/alterclad\n\nintro bgm: https://youtu.be/UvAzXmHQL30?si=yIddEM6FmGWi__vB\n\nRequest from hololive..."
+            }
+        ]
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -458,7 +466,15 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "sZGVeN06Z14",
+                "title": "【メン限】はいしんよてい【轟はじめ/ReGLOSS】 #hololivedev_is",
+                "date": "2025/05/30 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/sZGVeN06Z14/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDvDAWgK2QpTsHzkrASZ32sdA0Mtg",
+                "description": "素敵なサムネお写真：konomi(きのこのみ🍄)様（@konominoco）\n\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n✨宣伝✨\n\n💜【Original】Countach/轟はじめ【Offi..."
+            }
+        ]
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
@@ -470,29 +486,13 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": [
-            {
-                "video_id": "s56d02Nvz7A",
-                "title": "【メンバー限定/Memberonly】また～～～りお話っ【常闇トワ/ホロライブ】",
-                "date": "2025/05/29 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/s56d02Nvz7A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7cUVjTSc_5JmOY3sZ47k4ORKzGw",
-                "description": "୨୧-------------------------------┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧\n\n⚠👾お知らせ/ Notice 👾⚠\n\nいつも切り抜きを作成して..."
-            }
-        ]
+        "videos": []
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": [
-            {
-                "video_id": "D39y5krWu6s",
-                "title": "【 Minecraft 】特大つのまきじゃんけん完成か？！！【角巻わため/ホロライブ４期生】",
-                "date": "2025/05/29 20:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/D39y5krWu6s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxPJVP5wJRIXgXJnEStzQLoVSvuA",
-                "description": "まったり建築🔨🌳\nタグ：#ドドドライブ \n\n配信タイトル：Minecraft\nストアページ：https://www.minecraft.net/ja-jp\n本ゲームは Mojang に確認を得た上、Terms..."
-            }
-        ]
+        "videos": []
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -592,15 +592,7 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": [
-            {
-                "video_id": "R0CGsyk6vds",
-                "title": "【】兎田ぺこら幻のホラゲースペシャル part③ ぺこ！【ホロライブ/兎田ぺこら】",
-                "date": "2025/05/29 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/R0CGsyk6vds/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbYsO87inJslKz3Qbi-9qF9UQ4ig",
-                "description": "びゃああああああああああああああああああああ！！！\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
