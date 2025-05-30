@@ -70,15 +70,7 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": [
-            {
-                "video_id": "wb_V1j-8IBI",
-                "title": "Suddenly Prisuners Night",
-                "date": "2025/05/30 22:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/wb_V1j-8IBI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6hWGJukb00gyqQFHkSz2hHTlfIQ",
-                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nーーーーーーーーー\nCHECK OUT RISU 5TH ANNIVERSARY MERCH!\nSales start: 10 April 2025, 21:00 WIB/ 23:00 JST\nSales end: 12 May..."
-            }
-        ]
+        "videos": []
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -397,7 +389,15 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "zwl2cR09WHI",
+                "title": "【ASMR】月末定期ASMR　2025.05【ホロライブ/白上フブキ】",
+                "date": "2025/05/31 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/zwl2cR09WHI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDf9Es6uOrtxl1c_ca8YXFjEIDErA",
+                "description": "🌽 『超超超超ゲーマーズ2』イベント公式サイト\n▶️ https://abe.ma/3DEqNyS\n\n🌲 チケット販売ページ\n▶️ https://abe.ma/43JlWXz\n\n🍙 配信チケット販売ペー..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",

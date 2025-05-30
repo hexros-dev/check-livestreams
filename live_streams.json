@@ -53,7 +53,14 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "wb_V1j-8IBI",
+                "title": "Suddenly Prisuners Night",
+                "thumbnail": "https://i.ytimg.com/vi/wb_V1j-8IBI/hqdefault.jpg?v=6839c0e6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6hWGJukb00gyqQFHkSz2hHTlfIQ",
+                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nーーーーーーーーー\nCHECK OUT RISU 5TH ANNIVERSARY MERCH!\nSales start: 10 April 2025, 21:00 WIB/ 23:00 JST\nSales end: 12 May..."
+            }
+        ]
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -192,14 +199,7 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": [
-            {
-                "video_id": "LZ_QhHUHuVw",
-                "title": "【つぐのひ -彁名縛りの部屋-】人生初めてのつぐのひ、新作やるよ！⚠︎ネタバレ有り【水宮枢／FLOW GLOW】#hololiveDEV_IS",
-                "thumbnail": "https://i.ytimg.com/vi/LZ_QhHUHuVw/hqdefault.jpg?v=6838ba38&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWrWEzomvvO46_hpSv4chZ5QoHsA",
-                "description": "Illust https://x.com/nishiao_art\n\n配信タイトル：つぐのひ -彁名縛りの部屋-\nストアページ：https://store.steampowered.com/app/1562690/_/\n＜公式リンク＞\n・『つぐの..."
-            }
-        ]
+        "videos": []
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
