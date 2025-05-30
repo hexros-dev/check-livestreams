@@ -101,15 +101,7 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": [
-            {
-                "video_id": "OQG4snM3K8g",
-                "title": "≪MEMBERS ONLY≫ W-WHAT IS THIS?!",
-                "date": "2025/05/30 08:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/OQG4snM3K8g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxNPZLe5N2Mj-IKfZAanwGgjgq6Q",
-                "description": "she yap\n\nThumbnail Art: https://x.com/DORAHD01/status/1921994745326317612/photo/1\n\n#telebae  #hololiveenglish \n\n««≪ °◇◆◇° ≫ »»\n\n≪ NEW ORIGINAL「狂宴-FEAST-」 ≫\nhttps://www.y..."
-            }
-        ]
+        "videos": []
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -197,7 +189,15 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "2qwsZUdTFe4",
+                "title": "【 SILENT HILL 2 】完全初見！初めてのサイレントヒル※ネタバレあり【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "date": "2025/05/30 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/2qwsZUdTFe4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdisSN2Ad9HUw8qSUeyqAtn-XKLA",
+                "description": "本ゲームは株式会社コナミデジタルエンタテインメントの動画投稿ガイドラインに則り配信・収益化を行っております\n©Konami Digital Entertainment..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -407,7 +407,15 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "rnX6Q0ZPAVI",
+                "title": "Keep Calm and Solve On【Blue Prince】Ep.3",
+                "date": "2025/05/31 03:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/rnX6Q0ZPAVI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDJho4G0hIqYdHiu4XtRllwPSXxA",
+                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n\n==============..."
+            }
+        ]
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
@@ -529,15 +537,7 @@
         "channel_url": "https://www.youtube.com/@dooby3d",
         "channel_name": "dooby",
         "avatar_url": "https://yt3.googleusercontent.com/sOGyZgV9pPHQJCEvNe28NCOFC1y0KggsxUjrP5ecMAgBmdNT8p6ZNM24d_9SVgWFhBh0lKBL5Q",
-        "videos": [
-            {
-                "video_id": "mSkYPecdDxQ",
-                "title": "real gamers hop on ROBLOX ...dooby gaming",
-                "date": "2025/05/30 08:15:00",
-                "thumbnail": "https://i.ytimg.com/vi/mSkYPecdDxQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzYoU9Sjl2Yo7X7TbqE_K8hU4Y-w",
-                "description": "CS:2 & some roblox yayay\nthanks @ buruhas for thumbnail art! :DD"
-            }
-        ]
+        "videos": []
     },
     "@holoen_ceciliaimmergreen": {
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
@@ -608,7 +608,15 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "qMVHFc7yrp0",
+                "title": "【エルデンリング ナイトレイン】あたいは夜を渡る者。ぺこ！【ホロライブ/兎田ぺこら】",
+                "date": "2025/05/30 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/qMVHFc7yrp0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPVJotnRaJ2UceOdzak7BfS05YBw",
+                "description": "ナイトレイナー兎田\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ #ぺこらいぶ でツイ..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
