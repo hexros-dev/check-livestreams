@@ -9,20 +9,20 @@
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
         "channel_name": "Airani Iofifteen Channel hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Bhd50AyrsBw",
+                "title": "【Honor of Kings】YARIA YUK PULANG【 iofi / hololiveID 】",
+                "thumbnail": "https://i.ytimg.com/vi/Bhd50AyrsBw/hqdefault.jpg?v=6839b5b2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKr1xKuo2ilGwKFIYRW1-CRxaLGw",
+                "description": "#ioLyfe #Airani_Iofifteen #hololive #holoID #HonorofKings #HonorofKingsIndonesia #CobaAjaDulu #MOBAFOREVERYONE\n\nThis video and livestream are being streamed and monetized with permission and..."
+            }
+        ]
     },
     "@AkaiHaato": {
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
         "avatar_url": "https://yt3.googleusercontent.com/Ob0LQV8-i9FXY_GX4AEnsWsxvYUojcYtjZjtLsmjQRtPoYMZN5qWAe9hRhy7sMa19PlF61BG",
-        "videos": [
-            {
-                "video_id": "OolewDXBH4M",
-                "title": "【晩酌】栃木の晩酌だ～～～！✨歌ったり飲むぞおおおお！！【ホロライブ/赤井はあと】",
-                "thumbnail": "https://i.ytimg.com/vi/OolewDXBH4M/hqdefault.jpg?v=683995d6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBD_AYb9GgxmEcluhRNZ__lL2SU4A",
-                "description": "💖Membership to support HAACHAMA!!!メンバーシップ加入はこちら！✨\n➡https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg/join\n\n音源提供\nhttps://www.youtube.com/@UCWX2b3xIe..."
-            }
-        ]
+        "videos": []
     },
     "@AkiRosenthal": {
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
@@ -40,14 +40,7 @@
         "channel_url": "https://www.youtube.com/@AnyaMelfissa",
         "channel_name": "Anya Melfissa Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz",
-        "videos": [
-            {
-                "video_id": "cI-SIyP30zs",
-                "title": "【Split Fiction】色んな世界に旅する #フレアーニャ の協力ゲー！【hololive ID 2nd Generation | Anya Melfissa】",
-                "thumbnail": "https://i.ytimg.com/vi/cI-SIyP30zs/hqdefault.jpg?v=68386a74&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJyLSWOCexTT-lRPJdS48L6bgUNg",
-                "description": "Support me here/ドネーション↓\nStreamlabs: https://streamlabs.com/anyamelfissachhololive-id/tip\nSociaBuzz(Local Donation): https://sociabuzz.com/anyamelfissa/tribe \n\n--\nタイトル：スプ..."
-            }
-        ]
+        "videos": []
     },
     "@AyundaRisu": {
         "channel_url": "https://www.youtube.com/@AyundaRisu",
@@ -199,7 +192,14 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "5VA9cllE8OQ",
+                "title": "【Minecraft 】久々に深夜マイクラ【水宮枢／FLOW GLOW】#hololiveDEV_IS",
+                "thumbnail": "https://i.ytimg.com/vi/5VA9cllE8OQ/hqdefault.jpg?v=6839d253&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDE4Nvpe7CzdiAis7MZdqmzUI8nAw",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n▹◃┄▸◂┄▹◃┄▸..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -315,14 +315,7 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": [
-            {
-                "video_id": "McXVdyzBJhg",
-                "title": "【メン限】ギターで弾き語りができるようになりたい！！#1【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "thumbnail": "https://i.ytimg.com/vi/McXVdyzBJhg/hqdefault.jpg?v=683982c1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhVW7neCRE6ZMR340Q0O9uge4HdA",
-                "description": "買って2年ほど、全く弾けません\nカポとピックが見つかりません・・・\n\nサムネイルイラスト：ピヨさま\nhttps://x.com/_piyoDuck\n\n\nねえ、いっしょに向こ..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -408,14 +401,7 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": [
-            {
-                "video_id": "r0kwTe2QTxA",
-                "title": "【スターそらイトファンタジー ～空へ届く魔法～】わたしが主人公！？のゲームだ！！【ホロライブ/ときのそら】",
-                "thumbnail": "https://i.ytimg.com/vi/r0kwTe2QTxA/hqdefault.jpg?v=683990f1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmp7wndTY7mexKsUgdzydVn0M76w",
-                "description": "気になってたんだ～！！\n遊んでみよーう！！\n\n配信タイトル：スターそらイトファンタジー　～空へ届く魔法～\nストアページ（又は公式ページ）..."
-            }
-        ]
+        "videos": []
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
@@ -512,14 +498,7 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": [
-            {
-                "video_id": "qMVHFc7yrp0",
-                "title": "【エルデンリング ナイトレイン】あたいは夜を渡る者。ぺこ！【ホロライブ/兎田ぺこら】",
-                "thumbnail": "https://i.ytimg.com/vi/qMVHFc7yrp0/hqdefault.jpg?v=68396e6c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPVJotnRaJ2UceOdzak7BfS05YBw",
-                "description": "ナイトレイナー兎田\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ #ぺこらいぶ でツイ..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
