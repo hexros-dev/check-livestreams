@@ -9,7 +9,14 @@
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
         "channel_name": "Airani Iofifteen Channel hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Bhd50AyrsBw",
+                "title": "【Honor of Kings】YARIA YUK PULANG【 iofi / hololiveID 】",
+                "thumbnail": "https://i.ytimg.com/vi/Bhd50AyrsBw/hqdefault.jpg?v=6839b5b2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKr1xKuo2ilGwKFIYRW1-CRxaLGw",
+                "description": "#ioLyfe #Airani_Iofifteen #hololive #holoID #HonorofKings #HonorofKingsIndonesia #CobaAjaDulu #MOBAFOREVERYONE\n\nThis video and livestream are being streamed and monetized with permission and..."
+            }
+        ]
     },
     "@AkaiHaato": {
         "channel_url": "https://www.youtube.com/@AkaiHaato",
@@ -39,14 +46,7 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": [
-            {
-                "video_id": "wb_V1j-8IBI",
-                "title": "Suddenly Prisuners Night",
-                "thumbnail": "https://i.ytimg.com/vi/wb_V1j-8IBI/hqdefault.jpg?v=6839c0e6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6hWGJukb00gyqQFHkSz2hHTlfIQ",
-                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nーーーーーーーーー\nCHECK OUT RISU 5TH ANNIVERSARY MERCH!\nSales start: 10 April 2025, 21:00 WIB/ 23:00 JST\nSales end: 12 May..."
-            }
-        ]
+        "videos": []
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
