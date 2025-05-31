@@ -124,14 +124,7 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": [
-            {
-                "video_id": "y6HCGTahlhM",
-                "title": "【 STARDEW VALLEY】完全初見の深夜ゆったり農場ライフ始めます🌟【ホロライブ DEV_IS 響咲リオナ】",
-                "thumbnail": "https://i.ytimg.com/vi/y6HCGTahlhM/hqdefault.jpg?v=683ada4b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3gcrwlLpcXekar5y_zP7OUTclmw",
-                "description": "本ゲームは、権利者様のポリシーに則り配信、収益化を行なっております。\nhttps://www.stardewvalley.net/faq/\n\nサムネイラスト→ちゃんまろるさん(@..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -149,14 +142,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": [
-            {
-                "video_id": "aZ0CmnDFrDc",
-                "title": "＃２【 SILENT HILL 2 】完全初見！三角様はじめまして※ネタバレあり【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "thumbnail": "https://i.ytimg.com/vi/aZ0CmnDFrDc/hqdefault.jpg?v=683a5875&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWCPQy31YjM_R7vYy-nl0lzcfj-g",
-                "description": "本ゲームは株式会社コナミデジタルエンタテインメントの動画投稿ガイドラインに則り配信・収益化を行っております\n©Konami Digital Entertainment..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -415,7 +401,14 @@
         "channel_url": "https://www.youtube.com/@dooby3d",
         "channel_name": "dooby",
         "avatar_url": "https://yt3.googleusercontent.com/sOGyZgV9pPHQJCEvNe28NCOFC1y0KggsxUjrP5ecMAgBmdNT8p6ZNM24d_9SVgWFhBh0lKBL5Q",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "5OEgNeKZWE0",
+                "title": "CS:2 collab w/ @RemiaAotsuki  🚃💛💚💙🔋 !!!!!!!",
+                "thumbnail": "https://i.ytimg.com/vi/5OEgNeKZWE0/hqdefault.jpg?v=683b66b6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDpqpwBePGN0srN_qXAOMbfD6hRw",
+                "description": "CS:2\nbetter POV: https://www.youtube.com/live/GYbOBqzsUMw?si=lOwALpdHz2Kfi03c"
+            }
+        ]
     },
     "@holoen_ceciliaimmergreen": {
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
