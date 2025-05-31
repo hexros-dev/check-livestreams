@@ -21,7 +21,14 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "WNWUIYi-bZw",
+                "title": "【アキロゼ100万人達成記念レース開催！？】ばんえい競馬やるぞ！！【アキロゼ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/WNWUIYi-bZw/hqdefault.jpg?v=683a8fd5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbRUwQ5q2lclu2CQ3ABXhnTQckoQ",
+                "description": "1期生7周年グッズ発売開始！5/30-6/30\nhttps://shop.hololivepro.com/pages/anniversaryparade\n\n日程:2025年5月31日(土)\n場所:ばんえい競馬　第4レース(16:15頃)\nLIVE中継..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -174,14 +181,7 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": [
-            {
-                "video_id": "e1L-ZphB6zw",
-                "title": "【HITMAN WORLD OF ASSASSINATION】DEATH BY ROCK!",
-                "thumbnail": "https://i.ytimg.com/vi/e1L-ZphB6zw/hqdefault.jpg?v=683a3ed2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHq5XKUSSsPUl930f6PMFFD1SFlg",
-                "description": "Thumbnail Art by:@Castellayaki  THANK YOU!\nhttps://x.com/Castellayaki/status/1927753972334358945/photo/1\n\n\n====================\n✧Twitter: https://twitter.com/kosekibijou\n\n✧Hashtags: \n#biboo..."
-            }
-        ]
+        "videos": []
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
