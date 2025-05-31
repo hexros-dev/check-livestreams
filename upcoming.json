@@ -215,7 +215,15 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "r5UNlWB9uoM",
+                "title": "【ELDEN RING NIGHTREIGN】No maidens? We've got three",
+                "date": "2025/06/01 09:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/r5UNlWB9uoM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4PxUQxav3DaT8Fo2oKjuB5m8nQA",
+                "description": "WITH @MoriCalliope and @NinomaeInanis \n\nThumbnail Art by:@DDOLBANG11 THANK YOU!\nhttps://x.com/DDOLBANG11/status/1915038118765625484/photo/1\n\nThis game is being streamed and monetized after..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -469,15 +477,7 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": [
-            {
-                "video_id": "yf80r3CBHjQ",
-                "title": "【メンバー限定】今月も終わり！5月最後のメン限【 雪花ラミィ /ホロライブ】",
-                "date": "2025/05/31 21:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/yf80r3CBHjQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAi3sLMe5g-QhAGPYB5GmxyLwWL5g",
-                "description": "※23時になったらメンバー限定配信に切り替わります\n　At23:00 p.m., the distribution will switch to members-only distribution.\n　メン限で話した内容は内緒でお願..."
-            }
-        ]
+        "videos": []
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
