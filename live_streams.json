@@ -27,20 +27,20 @@
         "channel_url": "https://www.youtube.com/@AmaneKanata",
         "channel_name": "Kanata Ch. Kanata Amane",
         "avatar_url": "https://yt3.googleusercontent.com/oPU9ckNcyeHD0FFsYSxkoD1mtbslSwdmMSfoCYQWphOu5e7UeCnIF-Nt0hvvF41L5Nykga07nQ",
-        "videos": [
-            {
-                "video_id": "fm9yOM9knZo",
-                "title": "【3D重大告知】VTuber人生を教科書にして #しくじりかなたそ 先生爆誕！！【天音かなた/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/fm9yOM9knZo/hqdefault.jpg?v=68382939&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjJzeSV4MWTop0wo70GuKB7Ijz7Q",
-                "description": "21:00　→　https://youtu.be/wvtP9tUr_S4\n\nゲスト：\n猫又おかゆ　@NekomataOkayu \n雪花ラミィ　@YukihanaLamy \n一条莉々華　@IchijouRirika \n\nサムネイラスト：memenoさん..."
-            }
-        ]
+        "videos": []
     },
     "@AnyaMelfissa": {
         "channel_url": "https://www.youtube.com/@AnyaMelfissa",
         "channel_name": "Anya Melfissa Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "bGsxXhEpz34",
+                "title": "【SPOILER WARNING - SILENT HILL 2】Let Me Out of This Prison, Please【hololive ID | Anya Melfissa】",
+                "thumbnail": "https://i.ytimg.com/vi/bGsxXhEpz34/hqdefault.jpg?v=68398bce&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGg8L04x7aN0YZYWhH7qjOJzUvyw",
+                "description": "Support me here/ドネーション↓\nStreamlabs: https://streamlabs.com/anyamelfissachhololive-id/tip\nSociaBuzz(Local Donation): https://sociabuzz.com/anyamelfissa/tribe\n\n--\nThis game is streamed..."
+            }
+        ]
     },
     "@AyundaRisu": {
         "channel_url": "https://www.youtube.com/@AyundaRisu",
@@ -76,14 +76,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "ViRHKesLFNo",
-                "title": "【Clair Obscur: Expedition 33】世界中で話題の”革命的ターン制リアルタイムRPG”やってみる！！！！！ #1 【博衣こより/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/ViRHKesLFNo/hqdefault.jpg?v=68394928&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5toibZCC9T8fVIMmraNhSfajruA",
-                "description": "今世界中で話題になっているゲーム、知ってる？？？すごいらしいからやってみる！！！\n🎀新衣装記念グッズ発売開始！フルセットは全員直筆メ..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -132,7 +125,14 @@
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "vJ-lSwjk8YA",
+                "title": "【DOOM: The Dark Ages】ひさしぶりのDOOOOOOOOOG!!!!!!!!!!!!!!【戌神ころね】",
+                "thumbnail": "https://i.ytimg.com/vi/vJ-lSwjk8YA/hqdefault.jpg?v=683a948f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZQ_n5cYKhfVcKAxIcDFpmjzDrDA",
+                "description": "Play Game : DOOM: The Dark Ages ( PS5 )\nタグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nころねTwitter▶https://twitter.com/inug..."
+            }
+        ]
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
@@ -156,7 +156,14 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "aZ0CmnDFrDc",
+                "title": "＃２【 SILENT HILL 2 】完全初見！三角様はじめまして※ネタバレあり【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "thumbnail": "https://i.ytimg.com/vi/aZ0CmnDFrDc/hqdefault.jpg?v=683a5875&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWCPQy31YjM_R7vYy-nl0lzcfj-g",
+                "description": "本ゲームは株式会社コナミデジタルエンタテインメントの動画投稿ガイドラインに則り配信・収益化を行っております\n©Konami Digital Entertainment..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -198,20 +205,20 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": [
-            {
-                "video_id": "bGeM-2iip-U",
-                "title": "【 BLEACH Rebirth of Souls 】ブリーチ夢女子による冒険 #6 【 桃鈴ねね / hololive 】",
-                "thumbnail": "https://i.ytimg.com/vi/bGeM-2iip-U/hqdefault.jpg?v=683aad68&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBrJ9P3jw3oLxkB5Xc0by2bO_XHXA",
-                "description": "アーロニーロ・・・・・・・お前・・・・・・・・！！！！！！！！！！！！\n⸜♡⸝MemberShipに入ったらもっとねねを知れるﾖ\nhttps://www.youtube.com/ch..."
-            }
-        ]
+        "videos": []
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
         "channel_name": "Moona Hoshinova hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/9e7J_lAxCEZO6IRC_Sl3Gj-bt9uPvSXolU_vBpmqWABzv99oHxzbYhWWgvRI_c2qmB4jH0p_ZA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "DSsFjr_cSPo",
+                "title": "【DINKUM】Main!【Moona | hololive ID】",
+                "thumbnail": "https://i.ytimg.com/vi/DSsFjr_cSPo/hqdefault.jpg?v=683ae9b4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCe35DTP7Uwsdn2y4i_9hn4Hr9D6Q",
+                "description": "Streamlabs donation link here : https://streamlabs.com/moonahoshinovahololive-id/tip\nSociaBuzz donation link here : https://sociabuzz.com/moonahoshinova/tribe\n\nPlaying with  @Raelaveire \n==========..."
+            }
+        ]
     },
     "@MoriCalliope": {
         "channel_url": "https://www.youtube.com/@MoriCalliope",
@@ -229,7 +236,14 @@
         "channel_url": "https://www.youtube.com/@NakiriAyame",
         "channel_name": "Nakiri Ayame Ch. 百鬼あやめ",
         "avatar_url": "https://yt3.googleusercontent.com/3CeLWGYb6cLUywTJzNt-UpITviNxeGNvtjhIqbV-AIybCqCoFw9onWtg91bjwpqvfEP9mfqIR4Q",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "LQYQKV8m-Yc",
+                "title": "【 That's Not My Neighbor 】なんか・・・変！！！！！！！！！！！！！！！！【百鬼あやめ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/LQYQKV8m-Yc/hqdefault.jpg?v=683adf24&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARELv7pMOViY0t9Tcbi_7sxHU10A",
+                "description": "- - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - -ഒ˖°\n\n\n配信タイトル：That's not my Neighbor\nストアページ：https://store.steampowe..."
+            }
+        ]
     },
     "@NanashiMumei": {
         "channel_url": "https://www.youtube.com/@NanashiMumei",
@@ -326,7 +340,14 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "7VMY4xcxeHM",
+                "title": "【 ポケモンルビー 】色違い耐久１８日目🎣みこちと金コイ伝説～最弱からみんなで最強に育てる旅～【ホロライブ/さくらみこ】",
+                "thumbnail": "https://i.ytimg.com/vi/7VMY4xcxeHM/hqdefault.jpg?v=683ad245&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3JTyj-_5Wr5dLB5wwhDNzyiZlKA",
+                "description": "いま【9000匹目】🎣#みこちと金コイ伝説\n1/8192 の戦い････いつ釣れるかな？？？？？？？\n\n＜みこと金コイを最強にする旅のルール＞\n①金コイ..."
+            }
+        ]
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
@@ -338,14 +359,7 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": [
-            {
-                "video_id": "zwl2cR09WHI",
-                "title": "【ASMR】月末定期ASMR　2025.05【ホロライブ/白上フブキ】",
-                "thumbnail": "https://i.ytimg.com/vi/zwl2cR09WHI/hqdefault.jpg?v=683a201c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDf9Es6uOrtxl1c_ca8YXFjEIDErA",
-                "description": "🌽 『超超超超ゲーマーズ2』イベント公式サイト\n▶️ https://abe.ma/3DEqNyS\n\n🌲 チケット販売ページ\n▶️ https://abe.ma/43JlWXz\n\n🍙 配信チケット販売ペー..."
-            }
-        ]
+        "videos": []
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
