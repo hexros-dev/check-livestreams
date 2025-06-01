@@ -328,14 +328,7 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/gKitLHfMqsfmC26xRBBNBVE9jz4m0X-xAvcdPUwy8VPa4FCw0-XRxOKLvJZxm-lQnIDQU2rDA0k",
-        "videos": [
-            {
-                "video_id": "lPGAubtXPzY",
-                "title": "【Member Only】NO.14 ろぼちゃの日曜むーびー❣🎬映画『　すずめの戸締まり　』 同時視聴🍿",
-                "thumbnail": "https://i.ytimg.com/vi/lPGAubtXPzY/hqdefault.jpg?v=683bfb45&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCjxGP0b6BCAlGUdxfwkMb5WazKQ",
-                "description": "＃ホロライブ　#hololive \nｘでは💬  #ロボ子生放送　でポストしてってね✨\nYoutubeの仕様でコメントや高評価ＧＯＯＤを押してくれるとチャンネルが..."
-            }
-        ]
+        "videos": []
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -421,7 +414,14 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "1WY452hjsc8",
+                "title": "【 Stardew Valley 】#8 ：1年目冬☃あと少しで1年めもおわりますってね・・・！【常闇トワ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/1WY452hjsc8/hqdefault.jpg?v=683c527f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCX0P1_pZSyRwQ5mAdTFVh_aUN-yw",
+                "description": "本ゲームは、権利者様のポリシーに則り配信、収益化を行なっております。\nhttps://www.stardewvalley.net/faq/\n\n୨୧-------------------------------┈┈┈┈┈┈┈..."
+            }
+        ]
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
