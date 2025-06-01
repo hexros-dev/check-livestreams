@@ -51,14 +51,7 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": [
-            {
-                "video_id": "fTUQ6z7PuUc",
-                "title": "【CONERU -DIMENSION GIRL-】addicting 2D platformer with hyper dimension twist 🐾【FUWAMOCO】",
-                "thumbnail": "https://i.ytimg.com/vi/fTUQ6z7PuUc/hqdefault.jpg?v=6837a847&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC--u5OBEcp4oPKHkZHycvVpGXiGQ",
-                "description": "she likes donuts, we like donuts = instant friends ✨️\nlovely illustration by @Sico_de_Seraph 💕\n\n🌸 𝗙𝗨𝗪𝗔𝗠𝗢𝗖𝗢 𝟭 𝗠𝗶𝗹𝗹𝗶𝗼𝗻 𝗦𝘂𝗯𝘀𝗰..."
-            }
-        ]
+        "videos": []
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -298,7 +291,14 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "N0ngi3SYqzU",
+                "title": "【#8】BLEACH Rebirth of Soulsやるしゅばあああああああああああああああああああああああああああああ！！！！！【ホロライブ/大空スバル】",
+                "thumbnail": "https://i.ytimg.com/vi/N0ngi3SYqzU/hqdefault.jpg?v=683b17bf&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkyn15W0iYSEUw--aj2ingXvFxxQ",
+                "description": "このゲーム実況は「バンダイナムコエンターテインメント ゲーム実況ポリシー」に基づき制作・配信されています。\nhttps://www.bandainamcoent.co.jp/info/v..."
+            }
+        ]
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -461,14 +461,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "dJwXjaGS5oM",
-                "title": "【FALLOUT: NEW VEGAS】start of the final dlc of my very long wasteland journey",
-                "thumbnail": "https://i.ytimg.com/vi/dJwXjaGS5oM/hqdefault.jpg?v=68381a7d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_SS0BqzXH8ju8stWF7FMeqsEMZQ",
-                "description": "will i beat this game before 1 whole year find out soon\n\nthumbnail: https://x.com/_nontann/status/1925064310394667336\n\nThis game's use of streaming is being consented by ©2010 Bethesda Softworks..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
