@@ -386,15 +386,7 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": [
-            {
-                "video_id": "HFdygd9OF2s",
-                "title": "【ツーポイントミュージアム】原点回帰！初期の博物館★３を目指す！【不知火フレア/ホロライブ】",
-                "date": "2025/06/01 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/HFdygd9OF2s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBEOO4LY9YdMaPnO5pG-eJ9uLHOeA",
-                "description": "この動画およびライブは、コンテンツ利用許諾契約に基づいて配信しています。\nタイトル名： 『ツーポイントミュージアム』\n公式サイト：..."
-            }
-        ]
+        "videos": []
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -460,7 +452,15 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "1WY452hjsc8",
+                "title": "【 Stardew Valley 】#8 ：1年目冬☃あと少しで1年めもおわりますってね・・・！【常闇トワ/ホロライブ】",
+                "date": "2025/06/01 21:15:00",
+                "thumbnail": "https://i.ytimg.com/vi/1WY452hjsc8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCX0P1_pZSyRwQ5mAdTFVh_aUN-yw",
+                "description": "本ゲームは、権利者様のポリシーに則り配信、収益化を行なっております。\nhttps://www.stardewvalley.net/faq/\n\n୨୧-------------------------------┈┈┈┈┈┈┈..."
+            }
+        ]
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
