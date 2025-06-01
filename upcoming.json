@@ -348,7 +348,15 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/gKitLHfMqsfmC26xRBBNBVE9jz4m0X-xAvcdPUwy8VPa4FCw0-XRxOKLvJZxm-lQnIDQU2rDA0k",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "v3Tk9UhPUcw",
+                "title": "【 朝活】GOOD　MORNING　KARAOKE🎤【ホロライブ/ ロボ子さん】",
+                "date": "2025/06/02 05:15:00",
+                "thumbnail": "https://i.ytimg.com/vi/v3Tk9UhPUcw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2VceFZR2zObKH5_HkYfJegv2K1w",
+                "description": "＃ホロライブ　#hololive \nｘでは💬  #ロボ子生放送　でポストしてってね✨\nYoutubeの仕様でコメントや高評価ＧＯＯＤを押してくれるとチャンネルが..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -494,15 +502,7 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": [
-            {
-                "video_id": "ASWq8gjJS3Q",
-                "title": "【SQUIRRELED AWAY】pet? with @holoen_gigimurin & @OuroKronii !!!",
-                "date": "2025/06/02 05:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/ASWq8gjJS3Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBh8dRJe5acMaX5PznhQYOJ0K7Tnw",
-                "description": "pet.. pet? squirrrel?\nart: https://x.com/TEASTSERS/status/1929204478932091051\n\n--------------------------\nHashtags\n📺 Livestream: #ImmerScreen \n🎨 Fanart: #Immergination\n🎻 Music: #ImmerPiece..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
