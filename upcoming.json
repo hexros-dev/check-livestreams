@@ -33,21 +33,21 @@
         "channel_url": "https://www.youtube.com/@AnyaMelfissa",
         "channel_name": "Anya Melfissa Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "y869wFbyH98",
+                "title": "【R.E.P.O.】今週もまだまだ稼ぐ気満々や！掛かってこい！ Feed... Me... More... PROFIT. #HoloREPO【hololive ID | Anya Melfissa】",
+                "date": "2025/06/02 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/y869wFbyH98/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKVgh50M-VamwNAQufYxlc7CannA",
+                "description": "Support me here/ドネーション↓\nStreamlabs: https://streamlabs.com/anyamelfissachhololive-id/tip\nSociaBuzz(Local Donation): https://sociabuzz.com/anyamelfissa/tribe \n\n--\n配信タイトル：..."
+            }
+        ]
     },
     "@AyundaRisu": {
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": [
-            {
-                "video_id": "QAWuJvGt4Cc",
-                "title": "New Updates",
-                "date": "2025/06/01 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/QAWuJvGt4Cc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlV4u2LHElOA_KnBS2wbBQZGQOWg",
-                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nThis game is being streamed and monetized after confirming with NetEase Inc.\n\nーーーーーーーーー\n\nSTREAM MY NEWEST ORIGINAL..."
-            }
-        ]
+        "videos": []
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -364,15 +364,7 @@
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC",
-        "videos": [
-            {
-                "video_id": "mRLI1Q8u2wM",
-                "title": "【 同時視聴 / メン限 】ヴァイオレット・エヴァーガーデンを見る【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-                "date": "2025/06/01 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/mRLI1Q8u2wM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDf1HSQrinBVbZWTeRZVKNnXAV04g",
-                "description": "▽✨重大告知✨ ▽\n音乃瀬奏 1stオリジナル曲「GREATEST」\n4/20(日) 24：00（4/21  0：00）リリース開始！\nhttps://cover.lnk.to/4rvCRp\n\n୨୧♪:*:･･:*:･♪･:*:･..."
-            }
-        ]
+        "videos": []
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
@@ -436,7 +428,15 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "KKpnfp4rczg",
+                "title": "【#７周年フブちゃん】みんなで７周年記念ライブ振り返り！！本当にありがとThank you【ホロライブ/白上フブキ】",
+                "date": "2025/06/01 19:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/KKpnfp4rczg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDeD6mD_A4Yj23fNdMTjvEGxZhhow",
+                "description": "#７周年フブちゃん\n\n【3D LIVE】 1st generation 7th anniversary♪♪\n▷https://www.youtube.com/live/wrsUn4IQmZ0?si=gDRnxFqn5xNwJadK\n\nhololive 1st Generation Anniversary Parade\n▷https://..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -600,7 +600,15 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "NOVsWwlBZP0",
+                "title": "【配信予定】ぺ…ぺ…ぺっこおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおお！！！ぺこ！【ホロライブ/兎田ぺこら】",
+                "date": "2025/06/01 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/NOVsWwlBZP0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDuhl90TXybj20oJ_s-cPHFtw9F5g",
+                "description": "サムネイラスト：()さん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ #ぺこらいぶ..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
