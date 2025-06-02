@@ -105,7 +105,14 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "9PaTwSd7P6g",
+                "title": "【ポケポケ】久しぶりに10回ランクマ潜って負けた回数ガチャ引く Pokémon Trading Card Game Pocket【一条莉々華/hololive DEV_IS ReGLOSS】",
+                "thumbnail": "https://i.ytimg.com/vi/9PaTwSd7P6g/hqdefault.jpg?v=683d5423&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDES-kPEo26LkvRJhh5z1Hm_LwHcA",
+                "description": "新弾ほぼ引いてないからどんなカードがあるのか楽しみ！\nギラティナダークライはまだ戦えますか？？？\n\n配信タイトル：Pokémon Trading Card Game..."
+            }
+        ]
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -370,14 +377,7 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
-        "videos": [
-            {
-                "video_id": "wZh252XRaCY",
-                "title": "【BLEACH】NEW MIC WHO THIS",
-                "thumbnail": "https://i.ytimg.com/vi/wZh252XRaCY/hqdefault.jpg?v=683d41d8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDiHLA1Cy-RcvqPvDZXht3tZeLt7w",
-                "description": "Game: BLEACH Rebirth Of Souls\nこのゲーム実況は「バンダイナムコエンターテインメント ゲーム実況ポリシー」に基づき制作・配信されています。\nhttps://w..."
-            }
-        ]
+        "videos": []
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
