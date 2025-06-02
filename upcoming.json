@@ -65,13 +65,6 @@
                 "date": "2025/06/05 08:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/W79TgP5-GLI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBeYlpfMtHAL_PIRVdS8Cxj9x_uSA",
                 "description": "we can have a bustling market for sure ✨️\nlovely illustration by @ulianasdolls 💕\n@ShioriNovella @KosekiBijou @NerissaRavencroft \n\n🌸 𝗙𝗨𝗪𝗔𝗠𝗢𝗖𝗢 𝟭 𝗠𝗶𝗹𝗹..."
-            },
-            {
-                "video_id": "xFzx7AjkEJI",
-                "title": "【FUWAMOCO MORNING】episode 162 🐾 #FWMCMORNING",
-                "date": "2025/06/02 22:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/xFzx7AjkEJI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPnTDTu4BndNTTaO1zKafb8Eb91w",
-                "description": "monday!! FUWAMOCO MORNING!! wow!! ✨\nlovely illustration by @_10shiro 💕\njingle by @Sarina_A_Elysia ♪\n\n🌸 𝗙𝗨𝗪𝗔𝗠𝗢𝗖𝗢 𝟭 𝗠𝗶𝗹𝗹𝗶𝗼𝗻 𝗦𝘂𝗯𝘀..."
             }
         ]
     },
@@ -136,7 +129,15 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "lRyu1eWA2Vg",
+                "title": "【Clair Obscur: Expedition 33】It's time to Ouin (win)",
+                "date": "2025/06/03 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/lRyu1eWA2Vg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYj6AiM9yzSF_bZ3M4pOc3YNe1OQ",
+                "description": "haha get it\n\n#hololiveenglish  #ホロライブ \n\nSTREAM MY NEW ORIGINAL SONG, Diamond Girlfriend Feat.MOTSU▼\nhttps://youtu.be/EXM0EE_NpQc\n\n「Twitter」\nhttps://twitter.com/irys_en\n\n「Hastags..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -338,15 +339,7 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/gKitLHfMqsfmC26xRBBNBVE9jz4m0X-xAvcdPUwy8VPa4FCw0-XRxOKLvJZxm-lQnIDQU2rDA0k",
-        "videos": [
-            {
-                "video_id": "uVAoq42Hpq8",
-                "title": "【 Stardew Valley 】＃５ 秋　深夜に目覚めたら異世界だった。この世界でボクは鉱山無双【ホロライブ/ ロボ子さん】",
-                "date": "2025/06/02 22:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/uVAoq42Hpq8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpMlp7IdGWHu7b_rz7op9JwCNDWg",
-                "description": "＃ホロライブ　#hololive \nｘでは💬  #ロボ子生放送　でポストしてってね✨\nYoutubeの仕様でコメントや高評価ＧＯＯＤを押してくれるとチャンネルが..."
-            }
-        ]
+        "videos": []
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
