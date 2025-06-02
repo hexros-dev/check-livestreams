@@ -254,7 +254,14 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "_la966wzjiw",
+                "title": "【 リズム天国 】ノリノリな姉妹ここにアリ🍙🎶🌽【 #にゃんぐこーん /オフコラボ 】",
+                "thumbnail": "https://i.ytimg.com/vi/_la966wzjiw/hqdefault.jpg?v=683d2d8f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWQUuVDoEINSdtat0hvj9VdUbYwg",
+                "description": "ㅤ\n妹のふぶにゃ🌽 @ShirakamiFubuki \n❥・・ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ・・❥\n\n猫又おかゆ 2nd Live.『ぺるそにゃ～りすぺくと』\n‣..."
+            }
+        ]
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -363,14 +370,7 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": [
-            {
-                "video_id": "kTw7jYpEXfg",
-                "title": "【 #ホロ金策サバイバル 】箱企画💰💸説明会！【獅白ぼたん/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/kTw7jYpEXfg/hqdefault.jpg?v=683c428a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBoWvkE153ahmZ7_5w-_jKBC8vK6g",
-                "description": "🔸企画配信のハッシュタグ ： #ホロ金策サバイバル\n🔸サムネイルのイラスト ： MISAネキ\nhttps://x.com/Misamisatotomi\n\n本ゲームは Mojang に確認を得た上..."
-            }
-        ]
+        "videos": []
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
