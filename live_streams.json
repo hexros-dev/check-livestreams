@@ -3,7 +3,14 @@
         "channel_url": "https://www.youtube.com/@AZKi",
         "channel_name": "AZKi Channel",
         "avatar_url": "https://yt3.googleusercontent.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "OLsT94DNjsE",
+                "title": "【メン限】月イチみんなとまったり雑談！6月ここだけの話！【ホロライブ / AZKi】",
+                "thumbnail": "https://i.ytimg.com/vi/OLsT94DNjsE/hqdefault.jpg?v=683d7b34&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCUTrmNnrXl5IVFTUPzn9JMMZEOtg",
+                "description": "※開始直前にメンバーシップ限定に切り替えます。\n\nサムネイラスト：花春 様\nhttps://twitter.com/KaSyun02\n\n▼メン限/Membership only　の配信について..."
+            }
+        ]
     },
     "@AiraniIofifteen": {
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
@@ -47,7 +54,14 @@
         "channel_url": "https://www.youtube.com/@AnyaMelfissa",
         "channel_name": "Anya Melfissa Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "y869wFbyH98",
+                "title": "【R.E.P.O.】今週もまだまだ稼ぐ気満々や！掛かってこい！ Feed... Me... More... PROFIT. #HoloREPO【hololive ID | Anya Melfissa】",
+                "thumbnail": "https://i.ytimg.com/vi/y869wFbyH98/hqdefault.jpg?v=683c2ddd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKVgh50M-VamwNAQufYxlc7CannA",
+                "description": "Support me here/ドネーション↓\nStreamlabs: https://streamlabs.com/anyamelfissachhololive-id/tip\nSociaBuzz(Local Donation): https://sociabuzz.com/anyamelfissa/tribe \n\n--\n配信タイトル：..."
+            }
+        ]
     },
     "@AyundaRisu": {
         "channel_url": "https://www.youtube.com/@AyundaRisu",
@@ -170,7 +184,14 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "HQgAk1gQBSM",
+                "title": "【 #HoloREPO 】みんなで協力ホラゲー！フラグ回収のヴィヴィです！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "thumbnail": "https://i.ytimg.com/vi/HQgAk1gQBSM/hqdefault.jpg?v=683cf119&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9o-9rGzY96QMdz_HqSdpixs4Kiw",
+                "description": "配信タイトル：R.E.P.O.\nストアページ：https://store.steampowered.com/app/3241660/REPO/\n\nコラボメンバー\n@ShiranuiFlare @TsunomakiWatame @OmaruPolka @NinomaeInanis @AnyaMelfissa..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -194,7 +215,14 @@
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "UULzIpckegk",
+                "title": "【ZOMILY】THIS ZOMBIE IS GOING TO TALK ABOUT SOMETHING ONLY ADULTS TALK ABOUT【Kureiji Ollie】",
+                "thumbnail": "https://i.ytimg.com/vi/UULzIpckegk/hqdefault.jpg?v=683d7741&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYAWbsiTwjEqnEiTyRPDdAiomFgA",
+                "description": "#OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n==========================================\n\nThis is a membership stream, please don't clip any content or talk about topics said here unless I..."
+            }
+        ]
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
@@ -273,13 +301,27 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "grBU9Dl09Ds",
+                "title": "【R.E.P.O.】\\(O A O )/ #HoloREPO",
+                "thumbnail": "https://i.ytimg.com/vi/grBU9Dl09Ds/hqdefault.jpg?v=683d3eae&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSRM0JfB41ECgbZYQKQgwdq2-RaA",
+                "description": "with @KikiraraVivi @OmaruPolka @TsunomakiWatame @ShiranuiFlare @AnyaMelfissa \n\n【Thumbnail Art】\n\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\nGame title: R.E.P.O\nStore page: https://store.s..."
+            }
+        ]
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "dWnphk2a12w",
+                "title": "【R.E.P.O.】新作協力ホラーゲーム！？6人で挑む！ #HoloREPO 【尾丸ポルカ視点/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/dWnphk2a12w/hqdefault.jpg?v=683d59ec&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBuAOZ9b2W4BAcToXNNdWBlNbBDuA",
+                "description": "​愉快にお仕事がんばろう👊✨️\n\n@ShiranuiFlare 俺のイナのフレア\n@TsunomakiWatame 非常食\n@KikiraraVivi んん～～～～～～～～\n@NinomaeInanis フレアの俺のイ..."
+            }
+        ]
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
@@ -358,7 +400,14 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "EbFRbbho4Fk",
+                "title": "【R.E.P.O.】初見でホロメンと挑む！【不知火フレア/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/EbFRbbho4Fk/hqdefault.jpg?v=683d857f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQ4DXyjlkDwNuSMd9QLVy3a9MbXA",
+                "description": "@TsunomakiWatame　わためぇ \n@NinomaeInanis　俺のイナ\n@OmaruPolka　ポルーカ\n@AnyaMelfissa 　アーニャ\n@KikiraraVivi 　ヴィヴィちゃん\n\n#HoloREPO\n\n■Newシングル「薄..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -388,7 +437,14 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "VknZnSN6EXI",
+                "title": "＃１【UNDERTALE】はじめてのアンダーテイル【轟はじめ/ReGLOSS】 #hololivedev_is",
+                "thumbnail": "https://i.ytimg.com/vi/VknZnSN6EXI/hqdefault.jpg?v=683c24d0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBpUx1RYeg7DqA_yREpxW1e07zrNw",
+                "description": "素敵なサムネお写真：彩月あたん:SatsukiAtan様（@atan0w0）\n\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n✨宣伝✨\n\n💜【Original】Countach/轟はじめ【Officia..."
+            }
+        ]
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
@@ -406,7 +462,14 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "X4vnCe5tVis",
+                "title": "【 R.E.P.O. 】フルパでお仕事！団体行動を乱すなァ！！【角巻わため/ホロライブ４期生】",
+                "thumbnail": "https://i.ytimg.com/vi/X4vnCe5tVis/hqdefault.jpg?v=683c78d1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzfUPxUGOhHiVJOYRpNvkPfwOr4g",
+                "description": "6/6(Fri) 21:00～生誕3DLiveやります！（宣伝\nタグ：#HoloREPO\n\n✨仕事仲間✨\n@ShiranuiFlare \n@OmaruPolka \n@NinomaeInanis \n@AnyaMelfissa \n@KikiraraVivi \n\n配信タイトル：R.E.P.O..."
+            }
+        ]
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
