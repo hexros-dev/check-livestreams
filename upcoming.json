@@ -373,15 +373,7 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": [
-            {
-                "video_id": "pt1zizyTufY",
-                "title": "【メン限/歌枠】　ゆるくうたうよ～～ん【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "date": "2025/06/03 21:20:00",
-                "thumbnail": "https://i.ytimg.com/vi/pt1zizyTufY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9W1-SLhqBC1hnrIy28wfFjU52ZQ",
-                "description": "サムネイルイラスト：爆誕ノ極/ホロとにじ全員描く\n@syml133さま\nhttps://x.com/syml133\nありがとうございます！\n\n\nねえ、いっしょに向こう側の景色を見..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -434,7 +426,15 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "uJJ850Y6-Rs",
+                "title": "Next Person to Affectionately Defeat is...? 【Pokemon Violet】 Ep 4",
+                "date": "2025/06/04 03:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/uJJ850Y6-Rs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHn4hAtSbBF1kJg0O0L7wMk1PIvA",
+                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n\n==============..."
+            }
+        ]
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
@@ -575,6 +575,13 @@
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
         "videos": [
+            {
+                "video_id": "VGvnLzyJqzI",
+                "title": "【Rune Factory: Guardians of Azuma】NEW RUNE FACTORY!! living my best fantasy farming life #ad",
+                "date": "2025/06/06 05:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/VGvnLzyJqzI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBiUGLPEpqfMWbez2M43wl_VDaSvw",
+                "description": "My link if you're interested in the game!\nhttps://bit.ly/GigiAzuma \n\nRune Factory: Guardians of Azuma presents a bold, new take on the fan-favorite franchise, and is available now for the Nintendo..."
+            },
             {
                 "video_id": "fXQzLPESCUk",
                 "title": "【THE BOBA TEASHOP】mori calliope promised to hold me if i get too scared",
