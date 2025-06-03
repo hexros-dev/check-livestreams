@@ -280,7 +280,14 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "SJmFLIZ4yeQ",
+                "title": "【ELDEN RING: NIGHTREIGN】What the Thumbnail Says",
+                "thumbnail": "https://i.ytimg.com/vi/SJmFLIZ4yeQ/hqdefault.jpg?v=683f218a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4psQcYoT_aZJYpueHZd-iNzCWag",
+                "description": "【Thumbnail Art】\n\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\nThis game is being streamed and monetized according to the image & video guidelines, with permission from FromSoftware,..."
+            }
+        ]
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -497,14 +504,7 @@
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48",
-        "videos": [
-            {
-                "video_id": "8PMfZg8N03Y",
-                "title": "[Yu-Gi-Oh! MASTER DUEL]  World Championship?! FT. Joshua Schmidt~💄 #sponsored",
-                "thumbnail": "https://i.ytimg.com/vi/8PMfZg8N03Y/hqdefault.jpg?v=683e86f4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDF6iuRxesqdguIw43fwGakQU5Yw",
-                "description": "I'm playing Yu-Gi-Oh! MASTER DUEL with my champion coach! Download the game here https://bit.ly/yu-gi-oh-masterduel and let's go to the World Championship together! \n＊This stream is sponsored..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_gigimurin": {
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
