@@ -153,21 +153,21 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/VL9aJ1o3yrN_xzHKTX0PvArQjUDHhtWtOtAYWjpzkqoFxR5HHWmWRWNgu6M5l4nSibqLaeKXqA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "MI3q5wHTGeM",
+                "title": "【Old Market Simulator】Kronii, WE ARE RIIIIIIIICH wooooooo【Timesmith】",
+                "date": "2025/06/05 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/MI3q5wHTGeM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdxJq5xGgb4Lew4rggMDVN-BEA6g",
+                "description": "Playing with @OuroKronii \n∘₊✧──────✧₊∘∘₊✧──────✧₊∘∘₊✧──────✧₊∘∘₊✧──────✧₊∘\n【Donasi lokal】Traktir..."
+            }
+        ]
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": [
-            {
-                "video_id": "f9rqWFdqpps",
-                "title": "【 Crime Scene Cleaner 】犯罪現場のお掃除します！🩸【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "date": "2025/06/04 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/f9rqWFdqpps/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5otmVhvStx_aMONld-_Uzj0aNSg",
-                "description": "本ゲームは PlayWay S.A. に確認の上配信・収益化を行なっております。\n\nサムネイルの素敵なイラスト　カジノさん　https://x.com/Casino_2nd\n\n✨メンバー..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -349,13 +349,6 @@
                 "date": "2025/06/05 19:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/2UKOSL1kccQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdOvVF2Ff3Gdh_zysLT8bPy73j5w",
                 "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n+‥‥‥‥..."
-            },
-            {
-                "video_id": "JI06aMydr5Y",
-                "title": "【】メンバーシップ限定：membership only stream【ホロライブ/大空スバル】",
-                "date": "2025/06/04 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/JI06aMydr5Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAOWtPK1uyecQgMBJYmzwiU0GI5lw",
-                "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n+‥‥‥‥..."
             }
         ]
     },
@@ -462,15 +455,7 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": [
-            {
-                "video_id": "lOtd7B96nkQ",
-                "title": "【歌枠】超絶久々の深夜縦型歌枠🎶ぐるぐる回避できるかな…？！🌀【白銀ノエル/ホロライブ】",
-                "date": "2025/06/04 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/lOtd7B96nkQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-AJe7kBzJXZmUjj4xDplCzjoRyA",
-                "description": "今年初めての縦型歌枠！久々に歌うしキンチョーだ👀\n\n✥-------------------------------------------------------------------------✥\n\n[🔑メンバーシップ開始🔑]..."
-            }
-        ]
+        "videos": []
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -613,7 +598,15 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "l8rBLfvkOag",
+                "title": "【OFF-COLLAB】TIER LISTING FOOD WITH @holoen_gigimurin (she is my snack tho)",
+                "date": "2025/06/05 09:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/l8rBLfvkOag/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCCCiL6VHgmQIcBXycOnry3LczUfg",
+                "description": "🎉Raora Panthera 2025 Birthday Merch🎉\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/raorapanthera_birthday_2025\nEN: https://shop.hololivepro.com/en/products/ra..."
+            }
+        ]
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
