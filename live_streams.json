@@ -241,14 +241,7 @@
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
-        "videos": [
-            {
-                "video_id": "y5xtS2HYOJ0",
-                "title": "【APEXガチャ】7周年でめでたいですし勝てます。【ホロライブ/夏色まつり】",
-                "thumbnail": "https://i.ytimg.com/vi/y5xtS2HYOJ0/hqdefault.jpg?v=683eba97&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgqXaOofLWBMcF2SaJdy0yAbmBmA",
-                "description": "...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\n\n素敵なサムネイル→Misaネキ様\n@Misamisatotomi\n\n本ゲームは © 2022 Electronic..."
-            }
-        ]
+        "videos": []
     },
     "@NekomataOkayu": {
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
@@ -322,7 +315,14 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "cu5btIzdciE",
+                "title": "【ホロの花札】　何もわかんないけどこいこい！！！！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "thumbnail": "https://i.ytimg.com/vi/cu5btIzdciE/hqdefault.jpg?v=684029dc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPZOxDjOaBYBql5oTtGxLMXq0-Hg",
+                "description": "ルール全然わかりません\n\n「ホロの花札」\n公式サイト ： https://holo-no-hanafuda.com/\nこの配信は『ホロの花札 - ゲーム配信に関するガイドライン』(..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
