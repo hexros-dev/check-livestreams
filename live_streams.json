@@ -251,14 +251,7 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": [
-            {
-                "video_id": "yHMHWzCPS2U",
-                "title": "【Stardew Valley】ちまたで大流行！？お昼まで農作業！！メロンを売る夏！！【尾丸ポルカ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/yHMHWzCPS2U/hqdefault.jpg?v=683f823c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBSmhfuwYKC_2ru-Q-EYAqMKHE_w",
-                "description": "本ゲームは、権利者様のポリシーに則り配信、収益化を行なっております。\nhttps://www.stardewvalley.net/faq/\n\nサムネありがとうございます！\nhttps://x.com/p..."
-            }
-        ]
+        "videos": []
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
@@ -433,7 +426,14 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "fXQzLPESCUk",
+                "title": "【THE BOBA TEASHOP】mori calliope promised to hold me if i get too scared",
+                "thumbnail": "https://i.ytimg.com/vi/fXQzLPESCUk/hqdefault.jpg?v=683e850d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDG_pMxZ7EEkygtbEGtgferxJFAzg",
+                "description": "@MoriCalliope  made this thumbnail for me too\n\nthumbnail: https://x.com/LLCole_/status/1925652423021941012\n\nGame Title: The Boba Teashop\nStore Page: https://store.steampowered.com/app/3461920/The_B..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
