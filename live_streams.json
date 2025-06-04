@@ -237,7 +237,14 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "xQaNccukTzE",
+                "title": "【OHAPOL】#168 6/5木曜日！あれの発売日だね！！！ #ポルカ公演中 【尾丸ポルカ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/xQaNccukTzE/hqdefault.jpg?v=6840b0e2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9PA9MmMUiECY_ZQS5aaaCR43sCQ",
+                "description": "OHAPOL（おはポル）は不定期で朝6時から配信！\n主に水曜〜日曜に開催されることが多いですが、毎日ではありません。\n「起きられたらやる！」と..."
+            }
+        ]
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
@@ -393,7 +400,14 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Qzv00OHNQjE",
+                "title": "【ELDEN RING】Witewawy crashing out right now (spoilers)",
+                "thumbnail": "https://i.ytimg.com/vi/Qzv00OHNQjE/hqdefault.jpg?v=68407d5f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBR57iihDDNewM-hCijY3I1F1Bffg",
+                "description": "--------------------------\nHashtags\n📺 Livestream: #ImmerScreen \n🎨 Fanart: #Immergination\n🎻 Music: #ImmerPiece\n🤡 Memes: #ImmerMemes \n--------------------------\n\n-------------------------..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
