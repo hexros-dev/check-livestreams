@@ -113,15 +113,7 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": [
-            {
-                "video_id": "t2i9B0XivMg",
-                "title": "【 マリオカート ワールド 】本日『Switch2』発売日なのらああああああ！！【姫森ルーナ/ホロライブ】",
-                "date": "2025/06/05 15:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/t2i9B0XivMg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNenfT_WtqC69ZZXaFkXftv7hJPg",
-                "description": "姫森ルーナ @HimemoriLuna \n尾丸ポルカ @OmaruPolka \n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n▷==========================..."
-            }
-        ]
+        "videos": []
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -180,13 +172,6 @@
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
         "videos": [
-            {
-                "video_id": "VmxN34150fg",
-                "title": "【 みんなで推理】名探偵リオ―――ナ参上っ！！！……【ホロライブ DEV_IS 響咲リオナ】",
-                "date": "2025/06/05 15:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/VmxN34150fg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCIlVRfDQuBDTn9OnKQP-8GLrDt2Q",
-                "description": "タイトル：みんなで推理\nストアページ：https://store.steampowered.com/app/3023190/_/\n\nサムネイラスト→汐よるさんさん(@ ushio_yoru)素敵なイラストありがとう..."
-            },
             {
                 "video_id": "k7n3G7TnXpM",
                 "title": "【 STARDEW VALLEY】寒い季節がくるまえに友達が欲しいです・・・＃４【ホロライブ DEV_IS 響咲リオナ】",
@@ -410,7 +395,15 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "JNo3WnGQyIo",
+                "title": "【#ホロ落選マリカ】どうしてこんなことに・・・落選ってなんだよ【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "date": "2025/06/05 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/JNo3WnGQyIo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAbu3kt7llpK7aeD_6Tu3twC2JIA",
+                "description": "すいっちつーにあいたかった\n\n\nねえ、いっしょに向こう側の景色を見に行かない？ \nホロライブDEV_ISからデビューした FLOWGLOWのDJ兼運転手 輪堂千速..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -525,7 +518,15 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "oJmwxPLrdTI",
+                "title": "【 #ホロ落選マリカ 】闇落ちした私は、そう・・・最強。【鷹嶺ルイ/ホロライブ】",
+                "date": "2025/06/05 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/oJmwxPLrdTI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBL2OmHtMsqzJfLcA8L0ZI9PWtKMA",
+                "description": "✨メンバー✨\n落選エンターテイナーな主催：@SakuraMiko \n不名誉すぎるから当選したい：@HoshimachiSuisei \nSwitch2はゲッサーできなかった：@AZKi \n落選して..."
+            }
+        ]
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
