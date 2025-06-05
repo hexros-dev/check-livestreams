@@ -412,7 +412,14 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "VGvnLzyJqzI",
+                "title": "【Rune Factory: Guardians of Azuma】NEW RUNE FACTORY!! living my best fantasy farming life #ad",
+                "thumbnail": "https://i.ytimg.com/vi/VGvnLzyJqzI/hqdefault.jpg?v=683f0a37&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBiUGLPEpqfMWbez2M43wl_VDaSvw",
+                "description": "My link if you're interested in the game!\nhttps://bit.ly/GigiAzuma \n\nRune Factory: Guardians of Azuma presents a bold, new take on the fan-favorite franchise, and is available now for the Nintendo..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
