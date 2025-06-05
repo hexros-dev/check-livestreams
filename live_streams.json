@@ -33,7 +33,14 @@
         "channel_url": "https://www.youtube.com/@AnyaMelfissa",
         "channel_name": "Anya Melfissa Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "vEvw_OtZI3k",
+                "title": "【Rat Cage】I Am but a Harmless (And Mythical) Rat ネズミになってニンゲンから逃げなくちゃいけないゲーム【holoID | Anya Melfissa】",
+                "thumbnail": "https://i.ytimg.com/vi/vEvw_OtZI3k/hqdefault.jpg?v=683f2ed4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKUuj6HnCyfdJRqyLy63rPaBSIXQ",
+                "description": "Support me here/ドネーション↓\nStreamlabs: https://streamlabs.com/anyamelfissachhololive-id/tip\nSociaBuzz(Local Donation): https://sociabuzz.com/anyamelfissa/tribe \n\n--\nGame title: Rat..."
+            }
+        ]
     },
     "@AyundaRisu": {
         "channel_url": "https://www.youtube.com/@AyundaRisu",
@@ -119,14 +126,7 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
-        "videos": [
-            {
-                "video_id": "BKC5CQ3yzaA",
-                "title": "【nosh VS 限界飯】リベンジ！ナッシュと本気で食べ比べてみた【一条莉々華/hololive DEV_IS ReGLOSS】",
-                "thumbnail": "https://i.ytimg.com/vi/BKC5CQ3yzaA/hqdefault.jpg?v=68403ebb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgZlu91mVekrW2-V3vVGBh-GBNWw",
-                "description": "🌃nosh×Ririka Ch. 一条莉々華 ‐ ReGLOSS第二弾の特別コラボクーポンはこちら🌃\nhttps://nosh.jp/influencer-promotion?key=IchijouRirika2&utm_source=Youtuber&utm_medium=PR&utm..."
-            }
-        ]
+        "videos": []
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
