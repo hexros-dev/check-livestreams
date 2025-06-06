@@ -174,14 +174,7 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": [
-            {
-                "video_id": "8bf08F74ePY",
-                "title": "【DELTARUNE】Let's start from the BEGINNING!【CHAPTER 1】",
-                "thumbnail": "https://i.ytimg.com/vi/8bf08F74ePY/hqdefault.jpg?v=68423082&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCeZy3COr2jU1ovyamaiFhUpkoQ1w",
-                "description": "/.D\n\nThumbnail Art:  @PhdPigeon Thank you!\nhttps://x.com/PhdPigeon/status/1930135691457114364/photo/1\n\n====================\n✧Twitter: https://twitter.com/kosekibijou\n\n✧Hashtags: \n#biboo..."
-            }
-        ]
+        "videos": []
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -368,7 +361,14 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "EyOH1KRTlm0",
+                "title": "【 手描き切り抜き鑑賞会 】※なんの告知かわかってても知らないふりをしてください。【鷹嶺ルイ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/EyOH1KRTlm0/hqdefault.jpg?v=684165e6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWUhBRKQ7XLK9N4I3aze9kJ0oCsg",
+                "description": "私が出演してる切り抜きをみていくぞ～‼\n\n📺ご紹介した切り抜き📺\nのちほど更新\n\nサムネ：あじゃすた様(@adju_ster)\n\n✦••┈┈┈••┈┈┈•..."
+            }
+        ]
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",

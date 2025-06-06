@@ -478,15 +478,7 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": [
-            {
-                "video_id": "EyOH1KRTlm0",
-                "title": "【 手描き切り抜き鑑賞会 】※なんの告知かわかってても知らないふりをしてください。【鷹嶺ルイ/ホロライブ】",
-                "date": "2025/06/06 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/EyOH1KRTlm0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWUhBRKQ7XLK9N4I3aze9kJ0oCsg",
-                "description": "私が出演してる切り抜きをみていくぞ～‼\n\n📺ご紹介した切り抜き📺\nのちほど更新\n\nサムネ：あじゃすた様(@adju_ster)\n\n✦••┈┈┈••┈┈┈•..."
-            }
-        ]
+        "videos": []
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
@@ -657,12 +649,28 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "v_4SOanKlrY",
+                "title": "【ミラー配信】#SummerGameFest 2025 みんなで見るぞ！ぺこ！【ホロライブ/兎田ぺこら】",
+                "date": "2025/06/07 03:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/v_4SOanKlrY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJ-slmrjQ0ruFbNIemLa1bASZrXg",
+                "description": "新作ゲームや新情報の発表がたくさんらしい！！！！！！！！！！！！！！！！\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "kU_yTQRGBlg",
+                "title": "【歌枠/KARAOKE】リハビリがてらにうたっちゃおうかな　#結城さくな生放送",
+                "date": "2025/06/06 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/kU_yTQRGBlg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdW1n3yMv4gNDVTQDVGg-oLlUCbg",
+                "description": "🎀グッズ・ボイス販売はこちら🐾\nhttps://yuki-sakuna.stores.jp/\n\n🎀歌ってみた動画🐾\nhttps://youtube.com/playlist?list=PLErsMirGq93vRw-CcRaaZfR4QVxl2uBsb&si=BRmEr8erE6aR-UJ..."
+            }
+        ]
     }
 }
