@@ -142,7 +142,14 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "t7CwKPb_JA4",
+                "title": "【 Crime Scene Cleaner 】完全犯罪、お任せください【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "thumbnail": "https://i.ytimg.com/vi/t7CwKPb_JA4/hqdefault.jpg?v=68427804&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCh6FV-ldSCYg3Vf1XQaOsdBbZJEw",
+                "description": "本ゲームは PlayWay S.A. に確認の上配信・収益化を行なっております。\n\nサムネイルの素敵なイラスト　EternalTanboさん　https://x.com/EternalTanbo\n\n✨メンバ..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -425,14 +432,7 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": [
-            {
-                "video_id": "2W6pyLcyGkM",
-                "title": "【ASMR】Just Chatting with my Chattini, but ASMR! 🩷",
-                "thumbnail": "https://i.ytimg.com/vi/2W6pyLcyGkM/hqdefault.jpg?v=6841b946&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBf1QCs7HUIA_WuccFw8Vgcf1pSUw",
-                "description": "🎉Raora Panthera 2025 Birthday Merch🎉\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/raorapanthera_birthday_2025\nEN: https://shop.hololivepro.com/en/products/ra..."
-            }
-        ]
+        "videos": []
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
