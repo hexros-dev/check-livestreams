@@ -47,15 +47,7 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": [
-            {
-                "video_id": "h4l0mWVkJVQ",
-                "title": "Musmid with @sammybollivienn",
-                "date": "2025/06/06 11:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/h4l0mWVkJVQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7ugOx-PBS2Le19ssRCz7J3dOrxg",
-                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nGame Title: Dinkum\nStore Page: https://store.steampowered.com/app/1062520/Dinkum/\n\nーーーーーーーーー\nCHECK OUT RISU 5TH ANNIVERSAR..."
-            }
-        ]
+        "videos": []
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -152,7 +144,15 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "yMeVjVsyP4k",
+                "title": "【Monster Hunter Wilds】Fun full party!! :D 遊園地で遊んだ愉快なメンツでモンハン！",
+                "date": "2025/06/06 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/yMeVjVsyP4k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6KllfJRS-gaozDYugv8q76ffshg",
+                "description": "Gizney was fun　たっのしーーー！\nPlaying with @KosekiBijou @IchijouRirika @Robocosan \n\nThis video and livestream are being streamed with permission and under license by CAPCOM CO.,..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
