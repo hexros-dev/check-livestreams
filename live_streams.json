@@ -83,14 +83,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "xGtk9LOAhXM",
-                "title": "【ロックマンX4】完全初見★へたっぴロックマンX4！エックス編ラスダン開始！ #4 【博衣こより/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/xGtk9LOAhXM/hqdefault.jpg?v=6842b4c3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFNRv3Nxeli4fAgqN9NXHWrZuwQQ",
-                "description": "ロックマン1～3＆ロックマンX1～3プレイ済！エックス編全パーツGET！今日クリアしちゃう可能性さえある！？\n🎀新衣装記念グッズ発売開始！フル..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -286,7 +279,14 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "kwPGwfv0pmg",
+                "title": "【R.E.P.O.】フブキにあいにいく【尾丸ポルカ視点/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/kwPGwfv0pmg/hqdefault.jpg?v=684461a7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYbblg5N4Db7H9Aqz9s_QtWIyqjw",
+                "description": "いｋｚ\n@ShirakamiFubuki \n\n配信タイトル：R.E.P.O.\nストアページ：https://store.steampowered.com/app/3241660/REPO/\n\n\n※尾丸ポルカへ頂いたスパチャは、基本的に毎週..."
+            }
+        ]
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
