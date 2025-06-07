@@ -136,15 +136,7 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
-        "videos": [
-            {
-                "video_id": "rk1Iz4LbhKI",
-                "title": "【みんなで推理】19時の告知までに50問正解を目指したい！！！【一条莉々華/hololive DEV_IS ReGLOSS】",
-                "date": "2025/06/07 11:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/rk1Iz4LbhKI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXcFHv-BY-27H2V69Lg_8WSN24Ug",
-                "description": "力をかしてーーー！！！！！！！\n\nタイトル：みんなで推理\nストアページ：https://store.steampowered.com/app/3023190/_/\n\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈┈..."
-            }
-        ]
+        "videos": []
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -289,7 +281,15 @@
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "L6SOr1YqCqg",
+                "title": "【ホロアース】新おしゃれハウスをめざして！【ホロライブ/夏色まつり】",
+                "date": "2025/06/07 12:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/L6SOr1YqCqg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtE_7m8s3I4GPgcT99IqnVv3onQg",
+                "description": "ホロアースDLはこちら→https://holoearth.com/\n\n7周年記念グッズ発売中！\nhttps://shop.hololivepro.com/products/natsuiromatsuri_anniversary_7th\n\n素敵なサムネイル→フフ..."
+            }
+        ]
     },
     "@NekomataOkayu": {
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
@@ -325,15 +325,7 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": [
-            {
-                "video_id": "5yPg7MKZcwc",
-                "title": "【#9】BLEACH Rebirth of Soulsやるしゅばあああああああああああああああああああああああああああああ！！！！！【ホロライブ/大空スバル】",
-                "date": "2025/06/07 11:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/5yPg7MKZcwc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8bJoOGm1E8cBl5ykhUba0BCmbqA",
-                "description": "このゲーム実況は「バンダイナムコエンターテインメント ゲーム実況ポリシー」に基づき制作・配信されています。\nhttps://www.bandainamcoent.co.jp/info/v..."
-            }
-        ]
+        "videos": []
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
