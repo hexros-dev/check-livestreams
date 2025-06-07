@@ -158,14 +158,7 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": [
-            {
-                "video_id": "uigdnpzFMDQ",
-                "title": "【晩酌雑談】110万人＆ゲームリリースありがとう！な雑談！！【儒烏風亭らでん #ReGLOSS 】",
-                "thumbnail": "https://i.ytimg.com/vi/uigdnpzFMDQ/hqdefault.jpg?v=68441eff&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKgqKyTdoJTQGUjv0KwBYJioZcgA",
-                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\nサムネイル：さち様\nhttps://x.com/ch1sa66\n\n◢◤￣..."
-            }
-        ]
+        "videos": []
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -357,20 +350,20 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": [
-            {
-                "video_id": "J_J4CkUVi2o",
-                "title": "【歌枠/KARAOKE】土曜日の夜は歌いたくなるよね？【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "thumbnail": "https://i.ytimg.com/vi/J_J4CkUVi2o/hqdefault.jpg?v=68443462&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCOFdUunFLi-jn9vouVO36kTIZhvQ",
-                "description": "好きな歌うたう！\n\nサムネイル：Mileさま\nhttps://x.com/o8q\nサムネイル素材：沙雨イニさま\n (https://twitter.com/ININIinNINI)\nありがとうございます！\n\nねえ、..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/gKitLHfMqsfmC26xRBBNBVE9jz4m0X-xAvcdPUwy8VPa4FCw0-XRxOKLvJZxm-lQnIDQU2rDA0k",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "3RleIl9jTtk",
+                "title": "【 Stardew Valley 】＃７　１年目の教訓　ボクは絶対　道で寝ない【ホロライブ/ ロボ子さん】",
+                "thumbnail": "https://i.ytimg.com/vi/3RleIl9jTtk/hqdefault.jpg?v=68437333&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJnOgrtdOP2YEE4BzocfBvU8L8zA",
+                "description": "＃ホロライブ　#hololive \nｘでは💬  #ロボ子生放送　でポストしてってね✨\nYoutubeの仕様でコメントや高評価ＧＯＯＤを押してくれるとチャンネルが..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -401,7 +394,14 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "nE_HyWRkEfg",
+                "title": "【R.E.P.O.】ハーイ、ジョージィ、このゲームマルチ推奨って知ってる？　🦊騙されんぞ（初見ソロ）【ホロライブ/白上フブキ】",
+                "thumbnail": "https://i.ytimg.com/vi/nE_HyWRkEfg/hqdefault.jpg?v=6843ed3c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDs4cWRoXZT0HIvBkJYeLpPk4AnBg",
+                "description": "✦白上フブキ 活動7周年記念グッズ🌽\nJP▷https://shop.hololivepro.com/products/shirakamifubuki_anniversary_7th\n海外▷https://shop.hololivepro.com/en/products/shirakamifubuki_anni..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",

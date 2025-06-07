@@ -366,13 +366,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/gKitLHfMqsfmC26xRBBNBVE9jz4m0X-xAvcdPUwy8VPa4FCw0-XRxOKLvJZxm-lQnIDQU2rDA0k",
         "videos": [
             {
-                "video_id": "3RleIl9jTtk",
-                "title": "【 Stardew Valley 】＃７　１年目の教訓　ボクは絶対　道で寝ない【ホロライブ/ ロボ子さん】",
-                "date": "2025/06/07 22:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/3RleIl9jTtk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJnOgrtdOP2YEE4BzocfBvU8L8zA",
-                "description": "＃ホロライブ　#hololive \nｘでは💬  #ロボ子生放送　でポストしてってね✨\nYoutubeの仕様でコメントや高評価ＧＯＯＤを押してくれるとチャンネルが..."
-            },
-            {
                 "video_id": "Enz_zbBGPK0",
                 "title": "【Member Only】NO.15 ろぼちゃの日曜むーびー❣🎬映画『　テッド🧸　』 同時視聴🍿",
                 "date": "2025/06/08 18:00:00",
@@ -403,15 +396,7 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": [
-            {
-                "video_id": "nE_HyWRkEfg",
-                "title": "【R.E.P.O.】ハーイ、ジョージィ、このゲームマルチ推奨って知ってる？　🦊騙されんぞ（初見ソロ）【ホロライブ/白上フブキ】",
-                "date": "2025/06/07 22:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/nE_HyWRkEfg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDs4cWRoXZT0HIvBkJYeLpPk4AnBg",
-                "description": "✦白上フブキ 活動7周年記念グッズ🌽\nJP▷https://shop.hololivepro.com/products/shirakamifubuki_anniversary_7th\n海外▷https://shop.hololivepro.com/en/products/shirakamifubuki_anni..."
-            }
-        ]
+        "videos": []
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -517,7 +502,15 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "hALmRi2DVqo",
+                "title": "【ELDEN RING NIGHTREIGN】3 stack ready to unpack that and BEAT EVERYTHING IN OUR SIGHT",
+                "date": "2025/06/08 05:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/hALmRi2DVqo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCm-sCoTF7Fb4cCKxAiDf2DgUhiXg",
+                "description": "with @NinomaeInanis and @holoen_gigimurin \nkronii couldn't make it but we'll play with her next time! Thank you Ina for joining our SQUAD! YAAAAY\n\n--------------------------\nHashtags\n📺 Livestrea..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
@@ -529,7 +522,15 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "FxObyy_WB2g",
+                "title": "【ELDEN RING NIGHTREIGN】i have no idea what's going on but i know i can sandbag and it'll be ok",
+                "date": "2025/06/08 05:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/FxObyy_WB2g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4iUQgfhSV3KPXEXqZHwgq-9o9hg",
+                "description": "kronii couldnt make it!! we'll find another day with kronii!! thank u ina for joining us!!!\n\nThis game is being streamed and monetized after confirming with From Software, and in accordance..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
