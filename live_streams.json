@@ -69,13 +69,27 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "__oxvLuglzU",
+                "title": "【ロックマンX4】ゼロ編スタート！！！初めてのコヨゼロ・・・危険な香りしかしないぜ！！！ #1 【博衣こより/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/__oxvLuglzU/hqdefault.jpg?v=68454b35&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCY1qWc2VWLVoNeCJUggd3qKVDOaw",
+                "description": "ロックマン1～3＆ロックマンX1～3プレイ済！エックス編クリアしたのでゼロ編突入だあああ！！！✨\n🎀新衣装記念グッズ発売開始！フルセットは..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "h46hEA26gdA",
+                "title": "【 Lies of P 】ピノッキオモチーフのソウルライクゲーで遊んでみるのら！！！【姫森ルーナ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/h46hEA26gdA/hqdefault.jpg?v=6843c0d8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBPzlB5W8NMR9Ima8eybSZpwiaVA",
+                "description": "提供：株式会社NEOWIZ\n#LiesofP #ライズオブP #LiesofPOverture\n\n『Lies of P』ファミ通.com特設サイト\nhttps://www.famitsu.com/special/content/liesofp/\n\n『Lies of P』Steam（PC)..."
+            }
+        ]
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -165,20 +179,20 @@
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
         "channel_name": "Laplus ch. ラプラス・ダークネス - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/6Y5lj4DhikLBo0UqIZ1dT3-D3aYXVPbxUgNTyYiyE_Se8AVxkGAn05D3oc1y3whpzDu-CzEQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "EE-BcQoVvzs",
+                "title": "【逆凸】アソビ大全猛特訓❕ASMRしてもらうために最強へ＿＿＿　【ラプラス・ダークネス/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/EE-BcQoVvzs/hqdefault.jpg?v=683fd66b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCiyt9wiujXnsV7_lEdX5M_5dDIRg",
+                "description": "逆凸メンバー後で更新！\n\n配信タイトル：世界のアソビ大全51\nストアページ：https://store-jp.nintendo.com/item/software/D70010000029715\n※この動画およびライブ..."
+            }
+        ]
     },
     "@MizumiyaSu": {
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": [
-            {
-                "video_id": "dGZ7R9pGw-c",
-                "title": "【学園アイドルマスター】推しを探し出会う#1 ネタバレ有り【水宮枢／FLOW GLOW】#hololiveDEV_IS",
-                "thumbnail": "https://i.ytimg.com/vi/dGZ7R9pGw-c/hqdefault.jpg?v=68447ef9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4XPwMfCwAdG9dQWr9PXXdpnCMdA",
-                "description": "このゲーム実況は「バンダイナムコエンターテインメント ゲーム実況ポリシー」に基づき制作・配信されています。\nhttps://www.bandainamcoent.co.jp/info/v..."
-            }
-        ]
+        "videos": []
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -226,7 +240,14 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "T0Iws45uaiE",
+                "title": "【 マリオカートワールド 】れっつごおおおおおおおおおおお【 猫又おかゆ/ホロライブ 】",
+                "thumbnail": "https://i.ytimg.com/vi/T0Iws45uaiE/hqdefault.jpg?v=68446e2e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBi29hiPYkLzy2Top7YL9bw1Q-yPw",
+                "description": "❥・・ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ・・❥\n\n猫又おかゆ 2nd Live.『ぺるそにゃ～りすぺくと』\n‣ https://personyarespect.hololivepro.com/\n▼公式..."
+            }
+        ]
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -375,14 +396,7 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": [
-            {
-                "video_id": "TsjJcgJJIFM",
-                "title": "【 ドラゴンクエスト11S 】完全初見。打倒！ニズゼルファ！！！！！！！！！【鷹嶺ルイ/ホロライブ】※ネタバレあり",
-                "thumbnail": "https://i.ytimg.com/vi/TsjJcgJJIFM/hqdefault.jpg?v=6844a3fe&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUbGWBJ0aL2_k54vp-U3Yn7rcAvA",
-                "description": "勇者の試練にいくぞ☺\n※タイトルの『※ネタバレあり』とは、【ゲーム本編のネタバレが含まれた配信】という意味でネタバレやアドバイスをし..."
-            }
-        ]
+        "videos": []
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
@@ -390,10 +404,10 @@
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
         "videos": [
             {
-                "video_id": "ZASeYUZBEmM",
-                "title": "【３DLIVE振り返り】こだわりや裏話など！はなそー！【轟はじめ/ReGLOSS】",
-                "thumbnail": "https://i.ytimg.com/vi/ZASeYUZBEmM/hqdefault.jpg?v=684458e3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASRcNN1Xf1PhCKn4vMsXLLsv1XVA",
-                "description": "#轟はじめ生誕祭2025　のLIVEアーカイブはこちら！\nhttps://www.youtube.com/watch?v=bjPYXtxhm0I&t=3855s\n\n🛒生誕グッズの販売ページはこちら！\nhttps://shop.hololivepro..."
+                "video_id": "XbzUBBfk2FI",
+                "title": "＃３【UNDERTALE】はじめてのアンダーテイル【轟はじめ/ReGLOSS】 #hololivedev_is",
+                "thumbnail": "https://i.ytimg.com/vi/XbzUBBfk2FI/hqdefault.jpg?v=68445920&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0shqu7h9hpbhKvQZmucC0Phy5Dg",
+                "description": "素敵なサムネお写真：彩月あたん:SatsukiAtan様（@atan0w0）\n\n本ゲームはToby Fox様に確認を得た上で配信・収益化を行なっております。\n\n￣￣￣￣￣￣￣..."
             }
         ]
     },
