@@ -367,7 +367,15 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "85B3oh9EGaY",
+                "title": "【 VRChat 】【ホロライブ/さくらみこ】",
+                "date": "2025/06/08 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/85B3oh9EGaY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBe4UIkZqJECha12W-euU600q3rpw",
+                "description": "⪩⪨　お知らせ/ɪɴғᴏ\n￣￣￣￣￣￣￣￣￣￣￣￣￣\n　🌸さくらみこ1st Live \"flower fantasista!\" \n　　  Blu-ray 受注受付開始🎉予約 6/2まで✅\n　..."
+            }
+        ]
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
@@ -393,29 +401,13 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": [
-            {
-                "video_id": "wMwDRObFBQs",
-                "title": "【ELDEN RING NIGHTREIGN 】同期と「エルデンリング ナイトレイン」に挑む【不知火フレア/ホロライブ】",
-                "date": "2025/06/08 14:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/wMwDRObFBQs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDn4flidmZM9EED0vPaml8HFzFXNw",
-                "description": "@usadapekora ぺこら！キャリーする(予定)\n@ShiroganeNoel  ノエル 初見\n@ShiranuiFlare  初見 斧槍があれば頑張りたい（気持ち）\n\n■Newシングル「薄明光線」..."
-            }
-        ]
+        "videos": []
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": [
-            {
-                "video_id": "2H6xlm11JvE",
-                "title": "【エルデンリング ナイトレイン】初見！！ぺこらっちょとフレアっちょと3人でナイトレインに挑む！！！【白銀ノエル/ホロライブ】",
-                "date": "2025/06/08 14:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/2H6xlm11JvE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZsDZTGt24K9MZj0Y3SI7HNThe6w",
-                "description": "夜を駆ける者たち\n@usadapekora 唯一のナイトレイン経験者！よろしくっす！頼んまっする！\n@ShiranuiFlare 同じ初見の民！一緒にがんばってこな！！..."
-            }
-        ]
+        "videos": []
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -441,15 +433,7 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": [
-            {
-                "video_id": "TsjJcgJJIFM",
-                "title": "【 ドラゴンクエスト11S 】完全初見。打倒！ニズゼルファ！！！！！！！！！【鷹嶺ルイ/ホロライブ】※ネタバレあり",
-                "date": "2025/06/08 14:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/TsjJcgJJIFM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUbGWBJ0aL2_k54vp-U3Yn7rcAvA",
-                "description": "勇者の試練にいくぞ☺\n※タイトルの『※ネタバレあり』とは、【ゲーム本編のネタバレが含まれた配信】という意味でネタバレやアドバイスをし..."
-            }
-        ]
+        "videos": []
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
@@ -590,15 +574,7 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": [
-            {
-                "video_id": "d2cltiZzPyA",
-                "title": "【コラボ】ついに3人でナイトレインに挑む！！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
-                "date": "2025/06/08 14:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/d2cltiZzPyA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjSnUerT3hmWm9iX4C6TQwZrCluw",
-                "description": "夜を駆ける者たち\n@ShiranuiFlare \n@ShiroganeNoel \n@usadapekora \n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
