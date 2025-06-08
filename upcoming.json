@@ -3,7 +3,15 @@
         "channel_url": "https://www.youtube.com/@AZKi",
         "channel_name": "AZKi Channel",
         "avatar_url": "https://yt3.googleusercontent.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "X40QybHKkCQ",
+                "title": "【R.E.P.O.】はじめてのREPO！今話題の協力ホラゲー！？【ホロライブ / AZKi】",
+                "date": "2025/06/08 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/X40QybHKkCQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAM6ywYzFuaLlGV5R49NJOkjiPtnQ",
+                "description": "@NatsuiroMatsuri \n@TokoyamiTowa \n@KoganeiNiko \n@RindoChihaya \n@KikiraraVivi \n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\n配信タイトル：R.E.P.O.\nストアページ：https://store.steampo..."
+            }
+        ]
     },
     "@AiraniIofifteen": {
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
@@ -333,15 +341,7 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": [
-            {
-                "video_id": "r3M-AkcLYRQ",
-                "title": "【安田記念/同時視聴】上半期のマイル王！？！？【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "date": "2025/06/08 12:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/r3M-AkcLYRQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBY0ULAcO26nMp2hrvYvKBjw0WoYA",
-                "description": "15:40出走！\n\nサムネイルイラスト：鮨田はやりさま\nhttps://x.com/sushidahayari\nありがとうございます！\n\n\n\nねえ、いっしょに向こう側の景色を見に行かな..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -448,13 +448,6 @@
                 "date": "2025/06/08 14:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/TsjJcgJJIFM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUbGWBJ0aL2_k54vp-U3Yn7rcAvA",
                 "description": "勇者の試練にいくぞ☺\n※タイトルの『※ネタバレあり』とは、【ゲーム本編のネタバレが含まれた配信】という意味でネタバレやアドバイスをし..."
-            },
-            {
-                "video_id": "yZ0Astq7zz4",
-                "title": "【 安田記念 】2連勝中‼上半期のマイル王になる馬はどの馬だ⁉【鷹嶺ルイ/ホロライブ】",
-                "date": "2025/06/08 12:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/yZ0Astq7zz4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGSllYIU6bwow1trkohUMhWQ34fg",
-                "description": "15:40発走 東京競馬場 芝1600m\n\n【2025年競馬配信】\nブラック企業時代に作っていた競馬口座に61万をBET。\n現在：61万円→67万7千円\n(退職金口座から移動..."
             }
         ]
     },
