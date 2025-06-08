@@ -71,7 +71,15 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "HgXPe7upJSA",
+                "title": "≪YAKUZA 5≫ Taxi Simulator ... First Playthrough!! #3 【SPOILER WARNING】",
+                "date": "2025/06/09 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/HgXPe7upJSA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPKVFPSbIHv12ASTPYD4e7HEKbOg",
+                "description": "The true story of Yakuza 5 is driving taxis....\nGotta support my idol dreams somehow\n\nThumbnail Art: https://x.com/SK_Jynx/status/1918831329229017180/photo/1\n#telebae  #hololiveenglish \n\n««≪..."
+            }
+        ]
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -468,15 +476,7 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": [
-            {
-                "video_id": "nvDyh_YA1EU",
-                "title": "【メンバー限定】6月最初のメン限！まったりお話しよ！【雪花ラミィ /ホロライブ】",
-                "date": "2025/06/08 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/nvDyh_YA1EU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUBC3TQIG8mybDl3_aRJ9ig0X6Ng",
-                "description": "※22時になったらメンバー限定配信に切り替わります\n　At22:00 p.m., the distribution will switch to members-only distribution.\n　メン限で話した内容は内緒でお願..."
-            }
-        ]
+        "videos": []
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
