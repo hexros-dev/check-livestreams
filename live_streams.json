@@ -69,14 +69,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "4X_vHdlbQrQ",
-                "title": "【 #朝こよ 】アンケート調査が恒例になりつつある！？アレの報告も！？火曜日の朝は朝こよ！☀ #236 【博衣こより/hololive】",
-                "thumbnail": "https://i.ytimg.com/vi/4X_vHdlbQrQ/hqdefault.jpg?v=68466054&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxiOzTZfeHJtNB6tP_7tPK9hYe1g",
-                "description": "💿1stアルバム「FIRST STEP」発売中！全曲新録！成長した歌を聴いてね🎶\n　https://cover.lnk.to/SdOKbq\n\n#朝こよ を観れば日本ニキも海外ニキもホロライブ..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -178,7 +171,14 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ad5_E7gdO_Q",
+                "title": "【ハッピーホームパラダイス】朝のまったりあつ森！【水宮枢／FLOW GLOW】#hololiveDEV_IS",
+                "thumbnail": "https://i.ytimg.com/vi/ad5_E7gdO_Q/hqdefault.jpg?v=6847084d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9IqyduA3llWWr5DCKr7GaYgZQDQ",
+                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸◂┄▹◃\n\n💙メンバーシップは..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
