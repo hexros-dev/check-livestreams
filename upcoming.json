@@ -251,7 +251,22 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "GzQgZWQRkAE",
+                "title": "【ELDEN RING: NIGHTREIGN】playing with friends!! #calliolive",
+                "date": "2025/06/11 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/GzQgZWQRkAE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBH9A0R2Hfh7tYCt948YbgbbhDjlw",
+                "description": "playing with other holomem!\n\nーーーーーーーーーーーーーーーー\nーーーーーーーーー\nBGM: https://x.com/BigRicePiano\nhttps://x.com/the_arkhand\nhttps://x.com/alterclad\n..."
+            },
+            {
+                "video_id": "f8sOJfg9g6w",
+                "title": "【Pokémon Emerald Nuzlocke】im back and ready to for victory road (part 11)",
+                "date": "2025/06/10 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/f8sOJfg9g6w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCanJ6Tt96ntV8FBzJIvrCt7J7KCQ",
+                "description": "MY NUZLOCKE RULES:\n-Fainted Pokemon must permanently be put in the storage box.\n-Only 1 Pokemon allowed per route or area (designated by name card appearing in the corner), although I may search..."
+            }
+        ]
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
