@@ -476,7 +476,22 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "NBGYQpNhevE",
+                "title": "【#ホロ金策サバイバル 】２日目💰️安心安全の暮らしを手に入れたも同然、ですか【常闇トワ / ホロライブ】",
+                "date": "2025/06/10 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/NBGYQpNhevE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVdJGvD-Mb4vC-uKtHkojoOWFszg",
+                "description": "--------------------------------------------\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なって..."
+            },
+            {
+                "video_id": "fopQzDGVUQ4",
+                "title": "【STREET FIGHTER 6】大型調整きた！！新キャラもきた！！エドは何が変わりました！？【常闇トワ/ホロライブ】",
+                "date": "2025/06/10 14:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/fopQzDGVUQ4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBj9mE1NER8RjW4vToJy7cCBX76ow",
+                "description": "立川さん\nhttps://www.twitch.tv/tachikawabr\n\n\nこの動画およびライブは株式会社カプコンの利用許諾を受けて配信しています『ストリートファイター6』..."
+            }
+        ]
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
