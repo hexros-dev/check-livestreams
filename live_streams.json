@@ -311,14 +311,7 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": [
-            {
-                "video_id": "fnZ3sbO2RLo",
-                "title": "Heading WEAST Instead of EAST 【Pokemon Violet】 Ep 6",
-                "thumbnail": "https://i.ytimg.com/vi/fnZ3sbO2RLo/hqdefault.jpg?v=68460bfa&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBkkK2pkMOQh952dts7_S_fOmD0Uw",
-                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n\n==============..."
-            }
-        ]
+        "videos": []
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
@@ -372,7 +365,14 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "gGu0uaRXVjs",
+                "title": "【 Stardew Valley 】#10 ：2年目春🌸いちごドリームを掴み取るっ【常闇トワ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/gGu0uaRXVjs/hqdefault.jpg?v=6848b9a7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbT5TWHU0hVPTNCAYhOtEaySpp3Q",
+                "description": "本ゲームは、権利者様のポリシーに則り配信、収益化を行なっております。\nhttps://www.stardewvalley.net/faq/\n\n୨୧-------------------------------┈┈┈┈┈┈┈..."
+            }
+        ]
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
