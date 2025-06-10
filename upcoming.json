@@ -406,15 +406,7 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": [
-            {
-                "video_id": "5mp2X702RyU",
-                "title": "【MARIO KART WORLD】a new era ! using my new SWITCH 2 for the 1ST TIME #kfp #キアライブ",
-                "date": "2025/06/11 00:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/5mp2X702RyU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCqpT6hZIunykkWAcvDY-udBg5uGA",
-                "description": "stream my new song, MIRAGE!✨https://cover.lnk.to/DQSp3S\n👀 Takanashi Kiara 1st Album \"Point of View\" 👀\nStreaming: https://cover.lnk.to/PointofView\n\n\n 🏵️[Twitter] 🏵️\nhttps://twitter..."
-            }
-        ]
+        "videos": []
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
@@ -459,7 +451,15 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "RLNvg4L5lv8",
+                "title": "【 #ホロ金策サバイバル 】Day3：勝ちまくってモテまくりたい！【角巻わため/ホロライブ４期生】",
+                "date": "2025/06/11 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/RLNvg4L5lv8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9-qmb_8g5Y8106vpJfAP4Wrw3hg",
+                "description": "今日はちゃんと働こう！\nタグ：#ホロ金策サバイバル\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信..."
+            }
+        ]
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -495,7 +495,15 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "DQqxZe1ll04",
+                "title": "【JUSTICE IN THE FAR EAST】Justice! Just like that!!!!!",
+                "date": "2025/06/11 07:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/DQqxZe1ll04/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFJNhB5u0OObi6Ggynjyq3LS7hrg",
+                "description": "with @holoen_erbloodflame @holoen_raorapanthera @holoen_gigimurin \n\n\nart: https://x.com/akamushi3d/status/1867000529865294061\n--------------------------\nHashtags\n📺 Livestream: #ImmerScreen..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
