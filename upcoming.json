@@ -137,21 +137,21 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/VL9aJ1o3yrN_xzHKTX0PvArQjUDHhtWtOtAYWjpzkqoFxR5HHWmWRWNgu6M5l4nSibqLaeKXqA",
-        "videos": [
-            {
-                "video_id": "50HTULbOzIE",
-                "title": "【Don't Starve Together】we passed the first year. now what?【MoonKae】",
-                "date": "2025/06/10 20:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/50HTULbOzIE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-TIkPsRWEWwWBUyESrNJpqHH9hg",
-                "description": "Playing with @MoonaHoshinova\n∘₊✧──────✧₊∘∘₊✧──────✧₊∘∘₊✧──────✧₊∘∘₊✧──────✧₊∘\n【Donasi lokal】Trakt..."
-            }
-        ]
+        "videos": []
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "PH3Zczd6ess",
+                "title": "【 朝活 / FreeTalk 】おはよう☀️予定【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "date": "2025/06/11 04:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/PH3Zczd6ess/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB76ppnGkI45EYc6_T3ATQv2JhQ0g",
+                "description": "サムネイルの素敵なイラスト　イサコロさん　https://x.com/Hx9cJ\n\n✨メンバーシップはこちら✨\nhttps://www.youtube.com/channel/UCGzTVXqMQHa4AgJVJIVvtDQ/join\n\n📢iOS..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -214,15 +214,7 @@
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
         "channel_name": "Moona Hoshinova hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/9e7J_lAxCEZO6IRC_Sl3Gj-bt9uPvSXolU_vBpmqWABzv99oHxzbYhWWgvRI_c2qmB4jH0p_ZA",
-        "videos": [
-            {
-                "video_id": "0gNadOF0iHA",
-                "title": "【Don't Starve Together】another adventure of MoonKae!【hololive】",
-                "date": "2025/06/10 20:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/0gNadOF0iHA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCj9K1XHHuImPqL_JWShoxF_Yji_w",
-                "description": "Streamlabs donation link here : https://streamlabs.com/moonahoshinovahololive-id/tip\nSociaBuzz donation link here : https://sociabuzz.com/moonahoshinova/tribe\n\nPlaying with  @KaelaKovalskia..."
-            }
-        ]
+        "videos": []
     },
     "@MoriCalliope": {
         "channel_url": "https://www.youtube.com/@MoriCalliope",
@@ -231,10 +223,10 @@
         "videos": [
             {
                 "video_id": "GzQgZWQRkAE",
-                "title": "【ELDEN RING: NIGHTREIGN】playing with friends!! #calliolive",
-                "date": "2025/06/11 10:00:00",
+                "title": "【ELDEN RING: NIGHTREIGN】playing with fans and friends!! #calliolive",
+                "date": "2025/06/11 08:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/GzQgZWQRkAE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBH9A0R2Hfh7tYCt948YbgbbhDjlw",
-                "description": "playing with other holomem!\n\nーーーーーーーーーーーーーーーー\nーーーーーーーーー\nBGM: https://x.com/BigRicePiano\nhttps://x.com/the_arkhand\nhttps://x.com/alterclad\n..."
+                "description": "playing with other holomem, and some deadbeats too.\n\nーーーーーーーーーーーーーーーー\nーーーーーーーーー\nBGM: https://x.com/BigRicePiano\nhttps://x.com/the_arkhand\nhttps://x..."
             }
         ]
     },
@@ -364,7 +356,15 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "OajSWK_FOrQ",
+                "title": "【ELDEN0 RING NIGHTREIGN 】「エルデンリング ナイトレイン」夜の王さんちっすちっす！【不知火フレア/ホロライブ】",
+                "date": "2025/06/10 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/OajSWK_FOrQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCMbhvMgtgODfrcqSGPCwxP0FNNmg",
+                "description": "エルフレからプレイヤーを募集する際の条件\n・参加は一人一回まで\n・フレアが下手、迷子になって怒らないで←重要\n・楽しくプレイできる方..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
