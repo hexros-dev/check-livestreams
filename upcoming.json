@@ -257,7 +257,15 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "MJ92wV7o5C0",
+                "title": "【 #ホロ金策サバイバル 】4日目 | お金も欲しいケドエンチャントが止まらないﾃﾞｽ💰【 猫又おかゆ / ホロライブ 】",
+                "date": "2025/06/12 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/MJ92wV7o5C0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwOl0Uep20x-Q4GF2a2szRLuSLoQ",
+                "description": "ㅤ\n#ホロ金策サバイバル とは (主催ぼたんちゃん引用 ‪@ShishiroBotan  )\n\n期間中、誰が一番お金を稼げるか？ガッツリ稼ぐもよし、スローライフを満..."
+            }
+        ]
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -381,15 +389,7 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": [
-            {
-                "video_id": "MGXamL-irCY",
-                "title": "【Vindictus: Defying Fate】alpha testing!!! game journalist wawa time! #kfp #キアライブ",
-                "date": "2025/06/12 00:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/MGXamL-irCY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXCy3ZrPm8uS2r563rix5ixDx8kQ",
-                "description": "stream my new song, MIRAGE!✨https://cover.lnk.to/DQSp3S\n👀 Takanashi Kiara 1st Album \"Point of View\" 👀\nStreaming: https://cover.lnk.to/PointofView\n\n\n 🏵️[Twitter] 🏵️\nhttps://twitter..."
-            }
-        ]
+        "videos": []
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
