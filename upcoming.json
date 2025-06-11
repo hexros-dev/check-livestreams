@@ -47,15 +47,7 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": [
-            {
-                "video_id": "KrO7EFflOfY",
-                "title": "I know you guys waiting for this:)",
-                "date": "2025/06/11 16:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/KrO7EFflOfY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2Lqtz1hvrNsz2rdIJngRE31J3-w",
-                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nGame Title: Dinkum\nStore Page: https://store.steampowered.com/app/1062520/Dinkum/\n\nーーーーーーーーー\nCHECK OUT RISU 5TH ANNIVERSAR..."
-            }
-        ]
+        "videos": []
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -74,6 +66,13 @@
                 "date": "2025/06/11 19:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/CYN7MVfWQxU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRw-9yOjgHoU1HHMGZJncPpjvzsw",
                 "description": "#hololiveMinecraftGoldrushSurvival ✨️\nwe'll gather up the most money and be the top dogs!!\n\n✨️🩵🩷 Go watch our 𝗙𝗨𝗪𝗔𝗠𝗢𝗖𝗢 𝟯𝗗 𝗕𝗜𝗥𝗧𝗛𝗗𝗔..."
+            },
+            {
+                "video_id": "FAFyxb9LjV4",
+                "title": "【ELDEN RING NIGHTREIGN COLLAB】first time ever elden ring attempt 🐾 #holoAdvent 【FUWAMOCO】",
+                "date": "2025/06/12 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/FAFyxb9LjV4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTILEcfRSq8wbVnPu9f4M4Vb4Mzw",
+                "description": "watch us stumble all over the place with our friends (idk how the gameplay works yet) ✨️\nlovely illustration by @DDOLBANG11💕\n@ShioriNovella @KosekiBijou\n\n✨️🩵🩷 Go watch our..."
             }
         ]
     },
@@ -149,7 +148,15 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "gxPCgRzEjmQ",
+                "title": "【#ホロ金策サバイバル】DAY2🌟 なんとか稼ぎたい！！色々挑戦するぞ🔥✨【ホロライブ DEV_IS 響咲リオナ】",
+                "date": "2025/06/11 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/gxPCgRzEjmQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2HH1cSWAHV2Acneh7p1vi5urZhQ",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n🔸制作：ドズル社..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -167,7 +174,15 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "6uTHpeIZjXs",
+                "title": "【 Minecraft 】 #ホロ金策サバイバル 💰2日目！リベンジ！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "date": "2025/06/11 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/6uTHpeIZjXs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3XzDvUO-4hcifoNQsKpImmBywNg",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n【使用MOD】\n使用MOD：Simp..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -414,7 +429,15 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "srE3kPmb61I",
+                "title": "【#ホロ金策サバイバル】今夜もアリーナが激アツ？！激YABE強化ウォーデン【ホロライブ/白上フブキ】",
+                "date": "2025/06/11 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/srE3kPmb61I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAc_hTLb5nHzabksU_Lb31N8vpddw",
+                "description": "#ホロ金策サバイバル\n\nアメジストで夢を見る\n━━━━━━━━━━━━━━━━━━━━━━━\n\n✦白上フブキ 活動7周年記念グッズ🌽\nJP▷https://..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -500,7 +523,15 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "c6YprlSXHvI",
+                "title": "【#ホロ金策サバイバル 】3日目💰️アリーナもミニゲームもやりたい～！！【常闇トワ / ホロライブ】",
+                "date": "2025/06/11 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/c6YprlSXHvI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOyIsnVyoDP9rdwrzcSQhqPunurw",
+                "description": "--------------------------------------------\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なって..."
+            }
+        ]
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
