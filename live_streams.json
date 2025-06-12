@@ -182,14 +182,7 @@
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
         "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/ACubs_Mw4YtmgHDIIZvW_gZaPf_VR1wg9yffFLsq4Lrw-W7Md-0pK4Gob8OJebCYCmgrArsE",
-        "videos": [
-            {
-                "video_id": "6xYiWpYslgU",
-                "title": "【#ホロ金策サバイバル #2 】今日こそアスレチックとネザーいくぞ！！【虎金妃笑虎】",
-                "thumbnail": "https://i.ytimg.com/vi/6xYiWpYslgU/hqdefault.jpg?v=684a9019&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKOnEbJPnqnr1Mn0hrTyvzwKVRjQ",
-                "description": "サムネイルのイラストは\n姓　名さん！✨\nhttps://x.com/meisei1857124/status/1930948188565131338\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account...."
-            }
-        ]
+        "videos": []
     },
     "@KosekiBijou": {
         "channel_url": "https://www.youtube.com/@KosekiBijou",
@@ -602,6 +595,13 @@
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "XtlntIjy5ZE",
+                "title": "【メン限】おはよ～～　#結城さくな生放送",
+                "thumbnail": "https://i.ytimg.com/vi/XtlntIjy5ZE/hqdefault.jpg?v=684ad845&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDApu9SnKJ93pUKGrBTh7uOANy6IA",
+                "description": "🎀グッズ・ボイス販売はこちら🐾\nhttps://yuki-sakuna.stores.jp/\n\n🎀歌ってみた動画🐾\nhttps://youtube.com/playlist?list=PLErsMirGq93vRw-CcRaaZfR4QVxl2uBsb&si=BRmEr8erE6aR-UJ..."
+            }
+        ]
     }
 }
