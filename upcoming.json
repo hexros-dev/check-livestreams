@@ -141,15 +141,7 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": [
-            {
-                "video_id": "DQ80uBTMPcE",
-                "title": "【歌雑枠】なにやら移行する配信らしい・・・まったり歌雑していきます！！【ホロライブ DEV_IS 響咲リオナ】",
-                "date": "2025/06/12 15:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/DQ80uBTMPcE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2ToeLw39YtLYcW95-xB6MgB7Lww",
-                "description": "【speical thanks】\n生音風カラオケ屋www.youtube.com/ ‪@namakara ‬ \nこのライブに用いている一部の音源は、株式会社エクシングより提供されています。..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -187,7 +179,15 @@
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
         "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/ACubs_Mw4YtmgHDIIZvW_gZaPf_VR1wg9yffFLsq4Lrw-W7Md-0pK4Gob8OJebCYCmgrArsE",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "6xYiWpYslgU",
+                "title": "【#ホロ金策サバイバル #2 】今日こそアスレチックもいくぞ！！【虎金妃笑虎】",
+                "date": "2025/06/12 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/6xYiWpYslgU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKOnEbJPnqnr1Mn0hrTyvzwKVRjQ",
+                "description": "サムネイルのイラストは\n姓　名さん！✨\nhttps://x.com/meisei1857124/status/1930948188565131338\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account...."
+            }
+        ]
     },
     "@KosekiBijou": {
         "channel_url": "https://www.youtube.com/@KosekiBijou",
@@ -330,7 +330,7 @@
             {
                 "video_id": "MJ92wV7o5C0",
                 "title": "【 #ホロ金策サバイバル 】4日目 | お金も欲しいケドエンチャントが止まらないﾃﾞｽ💰【 猫又おかゆ / ホロライブ 】",
-                "date": "2025/06/12 17:00:00",
+                "date": "2025/06/12 16:50:00",
                 "thumbnail": "https://i.ytimg.com/vi/MJ92wV7o5C0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwOl0Uep20x-Q4GF2a2szRLuSLoQ",
                 "description": "ㅤ\n#ホロ金策サバイバル とは (主催ぼたんちゃん引用 ‪@ShishiroBotan  )\n\n期間中、誰が一番お金を稼げるか？ガッツリ稼ぐもよし、スローライフを満..."
             }
@@ -414,7 +414,15 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "gv1FDiuHFec",
+                "title": "【 Minecraft 】#ホロ金策サバイバル DAY4💰大金持ちに俺はなる！！！！！！！！【ホロライブ/さくらみこ】",
+                "date": "2025/06/12 16:45:00",
+                "thumbnail": "https://i.ytimg.com/vi/gv1FDiuHFec/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmSo199rKpk1ShuvEq0AY--iz-VA",
+                "description": "#ホロ金策サバイバル とは\n期間中、誰が一番お金を稼げるか？ガッツリ稼ぐもよし、スローライフを満喫するもよし！\n手に職つけてカジノに株に..."
+            }
+        ]
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",

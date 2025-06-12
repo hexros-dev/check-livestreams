@@ -117,7 +117,14 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "M65fCgMteio",
+                "title": "【歌雑枠】なにやら移行する配信らしい・・・まったり歌雑していきます！！【ホロライブ DEV_IS 響咲リオナ】",
+                "thumbnail": "https://i.ytimg.com/vi/M65fCgMteio/hqdefault.jpg?v=684a90d7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD99H-YJ3ftZV8yFR998W4RkK35rA",
+                "description": "【speical thanks】\n生音風カラオケ屋www.youtube.com/ ‪@namakara ‬ \nこのライブに用いている一部の音源は、株式会社エクシングより提供されています。..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -153,14 +160,7 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": [
-            {
-                "video_id": "HAPJCrf3EiA",
-                "title": "【ELDEN RING NIGHTREIGN】HEHEHEHEHEHEHEHE #holoadvent",
-                "thumbnail": "https://i.ytimg.com/vi/HAPJCrf3EiA/hqdefault.jpg?v=68498502&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCLHLHxNKa_GY4btKQxb6f_AW3jEQ",
-                "description": "WITH @FUWAMOCOch and @ShioriNovella \n\nThumbnail art: @decrilus THANK YOU!\nhttps://x.com/decrilus\n\nThis game is being streamed and monetized after confirming with From Software, and in accordance..."
-            }
-        ]
+        "videos": []
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
