@@ -34,7 +34,14 @@
         "channel_url": "https://www.youtube.com/@AmaneKanata",
         "channel_name": "Kanata Ch. Kanata Amane",
         "avatar_url": "https://yt3.googleusercontent.com/oPU9ckNcyeHD0FFsYSxkoD1mtbslSwdmMSfoCYQWphOu5e7UeCnIF-Nt0hvvF41L5Nykga07nQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "YPZs_G86U0M",
+                "title": "【MemberOnly】休止中のメン限(∩ᐡ.  ̫ .ᐡ )⊃━💕【天音かなた/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/YPZs_G86U0M/hqdefault.jpg?v=684b4c00&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLByK9CTl8VfyAXIoYqR50NS-xjIXg",
+                "description": "なにする？\n\n---------------------------------------------------------------------------------\n\n🌃Amane Kanata 1st Solo Live🌃\n　　　\"LOCK ON\"   \n2025年8月13日(水)　有明アリー..."
+            }
+        ]
     },
     "@AnyaMelfissa": {
         "channel_url": "https://www.youtube.com/@AnyaMelfissa",
@@ -46,7 +53,14 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "99aRuSAW-CQ",
+                "title": "PriSunERs NigHT",
+                "thumbnail": "https://i.ytimg.com/vi/99aRuSAW-CQ/hqdefault.jpg?v=684c1192&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBw8SwiCx4n-z7_bBFtmWyH1mirlQ",
+                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nーーーーーーーーー\nCHECK OUT RISU 5TH ANNIVERSARY MERCH!\nSales start: 10 April 2025, 21:00 WIB/ 23:00 JST\nSales end: 12 May..."
+            }
+        ]
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -146,19 +160,40 @@
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ltqM1ZA6AoQ",
+                "title": "【#ホロ金策サバイバル】DAY5 ～毛玉、最終日にして開き直るの巻～【戌神ころね/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/ltqM1ZA6AoQ/hqdefault.jpg?v=684c197c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDobBzPNE6wstl0Mog8BSCGKXlDiQ",
+                "description": "Play Game : Minecraft ( PC )\nタグ #ホロ金策サバイバル​​​​​​​​​​​\n\n---------------------------------------------\n\n主催者は‪‪@ShishiroBotan \n開催ありが..."
+            }
+        ]
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "MwDK-sWE4tE",
+                "title": "【#ホロ金策サバイバル】最終日！！お金稼ぐ！！！最後まで！！💰【ホロライブ DEV_IS 響咲リオナ】",
+                "thumbnail": "https://i.ytimg.com/vi/MwDK-sWE4tE/hqdefault.jpg?v=684c135a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDR9jXGgH_u40nTwv5czu2WgVGsnQ",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n🔸制作：ドズル社..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "dvad0K0D4lc",
+                "title": "【雑談】京都大学で講義をしてきまして【儒烏風亭らでん #ReGLOSS 】",
+                "thumbnail": "https://i.ytimg.com/vi/dvad0K0D4lc/hqdefault.jpg?v=684c129a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3FKGpy9O53nIZ_kFOVIpXLQmt_w",
+                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\nサムネイル：ちゃんまろる様\nhttps://x.com/chanmar..."
+            }
+        ]
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
