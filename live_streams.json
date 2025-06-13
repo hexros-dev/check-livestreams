@@ -457,7 +457,14 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "y1bpwvr67MU",
+                "title": "【Minecraft】#ホロ金策サバイバル ラストまで楽しむぞ！【ホロライブ/ときのそら】",
+                "thumbnail": "https://i.ytimg.com/vi/y1bpwvr67MU/hqdefault.jpg?v=684bf068&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCP9FtzXwNeCvnY47fgc1yKMV00sg",
+                "description": "のんびり参加もいいじゃない！！\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっ..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
