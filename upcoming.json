@@ -543,7 +543,15 @@
         "channel_url": "https://www.youtube.com/@dooby3d",
         "channel_name": "dooby",
         "avatar_url": "https://yt3.googleusercontent.com/sOGyZgV9pPHQJCEvNe28NCOFC1y0KggsxUjrP5ecMAgBmdNT8p6ZNM24d_9SVgWFhBh0lKBL5Q",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "h-WnSwtRyrY",
+                "title": "DOKI & DOOBY",
+                "date": "2025/06/14 07:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/h-WnSwtRyrY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmbFOf5hzN6H7bOQ9udaA2UUIgqQ",
+                "description": "@Dokibird  are playing CS2 & OW2!!!!!!!"
+            }
+        ]
     },
     "@holoen_ceciliaimmergreen": {
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
@@ -562,13 +570,6 @@
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
         "videos": [
-            {
-                "video_id": "LEcIXMTUf6k",
-                "title": "【StarVaders】decided to test my reading comprehension at 7AM",
-                "date": "2025/06/14 05:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/LEcIXMTUf6k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3sDBSoTbG2ddrVXKegv15j1TDBw",
-                "description": "thumbnail: https://x.com/Comicdud/status/1932264452511998425\n\nGame Title: StarVaders\nStore Page: https://store.steampowered.com/app/2097570/StarVaders/\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
-            },
             {
                 "video_id": "xKgnGcm45qU",
                 "title": "【R.E.P.O.】i'm training to be a professional mover",
@@ -616,15 +617,7 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": [
-            {
-                "video_id": "bL8cYs9IzEA",
-                "title": "【SCARYOKE】 The most TERRIFYING karaoke on Friday the 13th!!!",
-                "date": "2025/06/14 05:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/bL8cYs9IzEA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDr3m-cnr1XWu06KOGsw__JsAmZ5A",
-                "description": "uuuUUUUuuu\n\n☁  Thumbnail Art  ☁\nhttps://x.com/PokeyPokums/status/1931471231091687759\nThank you so much!!\n\n🎉 Virtual Vacation Concert @ Los Angeles July 5th 2025 !!!!\n\nSTREAMING TICKETS..."
-            }
-        ]
+        "videos": []
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
