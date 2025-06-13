@@ -400,7 +400,14 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "RaR_iuDcljU",
+                "title": "【Lorelei and the Laser Eyes】Open the Door to SULAWESI【Pavolia Reine/hololiveID 2nd gen】",
+                "thumbnail": "https://i.ytimg.com/vi/RaR_iuDcljU/hqdefault.jpg?v=684c251f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCIJnn9HcdKVLUv1znRJyCFEArXHQ",
+                "description": "配信タイトル: Lorelei and the Laser Eyes\nストアページ: https://store.steampowered.com/app/2008920/Lorelei_and_the_Laser_Eyes/\n\nReine's new original song now 「Yummy Yum Yummy!」AVAILA..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -586,14 +593,7 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": [
-            {
-                "video_id": "RB_v0q_nI4M",
-                "title": "RAOOOO I just want to yap yap yap yap with my Chattini!",
-                "thumbnail": "https://i.ytimg.com/vi/RB_v0q_nI4M/hqdefault.jpg?v=684bc513&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQ2fUlirnjYZANhh1FcGfvTTGpjg",
-                "description": "🎉Raora Panthera 2025 Birthday Merch🎉\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/raorapanthera_birthday_2025\nEN: https://shop.hololivepro.com/en/products/ra..."
-            }
-        ]
+        "videos": []
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
