@@ -265,15 +265,7 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": [
-            {
-                "video_id": "NN5Xfx6lGDM",
-                "title": "【Pokémon Emerald Nuzlocke】the playoffs (part 12)",
-                "date": "2025/06/13 08:10:00",
-                "thumbnail": "https://i.ytimg.com/vi/NN5Xfx6lGDM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlHcngjMjxPUiGOltCFTQYnd5y7w",
-                "description": "MY NUZLOCKE RULES:\n-Fainted Pokemon must permanently be put in the storage box.\n-Only 1 Pokemon allowed per route or area (designated by name card appearing in the corner), although I may search..."
-            }
-        ]
+        "videos": []
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -329,7 +321,15 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "pgFkP0esydM",
+                "title": "【#ホロ金策サバイバル】どうあがいても最終日【尾丸ポルカ/ホロライブ】",
+                "date": "2025/06/13 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/pgFkP0esydM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1qzqeTXYXArvf12B-u48obIe7Ww",
+                "description": "ゴールドラッシュだあああああああああああああああああ\n金も虹もゼブラもてんとう虫もすきだよ\n\nタグ：#ホロ金策サバイバル\n\n本ゲームは..."
+            }
+        ]
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
@@ -398,7 +398,15 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "vzBlHJ5UCng",
+                "title": "【 Minecraft 】#ホロ金策サバイバル 最終日💰賭博黙示録みこち――。目指せ一攫千金にぇ！！！！！！！！！！！！！【ホロライブ/さくらみこ】",
+                "date": "2025/06/13 16:45:00",
+                "thumbnail": "https://i.ytimg.com/vi/vzBlHJ5UCng/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArg6KEudW0EUXESlaiEfY_vFq4ow",
+                "description": "#ホロ金策サバイバル とは\n期間中、誰が一番お金を稼げるか？ガッツリ稼ぐもよし、スローライフを満喫するもよし！\n手に職つけてカジノに株に..."
+            }
+        ]
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
