@@ -106,7 +106,14 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "dHX2Fij0u3U",
+                "title": "【Clair Obscur: Expedition 33】Paris? no, PARRY",
+                "thumbnail": "https://i.ytimg.com/vi/dHX2Fij0u3U/hqdefault.jpg?v=684b26fa&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8SXlp0coTNMJYlPnZpHkDDHlAkg",
+                "description": "Pardon? Parry? (in a French accent)\n\n#hololiveenglish  #ホロライブ \n\nSTREAM MY NEW ORIGINAL SONG, Diamond Girlfriend Feat.MOTSU▼\nhttps://youtu.be/EXM0EE_NpQc\n\n「Twitter」\nhttps://twitter.c..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -433,14 +440,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "9tEEp_cJp8M",
-                "title": "【The Elder Scrolls IV: Oblivion Remastered】grug dissociation hours",
-                "thumbnail": "https://i.ytimg.com/vi/9tEEp_cJp8M/hqdefault.jpg?v=684941a2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAI7infs5Dt_mxLSOkFBqBvBbgF3Q",
-                "description": "grug no read but gigi will\n\nthumbnail: https://x.com/Neidrcj/status/1930297304583450766\n\ngame title: The Elder Scrolls IV: Oblivion Remastered\nhttps://store.steampowered.com/app/2623190/The_Elder_S..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",

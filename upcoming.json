@@ -115,15 +115,7 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": [
-            {
-                "video_id": "dHX2Fij0u3U",
-                "title": "【Clair Obscur: Expedition 33】Paris? no, PARRY",
-                "date": "2025/06/13 10:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/dHX2Fij0u3U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8SXlp0coTNMJYlPnZpHkDDHlAkg",
-                "description": "Pardon? Parry? (in a French accent)\n\n#hololiveenglish  #ホロライブ \n\nSTREAM MY NEW ORIGINAL SONG, Diamond Girlfriend Feat.MOTSU▼\nhttps://youtu.be/EXM0EE_NpQc\n\n「Twitter」\nhttps://twitter.c..."
-            }
-        ]
+        "videos": []
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -362,7 +354,15 @@
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "OjNO0CS0J08",
+                "title": "【 #ホロ金策サバイバル 】最終日も楽しんでいくぞー！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+                "date": "2025/06/13 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/OjNO0CS0J08/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5_ig2jFpifRgYwNk6qOquSRKpoQ",
+                "description": "▽✨重大告知✨ ▽\n音乃瀬奏 1stオリジナル曲「GREATEST」\n4/20(日) 24：00（4/21  0：00）リリース開始！\nhttps://cover.lnk.to/4rvCRp\n\n୨୧♪:*:･･:*:･♪･:*:･..."
+            }
+        ]
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
