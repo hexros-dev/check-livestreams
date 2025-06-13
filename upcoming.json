@@ -296,15 +296,7 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": [
-            {
-                "video_id": "OX2Nuh-zd3k",
-                "title": "ド深夜のまったり一人カラオケ～雑談も交えて～【 ホロライブ / 大神ミオ 】",
-                "date": "2025/06/13 22:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/OX2Nuh-zd3k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3jpknq-xm_kQKwqTjBLISaW9KiA",
-                "description": "雑談を挟みつつ、まったり歌うよ～✨\n\nサムネillustrator：87giさん　https://x.com/87giYanagi87\n\n提供︓XING INC.\n※本サービスは株式会社エクシングより許諾..."
-            }
-        ]
+        "videos": []
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -501,7 +493,15 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "cRda7aJh9JE",
+                "title": "【MEMBERS WATCHALONG】X-Men Origins: Wolverine (2009) the movie this time!!",
+                "date": "2025/06/14 02:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/cRda7aJh9JE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9io-9lE7kAvjnXb3QhqPWC1tgwA",
+                "description": "https://x.com/zinkaaRT/status/1927016764237320694\n\n--------------------------\nHashtags\n📺 Livestream: #ImmerScreen \n🎨 Fanart: #Immergination\n🎻 Music: #ImmerPiece\n🤡 Memes: #ImmerMemes..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
@@ -513,7 +513,22 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "LEcIXMTUf6k",
+                "title": "【StarVaders】decided to test my reading comprehension at 7AM",
+                "date": "2025/06/14 05:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/LEcIXMTUf6k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3sDBSoTbG2ddrVXKegv15j1TDBw",
+                "description": "thumbnail: https://x.com/Comicdud/status/1932264452511998425\n\nGame Title: StarVaders\nStore Page: https://store.steampowered.com/app/2097570/StarVaders/\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
+            },
+            {
+                "video_id": "xKgnGcm45qU",
+                "title": "【R.E.P.O.】i'm training to be a professional mover",
+                "date": "2025/06/15 05:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/xKgnGcm45qU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAD96DSPXWby4M3pStMD_ArgWPNHQ",
+                "description": "⁨@holoen_ceciliaimmergreen⁩   ⁨@OuroKronii⁩   ⁨@KaelaKovalskia⁩  \n\nthumbnail: https://x.com/_nHase/status/1927054626609901972\nGame title: R.E.P.O\nStore page: https://store.steampowered...."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
