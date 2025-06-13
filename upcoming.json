@@ -47,7 +47,15 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "99aRuSAW-CQ",
+                "title": "PriSunERs NigHT",
+                "date": "2025/06/13 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/99aRuSAW-CQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBw8SwiCx4n-z7_bBFtmWyH1mirlQ",
+                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nーーーーーーーーー\nCHECK OUT RISU 5TH ANNIVERSARY MERCH!\nSales start: 10 April 2025, 21:00 WIB/ 23:00 JST\nSales end: 12 May..."
+            }
+        ]
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -133,13 +141,29 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "MwDK-sWE4tE",
+                "title": "【#ホロ金策サバイバル】最終日！！お金稼ぐ！！！最後まで！！💰【ホロライブ DEV_IS 響咲リオナ】",
+                "date": "2025/06/13 19:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/MwDK-sWE4tE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDR9jXGgH_u40nTwv5czu2WgVGsnQ",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n🔸制作：ドズル社..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "dvad0K0D4lc",
+                "title": "【雑談】京都大学で講義をしてきまして【儒烏風亭らでん #ReGLOSS 】",
+                "date": "2025/06/13 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/dvad0K0D4lc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3FKGpy9O53nIZ_kFOVIpXLQmt_w",
+                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\nサムネイル：ちゃんまろる様\nhttps://x.com/chanmar..."
+            }
+        ]
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -254,15 +278,7 @@
         "channel_url": "https://www.youtube.com/@NakiriAyame",
         "channel_name": "Nakiri Ayame Ch. 百鬼あやめ",
         "avatar_url": "https://yt3.googleusercontent.com/3CeLWGYb6cLUywTJzNt-UpITviNxeGNvtjhIqbV-AIybCqCoFw9onWtg91bjwpqvfEP9mfqIR4Q",
-        "videos": [
-            {
-                "video_id": "Bmp9uOLePNI",
-                "title": "【メン限】『ハリー・ポッターと不死鳥の騎士団』同時視聴会 member ship only【百鬼あやめ/ホロライブ】",
-                "date": "2025/06/13 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Bmp9uOLePNI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD26m-buIUTeSDtgI-uPIIMaxdOBQ",
-                "description": "- - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - -ഒ˖°\n\n\n　　👰ホロライブ ジューンブライドボイス2025👑\n　　https://shop.h..."
-            }
-        ]
+        "videos": []
     },
     "@NanashiMumei": {
         "channel_url": "https://www.youtube.com/@NanashiMumei",
@@ -457,15 +473,7 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": [
-            {
-                "video_id": "9cgHqbV5tIo",
-                "title": "【 #ホロ金策サバイバル 】最終日：勝ちまくってモテまくりたい！【角巻わため/ホロライブ４期生】",
-                "date": "2025/06/13 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/9cgHqbV5tIo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_y-yNrparsjlPGauHTtu1aKCZiA",
-                "description": "ホロメンと遊ぶの優先！あとはギャンブルや！！！\nタグ：#ホロ金策サバイバル\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.moj..."
-            }
-        ]
+        "videos": []
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -519,15 +527,7 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": [
-            {
-                "video_id": "RB_v0q_nI4M",
-                "title": "RAOOOO I just want to yap yap yap yap with my Chattini!",
-                "date": "2025/06/13 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/RB_v0q_nI4M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQ2fUlirnjYZANhh1FcGfvTTGpjg",
-                "description": "🎉Raora Panthera 2025 Birthday Merch🎉\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/raorapanthera_birthday_2025\nEN: https://shop.hololivepro.com/en/products/ra..."
-            }
-        ]
+        "videos": []
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
