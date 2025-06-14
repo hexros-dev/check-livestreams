@@ -106,7 +106,14 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ZyKl2N4BqFU",
+                "title": "【Elden Ring Nightreign】Reigning the night this time for sure",
+                "thumbnail": "https://i.ytimg.com/vi/ZyKl2N4BqFU/hqdefault.jpg?v=684d193c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjjT7IjwI6OB4QYZDG5AjMJ3t6QA",
+                "description": "w/ @KosekiBijou @holoen_ceciliaimmergreen \n\n#hololiveenglish  #ホロライブ \n\nSTREAM MY NEW ORIGINAL SONG, Diamond Girlfriend Feat.MOTSU▼\nhttps://youtu.be/EXM0EE_NpQc\n\n「Twitter」\nhttps://tw..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -160,7 +167,14 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "wXWmTKSnH1E",
+                "title": "【ELDEN RING NIGHTREIGN】I really want to, dodge roll with you~",
+                "thumbnail": "https://i.ytimg.com/vi/wXWmTKSnH1E/hqdefault.jpg?v=684d22f8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBezk5xNWLK3aCxaHYTTZnKdn-rOw",
+                "description": "WITH @IRyS and @holoen_ceciliaimmergreen \n\nThumbnail art: @Kukie_nyanTHANK YOU!\nhttps://x.com/Kukie_nyan/status/1931504410158620721\n\nThis game is being streamed and monetized after confirming..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -196,14 +210,7 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": [
-            {
-                "video_id": "eMLst7TM7RE",
-                "title": "【DRAWTSUDAN】let's just relax today #calliolive",
-                "thumbnail": "https://i.ytimg.com/vi/eMLst7TM7RE/hqdefault.jpg?v=684c316f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjG7YG94GRMMtg-zzPILzotxueqw",
-                "description": "ーーーーーーーーーーーーーーーー\nーーーーーーーーー\nBGM: https://x.com/BigRicePiano\nhttps://x.com/the_arkhand\nhttps://x.com/alterclad\n\nRequest from hololive Productions..."
-            }
-        ]
+        "videos": []
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
