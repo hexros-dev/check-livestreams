@@ -335,7 +335,14 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/gKitLHfMqsfmC26xRBBNBVE9jz4m0X-xAvcdPUwy8VPa4FCw0-XRxOKLvJZxm-lQnIDQU2rDA0k",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "TMWAPE8MXwk",
+                "title": "【 Stardew Valley 】#９ 精霊さん！ボクをバスに乗せてぇーーー！！！【ホロライブ/ ロボ子さん】",
+                "thumbnail": "https://i.ytimg.com/vi/TMWAPE8MXwk/hqdefault.jpg?v=684bc55a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8de1kPIlsl7dz6AIisxVGnt6-QQ",
+                "description": "＃ホロライブ　#hololive \nｘでは💬  #ロボ子生放送　でポストしてってね✨\nYoutubeの仕様でコメントや高評価ＧＯＯＤを押してくれるとチャンネルが..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -347,14 +354,7 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": [
-            {
-                "video_id": "D7VrtWg_BmI",
-                "title": "【爆弾解除】🚨指示厨VSワザップリスナーでさくらみこを爆弾から救え！！！！！！🚨【ホロライブ/さくらみこ】",
-                "thumbnail": "https://i.ytimg.com/vi/D7VrtWg_BmI/hqdefault.jpg?v=684d5417&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCGkRMN1s_Z5mRlmKe5qJ1LYu4iRA",
-                "description": "リスナーはマニュアルを見て指示コメをしてみこを爆弾から救えるのか❓\nマニュアルはこちら：https://www.bombmanual.com/ja/web/index.html\n\n⪩⪨　お知らせ..."
-            }
-        ]
+        "videos": []
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
