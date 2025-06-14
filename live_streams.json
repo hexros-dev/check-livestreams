@@ -244,14 +244,7 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": [
-            {
-                "video_id": "IEdSx_eb0l8",
-                "title": "【シビアなアイドル経営！？】Switch2でシャインポスト Be Your アイドル！元プロデューサーがゆく【尾丸ポルカ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/IEdSx_eb0l8/hqdefault.jpg?v=684ccf89&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDaidIht2DvWyX8ShT2oKfCY79LHA",
-                "description": "#switch2 #シャインポスト\nみんなを・・・武道館へ連れて行くんだ・・・！！\nポルカも行ってないのに！！！！！！\n\n配信タイトル： シャインポス..."
-            }
-        ]
+        "videos": []
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
@@ -323,7 +316,14 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "qmxGGNLgaPk",
+                "title": "【ELDEN RING NIGHTREIGN 】「エルデンリング ナイトレイン」夜の王さんと遊ぶ朝！【不知火フレア/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/qmxGGNLgaPk/hqdefault.jpg?v=684dcd0b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDeuNiKZ1ahYyY2KDHtAaXp3PjjyQ",
+                "description": "エルフレからプレイヤーを募集する際の条件\n・参加は一人一回まで\n・フレアが下手、迷子になって怒らないで←重要\n・楽しくプレイできる方..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
