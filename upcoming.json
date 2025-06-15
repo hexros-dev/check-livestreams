@@ -249,13 +249,6 @@
                 "description": "​\n▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸◂┄▹◃\n\n💙メンバーシップはこちらから ⬇️\nClick here for membership\nhttps://www.youtube.com/channel/UCjk2nKmHzgH5Xy-C5qYRd..."
             },
             {
-                "video_id": "0Uxx-r1xsbE",
-                "title": "【学園アイドルマスター】広のtrueEND見たい#３ ネタバレ有り【水宮枢／FLOW GLOW】#hololiveDEV_IS",
-                "date": "2025/06/15 14:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/0Uxx-r1xsbE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvkfkevQT8OjKv_L1ahfOCu9d9ZQ",
-                "description": "このゲーム実況は「バンダイナムコエンターテインメント ゲーム実況ポリシー」に基づき制作・配信されています。\nhttps://www.bandainamcoent.co.jp/info/v..."
-            },
-            {
                 "video_id": "rFw9SwoIVD8",
                 "title": "【#すう爆誕2025】初のお誕生日＆逆凸❕告知あり【水宮枢／FLOW GLOW】#hololiveDEV_IS",
                 "date": "2025/06/16 17:00:00",
@@ -342,7 +335,15 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "1dJtXx3oNfc",
+                "title": "【 ゴブリン・ノーム・ホーン 】バイト戦士で成り上がる！【 ホロライブ / 大神ミオ 】",
+                "date": "2025/06/15 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/1dJtXx3oNfc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDk8OT12bpwYAYsJE-1WDjIP2AyOA",
+                "description": "色んなバイトをして、つよくなって魔王に挑む・・？！\n\nサムネillustrator：おおはしこうぞうさん　https://x.com/h_kozo\n\nストアページ：https://store.steampo..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -463,15 +464,7 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": [
-            {
-                "video_id": "jCt3WMvhJCg",
-                "title": "【 ドラゴンクエスト11S 】完全初見！！ヨッチ村で過去のドラクエに再会しにいくぞ☺【鷹嶺ルイ/ホロライブ】※ネタバレあり",
-                "date": "2025/06/15 14:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/jCt3WMvhJCg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnaw2tPSADSmFW0bIDf_Aujrj2lQ",
-                "description": "楽しみにしてたヨッチ村回！！\n※タイトルの『※ネタバレあり』とは、【ゲーム本編のネタバレが含まれた配信】という意味でネタバレやアドバ..."
-            }
-        ]
+        "videos": []
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
