@@ -372,7 +372,15 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "it0Wp2zAveI",
+                "title": "【宝塚記念/同時視聴】上半期ラストG1！勝ちます！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "date": "2025/06/15 12:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/it0Wp2zAveI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTvTrTiawtIwTutajUbWcqxZjLxg",
+                "description": "15:40出走！\n\nサムネイルイラスト：鮨田はやりさま\nhttps://x.com/sushidahayari\nありがとうございます！\n\n\n\nねえ、いっしょに向こう側の景色を見に行かな..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -492,15 +500,7 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": [
-            {
-                "video_id": "ncMW7p39tF8",
-                "title": "【もぐもぐ 】ご飯食べながらお話しよ～！【轟はじめ/ReGLOSS】 #hololivedev_is",
-                "date": "2025/06/15 11:15:00",
-                "thumbnail": "https://i.ytimg.com/vi/ncMW7p39tF8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBpZ415jLNDE1FnI0vGPc0IKUSmnw",
-                "description": "素敵なサムネお写真：みんたろう様（@min_taroo）\nノープラン雑談！\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n✨宣伝✨\n新曲⚡BANZAI-轟はじめ【Origi..."
-            }
-        ]
+        "videos": []
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
