@@ -39,15 +39,7 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": [
-            {
-                "video_id": "m2ggGFAjh3s",
-                "title": "DAR DER DOR DINKUM",
-                "date": "2025/06/16 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/m2ggGFAjh3s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRaK_RMrY2N4ZX6u3GJlEE1f2CRQ",
-                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nGame Title: Dinkum\nStore Page: https://store.steampowered.com/app/1062520/Dinkum/\n\nーーーーーーーーー\nCHECK OUT RISU 5TH ANNIVERSAR..."
-            }
-        ]
+        "videos": []
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -143,7 +135,15 @@
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "-_cAWEgmccM",
+                "title": "【ゴブリン・ノーム・ホーン】オデ、働イテ魔王倒ス！！＜●＞【戌神ころね】",
+                "date": "2025/06/16 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/-_cAWEgmccM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFDx40gcq6u_pgyxutHDbAU_AvhQ",
+                "description": "Play Game : Goblin_Gnome_Horn ( steam )\nタグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nころねTwitter▶https://twitter.com/inug..."
+            }
+        ]
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
@@ -175,15 +175,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": [
-            {
-                "video_id": "J3itBpUq1Ds",
-                "title": "#3【 PsychoBreak/サイコブレイク 】完全初見！大絶叫注意【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "date": "2025/06/16 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/J3itBpUq1Ds/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBypRLHmr12jRDTN3hYe4Dqg4tKag",
-                "description": "----------------------------\n配信タイトル：PsychoBreak\nストアページ：https://store.steampowered.com/app/268050/The_Evil_Within/\n----------------------------\n\n\n✨メンバーシップ..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -195,15 +187,7 @@
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
         "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/ACubs_Mw4YtmgHDIIZvW_gZaPf_VR1wg9yffFLsq4Lrw-W7Md-0pK4Gob8OJebCYCmgrArsE",
-        "videos": [
-            {
-                "video_id": "h8KKOCakmGY",
-                "title": "【ELDEN RING NIGHTREIGN】完全初見🔰りりか社長と千速といくぞ！【虎金妃笑虎/ 輪堂千速/一条莉々華】※ネタバレあり",
-                "date": "2025/06/16 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/h8KKOCakmGY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDODwJPrHyVpgFZ3KRsvmMlWDnrdQ",
-                "description": "本ゲームは株式会社フロム・ソフトウェアに確認を得た上、「動画・画像の投稿に関するガイドライン」に則り配信・収益化を行なっております..."
-            }
-        ]
+        "videos": []
     },
     "@KosekiBijou": {
         "channel_url": "https://www.youtube.com/@KosekiBijou",
@@ -219,7 +203,7 @@
             {
                 "video_id": "0AGngU89nYY",
                 "title": "【ZOMILY】ZOMBIE IDOL IS IDOLING!!【Kureiji Ollie】",
-                "date": "2025/06/16 20:00:00",
+                "date": "2025/06/17 20:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/0AGngU89nYY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC__9GVRYL9ldsInTmygoq5yrkUMA",
                 "description": "#OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n==========================================\n\nThis is a membership stream, please don't clip any content or talk about topics said here unless I..."
             }
@@ -317,6 +301,13 @@
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
         "videos": [
             {
+                "video_id": "0_FKPOAbobA",
+                "title": "【ホロアース】おしゃれハウス内装つくるぞ～！！【ホロライブ/夏色まつり】",
+                "date": "2025/06/19 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/0_FKPOAbobA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlqlYXLpvJePvqTwoZ-sK89JTihA",
+                "description": "ホロアースDLはこちら→https://holoearth.com/\n\n7周年記念グッズ発売中！\nhttps://shop.hololivepro.com/products/natsuiromatsuri_anniversary_7th\n\n素敵なサムネイル→チヨ..."
+            },
+            {
                 "video_id": "sKxrRjruYIQ",
                 "title": "【歌枠】⋈SINGING! ⋈るーるるるん♪【ホロライブ/夏色まつり】",
                 "date": "2025/06/17 16:00:00",
@@ -391,15 +382,7 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": [
-            {
-                "video_id": "CZn61Egrj6w",
-                "title": "【ELDEN RING NIGHTREIGN】先輩と同期といざリムベルトへ！！！※ネタバレあり【一条莉々華 虎金妃笑虎 輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "date": "2025/06/16 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/CZn61Egrj6w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBadp7JxikZ7jtdZ5R1nWjK3FwCbw",
-                "description": "本ゲームは株式会社フロム・ソフトウェアに確認を得た上、「動画・画像の投稿に関するガイドライン」に則り配信・収益化を行なっております..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -471,15 +454,7 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": [
-            {
-                "video_id": "vFmk74Z4Jeo",
-                "title": "異色のマリパコラボ！ スーパー マリオパーティ ジャンボリー【獅白ぼたん/ホロライブ】",
-                "date": "2025/06/16 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/vFmk74Z4Jeo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCl4mctKlhwIR9op0ctAdtxxxH6Rg",
-                "description": "はちゃめちゃが押し寄せてくるマリパコラボ！\n\n📝参加者\nDJ SHIGE：https://x.com/shizenboueigun\n本間ひまわり：https://x.com/honmahimawari\nハイタニ：https://x.com/..."
-            }
-        ]
+        "videos": []
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
@@ -497,7 +472,15 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "3nNELq57d64",
+                "title": "【ホロの花札 】DEMO版！やってみる～！おばあちゃんとやったことある【轟はじめ/ReGLOSS】 #hololivedev_is",
+                "date": "2025/06/16 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/3nNELq57d64/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKuH7RAtlNksl6ng6gLbZqa9aPLw",
+                "description": "「ホロの花札」\n公式サイト ： https://holo-no-hanafuda.com/\nこの配信は『ホロの花札 - ゲーム配信に関するガイドライン』( https://holo-no-hanafuda.com/guidelines..."
+            }
+        ]
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
@@ -533,15 +516,7 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": [
-            {
-                "video_id": "EIw3fmDUh3A",
-                "title": "【同時視聴】名作と言われる『28日後…』見ていくぅ！！【 雪花ラミィ /ホロライブ】",
-                "date": "2025/06/16 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/EIw3fmDUh3A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1-Q08FOhNjBYZDYPeXineg5K_9g",
-                "description": "CMなし、アマプラ、吹き替えで見ます！！\n\n感想は #らみらいぶ で呟いて頂けたら嬉しいです！\n\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧..."
-            }
-        ]
+        "videos": []
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",

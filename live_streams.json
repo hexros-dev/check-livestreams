@@ -39,7 +39,14 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "m2ggGFAjh3s",
+                "title": "DAR DER DOR DINKUM",
+                "thumbnail": "https://i.ytimg.com/vi/m2ggGFAjh3s/hqdefault.jpg?v=685000f4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRaK_RMrY2N4ZX6u3GJlEE1f2CRQ",
+                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nGame Title: Dinkum\nStore Page: https://store.steampowered.com/app/1062520/Dinkum/\n\nーーーーーーーーー\nCHECK OUT RISU 5TH ANNIVERSAR..."
+            }
+        ]
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -149,7 +156,14 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "J3itBpUq1Ds",
+                "title": "#3【 PsychoBreak/サイコブレイク 】完全初見！大絶叫注意【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "thumbnail": "https://i.ytimg.com/vi/J3itBpUq1Ds/hqdefault.jpg?v=684f8c67&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBypRLHmr12jRDTN3hYe4Dqg4tKag",
+                "description": "----------------------------\n配信タイトル：PsychoBreak\nストアページ：https://store.steampowered.com/app/268050/The_Evil_Within/\n----------------------------\n\n\n✨メンバーシップ..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -161,7 +175,14 @@
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
         "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/ACubs_Mw4YtmgHDIIZvW_gZaPf_VR1wg9yffFLsq4Lrw-W7Md-0pK4Gob8OJebCYCmgrArsE",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "h8KKOCakmGY",
+                "title": "【ELDEN RING NIGHTREIGN】完全初見🔰りりか社長と千速といくぞ！【虎金妃笑虎/ 輪堂千速/一条莉々華】※ネタバレあり",
+                "thumbnail": "https://i.ytimg.com/vi/h8KKOCakmGY/hqdefault.jpg?v=684fbfff&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDODwJPrHyVpgFZ3KRsvmMlWDnrdQ",
+                "description": "本ゲームは株式会社フロム・ソフトウェアに確認を得た上、「動画・画像の投稿に関するガイドライン」に則り配信・収益化を行なっております..."
+            }
+        ]
     },
     "@KosekiBijou": {
         "channel_url": "https://www.youtube.com/@KosekiBijou",
@@ -185,14 +206,7 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": [
-            {
-                "video_id": "rFw9SwoIVD8",
-                "title": "【#すう爆誕2025】初のお誕生日＆逆凸❕告知あり【水宮枢／FLOW GLOW】#hololiveDEV_IS",
-                "thumbnail": "https://i.ytimg.com/vi/rFw9SwoIVD8/hqdefault.jpg?v=6849d8c5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_yp-E4dzya32S149if-NBYEaqKQ",
-                "description": "​https://shop.hololivepro.com/products/mizumiyasu_birthday_2025\n▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸◂┄▹◃\n\n💙メンバーシップはこちらから ⬇️\nClick here..."
-            }
-        ]
+        "videos": []
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -294,7 +308,14 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "CZn61Egrj6w",
+                "title": "【ELDEN RING NIGHTREIGN】先輩と同期といざリムベルトへ！！！※ネタバレあり【一条莉々華 虎金妃笑虎 輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "thumbnail": "https://i.ytimg.com/vi/CZn61Egrj6w/hqdefault.jpg?v=684ff5bd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBadp7JxikZ7jtdZ5R1nWjK3FwCbw",
+                "description": "本ゲームは株式会社フロム・ソフトウェアに確認を得た上、「動画・画像の投稿に関するガイドライン」に則り配信・収益化を行なっております..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -349,7 +370,14 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "vFmk74Z4Jeo",
+                "title": "異色のマリパコラボ！ スーパー マリオパーティ ジャンボリー【獅白ぼたん/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/vFmk74Z4Jeo/hqdefault.jpg?v=684f9333&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCl4mctKlhwIR9op0ctAdtxxxH6Rg",
+                "description": "はちゃめちゃが押し寄せてくるマリパコラボ！\n\n📝参加者\nDJ SHIGE：https://x.com/shizenboueigun\n本間ひまわり：https://x.com/honmahimawari\nハイタニ：https://x.com/..."
+            }
+        ]
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
@@ -403,7 +431,14 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "EIw3fmDUh3A",
+                "title": "【同時視聴】名作と言われる『28日後…』見ていくぅ！！【 雪花ラミィ /ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/EIw3fmDUh3A/hqdefault.jpg?v=684fa1c3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1-Q08FOhNjBYZDYPeXineg5K_9g",
+                "description": "CMなし、アマプラ、吹き替えで見ます！！\n\n感想は #らみらいぶ で呟いて頂けたら嬉しいです！\n\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧..."
+            }
+        ]
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
