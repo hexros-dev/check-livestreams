@@ -79,6 +79,13 @@
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
         "videos": [
             {
+                "video_id": "-UsVVWSXQyg",
+                "title": "【 #朝こよ 】おはこよ～！火曜日の朝は朝こよ！☀ #237 【博衣こより/hololive】",
+                "date": "2025/06/17 05:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/-UsVVWSXQyg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxm-y7jPDyJSnNcdhLPLkY2-TBDA",
+                "description": "💿1stアルバム「FIRST STEP」発売中！全曲新録！成長した歌を聴いてね🎶\n　https://cover.lnk.to/SdOKbq\n\n#朝こよ を観れば日本ニキも海外ニキもホロライブ..."
+            },
+            {
                 "video_id": "mb9HwUshB1s",
                 "title": "【ロックマンX4】ゼロ編！初めてのコヨゼロ・・・4ボス倒したところから！！ #2 【博衣こより/ホロライブ】",
                 "date": "2025/06/16 18:00:00",
@@ -274,7 +281,15 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Lv9jDQIer7E",
+                "title": "【member's only】encountering more horrors in crow country #calliolive",
+                "date": "2025/06/16 19:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/Lv9jDQIer7E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDiDEBWCWE0X-LwA2c_ArCS9Bu7g",
+                "description": "ーーーーーーーーーーーーーーーー\nーーーーーーーーー\nBGM: https://x.com/BigRicePiano\nhttps://x.com/the_arkhand\nhttps://x.com/alterclad\n\nRequest from hololive Productions..."
+            }
+        ]
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
