@@ -69,14 +69,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "-UsVVWSXQyg",
-                "title": "【 #朝こよ 】もふこよのアレを初公開！？火曜日の朝は朝こよ！☀ #237 【博衣こより/hololive】",
-                "thumbnail": "https://i.ytimg.com/vi/-UsVVWSXQyg/hqdefault.jpg?v=684fafb5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxm-y7jPDyJSnNcdhLPLkY2-TBDA",
-                "description": "💿1stアルバム「FIRST STEP」発売中！全曲新録！成長した歌を聴いてね🎶\n　https://cover.lnk.to/SdOKbq\n\n#朝こよ を観れば日本ニキも海外ニキもホロライブ..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -160,7 +153,14 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Sp_ME95lqwk",
+                "title": "【DELTARUNE】Looking at Biboo fills you with a certain POWER【CHAPTER 3】",
+                "thumbnail": "https://i.ytimg.com/vi/Sp_ME95lqwk/hqdefault.jpg?v=68508843&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCG87twNQaABHvtIpsja0K4pY9PCw",
+                "description": "Thumbnail art: @MukagoE12324 thank you!\nhttps://x.com/MukagoE12324/status/1925906940326015262\n====================\n✧Twitter: https://twitter.com/kosekibijou\n\n✧Hashtags: \n#biboo  \nAdvent:..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
