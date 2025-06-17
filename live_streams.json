@@ -51,14 +51,7 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": [
-            {
-                "video_id": "vSvOxZp6Nj4",
-                "title": "【HOLOEN 3RD CONCERT CHATTING】together hand in hand, all for one 🐾 【#holoAllforOne FUWAMOCO】",
-                "thumbnail": "https://i.ytimg.com/vi/vSvOxZp6Nj4/hqdefault.jpg?v=685053a0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDY0aqIahUnDI7rie7YqgYOkB6zVw",
-                "description": "excitement for the summer and more ✨\nwe wanna hear your thoughts and questions about the best way to enjoy hololive concerts so let's chat!!\nlovely illustrations by @UraMitsuru1206 💓\n..."
-            }
-        ]
+        "videos": []
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -113,7 +106,14 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "4RmRl1jl75k",
+                "title": "【Clair Obscur: Expedition 33】The Persevering Baguette",
+                "thumbnail": "https://i.ytimg.com/vi/4RmRl1jl75k/hqdefault.jpg?v=68507c7b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJDvz6sDN3guj53SPdy-CidNoErQ",
+                "description": "I want to eat soft bread\n\n#hololiveenglish  #ホロライブ \n\nSTREAM MY NEW ORIGINAL SONG, Diamond Girlfriend Feat.MOTSU▼\nhttps://youtu.be/EXM0EE_NpQc\n\n「Twitter」\nhttps://twitter.com/irys_en..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -344,14 +344,7 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": [
-            {
-                "video_id": "X3QkbEOLbrs",
-                "title": "【ELDEN RING NIGHTREIGN 】夜の王「早くしないと夜が明けちゃうよぉ💦」【不知火フレア/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/X3QkbEOLbrs/hqdefault.jpg?v=68505531&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDa_XZtF8K5Sxtk4tvgMJxdzI1gRw",
-                "description": "エルフレからプレイヤーを募集する際の条件\n・参加は一人一回まで\n・フレアが下手、迷子になって怒らないで←重要\n・楽しくプレイできる方..."
-            }
-        ]
+        "videos": []
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
