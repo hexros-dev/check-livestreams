@@ -166,7 +166,14 @@
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ItXSbQAYMB0",
+                "title": "【DINKUM】 COOLING OFF WITH SOME DINKUM!! RELAAX~ 【Kureiji Ollie】",
+                "thumbnail": "https://i.ytimg.com/vi/ItXSbQAYMB0/hqdefault.jpg?v=68527e24&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDB87rCjvhK214-Lp1O9kyrwV7VlA",
+                "description": "#OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n==========================================\n\nThumbnail art by https://x.com/shusuchii/\nhttps://x.com/shusuchii/status/1930470858319077754/photo/1..."
+            }
+        ]
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
@@ -424,7 +431,14 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "42h4ydJS3zk",
+                "title": "【#風真いろは生誕LIVE2025】告知&ゲストあり🎈これが風真いろはです！~Reversible~【風真いろは/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/42h4ydJS3zk/hqdefault.jpg?v=684d5a13&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBYWkIuUeTvcBERErAA-qdttT7yg",
+                "description": "*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――\n\n💚風真いろはからのおしらせ💚\n\n💚風真いろは 100万人記念グ..."
+            }
+        ]
     },
     "@mikenekoko": {
         "channel_url": "https://www.youtube.com/@mikenekoko",
@@ -442,19 +456,19 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": [
-            {
-                "video_id": "2Qw3aE-wTXE",
-                "title": "【料理】#BASEFOOD を激ウマアレンジして食べる！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
-                "thumbnail": "https://i.ytimg.com/vi/2Qw3aE-wTXE/hqdefault.jpg?v=6851c769&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBpOBxIeJRmxyaD2EJHqUxpN-lfYw",
-                "description": "プロモーション：BASE FOOD\n【ご購入はこちらから！】\nhttps://shop.basefood.co.jp/lp/mix?coupon=PEKORA&argument=WTgLzY2D&dmai=a68464cc41064c\n\n【専用クーポン】\nクーポン..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "TUbjoxtNqzo",
+                "title": "【賛否】首をつっこんだりつっこまなかったり雑談　#結城さくな生放送",
+                "thumbnail": "https://i.ytimg.com/vi/TUbjoxtNqzo/hqdefault.jpg?v=68526822&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASLkKrv8knnrED6PRtT6ZJUFB_rg",
+                "description": "🎀グッズ・ボイス販売はこちら🐾\nhttps://yuki-sakuna.stores.jp/\n\n🎀歌ってみた動画🐾\nhttps://youtube.com/playlist?list=PLErsMirGq93vRw-CcRaaZfR4QVxl2uBsb&si=BRmEr8erE6aR-UJ..."
+            }
+        ]
     }
 }
