@@ -111,7 +111,15 @@
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
         "channel_name": "Suisei Channel",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "u8HQOTddXeE",
+                "title": "【雑談】アーティストではありません。一般オタクです。【ホロライブ / 星街すいせい】",
+                "date": "2025/06/18 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/u8HQOTddXeE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLHPvhp9JsUspWb94o1lgzSKOTgA",
+                "description": "⇩　星街すいせい メンバー限定カレンダー2025　はこちら　⇩\nhttps://shop.hololivepro.com/products/hoshimachisuisei_membersonly_2025calendar\n\n購入方法の詳細は下記..."
+            }
+        ]
     },
     "@HoushouMarine": {
         "channel_url": "https://www.youtube.com/@HoushouMarine",
