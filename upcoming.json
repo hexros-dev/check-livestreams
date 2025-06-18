@@ -243,13 +243,6 @@
                 "date": "2025/06/21 10:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/67sgjyj2iPY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4p_wQOjqHe2mP-8Ng15P6u_0Qsw",
                 "description": "サムネ\nBAQ\n\n\n新情報は公式Xから要フォロー！\n▼ホロカ公式HP：キュリアスユニバース商品ページ\nhttps://hololive-official-cardgame.com/products/post/curious-univers..."
-            },
-            {
-                "video_id": "VOghLyFVHQ0",
-                "title": "【同時視聴】懐古厨厄介μ'sオタ卒業、AqoursフィナーレLIVE前にラブライブサンシャインに触れる。【ラプラス・ダークネス】",
-                "date": "2025/06/18 13:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/VOghLyFVHQ0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCin-iKVrfq91qxkuARiI5zg6lQgw",
-                "description": "ワイはここで見る⇩\nhttps://www.b-ch.com/titles/3547/001\n\nサムネ\nhttps://x.com/niaonano\nhttps://x.com/sakimr1020/status/1810305586426417447\n\n同時視聴用タイマー SyncTimer..."
             }
         ]
     },
@@ -271,7 +264,15 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "569F7M7QSTQ",
+                "title": "【Switch 2】マリカワールドで初走行！！！！！！！！！！！！！【 桃鈴ねね / hololive 】",
+                "date": "2025/06/18 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/569F7M7QSTQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKOPbyvqYX6ZSxv5dHQHfaaa6pNw",
+                "description": "できるかなぁ～～～～～～～～～～～～～～～✨\n⸜♡⸝MemberShipに入ったらもっとねねを知れるﾖ\nhttps://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA/join..."
+            }
+        ]
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
