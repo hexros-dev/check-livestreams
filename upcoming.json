@@ -99,15 +99,7 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": [
-            {
-                "video_id": "RDTP3358Jko",
-                "title": "【 Minecraft 】新ホロ鯖！\"んな電鉄\" 線路を繋げていくのら！！！＃８【姫森ルーナ/ホロライブ】",
-                "date": "2025/06/18 14:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/RDTP3358Jko/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwDSjVD2NSG-DkxYZKQelEYSxIuw",
-                "description": "サムネイラスト\n　みなもさん　https://twitter.com/Minamo_da\n\nマインクラフト新ホロ鯖再生リスト\nhttps://www.youtube.com/playlist?list=PL6gUpTCMieF56nDTQ8RCVqkzhKLpabaTO..."
-            }
-        ]
+        "videos": []
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -628,6 +620,14 @@
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "TUbjoxtNqzo",
+                "title": "【賛否】首をつっこんだりつっこまなかったり雑談　#結城さくな生放送",
+                "date": "2025/06/18 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/TUbjoxtNqzo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASLkKrv8knnrED6PRtT6ZJUFB_rg",
+                "description": "🎀グッズ・ボイス販売はこちら🐾\nhttps://yuki-sakuna.stores.jp/\n\n🎀歌ってみた動画🐾\nhttps://youtube.com/playlist?list=PLErsMirGq93vRw-CcRaaZfR4QVxl2uBsb&si=BRmEr8erE6aR-UJ..."
+            }
+        ]
     }
 }
