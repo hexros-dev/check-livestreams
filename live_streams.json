@@ -75,14 +75,7 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": [
-            {
-                "video_id": "RDTP3358Jko",
-                "title": "【 Minecraft 】新ホロ鯖！\"んな電鉄\" 線路を繋げていくのら！！！＃８【姫森ルーナ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/RDTP3358Jko/hqdefault.jpg?v=68514dbb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwDSjVD2NSG-DkxYZKQelEYSxIuw",
-                "description": "サムネイラスト\n　みなもさん　https://twitter.com/Minamo_da\n\nマインクラフト新ホロ鯖再生リスト\nhttps://www.youtube.com/playlist?list=PL6gUpTCMieF56nDTQ8RCVqkzhKLpabaTO..."
-            }
-        ]
+        "videos": []
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -281,7 +274,14 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "UQXxEwf7T6Q",
+                "title": "unarchived - SIKE THERE IS STREAM TODAY (it's bass again)",
+                "thumbnail": "https://i.ytimg.com/vi/UQXxEwf7T6Q/hqdefault.jpg?v=2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtmiFjE46vpdSJRJxiD70rpea9eA",
+                "description": "Reine's new original song now 「Yummy Yum Yummy!」AVAILABLE on iTunes, Apple Music, Spotify etc. Click to stream!\nパヴォリア・レイネ新曲「ヤミヤムヤミ」\nhttps://cover.lnk.to/mU..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
