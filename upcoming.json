@@ -346,7 +346,15 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "cMwqYbAT-3w",
+                "title": "【The Alters】I'm You And You're Me | #1",
+                "date": "2025/06/18 10:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/cMwqYbAT-3w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVIDc8P-3-vMCOJ1Czm883i654Vg",
+                "description": "Game Title: The Alters\nStore Page: https://store.steampowered.com/app/1601570/The_Alters/\nOfficial Site: https://altersthegame.com/\n\n[Twitter]\nhttps://twitter.com/ourokronii\n\n[Thumbnail Art]..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
@@ -557,15 +565,7 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": [
-            {
-                "video_id": "rcsPh4WD_U0",
-                "title": "【The Ghost Train】Next stop: PANIC STATION",
-                "date": "2025/06/18 09:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/rcsPh4WD_U0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDktJB8dgTfPmSpeTtV4XV0MfqlSQ",
-                "description": "『 X formely Twitter 』\nhttps://x.com/raorapanthera\n\n『 Hashtags 』\n╰┈➤ Live  #CiaoRaora\n╰┈➤ Fanarts  #RaorArt\n╰┈➤ Clips  #RaraWara\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
-            }
-        ]
+        "videos": []
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
