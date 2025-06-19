@@ -47,15 +47,7 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": [
-            {
-                "video_id": "9gUAnV6MOQ4",
-                "title": "T - Pose",
-                "date": "2025/06/19 20:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/9gUAnV6MOQ4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJoZ7lNDUXgOuyv_liq8iqV_e7TQ",
-                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nGame title: to a T\nStore page : https://store.steampowered.com/app/1875320/to_a_T/\n\nーーーーーーーーー\nCHECK OUT RISU 5TH ANNIVERSA..."
-            }
-        ]
+        "videos": []
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -274,7 +266,15 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "wmHSuiFs8z0",
+                "title": "【member's only】watching a movie...stay tuned! #calliolive",
+                "date": "2025/06/20 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/wmHSuiFs8z0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzPWmwiMppn7Jb70i_BM915CK5Iw",
+                "description": "deciding movie shortly!\n\nーーーーーーーーーーーーーーーー\nーーーーーーーーー\nBGM: https://x.com/BigRicePiano\nhttps://x.com/the_arkhand\nhttps://x.com/alterclad\n\nRequest..."
+            }
+        ]
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -313,6 +313,13 @@
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
         "videos": [
+            {
+                "video_id": "IH85BduwsGo",
+                "title": "僕と一緒に深夜のおはなしｼﾖｼﾖ",
+                "date": "2025/06/19 23:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/IH85BduwsGo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKk5hGI6HfwhpE3EE53Wl_ROb_UQ",
+                "description": "❥・・ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ・・❥\n\n猫又おかゆ 2nd Live.『ぺるそにゃ～りすぺくと』\n‣ https://personyarespect.hololivepro.com/\n▼公式..."
+            },
             {
                 "video_id": "MVU6IvNzQUQ",
                 "title": "【 🟣メン限 】ぺるそにゃ～りすぺくと同時視聴しよう😸💜✦【 猫又おかゆ/ホロライブ 】",
@@ -565,21 +572,21 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "vi6D2Bn1-x0",
+                "title": "【ART CHALLENGE】DRAWING ALL HOLO EN CHALLENGE!!!",
+                "date": "2025/06/20 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/vi6D2Bn1-x0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBp2xL_fLcRqXzqPFUltHGf2QKsEw",
+                "description": "『 X formely Twitter 』\nhttps://x.com/raorapanthera\n\n『 Hashtags 』\n╰┈➤ Live  #CiaoRaora\n╰┈➤ Fanarts  #RaorArt\n╰┈➤ Clips  #RaraWara\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
+            }
+        ]
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
-        "videos": [
-            {
-                "video_id": "MF8kAVCPa_0",
-                "title": "【振り返り雑談】#風真いろは生誕LIVE2025 お疲れ様でした✨裏話もあるよ！【風真いろは/ホロライブ】",
-                "date": "2025/06/19 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/MF8kAVCPa_0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAa5exq573NClHM5-xZAd6akJjdzw",
-                "description": "サムネイルイラスト\nhttps://x.com/koenjium/status/1934989662248190283\n\n本編\nhttps://youtube.com/live/42h4ydJS3zk\n\n*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*..."
-            }
-        ]
+        "videos": []
     },
     "@mikenekoko": {
         "channel_url": "https://www.youtube.com/@mikenekoko",
