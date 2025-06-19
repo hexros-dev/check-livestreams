@@ -126,14 +126,7 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
-        "videos": [
-            {
-                "video_id": "H7LBUW82_Qw",
-                "title": "【エルデンリング ナイトレイン】王になる―――― 【一条莉々華/hololive DEV_IS　ReGLOSS】",
-                "thumbnail": "https://i.ytimg.com/vi/H7LBUW82_Qw/hqdefault.jpg?v=6853e63c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMPWEaZg9ey3R9evyc88MpZGLGYg",
-                "description": "にこちはりりでナイトレインリベンジマッチ！！！\n楽しみ～～～～～～🥰\n\n本ゲームは株式会社フロム・ソフトウェアに確認を得た上、「動画・..."
-            }
-        ]
+        "videos": []
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -254,7 +247,14 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "IH85BduwsGo",
+                "title": "僕と一緒に深夜のおはなしｼﾖｼﾖ",
+                "thumbnail": "https://i.ytimg.com/vi/IH85BduwsGo/hqdefault.jpg?v=685412e0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKk5hGI6HfwhpE3EE53Wl_ROb_UQ",
+                "description": "❥・・ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ・・❥\n\n猫又おかゆ 2nd Live.『ぺるそにゃ～りすぺくと』\n‣ https://personyarespect.hololivepro.com/\n▼公式..."
+            }
+        ]
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -358,27 +358,13 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": [
-            {
-                "video_id": "U6KYVMYgAz4",
-                "title": "【ELDEN RING NIGHTREIGN 】同期と「エルデンリング ナイトレイン」サイレントアプデきちゃ！【不知火フレア/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/U6KYVMYgAz4/hqdefault.jpg?v=6853eb99&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_fnhd0wkFaZXhkrCIAGvG0VpThA",
-                "description": "@usadapekora たぶん鉄の目か追跡者\n@ShiroganeNoel たぶん無頼漢\n@ShiranuiFlare たぶん追跡者か執行者か隠者\n\n\n■Newシングル「薄明光線」🎧\n💿各種音楽サ..."
-            }
-        ]
+        "videos": []
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": [
-            {
-                "video_id": "ZILZ5NkAlUg",
-                "title": "【エルデンリング ナイトレイン】愉快な3人で今日も夜を渡ろおおお！！！【白銀ノエル/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/ZILZ5NkAlUg/hqdefault.jpg?v=6853dd15&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQRHz4_DgSeDo-fDTNx6C9XQm5tA",
-                "description": "夜を渡る者たち\n@usadapekora ぺこらっ丁！今日も宜しくお願いｼﾏｽ！！！\n@ShiranuiFlare ドハマり中と噂のフレア～！今日はキャラ何だろう？👀ﾜｸ..."
-            }
-        ]
+        "videos": []
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -438,14 +424,7 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": [
-            {
-                "video_id": "SBIcXvqVmA4",
-                "title": "【Nintendo Switch 2 のひみつ展】ひみつを暴露していきますか…！【 雪花ラミィ /ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/SBIcXvqVmA4/hqdefault.jpg?v=6853d656&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcRcsUEfhyMGOcETO3ZdvZTJJ-pw",
-                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n感想は #らみらいぶ で呟いて頂けたら嬉しいです！\n\n୨୧┈┈┈┈..."
-            }
-        ]
+        "videos": []
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
@@ -487,14 +466,7 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
-        "videos": [
-            {
-                "video_id": "MF8kAVCPa_0",
-                "title": "【振り返り雑談】#風真いろは生誕LIVE2025 お疲れ様でした✨裏話もあるよ！【風真いろは/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/MF8kAVCPa_0/hqdefault.jpg?v=6853d3b5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAa5exq573NClHM5-xZAd6akJjdzw",
-                "description": "サムネイルイラスト\nhttps://x.com/koenjium/status/1934989662248190283\n\n本編\nhttps://youtube.com/live/42h4ydJS3zk\n\n*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*..."
-            }
-        ]
+        "videos": []
     },
     "@mikenekoko": {
         "channel_url": "https://www.youtube.com/@mikenekoko",
@@ -512,14 +484,7 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": [
-            {
-                "video_id": "W4GyTZgFUjU",
-                "title": "【コラボ】3人でナイトレインまだ見ぬボスを倒す！！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
-                "thumbnail": "https://i.ytimg.com/vi/W4GyTZgFUjU/hqdefault.jpg?v=6853dd58&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRdudShaXZakyXZy1WgkC20mkgTQ",
-                "description": "夜を駆ける者たち\n@ShiranuiFlare \n@ShiroganeNoel \n@usadapekora \n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
