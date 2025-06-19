@@ -275,7 +275,14 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "MVt0bsw4o5E",
+                "title": "【Elden Ring Nightreign】Carry Me With Chat",
+                "thumbnail": "https://i.ytimg.com/vi/MVt0bsw4o5E/hqdefault.jpg?v=685360e0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBj9M4yU5OdndVQsCeAHVVEeKjoEA",
+                "description": "This game is being streamed and monetized according to the image & video guidelines, with permission from FromSoftware, Inc.\nhttps://www.fromsoftware.jp/jp/guidelines_video.html\n\n[Twitter]..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
