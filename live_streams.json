@@ -412,7 +412,14 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "mW1-0BTSQg0",
+                "title": "【Justice 1 Year Anniversary】 Operation DECODE",
+                "thumbnail": "https://i.ytimg.com/vi/mW1-0BTSQg0/hqdefault.jpg?v=6852d9d5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkB7B02y4WCGminK2DGudey61_Ng",
+                "description": "#Justice1YR\n\n@holoen_ceciliaimmergreen @holoen_erbloodflame @holoen_raorapanthera \n\n[Special Thanks]  \nRiddleTimez Co., Ltd.  \nWebsite:  \nhttps://www.nazotoki-riddle.com/  \nX:  \nhttps://x.com/Riddl..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
