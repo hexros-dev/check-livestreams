@@ -124,7 +124,14 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "zuUXnRD9XeM",
+                "title": "【帰ってきた魔界村】STAGE２：『火炎の町』孤高の騎士でクリアできるまで耐久配信【ホロライブ DEV_IS 響咲リオナ】",
+                "thumbnail": "https://i.ytimg.com/vi/zuUXnRD9XeM/hqdefault.jpg?v=6852b2ed&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApDfUErN81D6r_IsMwSND_AJqHbQ",
+                "description": "この動画およびライブは\n株式会社カプコンの利用許諾を受けて配信しています\n帰ってきた 魔界村\n©CAPCOM CO., LTD. ALL RIGHTS RESERVED.\n\n\nサムネイラスト..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -142,14 +149,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": [
-            {
-                "video_id": "YlLLrzYQVCY",
-                "title": "【歌枠/KARAOKE】初めての縦型歌枠【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "thumbnail": "https://i.ytimg.com/vi/YlLLrzYQVCY/hqdefault.jpg?v=68560ddf&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfUDcxLLkL4Zm_VVjeONwL_kDd5Q",
-                "description": "サムネイルの素敵なイラスト  　すずなみさん　https://x.com/suzunami_illust\n\n✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧\n\nhololive DEV_ISからデ..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
