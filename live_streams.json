@@ -63,7 +63,14 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Ap3c8rDNAHg",
+                "title": "≪REPO COLLAB≫ channeling peak extrovert energy",
+                "thumbnail": "https://i.ytimg.com/vi/Ap3c8rDNAHg/hqdefault.jpg?v=685643d5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA80pWKThApNZCascELb387Dxisaw",
+                "description": "ハコ太郎マジで頑張ってる。\n陽キャの力くれ。\n\nPLAYING WITH: \n@YukokuRoberu \n@KaguraMea \n@shiranamiramune \nhttps://www.twitch.tv/day1lol \n\nThumbnail Art: https://x.com/iennie_/st..."
+            }
+        ]
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -105,7 +112,14 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "-8LXNW18kAk",
+                "title": "【メンバー限定】ゆるゆるお話したいじゃん～【一条莉々華/hololive DEV_IS　ReGLOSS】",
+                "thumbnail": "https://i.ytimg.com/vi/-8LXNW18kAk/hqdefault.jpg?v=68564d63&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBz8ZtIWIw2YenqWqGZ0wgVQGr6mQ",
+                "description": "たのしみ～🥰\n\n🔽素敵なサムネイラスト🔽\nSalt-less 🌃 Vgen Cms Open様\n@NNNhan_99\n\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧\n\n合言葉は「可愛い！..."
+            }
+        ]
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -117,14 +131,7 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": [
-            {
-                "video_id": "zuUXnRD9XeM",
-                "title": "【帰ってきた魔界村】STAGE２：『火炎の町』孤高の騎士でクリアできるまで耐久配信【ホロライブ DEV_IS 響咲リオナ】",
-                "thumbnail": "https://i.ytimg.com/vi/zuUXnRD9XeM/hqdefault.jpg?v=6852b2ed&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApDfUErN81D6r_IsMwSND_AJqHbQ",
-                "description": "この動画およびライブは\n株式会社カプコンの利用許諾を受けて配信しています\n帰ってきた 魔界村\n©CAPCOM CO., LTD. ALL RIGHTS RESERVED.\n\n\nサムネイラスト..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -280,7 +287,14 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "sL8n81wYlA4",
+                "title": "【ELDEN RING NIGHTREIGN】ソロでいく！！三つ首の獣！！！！　※ネタバレあり【 輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "thumbnail": "https://i.ytimg.com/vi/sL8n81wYlA4/hqdefault.jpg?v=68562f4d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0vhCIJ_5PhA6YUCynWxDQx-IL-g",
+                "description": "本ゲームは株式会社フロム・ソフトウェアに確認を得た上、「動画・画像の投稿に関するガイドライン」に則り配信・収益化を行なっております..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -305,14 +319,7 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": [
-            {
-                "video_id": "6CP7R0Q0OOc",
-                "title": "【 マリオカート8DX 】８位以下即終了‼これが最後かも知れないだろ❓【ホロライブ/さくらみこ】",
-                "thumbnail": "https://i.ytimg.com/vi/6CP7R0Q0OOc/hqdefault.jpg?v=68568d94&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0Y1E8EbxOMkGYIT_2eoktzi4Vvw",
-                "description": "そろそろ本気、いいっすか？？？？？？？？\n\n⪩⪨　お知らせ/ɪɴғᴏ\n￣￣￣￣￣￣￣￣￣￣￣￣￣\n　🌸さくらみこ1st Live \"flower fantasista!\" \n..."
-            }
-        ]
+        "videos": []
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
@@ -385,14 +392,7 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": [
-            {
-                "video_id": "sfRNDgfXKFo",
-                "title": "【#BASEFOOD】実食！BASEFOOD！耐えろ！みんなの飯テロ画像！【角巻わため/ホロライブ４期生】",
-                "thumbnail": "https://i.ytimg.com/vi/sfRNDgfXKFo/hqdefault.jpg?v=6855d54f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZ75TEz8qufFp1NJYzs-FfbJIItA",
-                "description": "プロモーション：BASE FOOD\n\n【ご購入はこちらから！】\nhttps://shop.basefood.co.jp/lp/mix?coupon=WATAME&argument=WTgLzY2D&dmai=a68466ca9eed15\n\n【専用クーポン】\nクーポン..."
-            }
-        ]
+        "videos": []
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -477,7 +477,14 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "GPDBf8K2dHU",
+                "title": "【ホロカ開封】新情報公開アリ！ホロカ第4弾を12BOX開封してサイン入りSECカード当てるぞ！ぺこ！【ホロライブ/兎田ぺこら】",
+                "thumbnail": "https://i.ytimg.com/vi/GPDBf8K2dHU/hqdefault.jpg?v=68568c88&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAEx-uS1vLYc7TyHX12oVxSjKRSLQ",
+                "description": "なにが公開されるぺこなんや！\n\nサムネイラスト：パセリさん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usad..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
