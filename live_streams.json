@@ -40,14 +40,7 @@
         "channel_url": "https://www.youtube.com/@AnyaMelfissa",
         "channel_name": "Anya Melfissa Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz",
-        "videos": [
-            {
-                "video_id": "V4vSdC8Hfgs",
-                "title": "【GIRLS MADE PUDDING】Searching for the Truest Pudding at the End of the World【holoID | Anya Melfissa】",
-                "thumbnail": "https://i.ytimg.com/vi/V4vSdC8Hfgs/hqdefault.jpg?v=68560ea3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxkC6cothB4tGJIv4pp0pop3XhZQ",
-                "description": "Support me here/ドネーション↓\nStreamlabs: https://streamlabs.com/anyamelfissachhololive-id/tip\nSociaBuzz(Local Donation): https://sociabuzz.com/anyamelfissa/tribe \n\n--\nGame title：GIRLS..."
-            }
-        ]
+        "videos": []
     },
     "@AyundaRisu": {
         "channel_url": "https://www.youtube.com/@AyundaRisu",
@@ -264,7 +257,14 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "yHRWkqhUwiM",
+                "title": "【歌枠】ロボみおーんでオフコラボカラオケ大会！！！【 ロボ子さん / 大神ミオ 】",
+                "thumbnail": "https://i.ytimg.com/vi/yHRWkqhUwiM/hqdefault.jpg?v=68563579&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBeMtEhtxZvXKb_xOQgzJmZGw3KOw",
+                "description": "２人で一緒に歌います🎤カラオケだ～～～～～✨✨\n※時間は変更になる可能性あります！\n\nロボ子しぇんぱい 🤖 @Robocosan \n✣✣–––..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -294,7 +294,14 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "3jqvVolt0c8",
+                "title": "【 BIOHAZARD 7 DLC 】　ヒーローじゃない？？　※ネタバレ注意【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "thumbnail": "https://i.ytimg.com/vi/3jqvVolt0c8/hqdefault.jpg?v=6857b3e7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_LOM5vvwrJn9cGnDA9nZQwNehZg",
+                "description": "この動画およびライブは\n株式会社カプコンの利用許諾を受けて配信しています\nバイオハザード7\n©CAPCOM CO., LTD. ALL RIGHTS RESERVED.\n\nねえ、いっしょに..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
