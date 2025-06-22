@@ -46,7 +46,14 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "DehkYCoJX-A",
+                "title": "Fever Dream",
+                "thumbnail": "https://i.ytimg.com/vi/DehkYCoJX-A/hqdefault.jpg?v=685783f4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqisdZUWqN61_oBVqJnL9Rtm3bJg",
+                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nGame title: to a T\nStore page : https://store.steampowered.com/app/1875320/to_a_T/\n\nーーーーーーーーー\nCHECK OUT RISU 5TH ANNIVERSA..."
+            }
+        ]
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
