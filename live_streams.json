@@ -77,14 +77,7 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": [
-            {
-                "video_id": "jMxpygJIREg",
-                "title": "≪Ace Attorney: Justice For All≫ w-we can do it ... First Playthrough! #4【SPOILER WARNING】",
-                "thumbnail": "https://i.ytimg.com/vi/jMxpygJIREg/hqdefault.jpg?v=6856c1f4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTkvgkxGg3X4DVpNfx4N17Uq6W0g",
-                "description": "can everyone just get arrested and call it a day? \n\nThumbnail Art: https://x.com/sumomokpa/status/1902434622845415936/photo/1\n\n#telebae  #hololiveenglish \n\n««≪ °◇◆◇° ≫ »»\n\nThis..."
-            }
-        ]
+        "videos": []
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -224,14 +217,7 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": [
-            {
-                "video_id": "wiXnTY_MH5Y",
-                "title": "【hololive TCG】pulling SIGNED CARDS?! Also, Bye For Now! #calliolive",
-                "thumbnail": "https://i.ytimg.com/vi/wiXnTY_MH5Y/hqdefault.jpg?v=6856a243&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBgpRi7W993CB4N5ePtt_HbCMdSAQ",
-                "description": "last solo stream before my week long break! (unless there is a guerilla stream...)\nーーーーーーーーーーーーーーーー\nーーーーーーーーー\nBGM: https://x.com/BigRicePiano..."
-            }
-        ]
+        "videos": []
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -322,7 +308,14 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "OmeplhCj5lw",
+                "title": "【しらさぎS/同時視聴】秋のG1に向けて夏競馬で勉強だ！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "thumbnail": "https://i.ytimg.com/vi/OmeplhCj5lw/hqdefault.jpg?v=6857017c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBcLX1_bdgpIhgc0Hl00zxvRkFiIw",
+                "description": "15:35出走！\n夏競馬きた～～～！！！！\n\nサムネイルイラスト：鮨田はやりさま\nhttps://x.com/sushidahayari\nありがとうございます！\n\n\n\nねえ、いっしょに向..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -389,7 +382,14 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Ropj_aYmUq8",
+                "title": "【 府中牝馬S＆しらさぎS 】夏競馬ｷﾀｰ‼サマーマイルシリーズと歴史ある牝馬戦楽しむ！【鷹嶺ルイ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/Ropj_aYmUq8/hqdefault.jpg?v=68578022&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBG3PWm2wzB9cv0FJLlKavTxiqCrQ",
+                "description": "府中牝馬S　15:40発走 東京競馬場 芝1800m\nしらさぎS　15:35発走 阪神競馬場 芝1600m\n\n【2025年競馬配信】\nブラック企業時代に作っていた競馬口座に61万..."
+            }
+        ]
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
