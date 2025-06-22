@@ -213,7 +213,14 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "6dnbSHuHtrk",
+                "title": "【SUPER BUNNY MAN 】#ろろめろ 1時間で何処までいく？ 【水宮枢／司賀りこ】",
+                "thumbnail": "https://i.ytimg.com/vi/6dnbSHuHtrk/hqdefault.jpg?v=685729a9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAeETPreoIL0HJRLzH3w_3OdvGQ7Q",
+                "description": "本ゲームは ©2019 Catobyte Ltd の許諾を得た上で配信・収益化を行なっております\n@ShigaRiko \n 誕生日グッズhttps://shop.hololivepro.com/products/mizumiyasu_birthday_20..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -352,14 +359,7 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": [
-            {
-                "video_id": "CBVJLVwliI4",
-                "title": "【GONE Fishing】釣った魚を捧げないと殺されてしまうスローライフ【ホロライブ/白上フブキ】",
-                "thumbnail": "https://i.ytimg.com/vi/CBVJLVwliI4/hqdefault.jpg?v=6857bc89&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXVVG3dZm_3oVGE7RSXPtEL_0Lkg",
-                "description": "#フブキングダム\n━━━━━━━━━━━━━━━━━━━━━━━\n✦白上フブキ 活動7周年記念グッズ🌽\nJP▷https://shop.hololivepro.com/products/shirakami..."
-            }
-        ]
+        "videos": []
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",

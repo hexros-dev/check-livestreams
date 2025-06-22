@@ -203,15 +203,7 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": [
-            {
-                "video_id": "6dnbSHuHtrk",
-                "title": "【SUPER BUNNY MAN 】#ろろめろ 1時間で何処までいく？ 【水宮枢／司賀りこ】",
-                "date": "2025/06/22 20:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/6dnbSHuHtrk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAeETPreoIL0HJRLzH3w_3OdvGQ7Q",
-                "description": "本ゲームは ©2019 Catobyte Ltd の許諾を得た上で配信・収益化を行なっております\n@ShigaRiko \n 誕生日グッズhttps://shop.hololivepro.com/products/mizumiyasu_birthday_20..."
-            }
-        ]
+        "videos": []
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -331,7 +323,15 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "cOYiB1Pra68",
+                "title": "#13【Ace Attorney: Spirit of Justice】DLC CASE TIME!!! (SPOILERS!)【Pavolia Reine/holoID】",
+                "date": "2025/06/22 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/cOYiB1Pra68/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCqJTnPp6rRkTzO_p1uwMtEITFtWw",
+                "description": "Support me here (overseas): https://streamlabs.com/pavoliareinechhololive-id/tip\nSupport me here (Indonesia): https://sociabuzz.com/pavoliareine/tribe\n\nReine's new original song now 「Yummy..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
