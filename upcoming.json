@@ -284,7 +284,15 @@
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "rAZQDPvX9NE",
+                "title": "【 ゴブリン・ノーム・ホーン 】ここで働かせてください！【ホロライブ/夏色まつり】",
+                "date": "2025/06/23 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/rAZQDPvX9NE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvJBlBhFoGJPQJDxup70caLBxraA",
+                "description": "...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\n\n素敵なサムネイル→夜鈴なや様\n@yosuzu_78\n\n配信タイトル：ゴブリン・ノー..."
+            }
+        ]
     },
     "@NekomataOkayu": {
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
@@ -348,15 +356,7 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": [
-            {
-                "video_id": "DpE4hHMAFG4",
-                "title": "【Members Only】 Hello I Am Here",
-                "date": "2025/06/23 14:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/DpE4hHMAFG4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAz9zKc4IeuO6di_gjA4C4KKbTBvw",
-                "description": "[Twitter]\nhttps://twitter.com/ourokronii\n\n----------------------------------------------------------------------------\n\n[Viewer Rules]\nThank you for watching my stream!\nTo help everyone enjoy..."
-            }
-        ]
+        "videos": []
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",

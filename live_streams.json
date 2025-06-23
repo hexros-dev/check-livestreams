@@ -153,14 +153,7 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": [
-            {
-                "video_id": "baVorjQ10F4",
-                "title": "【ELDEN RING NIGHTREIGN】I had stream withdrawals so hi! Back for 1 day :D",
-                "thumbnail": "https://i.ytimg.com/vi/baVorjQ10F4/hqdefault.jpg?v=68581a1a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJpk8kHL2uzGDYcfOlyCI1JR3v4A",
-                "description": "Thumbnail art: @HuuSri THANK YOU!\nhttps://x.com/HuuSri/status/1936459482810527931/photo/1\n\nThis game is being streamed and monetized after confirming with From Software, and in accordance with..."
-            }
-        ]
+        "videos": []
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -268,7 +261,14 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "DpE4hHMAFG4",
+                "title": "【Members Only】 Hello I Am Here",
+                "thumbnail": "https://i.ytimg.com/vi/DpE4hHMAFG4/hqdefault.jpg?v=6858fe50&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAz9zKc4IeuO6di_gjA4C4KKbTBvw",
+                "description": "[Twitter]\nhttps://twitter.com/ourokronii\n\n----------------------------------------------------------------------------\n\n[Viewer Rules]\nThank you for watching my stream!\nTo help everyone enjoy..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
