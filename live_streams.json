@@ -136,14 +136,7 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/VL9aJ1o3yrN_xzHKTX0PvArQjUDHhtWtOtAYWjpzkqoFxR5HHWmWRWNgu6M5l4nSibqLaeKXqA",
-        "videos": [
-            {
-                "video_id": "BCMe9Sn4H40",
-                "title": "【PEJUANG SENIN】#100 WOOOOOOOO the 100th episode!!!【Kaela's Monday Warrior】",
-                "thumbnail": "https://i.ytimg.com/vi/BCMe9Sn4H40/hqdefault.jpg?v=685890d1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCLxyJZgz2LQQInzvxg0QLmT3Vwlg",
-                "description": "the topics from the Pejuang Senin stream sometimes might be sensitive to be clipped without the context. please have that in mind😇\n∘₊✧──────✧₊∘∘₊✧──────..."
-            }
-        ]
+        "videos": []
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
@@ -403,7 +396,14 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "1xxlWriXKVU",
+                "title": "【雑談】久しぶりの昼雑談！月曜日頑張ろう！！【 雪花ラミィ /ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/1xxlWriXKVU/hqdefault.jpg?v=6858cfc8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANHLkqguAxcK5QVDoHn2UIYiJchg",
+                "description": "感想は #らみらいぶ で呟いて頂けたら嬉しいです！\n\nサムネイラスト：ゆうさま\nhttps://x.com/y0u06\n\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧..."
+            }
+        ]
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
@@ -441,9 +441,9 @@
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
         "videos": [
             {
-                "video_id": "zddJGc7AqxE",
-                "title": "【UNARCHIVED kaRAOke】FIRST YEAR ANNIVERSARY CELEBRATION!",
-                "thumbnail": "https://i.ytimg.com/vi/zddJGc7AqxE/hqdefault.jpg?v=68576fbe&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9-LlDMSiqmo_BBe-cRQgFPngMIg",
+                "video_id": "B0KM4PVZwCI",
+                "title": "YAPYAPYAP",
+                "thumbnail": "https://i.ytimg.com/vi/B0KM4PVZwCI/hqdefault.jpg?v=6858cbde&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRBggiKlicFooEjJjfOyEtj0uxFA",
                 "description": "『 X formely Twitter 』\nhttps://x.com/raorapanthera\n\n『 Hashtags 』\n╰┈➤ Live  #CiaoRaora\n╰┈➤ Fanarts  #RaorArt\n╰┈➤ Clips  #RaraWara\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
             }
         ]
