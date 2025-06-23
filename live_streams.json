@@ -279,7 +279,14 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/gKitLHfMqsfmC26xRBBNBVE9jz4m0X-xAvcdPUwy8VPa4FCw0-XRxOKLvJZxm-lQnIDQU2rDA0k",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "JcKSlvi10BU",
+                "title": "【歌 】発散しにきました　オーバーヒートLOST SONG　TIME【ホロライブ/ ロボ子さん】",
+                "thumbnail": "https://i.ytimg.com/vi/JcKSlvi10BU/hqdefault.jpg?v=6859ae08&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAoDcBr8bwuXQBQFRwrhMxNeEJWMA",
+                "description": "＃ホロライブ　#hololive 　\nｘでは💬  #ロボ子生放送　でポストしてってね✨\nYoutubeの仕様でコメントや高評価ＧＯＯＤを押してくれるとチャンネル..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -364,14 +371,7 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": [
-            {
-                "video_id": "CDDKSXnNkEA",
-                "title": "【 カラスのおしごと 】カラスになって悪さしてもわるくないよねぇ？【角巻わため/ホロライブ４期生】",
-                "thumbnail": "https://i.ytimg.com/vi/CDDKSXnNkEA/hqdefault.jpg?v=6858b106&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCs47-S-CAWZifn2ieLf2DHqiZh2g",
-                "description": "おしごとだからねぇ？\nタグ：#ドドドライブ\n\n配信タイトル：カラスのおしごと\nストアページ：https://store.steampowered.com/app/2537920/_/\n\n🐏角巻わため..."
-            }
-        ]
+        "videos": []
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
