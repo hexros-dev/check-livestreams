@@ -198,7 +198,15 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "0UOkS7SRSl0",
+                "title": "【 Minecraft 】エンダーマントラップの改造！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "date": "2025/06/24 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/0UOkS7SRSl0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBrdSNJMbExX6-gSX1UQJnKH8pPkg",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n【使用MOD】\n使用MOD：Comp..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -346,13 +354,29 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "9OVYSemJfto",
+                "title": "【 PEAK 】ミオみこスバの三人なら、どこまでも・・登れる？！【大神ミオ視点】",
+                "date": "2025/06/24 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/9OVYSemJfto/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDuqp0qKIuaO33DRxM7NWl_zL0ppg",
+                "description": "ミオみこスバで登山・・？！\n\nさくらみこ🌸 @SakuraMiko \n大空スバル🚑 @OozoraSubaru \n大神ミオ🌲 @OokamiMio \n\nサムネillustrator：鮨田はやりさん　https://x.c..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "E4ji0FY9JoA",
+                "title": "【#ミオみこスバ 】みんなで山登りしゅばああああああああああああああああああああああああああああああああああああああああ！！！！！！！： PEAK【ホロライブ/大空スバル】",
+                "date": "2025/06/24 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/E4ji0FY9JoA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQD5TDvp-lhBtIB0dZBeo5CATgPQ",
+                "description": "配信タイトル：PEAK\nhttps://store.steampowered.com/app/3527290/PEAK/\n\n🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do..."
+            }
+        ]
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -624,6 +648,14 @@
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "dPpYsp_D3_M",
+                "title": "【 シャドバWB 】新作シャドバ！ガチャとランクマやりますか　#結城さくな生放送",
+                "date": "2025/06/24 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/dPpYsp_D3_M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCynjPnwTcmfEJM0C7Nx8e4ygjjJA",
+                "description": "オーキスちゃん来てほしい\n\n🎀グッズ・ボイス販売はこちら🐾\nhttps://yuki-sakuna.stores.jp/\n\n🎀歌ってみた動画🐾\nhttps://youtube.com/playlist?list=PLErsMirGq93vRw..."
+            }
+        ]
     }
 }
