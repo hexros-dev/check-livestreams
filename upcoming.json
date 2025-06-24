@@ -246,7 +246,15 @@
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
         "channel_name": "Moona Hoshinova hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/9e7J_lAxCEZO6IRC_Sl3Gj-bt9uPvSXolU_vBpmqWABzv99oHxzbYhWWgvRI_c2qmB4jH0p_ZA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "8V_N3FEE8Tc",
+                "title": "【V3LVET】Watchalong Kpop Demon Hunters!【hololive】",
+                "date": "2025/06/25 07:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/8V_N3FEE8Tc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSAllWcNzC3oJMX36WRGs9PRd6DA",
+                "description": "Streaming with @holoen_raorapanthera @NerissaRavencroft \nStreamlabs donation link here : https://streamlabs.com/moonahoshinovahololive-id/tip\nSociaBuzz donation link here : https://sociabuzz.com/mo..."
+            }
+        ]
     },
     "@MoriCalliope": {
         "channel_url": "https://www.youtube.com/@MoriCalliope",
@@ -554,28 +562,12 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": [
-            {
-                "video_id": "qo4yj0oChQk",
-                "title": "【ELDEN RING NIGHTREIGN】深夜に参上！ナイトレイダー兎田！ぺこ！【ホロライブ/兎田ぺこら】",
-                "date": "2025/06/24 21:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/qo4yj0oChQk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCqi54PmQxLg3Efs5ZgsSwhwZbNcw",
-                "description": "深夜にちょろっと参上\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ #ぺこらいぶ..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": [
-            {
-                "video_id": "dPpYsp_D3_M",
-                "title": "【 シャドバWB 】新作シャドバ！ガチャとランクマやりますか　#結城さくな生放送",
-                "date": "2025/06/24 21:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/dPpYsp_D3_M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCynjPnwTcmfEJM0C7Nx8e4ygjjJA",
-                "description": "オーキスちゃん来てほしい\n\n🎀グッズ・ボイス販売はこちら🐾\nhttps://yuki-sakuna.stores.jp/\n\n🎀歌ってみた動画🐾\nhttps://youtube.com/playlist?list=PLErsMirGq93vRw..."
-            }
-        ]
+        "videos": []
     }
 }
