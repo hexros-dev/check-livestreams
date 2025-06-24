@@ -117,21 +117,21 @@
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "KIZVanTTmus",
+                "title": "【】【ホロライブ/宝鐘マリン】",
+                "date": "2025/06/24 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/KIZVanTTmus/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZEmkvATfAeWU2ST8rYh3i9o1NIQ",
+                "description": "｡.｡:+* ﾟ ゜ﾟ *+:｡.｡:+* ﾟ ゜ﾟ *+:｡.｡.｡:+*ﾟ ゜ﾟ *+:｡.｡:+*ﾟ ゜ﾟ *+:｡.｡.｡:+*+:｡.｡｡\n🏴‍☠️🐻クマリンまみれグッズ販売開始🐻🏴..."
+            }
+        ]
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": [
-            {
-                "video_id": "BmiGfkw-qzg",
-                "title": "【Elden Ring Nightreign】Third Wheeling キューピッド役",
-                "date": "2025/06/24 10:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/BmiGfkw-qzg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArqFlry703y1m4MwUUuGGv_YdHpQ",
-                "description": "w/ @NinomaeInanis & @ShiranuiFlare \n#hololiveenglish  #ホロライブ \n\nSTREAM MY NEW ORIGINAL SONG, Diamond Girlfriend Feat.MOTSU▼\nhttps://youtu.be/EXM0EE_NpQc\n\n「Twitter」\nhttps://twitter.co..."
-            }
-        ]
+        "videos": []
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -381,15 +381,7 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": [
-            {
-                "video_id": "MjVpo4JyDZg",
-                "title": "【ELDEN RING NIGHTREIGN 】「エルデンリング ナイトレイン」コラボでいくぞっ！【不知火フレア/ホロライブ】",
-                "date": "2025/06/24 10:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/MjVpo4JyDZg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCqO0-tRnoHss_9oImm_aFuNNI4Jg",
-                "description": "@NinomaeInanis 俺のイナ\n@IRyS Best Friend\n\n\n■Newシングル「薄明光線」🎧\n💿各種音楽サービス配信版 配信中✨\nhttps://cover.lnk.to/6EmWZn\nMVも公開中\nhttps://www.yo..."
-            }
-        ]
+        "videos": []
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
