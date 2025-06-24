@@ -265,7 +265,15 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ls7a5W3OUlM",
+                "title": "【THAT'S WILD?! 24 HOUR CHARITY STREAM】PART 1 #thatswild #calliolive #kosekibijou",
+                "date": "2025/06/29 09:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ls7a5W3OUlM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDILU6Xapu2nbrqFvMyLSessTa14g",
+                "description": "Donate to Wildlife Warriors Worldwide TODAY! https://tilt.fyi/uZIThIgk3w\nMore info on me and Biboo's Campaign: https://tilt.fyi/qIGUWDdrcB\n\nCheck out the great work being done by Wildlife Warriors..."
+            }
+        ]
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
