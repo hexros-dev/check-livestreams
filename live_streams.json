@@ -118,14 +118,7 @@
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": [
-            {
-                "video_id": "o4YBq_yMEMM",
-                "title": "【Among the Sleep】赤ちゃん視点の不気味なホラゲー遊んでみる【戌神ころね】",
-                "thumbnail": "https://i.ytimg.com/vi/o4YBq_yMEMM/hqdefault.jpg?v=685a77e8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUa1dweQdLzmxKyDWa_PTnUj8eJw",
-                "description": "Play Game : Among the Sleep - Enhanced Edition ( steam )\nタグ #ころさん配信中\n\n---------------------------------------------\n\nころねTwitter▶https://twitter.com/inugamikorone\n..."
-            }
-        ]
+        "videos": []
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
@@ -203,7 +196,14 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "huplUO3zqb8",
+                "title": "【BIG ANNOUNCEMENT】from Mori and Biboo!! #calliolive",
+                "thumbnail": "https://i.ytimg.com/vi/huplUO3zqb8/hqdefault.jpg?v=6857fb04&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9v7_lnfOaWGI6jEb4ufobwx_Dpg",
+                "description": "@KosekiBijou together with Mori! Save the date...\n\nーーーーーーーーーーーーーーーー\n\nBGM: https://x.com/BigRicePiano\nhttps://x.com/the_arkhand\nhttps://x.com/alterclad\n\nRequest..."
+            }
+        ]
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -355,7 +355,14 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "6RdnK83i9m0",
+                "title": "【MEMBERS ONLY】WATCHALONG & WALKING: MOULIN ROUGE!",
+                "thumbnail": "https://i.ytimg.com/vi/6RdnK83i9m0/hqdefault.jpg?v=6859aa02&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1Fb1Geo-Dwk9Diw0hCKzwmtOgUA",
+                "description": "i will be watching on DISNEY+　!\n\n🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara\n\n 🏵️[Hashtags] 🏵️\n#kfp #キアライブ#hololiveenglish #holomyth #takanashikiara \nFANART..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
