@@ -135,7 +135,15 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "vGpNPfomniw",
+                "title": "【 Minecraft 】新ホロ鯖！\"んな電鉄\" はどこまでも続くのら！！！＃９【姫森ルーナ/ホロライブ】",
+                "date": "2025/06/26 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/vGpNPfomniw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4uaLKYP71RaHaoiOLBqWbwmsYOQ",
+                "description": "サムネイラスト\n　ガーリックさん　https://twitter.com/garlic0000000\n\nマインクラフト新ホロ鯖再生リスト\nhttps://www.youtube.com/playlist?list=PL6gUpTCMieF56nDTQ8RCVqkzh..."
+            }
+        ]
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -450,15 +458,7 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": [
-            {
-                "video_id": "9a5YVLoEX-E",
-                "title": "【RINGFIT ADVENTURE】definitely working out longer than 20min BET #kfp #キアライブ",
-                "date": "2025/06/26 01:15:00",
-                "thumbnail": "https://i.ytimg.com/vi/9a5YVLoEX-E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBt1hSR89S0AwU837HY9FZVeBeYRQ",
-                "description": "stream my new song, PERFUME✨ https://cover.lnk.to/zJ4BEH\n\n\n 🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara\n\n 🏵️[Hashtags] 🏵️\n#kfp #キアライブ#hololiveenglish #holomyth..."
-            }
-        ]
+        "videos": []
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
