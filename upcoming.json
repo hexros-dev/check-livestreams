@@ -591,7 +591,15 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ROG349VeH58",
+                "title": "stream that I haven't decided on yet!",
+                "date": "2025/06/26 05:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ROG349VeH58/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAu2aWB6etOvtM4HRCRjICdMOlgvw",
+                "description": "streaming... something!\n\n🎉 Virtual Vacation Concert @ Los Angeles July 5th 2025 !!!!\n\nSTREAMING TICKETS NOW AVAILABLE: https://akasupa.com/events/virtual-vacation-2025\nIN PERSON TICKETS:..."
+            }
+        ]
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
