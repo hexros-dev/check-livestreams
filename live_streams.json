@@ -15,14 +15,7 @@
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
         "avatar_url": "https://yt3.googleusercontent.com/Ob0LQV8-i9FXY_GX4AEnsWsxvYUojcYtjZjtLsmjQRtPoYMZN5qWAe9hRhy7sMa19PlF61BG",
-        "videos": [
-            {
-                "video_id": "qSb3gUX-OhQ",
-                "title": "【UARCHIVED KARAOKE】DA-YO~~~!!!🌟",
-                "thumbnail": "https://i.ytimg.com/vi/qSb3gUX-OhQ/hqdefault.jpg?v=685c2666&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnIbdkZry_LnuxOZWhH6LFIgxGiQ",
-                "description": "※ホロライブプロダクションから未成年の視聴者の方々へのお願い\n[カバー 未成年者の方々へ]で検索してお読みいただくか、下記リンクをご確認..."
-            }
-        ]
+        "videos": []
     },
     "@AkiRosenthal": {
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
@@ -154,7 +147,14 @@
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
         "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/ACubs_Mw4YtmgHDIIZvW_gZaPf_VR1wg9yffFLsq4Lrw-W7Md-0pK4Gob8OJebCYCmgrArsE",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "7IalhfaqjWI",
+                "title": "【初‼朝歌枠】お話もしながら朝っぽい曲を歌う【虎金妃笑虎】",
+                "thumbnail": "https://i.ytimg.com/vi/7IalhfaqjWI/hqdefault.jpg?v=685c691d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKXZeOpi3iAxL8gA1dYQz_zWJHaQ",
+                "description": "サムネイルのイラストはHuusriさん✨\nhttps://x.com/HuuSri/status/1932017256017584304\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n\n虎金妃笑虎　X\n\nhttps://x.com/kogane..."
+            }
+        ]
     },
     "@KosekiBijou": {
         "channel_url": "https://www.youtube.com/@KosekiBijou",
