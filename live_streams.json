@@ -3,20 +3,20 @@
         "channel_url": "https://www.youtube.com/@AZKi",
         "channel_name": "AZKi Channel",
         "avatar_url": "https://yt3.googleusercontent.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos",
-        "videos": [
-            {
-                "video_id": "g5WedWI7Ytg",
-                "title": "ちょっとだけメン限でお話します【ホロライブ / AZKi】",
-                "thumbnail": "https://i.ytimg.com/vi/g5WedWI7Ytg/hqdefault.jpg?v=685be706&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgx7pn26_Z6YAlcB5LYfPwLlSuPA",
-                "description": "※開始直前にメンバーシップ限定に切り替えます。\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\n▼メン限/Membership only　の配信について\nスクショ、切り抜..."
-            }
-        ]
+        "videos": []
     },
     "@AiraniIofifteen": {
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
         "channel_name": "Airani Iofifteen Channel hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "3YbRxXt7VJk",
+                "title": "【Honor of Kings】New Rank System【 iofi / hololiveID 】",
+                "thumbnail": "https://i.ytimg.com/vi/3YbRxXt7VJk/hqdefault.jpg?v=685bf3bb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVuWPmb7bBvAuMmaDcuWNzrXsiUw",
+                "description": "#ioLyfe #Airani_Iofifteen #hololive #holoID #HonorofKings #HonorofKingsIndonesia #CobaAjaDulu #MOBAFOREVERYONE\n\nThis video and livestream are being streamed and monetized with permission and..."
+            }
+        ]
     },
     "@AkaiHaato": {
         "channel_url": "https://www.youtube.com/@AkaiHaato",
@@ -468,7 +468,14 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "D_v5Sa1FT7g",
+                "title": "【Working Zombie🧟】 Even a zombie has to go to work",
+                "thumbnail": "https://i.ytimg.com/vi/D_v5Sa1FT7g/hqdefault.jpg?v=685bc95f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFwe2OUFlBEl0Qa5cVioHV_EPLhw",
+                "description": "Game Title: Working Zombies Steam Edition\nThis game is being streamed and monetized after confirming with Jupiter Corporation.\nhttps://store.steampowered.com/app/1375290/Working_Zombies_Steam_Editi..."
+            }
+        ]
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
