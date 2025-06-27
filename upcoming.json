@@ -20,11 +20,26 @@
             }
         ]
     },
-    "@AiraniIofifteen": {
-        "channel_url": "https://www.youtube.com/@AiraniIofifteen",
-        "channel_name": "Airani Iofifteen Channel hololive-ID",
-        "avatar_url": "https://yt3.googleusercontent.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc",
-        "videos": []
+    "@AkaiHaato": {
+        "channel_url": "https://www.youtube.com/@AkaiHaato",
+        "channel_name": "HAACHAMA Ch 赤井はあと",
+        "avatar_url": "https://yt3.googleusercontent.com/Ob0LQV8-i9FXY_GX4AEnsWsxvYUojcYtjZjtLsmjQRtPoYMZN5qWAe9hRhy7sMa19PlF61BG",
+        "videos": [
+            {
+                "video_id": "49gdxE4dYi4",
+                "title": "❤️‍🔥FREE CHAT & はあちゃまの推し活情報❤️‍🔥",
+                "date": "2025/07/07 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/49gdxE4dYi4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPGRwTn2o6j9zIWHzDuFmIhRxpxg",
+                "description": "❤️‍🔥はあちゃま7周年記念グッズ販売開始❤️‍🔥\n◇こちらからチェック👉https://x.gd/yrfaI\n 2025年07月07日 18時00分まで！購入はお早めに！✨..."
+            },
+            {
+                "video_id": "WE4gDXl2wg0",
+                "title": "【#ホロ英語伝言ゲーム】FLOW GLOW × JUSTICE!!! 9人で英会話伝言ゲーム！？【ホロライブ】",
+                "date": "2025/06/29 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/WE4gDXl2wg0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkvy2tuStLTrN13wMwLDuvUhBvMg",
+                "description": "🌟参加メンバー\n\n@IsakiRiona \n@MizumiyaSu \n@KikiraraVivi \n@KoganeiNiko \n@RindoChihaya \n@holoen_ceciliaimmergreen \n@holoen_gigimurin \n@holoen_raorapanthera \n@holoen_erbloodflame \n\nロゴ制..."
+            }
+        ]
     },
     "@AkiRosenthal": {
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
@@ -39,6 +54,32 @@
                 "description": "今回PCパーツの中でも「グラフィックスカード」だけにフォーカスしていくよ！\n\"提供：GIGABYTE／AMD\n\n公式X ：https://x.com/AORUS_JP\n公式インスタグラム..."
             }
         ]
+    },
+    "@AmaneKanata": {
+        "channel_url": "https://www.youtube.com/@AmaneKanata",
+        "channel_name": "Kanata Ch. Kanata Amane",
+        "avatar_url": "https://yt3.googleusercontent.com/oPU9ckNcyeHD0FFsYSxkoD1mtbslSwdmMSfoCYQWphOu5e7UeCnIF-Nt0hvvF41L5Nykga07nQ",
+        "videos": [
+            {
+                "video_id": "SjWyEKeLCGQ",
+                "title": "【ドラゴンボールZ KAKAROT】#01 完全初見！！初めてのドラゴンボールいくぞおおおおお！！！！！【天音かなた/ホロライブ】※ネタバレあり",
+                "date": "2025/06/28 11:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/SjWyEKeLCGQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkxhszbyO9aoQ70aY0Ay2Ukksv1A",
+                "description": "DB自体未履修により、ナメック星人がいる、主人公は悟空、戦闘力が53万のフリーザ様がいるくらいの知識です\n\nドラゴンボールZ KAKAROT\nこのゲーム..."
+            }
+        ]
+    },
+    "@AnyaMelfissa": {
+        "channel_url": "https://www.youtube.com/@AnyaMelfissa",
+        "channel_name": "Anya Melfissa Ch. hololive-ID",
+        "avatar_url": "https://yt3.googleusercontent.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz",
+        "videos": []
+    },
+    "@AyundaRisu": {
+        "channel_url": "https://www.youtube.com/@AyundaRisu",
+        "channel_name": "Ayunda Risu Ch. hololive-ID",
+        "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
+        "videos": []
     },
     "@FUWAMOCOch": {
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
@@ -81,6 +122,34 @@
             }
         ]
     },
+    "@HakuiKoyori": {
+        "channel_url": "https://www.youtube.com/@HakuiKoyori",
+        "channel_name": "Koyori ch. 博衣こより - holoX -",
+        "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
+        "videos": [
+            {
+                "video_id": "DrhOnBVwDR0",
+                "title": "【ガンプラ/カメラ枠】HG 1/144 赤いガンダムつくってみる！！！！！【博衣こより/ホロライブ】",
+                "date": "2025/06/28 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/DrhOnBVwDR0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYxftKWQRlxkKavpPLLVEH6rsL3Q",
+                "description": "先週作った「HG 1/144 GQuuuuuuX」の完成形を見せつつ、今週は「赤いガンダム」に挑戦！\n※スパチャオフなのでコメント欄は後で開けるね～！\n💿1st..."
+            },
+            {
+                "video_id": "E9bBzk-Ebgc",
+                "title": "【うたわれるもの 散りゆく者への子守唄】シリーズ完全初見！名作SRPGを遊んでみる！！！ #1 【博衣こより/ホロライブ】",
+                "date": "2025/06/28 09:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/E9bBzk-Ebgc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBABd02yuIU8yhA4S0Q7E9vndMzog",
+                "description": "アクアプラスさん、包括許諾ありがとうございます！！助手くんから熱いオススメをもらい、初うたわれるもの体験します！！\n💿1stアルバム「FIR..."
+            },
+            {
+                "video_id": "jBdxaP0JrUU",
+                "title": "【同時視聴】機動戦士Gundam GQuuuuuuX(ジークアクス) 全12話一緒に一挙見しよう！！！【博衣こより/ホロライブ】",
+                "date": "2025/06/29 14:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/jBdxaP0JrUU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmF-aN3tw5H3lp4E6uaNV9pb7lRA",
+                "description": "ガンダムを同時視聴できるシアワセを噛みしめながら全12話一緒に観よう！！1話からなので初見でも安心だよっ🌟\nこよりは1~11話までは視聴済み..."
+            }
+        ]
+    },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
@@ -107,16 +176,22 @@
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
         "videos": []
     },
-    "@InugamiKorone": {
-        "channel_url": "https://www.youtube.com/@InugamiKorone",
-        "channel_name": "Korone Ch. 戌神ころね",
-        "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
+    "@IchijouRirika": {
+        "channel_url": "https://www.youtube.com/@IchijouRirika",
+        "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+        "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
         "videos": []
     },
-    "@KaelaKovalskia": {
-        "channel_url": "https://www.youtube.com/@KaelaKovalskia",
-        "channel_name": "Kaela Kovalskia Ch. hololive-ID",
-        "avatar_url": "https://yt3.googleusercontent.com/VL9aJ1o3yrN_xzHKTX0PvArQjUDHhtWtOtAYWjpzkqoFxR5HHWmWRWNgu6M5l4nSibqLaeKXqA",
+    "@IsakiRiona": {
+        "channel_url": "https://www.youtube.com/@IsakiRiona",
+        "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+        "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
+        "videos": []
+    },
+    "@JuufuuteiRaden": {
+        "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
+        "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
+        "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
         "videos": []
     },
     "@KoboKanaeru": {
@@ -139,6 +214,32 @@
             }
         ]
     },
+    "@KosekiBijou": {
+        "channel_url": "https://www.youtube.com/@KosekiBijou",
+        "channel_name": "Koseki Bijou Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
+        "videos": []
+    },
+    "@LaplusDarknesss": {
+        "channel_url": "https://www.youtube.com/@LaplusDarknesss",
+        "channel_name": "Laplus ch. ラプラス・ダークネス - holoX -",
+        "avatar_url": "https://yt3.googleusercontent.com/6Y5lj4DhikLBo0UqIZ1dT3-D3aYXVPbxUgNTyYiyE_Se8AVxkGAn05D3oc1y3whpzDu-CzEQ",
+        "videos": []
+    },
+    "@MizumiyaSu": {
+        "channel_url": "https://www.youtube.com/@MizumiyaSu",
+        "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
+        "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
+        "videos": [
+            {
+                "video_id": "wC-cF3_x67s",
+                "title": "【ドラクエ3リメイク】人生初ドラクエ💧完全初見#2 :ネタバレ有り【水宮枢／FLOW GLOW】#hololiveDEV_IS",
+                "date": "2025/06/28 20:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/wC-cF3_x67s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAk7YezZD_JSqrNavz_Xt5gvWXSyQ",
+                "description": "誕生日グッズhttps://shop.hololivepro.com/products/mizumiyasu_birthday_2025\n本動画のゲームプレイ映像は、株式会社スクウェア・エニックスの許諾を受けて使用..."
+            }
+        ]
+    },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
@@ -151,10 +252,10 @@
         "avatar_url": "https://yt3.googleusercontent.com/K91NQLuy_JMQ65n-Opf0Q2FZBO3yOURnMRusO7o5DTjaJ1QVtP-ANN4lehK57X4KXpcI2MiRig",
         "videos": []
     },
-    "@NatsuiroMatsuri": {
-        "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
-        "channel_name": "Matsuri Channel 夏色まつり",
-        "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
+    "@NanashiMumei": {
+        "channel_url": "https://www.youtube.com/@NanashiMumei",
+        "channel_name": "Nanashi Mumei Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/ufO7pGRu0vUfA2FLPz7yN517i8wOYxAdcxB9nSTKKfiKhjec0ulSmwWmRA00KqVpOTIesgXhMA",
         "videos": []
     },
     "@NekomataOkayu": {
@@ -175,12 +276,6 @@
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
         "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ",
-        "videos": []
-    },
-    "@NinomaeInanis": {
-        "channel_url": "https://www.youtube.com/@NinomaeInanis",
-        "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
-        "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
         "videos": []
     },
     "@OmaruPolka": {
@@ -230,6 +325,26 @@
         "avatar_url": "https://yt3.googleusercontent.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC",
         "videos": []
     },
+    "@PavoliaReine": {
+        "channel_url": "https://www.youtube.com/@PavoliaReine",
+        "channel_name": "Pavolia Reine Ch. hololive-ID",
+        "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
+        "videos": [
+            {
+                "video_id": "Q2NWnjB7SPA",
+                "title": "I'M STILL GOING TO TALK ABOUT FIRE DANCE...",
+                "date": "2025/06/28 11:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Q2NWnjB7SPA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtyLUM_dRS1fXgMZf8aGBUYpy4hQ",
+                "description": "Reine's new original song now 「Yummy Yum Yummy!」AVAILABLE on iTunes, Apple Music, Spotify etc. Click to stream!\nパヴォリア・レイネ新曲「ヤミヤムヤミ」\nhttps://cover.lnk.to/mU..."
+            }
+        ]
+    },
+    "@RindoChihaya": {
+        "channel_url": "https://www.youtube.com/@RindoChihaya",
+        "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+        "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
+        "videos": []
+    },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
@@ -248,6 +363,12 @@
         "channel_url": "https://www.youtube.com/@SakamataChloe",
         "channel_name": "Chloe ch. 沙花叉クロヱ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/laCUmozlesp2wZd9k_DCDG_AYgQRGJm0yiL5pigqWAJE1TzYaOXQ6VcfEGacl8L-gpgR07I7HA",
+        "videos": []
+    },
+    "@SakuraMiko": {
+        "channel_url": "https://www.youtube.com/@SakuraMiko",
+        "channel_name": "Miko Ch. さくらみこ",
+        "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
         "videos": []
     },
     "@ShioriNovella": {
@@ -282,10 +403,10 @@
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
         "videos": []
     },
-    "@TodorokiHajime": {
-        "channel_url": "https://www.youtube.com/@TodorokiHajime",
-        "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
-        "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
+    "@TokinoSora": {
+        "channel_url": "https://www.youtube.com/@TokinoSora",
+        "channel_name": "SoraCh. ときのそらチャンネル",
+        "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
         "videos": []
     },
     "@TokoyamiTowa": {
@@ -314,12 +435,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
         "videos": []
     },
-    "@WatsonAmelia": {
-        "channel_url": "https://www.youtube.com/@WatsonAmelia",
-        "channel_name": "Watson Amelia Ch. hololive-EN",
-        "avatar_url": "https://yt3.googleusercontent.com/WrANARkFwg4mlLa7SonZpwhS9_wiepSBhVGH90pIaXQsKCoBNiu3zyWVqW3nfBlbLTgOiOFO",
-        "videos": []
-    },
     "@YukihanaLamy": {
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
@@ -332,10 +447,30 @@
         "avatar_url": "https://yt3.googleusercontent.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g",
         "videos": []
     },
+    "@dooby3d": {
+        "channel_url": "https://www.youtube.com/@dooby3d",
+        "channel_name": "dooby",
+        "avatar_url": "https://yt3.googleusercontent.com/sOGyZgV9pPHQJCEvNe28NCOFC1y0KggsxUjrP5ecMAgBmdNT8p6ZNM24d_9SVgWFhBh0lKBL5Q",
+        "videos": [
+            {
+                "video_id": "6tkD0K4ByjY",
+                "title": "🎉 dooby...2D !?  🥳 + ANNOUNCEMENT",
+                "date": "2025/06/28 06:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/6tkD0K4ByjY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMCKP0tsRfTIsyiyySzOtiSM7Q5A",
+                "description": "YAAAY\ntemp thumbnail...maybe"
+            }
+        ]
+    },
     "@holoen_ceciliaimmergreen": {
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
+        "videos": []
+    },
+    "@holoen_gigimurin": {
+        "channel_url": "https://www.youtube.com/@holoen_gigimurin",
+        "channel_name": "Gigi Murin Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
         "videos": []
     },
     "@holoen_raorapanthera": {
@@ -352,30 +487,30 @@
             }
         ]
     },
+    "@kazamairoha": {
+        "channel_url": "https://www.youtube.com/@kazamairoha",
+        "channel_name": "Iroha ch. 風真いろは - holoX -",
+        "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
+        "videos": [
+            {
+                "video_id": "ILOX1FXokwE",
+                "title": "【配信予定地】未来ココです📍【風真いろは/ホロライブ】",
+                "date": "2025/06/28 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ILOX1FXokwE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEr0C2hCnj3Y9n68aWPq2965NWGw",
+                "description": "*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――\n\n💚風真いろはからのおしらせ💚\n\n💚風真いろは 誕生日記念2025..."
+            }
+        ]
+    },
+    "@mikenekoko": {
+        "channel_url": "https://www.youtube.com/@mikenekoko",
+        "channel_name": "みけねこch",
+        "avatar_url": "https://yt3.googleusercontent.com/_bT74ettx8Ei9p0zHrSbKdAe1oyaCAbbbXa9teIsxgOtlPl2RADYotJ_kGKwHsNdtWh8D2Hu",
+        "videos": []
+    },
     "@niminightmare": {
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": []
-    },
-    "@usadapekora": {
-        "channel_url": "https://www.youtube.com/@usadapekora",
-        "channel_name": "Pekora Ch. 兎田ぺこら",
-        "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": [
-            {
-                "video_id": "oIKMg2lhwTk",
-                "title": "【デススト2】ついにデスストランディング2を始める！DEATH STRANDING 2: ON THE BEACH ぺこ！【ホロライブ/兎田ぺこら】",
-                "date": "2025/06/28 11:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/oIKMg2lhwTk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCiCFiFHz-jCdqJRKTyrsBhoNHT9Q",
-                "description": "めっちゃ楽しみ！！！！！！！！！！！！！！！！！！！！！！！！！！\n果たしてぺこらに会えるのか！！！！！！！！！！！！！！！！\n..."
-            }
-        ]
-    },
-    "@結城さくな": {
-        "channel_url": "https://www.youtube.com/@結城さくな",
-        "channel_name": "Sakuna Ch. 結城さくな",
-        "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
         "videos": []
     }
 }
