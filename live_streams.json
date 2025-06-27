@@ -125,25 +125,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
         "videos": []
     },
-    "@KaelaKovalskia": {
-        "channel_url": "https://www.youtube.com/@KaelaKovalskia",
-        "channel_name": "Kaela Kovalskia Ch. hololive-ID",
-        "avatar_url": "https://yt3.googleusercontent.com/VL9aJ1o3yrN_xzHKTX0PvArQjUDHhtWtOtAYWjpzkqoFxR5HHWmWRWNgu6M5l4nSibqLaeKXqA",
-        "videos": []
-    },
-    "@KikiraraVivi": {
-        "channel_url": "https://www.youtube.com/@KikiraraVivi",
-        "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
-        "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": [
-            {
-                "video_id": "ixlodmoEzwo",
-                "title": "【 朝活 / FreeTalk 】大阪からおはよう☀️【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "thumbnail": "https://i.ytimg.com/vi/ixlodmoEzwo/hqdefault.jpg?v=685d5ac8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANFXBW8D2WYLA0eePdOGeNVQtjVA",
-                "description": "サムネイルの素敵なイラスト　まる煮。さん　https://x.com/_maru__2?s=21&t=Qf1sKb_hr2Qa-yhuZiFlLw\n\n✨メンバーシップはこちら✨\nhttps://www.youtube.com/channel/UCGzTVXq..."
-            }
-        ]
-    },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
         "channel_name": "Kobo Kanaeru Ch. hololive-ID",
@@ -210,12 +191,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/3CeLWGYb6cLUywTJzNt-UpITviNxeGNvtjhIqbV-AIybCqCoFw9onWtg91bjwpqvfEP9mfqIR4Q",
         "videos": []
     },
-    "@NanashiMumei": {
-        "channel_url": "https://www.youtube.com/@NanashiMumei",
-        "channel_name": "Nanashi Mumei Ch. hololive-EN",
-        "avatar_url": "https://yt3.googleusercontent.com/ufO7pGRu0vUfA2FLPz7yN517i8wOYxAdcxB9nSTKKfiKhjec0ulSmwWmRA00KqVpOTIesgXhMA",
-        "videos": []
-    },
     "@NatsuiroMatsuri": {
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
@@ -232,20 +207,20 @@
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
         "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "gE6SbKIIjU4",
+                "title": "Did you miss me? 🥺 | Yapping",
+                "thumbnail": "https://i.ytimg.com/vi/gE6SbKIIjU4/hqdefault.jpg?v=10&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXA0QFLrIVJUoxQ9DHw-g7kXrm-Q",
+                "description": "∴∴♪ * Check Out My First EP Here!* ♪∴∴\nhttps://cover.lnk.to/esLvqA\n\n∴∴♪ * Check Out My Music Here!* ♪∴∴\nhttps://www.youtube.com/playlist?list=PLSJG6WXf5JvFn2FWv_B5HP7DklUtde..."
+            }
+        ]
     },
     "@NinomaeInanis": {
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": [
-            {
-                "video_id": "Qk_rPLJiF0c",
-                "title": "【POKEMON VIOLET】I DIDN'T KNOW THIS DAY WOULD ARRIVE 【#12】",
-                "thumbnail": "https://i.ytimg.com/vi/Qk_rPLJiF0c/hqdefault.jpg?v=685daec9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGgy2oyHUujjIetB65I5GeytMbpA",
-                "description": "【Thumbnail Art】\nhttps://x.com/Potato_illust/status/1887144969208819738\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\nGame title: Pokémon: Violet\nOfficial page: https://www.pokemon.co.jp/ex..."
-            }
-        ]
+        "videos": []
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -281,12 +256,6 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
-    },
-    "@RindoChihaya": {
-        "channel_url": "https://www.youtube.com/@RindoChihaya",
-        "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
-        "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
         "videos": []
     },
     "@Robocosan": {
@@ -374,12 +343,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
         "videos": []
     },
-    "@TsunomakiWatame": {
-        "channel_url": "https://www.youtube.com/@TsunomakiWatame",
-        "channel_name": "Watame Ch. 角巻わため",
-        "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": []
-    },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
@@ -402,12 +365,6 @@
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
         "channel_name": "Choco Ch. 癒月ちょこ",
         "avatar_url": "https://yt3.googleusercontent.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g",
-        "videos": []
-    },
-    "@dooby3d": {
-        "channel_url": "https://www.youtube.com/@dooby3d",
-        "channel_name": "dooby",
-        "avatar_url": "https://yt3.googleusercontent.com/sOGyZgV9pPHQJCEvNe28NCOFC1y0KggsxUjrP5ecMAgBmdNT8p6ZNM24d_9SVgWFhBh0lKBL5Q",
         "videos": []
     },
     "@holoen_ceciliaimmergreen": {
@@ -438,18 +395,6 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
-        "videos": []
-    },
-    "@mikenekoko": {
-        "channel_url": "https://www.youtube.com/@mikenekoko",
-        "channel_name": "みけねこch",
-        "avatar_url": "https://yt3.googleusercontent.com/_bT74ettx8Ei9p0zHrSbKdAe1oyaCAbbbXa9teIsxgOtlPl2RADYotJ_kGKwHsNdtWh8D2Hu",
-        "videos": []
-    },
-    "@niminightmare": {
-        "channel_url": "https://www.youtube.com/@niminightmare",
-        "channel_name": "Nimi Nightmare",
-        "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
         "videos": []
     },
     "@usadapekora": {
