@@ -72,6 +72,12 @@
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
         "videos": []
     },
+    "@CeresFauna": {
+        "channel_url": "https://www.youtube.com/@CeresFauna",
+        "channel_name": "Ceres Fauna Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/TxZ0xm54BKwYJGEoMPda7gK5iPu7Eh0CxLPM4EU9blg4m6ATy5d8NtwBVSOOZFbRdB67PtUf",
+        "videos": []
+    },
     "@FUWAMOCOch": {
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
@@ -414,7 +420,15 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "FfcQnNUYV2M",
+                "title": "【雑談】電気椅子ゲーム感想＆フニチルの激闘旅行報告！！【ホロライブ/白上フブキ】",
+                "date": "2025/06/28 20:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/FfcQnNUYV2M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGLWWpb_FROjPedS7n7UJVR3j59Q",
+                "description": "✦白上フブキ 活動7周年記念グッズ🌽\nJP▷https://shop.hololivepro.com/products/shirakamifubuki_anniversary_7th\n海外▷https://shop.hololivepro.com/en/products/shirakamifubuki_anni..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -464,6 +478,12 @@
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
         "videos": []
     },
+    "@TsunomakiWatame": {
+        "channel_url": "https://www.youtube.com/@TsunomakiWatame",
+        "channel_name": "Watame Ch. 角巻わため",
+        "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
+        "videos": []
+    },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
@@ -492,6 +512,12 @@
         "channel_url": "https://www.youtube.com/@dooby3d",
         "channel_name": "dooby",
         "avatar_url": "https://yt3.googleusercontent.com/sOGyZgV9pPHQJCEvNe28NCOFC1y0KggsxUjrP5ecMAgBmdNT8p6ZNM24d_9SVgWFhBh0lKBL5Q",
+        "videos": []
+    },
+    "@holoen_ceciliaimmergreen": {
+        "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
+        "channel_name": "Cecilia Immergreen Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
         "videos": []
     },
     "@holoen_erbloodflame": {
@@ -526,6 +552,12 @@
             }
         ]
     },
+    "@mikenekoko": {
+        "channel_url": "https://www.youtube.com/@mikenekoko",
+        "channel_name": "みけねこch",
+        "avatar_url": "https://yt3.googleusercontent.com/_bT74ettx8Ei9p0zHrSbKdAe1oyaCAbbbXa9teIsxgOtlPl2RADYotJ_kGKwHsNdtWh8D2Hu",
+        "videos": []
+    },
     "@niminightmare": {
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
@@ -545,5 +577,11 @@
                 "description": "めっちゃ楽しみ！ぺこらに会えるのか！！！！！！！！！！！！！！！！\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕..."
             }
         ]
+    },
+    "@結城さくな": {
+        "channel_url": "https://www.youtube.com/@結城さくな",
+        "channel_name": "Sakuna Ch. 結城さくな",
+        "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
+        "videos": []
     }
 }
