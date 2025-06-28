@@ -323,14 +323,13 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": [
-            {
-                "video_id": "czEeUpqnEsY",
-                "title": "#14【Ace Attorney: Spirit of Justice】DLC CASE TIME!!! PT2 (SPOILERS!)【Pavolia Reine/holoID】",
-                "thumbnail": "https://i.ytimg.com/vi/czEeUpqnEsY/hqdefault.jpg?v=685fd9a7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1D216ftCSP29n4MbUPipgVsGjsw",
-                "description": "Reine's new original song now 「Yummy Yum Yummy!」AVAILABLE on iTunes, Apple Music, Spotify etc. Click to stream!\nパヴォリア・レイネ新曲「ヤミヤムヤミ」\nhttps://cover.lnk.to/mU..."
-            }
-        ]
+        "videos": []
+    },
+    "@RindoChihaya": {
+        "channel_url": "https://www.youtube.com/@RindoChihaya",
+        "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+        "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -360,14 +359,7 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": [
-            {
-                "video_id": "FfcQnNUYV2M",
-                "title": "【雑談】電気椅子ゲーム感想＆フニチルの激闘旅行報告！！【ホロライブ/白上フブキ】",
-                "thumbnail": "https://i.ytimg.com/vi/FfcQnNUYV2M/hqdefault.jpg?v=685fa178&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGLWWpb_FROjPedS7n7UJVR3j59Q",
-                "description": "✦白上フブキ 活動7周年記念グッズ🌽\nJP▷https://shop.hololivepro.com/products/shirakamifubuki_anniversary_7th\n海外▷https://shop.hololivepro.com/en/products/shirakamifubuki_anni..."
-            }
-        ]
+        "videos": []
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -452,6 +444,18 @@
         "channel_url": "https://www.youtube.com/@dooby3d",
         "channel_name": "dooby",
         "avatar_url": "https://yt3.googleusercontent.com/sOGyZgV9pPHQJCEvNe28NCOFC1y0KggsxUjrP5ecMAgBmdNT8p6ZNM24d_9SVgWFhBh0lKBL5Q",
+        "videos": []
+    },
+    "@holoen_ceciliaimmergreen": {
+        "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
+        "channel_name": "Cecilia Immergreen Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
+        "videos": []
+    },
+    "@holoen_erbloodflame": {
+        "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
+        "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48",
         "videos": []
     },
     "@holoen_gigimurin": {
