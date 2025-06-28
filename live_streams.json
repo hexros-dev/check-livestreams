@@ -17,12 +17,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/Ob0LQV8-i9FXY_GX4AEnsWsxvYUojcYtjZjtLsmjQRtPoYMZN5qWAe9hRhy7sMa19PlF61BG",
         "videos": []
     },
-    "@AkiRosenthal": {
-        "channel_url": "https://www.youtube.com/@AkiRosenthal",
-        "channel_name": "AkiRosenthal Ch. hololive-JP",
-        "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
-    },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
         "channel_name": "Kanata Ch. Kanata Amane",
@@ -47,22 +41,10 @@
         "avatar_url": "https://yt3.googleusercontent.com/TxZ0xm54BKwYJGEoMPda7gK5iPu7Eh0CxLPM4EU9blg4m6ATy5d8NtwBVSOOZFbRdB67PtUf",
         "videos": []
     },
-    "@FUWAMOCOch": {
-        "channel_url": "https://www.youtube.com/@FUWAMOCOch",
-        "channel_name": "FUWAMOCO Ch. hololive-EN",
-        "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": []
-    },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
         "channel_name": "Gawr Gura Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/6BCfAqi9yIpZbHLbw9BAWySvB3XZf9r8jFqudO5nSOsHoGzLhlKrm1M1uuMCRabi_pXGDzl7",
-        "videos": []
-    },
-    "@HakosBaelz": {
-        "channel_url": "https://www.youtube.com/@HakosBaelz",
-        "channel_name": "Hakos Baelz Ch. hololive-EN",
-        "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
         "videos": []
     },
     "@HakuiKoyori": {
@@ -71,40 +53,16 @@
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
         "videos": []
     },
-    "@HimemoriLuna": {
-        "channel_url": "https://www.youtube.com/@HimemoriLuna",
-        "channel_name": "Luna Ch. 姫森ルーナ",
-        "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": []
-    },
-    "@HiodoshiAo": {
-        "channel_url": "https://www.youtube.com/@HiodoshiAo",
-        "channel_name": "Ao Ch. 火威青 ‐ ReGLOSS",
-        "avatar_url": "https://yt3.googleusercontent.com/5ORfvtCTg1dnyGVq9omlDYYSymrdiSqAAY-1IKH_U9V5o9mzfh7qTwO1qI_AtqOKTlIT_Em77ss",
-        "videos": []
-    },
     "@HoshimachiSuisei": {
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
         "channel_name": "Suisei Channel",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
         "videos": []
     },
-    "@HoushouMarine": {
-        "channel_url": "https://www.youtube.com/@HoushouMarine",
-        "channel_name": "Marine Ch. 宝鐘マリン",
-        "avatar_url": "https://yt3.googleusercontent.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk",
-        "videos": []
-    },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
-    },
-    "@IchijouRirika": {
-        "channel_url": "https://www.youtube.com/@IchijouRirika",
-        "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
-        "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
         "videos": []
     },
     "@InugamiKorone": {
@@ -150,12 +108,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/-CTSHFyohthgdHnFuQzUKOvtl-xpDUSp5-kkeRN9_PadA8DFtSRKhI-3PxoqILuq8_6TwszNBnk",
         "videos": []
     },
-    "@KoganeiNiko": {
-        "channel_url": "https://www.youtube.com/@KoganeiNiko",
-        "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
-        "avatar_url": "https://yt3.googleusercontent.com/ACubs_Mw4YtmgHDIIZvW_gZaPf_VR1wg9yffFLsq4Lrw-W7Md-0pK4Gob8OJebCYCmgrArsE",
-        "videos": []
-    },
     "@KosekiBijou": {
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
@@ -184,18 +136,6 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": []
-    },
-    "@MoonaHoshinova": {
-        "channel_url": "https://www.youtube.com/@MoonaHoshinova",
-        "channel_name": "Moona Hoshinova hololive-ID",
-        "avatar_url": "https://yt3.googleusercontent.com/9e7J_lAxCEZO6IRC_Sl3Gj-bt9uPvSXolU_vBpmqWABzv99oHxzbYhWWgvRI_c2qmB4jH0p_ZA",
-        "videos": []
-    },
-    "@MoriCalliope": {
-        "channel_url": "https://www.youtube.com/@MoriCalliope",
-        "channel_name": "Mori Calliope Ch. hololive-EN",
-        "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
         "videos": []
     },
     "@MurasakiShion": {
@@ -228,12 +168,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
         "videos": []
     },
-    "@NerissaRavencroft": {
-        "channel_url": "https://www.youtube.com/@NerissaRavencroft",
-        "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
-        "avatar_url": "https://yt3.googleusercontent.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ",
-        "videos": []
-    },
     "@NinomaeInanis": {
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
@@ -256,18 +190,6 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": []
-    },
-    "@OtonoseKanade": {
-        "channel_url": "https://www.youtube.com/@OtonoseKanade",
-        "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
-        "avatar_url": "https://yt3.googleusercontent.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC",
-        "videos": []
-    },
-    "@OuroKronii": {
-        "channel_url": "https://www.youtube.com/@OuroKronii",
-        "channel_name": "Ouro Kronii Ch. hololive-EN",
-        "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
         "videos": []
     },
     "@PavoliaReine": {
@@ -312,18 +234,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
         "videos": []
     },
-    "@ShiroganeNoel": {
-        "channel_url": "https://www.youtube.com/@ShiroganeNoel",
-        "channel_name": "Noel Ch. 白銀ノエル",
-        "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
-    },
-    "@ShishiroBotan": {
-        "channel_url": "https://www.youtube.com/@ShishiroBotan",
-        "channel_name": "Botan Ch.獅白ぼたん",
-        "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": []
-    },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
@@ -336,12 +246,6 @@
                 "description": "stream my new song, PERFUME✨ https://cover.lnk.to/zJ4BEH\n\n\n 🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara\n\n 🏵️[Hashtags] 🏵️\n#kfp #キアライブ#hololiveenglish #holomyth..."
             }
         ]
-    },
-    "@TakaneLui": {
-        "channel_url": "https://www.youtube.com/@TakaneLui",
-        "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
-        "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": []
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
@@ -359,12 +263,6 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": []
-    },
-    "@TsunomakiWatame": {
-        "channel_url": "https://www.youtube.com/@TsunomakiWatame",
-        "channel_name": "Watame Ch. 角巻わため",
-        "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
         "videos": []
     },
     "@VestiaZeta": {
@@ -407,18 +305,6 @@
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48",
-        "videos": []
-    },
-    "@holoen_gigimurin": {
-        "channel_url": "https://www.youtube.com/@holoen_gigimurin",
-        "channel_name": "Gigi Murin Ch. hololive-EN",
-        "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
-    },
-    "@holoen_raorapanthera": {
-        "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
-        "channel_name": "Raora Panthera Ch. hololive-EN",
-        "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
         "videos": []
     },
     "@kazamairoha": {
