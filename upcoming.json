@@ -47,6 +47,12 @@
             }
         ]
     },
+    "@AkiRosenthal": {
+        "channel_url": "https://www.youtube.com/@AkiRosenthal",
+        "channel_name": "AkiRosenthal Ch. hololive-JP",
+        "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
+        "videos": []
+    },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
         "channel_name": "Kanata Ch. Kanata Amane",
@@ -79,10 +85,30 @@
         "avatar_url": "https://yt3.googleusercontent.com/TxZ0xm54BKwYJGEoMPda7gK5iPu7Eh0CxLPM4EU9blg4m6ATy5d8NtwBVSOOZFbRdB67PtUf",
         "videos": []
     },
+    "@FUWAMOCOch": {
+        "channel_url": "https://www.youtube.com/@FUWAMOCOch",
+        "channel_name": "FUWAMOCO Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
+        "videos": [
+            {
+                "video_id": "N4X1wAhM3ks",
+                "title": "【FUWAMOCO MORNING】episode 165 🐾 #FWMCMORNING",
+                "date": "2025/06/30 22:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/N4X1wAhM3ks/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_P4A2TwKTcFD_RqwxOZrv31Fa_Q",
+                "description": "bau bau everywhere we go ✨\nlovely illustration by @CindryShoo 💕\njingle by @Sarina_A_Elysia ♪\n\n✨️🩵🩷 Go watch our 𝗙𝗨𝗪𝗔𝗠𝗢𝗖𝗢 𝟯𝗗 𝗕𝗜𝗥𝗧𝗛𝗗..."
+            }
+        ]
+    },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
         "channel_name": "Gawr Gura Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/6BCfAqi9yIpZbHLbw9BAWySvB3XZf9r8jFqudO5nSOsHoGzLhlKrm1M1uuMCRabi_pXGDzl7",
+        "videos": []
+    },
+    "@HakosBaelz": {
+        "channel_url": "https://www.youtube.com/@HakosBaelz",
+        "channel_name": "Hakos Baelz Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
         "videos": []
     },
     "@HakuiKoyori": {
@@ -106,16 +132,55 @@
             }
         ]
     },
+    "@HimemoriLuna": {
+        "channel_url": "https://www.youtube.com/@HimemoriLuna",
+        "channel_name": "Luna Ch. 姫森ルーナ",
+        "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
+        "videos": [
+            {
+                "video_id": "QMiFdk3-maI",
+                "title": "【 POOLS | ホラゲ 】折角だから新衣装の水着でプールに行くのら！！！【姫森ルーナ/ホロライブ】",
+                "date": "2025/06/29 15:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/QMiFdk3-maI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDL6jxHTLERXVubRWoKTHwq4Tzjfg",
+                "description": "🍬100万人記念＆新衣装記念2025販売中🍬\n■販売ページURL（2025年7月28日(月) 18時まで）\nhttps://shop.hololivepro.com/products/himemoriluna_subscribers1mandnewoutfit2025..."
+            },
+            {
+                "video_id": "f0jR9cUggiE",
+                "title": "【 #ポルーナと同時視聴 】スター・ウォーズ 同時視聴するのらああああ！！！STAR WARS watching party【姫森ルーナ/ホロライブ】",
+                "date": "2025/06/29 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/f0jR9cUggiE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTDO9vX2WI54ZR0-G6DH6jDDU6Lw",
+                "description": "こちらの動画はウォルト・ディズニー・ジャパン株式会社とのタイアップです。\n提供：#ディズニープラス『スター・ウォーズ／クローンの攻撃（..."
+            }
+        ]
+    },
+    "@HiodoshiAo": {
+        "channel_url": "https://www.youtube.com/@HiodoshiAo",
+        "channel_name": "Ao Ch. 火威青 ‐ ReGLOSS",
+        "avatar_url": "https://yt3.googleusercontent.com/5ORfvtCTg1dnyGVq9omlDYYSymrdiSqAAY-1IKH_U9V5o9mzfh7qTwO1qI_AtqOKTlIT_Em77ss",
+        "videos": []
+    },
     "@HoshimachiSuisei": {
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
         "channel_name": "Suisei Channel",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
         "videos": []
     },
+    "@HoushouMarine": {
+        "channel_url": "https://www.youtube.com/@HoushouMarine",
+        "channel_name": "Marine Ch. 宝鐘マリン",
+        "avatar_url": "https://yt3.googleusercontent.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk",
+        "videos": []
+    },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
+        "videos": []
+    },
+    "@IchijouRirika": {
+        "channel_url": "https://www.youtube.com/@IchijouRirika",
+        "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+        "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
         "videos": []
     },
     "@InugamiKorone": {
@@ -154,6 +219,20 @@
         "avatar_url": "https://yt3.googleusercontent.com/-CTSHFyohthgdHnFuQzUKOvtl-xpDUSp5-kkeRN9_PadA8DFtSRKhI-3PxoqILuq8_6TwszNBnk",
         "videos": []
     },
+    "@KoganeiNiko": {
+        "channel_url": "https://www.youtube.com/@KoganeiNiko",
+        "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+        "avatar_url": "https://yt3.googleusercontent.com/ACubs_Mw4YtmgHDIIZvW_gZaPf_VR1wg9yffFLsq4Lrw-W7Md-0pK4Gob8OJebCYCmgrArsE",
+        "videos": [
+            {
+                "video_id": "Ynof4MWFcQk",
+                "title": "【Q2 HUMANITY】Qを天才と虎の二人で協力プレイ！？【告知あり】",
+                "date": "2025/06/29 15:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Ynof4MWFcQk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcLrkietC32aBJOJcK3uoMIgGxMw",
+                "description": "本ゲームは 株式会社リイカ の確認を得た上で配信・収益化を行なっております\n\n自称天才/@MizumiyaSu \n\n\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣..."
+            }
+        ]
+    },
     "@KosekiBijou": {
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
@@ -183,6 +262,26 @@
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
         "videos": []
+    },
+    "@MoonaHoshinova": {
+        "channel_url": "https://www.youtube.com/@MoonaHoshinova",
+        "channel_name": "Moona Hoshinova hololive-ID",
+        "avatar_url": "https://yt3.googleusercontent.com/9e7J_lAxCEZO6IRC_Sl3Gj-bt9uPvSXolU_vBpmqWABzv99oHxzbYhWWgvRI_c2qmB4jH0p_ZA",
+        "videos": []
+    },
+    "@MoriCalliope": {
+        "channel_url": "https://www.youtube.com/@MoriCalliope",
+        "channel_name": "Mori Calliope Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
+        "videos": [
+            {
+                "video_id": "ls7a5W3OUlM",
+                "title": "【THAT'S WILD?! 24 HOUR CHARITY STREAM】PART 1 #thatswild #calliolive #kosekibijou",
+                "date": "2025/06/29 09:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ls7a5W3OUlM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDILU6Xapu2nbrqFvMyLSessTa14g",
+                "description": "Donate to Wildlife Warriors Worldwide TODAY! https://tilt.fyi/uZIThIgk3w\nMore info on me and Biboo's Campaign: https://tilt.fyi/qIGUWDdrcB\n\nCheck out the great work being done by Wildlife Warriors..."
+            }
+        ]
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -237,6 +336,12 @@
             }
         ]
     },
+    "@NerissaRavencroft": {
+        "channel_url": "https://www.youtube.com/@NerissaRavencroft",
+        "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ",
+        "videos": []
+    },
     "@NinomaeInanis": {
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
@@ -268,6 +373,26 @@
                 "description": "この動画およびライブは\n株式会社カプコンの利用許諾を受けて配信しています\n逆転裁判123 成歩堂セレクション\n©CAPCOM CO., LTD. 2014, 2019 ALL RIGHTS..."
             }
         ]
+    },
+    "@OtonoseKanade": {
+        "channel_url": "https://www.youtube.com/@OtonoseKanade",
+        "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+        "avatar_url": "https://yt3.googleusercontent.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC",
+        "videos": [
+            {
+                "video_id": "YC1rpNzUyOI",
+                "title": "【 夜勤事件 】怖いコンビニバイトってなに？やってみる！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+                "date": "2025/06/29 14:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/YC1rpNzUyOI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbj2mKpgUMQpfxgoMvvwkcJDfCbA",
+                "description": "▽✨重大告知✨ ▽\n音乃瀬奏 1stオリジナル曲「GREATEST」\n4/20(日) 24：00（4/21  0：00）リリース開始！\nhttps://cover.lnk.to/4rvCRp\n\n୨୧♪:*:･･:*:･♪･:*:･..."
+            }
+        ]
+    },
+    "@OuroKronii": {
+        "channel_url": "https://www.youtube.com/@OuroKronii",
+        "channel_name": "Ouro Kronii Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
+        "videos": []
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
@@ -311,10 +436,58 @@
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
         "videos": []
     },
+    "@ShiroganeNoel": {
+        "channel_url": "https://www.youtube.com/@ShiroganeNoel",
+        "channel_name": "Noel Ch. 白銀ノエル",
+        "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
+        "videos": [
+            {
+                "video_id": "Quoirx8lsFM",
+                "title": "【ASMR】寝苦しい夜はノエちゃんと過ごそ？♡今月もお疲れさまでした♡ぐっすり安眠耳かき＆マッサージ♡【白銀ノエル/ホロライブ】",
+                "date": "2025/06/29 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Quoirx8lsFM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDthbBAcm0ZO8IFsu8aBRzxwd-4-Q",
+                "description": "ASMRは全て広告OFFにしてるので安心してねんねしてね✨\nこの配信はNOメン限なので誰でも視聴できます！\nもし少しでも良いと思ったらチャンネル登..."
+            },
+            {
+                "video_id": "RgGOmunhGm0",
+                "title": "【朝活雑談】6月最後のおはまっするさんでーッ🌞✨【白銀ノエル/ホロライブ】",
+                "date": "2025/06/29 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/RgGOmunhGm0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfDGm_GmF1fLm9BowvtrC3KQrUOw",
+                "description": "今日もゆるゆるお喋りだ～🍵\n\n[NEW]🔥焚火ASMRボイス販売中🔥→ https://shop.hololivepro.com/products/hololive_asmr_chillinbythecampfire?_pos=2&_fid=86a4c0ec0&_ss=c\n[NEW]💖..."
+            }
+        ]
+    },
+    "@ShishiroBotan": {
+        "channel_url": "https://www.youtube.com/@ShishiroBotan",
+        "channel_name": "Botan Ch.獅白ぼたん",
+        "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
+        "videos": [
+            {
+                "video_id": "8R9qDWFv14M",
+                "title": "【ナイトレイン】朝に夜を渡る練習！－ELDEN RING NIGHTREIGN【獅白ぼたん/ホロライブ】",
+                "date": "2025/06/29 06:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/8R9qDWFv14M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmlAyIo8ZExestPTvwZYzAZTefUg",
+                "description": "今日19時からふーたんりりかと夜を渡るのでその前に予習練習\n有識者ニキネキ大歓迎！\n\n配信ハッシュタグ：#ぐうたらいぶ\n\n本ゲームは株式会社フ..."
+            },
+            {
+                "video_id": "N73VRC1NVLE",
+                "title": "【ナイトレイン】3人で夜を渡る！－ELDEN RING NIGHTREIGN【獅白ぼたん/ホロライブ】",
+                "date": "2025/06/29 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/N73VRC1NVLE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSPNWr5FQcSrC_0-hJacG-bnE7zw",
+                "description": "駆け抜けていくぞ～\n\n🌙参加者⭐\n@FlareCh.不知火フレア @ShishiroBotan @IchijouRirika \n\n本ゲームは株式会社フロム・ソフトウェアに確認を得た上、「動画..."
+            }
+        ]
+    },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
+        "videos": []
+    },
+    "@TakaneLui": {
+        "channel_url": "https://www.youtube.com/@TakaneLui",
+        "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+        "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
         "videos": []
     },
     "@TodorokiHajime": {
@@ -341,6 +514,12 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
+        "videos": []
+    },
+    "@TsunomakiWatame": {
+        "channel_url": "https://www.youtube.com/@TsunomakiWatame",
+        "channel_name": "Watame Ch. 角巻わため",
+        "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
         "videos": []
     },
     "@VestiaZeta": {
@@ -391,6 +570,18 @@
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48",
+        "videos": []
+    },
+    "@holoen_gigimurin": {
+        "channel_url": "https://www.youtube.com/@holoen_gigimurin",
+        "channel_name": "Gigi Murin Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
+        "videos": []
+    },
+    "@holoen_raorapanthera": {
+        "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
+        "channel_name": "Raora Panthera Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
         "videos": []
     },
     "@kazamairoha": {
