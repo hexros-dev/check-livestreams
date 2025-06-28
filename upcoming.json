@@ -361,12 +361,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
         "videos": []
     },
-    "@RindoChihaya": {
-        "channel_url": "https://www.youtube.com/@RindoChihaya",
-        "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
-        "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
-    },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
@@ -448,7 +442,15 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "J_L1elNjafc",
+                "title": "【ペルソナ５: The Phantom X】はじめてのペルソナ！！新作をプレイしていく！！【轟はじめ/ReGLOSS】 #P5Xリリース記念プレイ配信",
+                "date": "2025/06/29 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/J_L1elNjafc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4Hs_vrkoZqtfR3gyV8ei4XwCArw",
+                "description": "提供：株式会社SEGA\n\n2025年6月26日リリース！『ペルソナ』シリーズの完全新作ゲーム『ペルソナ５: The Phantom X』\n\n全世界売上本数2,350万本を突破した..."
+            }
+        ]
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
@@ -506,18 +508,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/sOGyZgV9pPHQJCEvNe28NCOFC1y0KggsxUjrP5ecMAgBmdNT8p6ZNM24d_9SVgWFhBh0lKBL5Q",
         "videos": []
     },
-    "@holoen_ceciliaimmergreen": {
-        "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
-        "channel_name": "Cecilia Immergreen Ch. hololive-EN",
-        "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": []
-    },
-    "@holoen_erbloodflame": {
-        "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
-        "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
-        "avatar_url": "https://yt3.googleusercontent.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48",
-        "videos": []
-    },
     "@holoen_gigimurin": {
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
@@ -560,7 +550,15 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "tSRbpIoTY0o",
+                "title": "【デススト2】ついにデスストランディング2を始める！DEATH STRANDING 2: ON THE BEACH ぺこ！【ホロライブ/兎田ぺこら】",
+                "date": "2025/06/29 11:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/tSRbpIoTY0o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArrbPXbhJI-pW7HJGfh4AcbPNZFA",
+                "description": "すごいゲームや・・・！\n\n©2025 KOJIMA PRODUCTIONS Co., Ltd. / HIDEO KOJIMA. Produced by Sony Interactive Entertainment Inc.\n\n⋈ －－－－－－－－－－－－－－－－－－－..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
