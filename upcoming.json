@@ -405,13 +405,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/gKitLHfMqsfmC26xRBBNBVE9jz4m0X-xAvcdPUwy8VPa4FCw0-XRxOKLvJZxm-lQnIDQU2rDA0k",
         "videos": [
             {
-                "video_id": "WwtiS80hz_0",
-                "title": "【mgmg eat】休暇前に1111111 登録みれるかなぁ！！【ホロライブ/ロボ子さん】",
-                "date": "2025/06/28 12:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/WwtiS80hz_0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfZS3QR9OC_X6zZhHzhF8bqWwZog",
-                "description": "＃ホロライブ　#hololive 　\nｘでは💬  #ロボ子生放送　でポストしてってね✨\nYoutubeの仕様でコメントや高評価ＧＯＯＤを押してくれるとチャンネル..."
-            },
-            {
                 "video_id": "sPK_Kp0pN_0",
                 "title": "【 告知つき 】夏休み前に歌をうたう～！！告知は例の・・・！？💐【ホロライブ/ ロボ子さん】",
                 "date": "2025/06/28 16:00:00",
@@ -522,7 +515,15 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "_dvEKDevhok",
+                "title": "【 ゴブリン・ノーム・ホーン 】今日はゴブリンになって労働します！【角巻わため/ホロライブ４期生】",
+                "date": "2025/06/28 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/_dvEKDevhok/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjHyk6CEPkwbK1j7dL7bZGlRoQPw",
+                "description": "労働の喜び...！\nタグ：#ドドドライブ\n\n配信タイトル：ゴブリン・ノーム・ホーン\nストアページ：https://store.steampowered.com/app/3675060/_/\n\n🐏角巻わため..."
+            }
+        ]
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
