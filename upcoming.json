@@ -1,4 +1,31 @@
 {
+    "@AZKi": {
+        "channel_url": "https://www.youtube.com/@AZKi",
+        "channel_name": "AZKi Channel",
+        "avatar_url": "https://yt3.googleusercontent.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos",
+        "videos": [
+            {
+                "video_id": "XLPqnHQeuqU",
+                "title": "【MemberOnly】アンコールLIVE / AZKi 7th Birthday Live \"Sweet Pop Story\"【#AZKi生誕ライブ2025】",
+                "date": "2025/07/01 19:15:00",
+                "thumbnail": "https://i.ytimg.com/vi/XLPqnHQeuqU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWeZzlakxQ8mZpFlT-UbJV2d6wsQ",
+                "description": "🔽本編LIVE🔽\nhttps://youtube.com/live/gdQ4eN9wzZg\n\n🔽？？？ 🔽\n\n🎀ハッシュタグ：#AZKi生誕ライブ2025\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n🎀Credit(敬称略)..."
+            },
+            {
+                "video_id": "gdQ4eN9wzZg",
+                "title": "【3D LIVE】AZKi 7th Birthday Live \"Sweet Pop Story\" 新衣装お披露目＆重大発表【#AZKi生誕ライブ2025】",
+                "date": "2025/07/01 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/gdQ4eN9wzZg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnUrCTwxeHQLCDAgWllGpVqcQY4A",
+                "description": "🔽【MemberOnly】アンコールLIVE 🔽\nhttps://youtube.com/live/XLPqnHQeuqU\n\n🔽？？？ 🔽\n\n🎀ハッシュタグ：#AZKi生誕ライブ2025\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈..."
+            }
+        ]
+    },
+    "@AiraniIofifteen": {
+        "channel_url": "https://www.youtube.com/@AiraniIofifteen",
+        "channel_name": "Airani Iofifteen Channel hololive-ID",
+        "avatar_url": "https://yt3.googleusercontent.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc",
+        "videos": []
+    },
     "@AkaiHaato": {
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
@@ -12,6 +39,12 @@
                 "description": "❤️‍🔥はあちゃま7周年記念グッズ販売開始❤️‍🔥\n◇こちらからチェック👉https://x.gd/yrfaI\n 2025年07月07日 18時00分まで！購入はお早めに！✨..."
             }
         ]
+    },
+    "@AkiRosenthal": {
+        "channel_url": "https://www.youtube.com/@AkiRosenthal",
+        "channel_name": "AkiRosenthal Ch. hololive-JP",
+        "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
+        "videos": []
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -27,11 +60,37 @@
             }
         ]
     },
+    "@AnyaMelfissa": {
+        "channel_url": "https://www.youtube.com/@AnyaMelfissa",
+        "channel_name": "Anya Melfissa Ch. hololive-ID",
+        "avatar_url": "https://yt3.googleusercontent.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz",
+        "videos": []
+    },
+    "@AyundaRisu": {
+        "channel_url": "https://www.youtube.com/@AyundaRisu",
+        "channel_name": "Ayunda Risu Ch. hololive-ID",
+        "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
+        "videos": []
+    },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
         "channel_name": "Ceres Fauna Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/TxZ0xm54BKwYJGEoMPda7gK5iPu7Eh0CxLPM4EU9blg4m6ATy5d8NtwBVSOOZFbRdB67PtUf",
         "videos": []
+    },
+    "@FUWAMOCOch": {
+        "channel_url": "https://www.youtube.com/@FUWAMOCOch",
+        "channel_name": "FUWAMOCO Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
+        "videos": [
+            {
+                "video_id": "N4X1wAhM3ks",
+                "title": "【FUWAMOCO MORNING】episode 165 🐾 #FWMCMORNING",
+                "date": "2025/06/30 22:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/N4X1wAhM3ks/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_P4A2TwKTcFD_RqwxOZrv31Fa_Q",
+                "description": "bau bau everywhere we go ✨\nlovely illustration by @CindryShoo 💕\njingle by @Sarina_A_Elysia ♪\n\n✨️🩵🩷 Go watch our 𝗙𝗨𝗪𝗔𝗠𝗢𝗖𝗢 𝟯𝗗 𝗕𝗜𝗥𝗧𝗛𝗗..."
+            }
+        ]
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -53,10 +112,40 @@
             }
         ]
     },
+    "@HakuiKoyori": {
+        "channel_url": "https://www.youtube.com/@HakuiKoyori",
+        "channel_name": "Koyori ch. 博衣こより - holoX -",
+        "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
+        "videos": []
+    },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
+        "videos": []
+    },
+    "@HiodoshiAo": {
+        "channel_url": "https://www.youtube.com/@HiodoshiAo",
+        "channel_name": "Ao Ch. 火威青 ‐ ReGLOSS",
+        "avatar_url": "https://yt3.googleusercontent.com/5ORfvtCTg1dnyGVq9omlDYYSymrdiSqAAY-1IKH_U9V5o9mzfh7qTwO1qI_AtqOKTlIT_Em77ss",
+        "videos": []
+    },
+    "@HoshimachiSuisei": {
+        "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
+        "channel_name": "Suisei Channel",
+        "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
+        "videos": []
+    },
+    "@HoushouMarine": {
+        "channel_url": "https://www.youtube.com/@HoushouMarine",
+        "channel_name": "Marine Ch. 宝鐘マリン",
+        "avatar_url": "https://yt3.googleusercontent.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk",
+        "videos": []
+    },
+    "@IRyS": {
+        "channel_url": "https://www.youtube.com/@IRyS",
+        "channel_name": "IRyS Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
         "videos": []
     },
     "@IchijouRirika": {
@@ -71,10 +160,22 @@
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
         "videos": []
     },
+    "@IsakiRiona": {
+        "channel_url": "https://www.youtube.com/@IsakiRiona",
+        "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+        "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
+        "videos": []
+    },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
+        "videos": []
+    },
+    "@KaelaKovalskia": {
+        "channel_url": "https://www.youtube.com/@KaelaKovalskia",
+        "channel_name": "Kaela Kovalskia Ch. hololive-ID",
+        "avatar_url": "https://yt3.googleusercontent.com/VL9aJ1o3yrN_xzHKTX0PvArQjUDHhtWtOtAYWjpzkqoFxR5HHWmWRWNgu6M5l4nSibqLaeKXqA",
         "videos": []
     },
     "@KikiraraVivi": {
@@ -99,6 +200,18 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
+        "videos": []
+    },
+    "@KureijiOllie": {
+        "channel_url": "https://www.youtube.com/@KureijiOllie",
+        "channel_name": "Kureiji Ollie Ch. hololive-ID",
+        "avatar_url": "https://yt3.googleusercontent.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
+        "videos": []
+    },
+    "@LaplusDarknesss": {
+        "channel_url": "https://www.youtube.com/@LaplusDarknesss",
+        "channel_name": "Laplus ch. ラプラス・ダークネス - holoX -",
+        "avatar_url": "https://yt3.googleusercontent.com/6Y5lj4DhikLBo0UqIZ1dT3-D3aYXVPbxUgNTyYiyE_Se8AVxkGAn05D3oc1y3whpzDu-CzEQ",
         "videos": []
     },
     "@MizumiyaSu": {
@@ -163,6 +276,12 @@
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
         "videos": []
     },
+    "@NerissaRavencroft": {
+        "channel_url": "https://www.youtube.com/@NerissaRavencroft",
+        "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ",
+        "videos": []
+    },
     "@NinomaeInanis": {
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
@@ -201,6 +320,18 @@
         "avatar_url": "https://yt3.googleusercontent.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC",
         "videos": []
     },
+    "@OuroKronii": {
+        "channel_url": "https://www.youtube.com/@OuroKronii",
+        "channel_name": "Ouro Kronii Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
+        "videos": []
+    },
+    "@PavoliaReine": {
+        "channel_url": "https://www.youtube.com/@PavoliaReine",
+        "channel_name": "Pavolia Reine Ch. hololive-ID",
+        "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
+        "videos": []
+    },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -211,6 +342,36 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/gKitLHfMqsfmC26xRBBNBVE9jz4m0X-xAvcdPUwy8VPa4FCw0-XRxOKLvJZxm-lQnIDQU2rDA0k",
+        "videos": []
+    },
+    "@SakamataChloe": {
+        "channel_url": "https://www.youtube.com/@SakamataChloe",
+        "channel_name": "Chloe ch. 沙花叉クロヱ - holoX -",
+        "avatar_url": "https://yt3.googleusercontent.com/laCUmozlesp2wZd9k_DCDG_AYgQRGJm0yiL5pigqWAJE1TzYaOXQ6VcfEGacl8L-gpgR07I7HA",
+        "videos": []
+    },
+    "@SakuraMiko": {
+        "channel_url": "https://www.youtube.com/@SakuraMiko",
+        "channel_name": "Miko Ch. さくらみこ",
+        "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
+        "videos": []
+    },
+    "@ShioriNovella": {
+        "channel_url": "https://www.youtube.com/@ShioriNovella",
+        "channel_name": "Shiori Novella Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
+        "videos": []
+    },
+    "@ShirakamiFubuki": {
+        "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
+        "channel_name": "フブキCh。白上フブキ",
+        "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
+        "videos": []
+    },
+    "@ShiroganeNoel": {
+        "channel_url": "https://www.youtube.com/@ShiroganeNoel",
+        "channel_name": "Noel Ch. 白銀ノエル",
+        "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
         "videos": []
     },
     "@ShishiroBotan": {
@@ -251,16 +412,34 @@
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
         "videos": []
     },
+    "@TokoyamiTowa": {
+        "channel_url": "https://www.youtube.com/@TokoyamiTowa",
+        "channel_name": "Towa Ch. 常闇トワ",
+        "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
+        "videos": []
+    },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
         "videos": []
     },
+    "@VestiaZeta": {
+        "channel_url": "https://www.youtube.com/@VestiaZeta",
+        "channel_name": "Vestia Zeta Ch. hololive-ID",
+        "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
+        "videos": []
+    },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
         "channel_name": "Watson Amelia Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/WrANARkFwg4mlLa7SonZpwhS9_wiepSBhVGH90pIaXQsKCoBNiu3zyWVqW3nfBlbLTgOiOFO",
+        "videos": []
+    },
+    "@YukihanaLamy": {
+        "channel_url": "https://www.youtube.com/@YukihanaLamy",
+        "channel_name": "Lamy Ch. 雪花ラミィ",
+        "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
         "videos": []
     },
     "@YuzukiChoco": {
@@ -283,6 +462,12 @@
             }
         ]
     },
+    "@holoen_ceciliaimmergreen": {
+        "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
+        "channel_name": "Cecilia Immergreen Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
+        "videos": []
+    },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -303,6 +488,32 @@
             }
         ]
     },
+    "@holoen_raorapanthera": {
+        "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
+        "channel_name": "Raora Panthera Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
+        "videos": []
+    },
+    "@kazamairoha": {
+        "channel_url": "https://www.youtube.com/@kazamairoha",
+        "channel_name": "Iroha ch. 風真いろは - holoX -",
+        "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
+        "videos": [
+            {
+                "video_id": "7nBxQe7Y4uQ",
+                "title": "【配信予定地】未来で～～す！みってるぅ？【風真いろは/ホロライブ】",
+                "date": "2025/07/02 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/7nBxQe7Y4uQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDrWzuTvUQhv5zwxHXp6_u2GuEDVQ",
+                "description": "*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――\n\n💚風真いろはからのおしらせ💚\n\n💚風真いろは 誕生日記念2025..."
+            }
+        ]
+    },
+    "@mikenekoko": {
+        "channel_url": "https://www.youtube.com/@mikenekoko",
+        "channel_name": "みけねこch",
+        "avatar_url": "https://yt3.googleusercontent.com/_bT74ettx8Ei9p0zHrSbKdAe1oyaCAbbbXa9teIsxgOtlPl2RADYotJ_kGKwHsNdtWh8D2Hu",
+        "videos": []
+    },
     "@niminightmare": {
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
@@ -313,6 +524,12 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
+        "videos": []
+    },
+    "@結城さくな": {
+        "channel_url": "https://www.youtube.com/@結城さくな",
+        "channel_name": "Sakuna Ch. 結城さくな",
+        "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
         "videos": []
     }
 }
