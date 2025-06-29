@@ -496,7 +496,15 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "SHyNsDPgDwA",
+                "title": "【ゴブリン・ノーム・ホーン】そら、働きます！！倒します！！【ホロライブ/ときのそら】",
+                "date": "2025/06/29 13:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/SHyNsDPgDwA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhRpgq1ogRIw6cQOeX2dGeQgXLyg",
+                "description": "配信タイトル：ゴブリン・ノーム・ホーン\nストアページ：https://store.steampowered.com/app/3675060/_/\n\n★★★★★★★★★★★★★★★★★★★★★★..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
@@ -526,15 +534,7 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": [
-            {
-                "video_id": "U40ww1XaIi8",
-                "title": "【R.E.P.O.】完全初見R.E.P.O.！尾丸先生、よろしくお願いします！【尾丸ポルカ・雪花ラミィ /ホロライブ】",
-                "date": "2025/06/29 13:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/U40ww1XaIi8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkZXcIuFKKRUCpCRpGWPq7ey3KaA",
-                "description": "​@OmaruPolka \n\n配信タイトル：R.E.P.O.\nストアページ：https://store.steampowered.com/app/3241660/REPO/\n\n感想は #ポルラミ で呟いて頂けたら嬉しいです！\n\nイラス..."
-            }
-        ]
+        "videos": []
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
