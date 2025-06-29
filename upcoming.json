@@ -390,7 +390,22 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "OC9twC8iM6U",
+                "title": "【歌枠/KARAOKE】40万人めざして！！！！【輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "date": "2025/06/29 15:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/OC9twC8iM6U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgXlZJZBJIH8S8boLmFOskjEuhSw",
+                "description": "めちゃくちゃ緊張しています・・・・！！\nがんばる！！！！！\n\nサムネイルイラスト：岐兎こるたさま\nhttps://x.com/kito_koruta\nありがとうございます..."
+            },
+            {
+                "video_id": "Z06s1xOUstE",
+                "title": "【メン限ラジオ】輪堂千速のニックナイトガレーディオ #2【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "date": "2025/06/29 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Z06s1xOUstE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUZGEPBsUxaVoqxsHTXvjo2cw6ag",
+                "description": "遂に正式にはじまったぞ～～～～！\n\nサムネイルイラスト：ピヨさま\nhttps://x.com/_piyoDuck\n\nこの配信でいただいたスーパーチャットなどは最後にお名..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -408,7 +423,15 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "5IAqnggKV_w",
+                "title": "【 UFC5 】はじめての総合格闘技デビュー⁉ ブレイキングミコだああああああああああ‼🔥【ホロライブ/さくらみこ】",
+                "date": "2025/06/29 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/5IAqnggKV_w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvqnLgGxOXLpROdEiZWI-NSLqAHw",
+                "description": "まずはキャラクリから・・・・・・・・まぢかかってこいや゛‼🐱\n\n⪩⪨　お知らせ/ɪɴғᴏ\n￣￣￣￣￣￣￣￣￣￣￣￣￣\n　🌸さくらみこ1st..."
+            }
+        ]
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
@@ -496,15 +519,7 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": [
-            {
-                "video_id": "SHyNsDPgDwA",
-                "title": "【ゴブリン・ノーム・ホーン】そら、働きます！！倒します！！【ホロライブ/ときのそら】",
-                "date": "2025/06/29 13:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/SHyNsDPgDwA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhRpgq1ogRIw6cQOeX2dGeQgXLyg",
-                "description": "配信タイトル：ゴブリン・ノーム・ホーン\nストアページ：https://store.steampowered.com/app/3675060/_/\n\n★★★★★★★★★★★★★★★★★★★★★★..."
-            }
-        ]
+        "videos": []
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",

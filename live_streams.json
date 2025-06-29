@@ -381,7 +381,14 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "SHyNsDPgDwA",
+                "title": "【ゴブリン・ノーム・ホーン】そら、働きます！！倒します！！【ホロライブ/ときのそら】",
+                "thumbnail": "https://i.ytimg.com/vi/SHyNsDPgDwA/hqdefault.jpg?v=6860dd07&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhRpgq1ogRIw6cQOeX2dGeQgXLyg",
+                "description": "配信タイトル：ゴブリン・ノーム・ホーン\nストアページ：https://store.steampowered.com/app/3675060/_/\n\n～サムネイラスト～\n柴あまり様\nhttps://x.com/ama_shiiiiiib..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
