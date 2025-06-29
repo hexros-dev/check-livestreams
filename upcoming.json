@@ -24,7 +24,15 @@
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
         "channel_name": "Airani Iofifteen Channel hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "I3LkWVsXTdI",
+                "title": "GARTIC PHONE WITH KKC!【 iofi / hololiveID 】",
+                "date": "2025/06/29 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/I3LkWVsXTdI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjPhHzrNR1CiQPrN76iz4v5Yp62Q",
+                "description": "#ioLyfe #Airani_Iofifteen #hololive #holoID #garticphone \n\n本ゲームはOnrizon Social Gamesに確認の上配信・収益化を行っております\nGartic Phone\nhttps://gartic.com/garticphone..."
+            }
+        ]
     },
     "@AkaiHaato": {
         "channel_url": "https://www.youtube.com/@AkaiHaato",
@@ -161,12 +169,6 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
-    },
-    "@IchijouRirika": {
-        "channel_url": "https://www.youtube.com/@IchijouRirika",
-        "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
-        "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
         "videos": []
     },
     "@InugamiKorone": {
@@ -372,12 +374,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
         "videos": []
     },
-    "@PavoliaReine": {
-        "channel_url": "https://www.youtube.com/@PavoliaReine",
-        "channel_name": "Pavolia Reine Ch. hololive-ID",
-        "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
-    },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -442,20 +438,6 @@
             }
         ]
     },
-    "@TakanashiKiara": {
-        "channel_url": "https://www.youtube.com/@TakanashiKiara",
-        "channel_name": "Takanashi Kiara Ch. hololive-EN",
-        "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": [
-            {
-                "video_id": "1uGO5HAfgFE",
-                "title": "【UNARCHIVED KARAOKE\\】Marathon to 1.600.000 Subs PART 2! In my PERFUME SWIMSUIT! #kfp #キアライブ",
-                "date": "2025/06/30 00:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/1uGO5HAfgFE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_kJfELHw4nf0kIMJF9cEQgOiUZA",
-                "description": "stream my new song, PERFUME✨ https://cover.lnk.to/zJ4BEH\nmodel made by  @holoen_raorapanthera  and SIvan!!! thumbnail art by  @yubbii_draw  \n\n 🏵️[Twitter] 🏵️\nhttps://twitter.com/takanas..."
-            }
-        ]
-    },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -513,12 +495,6 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
-        "videos": []
-    },
-    "@WatsonAmelia": {
-        "channel_url": "https://www.youtube.com/@WatsonAmelia",
-        "channel_name": "Watson Amelia Ch. hololive-EN",
-        "avatar_url": "https://yt3.googleusercontent.com/WrANARkFwg4mlLa7SonZpwhS9_wiepSBhVGH90pIaXQsKCoBNiu3zyWVqW3nfBlbLTgOiOFO",
         "videos": []
     },
     "@YukihanaLamy": {

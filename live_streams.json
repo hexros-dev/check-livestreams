@@ -115,12 +115,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
         "videos": []
     },
-    "@IchijouRirika": {
-        "channel_url": "https://www.youtube.com/@IchijouRirika",
-        "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
-        "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
-        "videos": []
-    },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
@@ -156,7 +150,14 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "fD7AigWCGNk",
+                "title": "【歌枠/KARAOKE】縦型歌枠【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "thumbnail": "https://i.ytimg.com/vi/fD7AigWCGNk/hqdefault.jpg?v=6860c967&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlXAhYwjQn3aachb-JXH2082_m2Q",
+                "description": "サムネイルの素敵なイラスト ちゃんまろるさん　 https://x.com/chanmarorunoe?s=21&t=Qf1sKb_hr2Qa-yhuZiFlLw　\n\n✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -192,14 +193,7 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": [
-            {
-                "video_id": "ccfFZ7pOEM8",
-                "title": "【同時視聴】サンリオキャラクター大賞！サムくん！！！！【水宮枢／FLOW GLOW】#hololiveDEV_IS",
-                "thumbnail": "https://i.ytimg.com/vi/ccfFZ7pOEM8/hqdefault.jpg?v=6860bdf3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYGcrMcLZjfb6psIQvxNxyeDTNrw",
-                "description": "​https://www.youtube.com/live/V0VTgwdzyk8?si=gGWkLKIw5IeSZpg6\n▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸◂┄▹◃\n\n💙メンバーシップはこちらから ⬇️\nClick here for..."
-            }
-        ]
+        "videos": []
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -305,12 +299,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
         "videos": []
     },
-    "@PavoliaReine": {
-        "channel_url": "https://www.youtube.com/@PavoliaReine",
-        "channel_name": "Pavolia Reine Ch. hololive-ID",
-        "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
-    },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -359,12 +347,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
         "videos": []
     },
-    "@TakanashiKiara": {
-        "channel_url": "https://www.youtube.com/@TakanashiKiara",
-        "channel_name": "Takanashi Kiara Ch. hololive-EN",
-        "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
-    },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -399,12 +381,6 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
-        "videos": []
-    },
-    "@WatsonAmelia": {
-        "channel_url": "https://www.youtube.com/@WatsonAmelia",
-        "channel_name": "Watson Amelia Ch. hololive-EN",
-        "avatar_url": "https://yt3.googleusercontent.com/WrANARkFwg4mlLa7SonZpwhS9_wiepSBhVGH90pIaXQsKCoBNiu3zyWVqW3nfBlbLTgOiOFO",
         "videos": []
     },
     "@YukihanaLamy": {
