@@ -149,14 +149,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": [
-            {
-                "video_id": "fD7AigWCGNk",
-                "title": "【歌枠/KARAOKE】縦型歌枠【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "thumbnail": "https://i.ytimg.com/vi/fD7AigWCGNk/hqdefault.jpg?v=6860c967&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlXAhYwjQn3aachb-JXH2082_m2Q",
-                "description": "サムネイルの素敵なイラスト ちゃんまろるさん　 https://x.com/chanmarorunoe?s=21&t=Qf1sKb_hr2Qa-yhuZiFlLw　\n\n✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -431,7 +424,14 @@
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
         "channel_name": "Choco Ch. 癒月ちょこ",
         "avatar_url": "https://yt3.googleusercontent.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Hb9MprkI6Dc",
+                "title": "【重大告知あり】癒月ちょこが新衣装お披露目するってよ📣 【ホロライブ/癒月ちょこ】",
+                "thumbnail": "https://i.ytimg.com/vi/Hb9MprkI6Dc/hqdefault.jpg?v=685ffaa0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDARC6yRR_lswsnEMfX_wdK4wl7Zg",
+                "description": "サブ垢→https://www.youtube.com/channel/UCp3tgHXw_HI0QMk1K8qh3g\n\nなんと！突然ですが\n新衣装お披露目します！\n#癒月ちょこ新衣装予想\n で予想してみてねჱ̒¯..."
+            }
+        ]
     },
     "@dooby3d": {
         "channel_url": "https://www.youtube.com/@dooby3d",
