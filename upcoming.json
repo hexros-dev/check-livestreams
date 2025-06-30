@@ -40,12 +40,6 @@
             }
         ]
     },
-    "@AkiRosenthal": {
-        "channel_url": "https://www.youtube.com/@AkiRosenthal",
-        "channel_name": "AkiRosenthal Ch. hololive-JP",
-        "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
-    },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
         "channel_name": "Kanata Ch. Kanata Amane",
@@ -98,20 +92,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/6BCfAqi9yIpZbHLbw9BAWySvB3XZf9r8jFqudO5nSOsHoGzLhlKrm1M1uuMCRabi_pXGDzl7",
         "videos": []
     },
-    "@HakosBaelz": {
-        "channel_url": "https://www.youtube.com/@HakosBaelz",
-        "channel_name": "Hakos Baelz Ch. hololive-EN",
-        "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": [
-            {
-                "video_id": "a4c9FdCdfJk",
-                "title": "≪PROMISE COLLAB≫ KPOP DEMON HUNTERS WATCHALONG!!! #holopromise",
-                "date": "2025/06/30 10:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/a4c9FdCdfJk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYQ0kk3U34nlXZeJJlhslDtEOMwQ",
-                "description": "I'm ready to lose my fucken mind \nw/ @OuroKronii @IRyS \n\nThumbnail Art: https://x.com/DDOLBANG11/status/1938973872180863267\n\n#telebae  #hololiveenglish \n\n««≪ °◇◆◇° ≫ »»\n\n≪..."
-            }
-        ]
-    },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
@@ -124,10 +104,10 @@
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
         "videos": [
             {
-                "video_id": "RzjwdD2WzCY",
+                "video_id": "zLY5MyJhQaw",
                 "title": "【 視聴者参加型 】荒野ホロ杯2025～hololive最強決定戦なのら！～DAY2【姫森ルーナ/ホロライブ】",
                 "date": "2025/06/30 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/RzjwdD2WzCY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqyw2_VTIhv6h8RC9JrdPb8SC97g",
+                "thumbnail": "https://i.ytimg.com/vi/zLY5MyJhQaw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAuaYZvwr6H0Pen1ZWwAT0y_tr9QQ",
                 "description": "提供：NetEase Games\n「荒野行動」ダウンロードはこちら👇\n https://knivesout.onelink.me/fi9O/u9l312cy\n \n#荒野行動 × #ホロライブ 6月27日からコラボスタート..."
             }
         ]
@@ -202,12 +182,6 @@
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
         "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/ACubs_Mw4YtmgHDIIZvW_gZaPf_VR1wg9yffFLsq4Lrw-W7Md-0pK4Gob8OJebCYCmgrArsE",
-        "videos": []
-    },
-    "@KosekiBijou": {
-        "channel_url": "https://www.youtube.com/@KosekiBijou",
-        "channel_name": "Koseki Bijou Ch. hololive-EN",
-        "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
         "videos": []
     },
     "@KureijiOllie": {
@@ -304,20 +278,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
         "videos": []
     },
-    "@OmaruPolka": {
-        "channel_url": "https://www.youtube.com/@OmaruPolka",
-        "channel_name": "Polka Ch. 尾丸ポルカ",
-        "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": [
-            {
-                "video_id": "rrUYOjQr30c",
-                "title": "【R.E.P.O.】ねぽらぼって盗るの得意だから・・・初見も連れていｋｚ！！！！ 【尾丸ポルカ視点/ホロライブ】",
-                "date": "2025/06/30 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/rrUYOjQr30c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhl4X94dBjdgjwCzQxMSM74BXQww",
-                "description": "4面まで行けたら奇跡\n#ねぽらぼ \n\n@MomosuzuNene 絶対ツボを割る\n@YukihanaLamy 一応ホラー苦手\n@ShishiroBotan すぐ順応して敵を倒す\n\n\n配信タイトル：R.E.P.O...."
-            }
-        ]
-    },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
@@ -340,12 +300,6 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": []
-    },
-    "@PavoliaReine": {
-        "channel_url": "https://www.youtube.com/@PavoliaReine",
-        "channel_name": "Pavolia Reine Ch. hololive-ID",
-        "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
         "videos": []
     },
     "@RindoChihaya": {
@@ -371,20 +325,6 @@
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
         "videos": []
-    },
-    "@ShioriNovella": {
-        "channel_url": "https://www.youtube.com/@ShioriNovella",
-        "channel_name": "Shiori Novella Ch. hololive-EN",
-        "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": [
-            {
-                "video_id": "6NTAz5O8YBU",
-                "title": "Triple Cutie Threats【Dark and Darker】",
-                "date": "2025/06/30 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/6NTAz5O8YBU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAVJ1TaZtLUyklyITPVej_MboNntQ",
-                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n\n==============..."
-            }
-        ]
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
@@ -538,12 +478,6 @@
                 "description": "提供：NetEase Games\n「荒野行動」ダウンロードはこちら👇\nhttps://www.knivesout.jp/?is_retargeting=true&source_caller=ui&af_inactivity_window=14d&shortlink=u9l312cy&c=pr_g83na_41_..."
             }
         ]
-    },
-    "@mikenekoko": {
-        "channel_url": "https://www.youtube.com/@mikenekoko",
-        "channel_name": "みけねこch",
-        "avatar_url": "https://yt3.googleusercontent.com/_bT74ettx8Ei9p0zHrSbKdAe1oyaCAbbbXa9teIsxgOtlPl2RADYotJ_kGKwHsNdtWh8D2Hu",
-        "videos": []
     },
     "@niminightmare": {
         "channel_url": "https://www.youtube.com/@niminightmare",
