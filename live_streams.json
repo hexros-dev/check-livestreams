@@ -39,7 +39,14 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "J-QI2rVsHsU",
+                "title": "the Monday Morning Malas",
+                "thumbnail": "https://i.ytimg.com/vi/J-QI2rVsHsU/hqdefault.jpg?v=6861edfd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCV2jZ96rBypy2X-lZYJ6BAzNnBBg",
+                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nーーーーーーーーー\n\nSTREAM MY NEWEST ORIGINAL SONG メトロポリス (metropolis) IN YOUR PREFERRED MUSIC STREAMING PLATFROM!!!..."
+            }
+        ]
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -153,14 +160,7 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": [
-            {
-                "video_id": "u-fjXnxjID8",
-                "title": "【THAT'S WILD?! 24 HOUR CHARITY STREAM】PART 4 (FINAL) #thatswild2025 #calliolive #kosekibijou",
-                "thumbnail": "https://i.ytimg.com/vi/u-fjXnxjID8/hqdefault.jpg?v=6861b715&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCiSuYbxpf_Vn0g7Ji9P7dY_wh6mQ",
-                "description": "Donate to Wildlife Warriors Worldwide TODAY! https://tilt.fyi/uZIThIgk3w\nMore info on me and Biboo's Campaign: https://tilt.fyi/qIGUWDdrcB\n\nCheck out the great work being done by Wildlife Warriors..."
-            }
-        ]
+        "videos": []
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
