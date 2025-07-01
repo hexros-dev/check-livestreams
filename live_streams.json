@@ -267,14 +267,7 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": [
-            {
-                "video_id": "BI6li2cyufk",
-                "title": "I M NOT GONNA CRASH OUT (BASS UNARCHIVED)",
-                "thumbnail": "https://i.ytimg.com/vi/BI6li2cyufk/hqdefault.jpg?v=68635087&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSHieRWozZFUTl1Hy8EtWsdyg6WQ",
-                "description": "Reine's new original song now 「Yummy Yum Yummy!」AVAILABLE on iTunes, Apple Music, Spotify etc. Click to stream!\nパヴォリア・レイネ新曲「ヤミヤムヤミ」\nhttps://cover.lnk.to/mU..."
-            }
-        ]
+        "videos": []
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -364,7 +357,14 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Xh3vnLaztXE",
+                "title": "【Hitman 3】 We're so back.",
+                "thumbnail": "https://i.ytimg.com/vi/Xh3vnLaztXE/hqdefault.jpg?v=6863717f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcYoJiTEkJt0vXocXM4KyblYze5w",
+                "description": "Game title: HITMAN World of Assassination\nThis game is being streamed with permission from IO Interactive.\nhttps://store.steampowered.com/sub/672746/\n\n\n-----\nVestia Zeta's  2nd Original Song..."
+            }
+        ]
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
