@@ -301,7 +301,15 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "jE7AeRNjoyk",
+                "title": "【OHAPOL】#172 7/2水曜日！新シーズンがくる #ポルカ公演中 【尾丸ポルカ/ホロライブ】",
+                "date": "2025/07/02 04:15:00",
+                "thumbnail": "https://i.ytimg.com/vi/jE7AeRNjoyk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCfdU4o-9WeN5JGWVvKu1XnkPoPpQ",
+                "description": "OHAPOL（おはポル）は不定期で朝6時から配信！\n主に水曜〜日曜に開催されることが多いですが、毎日ではありません。\n「起きられたらやる！」と..."
+            }
+        ]
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
