@@ -46,7 +46,14 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Tl0JOSYZr-0",
+                "title": "Prisuners (Long) Night",
+                "thumbnail": "https://i.ytimg.com/vi/Tl0JOSYZr-0/hqdefault.jpg?v=6863b7ce&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlUETZwQY5xILBmW1N75zTWq2NwA",
+                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nーーーーーーーーー\nCHECK OUT RISU 5TH ANNIVERSARY MERCH!\nSales start: 10 April 2025, 21:00 WIB/ 23:00 JST\nSales end: 12 May..."
+            }
+        ]
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -184,14 +191,7 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": [
-            {
-                "video_id": "4PDvV8XPc3M",
-                "title": "【R.E.P.O.】ひとりでもクリアできるもんまつりぽるか付き【 桃鈴ねね / hololive 】",
-                "thumbnail": "https://i.ytimg.com/vi/4PDvV8XPc3M/hqdefault.jpg?v=6863a130&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXoLK95aHXO9d3nP2G_YMoLKgjWQ",
-                "description": "@OmaruPolka ねねの最強のスタンドの一人\n@NatsuiroMatsuri おでの最強のスタンドの一人\n⸜♡⸝MemberShipに入ったらもっとねねを知れるﾖ\nhttps://www.youtube.com..."
-            }
-        ]
+        "videos": []
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
@@ -227,14 +227,7 @@
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
-        "videos": [
-            {
-                "video_id": "6DfhtZci8Qk",
-                "title": "【 R.E.P.O. 】【ホロライブ/夏色まつり】",
-                "thumbnail": "https://i.ytimg.com/vi/6DfhtZci8Qk/hqdefault.jpg?v=6863a320&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9ZtqiwK7gvftgcLpIR94WrQiGJQ",
-                "description": "...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\n\n素敵なサムネイル→とくまろ様\n\n@tokumaro\n\n\n配信タイトル：R.E.P.O.\nストア..."
-            }
-        ]
+        "videos": []
     },
     "@NekomataOkayu": {
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
@@ -258,14 +251,7 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": [
-            {
-                "video_id": "_7gbq_AoTnM",
-                "title": "【R.E.P.O.】ねねを見守る【尾丸ポルカ視点/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/_7gbq_AoTnM/hqdefault.jpg?v=68639c75&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtdD4IqOn9PcWfpUPDcyOPdWk3BA",
-                "description": "@MomosuzuNene ホラーって知らなかったらしい\n@NatsuiroMatsuri プロ参戦\n\n\n配信タイトル：R.E.P.O.\nストアページ：https://store.steampowered.com/app/3241660/REPO/..."
-            }
-        ]
+        "videos": []
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",

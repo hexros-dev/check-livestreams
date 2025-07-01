@@ -63,15 +63,7 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": [
-            {
-                "video_id": "Tl0JOSYZr-0",
-                "title": "Prisuners (Long) Night",
-                "date": "2025/07/01 18:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/Tl0JOSYZr-0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlUETZwQY5xILBmW1N75zTWq2NwA",
-                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nーーーーーーーーー\nCHECK OUT RISU 5TH ANNIVERSARY MERCH!\nSales start: 10 April 2025, 21:00 WIB/ 23:00 JST\nSales end: 12 May..."
-            }
-        ]
+        "videos": []
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -363,7 +355,7 @@
             },
             {
                 "video_id": "oryWoTSfu2s",
-                "title": "【】【ホロライブ/大空スバル】",
+                "title": "【#生スバル】お誕生日カウントダウンしゅばああああああああああああああああああああああああ！！！！！！【ホロライブ/大空スバル】",
                 "date": "2025/07/01 21:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/oryWoTSfu2s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXUJ-3V0fudzPeFH5pvTYUX9N5yQ",
                 "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n+‥‥‥‥..."
@@ -547,7 +539,15 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "bqPDZ2MP0h8",
+                "title": "【STREET FIGHTER 6】SLEEP FIGHTERⅡ 復習&練習#PR #ドリエル【常闇トワ/ホロライブ】",
+                "date": "2025/07/01 19:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/bqPDZ2MP0h8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDvmqxiVNedAuLOgJdKBD1Jyba2Fg",
+                "description": "提供：ドリエル\n\n「対戦しよう、まず寝よう。」\nhttps://www.ssp.co.jp/drewell/activesleepproject/sleep-fighter2/\n\n\nこの動画およびライブは株式会社カプコンの利..."
+            }
+        ]
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
