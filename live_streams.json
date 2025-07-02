@@ -118,14 +118,7 @@
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": [
-            {
-                "video_id": "Lrfdq8mJQQc",
-                "title": "【 R.E.P.O. 】ソロりソロり U^ｪ^U【 戌神ころね 】",
-                "thumbnail": "https://i.ytimg.com/vi/Lrfdq8mJQQc/hqdefault.jpg?v=6864e3e7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLQFODtvcBNu_YT1hpnDbRHv6d-w",
-                "description": "Play Game : R.E.P.O. ( steam )\nタグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nころねTwitter▶https://twitter.com/inugamikorone..."
-            }
-        ]
+        "videos": []
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
@@ -452,7 +445,14 @@
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
         "channel_name": "Choco Ch. 癒月ちょこ",
         "avatar_url": "https://yt3.googleusercontent.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "LqvPnXNfBdg",
+                "title": "【録画はメン限】深夜の密会☎ASMR 【ホロライブ/癒月ちょこ】",
+                "thumbnail": "https://i.ytimg.com/vi/LqvPnXNfBdg/hqdefault.jpg?v=6864010a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9-WB0iAXN_edCsMZQn_eZQw01pQ",
+                "description": "サブ垢→https://www.youtube.com/channel/UCp3tgHXw_HI0QMk1K8qh3g\n\n癒月ちょこ新衣装記念グッズ\n→https://shop.hololivepro.com/products/yuzukichoco_newoutfit_2025\n\n新衣装デザイ..."
+            }
+        ]
     },
     "@dooby3d": {
         "channel_url": "https://www.youtube.com/@dooby3d",
