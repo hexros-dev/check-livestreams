@@ -92,13 +92,6 @@
                 "date": "2025/07/05 09:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/2H2wedi7JhQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBuwg4F3_zy7QJg-5ciJ9uBsAakVw",
                 "description": "アクアプラスさん、包括許諾ありがとうございます！！助手くんから熱いオススメをもらい、初うたわれるもの体験します！！\n💿1stアルバム「FIR..."
-            },
-            {
-                "video_id": "Y1HEM4T5eS4",
-                "title": "【 シャドバWB 】新作完全初見！古のシャドバ勢、遂に始めます！！！【博衣こより/ホロライブ】",
-                "date": "2025/07/02 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Y1HEM4T5eS4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPGP9CH4a1mgkmzuaAKrmqvq6knw",
-                "description": "シャドバ、独りで大会に参戦したことがあります。1回戦負けしてプロモカードもらって帰ったのはいい想い出です。ミッドレンジロイヤルやアグ..."
             }
         ]
     },
@@ -106,15 +99,7 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": [
-            {
-                "video_id": "HZfJ_-SNLz0",
-                "title": "【 Poppy Playtime | ホラゲ 】ポピープレイタイムやってみるのら！！！ - chapter 3【姫森ルーナ/ホロライブ】",
-                "date": "2025/07/02 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/HZfJ_-SNLz0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAIErznR7KM_LQO9CxDLaaPh7xsRQ",
-                "description": "🍬100万人記念＆新衣装記念2025販売中🍬\n■販売ページURL（2025年7月28日(月) 18時まで）\nhttps://shop.hololivepro.com/products/himemoriluna_subscribers1mandnewoutfit2025..."
-            }
-        ]
+        "videos": []
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -144,15 +129,7 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
-        "videos": [
-            {
-                "video_id": "OEm_cjbXCe8",
-                "title": "【STREET FIGHTER 6】3日目！！ゴールド行きたい！！SLEEP FIGHTERⅡ 練習会場 本田です【一条莉々華/hololive DEV_IS　ReGLOSS】",
-                "date": "2025/07/02 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/OEm_cjbXCe8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBU_Tmps6tyW__-E_5bhr-mlDbdvA",
-                "description": "冷静にケツを落とすんだ\n\nこの動画およびライブは株式会社カプコンの利用許諾を受けて配信しています『ストリートファイター6』\n©CAPCOM CO.,..."
-            }
-        ]
+        "videos": []
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -198,7 +175,15 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "6H5VomjgYMk",
+                "title": "【 Human: Fall Flat 】奏ちゃんと仲良く協力ゲーするぞおおお【#綺々羅々ヴィヴィ 視点 #hololiveDEV_IS #FLOWGLOW】",
+                "date": "2025/07/02 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/6H5VomjgYMk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPBhImXtgi8LW-SWonfgakAQraew",
+                "description": "かわいい先輩@OtonoseKanade \n\n本ゲームは権利者に確認を得た上で配信・収益化を行なっております。\n\nサムネイルの素敵なイラスト　ふっ糖さん..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -449,15 +434,7 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": [
-            {
-                "video_id": "u1mdfpWU8wE",
-                "title": "【#超ゲマズ2 】『hololive GAMERS fes. 超超超超ゲーマーズ2』おさらい＆超超超超重大発表【ホロライブ/白上フブキ/大神ミオ】",
-                "date": "2025/07/02 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/u1mdfpWU8wE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJprjKjqIhclLxhP9yUpRQGXNPog",
-                "description": "フブミオで『hololive GAMERS fes. 超超超超ゲーマーズ2』当日のおさらい✨ \n超超超超重大発表もあります‼️ \n\n🌽『超超超超ゲーマーズ2』イベント公..."
-            }
-        ]
+        "videos": []
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -612,15 +589,7 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
-        "videos": [
-            {
-                "video_id": "7nBxQe7Y4uQ",
-                "title": "【Minecraft】だいぶお久しぶりエンドラRTA⛏練習しないとまずいですよ🔥【風真いろは/ホロライブ】",
-                "date": "2025/07/02 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/7nBxQe7Y4uQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDrWzuTvUQhv5zwxHXp6_u2GuEDVQ",
-                "description": "前回記録約1時間22分\nしばらくぶりだし来るときに備えて練習・・⛏\n\nサムネイルイラスト\nhttps://x.com/twumi425/status/1933099687281934507\n\n※本ゲームは..."
-            }
-        ]
+        "videos": []
     },
     "@mikenekoko": {
         "channel_url": "https://www.youtube.com/@mikenekoko",
