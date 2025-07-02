@@ -151,15 +151,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": [
-            {
-                "video_id": "6H5VomjgYMk",
-                "title": "【 Human: Fall Flat 】奏ちゃんと仲良く協力ゲーするぞおおお【#綺々羅々ヴィヴィ 視点 #hololiveDEV_IS #FLOWGLOW】",
-                "date": "2025/07/02 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/6H5VomjgYMk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPBhImXtgi8LW-SWonfgakAQraew",
-                "description": "かわいい先輩@OtonoseKanade \n\n本ゲームは権利者に確認を得た上で配信・収益化を行なっております。\n\nサムネイルの素敵なイラスト　ふっ糖さん..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -228,7 +220,7 @@
         "videos": [
             {
                 "video_id": "qQw7eJJbYd8",
-                "title": "【 R.E.P.O. 】緊急で動画をまわしています【百鬼あやめ/ホロライブ】",
+                "title": "【 R.E.P.O. 】緊急で動画をまわしています #ホロREPO【百鬼あやめ/ホロライブ】",
                 "date": "2025/07/02 21:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/qQw7eJJbYd8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQ98Du8S6Y-qiuv30OUWO1OAal3w",
                 "description": "- - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - -ഒ˖°\n\n\nサムネイル：https://x.com/Kukie_nyan/status/1931951842034061499\n配信タイトル..."
@@ -277,7 +269,15 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "EQBJh3Yad5Y",
+                "title": "【R.E.P.O.】R　E　P　O　芸　人　た　ち【尾丸ポルカ視点/ホロライブ】",
+                "date": "2025/07/02 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/EQBJh3Yad5Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFPz3LRkgJCurqwqh3YCMZJ7zu6w",
+                "description": "@HoshimachiSuisei どうなってもよくない\n@ShirakamiFubuki M.A.V.\n@NakiriAyame （納品場所）どっちどっち～\n@TakaneLui （道が）間違っているぞ！\n#ホロREPO\n\n配信タ..."
+            }
+        ]
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
@@ -303,15 +303,7 @@
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC",
-        "videos": [
-            {
-                "video_id": "oGSzNNa8m2k",
-                "title": "【 Human: Fall Flat 】ぐにょぐにょ人間になってヴィヴィたんと協力ゲーやっていくぞおお！！【音乃瀬奏視点】#hololiveDEV_IS #ReGLOSS",
-                "date": "2025/07/02 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/oGSzNNa8m2k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRf6l4setrAfsU8Cg-M6i2633-Yw",
-                "description": "▽ヴィヴィたん視点▽\n@KikiraraVivi \n\n୨୧♪:*:･･:*:･♪･:*:･･:*:･♪:♪:*:･･:*:･♪･:*:･･:*:･♪:♪:*:･･:*:･♪･:*:･･:*:･♪:୨୧..."
-            }
-        ]
+        "videos": []
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
@@ -419,21 +411,21 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "u-vnJGtaC9Q",
+                "title": "【R.E.P.O.】コラボはいつも突然に！！DAY６を超えたい！！！　#ホロREPO【ホロライブ/白上フブキ】",
+                "date": "2025/07/02 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/u-vnJGtaC9Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2VnoZ9UZFtDtrx5BmfPiGkKO3Ew",
+                "description": "#ホロREPO\n\n百鬼あやめ　@NakiriAyame \n星街すいせい @HoshimachiSuisei \n尾丸ポルカ　@OmaruPolka \n鷹嶺ルイ　@TakaneLui \n━━━━━━━━━━━━━━━━━━..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": [
-            {
-                "video_id": "weCfPf3Xduk",
-                "title": "【Minecraft】太陽を信仰する者、全ロスでくじけるなかれ(訳：全ロスしたけど立て直すぞ！)【白銀ノエル/ホロライブ】",
-                "date": "2025/07/02 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/weCfPf3Xduk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKSjfJ1ws8U9wK6GUaDCEcHJfhbA",
-                "description": "とりあえずエリトラ以外のダイヤ道具＆装備、つよつよ弓を求めて...ッ！\n\n🔥焚火ASMRボイス販売中🔥→ https://shop.hololivepro.com/products/hololive_asmr_chil..."
-            }
-        ]
+        "videos": []
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -459,7 +451,15 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "jQZWtWtgtRo",
+                "title": "【 #ホロREPO 】またきてしまったか・・・お仕事の時間が・・・【鷹嶺ルイ/ホロライブ】",
+                "date": "2025/07/02 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/jQZWtWtgtRo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnV2jHnCFdBdmDW-bmFri0j5zIjA",
+                "description": "緊急招集コラボ☺\n\n👻メンバー👻\n@ShirakamiFubuki \n@HoshimachiSuisei \n@NakiriAyame \n@OmaruPolka \n\n配信タイトル：R.E.P.O.\nストアページ：https://store.steampowered.com/app..."
+            }
+        ]
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
@@ -491,15 +491,7 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": [
-            {
-                "video_id": "Hv2ATO_zmJQ",
-                "title": "【 グッドピザ、グレートピザ 】いらっしゃいませ！ご注文は？？【角巻わため/ホロライブ４期生】",
-                "date": "2025/07/02 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Hv2ATO_zmJQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDym-qqGvkeitgioO6nJiFBb7KVOw",
-                "description": "今日も元気にピザ屋開店🍕\nタグ：#ドドドライブ\n\n配信タイトル：グッドピザ、グレートピザ\nストアページ：https://store.steampowered.com/app/770810/Good_Piz..."
-            }
-        ]
+        "videos": []
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -524,13 +516,6 @@
                 "date": "2025/07/03 18:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/7nvv5_0hFaE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCAmp7T_3DlA_P-r-0Qp8pREx-BrA",
                 "description": "提供：株式会社SEGA\n\n2025年6月26日リリース！『ペルソナ』シリーズの完全新作ゲーム『ペルソナ５: The Phantom X』\n\n全世界売上本数2,350万本を突破した..."
-            },
-            {
-                "video_id": "eub8diwKYJI",
-                "title": "【R.E.P.O.】ソロでだってお宝さがし出来るもん！！！【雪花ラミィ /ホロライブ】",
-                "date": "2025/07/02 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/eub8diwKYJI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCs6BrH_lST70mnAb08lcZSoaTEbA",
-                "description": "配信タイトル：R.E.P.O.\nストアページ：https://store.steampowered.com/app/3241660/REPO/\n\n感想は #らみらいぶ で呟いて頂けたら嬉しいです！\n\nイラスト：瀬戸の..."
             }
         ]
     },
@@ -600,15 +585,7 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": [
-            {
-                "video_id": "EX8n65KKDx8",
-                "title": "【Minecraft】ホロ鯖アップデートが来る！！！！！！！！！！【ホロライブ/兎田ぺこら】",
-                "date": "2025/07/02 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/EX8n65KKDx8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLMJ0WHlUmqM2HqAqQqdkp72tqTA",
-                "description": "(^O^)\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ #ぺこらいぶ でツイート🎶\n\n本ゲーム..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
