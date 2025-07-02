@@ -135,15 +135,7 @@
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": [
-            {
-                "video_id": "Lrfdq8mJQQc",
-                "title": "【 R.E.P.O. 】ソロりソロり U^ｪ^U【 戌神ころね 】",
-                "date": "2025/07/02 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Lrfdq8mJQQc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLQFODtvcBNu_YT1hpnDbRHv6d-w",
-                "description": "Play Game : R.E.P.O. ( steam )\nタグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nころねTwitter▶https://twitter.com/inugamikorone..."
-            }
-        ]
+        "videos": []
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
@@ -410,7 +402,15 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "0jB6X99wbYQ",
+                "title": "【 ただいま 】お土産話やプチお披露目しちゃおおおおおよおおお！【ホロライブ/ ロボ子さん】",
+                "date": "2025/07/13 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/0jB6X99wbYQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDX4dEk8tCLwKd0LCvnREyKseAAfA",
+                "description": "なにごともなければこのひに！\n時間は変わる可能性があります！\n\n＃ホロライブ　#hololive 　\nｘでは💬  #ロボ子生放送　でポストしてってね✨..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
