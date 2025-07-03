@@ -305,14 +305,7 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": [
-            {
-                "video_id": "Wkp9558Wbk0",
-                "title": "【#生スバル】ホロメンからの！大空スバル印象アンケート【ホロライブ/大空スバル】",
-                "thumbnail": "https://i.ytimg.com/vi/Wkp9558Wbk0/hqdefault.jpg?v=686401f1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBA2GdRu2xjvo69mlb4N2CFb9sqig",
-                "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n+‥‥‥‥..."
-            }
-        ]
+        "videos": []
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -477,7 +470,14 @@
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "fV0erlSovhc",
+                "title": "【PORK】02 ~ 💄",
+                "thumbnail": "https://i.ytimg.com/vi/fV0erlSovhc/hqdefault.jpg?v=686683be&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB7HWclJjjd3oNVvOohaP9k6Yvqrw",
+                "description": "You heard of the Rabbit, well here's the pork where we just talk!\nQuick catch up before I sleeps sweethearts ^.^\n▬▬ι════════ﺤ\n* Thumbnail Liz Art: Yog https://x.com/MassiveYo..."
+            }
+        ]
     },
     "@holoen_gigimurin": {
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
@@ -489,7 +489,14 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "aCfQFkFKwE4",
+                "title": "【WORK WITH ME】POV we work together and we so locked in【ASMRao】",
+                "thumbnail": "https://i.ytimg.com/vi/aCfQFkFKwE4/hqdefault.jpg?v=686619a9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUmGCNTAsnzKZYzmJTLK4OHpUSmA",
+                "description": "『 X formely Twitter 』\nhttps://x.com/raorapanthera\n\n『 Hashtags 』\n╰┈➤ Live  #CiaoRaora\n╰┈➤ Fanarts  #RaorArt\n╰┈➤ Clips  #RaraWara\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
+            }
+        ]
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
