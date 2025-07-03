@@ -113,14 +113,7 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": [
-            {
-                "video_id": "IDAZwcoE1Ks",
-                "title": "【Mecha BREAK】BREAKING OUT THE MECHA✨",
-                "thumbnail": "https://i.ytimg.com/vi/IDAZwcoE1Ks/hqdefault.jpg?v=68660566&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCum7kIaCwkH9oljrDQ_dIosZC2dg",
-                "description": "We are breaking\n\nGame title：Mecha BREAK\nStore page：https://store.steampowered.com/app/2452280/Mecha_BREAK/\n\n#hololiveenglish  #ホロライブ \n\nSTREAM MY NEW ORIGINAL SONG, Diamond Girlfriend..."
-            }
-        ]
+        "videos": []
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -285,7 +278,14 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "dZGrSpkOEUw",
+                "title": "【みんなで空気読み。４】絶体絶命・・？！な状況でも空気を読めと？【 ホロライブ / 大神ミオ 】",
+                "thumbnail": "https://i.ytimg.com/vi/dZGrSpkOEUw/hqdefault.jpg?v=68665b16&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCr3oubFnx22i4wQ8H5OmOCt0V5Jw",
+                "description": "そんなこと言ってる場合・・なのかな・・\n\nサムネillustrator：からすさん　https://x.com/Karasu_0315\n\n本ゲームは株式会社ジー・モードの確認を得た上で..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -315,7 +315,14 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "gPV6O0LaVCU",
+                "title": "【雑談/chat】ゆる～～～～～～～くしゃべろうよお【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "thumbnail": "https://i.ytimg.com/vi/gPV6O0LaVCU/hqdefault.jpg?v=68663359&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBprxuzjyp1TN5AyYSIRSsLv8gGUw",
+                "description": "最近バタバタだったし\n\nサムネイル：涼織フィーカさま\nhttps://x.com/suzuori_fika\nありがとうございます！\n\nありがとうございます！\nねえ、いっしょに..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -345,7 +352,14 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "J-xmRyXYwCg",
+                "title": "【R.E.P.O.】目指せ！！！！ガチで挑むDAY11耐久【ホロライブ/白上フブキ】",
+                "thumbnail": "https://i.ytimg.com/vi/J-xmRyXYwCg/hqdefault.jpg?v=6866473c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXFEJIAiK-kd9h6JpR6qJlel94rA",
+                "description": "#フブキングダム\n\n\n一応タイムリミットは深夜３時頃。\n━━━━━━━━━━━━━━━━━━━━━━━\n✦白上フブキ 活動7周年記念グッズ🌽..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -357,7 +371,14 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "cW0wYD5yJZM",
+                "title": "【ナイトレイン】今日も元気に夜を渡る！－ELDEN RING NIGHTREIGN【獅白ぼたん/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/cW0wYD5yJZM/hqdefault.jpg?v=6865fff7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmcTYYtJANhnBxAi-I61cnfIgdOg",
+                "description": "まだやれてないキャラもいるのでやりたい！夜の王も倒したいぞ～～\n有識者ニキネキ大歓迎\n\n配信ハッシュタグ：#ぐうたらいぶ\nサムネイルのイラ..."
+            }
+        ]
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
@@ -411,7 +432,14 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "7nvv5_0hFaE",
+                "title": "【ペルソナ５: The Phantom X】初心者ペルソナ！最新作ゲーム実況プレイ！！【 雪花ラミィ /ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/7nvv5_0hFaE/hqdefault.jpg?v=6864b2a8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCAmp7T_3DlA_P-r-0Qp8pREx-BrA",
+                "description": "提供：株式会社SEGA\n\n2025年6月26日リリース！『ペルソナ』シリーズの完全新作ゲーム『ペルソナ５: The Phantom X』\n\n全世界売上本数2,350万本を突破した..."
+            }
+        ]
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
@@ -471,7 +499,14 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "cZ8YNXIKbZg",
+                "title": "【Minecraft】ホロ鯖に最新アップデートきｔらあああああああああああ！！！ぺこ！【ホロライブ/兎田ぺこら】",
+                "thumbnail": "https://i.ytimg.com/vi/cZ8YNXIKbZg/hqdefault.jpg?v=686661c4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDijnTAA7vHObNH0fM-UwLab1o8bw",
+                "description": "んちゃ！\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ #ぺこらいぶ でツイート🎶..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
