@@ -47,7 +47,15 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "UsDSQfY-MHI",
+                "title": "Prisuners Night (Long)",
+                "date": "2025/07/04 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/UsDSQfY-MHI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBphifa3-HL7BGQAsvguXOvczCQyw",
+                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nーーーーーーーーー\nCHECK OUT RISU 5TH ANNIVERSARY MERCH!\nSales start: 10 April 2025, 21:00 WIB/ 23:00 JST\nSales end: 12 May..."
+            }
+        ]
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -129,15 +137,7 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
-        "videos": [
-            {
-                "video_id": "0rfkFSbfNog",
-                "title": "【STREET FIGHTER 6】5日目！！チームA会有予定！SLEEP FIGHTERⅡ 練習会場 本田です【一条莉々華/hololive DEV_IS　ReGLOSS】",
-                "date": "2025/07/04 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/0rfkFSbfNog/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkX9gZ0bwm59X54jMDzsGiOLqPPw",
-                "description": "いつだってケツが解決してくれる。\n\n🔽素敵なイラストサムネ🔽\nMomiMomi様\n@DHBWinner\n\nこの動画およびライブは株式会社カプコンの利用許諾を受けて..."
-            }
-        ]
+        "videos": []
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -293,13 +293,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
         "videos": [
             {
-                "video_id": "BhgGzuaZp6s",
-                "title": "【 Nintendo Switch 2 のひみつ展 】まつりに隠し事しないでね♡【ホロライブ/夏色まつり】",
-                "date": "2025/07/04 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/BhgGzuaZp6s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwFWV_2vDWF8XkELGxFGMqfDNsxw",
-                "description": "...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\n\n素敵なサムネイル→Hoshi様\n@___Kita02\n\n\nこの動画およびライブは、任天堂著..."
-            },
-            {
                 "video_id": "Rg4els6dOOA",
                 "title": "【 マリオカートワールド 】ハッチンとサバイバル！【ホロライブ/夏色まつり】",
                 "date": "2025/07/05 12:00:00",
@@ -421,6 +414,13 @@
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
         "videos": [
             {
+                "video_id": "CwKJc-RfFVo",
+                "title": "【R.E.P.O.】初心者奏先輩とプロぽうぽうで稼ぎに行くぞ！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "date": "2025/07/04 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/CwKJc-RfFVo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAI4bQQu4PhtBe3VpO9okOAzZKw2w",
+                "description": "今日のメンバー！\n@OmaruPolka \n@OtonoseKanade \n\n\n配信タイトル：R.E.P.O.\nストアページ：https://store.steampowered.com/app/3241660/REPO/\n\nねえ、いっしょに向こう側の..."
+            },
+            {
                 "video_id": "WrwdZp6xILU",
                 "title": "【#輪堂千速生誕祭2025】birthdayparty！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
                 "date": "2025/07/08 17:30:00",
@@ -491,15 +491,7 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": [
-            {
-                "video_id": "TV99ZsKHTqc",
-                "title": "【OFF COLLAB】Tasting and Rating Bread with  ⁨@Robocosan⁩  and  ⁨@AkiRosenthal⁩  #kfp #キアライブ",
-                "date": "2025/07/04 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/TV99ZsKHTqc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5QLig-uUi-o4bztZXaMPnLjvC0w",
-                "description": "🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara\n\n 🏵️[Hashtags] 🏵️\n#kfp #キアライブ#hololiveenglish #holomyth #takanashikiara \nFANART #KFPicasso\n\n＝＝＝＝＝＝＝＝..."
-            }
-        ]
+        "videos": []
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
