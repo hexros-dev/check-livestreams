@@ -123,7 +123,15 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "MoR4481qDhw",
+                "title": "【UMAMUSUME Pretty Derby】UMAAAAAAAAAAA ✨",
+                "date": "2025/07/05 10:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/MoR4481qDhw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQxqWuHDoP82vlxomjAAw56_7ueg",
+                "description": "the horses have returned to their stables\n\nThis game is distributed and monetized in accordance with the distribution guidelines of Cygames, Inc.\nhttps://umamusume.jp/news/detail?id=107\n\n#hololivee..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
