@@ -336,15 +336,7 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": [
-            {
-                "video_id": "w4rYmCo7Q_Q",
-                "title": "【歌枠/KARAOKE】放課後カラオケタイムだ～～～～～～！！！！！！！【尾丸ポルカ/ホロライブ】",
-                "date": "2025/07/04 15:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/w4rYmCo7Q_Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUoVNViPySakID-Undt2kCRBTRCQ",
-                "description": "夏暑すぎわろたあぁ\n\n\nサムネイルありがとうございます！\nhttps://x.com/WsxmDi\n\nテンプレートありがとうございます！\nhttps://x.com/B_A_9_X\n\n※尾丸ポルカへ..."
-            }
-        ]
+        "videos": []
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
@@ -376,7 +368,15 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "z61UC-JVXmg",
+                "title": "【Touhou Luna Nights】Don't Get In My Way | #1",
+                "date": "2025/07/05 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/z61UC-JVXmg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAa_U2vyGXcJH8jyK5mda_n_08CQg",
+                "description": "This game is being streamed and monetized after confirming with Why so serious, Inc.\n\n[Twitter]\nhttps://twitter.com/ourokronii\n\n[Thumbnail Art]\nhttps://x.com/koizumi_arata\n\n------------------------..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
