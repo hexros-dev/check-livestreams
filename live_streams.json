@@ -413,7 +413,14 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "7h2DEHhr7pY",
+                "title": "【GREMBERS】anotha yap",
+                "thumbnail": "https://i.ytimg.com/vi/7h2DEHhr7pY/hqdefault.jpg?v=6867c3c7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBp-31GCaen8ejDraOD9hNpBkjsTg",
+                "description": "【Acrylic Stands】\n▼Official Online Shop▼\nJP：https://shop.hololivepro.com/products/hololiveen_regularoutfit_acrylicstand\nEN：https://shop.hololivepro.com/en/products/hololiveen_regularoutf..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
