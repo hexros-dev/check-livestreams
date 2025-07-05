@@ -125,15 +125,7 @@
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk",
-        "videos": [
-            {
-                "video_id": "a0XJkcju6go",
-                "title": "【R.E.P.O.】完全初見で3期生とゆく!! 船長として───【ホロライブ/宝鐘マリン】",
-                "date": "2025/07/05 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/a0XJkcju6go/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_tkegNYgOv7CSViwLr3N_GA2P-Q",
-                "description": "@usadapekora @FlareCh.不知火フレア @ShiroganeNoel \n\nサムネイラスト…マイル堂\nhttps://x.com/Mil_dou\n\n配信タイトル：R.E.P.O.\nストアページ：https://store.steampowered.c..."
-            }
-        ]
+        "videos": []
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
@@ -145,7 +137,15 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "uhgqZy4X5is",
+                "title": "【#飲酒麻雀王決定戦】ReGLOSSで最も酒と麻雀が強いのは誰だ！？【一条莉々華/hololive DEV_IS　ReGLOSS】",
+                "date": "2025/07/07 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/uhgqZy4X5is/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACLT_WYUKzDtIpDsMAS9oZdick9g",
+                "description": "✨楽しい飲酒麻雀のルール✨\n①まず、好きなお酒を飲みます\n②1位になった人は追加でお酒をのみます\n③4麻 東風戦5回で一番1位の回数が多かった..."
+            }
+        ]
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -169,7 +169,15 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "FXLDzv5YrxA",
+                "title": "【Good Pizza, Great Pizza - Cooking Simulator Game】not so chill bro【Kaela Kovalskia / hololiveID】",
+                "date": "2025/07/05 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/FXLDzv5YrxA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAp0TTcgI7dtTc_NymtvDeb5baKxg",
+                "description": "【Donasi lokal】Traktir yang pahit-pahit kini sangat EZGGWP!~\nLink: https://sociabuzz.com/kaelakovalskia/tribe\n\n#Kaelaif #KaelaKovalskia #holoID #hololive #hololiveID \n∘₊✧──────..."
+            }
+        ]
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
@@ -444,15 +452,7 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": [
-            {
-                "video_id": "ND9xvoFNPUQ",
-                "title": "【R.E.P.O.】三期生でいくぞおおおお！えっ？！ぺこらマリンって初見？フーン😎←だんちょ先輩【白銀ノエル/ホロライブ】",
-                "date": "2025/07/05 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/ND9xvoFNPUQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_6c9huPQHKHB0uPd7VUVQCUP6cw",
-                "description": "👻愉快なホロライブファンタジー👻\n@usadapekora はじめてだって？！ビビってチビるんじゃないぞ😁\n@FlareCh.不知火フレア フレアの慎重さを見習っ..."
-            }
-        ]
+        "videos": []
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -508,10 +508,10 @@
         "videos": [
             {
                 "video_id": "jEU_CboUBI8",
-                "title": "【歌みた投稿しました】配信予定地【ホロライブ/ときのそら】",
-                "date": "2025/07/05 18:00:00",
+                "title": "【歌みた投稿しました】感想とちょこっと通話【ホロライブ/ときのそら/富士葵】",
+                "date": "2025/07/05 18:15:00",
                 "thumbnail": "https://i.ytimg.com/vi/jEU_CboUBI8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBKTiCd-7IXxFADOp6QqJqb4_SWg",
-                "description": "★★★★★★★★★★★★★★★★★★★★★★\n✨お知らせ✨\nLIVE Blu-ray\nときのそら 6th Anniversary Party\n「Keep Shinin'」\n4/23(水)発売決定！！\n\n💛詳し..."
+                "description": "～通話相手～\n富士葵@Aoich \n\n一緒に歌みた動画みよう！！\n\n～サムネイラスト～\nちょきうさ様\nhttps://x.com/chokiusa\n★★★★★★★★★★★★★★★★..."
             }
         ]
     },
@@ -627,15 +627,7 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": [
-            {
-                "video_id": "3hOikavxS3U",
-                "title": "【R.E.P.O.】はじめてのR.E.P.O.！3期生と遊ぶ！ぺこ！【ホロライブ/兎田ぺこら】",
-                "date": "2025/07/05 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/3hOikavxS3U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAemerboQA4BKiBcrXgl7gCRylNyA",
-                "description": "愉快な仲間たち\n@FlareCh.不知火フレア \n@ShiroganeNoel \n@HoushouMarine \n\nサムネイラスト：A-KA（サブ）さん\n\n⋈ －－－－－－－－－－－－－－－－－－－－..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
