@@ -39,7 +39,14 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "RE8y4ZqbI1Q",
+                "title": "Rainy Day = Dinkum",
+                "thumbnail": "https://i.ytimg.com/vi/RE8y4ZqbI1Q/hqdefault.jpg?v=6868ff9d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9MBnkWNYmOzQUSDGlCHJJcb4-ZA",
+                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nGame Title: Dinkum\nStore Page: https://store.steampowered.com/app/1062520/Dinkum/\n\nーーーーーーーーー\n\nSTREAM MY NEWEST ORIGINAL..."
+            }
+        ]
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -76,14 +83,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "2H2wedi7JhQ",
-                "title": "【うたわれるもの 散りゆく者への子守唄】シリーズ完全初見！名作SRPGを遊んでみる！！！サムネの情緒がおかしい #3 【博衣こより/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/2H2wedi7JhQ/hqdefault.jpg?v=6864e596&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBuwg4F3_zy7QJg-5ciJ9uBsAakVw",
-                "description": "アクアプラスさん、包括許諾ありがとうございます！！助手くんから熱いオススメをもらい、初うたわれるもの体験します！！\n💿1stアルバム「FIR..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -144,13 +144,27 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "qE6whyFeJB4",
+                "title": "【雑談】あれが出ます！鬼が出るか蛇が出るか！？！？【儒烏風亭らでん #ReGLOSS 】",
+                "thumbnail": "https://i.ytimg.com/vi/qE6whyFeJB4/hqdefault.jpg?v=68690f7e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKYtQRnbyaLuvfR7ilPElfiFCf4A",
+                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\nサムネイル：むれちか様\nhttps://x.com/muremuretika..."
+            }
+        ]
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "FXLDzv5YrxA",
+                "title": "【Good Pizza, Great Pizza - Cooking Simulator Game】not so chill bro【Kaela Kovalskia / hololiveID】",
+                "thumbnail": "https://i.ytimg.com/vi/FXLDzv5YrxA/hqdefault.jpg?v=68690375&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAp0TTcgI7dtTc_NymtvDeb5baKxg",
+                "description": "【Donasi lokal】Traktir yang pahit-pahit kini sangat EZGGWP!~\nLink: https://sociabuzz.com/kaelakovalskia/tribe\n\n#Kaelaif #KaelaKovalskia #holoID #hololive #hololiveID \n∘₊✧──────..."
+            }
+        ]
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
@@ -294,7 +308,14 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "flXSfpO8tE8",
+                "title": "【コラボ雑談】はじめましてのベリーちゃんと仲を深める会！！【 早乙女ベリー / 輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "thumbnail": "https://i.ytimg.com/vi/flXSfpO8tE8/hqdefault.jpg?v=6868d015&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCAqlwD7ygau2ok_ScUJxd_axP0qg",
+                "description": "20 時からベリーちゃんのchでアソビ大全！\nhttps://www.youtube.com/live/rYBRFwgo9Cs?si=XS6a4KWGeEVOJOkH\n\nバトルの後はここで雑談する～～～！！　二人に聞きたい..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -312,7 +333,14 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "1ABgq3wpfx4",
+                "title": "【予言】予言します・・・・にぇ・・・・・！！！！！！！！２０２５【ホロライブ/さくらみこ】",
+                "thumbnail": "https://i.ytimg.com/vi/1ABgq3wpfx4/hqdefault.jpg?v=6868e674&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDMkhHQvSgHUSJkX4bjAskPsrtLwg",
+                "description": "―信じるか信じないかはあなた次第にぇ―\n#エリート予言 \n\n⪩⪨　お知らせ/ɪɴғᴏ\n￣￣￣￣￣￣￣￣￣￣￣￣￣\n　🌸さくらみこ1st Live \"flower..."
+            }
+        ]
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
@@ -446,7 +474,14 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Ws5ZH-D8ZNc",
+                "title": "【耐久歌枠】新3D衣装で歌う🎤登録者数110万人耐久だｯ！！#shorts  【風真いろは /ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/Ws5ZH-D8ZNc/hqdefault.jpg?v=6868997d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpGzSpW3n1xTCzkg6ahFJu8WvARQ",
+                "description": "サムネイラスト\nhttps://x.com/koenjium/status/1938160308704669756\n\n#歌枠 #歌ってみた #風真いろは \n*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔..."
+            }
+        ]
     },
     "@mikenekoko": {
         "channel_url": "https://www.youtube.com/@mikenekoko",
