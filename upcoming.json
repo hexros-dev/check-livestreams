@@ -101,7 +101,15 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "M9EAEi7XYbk",
+                "title": "【 シャドバWB 】デッキたくさん作りました。リノ算わかりません。【博衣こより/ホロライブ】",
+                "date": "2025/07/05 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/M9EAEi7XYbk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5X60wLmcM6W3w3_f6jkbSUHMGvg",
+                "description": "シャドバ、独りで大会に参戦したことがあります。1回戦負けしてプロモカードもらって帰ったのはいい想い出です。ミッドレンジロイヤルやアグ..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -140,7 +148,7 @@
         "videos": [
             {
                 "video_id": "uhgqZy4X5is",
-                "title": "【#飲酒麻雀王決定戦】ReGLOSSで最も酒と麻雀が強いのは誰だ！？【一条莉々華/hololive DEV_IS　ReGLOSS】",
+                "title": "【#飲酒麻雀王決定戦】ReGLOSSで最も酒と麻雀が強いのは誰だ！？ 神視点予定【一条莉々華/hololive DEV_IS　ReGLOSS】",
                 "date": "2025/07/07 17:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/uhgqZy4X5is/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACLT_WYUKzDtIpDsMAS9oZdick9g",
                 "description": "✨楽しい飲酒麻雀のルール✨\n①まず、好きなお酒を飲みます\n②1位になった人は追加でお酒をのみます\n③4麻 東風戦5回で一番1位の回数が多かった..."
@@ -163,7 +171,15 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "qE6whyFeJB4",
+                "title": "【雑談】あれが出ます！鬼が出るか蛇が出るか！？！？【儒烏風亭らでん #ReGLOSS 】",
+                "date": "2025/07/05 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/qE6whyFeJB4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKYtQRnbyaLuvfR7ilPElfiFCf4A",
+                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\nサムネイル：むれちか様\nhttps://x.com/muremuretika..."
+            }
+        ]
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -505,15 +521,7 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": [
-            {
-                "video_id": "jEU_CboUBI8",
-                "title": "【歌みた投稿しました】感想とちょこっと通話【ホロライブ/ときのそら/富士葵】",
-                "date": "2025/07/05 18:15:00",
-                "thumbnail": "https://i.ytimg.com/vi/jEU_CboUBI8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBKTiCd-7IXxFADOp6QqJqb4_SWg",
-                "description": "～通話相手～\n富士葵@Aoich \n\n一緒に歌みた動画みよう！！\n\n～サムネイラスト～\nちょきうさ様\nhttps://x.com/chokiusa\n★★★★★★★★★★★★★★★★..."
-            }
-        ]
+        "videos": []
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
