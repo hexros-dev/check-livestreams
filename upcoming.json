@@ -394,6 +394,12 @@
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
         "videos": []
     },
+    "@SamekoSaba": {
+        "channel_url": "https://www.youtube.com/@SamekoSaba",
+        "channel_name": "saba",
+        "avatar_url": "https://yt3.googleusercontent.com/gNZv93GVlg3GAco7HTg2OXl_9s2Pm3lG6DxNfOXqPkLRNcM5BSEOAcQGpgQ8AejiEam5ElLG",
+        "videos": []
+    },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
@@ -460,7 +466,15 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "4_Cxegi2MY4",
+                "title": "【 Minecraft 】ハッピーガストを探しに大冒険？！【角巻わため/ホロライブ４期生】",
+                "date": "2025/07/07 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/4_Cxegi2MY4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC28O-DYtQNuqTvXSxiQ_Bd1Aoo4Q",
+                "description": "４人で乗れるかなー？✨\nタグ：#ドドドライブ \n\n🐾冒険者たち🐾\n@AZKi \n@LaplusDarknesss \n@kazamairoha \n\n配信タイトル：Minecraft\nストアページ：https://www.mine..."
+            }
+        ]
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
