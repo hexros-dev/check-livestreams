@@ -157,14 +157,7 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w",
-        "videos": [
-            {
-                "video_id": "BPMTnzV1fN8",
-                "title": "【PEAK】pik【KOPIKANON】",
-                "thumbnail": "https://i.ytimg.com/vi/BPMTnzV1fN8/hqdefault.jpg?v=6869f327&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfzzpLbVUG8TYYQeNrDCX1TSUvsQ",
-                "description": "Playing with @ONShannon_ @PiaMeraleo-JKT48V \n∘₊✧──────✧₊∘∘₊✧──────✧₊∘∘₊✧──────✧₊∘∘₊✧──────✧₊∘..."
-            }
-        ]
+        "videos": []
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
@@ -189,7 +182,14 @@
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
         "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/ACubs_Mw4YtmgHDIIZvW_gZaPf_VR1wg9yffFLsq4Lrw-W7Md-0pK4Gob8OJebCYCmgrArsE",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "x2FvmLFrzyA",
+                "title": "【歌枠】歌謡曲で懐かしくなろう！懐メロもあり？【虎金妃笑虎】",
+                "thumbnail": "https://i.ytimg.com/vi/x2FvmLFrzyA/hqdefault.jpg?v=68665c7c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLByMh_ZvSNt14F7PYlIdBWClVkaiA",
+                "description": "サムネイルのイラストはタナヤキさん✨\nhttps://x.com/Tana_Yaki/status/1904154226214977957\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n\n虎金妃笑虎　X\n\nhttps://x.c..."
+            }
+        ]
     },
     "@KosekiBijou": {
         "channel_url": "https://www.youtube.com/@KosekiBijou",
