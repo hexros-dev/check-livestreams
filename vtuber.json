@@ -2116,5 +2116,27 @@
             "#unarchived",
             "#karaoke"
         ]
-    }
+    },
+  "@SamekoSaba": {
+    "channel_name": "saba",
+    "name": "Sameko Saba",
+    "avatar_url": "https://yt3.googleusercontent.com/gNZv93GVlg3GAco7HTg2OXl_9s2Pm3lG6DxNfOXqPkLRNcM5BSEOAcQGpgQ8AejiEam5ElLG",
+    "icon": "🐟",
+    "link": {
+      "youtube": "https://www.youtube.com/@SamekoSaba",
+      "x": "https://twitter.com/samekosaba"
+    },
+    "branch": null,
+    "tags": ["indie"],
+    "main_language": "english",
+    "hashtags": [
+      "#saba",
+      "#SamekoSaba",
+      "#indie",
+      "#vtuber",
+      "#cunglothonao",
+      "#unarchived",
+      "#karaoke"
+    ]
+  }
 }
