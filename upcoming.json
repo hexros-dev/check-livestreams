@@ -147,7 +147,15 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "j0qxau47mOg",
+                "title": "【Powerwash Simulator】WASHING SpeedRun versus @OuroKronii ✨",
+                "date": "2025/07/08 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/j0qxau47mOg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBV_wRL31VzY8uzu83kjr3yLb6-cg",
+                "description": "who can clean for master faster? let's find out\n\n本動画はスクウェア・エニックスに確認の上、スクウェア・エニックス・ウェスト素材使用ポリシーに則って..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
