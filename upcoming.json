@@ -379,13 +379,6 @@
                 "date": "2025/07/08 10:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/5eYkIqYmiaA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjINT-HGRCO60-1qz2KVLTqnK7FA",
                 "description": "本動画は、スクウェア・エニックスに確認の上、スクウェア・エニックス・ウェスト 素材使用ポリシーに則って配信しています。開発および出版..."
-            },
-            {
-                "video_id": "TCNyCixcoy0",
-                "title": "【PEAK】IS IT PEAK With @TakanashiKiara @holoen_gigimurin",
-                "date": "2025/07/08 04:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/TCNyCixcoy0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5hXbNG1gIJk2PDgN1Ygul99s1Qw",
-                "description": "Game title: PEAK\nStore page: https://store.steampowered.com/app/3527290/PEAK/\n\n[Twitter]\nhttps://twitter.com/ourokronii\n\n[Thumbnail Art]\nhttps://x.com/koizumi_arata\n\n-------------------------------..."
             }
         ]
     },
@@ -439,15 +432,7 @@
         "channel_url": "https://www.youtube.com/@SamekoSaba",
         "channel_name": "saba",
         "avatar_url": "https://yt3.googleusercontent.com/gNZv93GVlg3GAco7HTg2OXl_9s2Pm3lG6DxNfOXqPkLRNcM5BSEOAcQGpgQ8AejiEam5ElLG",
-        "videos": [
-            {
-                "video_id": "FTfViLJqUiY",
-                "title": "【GAMESHOW NIGHT】wheel games",
-                "date": "2025/07/08 04:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/FTfViLJqUiY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9tjLnVkAc3V7gCfDQpc0DTOKXOQ",
-                "description": "hello, i like game shows with spinnahs \n\n🐟 https://x.com/samekosaba\n🐟 thumbnail art:  https://x.com/nyangjog_Vtuber\nthank you!\n\nSAMEKO SABA x OMOCAT merch! 🐟\navailable for pre order..."
-            }
-        ]
+        "videos": []
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
@@ -477,15 +462,7 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": [
-            {
-                "video_id": "XxNe2R70Av4",
-                "title": "【PEAK】we are climbing mount kronii, right? #kfp #キアライブ",
-                "date": "2025/07/08 04:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/XxNe2R70Av4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADuoX02xQ9D__C0ZNSnKlu8SJADQ",
-                "description": "@OuroKronii @holoen_gigimurin \n\n🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara\n\n 🏵️[Hashtags] 🏵️\n#kfp #キアライブ#hololiveenglish #holomyth #takanashikiara \nFANART..."
-            }
-        ]
+        "videos": []
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
@@ -579,15 +556,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "vQE_mc1Lsa8",
-                "title": "【PEAK】i peaked in horse school",
-                "date": "2025/07/08 04:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/vQE_mc1Lsa8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJiq8rkywhtoVNd9BT1_kL0JTDGQ",
-                "description": "with @OuroKronii @TakanashiKiara \n\nGame title: PEAK\nStore page: https://store.steampowered.com/app/3527290/PEAK/\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
@@ -619,7 +588,15 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "PUHFXhVl60Q",
+                "title": "【UMAMUSUME】 Horse Girl Racing Cinema",
+                "date": "2025/07/08 05:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/PUHFXhVl60Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2SwheQxF69S2vKUYICUI2Dr3oQg",
+                "description": "by watching this stream you promise you won't spend your life savings gambling on virtual horse girls\n\n☁  Thumbnail Art  ☁\nhttps://x.com/seekorplatypus/status/1940621772824739960\nThank..."
+            }
+        ]
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
