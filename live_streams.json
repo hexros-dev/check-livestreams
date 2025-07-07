@@ -315,14 +315,7 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": [
-            {
-                "video_id": "fJ2LcadjJQ4",
-                "title": "【誕生日カウントダウン】みんなと迎える初めての誕生日【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "thumbnail": "https://i.ytimg.com/vi/fJ2LcadjJQ4/hqdefault.jpg?v=686ba651&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPkXm-zGOERnnavUeEJa2TDJNNfQ",
-                "description": "一緒に誕生日迎えてよ～～～～～～～～～～！！！\n\n\n\nありがとうございます！\nねえ、いっしょに向こう側の景色を見に行かない？ \nホロライブDEV_..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -433,7 +426,14 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "HzyrznZecr0",
+                "title": "【Umamusume🐎】 うまみ I'm sorry.... 🙏",
+                "thumbnail": "https://i.ytimg.com/vi/HzyrznZecr0/hqdefault.jpg?v=686b84ec&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDWAlhayrB9IUcPABozGhvh9ifAA",
+                "description": "This game is distributed and monetized in accordance with the distribution guidelines of Cygames, Inc.\nhttps://umamusume.jp/news/detail?id=107\n\n\n\n-----\nVestia Zeta's  2nd Original Song  ▶..."
+            }
+        ]
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
@@ -445,14 +445,7 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": [
-            {
-                "video_id": "WMmmfdk23xk",
-                "title": "【Switch 2】マリオカートワールドのコース覚えたい！！【 雪花ラミィ /ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/WMmmfdk23xk/hqdefault.jpg?v=686b4f7b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0Gx18LGpb5QRcSAbpEa6MW7LvbA",
-                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n感想は #らみらいぶ で呟いて頂けたら嬉しいです！\n\nサムネイラス..."
-            }
-        ]
+        "videos": []
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
