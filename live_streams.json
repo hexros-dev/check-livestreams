@@ -205,14 +205,7 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": [
-            {
-                "video_id": "hrcWMST8fR0",
-                "title": "【歌枠】１２９万人見守り💛【 桃鈴ねね / hololive 】",
-                "thumbnail": "https://i.ytimg.com/vi/hrcWMST8fR0/hqdefault.jpg?v=686b9f3d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASkPNoQSYW0PvIKtyZivrMGSaQiA",
-                "description": "編集中"
-            }
-        ]
+        "videos": []
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
@@ -248,7 +241,14 @@
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "oUqDXUI-vYc",
+                "title": "【重大告知あり！】ホロフレとのおでかけ写真が見たい✨【ホロライブ/夏色まつり】",
+                "thumbnail": "https://i.ytimg.com/vi/oUqDXUI-vYc/hqdefault.jpg?v=6866717c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1ROzYkV6to7X9vRtgUjl2EoUGCw",
+                "description": "...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\n\n素敵なサムネイル→沢城あやほ様\n@ayaoshiro\n\n\n...｡oо○**○оo｡...｡oо○**..."
+            }
+        ]
     },
     "@NekomataOkayu": {
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
@@ -357,13 +357,27 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "xPxWuGfvL8o",
+                "title": "【#ノエぺこの戦う七夕】ノエルVSぺこらカジノ対決🔥年に一度の勝負...そして！本日は30年ぶりの777が揃った日ーッ！【白銀ノエル/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/xPxWuGfvL8o/hqdefault.jpg?v=686b6627&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAepZlloGKvOhv1Cz88vtMu9hgXKA",
+                "description": "令和7年7月7日！めでたい🎉✨\n🎰愉快な対戦相手🎰\n@usadapekora 今年は勝つからなッッ！\n\n[NEW]🔥焚火ASMRボイス販売中🔥→ https://shop.hololivepro.com/prod..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "OHRruwxi150",
+                "title": "【Stellar Blade】#02 楽園を取り戻しにいく！スタイリッシュ美少女アクション死にゲー【獅白ぼたん/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/OHRruwxi150/hqdefault.jpg?v=686b33ae&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXmH-aACig380Oy9_35k8RgIzMPg",
+                "description": "Steam版やります。えちちかつ少しソウルライクぽい感じらしい！\n\n配信ハッシュタグ：#ぐうたらいぶ\nサムネイルのイラスト：夢盛 邪払\nhttps://x.com/j..."
+            }
+        ]
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
@@ -498,7 +512,14 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "im6nQVKWUBo",
+                "title": "【#ノエぺこの戦う七夕】年に一度の勝負！ノエルVSぺこらカジノ対決！ぺこ！【ホロライブ/兎田ぺこら】",
+                "thumbnail": "https://i.ytimg.com/vi/im6nQVKWUBo/hqdefault.jpg?v=686b9cd5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArmXnrihbsfNPGWlkjVArsgXq_UA",
+                "description": "令和7年7月7日！\n@ShiroganeNoel \n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ #ぺこらいぶ..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
