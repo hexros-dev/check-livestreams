@@ -372,7 +372,22 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "5eYkIqYmiaA",
+                "title": "【Powerwash Simulator】May The Best Maid Win With @IRyS",
+                "date": "2025/07/08 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/5eYkIqYmiaA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjINT-HGRCO60-1qz2KVLTqnK7FA",
+                "description": "本動画は、スクウェア・エニックスに確認の上、スクウェア・エニックス・ウェスト 素材使用ポリシーに則って配信しています。開発および出版..."
+            },
+            {
+                "video_id": "TCNyCixcoy0",
+                "title": "【PEAK】IS IT PEAK With @TakanashiKiara @holoen_gigimurin",
+                "date": "2025/07/08 04:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/TCNyCixcoy0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5hXbNG1gIJk2PDgN1Ygul99s1Qw",
+                "description": "Game title: PEAK\nStore page: https://store.steampowered.com/app/3527290/PEAK/\n\n[Twitter]\nhttps://twitter.com/ourokronii\n\n[Thumbnail Art]\nhttps://x.com/koizumi_arata\n\n-------------------------------..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
