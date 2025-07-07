@@ -69,14 +69,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "H43wc_YbwkM",
-                "title": "【 #朝こよ 】火曜日の朝は～！朝こよ！☀ #240 【博衣こより/hololive】",
-                "thumbnail": "https://i.ytimg.com/vi/H43wc_YbwkM/hqdefault.jpg?v=686b4eb8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBl-xNOJB_cLCsJBuIGuIMJpyDYBA",
-                "description": "💿1stアルバム「FIRST STEP」発売中！全曲新録！成長した歌を聴いてね🎶\n　https://cover.lnk.to/SdOKbq\n\n#朝こよ を観れば日本ニキも海外ニキもホロライブ..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -238,7 +231,14 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "UUqsedNzaK8",
+                "title": "【UMAMUSUME Pretty Derby】Can You Feel the Bakushin Tonight",
+                "thumbnail": "https://i.ytimg.com/vi/UUqsedNzaK8/hqdefault.jpg?v=686bd0be&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCfazlO95561AaMpRJtzX5UehJoXQ",
+                "description": "【Thumbnail Art】\nhttps://x.com/wydken/status/1942200939957436639\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\nGame title: R.E.P.O\nStore page: https://store.steampowered.com/app/3241660/REPO..."
+            }
+        ]
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",

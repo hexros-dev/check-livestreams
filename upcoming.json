@@ -326,15 +326,7 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": [
-            {
-                "video_id": "UUqsedNzaK8",
-                "title": "【UMAMUSUME Pretty Derby】Can You Feel the Bakushin Tonight",
-                "date": "2025/07/08 06:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/UUqsedNzaK8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCfazlO95561AaMpRJtzX5UehJoXQ",
-                "description": "【Thumbnail Art】\nhttps://x.com/wydken/status/1942200939957436639\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\nGame title: R.E.P.O\nStore page: https://store.steampowered.com/app/3241660/REPO..."
-            }
-        ]
+        "videos": []
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -378,7 +370,15 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "kolawktoExE",
+                "title": "#2【Saihate Station】(live voiced by me and Anya!) Gathering Tickets【Pavolia Reine/hololiveID 2nd gen】",
+                "date": "2025/07/13 11:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/kolawktoExE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8LHCkKuXUNyyZH4An8hk7BV0KjA",
+                "description": "Game Title: Saihate Station\nStore Page: https://store.steampowered.com/app/3079280/Saihate_Station/\nOfficial website: https://saihateeki.studio.site/\n\nReine's new original song now 「Yummy..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -448,7 +448,15 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "PYX8bZ06REM",
+                "title": "【Darkest Dungeon】ストレスと向き合うダンジョン探索💀【獅白ぼたん/ホロライブ】",
+                "date": "2025/07/08 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/PYX8bZ06REM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBeKxRUBjRksZfsPVZXq5-Y421E2w",
+                "description": "ヒーローたちのストレスを管理しながらローグライクなダンジョン攻略！\n\n配信ハッシュタグ：#ぐうたらいぶ\nサムネイルのイラスト：MISAネキ..."
+            }
+        ]
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
