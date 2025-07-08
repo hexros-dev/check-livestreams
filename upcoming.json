@@ -9,15 +9,7 @@
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
         "channel_name": "Airani Iofifteen Channel hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc",
-        "videos": [
-            {
-                "video_id": "Z8vC-UZUD48",
-                "title": "【UMAMUSUME Pretty Derby】URA LONG FINALS TROPHY! 【 iofi / hololiveID 】",
-                "date": "2025/07/08 22:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Z8vC-UZUD48/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDR4y-gS83BHlImfK_CE1fBblLUCw",
-                "description": "#ioLyfe #Airani_Iofifteen #hololive #holoID #ウマ娘\n\nThis game is distributed and monetized in accordance with the distribution guidelines of Cygames, Inc.\nhttps://umamusume.jp/news/detail.php?i..."
-            }
-        ]
+        "videos": []
     },
     "@AkaiHaato": {
         "channel_url": "https://www.youtube.com/@AkaiHaato",
@@ -257,7 +249,15 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "uO91JBFPIIg",
+                "title": "真夜中配信ﾃﾞｽ ☾✦",
+                "date": "2025/07/08 23:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/uO91JBFPIIg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsZRDLB7FDUhr3ijkVEWJNbq8rdA",
+                "description": "❥・・ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ・・❥\n\n『超超超超ゲーマーズ2』\n7/5(土)・7/6(日)　さいたまスーパーアリーナにて開催決定！..."
+            }
+        ]
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -516,7 +516,15 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "XiQ26l8px7w",
+                "title": "【配信予定地】未来の配信📍コラボかも！？【風真いろは/ホロライブ】",
+                "date": "2025/07/10 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/XiQ26l8px7w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDyuQKwiSNX3VUl59kXRrRSBU4zNQ",
+                "description": "※本ゲームは Mojang に確認を得た上、Terms and Conditions\n (https://account.mojang.com/terms)  に基づいて配信・収益化を行なっております。\n*⇔*――*⇔*――*..."
+            }
+        ]
     },
     "@mikenekoko": {
         "channel_url": "https://www.youtube.com/@mikenekoko",
