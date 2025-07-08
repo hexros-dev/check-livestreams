@@ -129,14 +129,7 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w",
-        "videos": [
-            {
-                "video_id": "PE-zgDEN2RY",
-                "title": "【Carry The Glass】IN REINE, WE TRUST.【hololiveID】",
-                "thumbnail": "https://i.ytimg.com/vi/PE-zgDEN2RY/hqdefault.jpg?v=686bd0ef&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFNFRpSqOqWo6gmAooHYv--zjR1A",
-                "description": "Playing with @PavoliaReine \n∘₊✧──────✧₊∘∘₊✧──────✧₊∘∘₊✧──────✧₊∘∘₊✧──────✧₊∘\n【Donasi lokal】Trakti..."
-            }
-        ]
+        "videos": []
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
@@ -196,7 +189,14 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "m95FCxStboQ",
+                "title": "【Umamusume Pretty Derby】yep. #calliolive",
+                "thumbnail": "https://i.ytimg.com/vi/m95FCxStboQ/hqdefault.jpg?v=686c201f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpDOkNUgXRxU-EjdVLabVlpF9iFQ",
+                "description": "ーーーーーーーーー\nBGM: https://x.com/BigRicePiano\nhttps://x.com/the_arkhand\nhttps://x.com/alterclad\n\nRequest from hololive Productions to underage viewers\nPlease search for [Request..."
+            }
+        ]
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
