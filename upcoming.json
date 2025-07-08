@@ -23,15 +23,7 @@
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
         "avatar_url": "https://yt3.googleusercontent.com/ecW_DT7IKBcfKJ1qioYiyU_Iq6EB4_bCZpaG4srWPkEZRsIAiYguEvh7_nELEJqPnbjAktVj6Q",
-        "videos": [
-            {
-                "video_id": "49gdxE4dYi4",
-                "title": "❤️‍🔥FREE CHAT & はあちゃまの推し活情報❤️‍🔥",
-                "date": "2025/07/07 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/49gdxE4dYi4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPGRwTn2o6j9zIWHzDuFmIhRxpxg",
-                "description": "❤️‍🔥はあちゃま7周年記念グッズ販売開始❤️‍🔥\n◇こちらからチェック👉https://x.gd/yrfaI\n 2025年07月07日 18時00分まで！購入はお早めに！✨..."
-            }
-        ]
+        "videos": []
     },
     "@AkiRosenthal": {
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
@@ -63,7 +55,15 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "XcNrbhWtTtE",
+                "title": "MAMMA MIA DINKUM MANIA",
+                "date": "2025/07/08 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/XcNrbhWtTtE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNTBqvCwq_Bftw2gPHpoDLH-1GJg",
+                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nGame Title: Dinkum\nStore Page: https://store.steampowered.com/app/1062520/Dinkum/\n\nーーーーーーーーー\n\nSTREAM MY NEWEST ORIGINAL..."
+            }
+        ]
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
