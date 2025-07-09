@@ -456,15 +456,7 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": [
-            {
-                "video_id": "0cYFDqSvG1c",
-                "title": "【WATCHALONG】CHICAGO watchalong!!! with the musical connoisseur Nerissa #kfp #キアライブ",
-                "date": "2025/07/09 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/0cYFDqSvG1c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfL7ZXt_MI3udZLOsMxdYgcbz4Rw",
-                "description": "with @NerissaRavencroft \n\n🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara\n\n 🏵️[Hashtags] 🏵️\n#kfp #キアライブ#hololiveenglish #holomyth #takanashikiara \nFANART #KFPicasso..."
-            }
-        ]
+        "videos": []
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
@@ -546,7 +538,15 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "nQNfGY7O_rU",
+                "title": "【MEMBERS WATCHALONG】It's winter! merry christmas!",
+                "date": "2025/07/09 23:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/nQNfGY7O_rU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDppXALBMwkghLTq2tIUWOYcn15gA",
+                "description": "ANNIVERSARY MERCH!!\n▼ hololive production OFFICIAL SHOP \nJP: https://shop.hololivepro.com/products/ceciliaimmergreen_anniversary_1st\nEN: https://shop.hololivepro.com/en/products/ceciliaimmergreen..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",

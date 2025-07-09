@@ -69,14 +69,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "daxeZWTGbwM",
-                "title": "【料理/カメラ枠】初めてのIHでふわっふわたんぽぽオムライスに挑戦！！！！！✊🔥【博衣こより/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/daxeZWTGbwM/hqdefault.jpg?v=686dcfc3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFJDXGz1mOer6nBjsab-o2pczzag",
-                "description": "メイド衣装をGETしたので、高級オムライスに挑戦します！！！\n💿1stアルバム「FIRST STEP」発売中！全曲新録！成長した歌を聴いてね🎶\n　https://cove..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -348,7 +341,14 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "0cYFDqSvG1c",
+                "title": "【WATCHALONG】CHICAGO watchalong!!! with the musical connoisseur Nerissa #kfp #キアライブ",
+                "thumbnail": "https://i.ytimg.com/vi/0cYFDqSvG1c/hqdefault.jpg?v=686db2c8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfL7ZXt_MI3udZLOsMxdYgcbz4Rw",
+                "description": "with @NerissaRavencroft \n\n🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara\n\n 🏵️[Hashtags] 🏵️\n#kfp #キアライブ#hololiveenglish #holomyth #takanashikiara \nFANART #KFPicasso..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
