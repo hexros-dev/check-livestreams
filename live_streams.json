@@ -232,13 +232,27 @@
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
         "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "R-G5VSdWYas",
+                "title": "I AM A HORSE GIRL!!! | Umamusume Pretty Derby",
+                "thumbnail": "https://i.ytimg.com/vi/R-G5VSdWYas/hqdefault.jpg?v=686d2947&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4zv9UclFOM9gXxp4Uk_8Ur4rUKg",
+                "description": "∴∴♪ * Check Out My First EP Here!* ♪∴∴\nhttps://cover.lnk.to/esLvqA\n\n∴∴♪ * Check Out My Music Here!* ♪∴∴\nhttps://www.youtube.com/playlist?list=PLSJG6WXf5JvFn2FWv_B5HP7DklUtde..."
+            }
+        ]
     },
     "@NinomaeInanis": {
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Pexa6VocvDw",
+                "title": "【UMAMUSUME Pretty Derby】AIM FOR THE TOP UUUUUUUUUUUUUUUUUUUUMADACHI",
+                "thumbnail": "https://i.ytimg.com/vi/Pexa6VocvDw/hqdefault.jpg?v=686d0016&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCio_jqolosA8AmEmtbTt6XruUvXg",
+                "description": "【Thumbnail Art】\nhttps://x.com/guanguan606/status/1932009664671310076\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\nGame title: Umamusume: Pretty Derby\nStore page: https://store.steampowered..."
+            }
+        ]
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -310,14 +324,7 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": [
-            {
-                "video_id": "DxOThx3f6HE",
-                "title": "Ooh Eeh Ooh Aah【Unarchived Guerilla】",
-                "thumbnail": "https://i.ytimg.com/vi/DxOThx3f6HE/hqdefault.jpg?v=686d99dc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDp2BPptcrmey8_qVIH6WNFqOx4hw",
-                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n\n==============..."
-            }
-        ]
+        "videos": []
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
@@ -419,7 +426,14 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Qjm1XTMyBII",
+                "title": "SOMETHING i dont know what",
+                "thumbnail": "https://i.ytimg.com/vi/Qjm1XTMyBII/hqdefault.jpg?v=686db43d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwYZ3EXYbLWWz6cxSi_-897vnpDA",
+                "description": "waoah\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n【Debut..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
