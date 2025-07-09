@@ -137,7 +137,15 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "TFVGic8z-YA",
+                "title": "【UMAMUSUME Pretty Derby】UMA UMA UNYA✨",
+                "date": "2025/07/10 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/TFVGic8z-YA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpKxGaDfI1i7GHG7Hgi-e-lfCnLQ",
+                "description": "raising more uma \n\nThis game is distributed and monetized in accordance with the distribution guidelines of Cygames, Inc.\nhttps://umamusume.jp/news/detail?id=107\n\n#hololiveenglish  #ホロライブ..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
