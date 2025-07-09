@@ -265,7 +265,14 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "pj-un43jlM4",
+                "title": "【R.E.P.O.】死んだら終わり！！！！女の一本勝負！！！！！泣きのREPO！！！！！！【尾丸ポルカ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/pj-un43jlM4/hqdefault.jpg?v=686e6ccd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAQZyXokULUQmbdFBnoMxojQ020w",
+                "description": "朝までかもです\n\n\nサムネありがとうございます！\nhttps://x.com/_Okunin\n\n配信タイトル：R.E.P.O.\nストアページ：https://store.steampowered.com/app/3241660/REPO/..."
+            }
+        ]
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
@@ -369,27 +376,13 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": [
-            {
-                "video_id": "0cYFDqSvG1c",
-                "title": "【WATCHALONG】CHICAGO watchalong!!! with the musical connoisseur Nerissa #kfp #キアライブ",
-                "thumbnail": "https://i.ytimg.com/vi/0cYFDqSvG1c/hqdefault.jpg?v=686db2c8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfL7ZXt_MI3udZLOsMxdYgcbz4Rw",
-                "description": "with @NerissaRavencroft \n\n🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara\n\n 🏵️[Hashtags] 🏵️\n#kfp #キアライブ#hololiveenglish #holomyth #takanashikiara \nFANART #KFPicasso..."
-            }
-        ]
+        "videos": []
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": [
-            {
-                "video_id": "9lFT7JAALlA",
-                "title": "【 Minecraft 】アプデきた～～～！！！求：ハピガスちゃん【鷹嶺ルイ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/9lFT7JAALlA/hqdefault.jpg?v=686e0044&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_0iHE352BZ6ijOBSTaTyWulhajg",
-                "description": "なにやら誰かと合流するかも？\n\n【使用MOD】\n使用MOD：Complementary Shaders\n制作者：EminGT\n配布URL：https://www.curseforge.com/minecraft/customization/complementary-shaders..."
-            }
-        ]
+        "videos": []
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
