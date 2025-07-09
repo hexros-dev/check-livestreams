@@ -526,7 +526,15 @@
         "channel_url": "https://www.youtube.com/@dooby3d",
         "channel_name": "dooby",
         "avatar_url": "https://yt3.googleusercontent.com/sOGyZgV9pPHQJCEvNe28NCOFC1y0KggsxUjrP5ecMAgBmdNT8p6ZNM24d_9SVgWFhBh0lKBL5Q",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "yC9bI6VeSGc",
+                "title": "this may or may not be a ........ TEST",
+                "date": "2025/07/10 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/yC9bI6VeSGc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDyrwOSDPiTczFbJBigfmj5RBcuRg",
+                "description": "noooo dooobyyyy not another chatting test stream aaaaaaaaaaaaaaaaaaaaa"
+            }
+        ]
     },
     "@holoen_ceciliaimmergreen": {
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
@@ -544,15 +552,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "phxlgTNDPZ4",
-                "title": "【AURA KINGDOM - IMPACT】nostalgia trip!! callin all grems to flood the fields #ad",
-                "date": "2025/07/10 06:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/phxlgTNDPZ4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCERHUVMNbdbGQI7v88-jpJVjhHNQ",
-                "description": "#PR #sponsored\n\nDownload on PC for FREE!\nhttps://xleg.cc/JWdmZPY\n\n#AuraKingdom #AuraKingdomImpact\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
