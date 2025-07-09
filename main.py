@@ -190,9 +190,12 @@ def get_translated_title(original_title, translate_func):
 
     if row:
         # Cập nhật thời gian truy cập
-       if row[0] is None:
-            row[0] = original_title
-        if "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know." in row[0]:
+        row_0 = ""
+        if row[0] is None:
+            row_0 = original_title
+        else:
+            row_0 = row[0]
+        if "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know." in row_0:
             translated_title = translate_func(original_title)
             cursor.execute(
                 "UPDATE video_titles SET translated_title = ?, last_accessed = ? WHERE original_title = ?",
@@ -208,7 +211,7 @@ def get_translated_title(original_title, translate_func):
             )
             conn.commit()
             conn.close()
-            return row[0]
+            return row_0
     else:
         # Dịch và lưu lại
         translated_title = translate_func(original_title)
