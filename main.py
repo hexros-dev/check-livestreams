@@ -188,8 +188,10 @@ def get_translated_title(original_title, translate_func):
     )
     row = cursor.fetchone()
 
-    if row and row[0]:
+    if row:
         # Cập nhật thời gian truy cập
+       if row[0] is None:
+            row[0] = original_title
         if "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know." in row[0]:
             translated_title = translate_func(original_title)
             cursor.execute(
