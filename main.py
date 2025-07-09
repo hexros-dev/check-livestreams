@@ -165,7 +165,7 @@ def translate_title(title: str) -> str:
     trans_title = translator.translate(title)
     if trans_title is None:
         trans_title = translator.translate(title)
-    if "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know." in trans_title:
+    elif "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know." in trans_title:
         trans_title = translator.translate(title)
     return trans_title
 
