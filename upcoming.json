@@ -482,7 +482,15 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ijto00YQICk",
+                "title": "【Minecraft】ハッピーガスト君のお家考えよう！今日ものんびりマイクラ生活！【ホロライブ/ときのそら】",
+                "date": "2025/07/10 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ijto00YQICk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBty9k3KNVkaEkJj6wFmmCf4kAd-g",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n\n★★★★★★★★★★..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
