@@ -520,7 +520,15 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "WrLx_rU6qds",
+                "title": "【STREET FIGHTER 6】MADTOWNでの約束！折咲もしゅちゃんと10先対戦！【常闇トワ/ホロライブ】",
+                "date": "2025/07/10 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/WrLx_rU6qds/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6IVMwMJV_thGSAf_TbJnsw7trvw",
+                "description": "対戦相手：折咲もしゅちゃん\n@moshu.o \n\nこの動画およびライブは株式会社カプコンの利用許諾を受けて配信しています『ストリートファイター6』..."
+            }
+        ]
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
