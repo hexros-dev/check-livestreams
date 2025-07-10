@@ -289,14 +289,7 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": [
-            {
-                "video_id": "Zf-LqGC4_Q4",
-                "title": "【Chrono Gear: Warden of Time】I'M IN A GAME WOWIE",
-                "thumbnail": "https://i.ytimg.com/vi/Zf-LqGC4_Q4/hqdefault.jpg?v=686dd851&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGHYfLBmn_Jy-dPjwtislD_uZGGw",
-                "description": "This game is streamed and monetized with permission from holo Indie.\nSteam link：https://store.steampowered.com/app/3081840/Chrono_Gear_Warden_of_Time/\n\n[Twitter]\nhttps://twitter.com/ourokronii..."
-            }
-        ]
+        "videos": []
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
@@ -446,7 +439,14 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "MbOnROBeAoY",
+                "title": "【Umamusume Pretty Derby】🐎 HORSE GIRLS RUINED MY LIFE (IN A GOOD WAY) #CiaoRaora",
+                "thumbnail": "https://i.ytimg.com/vi/MbOnROBeAoY/hqdefault.jpg?v=686e5338&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCUNHj5RTLP_apgLR0H8T69cE8bHw",
+                "description": "『 X formely Twitter 』\nhttps://x.com/raorapanthera\n\n『 Hashtags 』\n╰┈➤ Live  #CiaoRaora\n╰┈➤ Fanarts  #RaorArt\n╰┈➤ Clips  #RaraWara\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
+            }
+        ]
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
