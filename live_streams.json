@@ -147,7 +147,14 @@
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
         "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/ACubs_Mw4YtmgHDIIZvW_gZaPf_VR1wg9yffFLsq4Lrw-W7Md-0pK4Gob8OJebCYCmgrArsE",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "i7pL25T7_b0",
+                "title": "【#1 DARK SOULS Ⅲ】初プレイ🔰嬉しすぎてもはや泣きそう…【虎金妃笑虎】※ネタバレあり",
+                "thumbnail": "https://i.ytimg.com/vi/i7pL25T7_b0/hqdefault.jpg?v=68711f26&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBEkCZgl7onCom8yGHVL3wCFgbYvg",
+                "description": "本ゲームは株式会社フロム・ソフトウェアに確認を得た上、「動画・画像の投稿に関するガイドライン」に則り配信・収益化を行なっております..."
+            }
+        ]
     },
     "@KosekiBijou": {
         "channel_url": "https://www.youtube.com/@KosekiBijou",
@@ -347,14 +354,7 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": [
-            {
-                "video_id": "BBC3vvXqBCE",
-                "title": "【BLUE PRINCE】i love games that start with blue p #kfp #キアライブ",
-                "thumbnail": "https://i.ytimg.com/vi/BBC3vvXqBCE/hqdefault.jpg?v=68702cfa&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARWi64-ydbKBunjhoHZ-g0VH2lEQ",
-                "description": "Takanashi Kiara『TASTY』\nhttps://cover.lnk.to/al3Zjt\n\n🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara\n\n 🏵️[Hashtags] 🏵️\n#kfp #キアライブ#hololiveenglish #holomyth..."
-            }
-        ]
+        "videos": []
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
