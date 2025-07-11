@@ -27,14 +27,7 @@
         "channel_url": "https://www.youtube.com/@AmaneKanata",
         "channel_name": "Kanata Ch. Kanata Amane",
         "avatar_url": "https://yt3.googleusercontent.com/oPU9ckNcyeHD0FFsYSxkoD1mtbslSwdmMSfoCYQWphOu5e7UeCnIF-Nt0hvvF41L5Nykga07nQ",
-        "videos": [
-            {
-                "video_id": "8sddCc46n78",
-                "title": "【MemberOnly】クロスフェードとかホロナツとか超超超超ゲーマーズ2とか【天音かなた/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/8sddCc46n78/hqdefault.jpg?v=6870beb7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBpR5AS42_hwD_4YUMc1iC4AjqgiQ",
-                "description": "いろいろありました\n\nサムネイラスト：\nhttps://x.com/ebiebieshrimp\n---------------------------------------------------------------------------------\n\n🌃Amane Kanata 1st Solo..."
-            }
-        ]
+        "videos": []
     },
     "@AnyaMelfissa": {
         "channel_url": "https://www.youtube.com/@AnyaMelfissa",
@@ -46,14 +39,7 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": [
-            {
-                "video_id": "SM3mWi-Ek2c",
-                "title": "TUKANG TAMBAL BAN",
-                "thumbnail": "https://i.ytimg.com/vi/SM3mWi-Ek2c/hqdefault.jpg?v=6870adbe&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYwuv81wQSsb30FS9GoF2ENPVLNw",
-                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nGame Title: Dinkum\nStore Page: https://store.steampowered.com/app/1062520/Dinkum/\n\nーーーーーーーーー\n\nSTREAM MY NEWEST ORIGINAL..."
-            }
-        ]
+        "videos": []
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -126,7 +112,14 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "sT3y8fCZL0A",
+                "title": "【メンバー限定雑談】今日はもう、おやすみ～！！！！【一条莉々華/hololive DEV_IS　ReGLOSS】",
+                "thumbnail": "https://i.ytimg.com/vi/sT3y8fCZL0A/hqdefault.jpg?v=6870fa6f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpbX-8PIXpLPWS23jjODxPqi0V6Q",
+                "description": "オフのきもち！！！！！！！！！！！\n\n🔽素敵なサムネイラスト🔽\nユッカ📛10/2書籍発売！様\n@yuckak3\n\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈..."
+            }
+        ]
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -377,7 +370,14 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "cpUnHgEveX8",
+                "title": "【#オーディオテクニカ】あやめちゃんと一緒に新世代プレミアムイヤホン「ATH-TWX9MK2」についてお勉強するよ！【白銀ノエル/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/cpUnHgEveX8/hqdefault.jpg?v=686720e1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsc-3-azXlDFQ5K1FxNCT1KP35gA",
+                "description": "提供：株式会社オーディオテクニカ\n        \nオーディオテクニカから、次世代プレミアムイヤホン「ATH-TWX9MK2」が登場！\n7月11日発売の新製品を団長..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -407,7 +407,14 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ZOsAOtX_Izc",
+                "title": "【ゼルダの伝説 ムジュラの仮面】ゴロンの力で攻略したいゴロ【ホロライブ/ときのそら】",
+                "thumbnail": "https://i.ytimg.com/vi/ZOsAOtX_Izc/hqdefault.jpg?v=6870dce4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAi5rrLC-MpLj6YxgQ8pOGEjMvlAA",
+                "description": "酔ったらまた途中までになるかもゴロ。\nでもきっと大丈夫だゴロ。\n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信しています..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
@@ -506,10 +513,10 @@
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
         "videos": [
             {
-                "video_id": "MlAf57wcAF8",
-                "title": "【Shadowverse】兎田ぺこらの夕方キッズ狩り配信！ぺこ！【ホロライブ/兎田ぺこら】",
-                "thumbnail": "https://i.ytimg.com/vi/MlAf57wcAF8/hqdefault.jpg?v=6870df8d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCn55SHV80REkDps2senbjBwx8FxQ",
-                "description": "復帰しました\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ #ぺこらいぶ でツイート🎶..."
+                "video_id": "grueDhEpFKw",
+                "title": "【マリカワールド】レースでレート爆盛りするぞ！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
+                "thumbnail": "https://i.ytimg.com/vi/grueDhEpFKw/hqdefault.jpg?v=6870fcd9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwwqCUkntRlsDKM3h2QlThTv9tdQ",
+                "description": "サムネイラスト：かにかまさん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ #ぺこらい..."
             }
         ]
     },
