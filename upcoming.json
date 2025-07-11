@@ -76,13 +76,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
         "videos": [
             {
-                "video_id": "1S_8BdKTFIs",
-                "title": "【FUWAMOCO MORNING】episode 166 🐾 #FWMCMORNING",
-                "date": "2025/07/14 22:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/1S_8BdKTFIs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOfo2fRRMUr76BVjTzXv83y2Q-Vg",
-                "description": "beautiful bau bau new week ✨\nlovely illustration by @m_koumiso 💕\njingle by @Sarina_A_Elysia ♪\n\n✨️🩵🩷 Go watch our 𝗙𝗨𝗪𝗔𝗠𝗢𝗖𝗢 𝟯𝗗 𝗕𝗜𝗥𝗧𝗛𝗗..."
-            },
-            {
                 "video_id": "kbqs0B9q5Wo",
                 "title": "【DONKEY KONG COUNTRY 2】 nearing the end of the banana 🍌【FUWAMOCO｜スーパードンキーコング2】",
                 "date": "2025/07/12 08:00:00",
@@ -598,15 +591,7 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": [
-            {
-                "video_id": "yZo3VLRoX20",
-                "title": "【EVERDEEP AURORA】CC stands for CUTE CAT!!! #ad",
-                "date": "2025/07/12 03:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/yZo3VLRoX20/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7LUnl4LdgeVghP1Lj-equ-_T4JA",
-                "description": "This is a stream that is sponsored by Everdeep Aurora.\n \nPurchase or Wishlist on Steam: https://store.steampowered.com/app/2251400?utm_source=youtube&utm_campaign=hololive\nPurchase on Nintendo..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
@@ -658,7 +643,15 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "1cWmsA_KZW8",
+                "title": "【Emissary Zero】 Co-op horror in SPACE",
+                "date": "2025/07/12 06:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/1cWmsA_KZW8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBF_zaPnuMuWqAHbIlWpOwyVmenoQ",
+                "description": "Playing with:\n💛 @dooby3d  💚 @mintfantome  💛 @Dokibird \n\n☁  Thumbnail Art  ☁\nhttps://x.com/buruhas/status/1943650003915878608\nThank you so much!!\n\n🎉 Virtual Vacation Concert..."
+            }
+        ]
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
