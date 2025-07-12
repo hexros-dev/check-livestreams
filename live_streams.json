@@ -28,14 +28,7 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": [
-            {
-                "video_id": "l3HhJi8ePDo",
-                "title": "【#DeathStranding2】孤独とつながり、生と死の狭間でまた会おう─デススト2 始めます【アキロゼ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/l3HhJi8ePDo/hqdefault.jpg?v=6871ab78&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwYXVjk5f9-jaK3IjkhbDrfqZi0Q",
-                "description": "🏔完全初見でプレイしたDEATH STRANDINGデススト1の再生リストぜひみてね！\nhttps://youtube.com/playlist?list=PLYt9gyZFZDj_nxMYmM6OAJN8JdPr5i7i5&si=i6ptDB2J7XeG1-n8\n..."
-            }
-        ]
+        "videos": []
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -248,14 +241,7 @@
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
-        "videos": [
-            {
-                "video_id": "YjjDNWZlOZI",
-                "title": "【R.E.P.O.】ステージ6の壁を超える。【ホロライブ/夏色まつり】",
-                "thumbnail": "https://i.ytimg.com/vi/YjjDNWZlOZI/hqdefault.jpg?v=68720cbf&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJckEmtcJJV8mzZOMbnfxuCyi69g",
-                "description": "...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\n\n素敵なサムネイル→おくに(ん)様\n@_Okunin\n\n配信タイトル：R.E.P.O.\nストアペ..."
-            }
-        ]
+        "videos": []
     },
     "@NekomataOkayu": {
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
@@ -309,7 +295,14 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "vKkKyCHtzPk",
+                "title": "【PEAK】PPAP CLIMBING TIME!!! w/ Aya Aulya, Purin, Punipun【Pavolia Reine/hololiveID 2nd gen】",
+                "thumbnail": "https://i.ytimg.com/vi/vKkKyCHtzPk/hqdefault.jpg?v=686c644e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxwIHh7xo3efUbxFwQ2P1UC8hJqg",
+                "description": "Game title: PEAK\nStore page: https://store.steampowered.com/app/3527290/PEAK/\n\nReine's new original song now 「Yummy Yum Yummy!」AVAILABLE on iTunes, Apple Music, Spotify etc. Click to stream!..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
