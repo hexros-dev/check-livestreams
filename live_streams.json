@@ -9,27 +9,13 @@
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
         "channel_name": "Airani Iofifteen Channel hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc",
-        "videos": [
-            {
-                "video_id": "cqPDu5KSNhQ",
-                "title": "【Baldur's Gate 3】#9 Last Act, Finally at Baldur's Gate【 iofi / hololiveID 】",
-                "thumbnail": "https://i.ytimg.com/vi/cqPDu5KSNhQ/hqdefault.jpg?v=6871fe15&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4TKR1oWU1FWo4OOaR1z4xm4rggA",
-                "description": "#ioLyfe #Airani_Iofifteen #hololive #holoID \n\nThis game is being streamed and monetized after confirming with Larian Studios, which is based on the following LARIAN STUDIOS' FAN CONTENT POLICY:..."
-            }
-        ]
+        "videos": []
     },
     "@AkaiHaato": {
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
         "avatar_url": "https://yt3.googleusercontent.com/ecW_DT7IKBcfKJ1qioYiyU_Iq6EB4_bCZpaG4srWPkEZRsIAiYguEvh7_nELEJqPnbjAktVj6Q",
-        "videos": [
-            {
-                "video_id": "LRZNrt1KvK0",
-                "title": "【 歌枠 】1週間のおわりにうたうっ！🍋【ホロライブ/赤井はあと】",
-                "thumbnail": "https://i.ytimg.com/vi/LRZNrt1KvK0/hqdefault.jpg?v=68727d8e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHZkILoVvpVJgsIIgX5KthK6pJ5Q",
-                "description": "サムネイラスト：おぐらちゃん。\nhttps://x.com/OGURA32/status/1931266805110280408\n\nありがとんっ❤️‍🔥\n\n音源提供\nhttps://www.youtube.com/@UCWX2b3xIeJHoiNOPd9nTuKA..."
-            }
-        ]
+        "videos": []
     },
     "@AkiRosenthal": {
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
@@ -427,7 +413,14 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ywXLWSfaAdI",
+                "title": "The Quarry but I pick only the worst options",
+                "thumbnail": "https://i.ytimg.com/vi/ywXLWSfaAdI/hqdefault.jpg?v=68724cb6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5jWG2UT_RIt56hSOdJ8Jp5-Zwpg",
+                "description": "Merch available here:\n▼ hololive production OFFICIAL SHOP \nJP: https://shop.hololivepro.com/products/ceciliaimmergreen_anniversary_1st\nEN: https://shop.hololivepro.com/en/products/ceciliaimmergre..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
