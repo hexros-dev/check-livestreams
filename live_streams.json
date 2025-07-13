@@ -344,14 +344,7 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": [
-            {
-                "video_id": "g7aCuK0W5eY",
-                "title": "【R.E.P.O.】　HELLO　REPO　WORLD　【ホロライブ/白上フブキ】",
-                "thumbnail": "https://i.ytimg.com/vi/g7aCuK0W5eY/hqdefault.jpg?v=68733449&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCf2etqteiSxXm_IDPRWxtUP1CnPg",
-                "description": "🌽🌲To Be Continued....🍙🥐\n▷https://youtu.be/C-01aqf-oU8?si=etJAkJQe85-zK5bu\n\n💙💛電脳ぴゅあ推し大宣言💚❤\n▷https://youtu.be/3KYhMk63lj4?si=9jSftsDqrTnBcOob\n\n..."
-            }
-        ]
+        "videos": []
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -394,7 +387,14 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "5VJYlKNeVks",
+                "title": "【不審者通報しました。】私は通報しないでください【轟はじめ/ReGLOSS】 #hololivedev_is",
+                "thumbnail": "https://i.ytimg.com/vi/5VJYlKNeVks/hqdefault.jpg?v=68733d8d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCCxxR-UB4qhKHMuTMcZNVtrfH4dw",
+                "description": "本ゲームは、配信ガイドラインに則り配信、収益化を行っています。\nhttps://store.steampowered.com/app/3214390/_/\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣..."
+            }
+        ]
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
