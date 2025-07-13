@@ -296,14 +296,7 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": [
-            {
-                "video_id": "qS5qK-rDxn8",
-                "title": "【Everdeep Aurora】Here Kitty Pspspsps",
-                "thumbnail": "https://i.ytimg.com/vi/qS5qK-rDxn8/hqdefault.jpg?v=686e20ca&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJE3GOMiZDcraSxcwXSUa5CWGlIA",
-                "description": "This is a stream that is sponsored by Everdeep Aurora. © Nautilus Games. Published by Ysbryd Games.\n \nPurchase or Wishlist on Steam: https://store.steampowered.com/app/2251400?utm_source=youtube&u..."
-            }
-        ]
+        "videos": []
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
@@ -322,7 +315,14 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "L26kMvrQywQ",
+                "title": "【七夕賞/同時視聴】ターボエンジン全開だ～～～！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "thumbnail": "https://i.ytimg.com/vi/L26kMvrQywQ/hqdefault.jpg?v=687335b1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCqHj_Adu8PATDJ6BQCw5fZc4E2Fw",
+                "description": "15:45出走！\n夏競馬！七夕賞は絶対にやりたかった！！！\n\nサムネイルイラスト：鮨田はやりさま\nhttps://x.com/sushidahayari\nありがとうございます！..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -461,14 +461,7 @@
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48",
-        "videos": [
-            {
-                "video_id": "QhCdNBXM7Y8",
-                "title": "【PEAK】Team Code Red ! ASSEMBLE! ~ 💄🧟‍♀️🔋🦖",
-                "thumbnail": "https://i.ytimg.com/vi/QhCdNBXM7Y8/hqdefault.jpg?v=6872b4bd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4bvJzwiXVpXYvlnl5qKMc4Xoh2g",
-                "description": "PEAK times with @KureijiOllie @MachinaXFlayon & @JurardTRexford ! ♡ \n▬▬ι════════ﺤ\n* 配信タイトル：PEAK\nストアページ：https://store.steampowered.com/app/352729..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_gigimurin": {
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
