@@ -28,7 +28,14 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "7YFWAmAMyJA",
+                "title": "【 STREET FIGHTER 6】ガイルくん元気してた？本日のランクマ【アキロゼ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/7YFWAmAMyJA/hqdefault.jpg?v=6873c444&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5D3PYoz4tQHy020P7IsmLd8vBSg",
+                "description": "アキロゼ新曲【異薔薇】きいてね！\nhttps://cover.lnk.to/5bvecc\n\n配信タグ  #アキびゅーわーるど  \nこの動画およびライブは株式会社カプコンの利用許諾..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -413,14 +420,7 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": [
-            {
-                "video_id": "PJIonwal4GE",
-                "title": "【メンバー限定/Memberonly】同時視聴：MONDAYS／このタイムループ、上司に気づかせないと終わらない【常闇トワ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/PJIonwal4GE/hqdefault.jpg?v=687370c4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8tEgOKSRv6MBaLlFBPbMOGbn0Yg",
-                "description": "https://www.amazon.co.jp/MONDAYS%EF%BC%8F%E3%81%93%E3%81%AE%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%AB%E3%83%BC%E3%83%97%E3%80%81%E4%B8%8A%E5%8F%B8%E3%81%AB%E6%B0%97%E3%81%A5%E3%81%8B%E3%81%9B%E3%81%AA%E3..."
-            }
-        ]
+        "videos": []
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
@@ -444,14 +444,7 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": [
-            {
-                "video_id": "sSl-6OAnDEU",
-                "title": "【みんなのリズム天国】そろそろリズム地獄の季節ですね【 雪花ラミィ /ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/sSl-6OAnDEU/hqdefault.jpg?v=68724cb1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFGB6bzFu2Yzh7YKtXqhVvPE7DSg",
-                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n感想は #らみらいぶ で呟いて頂けたら嬉しいです！\n\nサムネイルの..."
-            }
-        ]
+        "videos": []
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
