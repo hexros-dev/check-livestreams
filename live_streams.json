@@ -117,20 +117,20 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": [
-            {
-                "video_id": "KhO1w7vYgyk",
-                "title": "【縦型雑談歌枠】リオナとお話しませんか？♡【ホロライブ DEV_IS 響咲リオナ】",
-                "thumbnail": "https://i.ytimg.com/vi/KhO1w7vYgyk/hqdefault.jpg?v=6875fb10&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9iyYYRsPHpjlvGo5JtTgRb0Gvaw",
-                "description": "【speical thanks】\n生音風カラオケ屋www.youtube.com/ ‪@namakara ‬ \nこのライブに用いている一部の音源は、株式会社エクシングより提供されています。..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "M1I0hjTsvzc",
+                "title": "【雑談】ロケウィークからただいま！な雑談【儒烏風亭らでん #ReGLOSS 】",
+                "thumbnail": "https://i.ytimg.com/vi/M1I0hjTsvzc/hqdefault.jpg?v=687615aa&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQlho2arYtoBjS9oyNq4MQ34V1pQ",
+                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\n▼ホロライブ公式ラインスタンプ「儒烏風亭..."
+            }
+        ]
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
