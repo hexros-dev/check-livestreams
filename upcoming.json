@@ -59,15 +59,7 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": [
-            {
-                "video_id": "OK6Amu6PihY",
-                "title": "【CONERU -DIMENSION GIRL-】continuing our RUNRUN donut adventure 🐾【MEMBERS ONLY】",
-                "date": "2025/07/17 07:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/OK6Amu6PihY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZ13LKaSd4JVXgqKcXDQ9ZTLy0mQ",
-                "description": "let's runrun runrun RUNRUN BAUBAUBAU ✨️\nlovely illustration by @Sico_de_Seraph 💕\nThis stream will become MEMBERS ONLY shortly before starting!\n\n✨️🩵🩷 Go watch our 𝗙𝗨𝗪𝗔..."
-            }
-        ]
+        "videos": []
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -129,7 +121,15 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Ourre5tXUKI",
+                "title": "【朝活】行ってきますの前に話したい～～っ！！【一条莉々華/hololive DEV_IS　ReGLOSS】",
+                "date": "2025/07/17 05:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Ourre5tXUKI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3CBrET3lzWI99I_DVOGSCVOCVwg",
+                "description": "朝は起きれるかどうかでまず勝負が始まってる！\n\n🔽素敵なサムネイラスト🔽\nわむ様 @terawamu\n\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧..."
+            }
+        ]
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -426,7 +426,15 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "AM2QS0RVGvQ",
+                "title": "【#ホロ7DTDハード Day1】ここで働かせてください！（ハードモード）【獅白ぼたん/ホロライブ】",
+                "date": "2025/07/17 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/AM2QS0RVGvQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDyz2iTnvBsnBEw2u5X6GsyxflMBg",
+                "description": "ホロメンと7DTD生活！みんなで生き残るぞ…💀\n\n🎉主催：@OokamiMio \nタグ：#ホロ7DTDハード\n\nサムネイルのイラスト：むらちょーさん\nhttps://x.com/vtmuraty..."
+            }
+        ]
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
