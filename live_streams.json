@@ -15,14 +15,7 @@
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
         "avatar_url": "https://yt3.googleusercontent.com/ecW_DT7IKBcfKJ1qioYiyU_Iq6EB4_bCZpaG4srWPkEZRsIAiYguEvh7_nELEJqPnbjAktVj6Q",
-        "videos": [
-            {
-                "video_id": "_nXRP0JN2mo",
-                "title": "【UNARCHIVED】TEST KARAOKE!!! まったりSINGING~🎤",
-                "thumbnail": "https://i.ytimg.com/vi/_nXRP0JN2mo/hqdefault.jpg?v=68775687&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFNb25U3c8AgehjXfZBURsKy6hqw",
-                "description": "💖Membership to support HAACHAMA!!!メンバーシップ加入はこちら！✨\n➡https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg/join\n\nエコーを直してもらったのでテスト..."
-            }
-        ]
+        "videos": []
     },
     "@AkiRosenthal": {
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
@@ -106,14 +99,7 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": [
-            {
-                "video_id": "yW9FRU0gaRI",
-                "title": "【UMAMUSUME Pretty Derby】HORSE RAISING✨",
-                "thumbnail": "https://i.ytimg.com/vi/yW9FRU0gaRI/hqdefault.jpg?v=68770fbc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmBRln7xyGUBoc4sqcLwz584cbdw",
-                "description": "This game is distributed and monetized in accordance with the distribution guidelines of Cygames, Inc.\nhttps://umamusume.jp/news/detail?id=107\n\n#hololiveenglish  #ホロライブ \n\nStream my..."
-            }
-        ]
+        "videos": []
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -241,7 +227,14 @@
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "uWOVbPcNTJ4",
+                "title": "【開封配信】みこちの加湿空気清浄器が届いたぞ！！【ホロライブ/夏色まつり】",
+                "thumbnail": "https://i.ytimg.com/vi/uWOVbPcNTJ4/hqdefault.jpg?v=687635b9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_5JuDNoJMiBEzgyqKp5-rK1hYBg",
+                "description": "...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\n\nSHARPさん×みこちの加湿器買いました！！\n\n素敵なサムネイル→FeliXKohai様..."
+            }
+        ]
     },
     "@NekomataOkayu": {
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
