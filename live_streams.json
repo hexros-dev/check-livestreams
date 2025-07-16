@@ -435,7 +435,14 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "wXw5qn3liLA",
+                "title": "【Minecraft】ガストくんのお家作っていこう！！【ホロライブ/ときのそら】",
+                "thumbnail": "https://i.ytimg.com/vi/wXw5qn3liLA/hqdefault.jpg?v=6877a2b5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjbwLK2jkdOCspaMTFhlEPSbMS9A",
+                "description": "さぁ！まったり作業の時間だよ！！\n\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行な..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
