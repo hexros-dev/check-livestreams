@@ -229,7 +229,15 @@
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
         "channel_name": "Moona Hoshinova hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "A0FDY2gj5yc",
+                "title": "【Umamusume Pretty Derby】Run?【Moona Hoshinova】",
+                "date": "2025/07/18 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/A0FDY2gj5yc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBp0DVNqVjg4uWqqPsTEaV37tgpLg",
+                "description": "Streamlabs donation link here : https://streamlabs.com/moonahoshinovahololive-id/tip\nSociaBuzz donation link here : https://sociabuzz.com/moonahoshinova/tribe\n======================================..."
+            }
+        ]
     },
     "@MoriCalliope": {
         "channel_url": "https://www.youtube.com/@MoriCalliope",
@@ -247,7 +255,15 @@
         "channel_url": "https://www.youtube.com/@NakiriAyame",
         "channel_name": "Nakiri Ayame Ch. 百鬼あやめ",
         "avatar_url": "https://yt3.googleusercontent.com/3CeLWGYb6cLUywTJzNt-UpITviNxeGNvtjhIqbV-AIybCqCoFw9onWtg91bjwpqvfEP9mfqIR4Q",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "qkcBNoLaCQU",
+                "title": "【 #ホロ7DTDハード 】DAY2 ゾンビ初襲撃・・！？【百鬼あやめ/ホロライブ】",
+                "date": "2025/07/18 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/qkcBNoLaCQU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2JL_3bFXSxPG5lfShbah6JE3plw",
+                "description": "- - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - -ഒ˖°　　\n\n\n　　※本ゲームは THE FUN PIMPS ©2017 の確認を得た上で配信・収..."
+            }
+        ]
     },
     "@NanashiMumei": {
         "channel_url": "https://www.youtube.com/@NanashiMumei",
@@ -368,7 +384,7 @@
             {
                 "video_id": "5PkbRWCGG28",
                 "title": "【 #ホロ7DTDハード 】DAY2 はじめての襲撃、もう一人だけの体じゃない…！【ホロライブ/ ロボ子さん】",
-                "date": "2025/07/18 19:30:00",
+                "date": "2025/07/18 19:15:00",
                 "thumbnail": "https://i.ytimg.com/vi/5PkbRWCGG28/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6D00DUnWuksbP1m-KqQcdXDbNNA",
                 "description": "主催： @OokamiMio \n▼本ゲームは THE FUN PIMPS ©2017 の確認を得た上で配信・収益化を行なっております\n\n＃ホロライブ　#hololive 　 #ホロ7DTDハード..."
             }
@@ -385,13 +401,6 @@
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
         "videos": [
-            {
-                "video_id": "5HzLKcJPV14",
-                "title": "【#ホロライブ0期生】告知アリ！０期生丸裸⁉ 取扱説明書🔎📝にぇ～～～～～‼【ホロライブ/さくらみこ】",
-                "date": "2025/07/18 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/5HzLKcJPV14/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWhJutb_ZkU-hSHcjc2kK3QsVbIg",
-                "description": "０期生を取り扱うには・・・・・・・・・！？\n\n@TokinoSora \n@AZKi \n@HoshimachiSuisei \n@Robocosan \n\n #PR\n⪩⪨　お知らせ/ɪɴғᴏ\n￣￣￣￣￣￣￣￣￣￣￣￣￣..."
-            },
             {
                 "video_id": "W-DKzDHtoZI",
                 "title": "#2【#ホロ7DTDハード】初襲撃⁉ハードモードゾンビの世界で生き残るにぇ！！！！！【ホロライブ/さくらみこ】",
@@ -556,7 +565,15 @@
         "channel_url": "https://www.youtube.com/@dooby3d",
         "channel_name": "dooby",
         "avatar_url": "https://yt3.googleusercontent.com/sOGyZgV9pPHQJCEvNe28NCOFC1y0KggsxUjrP5ecMAgBmdNT8p6ZNM24d_9SVgWFhBh0lKBL5Q",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "nzdAtSEx9ZQ",
+                "title": "TRIPPLE THREAT 🚃💭🐟",
+                "date": "2025/07/19 05:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/nzdAtSEx9ZQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWsA1tfpN7iEiVVHP3pmXy5xDikA",
+                "description": "saba nimi dooby err S N D..?\nthank u https://x.com/buruhas/status/1945701064570773537 for cute thumbnail art!!!!"
+            }
+        ]
     },
     "@holoen_ceciliaimmergreen": {
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
