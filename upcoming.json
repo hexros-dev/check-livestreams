@@ -21,7 +21,15 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "fhjMgm68Zys",
+                "title": "枠確保～！【アキロゼ/ホロライブ】",
+                "date": "2025/07/18 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/fhjMgm68Zys/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAiLqMSLZXz3F3iQynfT_NH5YbPag",
+                "description": "配信タグ  #アキびゅーわーるど  \n・－・－・－・－・－・－・－・－・－・－・－・－・－・－・－・－・－・\n✨最新グッズ＆ボイス情報✨..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -255,15 +263,7 @@
         "channel_url": "https://www.youtube.com/@NakiriAyame",
         "channel_name": "Nakiri Ayame Ch. 百鬼あやめ",
         "avatar_url": "https://yt3.googleusercontent.com/3CeLWGYb6cLUywTJzNt-UpITviNxeGNvtjhIqbV-AIybCqCoFw9onWtg91bjwpqvfEP9mfqIR4Q",
-        "videos": [
-            {
-                "video_id": "qkcBNoLaCQU",
-                "title": "【 #ホロ7DTDハード 】DAY2 ゾンビ初襲撃・・！？【百鬼あやめ/ホロライブ】",
-                "date": "2025/07/18 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/qkcBNoLaCQU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2JL_3bFXSxPG5lfShbah6JE3plw",
-                "description": "- - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - -ഒ˖°　　\n\n\n　　※本ゲームは THE FUN PIMPS ©2017 の確認を得た上で配信・収..."
-            }
-        ]
+        "videos": []
     },
     "@NanashiMumei": {
         "channel_url": "https://www.youtube.com/@NanashiMumei",
@@ -296,15 +296,7 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
-        "videos": [
-            {
-                "video_id": "QiiUtkjHsHY",
-                "title": "【 DAY2 | #ホロ7DTDハード 】はじめての襲撃がやってくる！【 猫又おかゆ視点/ホロライブ 】",
-                "date": "2025/07/18 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/QiiUtkjHsHY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDo3dj5s_B9nFUTSqRSlRppV3xi3Q",
-                "description": "ㅤ\nミオちゃん( @OokamiMio  )主催のホロ7DTDきちゃあ～～！\n\n❥・・ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ・・❥\n\nぼくのフィギュア！予約受付中！..."
-            }
-        ]
+        "videos": []
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -366,29 +358,13 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": [
-            {
-                "video_id": "lfKMVoLpXp0",
-                "title": "【 #ホロ7DTDハード 】2日目！ついに襲撃？！？！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "date": "2025/07/18 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/lfKMVoLpXp0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDu0CtJcfKUeZRNnSqiuuHWa2dbKA",
-                "description": "初めての7day!がんばるぞ～～～～！！！！\n\n\n主催：‪ミオ先輩！　@OokamiMio \nタグ：#ホロ7DTDハード\n\n配信タイトル：7 Days to Die\nhttps://store.steampowered.com..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
-        "videos": [
-            {
-                "video_id": "5PkbRWCGG28",
-                "title": "【 #ホロ7DTDハード 】DAY2 はじめての襲撃、もう一人だけの体じゃない…！【ホロライブ/ ロボ子さん】",
-                "date": "2025/07/18 19:15:00",
-                "thumbnail": "https://i.ytimg.com/vi/5PkbRWCGG28/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6D00DUnWuksbP1m-KqQcdXDbNNA",
-                "description": "主催： @OokamiMio \n▼本ゲームは THE FUN PIMPS ©2017 の確認を得た上で配信・収益化を行なっております\n\n＃ホロライブ　#hololive 　 #ホロ7DTDハード..."
-            }
-        ]
+        "videos": []
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -400,15 +376,7 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": [
-            {
-                "video_id": "W-DKzDHtoZI",
-                "title": "#2【#ホロ7DTDハード】初襲撃⁉ハードモードゾンビの世界で生き残るにぇ！！！！！【ホロライブ/さくらみこ】",
-                "date": "2025/07/18 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/W-DKzDHtoZI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVFKU7QH2Bz8J_0r_tB0W3TGIEXA",
-                "description": "NOT戦犯にぇ！！！！！！！！！！！！！\n\n主催：@OokamiMio \n\n⪩⪨　お知らせ/ɪɴғᴏ\n￣￣￣￣￣￣￣￣￣￣￣￣￣\n　🌸さくらみこ1st Live \"flower..."
-            }
-        ]
+        "videos": []
     },
     "@SamekoSaba": {
         "channel_url": "https://www.youtube.com/@SamekoSaba",
@@ -426,15 +394,7 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": [
-            {
-                "video_id": "ZSWF145n9Hs",
-                "title": "【 #ホロ7DTDハード】　医療ジャーナルを食べるのだ。　【ホロライブ/白上フブキ】",
-                "date": "2025/07/18 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/ZSWF145n9Hs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCMQeMqOexk-jcrsN94NtASTzDbSA",
-                "description": "#ホロ7DTDハード\n\n喉ケア中の為、あまり喋らないようにしてます。\n━━━━━━━━━━━━━━━━━━━━━━━\n🌽🌲To Be Continued....🍙🥐..."
-            }
-        ]
+        "videos": []
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -452,15 +412,7 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": [
-            {
-                "video_id": "bar-FfDGL-8",
-                "title": "【#ホロ7DTDハード Day2】1回目の襲撃を迎え撃つ！【獅白ぼたん/ホロライブ】",
-                "date": "2025/07/18 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/bar-FfDGL-8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2CmtuPJrTsVb715IgoRr5Oy6RLQ",
-                "description": "ホロメンと7DTD生活！みんなで生き残るぞ…💀\n\n🎉主催：@OokamiMio \nタグ：#ホロ7DTDハード\n\nサムネイルのイラスト：メ脳さん\nhttps://x.com/Menomeno_draw/sta..."
-            }
-        ]
+        "videos": []
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
@@ -472,15 +424,7 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": [
-            {
-                "video_id": "lslEMkvdmlI",
-                "title": "【 #ホロ7DTDハード  】DAY2 | ステルス＋ラッキーを極める☺【鷹嶺ルイ/ホロライブ】",
-                "date": "2025/07/18 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/lslEMkvdmlI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9rHCW6D1zLTidtXZkAW9RUqbF8w",
-                "description": "✨主催✨\n@OokamiMio \n\n❤メンバー❤（日によって参加メンバー異なります！）\n大神ミオ\nロボ子さん\nさくらみこ\n白上フブキ\n百鬼あやめ\n大空スバル..."
-            }
-        ]
+        "videos": []
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
@@ -513,13 +457,6 @@
                 "date": "2025/07/20 17:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/nGvly_Vw-qQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOr-6GjUE5ShzXiRO0uCK47YCLgA",
                 "description": "ご応募ありがとうございました！✨️\n\nhttps://www.youtube.com/watch?v=URBn58ty_zE←前回　次回→\n\n\n第四回応募フォームはこちら　（7/20~7/25）\n△△\n\nタイト..."
-            },
-            {
-                "video_id": "uIfw4qTc4Ns",
-                "title": "【  #ホロ7DTDハード 】#2 今日は初めての襲撃日になりそうな予感！【常闇トワ視点/ホロライブ 】",
-                "date": "2025/07/18 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/uIfw4qTc4Ns/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBaPHBNzAOwnBXCDSbQ-LXl7yAcLg",
-                "description": "主催：@OokamiMio \n\n\n▼本ゲームは THE FUN PIMPS ©2017 の確認を得た上で配信・収益化を行なっております\n\n୨୧-------------------------------┈┈┈┈┈┈┈┈..."
             }
         ]
     },
@@ -527,15 +464,7 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": [
-            {
-                "video_id": "Y9qVkkS9r0I",
-                "title": "【 #ホロ7DTDハード | DAY2 】DAY2（実質今日がDAY1）の羊！７Days to Die！【角巻わため/ホロライブ４期生】",
-                "date": "2025/07/18 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Y9qVkkS9r0I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwRgDfT3-r1d9RUEw15IMDCWUNGw",
-                "description": "火炎瓶もらった！\n\n主催：@OokamiMio \nタグ：#ホロ7DTDハード\n\n配信タイトル：7 Days to Die\nストアページ：https://store.steampowered.com/app/251570/7_Days_to_Die/..."
-            }
-        ]
+        "videos": []
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -637,15 +566,7 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": [
-            {
-                "video_id": "tRV2U5CbxLE",
-                "title": "【トルネコの大冒険2】シリーズ初見！はじめてのトルネコの大冒険2やる！ぺこ！【ホロライブ/兎田ぺこら】",
-                "date": "2025/07/18 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/tRV2U5CbxLE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAd-ZGJWw65AhBOIWcFrSTHxEYoYw",
-                "description": "楽しみじゃ！\n\nサムネイラスト：ガザシィさん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュ..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
