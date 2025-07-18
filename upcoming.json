@@ -21,15 +21,7 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": [
-            {
-                "video_id": "foydX8o3mFU",
-                "title": "【歌枠】※アーカイブはメン限 ノープラン歌枠【アキロゼ/ホロライブ】",
-                "date": "2025/07/18 23:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/foydX8o3mFU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbhul68-u0nGwh5Ylf3TuqJYaaVQ",
-                "description": "ただいまみんな！おまた千手観音✋\n配信タグ  #アキびゅーわーるど  \n\nサムネイラスト：ぱせり先生\n・－・－・－・－・－・－・－・－・－・－..."
-            }
-        ]
+        "videos": []
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -135,7 +127,22 @@
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "LYd6hdxJGhk",
+                "title": "【同時視聴】Prime Video独占配信ドラマ「笑ゥせぇるすまん」を一緒に観よう！！【戌神ころね】",
+                "date": "2025/07/19 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/LYd6hdxJGhk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD39mJPlg3zH2l2HSjlAwfEx0lpMA",
+                "description": "タグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nころねTwitter▶https://twitter.com/inugamikorone\n\n-----------------------------..."
+            },
+            {
+                "video_id": "mxUtN5pQL6Y",
+                "title": "【ド★初見】人生初めての「ウマ娘 」遊ぶ！！（ドゥラメンテに会いたい）【プリティーダービー】",
+                "date": "2025/07/19 13:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/mxUtN5pQL6Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYofa32uLNm2tZ6Zg8lrOfuVAjyw",
+                "description": "Play Game : Umamusume Pretty Derby ( steam )\nタグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nころねTwitter▶https://twitter.com..."
+            }
+        ]
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
