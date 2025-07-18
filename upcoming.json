@@ -161,13 +161,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
         "videos": [
             {
-                "video_id": "TVJ1D9HNhIo",
-                "title": "【 HoloCure 】ホロキュアだーいすき！！！！！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "date": "2025/07/18 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/TVJ1D9HNhIo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwpLaQTunTDP4T2vfuOkoGwv0w_w",
-                "description": "本ゲームはKay Yu様に確認の上配信・収益化を行なっております。\nhttps://kay-yu.itch.io/holocure\n\nサムネイルの素敵なイラスト　はるぅさん　https://x.com/12..."
-            },
-            {
                 "video_id": "c6FTIC_vzBQ",
                 "title": "【 HEAVY RAIN 】ペこら先輩にプレゼントしてもらった神ゲームやる！！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
                 "date": "2025/07/19 19:00:00",
@@ -231,7 +224,15 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "gp-0haZl4Ks",
+                "title": "【 #桃鈴ねね新衣装 】桃鈴ねねは○○になる！！！！！！！！【 桃鈴ねね / hololive 】",
+                "date": "2025/07/19 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/gp-0haZl4Ks/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDULmpbNTbwQew0pWMnA3Eh7X0GEQ",
+                "description": "何になると思う？\n⸜♡⸝MemberShipに入ったらもっとねねを知れるﾖ\nhttps://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA/join\n\n⸜♡⸝各音楽サイトにてオリジ..."
+            }
+        ]
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
@@ -430,15 +431,7 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": [
-            {
-                "video_id": "SqwQCLkENjE",
-                "title": "【ホラゲ】ニコニコさん、こっちこないでね【轟はじめ/ReGLOSS】 #hololivedev_is",
-                "date": "2025/07/18 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/SqwQCLkENjE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDme1odRBsy58-Txy122BU4RcIOsQ",
-                "description": "タイトル：ニコニコさん | Niconico-san\nストアページ：https://store.steampowered.com/app/3174810/__Niconicosan/\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n✨宣伝..."
-            }
-        ]
+        "videos": []
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
