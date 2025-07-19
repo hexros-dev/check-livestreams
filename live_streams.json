@@ -53,7 +53,14 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "tJ896QokqbM",
+                "title": "I took nap and then Prisuners Night",
+                "thumbnail": "https://i.ytimg.com/vi/tJ896QokqbM/hqdefault.jpg?v=687b981c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAII0rpXtjo6_6nR8sgopwxt-6a0Q",
+                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nーーーーーーーーー\nCHECK OUT RISU 5TH ANNIVERSARY MERCH!\nSales start: 10 April 2025, 21:00 WIB/ 23:00 JST\nSales end: 12 May..."
+            }
+        ]
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -400,14 +407,7 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": [
-            {
-                "video_id": "8iqeUYsko5k",
-                "title": "【R.E.P.O.】　代理の豆でソロのREPOを極めていく。　【ホロライブ/白上フブキ】",
-                "thumbnail": "https://i.ytimg.com/vi/8iqeUYsko5k/hqdefault.jpg?v=687b7a28&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_nWM_9jlrC2hfsFxicmi4-whBuw",
-                "description": "🌽🌲To Be Continued....🍙🥐\n▷https://youtu.be/C-01aqf-oU8?si=etJAkJQe85-zK5bu\n\n💙💛電脳ぴゅあ推し大宣言💚❤\n▷https://youtu.be/3KYhMk63lj4?si=9jSftsDqrTnBcOob\n\n..."
-            }
-        ]
+        "videos": []
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -477,7 +477,14 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "DJEqzwa8HRM",
+                "title": "【雑談】今月は情報が多かったですね。【ホロライブ/ときのそら】",
+                "thumbnail": "https://i.ytimg.com/vi/DJEqzwa8HRM/hqdefault.jpg?v=687b9755&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzMn2AG75d1s-e4tmYYdqkhifOHA",
+                "description": "『ときのそら 8th Anniversary Party「Starry Bl∞min’」』\n10月1日（水）・2日（木）、CLUB CITTA'\nにて開催決定～！！\n\nhttps://tokinosora-live.com/starrybl∞min'-2025/..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",

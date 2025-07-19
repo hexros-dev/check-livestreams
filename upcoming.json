@@ -62,15 +62,7 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": [
-            {
-                "video_id": "tJ896QokqbM",
-                "title": "I took nap and then Prisuners Night",
-                "date": "2025/07/19 20:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/tJ896QokqbM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAII0rpXtjo6_6nR8sgopwxt-6a0Q",
-                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nーーーーーーーーー\nCHECK OUT RISU 5TH ANNIVERSARY MERCH!\nSales start: 10 April 2025, 21:00 WIB/ 23:00 JST\nSales end: 12 May..."
-            }
-        ]
+        "videos": []
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -186,7 +178,15 @@
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
         "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/ACubs_Mw4YtmgHDIIZvW_gZaPf_VR1wg9yffFLsq4Lrw-W7Md-0pK4Gob8OJebCYCmgrArsE",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "SwVWG6dIXOI",
+                "title": "【ニコ担メン】歌練習をおみまもりくだたい【虎金妃笑虎】",
+                "date": "2025/07/19 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/SwVWG6dIXOI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWap5qJy_o7atNq3IhxKswfL_Vkg",
+                "description": "サムネイルのイラストは\nGochiさん！✨\nhttps://x.com/GochiCat/status/1940433557366972783\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.co..."
+            }
+        ]
     },
     "@KosekiBijou": {
         "channel_url": "https://www.youtube.com/@KosekiBijou",
@@ -444,15 +444,7 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": [
-            {
-                "video_id": "DJEqzwa8HRM",
-                "title": "【雑談】今月は情報が多かったですね。【ホロライブ/ときのそら】",
-                "date": "2025/07/19 20:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/DJEqzwa8HRM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzMn2AG75d1s-e4tmYYdqkhifOHA",
-                "description": "『ときのそら 8th Anniversary Party「Starry Bl∞min’」』\n10月1日（水）・2日（木）、CLUB CITTA'\nにて開催決定～！！\n\nhttps://tokinosora-live.com/starrybl∞min'-2025/..."
-            }
-        ]
+        "videos": []
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
