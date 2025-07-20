@@ -153,7 +153,15 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "TQO-JhMgqOY",
+                "title": "【PEJUANG SENIN】#101 getting closer to 2026【Kaela's Monday Warrior】",
+                "date": "2025/07/21 07:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/TQO-JhMgqOY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_rO1jyYHBmcVWb2HxtjapcuiEkg",
+                "description": "the topics from the Pejuang Senin stream sometimes might be sensitive to be clipped without the context. please have that in mind😇\n∘₊✧──────✧₊∘∘₊✧──────..."
+            }
+        ]
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
