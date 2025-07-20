@@ -180,7 +180,14 @@
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "KuIVXhYn5ec",
+                "title": "【ZOMILY】 IT'S ANOTHER FREETALK, I NEED A BREAK FROM WORK 【Kureiji Ollie】",
+                "thumbnail": "https://i.ytimg.com/vi/KuIVXhYn5ec/hqdefault.jpg?v=687bc3ee&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzLL75SozRtInoocpUT7dmaI4k4w",
+                "description": "#OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n==========================================\n\nThis is a membership stream, please don't clip any content or talk about topics said here unless I..."
+            }
+        ]
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
@@ -265,14 +272,7 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": [
-            {
-                "video_id": "UntWycqbQwg",
-                "title": "【育成？新シナリオ？】ウマ娘 プリティーダービー（Umamusume）俺の愛馬とゲリラと【尾丸ポルカ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/UntWycqbQwg/hqdefault.jpg?v=687ca1b2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDitSyqEh7edfwTFMLl-JJENYbUsg",
-                "description": "ラヴズオンリーユーかクロノジェネシス？\n\n\n本ゲームは株式会社Cygamesの配信ガイドラインに則って配信・収益化を行なっております。\nhttps://umamusu..."
-            }
-        ]
+        "videos": []
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
