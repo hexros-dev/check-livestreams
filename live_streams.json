@@ -35,7 +35,14 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "9W4JHGQZCGo",
+                "title": "【 STREET FIGHTER 6】いくぞアキガイル！本日も深夜ランクマ【アキロゼ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/9W4JHGQZCGo/hqdefault.jpg?v=687d0198&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCt230MA-F8VberPXPOb0k51cmu6w",
+                "description": "配信タグ  #アキびゅーわーるど  \nこの動画およびライブは株式会社カプコンの利用許諾を受けて配信しています『ストリートファイター6』\n©CAPCOM..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -144,14 +151,7 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": [
-            {
-                "video_id": "mlSgT7kKCs8",
-                "title": "【メン限ASMR】朗読「夢十夜」夏目漱石【儒烏風亭らでん 】",
-                "thumbnail": "https://i.ytimg.com/vi/mlSgT7kKCs8/hqdefault.jpg?v=687cba07&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0ySBGESwavSMStlDNk-RExN7p5g",
-                "description": "めんげんだよ！！\n\nこちらの配信をご視聴する際はヘッドフォンやイヤホンをしてお楽しみください\n\nサムネイル：志室幸太郎様\nhttps://x.com/shimuro_11..."
-            }
-        ]
+        "videos": []
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
