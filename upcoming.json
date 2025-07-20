@@ -390,7 +390,15 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "F9gvLBDLMO0",
+                "title": "【#GQuuuuuuX 同時視聴】8話から最後まで！！！！！【輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "date": "2025/07/20 15:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/F9gvLBDLMO0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdZuysNG8xc42WwFr79kXkWlYU-w",
+                "description": "劇場版以降何の情報も入れてないのでほぼ初見！！！\nアマプラでみるよ～～～～！！！\n\nAmazon Prime Video他で配信中！\nアマプラ\n🔗https://www.amazon.co.j..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -472,15 +480,7 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": [
-            {
-                "video_id": "9dqFCQy-qDs",
-                "title": "【 RAIDOU Remastered: 超力兵団奇譚 】完全初見！イケてる悪魔育てマス。【鷹嶺ルイ/ホロライブ】※ネタバレあり",
-                "date": "2025/07/20 14:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/9dqFCQy-qDs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5fGOFQ9SL-0eUOGyFyxAARP5ueg",
-                "description": "ジャアクフロストつくりたい👿✨\n\n本動画は株式会社アトラスに確認の上、動画・生放送等配信ガイドラインに則り配信しています。\n©ATLUS..."
-            }
-        ]
+        "videos": []
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
