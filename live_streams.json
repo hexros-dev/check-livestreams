@@ -197,14 +197,7 @@
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
         "channel_name": "Moona Hoshinova hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3",
-        "videos": [
-            {
-                "video_id": "lm6vu-_Zd0A",
-                "title": "【Umamusume Pretty Derby】This game starting to takes my time【Moona Hoshinova】",
-                "thumbnail": "https://i.ytimg.com/vi/lm6vu-_Zd0A/hqdefault.jpg?v=687e364e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLhrFCPrMYUsYH97xfuT2c-Ka6EA",
-                "description": "Streamlabs donation link here : https://streamlabs.com/moonahoshinovahololive-id/tip\nSociaBuzz donation link here : https://sociabuzz.com/moonahoshinova/tribe\n======================================..."
-            }
-        ]
+        "videos": []
     },
     "@MoriCalliope": {
         "channel_url": "https://www.youtube.com/@MoriCalliope",
@@ -464,7 +457,14 @@
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
         "channel_name": "Choco Ch. 癒月ちょこ",
         "avatar_url": "https://yt3.googleusercontent.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "P7DQLXlOqn8",
+                "title": "【Freetalk】真夜中のちょこっと雑談📣 【ホロライブ/癒月ちょこ】",
+                "thumbnail": "https://i.ytimg.com/vi/P7DQLXlOqn8/hqdefault.jpg?v=687e6779&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXgOG5grzFmVj1CLv3L9qGmMMp7w",
+                "description": "サブ垢→https://www.youtube.com/channel/UCp3tgHXw_HI0QMk1K8qh3g\n\n癒月ちょこ新衣装記念グッズ\n→https://shop.hololivepro.com/products/yuzukichoco_newoutfit_2025\n\nOP＆ED動画：松..."
+            }
+        ]
     },
     "@dooby3d": {
         "channel_url": "https://www.youtube.com/@dooby3d",
