@@ -178,7 +178,7 @@
         "videos": [
             {
                 "video_id": "yujEpAVSzNI",
-                "title": "【 ホロライブ お宝マウンテン 】ホロナツモード！！水着キターーーーー！！！！！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "title": "【 ホロライブ お宝マウンテン 】ホロナツモード！！夏だ！海だ！水着キターーーーー！！！！！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
                 "date": "2025/07/21 20:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/yujEpAVSzNI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDT6XitQLwjZZjAPAYW4qvjJGfs4A",
                 "description": "本ゲームは holo Indie の承諾を得た上で配信・収益化を行なっております。\nストアページ：https://store.steampowered.com/app/2972990/_/\n\nサムネイルの素敵な..."
@@ -348,13 +348,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
         "videos": [
             {
-                "video_id": "00_mDGbFNfo",
-                "title": "【R.E.P.O.】コラボの前のREPOだよ！！！！調整REPO！！！！【尾丸ポルカ/ホロライブ】",
-                "date": "2025/07/21 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/00_mDGbFNfo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvwSR5bbpmmCOFH2ZibWGPA1NEdQ",
-                "description": "ひさびさふぅ～～～\n\n\nサムネありがとうございます！\nhttps://x.com/_Okunin\n\n配信タイトル：R.E.P.O.\nストアページ：https://store.steampowered.com/app/3241660/REPO/..."
-            },
-            {
                 "video_id": "43AjhSnQRz8",
                 "title": "【R.E.P.O.】またまた！にじホロレポ・・・・・！！！？？？【尾丸ポルカ/ホロライブ】",
                 "date": "2025/07/21 18:00:00",
@@ -516,15 +509,7 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": [
-            {
-                "video_id": "c-EYICGcaMY",
-                "title": "【常識チェック】ばんちょーの常識についてこられるかな？【轟はじめ/ReGLOSS】 #hololivedev_is",
-                "date": "2025/07/21 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/c-EYICGcaMY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAExfdYqSpjRUVvMKvtO2Gf8VAcMw",
-                "description": "素敵なサムネお写真：猫背大仏様（@nekoze_daibutu）\n\nゲーム名：全国一般人常識チェック\n本ゲームは株式会社 TTの許諾を受けて配信・収益化を行っ..."
-            }
-        ]
+        "videos": []
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
@@ -536,7 +521,15 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "xVpexYVpXQo",
+                "title": "【  #ホロ7DTDハード 】#3 次の拠点を置く場所を探しに行くぞ～～！🚲️【常闇トワ視点/ホロライブ 】",
+                "date": "2025/07/21 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/xVpexYVpXQo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABauBFIuDvRWJ9ijQUjzZjmvo7dQ",
+                "description": "主催：@OokamiMio \n\n\n▼本ゲームは THE FUN PIMPS ©2017 の確認を得た上で配信・収益化を行なっております\n\n୨୧-------------------------------┈┈┈┈┈┈┈┈..."
+            }
+        ]
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
