@@ -194,13 +194,6 @@
                 "date": "2025/07/23 20:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/W_7o0J3pm84/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgz_Q6SG7Pi5xHI1JA6wqNlwXm9Q",
                 "description": "誕生日グッズhttps://shop.hololivepro.com/products/mizumiyasu_birthday_2025\n本ゲームはIndieArk の確認を得た上で配信・収益化を行なっております。\n▹◃┄▸◂┄..."
-            },
-            {
-                "video_id": "o8IL9qLpKcM",
-                "title": "【ごく普通の鹿のゲーム DEEEERSimulatior】鹿って強い？【水宮枢／FLOW GLOW】#hololiveDEV_IS",
-                "date": "2025/07/22 20:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/o8IL9qLpKcM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjhzIZ2VeKGiFOkBHIuCyITggAPA",
-                "description": "誕生日グッズhttps://shop.hololivepro.com/products/mizumiyasu_birthday_2025\n本ゲームはPLAYISMに確認を得たうえで、実況ガイドラインに則り配信・収益化を行って..."
             }
         ]
     },
@@ -259,7 +252,15 @@
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "f-h3oNfxwn0",
+                "title": "【 #ホロメン体操 】☀毎日7時の健康生活☀5日目【ホロライブ/夏色まつり】",
+                "date": "2025/07/23 05:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/f-h3oNfxwn0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCAoDZvk49rN8Vxdmxj_hIAeHsjuw",
+                "description": "...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\n\nスタンプカードダウンロードはこちら⇩\nhttps://drive.google.com/drive/folders/17l..."
+            }
+        ]
     },
     "@NekomataOkayu": {
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
@@ -399,7 +400,7 @@
             {
                 "video_id": "BLsSejegjSU",
                 "title": "【BLUE PRINCE】back in bluesiness #kfp #キアライブ",
-                "date": "2025/07/22 21:00:00",
+                "date": "2025/07/22 21:30:00",
                 "thumbnail": "https://i.ytimg.com/vi/BLsSejegjSU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjtbj7uSNRXutWhmTe8rnJnmUM9w",
                 "description": "Takanashi Kiara『TASTY』\nhttps://cover.lnk.to/al3Zjt\n\n🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara\n\n 🏵️[Hashtags] 🏵️\n#kfp #キアライブ#hololiveenglish #holomyth..."
             }
