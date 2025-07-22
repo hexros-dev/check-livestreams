@@ -3,14 +3,7 @@
         "channel_url": "https://www.youtube.com/@AZKi",
         "channel_name": "AZKi Channel",
         "avatar_url": "https://yt3.googleusercontent.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos",
-        "videos": [
-            {
-                "video_id": "1su2F46QEC0",
-                "title": "【メン限/MemberOnly】ホロメン曲を1時間で覚えられるかな！？#6【ホロライブ / AZKi】",
-                "thumbnail": "https://i.ytimg.com/vi/1su2F46QEC0/hqdefault.jpg?v=687f4edf&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCygi9E_NEp5W_yIJHeO9h6eIdxrw",
-                "description": "～本日の課題曲～\n【original anime MV】パイパイ仮面でどうかしらん？【hololive/宝鐘マリン】\nhttps://youtu.be/hv2vo94FOF4\n\n※開始直前にメンバーシップ限定..."
-            }
-        ]
+        "videos": []
     },
     "@AiraniIofifteen": {
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
@@ -28,7 +21,14 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "LodaIf_M29A",
+                "title": "【 STREET FIGHTER 6】ダイヤ帯をすすめアキガイル。深夜ランクマ【アキロゼ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/LodaIf_M29A/hqdefault.jpg?v=687f9c00&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZPiOOetYpe2v_Q7fJeMVjE9VmJg",
+                "description": "配信タグ  #アキびゅーわーるど  \nこの動画およびライブは株式会社カプコンの利用許諾を受けて配信しています『ストリートファイター6』\n©CAPCOM..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -131,7 +131,14 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "phvJYC2PNwQ",
+                "title": "【縦型雑談歌枠】こんばんわ！寝る前にリオナとはなそお【ホロライブ DEV_IS 響咲リオナ】",
+                "thumbnail": "https://i.ytimg.com/vi/phvJYC2PNwQ/hqdefault.jpg?v=687fa61b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqvEnYGG5zJUPQ_aoWBK8uhWYTfg",
+                "description": "【speical thanks】\n生音風カラオケ屋www.youtube.com/ ‪@namakara ‬ \nこのライブに用いている一部の音源は、株式会社エクシングより提供されています。..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -149,14 +156,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": [
-            {
-                "video_id": "FWCkuwroMIw",
-                "title": "【 Fast Food Simulator 】ぺこら先輩とハンバーガー屋さん開店だあああ！！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "thumbnail": "https://i.ytimg.com/vi/FWCkuwroMIw/hqdefault.jpg?v=687f7039&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRQF_nF8OQglHdaTLEqvX5M06DXQ",
-                "description": "食べる係の先輩　@usadapekora \n\n本ゲームは No Ceiling Games に確認の上配信・収益化を行なっております。\nhttps://store.steampowered.com/app/2916430/Fast_Food_Simulato..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -192,14 +192,7 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": [
-            {
-                "video_id": "o8IL9qLpKcM",
-                "title": "【ごく普通の鹿のゲーム DEEEERSimulatior】鹿って強い？【水宮枢／FLOW GLOW】#hololiveDEV_IS",
-                "thumbnail": "https://i.ytimg.com/vi/o8IL9qLpKcM/hqdefault.jpg?v=687e6d87&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjhzIZ2VeKGiFOkBHIuCyITggAPA",
-                "description": "誕生日グッズhttps://shop.hololivepro.com/products/mizumiyasu_birthday_2025\n本ゲームはPLAYISMに確認を得たうえで、実況ガイドラインに則り配信・収益化を行って..."
-            }
-        ]
+        "videos": []
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -398,7 +391,14 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "k0Z3uPdj3Bk",
+                "title": "【ASMR】[リベンジ]落ち着く声♡ぐっすり安眠耳かき＆マッサージ♡【白銀ノエル/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/k0Z3uPdj3Bk/hqdefault.jpg?v=687f4365&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2DkE-oBJSDSImstyvFFL40LOylA",
+                "description": "ASMRは全て広告OFFにしてるので安心してねんねしてね✨\nこの配信はNOメン限なので誰でも視聴できます！\nもし少しでも良いと思ったらチャンネル登..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -546,14 +546,7 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": [
-            {
-                "video_id": "po-aLj8uBuE",
-                "title": "【Fast Food Simulator】ヴィヴィちゃんとハンバーガー屋さんを開店する！ぺこ！【ホロライブ/兎田ぺこら】",
-                "thumbnail": "https://i.ytimg.com/vi/po-aLj8uBuE/hqdefault.jpg?v=687f5537&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBO_gfThrAdI-E9CImyhRHoFKJRfg",
-                "description": "@KikiraraVivi \n\nサムネイラスト：()さん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
