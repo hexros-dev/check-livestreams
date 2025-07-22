@@ -153,14 +153,7 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": [
-            {
-                "video_id": "6H4GDxP5sek",
-                "title": "【HITMAN WORLD OF ASSASSINATION】*Throws wrench at your head cutely*",
-                "thumbnail": "https://i.ytimg.com/vi/6H4GDxP5sek/hqdefault.jpg?v=687eb2ba&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCN-GQrvDSrzhjkgMNxHMFU47BmAw",
-                "description": "Thumbnail Art by:@PhdPigeon  THANK YOU!\nhttps://x.com/PhdPigeon/status/1945276686137798842/photo/1\n\n\n====================\n✧Twitter: https://twitter.com/kosekibijou\n\n✧Hashtags: \n#biboo ..."
-            }
-        ]
+        "videos": []
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -281,7 +274,14 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "AGgBDDzuhWU",
+                "title": "ELLLL CONDOR PASAAAAAAAAAAAAAA (umamusume: pretty derby)",
+                "thumbnail": "https://i.ytimg.com/vi/AGgBDDzuhWU/hqdefault.jpg?v=687f08a7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBis_a8WxzFHvSME8A0VaO-Szc90g",
+                "description": "Reine's new original song now 「Yummy Yum Yummy!」AVAILABLE on iTunes, Apple Music, Spotify etc. Click to stream!\nパヴォリア・レイネ新曲「ヤミヤムヤミ」\nhttps://cover.lnk.to/mU..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
