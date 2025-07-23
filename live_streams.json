@@ -112,14 +112,7 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
-        "videos": [
-            {
-                "video_id": "df_TmM-jCTI",
-                "title": "【#ホロ551】\"協力\"登山ゲームらしい。協力…ねｗ PEAK【一条莉々華/hololive DEV_IS ReGLOSS】",
-                "thumbnail": "https://i.ytimg.com/vi/df_TmM-jCTI/hqdefault.jpg?v=68809c37&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBkLb_vOMJ4eG4Cqc575FbNt5qSMA",
-                "description": "​@OmaruPolka @HakuiKoyori 先輩たちと✨\n久しぶりに551だあああああああああああああああああああ\n\n配信タイトル：PEAK\nストアページ：https://store.steampowe..."
-            }
-        ]
+        "videos": []
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -337,7 +330,14 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "CoN5cmwYdP4",
+                "title": "【#ホロの花札 】リリース目前！おさらい&重大発表も！！？？【ホロライブ/白上フブキ/大神ミオ】",
+                "thumbnail": "https://i.ytimg.com/vi/CoN5cmwYdP4/hqdefault.jpg?v=687f530a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1ACzUJ87QJOxV71zp-n1AAqZ01A",
+                "description": "#ホロの花札\n大神ミオ @OokamiMio \n━━━━━━━━━━━━━━━━━━━━━━━\n■ホロの花札とは？\nホロライブメンバーが描かれた \"オリジナ..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -367,14 +367,7 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": [
-            {
-                "video_id": "VD5NsTvbWo0",
-                "title": "【 nosh 】お酒に合うメニューがあるってホントですか⁉【鷹嶺ルイ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/VD5NsTvbWo0/hqdefault.jpg?v=688053fd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzBJ2Z-4juXOtK7ITnk-hhqRXjlw",
-                "description": "🥀nosh×Lui ch. 鷹嶺ルイ - holoX -の特別コラボクーポンはこちら🥀\nhttps://nosh.jp/influencer-promotion?key=TakaneLui&utm_source=Youtuber&utm_medium=PR&utm_campaign=TakaneLui&ut..."
-            }
-        ]
+        "videos": []
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
@@ -386,14 +379,7 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": [
-            {
-                "video_id": "2hOwnQ7fZ8E",
-                "title": "【重大告知】ライブときたらあれしかないでしょ！！【ホロライブ/ときのそら】",
-                "thumbnail": "https://i.ytimg.com/vi/2hOwnQ7fZ8E/hqdefault.jpg?v=687f407a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3Y1vTEgD1pBjiursP5mv4FehxAA",
-                "description": "『ときのそら 8th Anniversary Party「Starry Bl∞min’」』\n10月1日（水）・2日（木）、CLUB CITTA'\nにて開催決定～！！\n\nhttps://tokinosora-live.com/starrybl∞min'-2025/..."
-            }
-        ]
+        "videos": []
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
@@ -405,7 +391,14 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "PPDyk3y7o0Q",
+                "title": "【世界のアソビ大全51】ルドーの世界へようこそ！！【角巻わため/ホロライブ４期生】",
+                "thumbnail": "https://i.ytimg.com/vi/PPDyk3y7o0Q/hqdefault.jpg?v=687fe9a0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJAywnQmTfkZ8Nb9ouOjA3dCQ_rg",
+                "description": "タグ：#ホロルドー\n\n◆ぼたんちゃん\n@ShishiroBotan \n◆はじめちゃん\n@TodorokiHajime \n◆ちはやちゃん\n@RindoChihaya \n\n配信タイトル：世界のアソビ大全51..."
+            }
+        ]
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -465,14 +458,7 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
-        "videos": [
-            {
-                "video_id": "bIUALEX3Llw",
-                "title": "【 プチプチおみせっち おまちど～さま! 】ごっちー目指して✨なにやら怪しいお店もきになります👀【風真いろは/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/bIUALEX3Llw/hqdefault.jpg?v=68803307&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBivnkfCm1Xn9xd-P3-2DXbLNK4tQ",
-                "description": "サムネイラスト\nhttps://x.com/puchicochi_712/status/1921940788054736975\n\nこのゲーム実況は「バンダイナムコエンターテインメント ゲーム実況ポリシー」に基づ..."
-            }
-        ]
+        "videos": []
     },
     "@mikenekoko": {
         "channel_url": "https://www.youtube.com/@mikenekoko",
@@ -490,7 +476,14 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "7ALlE7vVsK4",
+                "title": "【告知アリ】ぺこマリオフコラボ in ぺこらハウス！ぺこ！【ホロライブ/兎田ぺこら】",
+                "thumbnail": "https://i.ytimg.com/vi/7ALlE7vVsK4/hqdefault.jpg?v=6880a5c7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQvbISa67JR7XIICz_Z925GQeyzw",
+                "description": "ノーダメ @HoushouMarine \n\nサムネイラスト：安野将人(ｱﾝﾉﾏｻﾄ)さん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
