@@ -393,7 +393,15 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "TGql6egItc0",
+                "title": "【見逃すな！】重大告知あるよ！！！【ホロライブ/不知火フレア・尾丸ポルカ・さくらみこ・白銀ノエル】【不知火フレア/ホロライブ】",
+                "date": "2025/07/24 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/TGql6egItc0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7F5tjbKb84Hg3pJrosZECwsofKw",
+                "description": "重大告知やります！！\n＃PR\n@OmaruPolkaぽるっさん \n@SakuraMiko みこっさん\n@ShiroganeNoel ノエっさん\n\n━━━━━━━━━━━━━━━━━━━━━━━..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -491,15 +499,7 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": [
-            {
-                "video_id": "4WNIb4Gh2Wo",
-                "title": "【雑談】今後やりたいゲームとかのんびり話す！【 雪花ラミィ /ホロライブ】",
-                "date": "2025/07/23 12:00:05",
-                "thumbnail": "https://i.ytimg.com/vi/4WNIb4Gh2Wo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdspbIHYFbHgVtr8yP0PbG4Upv8g",
-                "description": "サムネイルイラスト：すずなみさま\nhttps://x.com/suzunami_illust\n\n感想は #らみらいぶ で呟いて頂けたら嬉しいです！\n\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈..."
-            }
-        ]
+        "videos": []
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
