@@ -138,15 +138,7 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": [
-            {
-                "video_id": "stUqc8Ab_4U",
-                "title": "【Tamagotchi Plaza】WORK WORK WORK",
-                "date": "2025/07/24 10:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/stUqc8Ab_4U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6LPBtIabSQF8X8MIWHWymGQ8boA",
-                "description": "MY CHILDHOOD IS REVIVING\n\nThis game is being streamed with in accordance with the “Bandai Namco Entertainment Game Video Policy”\nhttps://www.bandainamcoent.co.jp/info/videopolicy/\n©BANDAI..."
-            }
-        ]
+        "videos": []
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -329,13 +321,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
         "videos": [
             {
-                "video_id": "6guF3BHlR4U",
-                "title": "【MYTHMASH】Opening Ceremony! What is...MYTHMASH?! #holomyth",
-                "date": "2025/07/24 10:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/6guF3BHlR4U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZrS8PPMcf32Hpc-pRHktDmmvtzg",
-                "description": "▶Cast\n‪@MoriCalliope \n@TakanashiKiara \n@NinomaeInanis \n\n◆OFFICIAL HASHTAG\n#mythmashchemythtry\n\n--------------------------------------------------------------\n\n◆hololive English ‐Myth‐..."
-            },
-            {
                 "video_id": "AS2zHqpT2S8",
                 "title": "【UNARCHIVED KARAOKE】HoloNatsu Paradise! American Summer Songs!? #calliolive",
                 "date": "2025/07/26 08:00:00",
@@ -479,7 +464,15 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "orWQxUcIf6E",
+                "title": "【 #ホロ7DTDハード 】砂漠にお引越しだあ！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "date": "2025/07/24 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/orWQxUcIf6E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCIq0eEcfp0fjsmmTFETX6hQ9_vKw",
+                "description": "初めての7day!がんばるぞ～～～～！！！！\n\n\n主催：‪ミオ先輩！　@OokamiMio \nタグ：#ホロ7DTDハード\n\n配信タイトル：7 Days to Die\nhttps://store.steampowered.com..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -604,7 +597,15 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "jseieZY-PYs",
+                "title": "【歌枠】#ホロナツ歌枠リレー １９時スタート！！【ホロライブ/ときのそら】",
+                "date": "2025/07/25 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/jseieZY-PYs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPe0d-5mw8dogrLiImoqvjqMaWqA",
+                "description": "次は19:20からりりーか！！@IchijouRirika \n１番手行くぞ～！！\n\n～カラオケ～\nカラオケアプリ\n※このライブに用いている一部の音源は、株式会社エク..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
