@@ -222,13 +222,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
         "videos": [
             {
-                "video_id": "8xhU3wZbK90",
-                "title": "【 ホロライブごろごろマウンテン 】新作ゲームキターーーーー！！！！！推しを頂上まで押し上げよう！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "date": "2025/07/24 14:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/8xhU3wZbK90/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBMM0ByNetE4A7AgW3iUgiGZVl6Q",
-                "description": "本ゲームは holo Indie の承諾を得た上で配信・収益化を行なっております。\n\nhttps://store.steampowered.com/app/3511130/hololive_GoroGoro_Mountain/\n\nサムネイルの素敵..."
-            },
-            {
                 "video_id": "uVxA_OECtQo",
                 "title": "【 ＃ホロナツ歌枠リレー /KARAOKE  】ホロライブと過ごす夏！みんなに元気を届けた～い！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
                 "date": "2025/07/26 06:40:00",
@@ -528,7 +521,15 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "g7Oh3AapJDc",
+                "title": "#5【#ホロ7DTDハード】砂漠に引っ越しだ‼ハードモードゾンビの世界で生き残るにぇ！！！！！【ホロライブ/さくらみこ】",
+                "date": "2025/07/24 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/g7Oh3AapJDc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAisjGgyicGoJpRUQaVOLniA2M7XA",
+                "description": "NOT戦犯にぇ！！！！！！！！！！！！！\n\n主催：@OokamiMio \n\n⪩⪨　お知らせ/ɪɴғᴏ\n￣￣￣￣￣￣￣￣￣￣￣￣￣\n　🌸さくらみこ1st Live \"flower..."
+            }
+        ]
     },
     "@SamekoSaba": {
         "channel_url": "https://www.youtube.com/@SamekoSaba",
