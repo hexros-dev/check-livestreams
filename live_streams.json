@@ -3,14 +3,7 @@
         "channel_url": "https://www.youtube.com/@AZKi",
         "channel_name": "AZKi Channel",
         "avatar_url": "https://yt3.googleusercontent.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos",
-        "videos": [
-            {
-                "video_id": "CXM-SZTvUKM",
-                "title": "【#ホロナツ歌枠リレー】夏だ！歌だ！ホロナツパラダイス！SUMMER SINGING STREAM【ホロライブ / AZKi】",
-                "thumbnail": "https://i.ytimg.com/vi/CXM-SZTvUKM/hqdefault.jpg?v=6881cfc6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvuRCQybKrLEEStyeGESaMj88MNw",
-                "description": "次はアキちゃん  @AkiRosenthal \n▶ https://www.youtube.com/live/GcVoE26Ywb8\n\nタイムテーブル\n▶ https://x.com/hololivetv/status/1942919334307000764\n*AZKi【7月25日(金) 22:40～23:0..."
-            }
-        ]
+        "videos": []
     },
     "@AiraniIofifteen": {
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
@@ -28,7 +21,14 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "GcVoE26Ywb8",
+                "title": "【歌枠】#ホロナツ歌枠リレー 23時の会【アキロゼ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/GcVoE26Ywb8/hqdefault.jpg?v=68814d57&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCuIN22Y_ATXZOPCoLi1zVAUEpSBw",
+                "description": "次は23:20~ルイルイにバトンたっち！\n@TakaneLui Let's Go!!!\n\n#アキびゅーわーるど \n・－・－・－・－・－・－・－・－・－・－・－・－・－・－・－・..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -203,14 +203,7 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": [
-            {
-                "video_id": "-FFWO7NVOjI",
-                "title": "【member's only】probably watching happy gilmore 2...oh god....",
-                "thumbnail": "https://i.ytimg.com/vi/-FFWO7NVOjI/hqdefault.jpg?v=688342f8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkheYCkpqSh6GhXdLd4iTkLUVO9A",
-                "description": "ーーーーーーーーーーーーーーーー\nーーーーーーーーー\nBGM: https://x.com/BigRicePiano\nhttps://x.com/the_arkhand\nhttps://x.com/alterclad\n\nRequest from hololive Productions..."
-            }
-        ]
+        "videos": []
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
