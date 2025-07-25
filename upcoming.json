@@ -63,7 +63,15 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "szJXqwpEsmQ",
+                "title": "#holonatsuParadise VRChat Battle : Holonatsu Paradise VRchat event !",
+                "date": "2025/07/26 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/szJXqwpEsmQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCW0awfVDvW_dLML1P6J_3saL8Akg",
+                "description": "#holonatsuParadise #Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nVRChatの承諾を得た上で配信・収益化を行なっております。\nホームページはこちらhttps://hell..."
+            }
+        ]
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -408,6 +416,13 @@
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
         "videos": [
             {
+                "video_id": "2YChZvEyw2U",
+                "title": "【 ごろごろマウンテン 】ころがせ～！！！！！！！！！！！！【ホロライブ/夏色まつり】",
+                "date": "2025/07/28 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/2YChZvEyw2U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3PKuyhJc0_KZmnjVU648va8YHAQ",
+                "description": "...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\n\n素敵なサムネイル→どこでもノック様\n@anywhere_knock\n\n\n配信タイトル：ホロ..."
+            },
+            {
                 "video_id": "4eJnQehbv_o",
                 "title": "【 #ホロメン体操 】☀毎日7時の健康生活☀8日目【ホロライブ/夏色まつり】",
                 "date": "2025/07/26 05:00:00",
@@ -715,15 +730,7 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": [
-            {
-                "video_id": "-yfM4-bPgX0",
-                "title": "【＃ホロナツ歌枠リレー】0時だ！！【轟はじめ/ReGLOSS】 #hololivedev_is",
-                "date": "2025/07/25 22:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/-yfM4-bPgX0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3eDQGPMFOiNy3NeLStRlhcWpB8g",
-                "description": "次は00:20～儒烏風亭らでん！21歳拳で！バトン渡すぜ！！\nhttps://www.youtube.com/watch?v=cLZXcIV9PdI\n\n@JuufuuteiRaden \n\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣..."
-            }
-        ]
+        "videos": []
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
@@ -827,7 +834,15 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "AgYKwXx6MXU",
+                "title": "【#holonatsuParadise】RAOOO I hate water but I want the crown!!!👑😎【VRCHAT】",
+                "date": "2025/07/26 17:50:00",
+                "thumbnail": "https://i.ytimg.com/vi/AgYKwXx6MXU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyF370aqmA7zYGKdfloNRTB2OFlg",
+                "description": "『 X formely Twitter 』\nhttps://x.com/raorapanthera\n\n『 Hashtags 』\n╰┈➤ Live  #CiaoRaora\n╰┈➤ Fanarts  #RaorArt\n╰┈➤ Clips  #RaraWara\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
+            }
+        ]
     },
     "@mikenekoko": {
         "channel_url": "https://www.youtube.com/@mikenekoko",
