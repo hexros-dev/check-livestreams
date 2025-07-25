@@ -21,14 +21,7 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": [
-            {
-                "video_id": "GcVoE26Ywb8",
-                "title": "【歌枠】#ホロナツ歌枠リレー 23時の会【アキロゼ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/GcVoE26Ywb8/hqdefault.jpg?v=68814d57&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCuIN22Y_ATXZOPCoLi1zVAUEpSBw",
-                "description": "次は23:20~ルイルイにバトンたっち！\n@TakaneLui Let's Go!!!\n\n#アキびゅーわーるど \n・－・－・－・－・－・－・－・－・－・－・－・－・－・－・－・..."
-            }
-        ]
+        "videos": []
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -83,7 +76,14 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "CaMoiO3ioXM",
+                "title": "【 #ホロナツ歌枠リレー 】夏だ！水着だ！歌枠リレーだ！！！！！☀☀☀【博衣こより/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/CaMoiO3ioXM/hqdefault.jpg?v=6880db3e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyg9iV6VNyWmK-nAqoduVhT-F4AA",
+                "description": "#ホロナツ歌枠リレー 🌻夏歌で盛り上がろーーーーー！！！！！✨\n前枠▶ルイルイ！ https://youtube.com/live/P6anqqxEVcU?feature=share\n次枠▶番長！ https://www..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
