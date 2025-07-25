@@ -354,13 +354,6 @@
                 "date": "2025/07/26 10:20:00",
                 "thumbnail": "https://i.ytimg.com/vi/XNE3bMbA_cI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCLNuVtz2X8af9Xji3-ilFuKOuYKA",
                 "description": "このライブに用いている一部の音源は、株式会社エクシングより提供されています。\nNEXT @TakanashiKiara \n▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸◂┄▹◃..."
-            },
-            {
-                "video_id": "iOHNK-zpOqY",
-                "title": "【ニコニコさん】誕生日おめでとう🎉メイク変えた？【水宮枢／ホロライブDEV_IS】",
-                "date": "2025/07/25 09:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/iOHNK-zpOqY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCIB22ir9z--cVT-hNxfDK21TCMw",
-                "description": "バースデーガール@KoganeiNiko  \n生誕配信は27日だよ　#hololiveDEV_IS　#FLOWGLOW\n\nタイトル：ニコニコさん | Niconico-san\nストアページ：https://store.steampowered.com..."
             }
         ]
     },
@@ -530,7 +523,15 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "p6Vq2ICepMU",
+                "title": "【#ホロナツ歌枠リレー | Summer Relay Karaoke】Woo Hot 🔥🧑‍🚒",
+                "date": "2025/07/26 05:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/p6Vq2ICepMU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFumm_aBjVIESrtDPyWxEZzYCcEw",
+                "description": "次は3:00時 -@holoen_gigimurin 🏖️\nNext up at 7:00pm PT ‪@holoen_gigimurin 🏖️\n#ホロナツ歌枠リレー\n\n[Twitter]\nhttps://twitter.com/ourokronii\n\n----------------------------------..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
@@ -614,7 +615,15 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "12A9U3kl4xw",
+                "title": "【#ホロナツ歌枠リレー】11時40分！お昼に夏ソングだあああああ🌞✨【白銀ノエル/ホロライブ】",
+                "date": "2025/07/26 09:40:00",
+                "thumbnail": "https://i.ytimg.com/vi/12A9U3kl4xw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1KSRY1CRy7HlVbClIpO_s3NG6Qw",
+                "description": "次は @HoushouMarine へ出航～～！！！\n\n[NEW]🔥焚火ASMRボイス販売中🔥→ https://shop.hololivepro.com/products/hololive_asmr_chillinbythecampfire?_pos=2&_fid=86a4c0ec0&_ss=c..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -797,7 +806,7 @@
             {
                 "video_id": "ST2wGkNKfuo",
                 "title": "【 #ニコニコ老人会 】  RUST 1日目    【 チーム6 】",
-                "date": "2025/07/25 16:00:00",
+                "date": "2025/07/25 15:30:00",
                 "thumbnail": "https://i.ytimg.com/vi/ST2wGkNKfuo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyW0v62g630MPZ_XzakDIVSUcnnA",
                 "description": "今年もRUSTがやってきた！！めざせ最強！\n\n💕ホログラムキーホルダー販売しました！\n水着 https://mikenekoko.booth.pm/items/7199944\n浴衣 https://mikenekoko.booth...."
             }
