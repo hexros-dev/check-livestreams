@@ -135,20 +135,20 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "uVxA_OECtQo",
+                "title": "【 ＃ホロナツ歌枠リレー /KARAOKE  】ホロライブと過ごす夏！みんなに元気を届けた～い！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "thumbnail": "https://i.ytimg.com/vi/uVxA_OECtQo/hqdefault.jpg?v=68814449&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbep7Tt_Xz4u1oTk8nCw6o8SEtlw",
+                "description": "＃ホロナツ歌枠リレー\n次は9時10分から一伊那尓栖先輩！@NinomaeInanis \n配信はこちらから→https://www.youtube.com/live/xg7WrkcJqNw?si=RssMLSrjed0BfanF\n\nサムネイル..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
         "channel_name": "Kobo Kanaeru Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B",
-        "videos": [
-            {
-                "video_id": "qv4UY38RVRI",
-                "title": "【Karaoke】Nyanyi bareng yuk !! #ホロナツ歌枠リレー",
-                "thumbnail": "https://i.ytimg.com/vi/qv4UY38RVRI/hqdefault.jpg?v=6880bb64&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCn0zJ7YRKhDNSJ7htRKb0pDO2k9w",
-                "description": "Next time: 08:20 JST | 06:20 WIB - Koganei Niko\n\nBokobokobo- Kobo Kanaeru at your service! Let me be your sun to shine your day, ehe~ ;D ☔☔☔\n#OnAeru #Kobo_Kanaeru #holoID #holoID03 #ホロナ..."
-            }
-        ]
+        "videos": []
     },
     "@KoganeiNiko": {
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
