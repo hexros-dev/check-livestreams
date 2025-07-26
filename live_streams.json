@@ -135,14 +135,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": [
-            {
-                "video_id": "uVxA_OECtQo",
-                "title": "【 ＃ホロナツ歌枠リレー /KARAOKE  】ホロライブと過ごす夏！みんなに元気を届けた～い！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "thumbnail": "https://i.ytimg.com/vi/uVxA_OECtQo/hqdefault.jpg?v=68814449&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbep7Tt_Xz4u1oTk8nCw6o8SEtlw",
-                "description": "＃ホロナツ歌枠リレー\n次は9時10分から一伊那尓栖先輩！@NinomaeInanis \n配信はこちらから→https://www.youtube.com/live/xg7WrkcJqNw?si=RssMLSrjed0BfanF\n\nサムネイル..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -196,7 +189,14 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "AS2zHqpT2S8",
+                "title": "【UNARCHIVED KARAOKE】HoloNatsu Paradise! American Summer Songs!? #calliolive",
+                "thumbnail": "https://i.ytimg.com/vi/AS2zHqpT2S8/hqdefault.jpg?v=687b8755&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCeCRGdSlazNypfP7Vo-s8WXIjrOQ",
+                "description": "Next time:  10:20 (JST) - @HakosBaelz \n\nーーーーーーーーー\nBGM: https://x.com/BigRicePiano\nhttps://x.com/the_arkhand\nhttps://x.com/alterclad\n\nRequest from hololive Productions to underage..."
+            }
+        ]
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -220,7 +220,14 @@
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "jXPd6z5AXbo",
+                "title": "【R.E.P.O.】朝から【ホロライブ/夏色まつり】",
+                "thumbnail": "https://i.ytimg.com/vi/jXPd6z5AXbo/hqdefault.jpg?v=68841654&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtU_NMFZnAX05YD6Yd5rPg8UVmbQ",
+                "description": "...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\n\n素敵なサムネイル→もちょみ様\n@motityomi\n\n配信タイトル：R.E.P.O.\nストアペ..."
+            }
+        ]
     },
     "@NekomataOkayu": {
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
@@ -256,7 +263,14 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "CHQuhy8FuYs",
+                "title": "【#生スバル】復活のおはすば！！！！！ / OHASHUBA！！！FREE TALK【ホロライブ/大空スバル】",
+                "thumbnail": "https://i.ytimg.com/vi/CHQuhy8FuYs/hqdefault.jpg?v=688371e7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCMnsE9GREf18wFULN0lIj_x7gdlw",
+                "description": "✨大空スバル生誕2025グッズ販売URL⇓✨\nhttps://shop.hololivepro.com/products/oozorasubaru_birthday_2025\n※2025年08月04日 18時00分まで\n\n・★サムネ…ｳﾕﾁｬﾝ.com：..."
+            }
+        ]
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
