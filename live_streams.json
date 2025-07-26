@@ -184,7 +184,14 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "K1b7k-CRJIE",
+                "title": "【 #ホロナツ歌枠リレー 】ねねのターン！！ドロー！！！！！！【 桃鈴ねね / hololive 】",
+                "thumbnail": "https://i.ytimg.com/vi/K1b7k-CRJIE/hqdefault.jpg?v=6881fef2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKKz9WFx_M8kNfTWns_gvDzqj1cQ",
+                "description": "いっぱいきいてけ～～～～～！！！！！！\n⸜♡⸝MemberShipに入ったらもっとねねを知れるﾖ\nhttps://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA/join\n\n⸜♡⸝..."
+            }
+        ]
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
@@ -244,14 +251,7 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": [
-            {
-                "video_id": "JMEalNwJ1Tw",
-                "title": "【#ホロナツ歌枠リレー】夏🏖️夏🍉夏🍹を感じて歌いませんか！？🎆🌊【尾丸ポルカ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/JMEalNwJ1Tw/hqdefault.jpg?v=68835d59&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcb8KexD-X4mLpwpvawf_luun2Lg",
-                "description": "次は16：20～ ちはやだよ！ https://www.youtube.com/watch?v=-t1LCQ5EKNE\n@RindoChihaya \n#ホロナツ歌枠リレー\n\n選曲はアイドルが夏に歌ってそう！？な曲にしました..."
-            }
-        ]
+        "videos": []
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
