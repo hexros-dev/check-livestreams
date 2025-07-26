@@ -51,14 +51,7 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": [
-            {
-                "video_id": "f-FNgBMrZow",
-                "title": "【#ホロナツ歌枠リレー｜HOLONATSU SUMMER KARAOKE】fuzzy summertime melodies へそ出し魅惑の番犬 ✨️ #FWMCbeats 【FUWAMOCO】",
-                "thumbnail": "https://i.ytimg.com/vi/f-FNgBMrZow/hqdefault.jpg?v=687f79a8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC02TLlc7g8Qp-rxNgZLtcx7Ebybg",
-                "description": "▶ 次は16:00時 (JST)～ @OmaruPolka  Next up at 12:00am PT ~ @OmaruPolka  🏖️\n#ホロナツ歌枠リレー\nlovely illustration by @neru5__ 💕\n\n✨️🩵🩷 Go watch our 𝗙𝗨𝗪𝗔..."
-            }
-        ]
+        "videos": []
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -251,7 +244,14 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "JMEalNwJ1Tw",
+                "title": "【#ホロナツ歌枠リレー】夏🏖️夏🍉夏🍹を感じて歌いませんか！？🎆🌊【尾丸ポルカ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/JMEalNwJ1Tw/hqdefault.jpg?v=68835d59&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcb8KexD-X4mLpwpvawf_luun2Lg",
+                "description": "次は16：20～ ちはやだよ！ https://www.youtube.com/watch?v=-t1LCQ5EKNE\n@RindoChihaya \n#ホロナツ歌枠リレー\n\n選曲はアイドルが夏に歌ってそう！？な曲にしました..."
+            }
+        ]
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
