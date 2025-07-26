@@ -15,14 +15,7 @@
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
         "avatar_url": "https://yt3.googleusercontent.com/ecW_DT7IKBcfKJ1qioYiyU_Iq6EB4_bCZpaG4srWPkEZRsIAiYguEvh7_nELEJqPnbjAktVj6Q",
-        "videos": [
-            {
-                "video_id": "6_IwN7XvdcA",
-                "title": "【歌枠】SINGING~!!🎤うたうぞ～～～っ！🎆🍉#ホロナツ歌枠リレー【ホロライブ/赤井はあと】",
-                "thumbnail": "https://i.ytimg.com/vi/6_IwN7XvdcA/hqdefault.jpg?v=6883440a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCGFvYVIX9ScDmd4R762epwrUQXkQ",
-                "description": "次は @NatsuiroMatsuri  🏖✨\n\n💖Membership to support HAACHAMA!!!メンバーシップ加入はこちら！✨\n➡https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg/join\n\nサムネイ..."
-            }
-        ]
+        "videos": []
     },
     "@AkiRosenthal": {
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
@@ -227,7 +220,14 @@
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "plQt-seA_8w",
+                "title": "【 #ホロナツ歌枠リレー 】夏担当といえばまつりちゃんでしょ！！【ホロライブ/夏色まつり】",
+                "thumbnail": "https://i.ytimg.com/vi/plQt-seA_8w/hqdefault.jpg?v=688391e2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBw4jyOX5AlWZ4duUzMBvUDbOhCRw",
+                "description": "バトンタッチ→@AiraniIofifteen \n\n...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\n\n＼🏮まつりす向けメンバーシップ🏮／..."
+            }
+        ]
     },
     "@NekomataOkayu": {
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
