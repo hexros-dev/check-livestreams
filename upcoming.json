@@ -336,13 +336,6 @@
                 "date": "2025/07/27 20:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/Nqth-_cw3L8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDifqIHmuEkij3zKLoxxB6RGs9u2A",
                 "description": "...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\n\n素敵なサムネイル→Lily is Asleep様\n@Kukie_nyan\n\n\n　配信タイトル：PEAK\nhttps://s..."
-            },
-            {
-                "video_id": "VRKuVLclf5k",
-                "title": "【 #ホロメン体操 】☀毎日7時の健康生活☀9日目【ホロライブ/夏色まつり】",
-                "date": "2025/07/27 05:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/VRKuVLclf5k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB98cv99niGRHt4F9AOqvcK8Pguzg",
-                "description": "...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\n\nスタンプカードダウンロードはこちら⇩\nhttps://drive.google.com/drive/folders/17l..."
             }
         ]
     },
@@ -490,7 +483,15 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "n2rQKXXxipQ",
+                "title": "【スト6】ししもんくんが帰ってくる…？！―量産化計画、再び―【獅白ぼたん/ホロライブ】",
+                "date": "2025/07/27 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/n2rQKXXxipQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5IgREt3666I2BBs_zPuGhV7CKBA",
+                "description": "ししもんくんリターンズ…！？\n\n配信ハッシュタグ：#ししもんくん\n\n▼配信ゲームタイトル\n・ストリートファイター6\n\nこの動画およびライブは株..."
+            }
+        ]
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
@@ -597,15 +598,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "QRvgeO5NYus",
-                "title": "【SPELUNKY 2】dunking my head in the sand",
-                "date": "2025/07/27 05:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/QRvgeO5NYus/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKb3OK1tvqPvobKpzsGPl8Qw1hWg",
-                "description": "thumbnail: https://x.com/iamethanforreal/status/1948918197421572302\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
