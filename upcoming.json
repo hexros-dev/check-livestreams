@@ -405,15 +405,7 @@
         "channel_url": "https://www.youtube.com/@SamekoSaba",
         "channel_name": "saba",
         "avatar_url": "https://yt3.googleusercontent.com/gNZv93GVlg3GAco7HTg2OXl_9s2Pm3lG6DxNfOXqPkLRNcM5BSEOAcQGpgQ8AejiEam5ElLG",
-        "videos": [
-            {
-                "video_id": "Qx--rJkyfjM",
-                "title": "【Members-Only】blink blink",
-                "date": "2025/07/28 04:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Qx--rJkyfjM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbsUdXChr3jqo8WblGgO8-GFExDQ",
-                "description": "saba couldn't believe her eyes"
-            }
-        ]
+        "videos": []
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
@@ -553,7 +545,15 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "yUjg-6BTvWs",
+                "title": "【Roguelike Variety】 Playing Hot New Roguelikes of 2025",
+                "date": "2025/07/28 05:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/yUjg-6BTvWs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDaGBavBQ0xiRH-5YKkGkCddH6waA",
+                "description": "Omelet You Cook, Steve's Warehouse, and The King is Watching!\n\n  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋\n\nKonbakuwa! I'm Nimi, the baku nurse VTuber of your nightmares~\n#VTuber #nimi\n\n☁..."
+            }
+        ]
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
