@@ -138,14 +138,7 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": [
-            {
-                "video_id": "mqzNWcGl4bQ",
-                "title": "【全員嘘つき！？】未解決事件は終わらせないといけないから【ホロライブ DEV_IS 響咲リオナ】",
-                "thumbnail": "https://i.ytimg.com/vi/mqzNWcGl4bQ/hqdefault.jpg?v=6884fdc7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-x4CRWglKnZsAGm4krT_WIZ0Jig",
-                "description": "すぐに色々信じちゃうタイプだけど、大丈夫かな・・！？\n\n本ゲームは Somi に確認の上配信・収益化を行なっております。\n\nサムネイラスト..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -175,7 +168,14 @@
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
         "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/ACubs_Mw4YtmgHDIIZvW_gZaPf_VR1wg9yffFLsq4Lrw-W7Md-0pK4Gob8OJebCYCmgrArsE",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "qdwKH7Uk13s",
+                "title": "【 #ニコたん生たん祭2025 】お誕生日だあああああああああああい！【虎金妃笑虎/告知あり】",
+                "thumbnail": "https://i.ytimg.com/vi/qdwKH7Uk13s/hqdefault.jpg?v=68824bc8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlWCUHeyw4CIAgtmVQq4btk3tREw",
+                "description": "カラオケ音源協力：DAM 第一興商\n\n【動画＆サムネイルデザイン】\nVEGL 様\n\n【動画内ロゴ】\nsaku㊴ 様：https://x.com/skb318\n\n【サムネイルイラスト】..."
+            }
+        ]
     },
     "@KosekiBijou": {
         "channel_url": "https://www.youtube.com/@KosekiBijou",
@@ -381,27 +381,13 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": [
-            {
-                "video_id": "XN8L3mELPFI",
-                "title": "【 RAIDOU Remastered: 超力兵団奇譚 】完全初見！最終回！！帝都を平和にできるのか⁉【鷹嶺ルイ/ホロライブ】※ネタバレあり",
-                "thumbnail": "https://i.ytimg.com/vi/XN8L3mELPFI/hqdefault.jpg?v=6884b2e0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9GHKBRqbLM86IRL5ypJur8lxbSg",
-                "description": "カヤたそ止めなきゃ・・・\n\n本動画は株式会社アトラスに確認の上、動画・生放送等配信ガイドラインに則り配信しています。\n©ATLUS ©SEGA\n\nサムネ..."
-            }
-        ]
+        "videos": []
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": [
-            {
-                "video_id": "6F2WR3tkggM",
-                "title": "【ホロライブごろごろマウンテン】あそんでいこおお！！【轟はじめ/ReGLOSS】 #hololivedev_is",
-                "thumbnail": "https://i.ytimg.com/vi/6F2WR3tkggM/hqdefault.jpg?v=6884db94&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRMAPmd5ER-Bj6AeO0aM4QDdt_kw",
-                "description": "素敵なサムネお写真：お め が ち ゃ ん様（@oMega_cha_n）\n\n配信タイトル：ホロライブごろごろマウンテン\nストアページ：https://store.steampowered.com/app/3..."
-            }
-        ]
+        "videos": []
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
@@ -437,14 +423,7 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": [
-            {
-                "video_id": "LJ3xasr5KYU",
-                "title": "【ドンキーコング バナンザ】#03｜初めてのドンキー！！全てを破壊しまくるぞ！！【 雪花ラミィ /ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/LJ3xasr5KYU/hqdefault.jpg?v=6885b00f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHw6C3GUz6T2rm5zIJWwlpTXiotw",
-                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n感想は #らみらいぶ で呟いて頂けたら嬉しいです！\n\n୨୧┈┈┈┈..."
-            }
-        ]
+        "videos": []
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
