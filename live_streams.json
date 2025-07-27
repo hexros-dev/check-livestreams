@@ -406,7 +406,14 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "jVYaL2fBa-g",
+                "title": "【SOMA】I WANT TO FEEL SOMETHING",
+                "thumbnail": "https://i.ytimg.com/vi/jVYaL2fBa-g/hqdefault.jpg?v=6886450f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbOfIPcKiKqHtbdfOEz-DEKIocfg",
+                "description": "art: https://x.com/CHADA_ijwtmcs/status/1945468613798105238\n\nMerch available here:\n▼ hololive production OFFICIAL SHOP \nJP: https://shop.hololivepro.com/products/ceciliaimmergreen_anniversary_1st..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
