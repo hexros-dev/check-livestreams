@@ -46,14 +46,7 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": [
-            {
-                "video_id": "c45wl_QjDvQ",
-                "title": "HORROR SPECIAL : DOLLMARE w/ Guest @sammybollivienn",
-                "thumbnail": "https://i.ytimg.com/vi/c45wl_QjDvQ/hqdefault.jpg?v=68858f06&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_bDIgGiodd3msNF-4872z2SjLPA",
-                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nGame title: Dollmare\nStore page: https://store.steampowered.com/app/2793710/Dollmare/\n\nーーーーーーーーー\nCHECK OUT RISU 5TH..."
-            }
-        ]
+        "videos": []
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -145,7 +138,14 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "mqzNWcGl4bQ",
+                "title": "【全員嘘つき！？】未解決事件は終わらせないといけないから【ホロライブ DEV_IS 響咲リオナ】",
+                "thumbnail": "https://i.ytimg.com/vi/mqzNWcGl4bQ/hqdefault.jpg?v=6884fdc7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-x4CRWglKnZsAGm4krT_WIZ0Jig",
+                "description": "すぐに色々信じちゃうタイプだけど、大丈夫かな・・！？\n\n本ゲームは Somi に確認の上配信・収益化を行なっております。\n\nサムネイラスト..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -199,7 +199,14 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "X6_QMwsZi_I",
+                "title": "【ドンキーコングバナンザ】ドンキーとの物語 #3【水宮枢／ホロライブDEV_IS】",
+                "thumbnail": "https://i.ytimg.com/vi/X6_QMwsZi_I/hqdefault.jpg?v=68850cf5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUOWWnTMrhTY4wN6NDHjJ3BfTSVA",
+                "description": "誕生日グッズhttps://shop.hololivepro.com/products/mizumiyasu_birthday_2025\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n▹◃┄..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
