@@ -39,7 +39,14 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "xgiegFGYPmo",
+                "title": "~ Malas Malas Monday ~",
+                "thumbnail": "https://i.ytimg.com/vi/xgiegFGYPmo/hqdefault.jpg?v=6886d286&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2X8rspofTUiIvI51QyB2vHAvfGg",
+                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nーーーーーーーーー\n\nSTREAM MY NEWEST ORIGINAL SONG メトロポリス (metropolis) IN YOUR PREFERRED MUSIC STREAMING PLATFROM!!!..."
+            }
+        ]
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -425,14 +432,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "YGkWlhOKybU",
-                "title": "【SPELUNKY 2】welcome to the jungle",
-                "thumbnail": "https://i.ytimg.com/vi/YGkWlhOKybU/hqdefault.jpg?v=6886432f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTmxKE0EyCw9pmKmWsFi8cxmM-EQ",
-                "description": "thumbnail: https://x.com/fluumf/status/1949337988694978601\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
@@ -450,14 +450,7 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": [
-            {
-                "video_id": "yUjg-6BTvWs",
-                "title": "【Roguelike Variety】 Playing Hot New Roguelikes of 2025",
-                "thumbnail": "https://i.ytimg.com/vi/yUjg-6BTvWs/hqdefault.jpg?v=68869695&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDaGBavBQ0xiRH-5YKkGkCddH6waA",
-                "description": "Omelet You Cook, Steve's Warehouse, and The King is Watching!\n\n  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋\n\nKonbakuwa! I'm Nimi, the baku nurse VTuber of your nightmares~\n#VTuber #nimi\n\n☁..."
-            }
-        ]
+        "videos": []
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
