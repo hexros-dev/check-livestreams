@@ -21,7 +21,14 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "8E17k6kpFGQ",
+                "title": "【ELDEN RING NIGHTREIGN】初プレイ！ナイトレインの世界へ  #あっぷれあ ￤ネタバレあり【アキロゼ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/8E17k6kpFGQ/hqdefault.jpg?v=6886a91a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWqEyVIPqSwip_-PjOivA6t_0fKg",
+                "description": "フレア @ShiranuiFlare \n本ゲームは株式会社フロム・ソフトウェアに確認を得た上、「動画・画像の投稿に関するガイドライン」に則り配信・収益化を..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -105,14 +112,7 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
-        "videos": [
-            {
-                "video_id": "rIf9mogsb2Q",
-                "title": "【#ホロの花札】優勝するのは私だ！！初代女王決定戦、開幕！！【一条莉々華/hololive DEV_IS　ReGLOSS】",
-                "thumbnail": "https://i.ytimg.com/vi/rIf9mogsb2Q/hqdefault.jpg?v=6885ce2a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC7nXE1zNkHcWjyJPKGQi2UrZnSuA",
-                "description": "MC視点🔽\nhttps://www.youtube.com/live/RFedyTfd228\n\n「ホロの花札」\n公式サイト ： https://holo-no-hanafuda.com/\nこの配信は『ホロの花札 - ゲーム配信に関するガイ..."
-            }
-        ]
+        "videos": []
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -206,7 +206,14 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "VB7qsVdZtAA",
+                "title": "【学園アイドルマスター】一途なので天井を回避したい :ネタバレ有り【水宮枢／FLOW GLOW】#hololiveDEV_IS",
+                "thumbnail": "https://i.ytimg.com/vi/VB7qsVdZtAA/hqdefault.jpg?v=68864a56&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCOuQT4AGUBS1h_lTQzWX_zJKVmWw",
+                "description": "このゲーム実況は「バンダイナムコエンターテインメント ゲーム実況ポリシー」に基づき制作・配信されています。\nhttps://www.bandainamcoent.co.jp/info/v..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -250,14 +257,7 @@
         "channel_url": "https://www.youtube.com/@NakiriAyame",
         "channel_name": "Nakiri Ayame Ch. 百鬼あやめ",
         "avatar_url": "https://yt3.googleusercontent.com/3CeLWGYb6cLUywTJzNt-UpITviNxeGNvtjhIqbV-AIybCqCoFw9onWtg91bjwpqvfEP9mfqIR4Q",
-        "videos": [
-            {
-                "video_id": "0NLw4O-z95c",
-                "title": "【 #ホロの花札 】初代女王決定戦！女王は一体誰の手に・・・！？【百鬼あやめ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/0NLw4O-z95c/hqdefault.jpg?v=6885bc3a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABJbZi6QVGxJ7IfuYBRF-0PZ2MFQ",
-                "description": "- - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - -ഒ˖°\n\n\n■ホロの花札とは？\nホロライブメンバーが描かれた \"オリジナル..."
-            }
-        ]
+        "videos": []
     },
     "@NanashiMumei": {
         "channel_url": "https://www.youtube.com/@NanashiMumei",
@@ -299,14 +299,7 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": [
-            {
-                "video_id": "RFedyTfd228",
-                "title": "【 #ホロの花札 】初代女王決定戦！！！大会本部こちらです！【MC視点】",
-                "thumbnail": "https://i.ytimg.com/vi/RFedyTfd228/hqdefault.jpg?v=68859797&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGicJBGQn2klLr99nLHG9-GwCDww",
-                "description": "🎴参加メンバー🎴\nMC：白上フブキ @ShirakamiFubuki 、大神ミオ @OokamiMio \nさくらみこ @SakuraMiko \n百鬼あやめ @NakiriAyame \n獅白ぼたん @ShishiroBotan \n鷹嶺ルイ..."
-            }
-        ]
+        "videos": []
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -375,14 +368,7 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": [
-            {
-                "video_id": "cLHhLVFd0Oc",
-                "title": "【 #ホロの花札杯 】初代女王決定戦🌸‼ 花札で女王に・・・なれるのか⁉【ホロライブ/さくらみこ】",
-                "thumbnail": "https://i.ytimg.com/vi/cLHhLVFd0Oc/hqdefault.jpg?v=688669d7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCW77bZvdxiOVd1HlW1kQQWbw4H3A",
-                "description": "2025年7月31日に発売‼ #ホロの花札杯 やるぞ～～～‼🎴\n🎴MC🎴\n白上フブキ、大神ミオ\n🎴出演者🎴\n さくらみこ、百鬼あやめ、獅白ぼたん、鷹嶺..."
-            }
-        ]
+        "videos": []
     },
     "@SamekoSaba": {
         "channel_url": "https://www.youtube.com/@SamekoSaba",
@@ -406,7 +392,14 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "257xnbB1zzg",
+                "title": "【ELDEN RING NIGHTREIGN 】 #あっぷれあ で夜を渡るぞ！【不知火フレア/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/257xnbB1zzg/hqdefault.jpg?v=68872dbe&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQWYLFt4hfaZfGyflEjsAc3kkxpw",
+                "description": "@AkiRosenthal 初見のアキロゼ\n\n残り一人をエルフレ,ロゼ隊からプレイヤーを募集する際の条件\n・参加は一人一回まで\n・フレアが下手、迷子になって..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
