@@ -47,15 +47,7 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": [
-            {
-                "video_id": "ctxfGK8H0JE",
-                "title": "YEEHAW I'M BACK",
-                "date": "2025/07/29 18:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/ctxfGK8H0JE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2Xl39ZxWBkgg-zRvKREKL4aPgAQ",
-                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nGame Title: Dinkum\nStore Page: https://store.steampowered.com/app/1062520/Dinkum/\n\nーーーーーーーーー\n\nSTREAM MY NEWEST ORIGINAL..."
-            }
-        ]
+        "videos": []
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -200,7 +192,15 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "geXy9vuAjDg",
+                "title": "【2 YEAR ANNIVERSARY】DEBUTING A NEW FACE? 【3D REVEAL】",
+                "date": "2025/07/30 06:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/geXy9vuAjDg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-ynfk-TDhayZ4OQo4kqDr2Egb5g",
+                "description": "Thumbnail Art by:@noraneco117 THANK YOU!\nhttps://x.com/noraneco117/status/1914530484576805332/photo/1\n\n====================\n✧Twitter: https://twitter.com/kosekibijou\n\n✧Hashtags: \n#biboo..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
