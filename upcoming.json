@@ -128,13 +128,6 @@
                 "date": "2025/07/29 17:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/-j-MGfaX_hE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2XMxF4TsY4cZ7MWG5f4yGJc-B0Q",
                 "description": "今日は1時間チャレンジ✨\nダイヤ、マスター目指して勝ちを重ねる…！！\n次回は31日に長時間チャレンジ予定！！！\n\n🔽素敵なイラストサムネ🔽..."
-            },
-            {
-                "video_id": "_LGiYcH4roI",
-                "title": "【シャドバWB/Shadowverse】新環境エアプです。浮気デッキで昼活ランク回す【一条莉々華/hololive DEV_IS　ReGLOSS】",
-                "date": "2025/07/29 10:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/_LGiYcH4roI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBgEfbqtrQtxOaL5_bFqtDQqdqz_A",
-                "description": "久しぶりにやる～楽しみ～～\n\n----------------------\n配信タイトル：Shadowverse: Worlds Beyond\n公式ページ：https://shadowverse-wb.com/ja/\n----------------------\n\n🔽素敵..."
             }
         ]
     },
@@ -281,7 +274,15 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "jCzBZNp0j8k",
+                "title": "【 DAY6 | #ホロ7DTDハード 】砂漠でクエスト回すぞ～～！🏜🧟【 猫又おかゆ視点/ホロライブ 】",
+                "date": "2025/07/29 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/jCzBZNp0j8k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAb4rYTAFTknLxRC-yZ8QN01koOAw",
+                "description": "ㅤ\nミオちゃん( @OokamiMio  )主催のホロ7DTDきちゃあ～～！\n\n❥・・ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ・・❥\n\nぼくとおそろいのスカジャン！受..."
+            }
+        ]
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -331,29 +332,13 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": [
-            {
-                "video_id": "uxLyt86gbOg",
-                "title": "【PEAK】Riding Solo",
-                "date": "2025/07/29 10:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/uxLyt86gbOg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqwQs6wkbnIM34v55ftkaTdkXubQ",
-                "description": "Game title: PEAK\nStore page: https://store.steampowered.com/app/3527290/PEAK/\n\n[Twitter]\nhttps://twitter.com/ourokronii\n\n[Thumbnail Art]\nhttps://x.com/DDOLBANG11\n\n----------------------------------..."
-            }
-        ]
+        "videos": []
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": [
-            {
-                "video_id": "fzT4gJkCyxE",
-                "title": "【OFF COLLAB】インドネシアの激辛カップ麺 EATING SUPER SPICY INDONESIAN NOODLES with HAACHAMA",
-                "date": "2025/07/29 10:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/fzT4gJkCyxE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-bXcUwM4mzJDakrsrR-FHrwCE0A",
-                "description": "Reine's new original song now 「Yummy Yum Yummy!」AVAILABLE on iTunes, Apple Music, Spotify etc. Click to stream!\nパヴォリア・レイネ新曲「ヤミヤムヤミ」\nhttps://cover.lnk.to/mU..."
-            }
-        ]
+        "videos": []
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -527,15 +512,7 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": [
-            {
-                "video_id": "EfrNcyD2aUY",
-                "title": "【hololive GoroGoro Mountain】PUSH PUSH PUSH!!!",
-                "date": "2025/07/29 09:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/EfrNcyD2aUY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqQvK-Hv6zXgtVODL3rxsLFkdSeA",
-                "description": "『 X formely Twitter 』\nhttps://x.com/raorapanthera\n\n『 Hashtags 』\n╰┈➤ Live  #CiaoRaora\n╰┈➤ Fanarts  #RaorArt\n╰┈➤ Clips  #RaraWara\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
-            }
-        ]
+        "videos": []
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
