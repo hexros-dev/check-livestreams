@@ -192,15 +192,7 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": [
-            {
-                "video_id": "VgIyAyY7lyk",
-                "title": "【 OFF COLLAB WATCHALONG】Walking Dead S2 with @holoen_ceciliaimmergreen  Episode 1-3 (tv show)",
-                "date": "2025/07/29 07:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/VgIyAyY7lyk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXgR6pWj2tScmiEDmMAtmMtUgCMw",
-                "description": "Thumbnail Art by:@shutowl THANK YOU!\nhttps://x.com/shutowl/status/1916401936116465742/photo/1\n\n\n====================\n✧Twitter: https://twitter.com/kosekibijou\n\n✧Hashtags: \n#biboo  \nAdvent:..."
-            }
-        ]
+        "videos": []
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -451,7 +443,15 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "wuB3ZHdniq4",
+                "title": "【 ホロライブお宝マウンテン 】二人のオリジナル楽曲！？Game＆Talk Collab【常闇トワ / 森カリオペ / ホロライブ】#mythmashchemythtry #holoen",
+                "date": "2025/07/29 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/wuB3ZHdniq4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5wSpruHN_59gL5C1yc7heCa6P2Q",
+                "description": "@MoriCalliope \n\n本ゲームは holo Indie の承諾を得た上で配信・収益化を行なっております。\n୨୧-------------------------------┈┈┈┈┈┈┈┈┈┈┈┈┈┈..."
+            }
+        ]
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
