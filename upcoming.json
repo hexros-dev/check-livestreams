@@ -162,15 +162,7 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": [
-            {
-                "video_id": "P751KP596mE",
-                "title": "【Ring Fit Adventure】Studio Selfbooth 3DRyS is EXERCISING!!!",
-                "date": "2025/07/30 10:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/P751KP596mE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGpZTi50ioAQT2ofHBEjkLf4Sdfw",
-                "description": "First time using the new 3d selfbooth!! Going to studio just to ring fit seems fun\n\nNintendo properties used in this video and livestream are used with permission and under license by Nintendo..."
-            }
-        ]
+        "videos": []
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -268,15 +260,7 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": [
-            {
-                "video_id": "t92Ph25yj0U",
-                "title": "【MARIOKART WORLD】life is a highway!!!! #shorts #radio",
-                "date": "2025/07/30 09:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/t92Ph25yj0U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANvuIFQJ6_S5uYQBt1r9qHRU7D6Q",
-                "description": "BGM: https://x.com/BigRicePiano\nhttps://x.com/the_arkhand\nhttps://x.com/alterclad\n\nRequest from hololive Productions to underage viewers\nPlease search for [Request To Minors] or click on the..."
-            }
-        ]
+        "videos": []
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -365,7 +349,15 @@
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "pfgyOvyp600",
+                "title": "【 はいしにょてい 】多分なにかするんじゃないのかな・・・【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+                "date": "2025/07/30 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/pfgyOvyp600/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJ2d6dTUfXrGMdl0uWcd091BhHYA",
+                "description": "▽✨重大告知✨ ▽\n音乃瀬奏 1stオリジナル曲「GREATEST」\n4/20(日) 24：00（4/21  0：00）リリース開始！\nhttps://cover.lnk.to/4rvCRp\n\n୨୧♪:*:･･:*:･♪･:*:･..."
+            }
+        ]
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
@@ -397,15 +389,7 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
-        "videos": [
-            {
-                "video_id": "XDx5LNzMZOY",
-                "title": "【 近況報告 】救急車に今年もお世話になってしまったようです。。。【ホロライブ/ ロボ子さん】",
-                "date": "2025/07/30 09:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/XDx5LNzMZOY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUDdn0_tS2xOnlq3bSqufrPuJWnQ",
-                "description": "病院の先生がやさしくてちぬ\nまだ完全復活ではないですがリハビリも兼ねて。\n\n＃ホロライブ　#hololive 　\nｘでは💬  #ロボ子生放送　でポストし..."
-            }
-        ]
+        "videos": []
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -576,10 +560,10 @@
         "videos": [
             {
                 "video_id": "0krAbEQGZOQ",
-                "title": "【配信予定地】次の未来配信はここ📍【風真いろは/ホロライブ】",
+                "title": "【マリオカートワールド】レインボーロードへの道🌈【風真いろは/ホロライブ】",
                 "date": "2025/07/30 16:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/0krAbEQGZOQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0_3BKpP_2nKA3mTNr8Eo4jFP5Mw",
-                "description": "サムネイラスト\nhttps://x.com/polo74139250407/status/1936615152763428875\n*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――..."
+                "description": "サムネイラスト\nhttps://x.com/polo74139250407/status/1936615152763428875\n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n*⇔*――..."
             }
         ]
     },
