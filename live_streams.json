@@ -107,7 +107,14 @@
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "-e9hlCsGylU",
+                "title": "【マリン生誕ライブ裏話】新衣装おうち3Dお披露目もあるよ！【ホロライブ/宝鐘マリン】",
+                "thumbnail": "https://i.ytimg.com/vi/-e9hlCsGylU/hqdefault.jpg?v=688b03f0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCN4740OxBp3HIg_AEDoG9-4RyMxg",
+                "description": "生誕ライブはこちら！！\nhttps://www.youtube.com/live/1WbyakjUmsI?si=96NRAFpYYzeqMVTT\n\n｡.｡:+* ﾟ ゜ﾟ *+:｡.｡:+* ﾟ ゜ﾟ *+:｡.｡.｡:+*ﾟ ゜ﾟ *+:｡.｡:+*ﾟ ゜ﾟ..."
+            }
+        ]
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
@@ -156,14 +163,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": [
-            {
-                "video_id": "KRp8cjXmdz8",
-                "title": "#2【 全国一般人常識クイズ 】あなたは干支が言えますか？【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "thumbnail": "https://i.ytimg.com/vi/KRp8cjXmdz8/hqdefault.jpg?v=688a926a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCuIeguHj8BSRI3VNUiHft82iC7qA",
-                "description": "本ゲームは株式会社 TTの許諾を受けて配信・収益化を行っております\n\n素敵なサムネイルのイラスト　号チョロさん　https://x.com/LED66513881\n\n✨メンバ..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
