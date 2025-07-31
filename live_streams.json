@@ -393,13 +393,27 @@
         "channel_url": "https://www.youtube.com/@dooby3d",
         "channel_name": "dooby",
         "avatar_url": "https://yt3.googleusercontent.com/sOGyZgV9pPHQJCEvNe28NCOFC1y0KggsxUjrP5ecMAgBmdNT8p6ZNM24d_9SVgWFhBh0lKBL5Q",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "EsdXuOTBw-c",
+                "title": "TIME TO TRAIN",
+                "thumbnail": "https://i.ytimg.com/vi/EsdXuOTBw-c/hqdefault.jpg?v=688bbd7c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCIRxIKHIhcZxKX73EScbZ1wnf1cg",
+                "description": "early stream now and then caffeine break for later~\n\ncute art~ https://x.com/252_eyo/status/1950946631462818176"
+            }
+        ]
     },
     "@holoen_ceciliaimmergreen": {
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "8e8HLDsRye0",
+                "title": "【SHADOWVERSE: WORLDS BEYOND】Cece learns: WINNER in the making #sponsored",
+                "thumbnail": "https://i.ytimg.com/vi/8e8HLDsRye0/hqdefault.jpg?v=688b6fca&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNf13uOWpKHrK9jIlns054FNrPAQ",
+                "description": "Check it out here!\nhttps://bit.ly/SVWB_Cecillia\n\nThis is a stream that is sponsored by Cygames USA\n\nOfficial X (Twitter) account: @shadowversegame\n#ShadowverseWB\n\nMerch available here:\n▼..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
