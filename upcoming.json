@@ -3,7 +3,15 @@
         "channel_url": "https://www.youtube.com/@AZKi",
         "channel_name": "AZKi Channel",
         "avatar_url": "https://yt3.googleusercontent.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "xy7Nlte7WXI",
+                "title": "【メン限】月イチみんなとまったり雑談！8月ここだけの話！【ホロライブ / AZKi】",
+                "date": "2025/08/01 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/xy7Nlte7WXI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCj1TLLUa_0cfCVPfHEgLCEhrd9VQ",
+                "description": "※開始直前にメンバーシップ限定に切り替えます。\n\nサムネイラスト：花春 様\nhttps://twitter.com/KaSyun02\n\n▼メン限/Membership only　の配信について..."
+            }
+        ]
     },
     "@AiraniIofifteen": {
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
@@ -56,15 +64,7 @@
         "channel_url": "https://www.youtube.com/@AnyaMelfissa",
         "channel_name": "Anya Melfissa Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz",
-        "videos": [
-            {
-                "video_id": "VhnnQPfhRL0",
-                "title": "【GIRLS MADE PUDDING】FINALLY Finding That Pudding!【hololive ID 2nd Generation | Anya Melfissa】",
-                "date": "2025/08/01 13:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/VhnnQPfhRL0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGsqozMs7jgbLiEmLpKBop0Rwu2g",
-                "description": "Support me here/ドネーション↓\nStreamlabs: https://streamlabs.com/anyamelfissachhololive-id/tip\nSociaBuzz(Local Donation): https://sociabuzz.com/anyamelfissa/tribe \n\n--\nGame title：GIRLS..."
-            }
-        ]
+        "videos": []
     },
     "@AyundaRisu": {
         "channel_url": "https://www.youtube.com/@AyundaRisu",
