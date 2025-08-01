@@ -108,7 +108,14 @@
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
         "channel_name": "Suisei Channel",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "YkPZ9VZz6Ho",
+                "title": "【ぷよテト2】久しぶりの縦型配信でレート盛りたい！やる！【ホロライブ / 星街すいせい】",
+                "thumbnail": "https://i.ytimg.com/vi/YkPZ9VZz6Ho/hqdefault.jpg?v=2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCF9JzYpKlFLBY4ExA-rxJZZnd1pg",
+                "description": "⇩　SUISEI ARCHIVES　はこちら　⇩\nhttps://art.parco.jp/parcomuseum/detail/?id=1689\n\n☄2025.1.22 3rdフルアルバム『新星目録』発売中！！☄\nhttps://cover.lnk.to/SHINSEIMOKUR..."
+            }
+        ]
     },
     "@HoushouMarine": {
         "channel_url": "https://www.youtube.com/@HoushouMarine",
@@ -138,14 +145,7 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": [
-            {
-                "video_id": "r7tEfeNX4jk",
-                "title": "【夏曲歌枠】ついにアレを解禁！！最後に告知もあるよ⭐️！【ホロライブ DEV_IS 響咲リオナ】",
-                "thumbnail": "https://i.ytimg.com/vi/r7tEfeNX4jk/hqdefault.jpg?v=688c552f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDL9K5iGFjdYjBaYoo4sAeXWFPG8Q",
-                "description": "本日のスーパーチャットはお名前読み上げになります♪\nサムネイラスト　あくあめさん(@ akuame3922)のイラストお借りしました！\nありがとうござい..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -157,14 +157,7 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w",
-        "videos": [
-            {
-                "video_id": "YEqELMKA684",
-                "title": "【hololive GoroGoro Mountain】lets complete the game! PUSHPUSHPUSHHH【Kaela Kovalskia / hololiveID】",
-                "thumbnail": "https://i.ytimg.com/vi/YEqELMKA684/hqdefault.jpg?v=688c2bf6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAGFq7r2WSB-wl2YaL6J_igi9imVg",
-                "description": "【Donasi lokal】Traktir yang pahit-pahit kini sangat EZGGWP!~\nLink: https://sociabuzz.com/kaelakovalskia/tribe\n\n#Kaelaif #KaelaKovalskia #holoID #hololive #hololiveID \n∘₊✧──────..."
-            }
-        ]
+        "videos": []
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
@@ -344,20 +337,20 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": [
-            {
-                "video_id": "7enYTZoCtYg",
-                "title": "【グルーヴコースター】新作！フューチャーパフォーマーズで遊ぶっ🎵【ホロライブ/白上フブキ】",
-                "thumbnail": "https://i.ytimg.com/vi/7enYTZoCtYg/hqdefault.jpg?v=688b9d4f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZGe-hRNlhwII6365SL6qk-4t8Gg",
-                "description": "#PR 提供：株式会社タイトー\n\nNintendo Switchダウンロード配信ソフト\n『グルーヴコースター フューチャーパフォーマーズ』\n公式HP：https://groovecoaster.co..."
-            }
-        ]
+        "videos": []
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "qYY8lm8Lr34",
+                "title": "【白猫プロジェクト】再び白猫の世界にお邪魔しちゃいました！𓃠【不知火フレア/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/qYY8lm8Lr34/hqdefault.jpg?v=688b5efd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-Ip38AT6fRol55sQcRzFL-z1gIw",
+                "description": "提供：株式会社コロプラ\n\n▼▼▼「白猫プロジェクト NEW WORLD'S」今すぐプレイ！▼▼▼\nhttps://colopl.page.link/U2My\n\n▼▼▼コラボPV公開中▼▼▼\n・公式Y..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -448,7 +441,14 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "uIQLC_g6Ijs",
+                "title": "【SHOVEL KNIGHT】Teach a man to shovel- shovel shovel something shovel dig shovel dig shovel shovel sh",
+                "thumbnail": "https://i.ytimg.com/vi/uIQLC_g6Ijs/hqdefault.jpg?v=688c8e8c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDv4Wpva7JUX2z2Yu5ywAHqfy-06g",
+                "description": "art: https://x.com/Fongban_/status/1950944434511564995\n\nMerch available here:\n▼ hololive production OFFICIAL SHOP \nJP: https://shop.hololivepro.com/products/ceciliaimmergreen_anniversary_1st..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
