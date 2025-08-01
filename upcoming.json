@@ -163,15 +163,7 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": [
-            {
-                "video_id": "1PI4u38d_Yg",
-                "title": "【 深夜チル枠 】遺失物センターの日常・その無くしものリオナが見つけてあげる！【ホロライブ DEV_IS 響咲リオナ】",
-                "date": "2025/08/01 21:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/1PI4u38d_Yg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCAspNg9k9CSq8OG75TwZ5VuqlSSg",
-                "description": "本ゲームは Rogue Duck Interactive に確認を得た上で、配信・収益化を行なっております。\n♡...本日のスパーチャットはお名前読み上げのみになります..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -418,7 +410,15 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "GMEGQQN9Q34",
+                "title": "【BLUE PRINCE】wawa is sick. :c  #kfp #キアライブ",
+                "date": "2025/08/02 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/GMEGQQN9Q34/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnwaZNL5r3KEni054iBdX6dq77Pg",
+                "description": "Takanashi Kiara『TASTY』\nhttps://cover.lnk.to/al3Zjt\n\n🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara\n\n 🏵️[Hashtags] 🏵️\n#kfp #キアライブ#hololiveenglish #holomyth..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
@@ -431,13 +431,6 @@
                 "date": "2025/08/02 10:30:00",
                 "thumbnail": "https://i.ytimg.com/vi/57qw2R4mqIs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLrRMwfELPnJFX06pWijD8rQz_vQ",
                 "description": "ずっとやりたかった龍が如くシリーズ初めてやるぞ！！！！！！\n\nこの動画およびライブは、コンテンツ利用許諾契約に基づいて配信しています。..."
-            },
-            {
-                "video_id": "hDC1Gtl3p6k",
-                "title": "【 雑談／Chatting 】フライデーナイトは雑談の日とする！！！！！！！！！ 【鷹嶺ルイ/ホロライブ】",
-                "date": "2025/08/01 21:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/hDC1Gtl3p6k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKgqa5kqTVXcmy5XrLQc8Mir1_UA",
-                "description": "毎週金曜日は雑談するよ☺ハッシュタグは金ルイとかどう？\n\nサムネ：あまみ様 (@yamagamiamami)\n\n✦••┈┈┈••┈┈┈••✦••┈┈┈••┈┈..."
             }
         ]
     },
