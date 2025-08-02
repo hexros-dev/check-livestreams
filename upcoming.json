@@ -270,15 +270,7 @@
         "channel_url": "https://www.youtube.com/@NakiriAyame",
         "channel_name": "Nakiri Ayame Ch. 百鬼あやめ",
         "avatar_url": "https://yt3.googleusercontent.com/3CeLWGYb6cLUywTJzNt-UpITviNxeGNvtjhIqbV-AIybCqCoFw9onWtg91bjwpqvfEP9mfqIR4Q",
-        "videos": [
-            {
-                "video_id": "CsVDCNUwFUg",
-                "title": "【 VALORANT 】新しいマウス試してみる！【百鬼あやめ/ホロライブ】",
-                "date": "2025/08/02 13:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/CsVDCNUwFUg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7UKZlU_fz1o9kbtT-XJkN8UCkbA",
-                "description": "- - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - -ഒ˖°\n\n\n※本ゲームは © Riot Games, Inc. の承諾を得た上で配信・収益化を行..."
-            }
-        ]
+        "videos": []
     },
     "@NanashiMumei": {
         "channel_url": "https://www.youtube.com/@NanashiMumei",
@@ -426,7 +418,15 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "zaMgUP65cOw",
+                "title": "【＃１】　星のカービィ ディスカバリー/Kirby and the Forgotten Land　【ホロライブ/白上フブキ】",
+                "date": "2025/08/02 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/zaMgUP65cOw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOhn4raX8vW1slSBH-xMwmfLKY8A",
+                "description": "Nintendo Switch 2 で遊ぶ、カービィの2つの冒険。\n『星のカービィ ディスカバリー Nintendo Switch 2 Edition ＋ スターリーワールド』が8月28日に発売決定。..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
