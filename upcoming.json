@@ -122,7 +122,29 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Kyn8o2b41vg",
+                "title": "【ピカチュウげんきでちゅう】完全初見！毎日1時間ずつピカチュウと仲を深める夏休み企画🌻～1日目～ #こよりとピカチュウ 【博衣こより/ホロライブ】",
+                "date": "2025/08/04 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Kyn8o2b41vg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADX3F5yMfwU0yzGgoC-_MzAvPt9w",
+                "description": "#こよりとピカチュウ でポスト❣ずっとやってみたかった「ピカチュウげんきでちゅう」⚡平日毎日1時間くらいずつやってEDを目指す夏休み企画で..."
+            },
+            {
+                "video_id": "MdaF1H2Ug_0",
+                "title": "【うたわれるもの 偽りの仮面】完全初見！土日はうたわれるものですよ～～～！ #6 【博衣こより/ホロライブ】",
+                "date": "2025/08/03 09:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/MdaF1H2Ug_0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6wSokXkgY7hA_369wBD7Wag33jw",
+                "description": "完全初見うたわれるもの、1作目が最高だったので2作目もいくぞ！！！！！！\n💿1stアルバム「FIRST STEP」発売中！全曲新録！成長した歌を聴いてね..."
+            },
+            {
+                "video_id": "lvgC3pW-LVA",
+                "title": "【雑談コラボ】 #KoZMy 結成⁉3人でマシュマロ女子会♡告知アリ！【AZKi・雪花ラミィ・博衣こより/ホロライブ】",
+                "date": "2025/08/03 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/lvgC3pW-LVA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcsmCDbGrJXTe0gI1Q80GmPCa7xA",
+                "description": "@AZKi @YukihanaLamy @HakuiKoyori 3人合わせて #KoZMy 💗いい匂いがしそうな女子会します💗\n🌟女子会あてマシュマロ募集中！送ってね～！▶ https://marshmallo..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -344,15 +366,7 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": [
-            {
-                "video_id": "QNTgtCXRaJU",
-                "title": "【夏歌枠】２０分じゃ足りなかった・・！夏らしい歌をうたう！！！【 ホロライブ / 大神ミオ 】",
-                "date": "2025/08/02 15:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/QNTgtCXRaJU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3t30m2N4NdjFNoZPIt3fYTC8q4Q",
-                "description": "２０分じゃ物足りないもんね～🌻🍉\n\nサムネillustrator：ペンドラさん　https://x.com/pendora1022\n\n提供︓XING INC.\n※本サービスは株式会社エクシングより..."
-            }
-        ]
+        "videos": []
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -386,7 +400,7 @@
             {
                 "video_id": "0iIj_QaCKMM",
                 "title": "【 オフコラボ 】バター餃子をつくる！！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "date": "2025/08/02 15:00:00",
+                "date": "2025/08/02 15:30:00",
                 "thumbnail": "https://i.ytimg.com/vi/0iIj_QaCKMM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-0W98wI-m_cH2-MENdR2-WYM2mg",
                 "description": "べりーちゃん\n@Saotomeberry \n\nねえ、いっしょに向こう側の景色を見に行かない？ \nホロライブDEV_ISからデビューした FLOWGLOWのDJ兼運転手 輪堂千速です..."
             }
@@ -605,13 +619,6 @@
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
         "videos": [
-            {
-                "video_id": "a2kzv_XakH0",
-                "title": "【緊急歌枠】登録者数全部1のゾロ目を見たい👀✨️#shorts 【風真いろは/ホロライブ】",
-                "date": "2025/08/02 15:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/a2kzv_XakH0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLByXpKJ_ALpSfmzNHmtiOmsoi9WsQ",
-                "description": "*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――\n\n💚風真いろはからのおしらせ💚\n\n💚風真いろは 誕生日記念2025..."
-            },
             {
                 "video_id": "t4we8ygRdhg",
                 "title": "【Minecraft】ホロ鯖にAZKi人形制作⛏✨【風真いろは/ホロライブ】",
