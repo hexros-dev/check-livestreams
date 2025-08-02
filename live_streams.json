@@ -315,7 +315,14 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "0iIj_QaCKMM",
+                "title": "【 オフコラボ 】バター餃子をつくる！！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "thumbnail": "https://i.ytimg.com/vi/0iIj_QaCKMM/hqdefault.jpg?v=688d1f66&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-0W98wI-m_cH2-MENdR2-WYM2mg",
+                "description": "べりーちゃん\n@Saotomeberry \n\nねえ、いっしょに向こう側の景色を見に行かない？ \nホロライブDEV_ISからデビューした FLOWGLOWのDJ兼運転手 輪堂千速です..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -472,14 +479,7 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
-        "videos": [
-            {
-                "video_id": "a2kzv_XakH0",
-                "title": "【緊急歌枠】登録者数全部1のゾロ目を見たい👀✨️#shorts 【風真いろは/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/a2kzv_XakH0/hqdefault.jpg?v=688dbf7f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLByXpKJ_ALpSfmzNHmtiOmsoi9WsQ",
-                "description": "*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――\n\n💚風真いろはからのおしらせ💚\n\n💚風真いろは 誕生日記念2025..."
-            }
-        ]
+        "videos": []
     },
     "@mikenekoko": {
         "channel_url": "https://www.youtube.com/@mikenekoko",
