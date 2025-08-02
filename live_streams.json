@@ -58,14 +58,7 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": [
-            {
-                "video_id": "zb_IrvxN6Yw",
-                "title": "【メイドカフェ凸待ち｜MAID CAFE CALL-INS】倒産寸前！おかえりなさいBAU BAU💓 welcome to cafe FUWAMOCO 🐾",
-                "thumbnail": "https://i.ytimg.com/vi/zb_IrvxN6Yw/hqdefault.jpg?v=688cb5be&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKqpu5NEWI6ylsooUAG0aTzPLmkw",
-                "description": "開店準備万端！who will visit our lovely cafe? ✨️ \nlovely illustration by Icomochi-mama @rswxx 💕\n🩵 FUWAMOCO 𝟮𝗻𝗱 𝗼𝗿𝗶𝗴𝗶𝗻𝗮𝗹 𝘀𝗼𝗻𝗴 🩷..."
-            }
-        ]
+        "videos": []
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -453,7 +446,14 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "nvcxTU6_88U",
+                "title": "UNARCHIVED KARAOKE the night before the big day...just hanging out!!! surprise guerilla!!! chill",
+                "thumbnail": "https://i.ytimg.com/vi/nvcxTU6_88U/hqdefault.jpg?v=688df168&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjFqJV6tZ0acMeXomP4TwOOgd0Xg",
+                "description": "wanbted 2 hangout with the grems before 3d ploeading emoji\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
