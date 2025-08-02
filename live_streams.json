@@ -211,7 +211,14 @@
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
         "channel_name": "Moona Hoshinova hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "BIZJCpUzZJ8",
+                "title": "【Membership】Repo with MLM?!【Moona | hololive ID】",
+                "thumbnail": "https://i.ytimg.com/vi/BIZJCpUzZJ8/hqdefault.jpg?v=688dd6ac&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAGGW4oEgqWG8cpxAWttuz3XRqr7Q",
+                "description": "Streamlabs donation link here : https://streamlabs.com/moonahoshinovahololive-id/tip\nSociaBuzz donation link here : https://sociabuzz.com/moonahoshinova/tribe\n======================================..."
+            }
+        ]
     },
     "@MoriCalliope": {
         "channel_url": "https://www.youtube.com/@MoriCalliope",
@@ -408,14 +415,7 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": [
-            {
-                "video_id": "FGTtpa6XU10",
-                "title": "校舎裏しゅーごー！！【轟はじめ】",
-                "thumbnail": "https://i.ytimg.com/vi/FGTtpa6XU10/hqdefault.jpg?v=688e0bd6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEUU09uAdENwhMJR4cbfPaz_UNrA",
-                "description": "素敵なサムネお写真：おに様（@onisan611）\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n✨宣伝✨\n新曲⚡BANZAI-轟はじめ【Original 3D MV】⚡\nhttps://www.youtub..."
-            }
-        ]
+        "videos": []
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
