@@ -294,14 +294,7 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": [
-            {
-                "video_id": "V23UkbNgQWg",
-                "title": "【アイビスSD/同時視聴】直線勝負じゃあああああああ！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "thumbnail": "https://i.ytimg.com/vi/V23UkbNgQWg/hqdefault.jpg?v=688ee6a5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCU6oYUZTisY-YFD3rbmKnKorZXQQ",
-                "description": "クイーンステークス　15:25出走\nアイビスサマーダッシュ　15:45出走\n\nサムネイルイラスト：鮨田はやりさま\nhttps://x.com/sushidahayari\nありがとうござい..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -343,7 +336,14 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "tX6gzeRKiso",
+                "title": "【ELDEN RING NIGHTREIGN 】夕方レイン開幕！【不知火フレア/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/tX6gzeRKiso/hqdefault.jpg?v=688eff71&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzjBsjUer0q8zwKKqKxpQQiZwebg",
+                "description": "エルフレからプレイヤーを募集する際の条件\n・参加は一人一回まで\n・フレアが下手、迷子になって怒らないで←重要\n・楽しくプレイできる方..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -369,10 +369,10 @@
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
         "videos": [
             {
-                "video_id": "ztHoWRDFQ8c",
-                "title": "【 アイビスサマーダッシュ&クイーンS 】夏競馬‼いよいよ待ちに待ったアイビスSD！！！！！【鷹嶺ルイ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/ztHoWRDFQ8c/hqdefault.jpg?v=688eb7c0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVWfhipTNNcDFIb8x-97IYrWuRiw",
-                "description": "アイビスサマーダッシュ 15:45発走 新潟競馬場 芝1000m\nクイーンステークス 15:25発走 札幌競馬場 芝1800m\n\n【2025年競馬配信】\nブラック企業時代に作っ..."
+                "video_id": "IrKbnvJMXsI",
+                "title": "【 龍が如く極 】シリーズ完全初見‼ 物語がおもしろすぎる…：YAKUZA KIWAMI【鷹嶺ルイ/ホロライブ】※ネタバレあり",
+                "thumbnail": "https://i.ytimg.com/vi/IrKbnvJMXsI/hqdefault.jpg?v=688ebb8b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjcqc9dVQK7QA4AiM4Od8VR1Cvpw",
+                "description": "サブクエは別枠でやります！\n\nこの動画およびライブは、コンテンツ利用許諾契約に基づいて配信しています。\n©SEGA\n\n※タイトルの『※ネタバレあ..."
             }
         ]
     },
