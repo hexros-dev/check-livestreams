@@ -15,14 +15,7 @@
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
         "avatar_url": "https://yt3.googleusercontent.com/ecW_DT7IKBcfKJ1qioYiyU_Iq6EB4_bCZpaG4srWPkEZRsIAiYguEvh7_nELEJqPnbjAktVj6Q",
-        "videos": [
-            {
-                "video_id": "BzbMR_t2_jY",
-                "title": "【ラジオ英会話】夏と言えばホラー！ホラーと言えば、ちゃま‼️👻【ホロライブ/赤井はあと】",
-                "thumbnail": "https://i.ytimg.com/vi/BzbMR_t2_jY/hqdefault.jpg?v=688d3da8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKxCn-aUiOIclXoyYNzUwuTkfuiw",
-                "description": "💖Membership to support HAACHAMA!!!メンバーシップ加入はこちら！✨\n➡https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg/join\n\nサムネイラスト：ちょん*　先輩あ..."
-            }
-        ]
+        "videos": []
     },
     "@AkiRosenthal": {
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
@@ -425,7 +418,14 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "LQo94pBKBsg",
+                "title": "【3D AFTER PARTY】a look into my twisted mind #3DGIGI",
+                "thumbnail": "https://i.ytimg.com/vi/LQo94pBKBsg/hqdefault.jpg?v=688f3988&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDrjfMOQAbzjmuWCKIVhmeoDSlYcQ",
+                "description": "魔法使い（ウィザードおじいちゃん）▽\n古川真司 / Furukawa Shinji　\nhttps://kira-boshi.com/prof-furukawa_shinji.html\n\n杉並児童合唱団 / Suginami Children Chorus..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
@@ -449,13 +449,27 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "liZsHLw_S2A",
+                "title": "【Animal Revolt Battle Simulator】 Determining once and for all who would win: 100 men or 1 t-rex",
+                "thumbnail": "https://i.ytimg.com/vi/liZsHLw_S2A/hqdefault.jpg?v=688fceb8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCATC11ibg2HykGw_PvlORoYWtL_Q",
+                "description": "TO BATTLE\n\n☁  Thumbnail Art  ☁\nhttps://x.com/eight_rkgk/status/1951666950175875128\nThank you so much!!\n\n  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋\n\nKonbakuwa! I'm Nimi, the baku nurse VTuber..."
+            }
+        ]
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "OuNKY4PJ28Y",
+                "title": "【＃ぺこマリ体操】ホロメン来るかな？みんなと一緒に朝の体操！３日目【ホロライブ/兎田ぺこら/宝鐘マリン】",
+                "thumbnail": "https://i.ytimg.com/vi/OuNKY4PJ28Y/hqdefault.jpg?v=688f768d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBa5nkAur30TigmC-KRUR5vd-n_ag",
+                "description": "毎日体操健康生活ということで\n\n明日はマリンCh @HoushouMarine \n\n\n🥕 🏴‍☠️ぺこマリ体操モーション配布中！皆踊ってね！ 🏴‍☠️🥕\nhttps://www.dr..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
