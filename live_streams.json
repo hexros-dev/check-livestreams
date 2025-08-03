@@ -69,14 +69,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "lvgC3pW-LVA",
-                "title": "【雑談コラボ】 #KoZMy 結成⁉3人でマシュマロ女子会♡告知アリ！【AZKi・雪花ラミィ・博衣こより/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/lvgC3pW-LVA/hqdefault.jpg?v=688cce1a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcsmCDbGrJXTe0gI1Q80GmPCa7xA",
-                "description": "@AZKi @YukihanaLamy @HakuiKoyori 3人合わせて #KoZMy 💗いい匂いがしそうな女子会します💗\n🌟女子会あてマシュマロ募集中！送ってね～！▶ https://marshmallo..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -132,20 +125,20 @@
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": [
-            {
-                "video_id": "jU1vIoPWTeY",
-                "title": "#2【ELDEN RING】人生初、「エルデンリング」を…やるぞ！！！【戌神ころね】※ネタバレあり",
-                "thumbnail": "https://i.ytimg.com/vi/jU1vIoPWTeY/hqdefault.jpg?v=688e07dc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-18UJdbgtSDfQ2jK3pEYBt1-aFQ",
-                "description": "Play Game : ELDEN RING ( steam )\nタグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nエルデン再生リスト\nhttps://youtube.com/pl..."
-            }
-        ]
+        "videos": []
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Xsdn8_Gb6js",
+                "title": "【 口裂け女VS青鬼 】おいおい！この後の展開気になりすぎるだろおおお！！#2【ホロライブ DEV_IS 響咲リオナ】",
+                "thumbnail": "https://i.ytimg.com/vi/Xsdn8_Gb6js/hqdefault.jpg?v=688e351e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4ni774pF8McMdhoeDHZo1a4jmxA",
+                "description": "配信タイトル：異世界シリーズ　口裂け女VS青鬼\nストアページ：https://store.steampowered.com/app/3586070/_VS/\n\n♡...本日のスパーチャットはCパートでお読み..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -157,7 +150,14 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "s4vi_8QPx7M",
+                "title": "【Esports World Cup 2025】GRAND FINAL!! we just need to believe! ID!! ID!! ID!! (PUBGM)【WATCH PARTY】",
+                "thumbnail": "https://i.ytimg.com/vi/s4vi_8QPx7M/hqdefault.jpg?v=688ecfd4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvtipCdd2xm71Bno0oUsrlFmYWZg",
+                "description": "ID!! GO ID GO!! #EWC #PMWC #ARISEWITHARES #PUBGMOBILEINDONESIA\n#Kaelaif #KaelaKovalskia #hololiveID #hololive\n∘₊✧──────✧₊∘∘₊✧──────✧₊∘∘₊✧──..."
+            }
+        ]
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
@@ -193,7 +193,14 @@
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
         "channel_name": "Laplus ch. ラプラス・ダークネス - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/6Y5lj4DhikLBo0UqIZ1dT3-D3aYXVPbxUgNTyYiyE_Se8AVxkGAn05D3oc1y3whpzDu-CzEQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "_1ffz3ADSNI",
+                "title": "【ご褒美】待望のネリッサお姉様オフコラボ🤓汚い言葉を言ってもらう♡ ASMR KU100 withFUWAMOCO 【ラプラス・ダークネス/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/_1ffz3ADSNI/hqdefault.jpg?v=6889d54e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNNmBM9E78lLIgPnfauvZcGnVqUw",
+                "description": "お姉さま♡ @NerissaRavencroft \n見守り @FUWAMOCOch \n\nサムネ：よもさか\nhttps://x.com/yomosaka/status/1947344521513341431?s=46\nBAQ\n\n﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏..."
+            }
+        ]
     },
     "@MizumiyaSu": {
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
@@ -217,7 +224,14 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "OWeQ2-3Cgis",
+                "title": "【Umamusume Pretty Derby】honse #calliolive",
+                "thumbnail": "https://i.ytimg.com/vi/OWeQ2-3Cgis/hqdefault.jpg?v=688f1af2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBE681eZOr99WoeYiaNSzsHv2mig",
+                "description": "ーーーーーーーーー\nBGM: https://x.com/BigRicePiano\nhttps://x.com/the_arkhand\nhttps://x.com/alterclad\n\nRequest from hololive Productions to underage viewers\nPlease search for [Request..."
+            }
+        ]
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -307,7 +321,14 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "viHrk90rdj8",
+                "title": "【Member Only】NO.17 ろぼちゃの日曜むーびー❣🎬ゆる～～～く『映画 ゆるきゃんΔ🏕』 同時視聴🍿",
+                "thumbnail": "https://i.ytimg.com/vi/viHrk90rdj8/hqdefault.jpg?v=688f38cb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmknFXjyTVVB8Mx6XbbqWzW37-RA",
+                "description": "＃ホロライブ　#hololive 　\nｘでは💬  #ロボ子生放送　でポストしてってね✨\nYoutubeの仕様でコメントや高評価ＧＯＯＤを押してくれるとチャンネル..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -401,14 +422,7 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": [
-            {
-                "video_id": "Os6DOMLC9BQ",
-                "title": "マッチングアプリで出会い厨してみたｗ【轟はじめ/ReGLOSS】 #hololivedev_is",
-                "thumbnail": "https://i.ytimg.com/vi/Os6DOMLC9BQ/hqdefault.jpg?v=688eff52&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDggL36RW2W2O8nAXZy8B2HcaZihA",
-                "description": "素敵なサムネお写真：쀼様（@likokoko1191621）\n\n本ゲームは茶碗蒸し様に確認を得た上で配信・収益化を行なっております。\n＜マッチングアプリで出..."
-            }
-        ]
+        "videos": []
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
