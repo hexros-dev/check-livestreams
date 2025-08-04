@@ -76,7 +76,14 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Kyn8o2b41vg",
+                "title": "【ピカチュウげんきでちゅう】完全初見！毎日1時間ずつピカチュウと仲を深める夏休み企画🌻～1日目～ #こよりとピカチュウ 【博衣こより/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/Kyn8o2b41vg/hqdefault.jpg?v=688f6f12&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADX3F5yMfwU0yzGgoC-_MzAvPt9w",
+                "description": "#こよりとピカチュウ でポスト❣ずっとやってみたかった「ピカチュウげんきでちゅう」⚡平日毎日1時間ずつやって何日目でEDを迎えられるか⁉と..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -130,14 +137,7 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": [
-            {
-                "video_id": "i0XuQ1Yb1AE",
-                "title": "【らでん自習室】8月4日10:00~11:30 【儒烏風亭らでん/ReGLOSS】",
-                "thumbnail": "https://i.ytimg.com/vi/i0XuQ1Yb1AE/hqdefault.jpg?v=688f7745&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAb2CGNy70Kzm7TsyOzRztYlzde7w",
-                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\nらでん自習室とは……？\n8月31日までの夏休み..."
-            }
-        ]
+        "videos": []
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -425,20 +425,20 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "LQo94pBKBsg",
-                "title": "【3D AFTER PARTY】a look into my twisted mind #3DGIGI",
-                "thumbnail": "https://i.ytimg.com/vi/LQo94pBKBsg/hqdefault.jpg?v=688f3988&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDrjfMOQAbzjmuWCKIVhmeoDSlYcQ",
-                "description": "魔法使い（ウィザードおじいちゃん）▽\n古川真司 / Furukawa Shinji　\nhttps://kira-boshi.com/prof-furukawa_shinji.html\n\n杉並児童合唱団 / Suginami Children Chorus..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "X9u-63CyuLQ",
+                "title": "【POKEMON EMERALD NUZLOCKE】WE ARE SO BACK!!!【6】",
+                "thumbnail": "https://i.ytimg.com/vi/X9u-63CyuLQ/hqdefault.jpg?v=688f63a4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZzToYhtdS8K-IeHOViyWxUqGnDQ",
+                "description": "‐‐‐‐‐‐‐‐‐‐‐‐‐‐ ˗ˏˋ ꒰Underage Viewers ꒱ ˎˊ˗  ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\nRequest from hololive Production to underage viewers:\nPlease..."
+            }
+        ]
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
