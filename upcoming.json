@@ -489,7 +489,15 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "LzgE8Oc0woo",
+                "title": "【Mythmash】Closing Ceremony!! #mythmashchemythtry",
+                "date": "2025/08/05 07:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/LzgE8Oc0woo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEkWf7n-Su-ai0-KdaR47gKsKtXg",
+                "description": "With @NinomaeInanis @MoriCalliope !\n[Glow in the Dark MV]( https://youtu.be/v5RKZXNuVyw?si=XYIH3KtB4p5hcwYz )\n[Queen of the Night MV]( https://youtu.be/X2KpK47AacY?si=LZyEhZBNqOzPO7Oh )\n[Kurukuru..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
