@@ -223,7 +223,15 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "eS57D5Zdplg",
+                "title": "【CALL OF DUTY: MW2】RING RING DUTY IS CALLING",
+                "date": "2025/08/06 09:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/eS57D5Zdplg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsOz0QhYdbmf2jUJJiVoDcdExqkw",
+                "description": "Thumbnail Art by:@shutowl_ THANK YOU!\nhttps://x.com/shutowl/status/1944804086919921755/photo/1\n\nBIRTHDAY MERCH\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/kosekib..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -575,15 +583,7 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": [
-            {
-                "video_id": "2npiC5mbxxE",
-                "title": "【＃ぺこマリ体操】ホロメン来るかな？みんなと一緒に朝の体操！５日目【ホロライブ/兎田ぺこら/宝鐘マリン】",
-                "date": "2025/08/06 05:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/2npiC5mbxxE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_4jdiOajGTLfTmzQLKELKHAU7_g",
-                "description": "本日もやってるんですけども\n\n明日はマリンCh @HoushouMarine \n\n来てくれたホロメン\n\n🥕 🏴‍☠️ぺこマリ体操モーション配布中！皆踊ってね！..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",

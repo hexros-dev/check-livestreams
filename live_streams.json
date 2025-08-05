@@ -15,14 +15,7 @@
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
         "avatar_url": "https://yt3.googleusercontent.com/ecW_DT7IKBcfKJ1qioYiyU_Iq6EB4_bCZpaG4srWPkEZRsIAiYguEvh7_nELEJqPnbjAktVj6Q",
-        "videos": [
-            {
-                "video_id": "IB_40WNw_t8",
-                "title": "【】おなかすいちゃま【】",
-                "thumbnail": "https://i.ytimg.com/vi/IB_40WNw_t8/hqdefault.jpg?v=68926e9b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRhXHLrg_Bp38VxMnkINNHZMkDNQ",
-                "description": "💖Membership to support HAACHAMA!!!メンバーシップ加入はこちら！✨\n➡https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg/join\n\n■ファンレター待ってるよ！💌I’..."
-            }
-        ]
+        "videos": []
     },
     "@AkiRosenthal": {
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
@@ -448,7 +441,14 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "2npiC5mbxxE",
+                "title": "【＃ぺこマリ体操】ホロメン来るかな？みんなと一緒に朝の体操！５日目【ホロライブ/兎田ぺこら/宝鐘マリン】",
+                "thumbnail": "https://i.ytimg.com/vi/2npiC5mbxxE/hqdefault.jpg?v=6891f236&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_4jdiOajGTLfTmzQLKELKHAU7_g",
+                "description": "本日もやってるんですけども\n\n明日はマリンCh @HoushouMarine \n\n来てくれたホロメン\n\n🥕 🏴‍☠️ぺこマリ体操モーション配布中！皆踊ってね！..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
