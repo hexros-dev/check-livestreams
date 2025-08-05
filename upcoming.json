@@ -43,13 +43,28 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "tgjy9FsU3Wg",
+                "title": "【ELDEN RING NIGHTREIGN】3人で初夜渡り！w.フレア/かなたん【アキロゼ/ホロライブ】",
+                "date": "2025/08/05 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/tgjy9FsU3Wg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1PC2b8K2uyFpJ0ru4EgDVREb5UQ",
+                "description": "フレア @ShiranuiFlare 　かなたん@AmaneKanata \n本ゲームは株式会社フロム・ソフトウェアに確認を得た上、「動画・画像の投稿に関するガイドライン」..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
         "channel_name": "Kanata Ch. Kanata Amane",
         "avatar_url": "https://yt3.googleusercontent.com/oPU9ckNcyeHD0FFsYSxkoD1mtbslSwdmMSfoCYQWphOu5e7UeCnIF-Nt0hvvF41L5Nykga07nQ",
         "videos": [
+            {
+                "video_id": "1zqvrvjkMac",
+                "title": "【ELDEN RING NIGHTREIGN】初コラボ！！ナイトレイン初心者、フレア先輩についてゆく！！！！【天音かなた/ホロライブ】",
+                "date": "2025/08/05 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/1zqvrvjkMac/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCu-hZfI2wpJ9NXCFn4Ufr-TWf5EQ",
+                "description": "うれしいね🎵\n\nイラスト：\nhttps://x.com/holouya/status/1952297564008779952\n\n本ゲームは株式会社フロム・ソフトウェアに確認を得た上、「動画・画像の投稿..."
+            },
             {
                 "video_id": "TeCKTigQhm0",
                 "title": "【配信チケット発売中】💫8/13 1stソロライブ「LOCK ON」有明アリーナにて開催！ / Amane Kanata 1st Solo Live \"LOCK ON\" 💫",
@@ -185,15 +200,7 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": [
-            {
-                "video_id": "jKP5Vk3jrIg",
-                "title": "【らでん自習室】8月5日10:00~11:30 【儒烏風亭らでん/ReGLOSS】",
-                "date": "2025/08/05 08:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/jKP5Vk3jrIg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6NdJG11QHAHfpAlu7C0rvYze5uA",
-                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\nらでん自習室とは……？\n8月31日までの夏休み..."
-            }
-        ]
+        "videos": []
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -213,7 +220,15 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "fNQxZBD6pKE",
+                "title": "【 HoloCure 】強くなったホロキュア！！ハードステージ！！！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "date": "2025/08/05 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/fNQxZBD6pKE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8UIHdwL-fTu89WJZdXF7CX8d8vw",
+                "description": "本ゲームはKay Yu様に確認の上配信・収益化を行なっております。\nhttps://kay-yu.itch.io/holocure\n\nサムネイルの素敵なイラスト　ゆっきにさん　https://x.com..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -413,7 +428,15 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "tV9xEEC09cg",
+                "title": "【🏡オフコラボ 】Cecilia comeing!? Let' go JAPANESE NAGASHISOUMEN！！！【ホロライブ/ ロボ子さん】",
+                "date": "2025/08/05 13:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/tV9xEEC09cg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDMQ0sYvC3XPHkbXFiA44BJPhzimg",
+                "description": "＃ホロライブ　#hololive 　\nｘでは💬  #ロボ子生放送　でポストしてってね✨\n\nXでコラボタグ募集中！\n@holoen_ceciliaimmergreen \n\nボクの初期ボイスがでた..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -498,15 +521,7 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": [
-            {
-                "video_id": "LzgE8Oc0woo",
-                "title": "【Mythmash】Closing Ceremony!! #mythmashchemythtry",
-                "date": "2025/08/05 07:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/LzgE8Oc0woo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEkWf7n-Su-ai0-KdaR47gKsKtXg",
-                "description": "With @NinomaeInanis @MoriCalliope !\n[Glow in the Dark MV]( https://youtu.be/v5RKZXNuVyw?si=XYIH3KtB4p5hcwYz )\n[Queen of the Night MV]( https://youtu.be/X2KpK47AacY?si=LZyEhZBNqOzPO7Oh )\n[Kurukuru..."
-            }
-        ]
+        "videos": []
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
