@@ -383,7 +383,15 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "F4pOar1Cc_M",
+                "title": "【R.E.P.O.】のちへん今日もコラボの #ホロREPO 【尾丸ポルカ/ホロライブ】",
+                "date": "2025/08/05 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/F4pOar1Cc_M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKJQCZQFXDGhzfbmaC1N9zCUJl_Q",
+                "description": "レポの亡霊と愉快な仲間たち\n@ShirakamiFubuki \n@HoshimachiSuisei \n@OokamiMio \n@InugamiKorone \n\nサムネありがとうございます！\nhttps://x.com/_Okunin\n\n配信タイトル：R.E...."
+            }
+        ]
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
@@ -507,14 +515,21 @@
                 "title": "【R.E.P.O.】 #ホロREPO　突発REPOコラボで集まった精鋭達だ…面構えが違う　【ホロライブ/白上フブキ】",
                 "date": "2025/08/05 16:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/JUy86Xxm1-s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCqyWEDk2fldR-IgEG8j84LQM3YXg",
-                "description": "#ホロREPO\n\n星街すいせい　@HoshimachiSuisei \n大神ミオ @OokamiMio \n\n━━━━━━🎵N　E　W　🎵━━━━━━━\n🍙🌽Pale/にゃんぐこーん\n▷https://youtu.be/DNI..."
+                "description": "#ホロREPO\n\n星街すいせい　@HoshimachiSuisei \n大神ミオ @OokamiMio \n戌神ころね @InugamiKorone \n尾丸ポルカ @OmaruPolka \n\n━━━━━━🎵N　E　W　🎵━━━━━━..."
             },
             {
                 "video_id": "PNTbHoaIyYU",
                 "title": "【＃２】　星のカービィ ディスカバリー/Kirby and the Forgotten Land　【ホロライブ/白上フブキ】",
-                "date": "2025/08/05 19:00:00",
+                "date": "2025/08/05 18:30:00",
                 "thumbnail": "https://i.ytimg.com/vi/PNTbHoaIyYU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyL6oZv0sMlIf7kY6-_Hyazf7-Ww",
                 "description": "Nintendo Switch 2 で遊ぶ、カービィの2つの冒険。\n『星のカービィ ディスカバリー Nintendo Switch 2 Edition ＋ スターリーワールド』が8月28日に発売決定。..."
+            },
+            {
+                "video_id": "egSAKA-x-6c",
+                "title": "【 #ホロ7DTDハード】DAY８/初の敗北…そして再び立ち上がる！！！　RE:砂漠バイオーム編【ホロライブ/白上フブキ】",
+                "date": "2025/08/05 20:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/egSAKA-x-6c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZp3XwBg3pBfAS5GrsCHhjD9QsUw",
+                "description": "#ホロ7DTDハード\n\n━━━━━━━━━━━━━━━━━━━━━━━\n🍙🌽Pale/にゃんぐこーん\n▷https://youtu.be/DNIi7lJ58Z8\n\n🌽🌲To Be Continued....🍙🥐..."
             }
         ]
     },
