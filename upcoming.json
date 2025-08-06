@@ -226,7 +226,15 @@
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "hjBqSiOQrQA",
+                "title": "【HOLOEARTH】 IT'S BEEN SO LONG SINCE I LAST PLAYED!! COME AND PLAY WITH ME!! :DDD 【Kureiji Ollie】",
+                "date": "2025/08/06 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/hjBqSiOQrQA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsOKuQb5F_vXtd_cT_vWTsV-5ejw",
+                "description": "#OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n==========================================\n\n▷ Holoearth Details: \nJPN: https://holoearth.com/\nEN: https://holoearth.com/en/\n\n▷ Animation PV:..."
+            }
+        ]
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
@@ -374,15 +382,7 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": [
-            {
-                "video_id": "AprC4Q_LNyk",
-                "title": "🔥一番弱い奴は誰だ⁉ #ホロスマブラ最弱王 決定戦🔥【大乱闘スマッシュブラザーズSPECIAL】",
-                "date": "2025/08/06 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/AprC4Q_LNyk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8DPOgTzOmBIe-I0CbrYE-98nIqg",
-                "description": "8月6日19:00 本戦スタート！#ホロスマブラ最弱王 決定戦‼\n実況　@HoushouMarine \n\nロボ子さん @Robocosan \n大空スバル @OozoraSubaru \n天音かなた @AmaneKanata..."
-            }
-        ]
+        "videos": []
     },
     "@SamekoSaba": {
         "channel_url": "https://www.youtube.com/@SamekoSaba",
