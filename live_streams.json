@@ -35,7 +35,14 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "GS-d1aHPfA4",
+                "title": "【Raft】4人で海に放り出されたけど、絶対クリアする旅その1🌊🏝️#チーム腕相撲 【アキロゼ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/GS-d1aHPfA4/hqdefault.jpg?v=6894616b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBnuKZKNsJaTJAmh976EKfzlGvkQ",
+                "description": "🍖チーム腕相撲メンバー🍖\nおおはらMEN /だいだら/ けっつん\n\n配信タグ  #アキびゅーわーるど  \n本ゲームはRedbeet Interactiveの確認を得た上で配信・..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -92,10 +99,10 @@
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
         "videos": [
             {
-                "video_id": "JktIKeTlr_g",
-                "title": "【対談コラボ】#ディスコードショッキング ～今月のゲスト：石神のぞみ様～【博衣こより/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/JktIKeTlr_g/hqdefault.jpg?v=6892e0e3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBibT3b8WNTXSe_ABtJI8TLHIss6Q",
-                "description": "#ディスコードショッキング でポスト❣ ゲストの紹介でゲストを繋いでいく企画を月イチで開催中！(ゲストはホロライブ外の女性で繋いでいく予..."
+                "video_id": "X9wv51SDq3c",
+                "title": "【 シャドバWB 】遂に2PICKやるぞ！！！マスターダイヤ帯で遊んでる女です。【博衣こより/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/X9wv51SDq3c/hqdefault.jpg?v=68945587&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUvG8zuPEppHk_FzvQuI7qXnnn5A",
+                "description": "シャドバ旧作で2PICKの景品うまかったのでめちゃやってました。新2PICK初プレイは配信でやるぞ！！！\n💿1stアルバム「FIRST STEP」発売中！全曲新録..."
             }
         ]
     },
@@ -139,7 +146,14 @@
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "L-fPTXaxcjU",
+                "title": "【ころね支店】#スバころ 「ドンキーコング」１時間並走バトル！！【戌神ころね/大空スバル】",
+                "thumbnail": "https://i.ytimg.com/vi/L-fPTXaxcjU/hqdefault.jpg?v=68937770&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAB5Z-G0F7DnNpmeoeTTwDpw7BWxQ",
+                "description": "Play Game : Donkey Kong Country ( switch )\nタグ #スバころ\n\n---------------------------------------------\n\n★ルール\n・スバルちゃんだけ事前練習OK\n・ショートカットはNG..."
+            }
+        ]
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
@@ -213,14 +227,7 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": [
-            {
-                "video_id": "Kf_1ULSdf7w",
-                "title": "【エスカレーター】異変をみつけるぞ！怖いの苦手！【水宮枢／ホロライブDEV_IS】",
-                "thumbnail": "https://i.ytimg.com/vi/Kf_1ULSdf7w/hqdefault.jpg?v=68935a11&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARKE1337jiiNDV2T-gk2SX3xgmwg",
-                "description": "本ゲームは、配信ポリシーに則り配信を行なっております。\nhttps://store.steampowered.com/app/2738050/___Escalator/\n▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸◂┄▹..."
-            }
-        ]
+        "videos": []
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -298,7 +305,14 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "5rN_ewW0asQ",
+                "title": "【#スバころ】スーパードンキー１時間大並走やるしゅばあああああああああああああ！【ホロライブ/大空スバル】",
+                "thumbnail": "https://i.ytimg.com/vi/5rN_ewW0asQ/hqdefault.jpg?v=6893a48a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCuII5ibCJ96fBKiFNkx4ReydojrQ",
+                "description": "対戦相手　@InugamiKorone \n\n★ルール\n・スバルちゃんだけ事前練習OK\n・ショートカットはNG\n・途中５分待って！発動OK\n\nこの動画およびライブは、任天..."
+            }
+        ]
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
