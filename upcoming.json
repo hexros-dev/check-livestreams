@@ -85,7 +85,15 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "SffEO3MTbS8",
+                "title": "HELLO THERE",
+                "date": "2025/08/07 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/SffEO3MTbS8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAGNEQrIgfbNZt7LRO4QGxJN8CgA",
+                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nーーーーーーーーー\n\nーーーーーーーーー\n\nSTREAM MY NEWEST ORIGINAL SONG メトロポリス (metropolis) IN YOUR PREFERRED..."
+            }
+        ]
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -206,7 +214,15 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "gKiQOGFtk1s",
+                "title": "【らでん自習室】8月8日10:00~11:30 【儒烏風亭らでん/ReGLOSS】",
+                "date": "2025/08/08 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/gKiQOGFtk1s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAOXt3OqFoPDSoTbrSrtpPAZoX0kw",
+                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\nらでん自習室とは……？\n8月31日までの夏休み..."
+            }
+        ]
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -436,13 +452,6 @@
                 "date": "2025/08/08 17:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/yIIhGCPeTlU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAm6DNfvcsPs7zgZuURYH6zWKuXTg",
                 "description": "提供：株式会社Mizkan\n\n今日からホロぽん飯テロ部始動！！\n\n▼【数量限定】コラボノベルティ付「味ぽん」を販売！\nhttps://shop.mizkan.co.jp/products/pnz0021..."
-            },
-            {
-                "video_id": "yRlTBAwMras",
-                "title": "【企画】#ホロメン取扱説明書 ⁉ 気になるホロメンを丸裸にぇ～～～🔎📝【ホロライブ/さくらみこ】",
-                "date": "2025/08/07 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/yRlTBAwMras/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQZOGo5otJWUV03yZNmfYT6dFSmw",
-                "description": "担当マネージャーさんに聞いた❕取扱説明書をみていくにぇ～❕\n◆ホロメン\n@AkaiHaato \n@OozoraSubaru \n@NekomataOkayu \n@TsunomakiWatame \n@ShishiroBotan （ぼたんは..."
             }
         ]
     },
@@ -484,15 +493,7 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": [
-            {
-                "video_id": "gLkYjFHbx1M",
-                "title": "【#不知火フレア6周年】年に一度の凸待ち！重大告知もあるYO！【不知火フレア/ホロライブ】",
-                "date": "2025/08/07 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/gLkYjFHbx1M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTqg8r4aDDYFWK5uc8K-cXsHPYJg",
-                "description": "いつもありがとう～！７年目もよろしくね\n\n■Newシングル「薄明光線」🎧\n💿各種音楽サービス配信版 配信中✨\nhttps://cover.lnk.to/6EmWZn\nMVも公開中..."
-            }
-        ]
+        "videos": []
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -539,7 +540,15 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "1Z_ww2wYw9o",
+                "title": "【 #ホロ7DTDハード  】DAY9 | 拳隊リベンジいきます。殴って殴って殴りまくる。【鷹嶺ルイ/ホロライブ】",
+                "date": "2025/08/07 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/1Z_ww2wYw9o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKk-nRpsR0dlcJySzm8FA476f5dg",
+                "description": "✨主催✨\n@OokamiMio \n\n❤メンバー❤（日によって参加メンバー異なります！）\n大神ミオ\nロボ子さん\nさくらみこ\n白上フブキ\n百鬼あやめ\n大空スバル..."
+            }
+        ]
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
@@ -671,7 +680,15 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "RV-uj9vrMMM",
+                "title": "【Minecraft】ホロ鯖！short撮影所を整地しないといけません・・・💭【風真いろは/ホロライブ】",
+                "date": "2025/08/07 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/RV-uj9vrMMM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcIw0D6JIC4rUKFjr73Qq_L_K9Pg",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n*⇔*――*⇔*――*⇔*――..."
+            }
+        ]
     },
     "@mikenekoko": {
         "channel_url": "https://www.youtube.com/@mikenekoko",
@@ -690,6 +707,13 @@
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
         "videos": [
+            {
+                "video_id": "Nqv_UlmAojM",
+                "title": "【AIが作ったマルバツクイズを10問連続正解するまで出られない部屋】から出してくれ！ぺこ！【ホロライブ/兎田ぺこら】",
+                "date": "2025/08/07 20:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/Nqv_UlmAojM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhljBBrP8I-wSWWI9bu7E-TV1NfA",
+                "description": "サムネイラスト：()さん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ #ぺこらいぶ..."
+            },
             {
                 "video_id": "gsaRChBYmuQ",
                 "title": "【同時視聴】Nintendo Indie World 2025.8.7を一緒に見よう！ぺこ！【ホロライブ/兎田ぺこら】",
