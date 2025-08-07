@@ -268,7 +268,14 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "GmInOhnD2Lg",
+                "title": "【Unarchived Karaoke】Yay Treating Myself",
+                "thumbnail": "https://i.ytimg.com/vi/GmInOhnD2Lg/hqdefault.jpg?v=6894259a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYQagncLKqCh1gbPvbHaNZJgb-Wg",
+                "description": "[Twitter]\nhttps://twitter.com/ourokronii\n\n[Thumbnail Art]\nhttps://x.com/Zenya_3d\n\n----------------------------------------------------------------------------\n\n[Viewer Rules]\nThank you for..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
