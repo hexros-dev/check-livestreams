@@ -268,14 +268,7 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": [
-            {
-                "video_id": "GmInOhnD2Lg",
-                "title": "【Unarchived Karaoke】Yay Treating Myself",
-                "thumbnail": "https://i.ytimg.com/vi/GmInOhnD2Lg/hqdefault.jpg?v=6894259a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYQagncLKqCh1gbPvbHaNZJgb-Wg",
-                "description": "[Twitter]\nhttps://twitter.com/ourokronii\n\n[Thumbnail Art]\nhttps://x.com/Zenya_3d\n\n----------------------------------------------------------------------------\n\n[Viewer Rules]\nThank you for..."
-            }
-        ]
+        "videos": []
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
@@ -293,7 +286,14 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "08gE-g_MZ78",
+                "title": "【スマブラSP】視聴者参加型！ボクはプリンをあきらめきれない【ホロライブ/ ロボ子さん】",
+                "thumbnail": "https://i.ytimg.com/vi/08gE-g_MZ78/hqdefault.jpg?v=6894364d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNf1X9Vh7BBZefME7bf6CtE62ekw",
+                "description": "＃ホロライブ　#hololive 　\nｘでは💬  #ロボ子生放送　でポストしてってね✨\n\nまずはプリンで１勝ちさせてください\n\n\nこの動画およびライブは、任..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -431,14 +431,7 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": [
-            {
-                "video_id": "s4AKr2noym8",
-                "title": "【STELLAR BLADE】I fear no alien, but this camera angle…  #2",
-                "thumbnail": "https://i.ytimg.com/vi/s4AKr2noym8/hqdefault.jpg?v=68938ce1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4opNqJejTVQpeIAjoFd0E-tAvBQ",
-                "description": "『 X formely Twitter 』\nhttps://x.com/raorapanthera\n\n『 Hashtags 』\n╰┈➤ Live  #CiaoRaora\n╰┈➤ Fanarts  #RaorArt\n╰┈➤ Clips  #RaraWara\n\n\n【Acrylic Stands】 \n▼Official..."
-            }
-        ]
+        "videos": []
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
