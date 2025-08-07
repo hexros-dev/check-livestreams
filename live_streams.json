@@ -15,7 +15,14 @@
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
         "avatar_url": "https://yt3.googleusercontent.com/ecW_DT7IKBcfKJ1qioYiyU_Iq6EB4_bCZpaG4srWPkEZRsIAiYguEvh7_nELEJqPnbjAktVj6Q",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "oMfW-zaxdYI",
+                "title": "【※No archive】BOY’S KARAOKE【】",
+                "thumbnail": "https://i.ytimg.com/vi/oMfW-zaxdYI/hqdefault.jpg?v=6895155e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBcYm6QK7T5rCjpyHHL6oR79ULAig",
+                "description": "※ホロライブプロダクションから未成年の視聴者の方々へのお願い\n[カバー 未成年者の方々へ]で検索してお読みいただくか、下記リンクをご確認..."
+            }
+        ]
     },
     "@AkiRosenthal": {
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
@@ -310,14 +317,7 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": [
-            {
-                "video_id": "D2nD1k9ZdNI",
-                "title": "💜 Emotionally Available But Also Emotionally Dangerous BFE Stream 💜",
-                "thumbnail": "https://i.ytimg.com/vi/D2nD1k9ZdNI/hqdefault.jpg?v=68939502&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtgBlkldR_owJ65GazcRneg350OQ",
-                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n===============..."
-            }
-        ]
+        "videos": []
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
@@ -455,14 +455,7 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": [
-            {
-                "video_id": "KAadiaTBJaA",
-                "title": "【＃ぺこマリ体操】ホロメン来るかな？みんなと一緒に朝の体操！７日目【ホロライブ/兎田ぺこら/宝鐘マリン】",
-                "thumbnail": "https://i.ytimg.com/vi/KAadiaTBJaA/hqdefault.jpg?v=6894c6e7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBScXC4jFSQrAjRbDdpy3e3byIPVw",
-                "description": "ちょめめーい！\n\n明日はマリンCh @HoushouMarine \n\n来てくれたホロメン\n\n🥕 🏴‍☠️ぺこマリ体操モーション配布中！皆踊ってね！ 🏴‍☠️🥕..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
