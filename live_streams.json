@@ -63,20 +63,20 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": [
-            {
-                "video_id": "uERIYwcJYuo",
-                "title": "≪Ace Attorney: Justice For All≫ GRAND FINALE!!! ... First Playthrough! #7【SPOILER WARNING】",
-                "thumbnail": "https://i.ytimg.com/vi/uERIYwcJYuo/hqdefault.jpg?v=68934990&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBhdE3C2GBN0_att6gG9_-TLwR0w",
-                "description": "alrighty evil shanks lets end this. \n\nThumbnail Art: https://x.com/sumomokpa/status/1902434622845415936/photo/1\n\n#telebae  #hololiveenglish \n\n««≪ °◇◆◇° ≫ »»\n\nThis video or live..."
-            }
-        ]
+        "videos": []
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "3SRNeHe4F5M",
+                "title": "【ピカチュウげんきでちゅう】完全初見！遂に指示厨マリンでちゅう召喚だああああ！！！⚡～4日目～ #こよりとピカチュウ 【宝鐘マリン・博衣こより/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/3SRNeHe4F5M/hqdefault.jpg?v=68931f24&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCe7O7rcQfVpsubbV_VJLb359T8EA",
+                "description": "#こよりとピカチュウ でポスト❣遂に @HoushouMarine プロが登場です！！！助けてプロ！！！\nずっとやってみたかった「ピカチュウげんきでちゅう」..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -130,14 +130,7 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": [
-            {
-                "video_id": "97hLiThzkuM",
-                "title": "【らでん自習室】8月7日10:00~11:00 【儒烏風亭らでん/ReGLOSS】",
-                "thumbnail": "https://i.ytimg.com/vi/97hLiThzkuM/hqdefault.jpg?v=6893e3b8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAmQipZCeOVpdsquhxWsajU2CBjg",
-                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\nらでん自習室とは……？\n8月31日までの夏休み..."
-            }
-        ]
+        "videos": []
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -438,7 +431,14 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "s4AKr2noym8",
+                "title": "【STELLAR BLADE】I fear no alien, but this camera angle…  #2",
+                "thumbnail": "https://i.ytimg.com/vi/s4AKr2noym8/hqdefault.jpg?v=68938ce1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4opNqJejTVQpeIAjoFd0E-tAvBQ",
+                "description": "『 X formely Twitter 』\nhttps://x.com/raorapanthera\n\n『 Hashtags 』\n╰┈➤ Live  #CiaoRaora\n╰┈➤ Fanarts  #RaorArt\n╰┈➤ Clips  #RaraWara\n\n\n【Acrylic Stands】 \n▼Official..."
+            }
+        ]
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
@@ -456,14 +456,7 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": [
-            {
-                "video_id": "tLSftpI2a-U",
-                "title": "【CRUSADER KINGS III】 I watched too much Game of Thrones so now I'm playing CK3",
-                "thumbnail": "https://i.ytimg.com/vi/tLSftpI2a-U/hqdefault.jpg?v=6893c280&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0emgtSbpsw4onovx2qcSyfXd6Mw",
-                "description": "NOW WITH MORE DLC\n\n☁  Thumbnail Art  ☁\nhttps://x.com/rove_rov/status/1943277332296536430\nThank you so much!!\n\n  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋\n\nKonbakuwa! I'm Nimi, the baku nurse..."
-            }
-        ]
+        "videos": []
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
