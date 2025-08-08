@@ -100,7 +100,14 @@
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "KyXjAJunq3w",
+                "title": "【＃ぺこマリ体操】ホロメン来るかな？ぺこマリ今のところ無遅刻1週間！8日目【ホロライブ/兎田ぺこら/宝鐘マリン】",
+                "thumbnail": "https://i.ytimg.com/vi/KyXjAJunq3w/hqdefault.jpg?v=6895af25&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBalgPbsh692at1ieJsQX_A2fOT4w",
+                "description": "明日はぺこらチャンネル！@usadapekora \n\nサムネイラスト…濁流\nhttps://x.com/hshshshs_daku\n\n🥕 🏴‍☠️  ぺこマリ体操モーション配布中！皆踊ってね！..."
+            }
+        ]
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
@@ -244,14 +251,7 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": [
-            {
-                "video_id": "_SF5oLKBgr4",
-                "title": "【OHAPOL】#174 8/9土曜日！久々の朝活だ～～～～ #ポルカ公演中 【尾丸ポルカ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/_SF5oLKBgr4/hqdefault.jpg?v=689662fe&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBEBRjGuodL2ZlybKk9qlsSfdjXgA",
-                "description": "OHAPOL（おはポル）は不定期で朝6時から配信！\n主に水曜〜日曜に開催されることが多いですが、毎日ではありません。\n「起きられたらやる！」と..."
-            }
-        ]
+        "videos": []
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
@@ -449,7 +449,14 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "gqanjzXFKLo",
+                "title": "【Static Dread】 DON'T LET THEM IN Eldritch Horror + Papers, Please",
+                "thumbnail": "https://i.ytimg.com/vi/gqanjzXFKLo/hqdefault.jpg?v=689659ff&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPDNPcmAppCMmsHff5u5Iirbl02w",
+                "description": "Horror game time!!\n\n  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋\n\nKonbakuwa! I'm Nimi, the baku nurse VTuber of your nightmares~\n#VTuber #nimi\n\n☁  Socials  ☁\nhttps://x.com/niminightmare\nhttps://b..."
+            }
+        ]
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
