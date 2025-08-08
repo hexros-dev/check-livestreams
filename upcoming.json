@@ -221,15 +221,7 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w",
-        "videos": [
-            {
-                "video_id": "0SvuriSKB9k",
-                "title": "【Darkwater】elp me im underwater and its dark【KOPIKANON】",
-                "date": "2025/08/08 13:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/0SvuriSKB9k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWobuLnJI9a8V4wlIzK-AEB5fo4A",
-                "description": "Playing with @ONShannon_ @PiaMeraleo-JKT48V \n∘₊✧──────✧₊∘∘₊✧──────✧₊∘∘₊✧──────✧₊∘∘₊✧──────✧₊∘..."
-            }
-        ]
+        "videos": []
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
@@ -337,15 +329,7 @@
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
-        "videos": [
-            {
-                "video_id": "gRzFgJLZ6Rc",
-                "title": "ただいま",
-                "date": "2025/08/08 13:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/gRzFgJLZ6Rc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6t-aMfQ6tUR1V0-xvUkNXIP_DeQ",
-                "description": "...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\n\n素敵なサムネイル→オワリ様\n@riiit44\n\n\n...｡oо○**○оo｡...｡oо○**○оo｡..."
-            }
-        ]
+        "videos": []
     },
     "@NekomataOkayu": {
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
@@ -675,7 +659,15 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "JhFXHjd3nCM",
+                "title": "【#PUBGモバイル】ぺこら軍vsぼたん軍バトルイベント！！今日こそドン勝だ！！！ぺこ！【獅白ぼたん/ホロライブ】",
+                "date": "2025/08/09 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/JhFXHjd3nCM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQALhVuQe95WZYQiE5Htmler1LDQ",
+                "description": "提供：KRAFTON JAPAN\nタイトル：PUBG MOBILE\n\nPUBG MOBILE ぺこら軍 vs ぼたん軍 バトルイベント開催中！\nチームを選択して応援しよう！\nミッションを達成す..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
