@@ -119,14 +119,7 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
-        "videos": [
-            {
-                "video_id": "QiipCDMT8M8",
-                "title": "【Switch2 体験版】スクエニの新作！冒険家エリオットの千年物語やる！！※ネタバレあり注意【一条莉々華/hololive DEV_IS ReGLOSS】",
-                "thumbnail": "https://i.ytimg.com/vi/QiipCDMT8M8/hqdefault.jpg?v=6894a0a2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBRceVpodlQo1xLSzmfLZ7Y7Lv0w",
-                "description": "こんなん絶対神ゲーやん！！！楽しみ～～～～～！！！\n\n\n本動画のゲームプレイ映像は、株式会社スクウェア・エニックスの許諾を受けて使用し..."
-            }
-        ]
+        "videos": []
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -309,7 +302,14 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "SpuMj7lO93c",
+                "title": "when there's a will there's a way (umamusume: pretty derby)",
+                "thumbnail": "https://i.ytimg.com/vi/SpuMj7lO93c/hqdefault.jpg?v=6895f65b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5pXtojzVW2Y97Z2-jogVVRgFGsg",
+                "description": "Reine's new original song now 「Yummy Yum Yummy!」AVAILABLE on iTunes, Apple Music, Spotify etc. Click to stream!\nパヴォリア・レイネ新曲「ヤミヤムヤミ」\nhttps://cover.lnk.to/mU..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
