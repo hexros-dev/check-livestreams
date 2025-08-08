@@ -15,14 +15,7 @@
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
         "avatar_url": "https://yt3.googleusercontent.com/ecW_DT7IKBcfKJ1qioYiyU_Iq6EB4_bCZpaG4srWPkEZRsIAiYguEvh7_nELEJqPnbjAktVj6Q",
-        "videos": [
-            {
-                "video_id": "oMfW-zaxdYI",
-                "title": "【※No archive】BOY’S KARAOKE【】",
-                "thumbnail": "https://i.ytimg.com/vi/oMfW-zaxdYI/hqdefault.jpg?v=6895155e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBcYm6QK7T5rCjpyHHL6oR79ULAig",
-                "description": "※ホロライブプロダクションから未成年の視聴者の方々へのお願い\n[カバー 未成年者の方々へ]で検索してお読みいただくか、下記リンクをご確認..."
-            }
-        ]
+        "videos": []
     },
     "@AkiRosenthal": {
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
@@ -137,7 +130,14 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "gKiQOGFtk1s",
+                "title": "【らでん自習室】8月8日10:00~11:30 【儒烏風亭らでん/ReGLOSS】",
+                "thumbnail": "https://i.ytimg.com/vi/gKiQOGFtk1s/hqdefault.jpg?v=68949290&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAOXt3OqFoPDSoTbrSrtpPAZoX0kw",
+                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\nらでん自習室とは……？\n8月31日までの夏休み..."
+            }
+        ]
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -252,14 +252,7 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": [
-            {
-                "video_id": "lYJ2Fw4zg-A",
-                "title": "【hololive Treasure Mountain】Sound the Horns Ina is Alive!!!!",
-                "thumbnail": "https://i.ytimg.com/vi/lYJ2Fw4zg-A/hqdefault.jpg?v=68951d61&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB7lJZDEWrkSeW-4wjLXTb2ym3vGg",
-                "description": "【Thumbnail Art】\nhttps://x.com/ani_019/status/1953188113964253620\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\nThis game is being streamed and monetized after receiving prior consent..."
-            }
-        ]
+        "videos": []
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
