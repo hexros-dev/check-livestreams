@@ -78,13 +78,6 @@
                 "date": "2025/08/10 13:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/6zUadiqxZw8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASnzVQekQBj3_h_pfHpsFgQVVgow",
                 "description": "Support me here/ドネーション↓\nStreamlabs: https://streamlabs.com/anyamelfissachhololive-id/tip\nSociaBuzz: https://sociabuzz.com/anyamelfissa/tribe\n\n--\nNEW ORIGINAL SONG OUT!\n\nCHRONIC..."
-            },
-            {
-                "video_id": "Zf4BXbEQEG4",
-                "title": "【SPOILER WARNING - SILENT HILL 2】COME OUT PYRAMID GUY, I AM NOT SCARED【hololive ID | Anya Melfissa】",
-                "date": "2025/08/09 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Zf4BXbEQEG4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDufYUxMoE1UIQKlBT9DfPsBVuJzg",
-                "description": "Support me here/ドネーション↓\nStreamlabs: https://streamlabs.com/anyamelfissachhololive-id/tip\nSociaBuzz(Local Donation): https://sociabuzz.com/anyamelfissa/tribe\n\n--\nThis game is streamed..."
             }
         ]
     },
@@ -359,7 +352,15 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "hOgvaJk76GM",
+                "title": "【 みんなのリズム天国 】今日中にクリアを目指します！！！！！！！【 ホロライブ / 大神ミオ 】",
+                "date": "2025/08/10 13:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/hOgvaJk76GM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA66cO58592UlJzNS_eUMTIk0qU8g",
+                "description": "リミックス６までクリアしています。もっと難しくなると聞いて震えています。\n土日の２日間でクリアしたい！！！！！！✊\n\nサムネillustrator：PAI..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -423,15 +424,7 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": [
-            {
-                "video_id": "EQ0O_laF7i8",
-                "title": "【 Minecraft】#ホロ鯖サマーパーク 始動‼🌊企画告知するにぇ～～～～い‼【ホロライブ/さくらみこ】",
-                "date": "2025/08/09 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/EQ0O_laF7i8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBeW0reDNv3iHRuJhtXVgEl35bn7w",
-                "description": "@HoshimachiSuisei \n\n🌸#さくらみこ7周年 記念グッズはこちら！🌸\n⏰2025年09月01日 18時00分 まで 〆切\nhttps://shop.hololivepro.com/products/sakuramiko_anniversary_7th..."
-            }
-        ]
+        "videos": []
     },
     "@SamekoSaba": {
         "channel_url": "https://www.youtube.com/@SamekoSaba",
@@ -463,15 +456,7 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": [
-            {
-                "video_id": "rxcMoxaQdTs",
-                "title": "【ビジュアルメンテナンス】かっ可愛すぎる！？【不知火フレア/ホロライブ】",
-                "date": "2025/08/09 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/rxcMoxaQdTs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDoNXJmIbPhPr8gyKzfkMNgs34wkA",
-                "description": "うおおお通常衣装の表情がさらに可愛くなったぞ！！\n\n■Newシングル「薄明光線」🎧\n💿各種音楽サービス配信版 配信中✨\nhttps://cover.lnk.to/6EmWZn..."
-            }
-        ]
+        "videos": []
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -573,7 +558,15 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "JTWjgge1Ghs",
+                "title": "【DOOM: The Dark Ages】Remember DOOM?",
+                "date": "2025/08/09 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/JTWjgge1Ghs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwr6tV5Fj2ZTpySRhmozZUpUs9QA",
+                "description": "Title: DOOM: The Dark Ages\nStore page: https://store.steampowered.com/app/3017860/DOOM_The_Dark_Ages/\n\n\n\n\n\n-----\nVestia Zeta's  2nd Original Song  ▶  [ Break It Down ]\n\nAll platform▶️..."
+            }
+        ]
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
@@ -591,15 +584,7 @@
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
         "channel_name": "Choco Ch. 癒月ちょこ",
         "avatar_url": "https://yt3.googleusercontent.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g",
-        "videos": [
-            {
-                "video_id": "_4j1q7CIAdU",
-                "title": "【カメラあり！】マネちゃんとホロカ開封🌟キュリアユニバース開封する！ 【ホロライブ/癒月ちょこ】",
-                "date": "2025/08/09 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/_4j1q7CIAdU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdQEITuoEQPg7VRFwmL1OOkZKAQA",
-                "description": "サブ垢→https://www.youtube.com/channel/UCp3tgHXw_HI0QMk1K8qh3g\n\nOP＆ED動画：松賀りお。様@rio_matsuka\nしょこらデザイン＆イラスト：むーらん様@M_uu418\nサムネ制作..."
-            }
-        ]
+        "videos": []
     },
     "@dooby3d": {
         "channel_url": "https://www.youtube.com/@dooby3d",
@@ -644,13 +629,6 @@
                 "date": "2025/08/10 07:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/-0RzTyI5nOY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDSgFGH52kmn3fEz5NQtg-56oG2Kw",
                 "description": "3D RAOOO!! \n\n╭─⋆｡ﾟ♡ RAO ♡｡ﾟ⋆─╮\n\n『 X (formely Twitter) 』  \nhttps://x.com/raorapanthera  \n\n『 Hashtags 』  \n╰┈✧ Live ➤ #CiaoRaora  \n╰┈✧ Fanarts ➤..."
-            },
-            {
-                "video_id": "525bEqFOGlw",
-                "title": "【TIERLIST】ITALIAN FOOD TIER LIST 🇮🇹 (I have authority.)",
-                "date": "2025/08/09 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/525bEqFOGlw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFJjl-wFS341GI3ssPSimxecHqzA",
-                "description": "╭─⋆｡ﾟ♡ RAO ♡｡ﾟ⋆─╮\n\n『 X (formely Twitter) 』  \nhttps://x.com/raorapanthera  \n\n『 Hashtags 』  \n╰┈✧ Live ➤ #CiaoRaora  \n╰┈✧ Fanarts ➤ #RaorArt  \n╰┈✧..."
             }
         ]
     },
