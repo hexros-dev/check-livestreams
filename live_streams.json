@@ -90,14 +90,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "uIpu4B0-U-4",
-                "title": "【うたわれるもの 偽りの仮面】完全初見！遂に乗り込むぞ・・・あの土地へ・・・！！！ #7 【博衣こより/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/uIpu4B0-U-4/hqdefault.jpg?v=68946e48&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwr0WW0jc_rkKgE2aVzCNspLghHA",
-                "description": "完全初見うたわれるもの、1作目が最高だったので2作目もいくぞ！！！！！！\n💿1stアルバム「FIRST STEP」発売中！全曲新録！成長した歌を聴いてね..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -461,7 +454,14 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "8C-O-CUEiDo",
+                "title": "【メンバー限定配信】開設5年5ヶ月目！夏を感じるASMR！【角巻わため/ホロライブ４期生】",
+                "thumbnail": "https://i.ytimg.com/vi/8C-O-CUEiDo/hqdefault.jpg?v=68964eb8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxxVInTjKv_B6qAV_adDqWsf0E9Q",
+                "description": "毎月８日はMember sheepの記念日です🐏💛（今月は9日にずらしてます！）\n※配信前にメン限に切り替えるね！\nタグ：#ドドドライブ\n\n🍉ホロナツパ..."
+            }
+        ]
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -522,14 +522,7 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": [
-            {
-                "video_id": "525bEqFOGlw",
-                "title": "【TIERLIST】ITALIAN FOOD TIER LIST 🇮🇹 (I have authority.)",
-                "thumbnail": "https://i.ytimg.com/vi/525bEqFOGlw/hqdefault.jpg?v=68957a14&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFJjl-wFS341GI3ssPSimxecHqzA",
-                "description": "╭─⋆｡ﾟ♡ RAO ♡｡ﾟ⋆─╮\n\n『 X (formely Twitter) 』  \nhttps://x.com/raorapanthera  \n\n『 Hashtags 』  \n╰┈✧ Live ➤ #CiaoRaora  \n╰┈✧ Fanarts ➤ #RaorArt  \n╰┈✧..."
-            }
-        ]
+        "videos": []
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
