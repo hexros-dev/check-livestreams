@@ -531,7 +531,15 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "3mzTBk5dHAE",
+                "title": "【ネタバレ注意】都市伝説解体センター～新しい都市伝説くる？～【ホロライブ/ときのそら】",
+                "date": "2025/08/09 12:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/3mzTBk5dHAE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqDtKQ5iPffTzNcvyfNSwvE9S8SA",
+                "description": "さぁ今日のお話はどうかな？\n\n配信タイトル：都市伝説解体センター\n公式サイト：https://umdc.shueisha-games.com/\n開発：墓場文庫　\n販売：集英社ゲーム..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
