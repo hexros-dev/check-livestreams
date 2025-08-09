@@ -357,7 +357,15 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "xqdGzeBa-ZA",
+                "title": "【MEMBERS】Yes I'm Going to Sing the Same Song Many Times With Wrong Lyrics",
+                "date": "2025/08/10 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/xqdGzeBa-ZA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOeigDorFUEeBv74Os6dlRq6ffQQ",
+                "description": "【Thumbnail Art】\n\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\n__________________________________________________________________________________________\n\nEndcard Art by Me!\nEndcard..."
+            }
+        ]
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -415,7 +423,15 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "UXS1oaP-e28",
+                "title": "【ガンプラ組み立て/カメラ枠】HG 1/144 GQuuuuuuXつくる～～～～～！【輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "date": "2025/08/10 11:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/UXS1oaP-e28/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLiHKsO00n_OXFtLvbfflxxruVag",
+                "description": "めちゃくちゃ久しぶりにガンプラ作る・・・！ﾄﾞｷﾄﾞｷ！\n\n\n・本配信は、株式会社BANDAI SPIRITSの許諾を得ております。\n・本配信は、PRを含みま..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -439,21 +455,21 @@
         "channel_url": "https://www.youtube.com/@SamekoSaba",
         "channel_name": "saba",
         "avatar_url": "https://yt3.googleusercontent.com/gNZv93GVlg3GAco7HTg2OXl_9s2Pm3lG6DxNfOXqPkLRNcM5BSEOAcQGpgQ8AejiEam5ElLG",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "aHHYTKUfNP4",
+                "title": "【WIZARD NIGHT】welcome to mogwarts",
+                "date": "2025/08/10 04:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/aHHYTKUfNP4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8aNEVwe3Ckhu98hbZr4rOt9SU1g",
+                "description": "double wacky wizard wednesday with @dooby3d \n\nwe play two game:\nMage Arena \nSecret Agent Wizard Boy and the International Crime Syndicate\n\n🐟 https://x.com/samekosaba\n#samekosaba #sabadoob..."
+            }
+        ]
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": [
-            {
-                "video_id": "44a6tPg7I1Q",
-                "title": "Return of the Obra Dinn",
-                "date": "2025/08/10 00:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/44a6tPg7I1Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5PwTAm6CcXuzGDIfn7TaQAM5ZcQ",
-                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n===============..."
-            }
-        ]
+        "videos": []
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",

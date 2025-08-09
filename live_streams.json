@@ -3,14 +3,7 @@
         "channel_url": "https://www.youtube.com/@AZKi",
         "channel_name": "AZKi Channel",
         "avatar_url": "https://yt3.googleusercontent.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos",
-        "videos": [
-            {
-                "video_id": "v9Zyn3K4-6o",
-                "title": "【Minecraft】あずいろ村、お散歩。チル釣りきち。【ホロライブ / AZKi】",
-                "thumbnail": "https://i.ytimg.com/vi/v9Zyn3K4-6o/hqdefault.jpg?v=6896ff1c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfv-Kp1rChdxmgLCT_HrEtBigCvw",
-                "description": "あずいろ村が進化している！？\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\nサムネイラスト：なべ 様\nhttps://x.com/nabe_otome\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈..."
-            }
-        ]
+        "videos": []
     },
     "@AiraniIofifteen": {
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
@@ -338,7 +331,14 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "44a6tPg7I1Q",
+                "title": "Return of the Obra Dinn",
+                "thumbnail": "https://i.ytimg.com/vi/44a6tPg7I1Q/hqdefault.jpg?v=6896db20&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5PwTAm6CcXuzGDIfn7TaQAM5ZcQ",
+                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n===============..."
+            }
+        ]
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
