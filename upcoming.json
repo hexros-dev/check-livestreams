@@ -437,7 +437,15 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "xDDyGSlPSgg",
+                "title": "【UNDERTALE】完全初見！みんな大好きな名作「UNDERTALE」を遊ぶよ～✨【白銀ノエル/ホロライブ】",
+                "date": "2025/08/11 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/xDDyGSlPSgg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBFUE0LoZvFB8WVrQy4Qj5Epr7Sw",
+                "description": "ずっと遊びたかった作品でワクワク！！\n\n[NEW]🔥焚火ASMRボイス販売中🔥→ https://shop.hololivepro.com/products/hololive_asmr_chillinbythecampfire?_pos=2&_fid=86a4c0ec0&_..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -523,15 +531,7 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": [
-            {
-                "video_id": "a4-rPhUGKwo",
-                "title": "【3D AFTER PARTY CHATS】T-poses on you menacingly",
-                "date": "2025/08/10 23:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/a4-rPhUGKwo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCrsbRAkc12OEFjxb0t_VqZ-0stKg",
-                "description": "Merch available here:\n▼ hololive production OFFICIAL SHOP \nJP: https://shop.hololivepro.com/products/ceciliaimmergreen_anniversary_1st\nEN: https://shop.hololivepro.com/en/products/ceciliaimmergre..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
