@@ -117,14 +117,7 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": [
-            {
-                "video_id": "UbvT7AQx_SE",
-                "title": "【  Minecraft  】#ホロ鯖サマーパーク ！リオナも建築していくぞ✨【ホロライブ DEV_IS 響咲リオナ】",
-                "thumbnail": "https://i.ytimg.com/vi/UbvT7AQx_SE/hqdefault.jpg?v=68988fbc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwpIr4t69OQeoM56FXBakgno9PRA",
-                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております。\n\n♡...本日のスパーチ..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -324,7 +317,14 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "TGmMQxRgK-Y",
+                "title": "Return of the Obra Dinn - Ep. 2",
+                "thumbnail": "https://i.ytimg.com/vi/TGmMQxRgK-Y/hqdefault.jpg?v=6897db61&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmufdP8YE-hEQgWjXTCv7gwAtRSA",
+                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n===============..."
+            }
+        ]
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
