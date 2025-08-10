@@ -93,14 +93,7 @@
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk",
-        "videos": [
-            {
-                "video_id": "-WW1X4oEmg0",
-                "title": "【＃ぺこマリ体操】ホロメン来るかな？実はマリン6周年です。10日目【ホロライブ/兎田ぺこら/宝鐘マリン】",
-                "thumbnail": "https://i.ytimg.com/vi/-WW1X4oEmg0/hqdefault.jpg?v=6898720d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9ilADay3r9wSazAGfcP-f6kROAw",
-                "description": "明日はぺこらチャンネル！@usadapekora \n\nサムネイラスト…ののまろ\nhttps://x.com/norinorimaruru\n\n🥕 🏴‍☠️  ぺこマリ体操モーション配布中！皆踊って..."
-            }
-        ]
+        "videos": []
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
@@ -250,7 +243,14 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Bkb9v0dgApI",
+                "title": "【 #朝ミオ 】真夏だよ～月曜日の朝だよ！おはみぉーん！",
+                "thumbnail": "https://i.ytimg.com/vi/Bkb9v0dgApI/hqdefault.jpg?v=6898725a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBd3MXD05_4m3_g4kROPghu58OpQQ",
+                "description": "お盆・・・ってやつですか\n\n#朝ミオおたより Twitter(X)で募集中です🌟\n今回紹介するお題は、『寝付きにくい夜にやること』です！\n\nサムネillustrator..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
