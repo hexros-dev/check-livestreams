@@ -102,13 +102,6 @@
                 "description": "#こよりとピカチュウ でポスト❣ずっとやってみたかった「ピカチュウげんきでちゅう」⚡平日毎日1時間ずつやって何日目でEDを迎えられるか⁉と..."
             },
             {
-                "video_id": "OYErjwfEzIU",
-                "title": "【 #朝こよ 】お盆休みしてる～？火曜日の朝は朝こよ～～～！☀ #245 【博衣こより/hololive】",
-                "date": "2025/08/12 05:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/OYErjwfEzIU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCrAZe9z3qHmT57fhgt360waIdlQ",
-                "description": "💿1stアルバム「FIRST STEP」発売中！全曲新録！成長した歌を聴いてね🎶\n　https://cover.lnk.to/SdOKbq\n\n#朝こよ を観れば日本ニキも海外ニキもホロライブ..."
-            },
-            {
                 "video_id": "R8xRRG5MDaU",
                 "title": "【ドラゴンボールZ KAKAROT】夏だ！初見だ！ドラゴンボールだ！フリーザ編いくぞおおおおおおおおお！！！ #2 【博衣こより/ホロライブ】",
                 "date": "2025/08/12 17:00:00",
@@ -427,7 +420,15 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Uw5SR7K_G5g",
+                "title": "Hiking Trip Picnic【Peak】",
+                "date": "2025/08/13 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Uw5SR7K_G5g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJyv9Q_6XgYakftNIBIH4c1q2qxA",
+                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n===============..."
+            }
+        ]
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
@@ -606,29 +607,13 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": [
-            {
-                "video_id": "QBR3n1us1rY",
-                "title": "【Wii Fit】 Nimi gets fit with the Wii's most ruthless fitness assistant",
-                "date": "2025/08/12 05:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/QBR3n1us1rY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAooBGZxrZeM9X3z55YZrUXVkG7lQ",
-                "description": "in 3D!\n\n  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋\n\nKonbakuwa! I'm Nimi, the baku nurse VTuber of your nightmares~\n#VTuber #nimi\n\n☁  Socials  ☁\nhttps://x.com/niminightmare\nhttps://bsky.app/prof..."
-            }
-        ]
+        "videos": []
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": [
-            {
-                "video_id": "Gw3FtWVkU1g",
-                "title": "【＃ぺこマリ体操】ホロメン来るかな？みんなと一緒に朝の体操！１１日目【ホロライブ/兎田ぺこら/宝鐘マリン】",
-                "date": "2025/08/12 05:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Gw3FtWVkU1g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCf_5jioFFHFnz_XlZBB_Z8mJnCFA",
-                "description": "まいにち楽しいです！\n\n明日はマリンCh @HoushouMarine \n\n来てくれたホロメン\n\n🥕 🏴‍☠️ぺこマリ体操モーション配布中！皆踊ってね！ 🏴‍☠️..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
