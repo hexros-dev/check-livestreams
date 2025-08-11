@@ -400,7 +400,14 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "350CHsyLoiA",
+                "title": "【Minecraft】なんか装飾しようかな？【ホロライブ/ときのそら】",
+                "thumbnail": "https://i.ytimg.com/vi/350CHsyLoiA/hqdefault.jpg?v=68998127&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXwRMS8mt2hB6W6fXrMXAswFEl9Q",
+                "description": "お土産屋さんはお手伝いしたから、それ以外を！！\nなにか作れそうなものあったら作ってこうね～！！\n\n本ゲームは Mojang に確認を得た上、Terms..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
@@ -466,14 +473,7 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": [
-            {
-                "video_id": "2yyeI_JQU0k",
-                "title": "【3D AFTERPARTY!!!】WE NEED TO TALK ABOUT IT!!!!  🐱",
-                "thumbnail": "https://i.ytimg.com/vi/2yyeI_JQU0k/hqdefault.jpg?v=68986c5d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBG5XlBdsr8sFpPgN8Q2OP_psESyw",
-                "description": "╭─⋆｡ﾟ♡ RAO ♡｡ﾟ⋆─╮\n\n『 X (formely Twitter) 』  \nhttps://x.com/raorapanthera  \n\n『 Hashtags 』  \n╰┈✧ Live ➤ #CiaoRaora  \n╰┈✧ Fanarts ➤ #RaorArt  \n╰┈✧..."
-            }
-        ]
+        "videos": []
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
