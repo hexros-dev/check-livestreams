@@ -484,7 +484,15 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "350CHsyLoiA",
+                "title": "【Minecraft】なんか装飾しようかな？【ホロライブ/ときのそら】",
+                "date": "2025/08/11 13:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/350CHsyLoiA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXwRMS8mt2hB6W6fXrMXAswFEl9Q",
+                "description": "お土産屋さんはお手伝いしたから、それ以外を！！\nなにか作れそうなものあったら作ってこうね～！！\n\n本ゲームは Mojang に確認を得た上、Terms..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
