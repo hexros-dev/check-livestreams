@@ -39,7 +39,14 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "FZu3uwr6Uqw",
+                "title": "ROGER ROGER",
+                "thumbnail": "https://i.ytimg.com/vi/FZu3uwr6Uqw/hqdefault.jpg?v=6899c4b9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgDVH9-T_sY68jifc1mQakXLGckw",
+                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nGame title：STAR WARS™ バトルフロント™ II\nStore page：https://store.steampowered.com/app/1237950/STAR_WARS__II/\n\nーーーー..."
+            }
+        ]
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -163,14 +170,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": [
-            {
-                "video_id": "v6JuF7h2cuU",
-                "title": "【 声マネキング 】マイクを使ってお題と同じ声を出すぞおおおおお【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "thumbnail": "https://i.ytimg.com/vi/v6JuF7h2cuU/hqdefault.jpg?v=6899588e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkx3COAc8tM8-WtfBptZWzGwMqDA",
-                "description": "本ゲームは宮澤 卓宏様の許諾を受けて配信・収益化を行っております。\n\n素敵なサムネイルのイラスト　苺大福さん　https://x.com/il_ichi05\n\n✨メンバ..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -454,7 +454,14 @@
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "0E0xg7_mig0",
+                "title": "【UNARCHIVED KARAOKE】 Trying new mic sE V7  ~! 💄",
+                "thumbnail": "https://i.ytimg.com/vi/0E0xg7_mig0/hqdefault.jpg?v=6899d115&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkTEmWZp70McQWBBwuIPPyfHqfsA",
+                "description": "Gorillaaaaaaaa\n* Microphone: sE V7 Dynamic Vocal Microphone\n▬▬ι════════ﺤ\n❣ Hashtags ❣\n♡ General: #BFKingdom \n♡ Live: #BloodflameLive\n♡ Art: #BloodflameArt ..."
+            }
+        ]
     },
     "@holoen_gigimurin": {
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
