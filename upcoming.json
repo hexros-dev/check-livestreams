@@ -156,15 +156,7 @@
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk",
-        "videos": [
-            {
-                "video_id": "DW-kTCNnfH8",
-                "title": "【6周年】ホロライブの人気手描き切り抜きを一緒に観よう!!【ホロライブ/宝鐘マリン】",
-                "date": "2025/08/11 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/DW-kTCNnfH8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASHrJodr9XKI-vcjtlbn4BLu0Sww",
-                "description": "鑑賞させていただいたチャンネルは概要欄に後から記載します✨\n\n｡.｡:+* ﾟ ゜ﾟ *+:｡.｡:+* ﾟ ゜ﾟ *+:｡.｡.｡:+*ﾟ ゜ﾟ *+:｡.｡:+*ﾟ ゜ﾟ *+:｡...."
-            }
-        ]
+        "videos": []
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
@@ -578,7 +570,15 @@
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "0E0xg7_mig0",
+                "title": "【UNARCHIVED KARAOKE】 Trying new mic sE V7  ~! 💄",
+                "date": "2025/08/11 18:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/0E0xg7_mig0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkTEmWZp70McQWBBwuIPPyfHqfsA",
+                "description": "Gorillaaaaaaaa\n▬▬ι════════ﺤ\n❣ Hashtags ❣\n♡ General: #BFKingdom \n♡ Live: #BloodflameLive\n♡ Art: #BloodflameArt \n▬▬ι════════ﺤ\n▬▬ι═══..."
+            }
+        ]
     },
     "@holoen_gigimurin": {
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
