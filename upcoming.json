@@ -78,7 +78,15 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "FZu3uwr6Uqw",
+                "title": "ROGER ROGER",
+                "date": "2025/08/11 18:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/FZu3uwr6Uqw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgDVH9-T_sY68jifc1mQakXLGckw",
+                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nGame title：STAR WARS™ バトルフロント™ II\nStore page：https://store.steampowered.com/app/1237950/STAR_WARS__II/\n\nーーーー..."
+            }
+        ]
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -454,7 +462,15 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "4zL_LSOXN68",
+                "title": "#02【UNDERTALE】完全初見！みんな大好きな名作「UNDERTALE」を遊ぶよ～✨【白銀ノエル/ホロライブ】",
+                "date": "2025/08/12 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/4zL_LSOXN68/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB249gqwL9NdA555GtkUANnlbLKkw",
+                "description": "ずっと遊びたかった作品でワクワク！！\n\n[NEW]🔥焚火ASMRボイス販売中🔥→ https://shop.hololivepro.com/products/hololive_asmr_chillinbythecampfire?_pos=2&_fid=86a4c0ec0&_..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -487,13 +503,6 @@
                 "date": "2025/08/11 21:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/lVW-rZpeAfc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXb9sLwRb0xoC5HaxwOrHEQhfoVA",
                 "description": "耐性なくなりました。\n\n配信タイトル：丁字路\nストアページ：https://store.steampowered.com/app/2976400/_/\n\n✦••┈┈┈••┈┈┈••✦••┈┈┈••┈..."
-            },
-            {
-                "video_id": "qMqjtNmKmgY",
-                "title": "【 Minecraft 】#ホロ鯖サマーパーク 飛行船つくるよ✈✨【鷹嶺ルイ/ホロライブ】",
-                "date": "2025/08/11 17:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/qMqjtNmKmgY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxgAywDE-Fgdz1C0vSzpnR7lRomQ",
-                "description": "かわいらしい飛行船つくります☺\n\n⭐参考⭐\nhttps://x.com/Sheltie613\nhttps://x.com/Sheltie613/status/1941410630344507578\n\n【使用MOD】\n使用MOD：Complementary Shaders\n制作者..."
             }
         ]
     },
