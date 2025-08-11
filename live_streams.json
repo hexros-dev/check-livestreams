@@ -210,14 +210,7 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": [
-            {
-                "video_id": "DqFaAspQdTA",
-                "title": "【ELDEN RING】big big sword run (part 1) #calliolive",
-                "thumbnail": "https://i.ytimg.com/vi/DqFaAspQdTA/hqdefault.jpg?v=6896a8fd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9Spv-p94-q8VOv3Jw8JLGWJ-RkQ",
-                "description": "BGM: https://x.com/BigRicePiano\nhttps://x.com/the_arkhand\nhttps://x.com/alterclad\n\nRequest from hololive Productions to underage viewers\nPlease search for [Request To Minors] or click on the..."
-            }
-        ]
+        "videos": []
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -314,7 +307,14 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "l0zSCuMAklo",
+                "title": "【ぬい旅 】ろぼぬいとお出かけしたろぼさーを見ていくゾ！【ホロライブ/ ロボ子さん】",
+                "thumbnail": "https://i.ytimg.com/vi/l0zSCuMAklo/hqdefault.jpg?v=68993c51&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMB7YxkG8LaGbQREmh6D-3XuLNqQ",
+                "description": "#hololive 　\nｘでは💬  #ロボ子生放送　でポストしてってね✨\n#Summer_Hellobo  で募集したきかくをみていくよ～！\nさむね：さくらみこ！\n\n🔴『holonatsu..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
