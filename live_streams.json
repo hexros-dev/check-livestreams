@@ -175,14 +175,7 @@
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
         "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/ACubs_Mw4YtmgHDIIZvW_gZaPf_VR1wg9yffFLsq4Lrw-W7Md-0pK4Gob8OJebCYCmgrArsE",
-        "videos": [
-            {
-                "video_id": "4ZilJ1sTi-s",
-                "title": "【Minecraft】#ホロ鯖サマーパーク  ジェットコースター作るぞ！【虎金妃笑虎】",
-                "thumbnail": "https://i.ytimg.com/vi/4ZilJ1sTi-s/hqdefault.jpg?v=6898cc4c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWaBnUgu0YKPJyBcS7RgjZ1BAPug",
-                "description": "サムネイルのイラストは\n汐よるさん！✨\nhttps://x.com/ushio_yoru/status/1946190042160066935\n\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n\n虎金妃笑虎　X\n..."
-            }
-        ]
+        "videos": []
     },
     "@KosekiBijou": {
         "channel_url": "https://www.youtube.com/@KosekiBijou",
@@ -316,7 +309,14 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "FNRmhXBardY",
+                "title": "CHILL AND UMA (umamusume: pretty derby)",
+                "thumbnail": "https://i.ytimg.com/vi/FNRmhXBardY/hqdefault.jpg?v=68997471&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6zq5z3QPGLRFcWb-1li-6lb11cA",
+                "description": "Reine's new original song now 「Yummy Yum Yummy!」AVAILABLE on iTunes, Apple Music, Spotify etc. Click to stream!\nパヴォリア・レイネ新曲「ヤミヤムヤミ」\nhttps://cover.lnk.to/mU..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
