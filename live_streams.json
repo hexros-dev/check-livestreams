@@ -35,7 +35,14 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "S20KQBljnmI",
+                "title": "【新企画】「アキロゼ×癒月ちょこ」の～ホロライブ深夜ラジオ～（仮）第0回",
+                "thumbnail": "https://i.ytimg.com/vi/S20KQBljnmI/hqdefault.jpg?v=6899ba01&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjtUmamytqzlArQobD-PGZ_-ZPqg",
+                "description": "23:40~24:00\n・－・－・－・－・－・－・－・－・－・－・－・－・－・－・－・－・－・\n✨最新グッズ＆ボイス情報✨\n🎧アキロゼ新曲【異薔薇】..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -53,14 +60,7 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": [
-            {
-                "video_id": "FZu3uwr6Uqw",
-                "title": "ROGER ROGER",
-                "thumbnail": "https://i.ytimg.com/vi/FZu3uwr6Uqw/hqdefault.jpg?v=6899c4b9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgDVH9-T_sY68jifc1mQakXLGckw",
-                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nGame title：STAR WARS™ バトルフロント™ II\nStore page：https://store.steampowered.com/app/1237950/STAR_WARS__II/\n\nーーーー..."
-            }
-        ]
+        "videos": []
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -99,7 +99,7 @@
         "videos": [
             {
                 "video_id": "_KS4ywbrJkc",
-                "title": "【 ELDEN RING NIGHTREIGN 】ラスボス「夜を象る者ナメレス」と「強化カリゴとグノスター」を討伐するまで終われまてん！？なのら！！【姫森ルーナ/ホロライブ】",
+                "title": "【 ELDEN RING NIGHTREIGN 】全ボス (強化含む) 討伐するまで終われまてん！？なのら！！【姫森ルーナ/ホロライブ】",
                 "thumbnail": "https://i.ytimg.com/vi/_KS4ywbrJkc/hqdefault.jpg?v=6898d159&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPNTnVF0Z4-MUj6g0dnmhCz5EDAg",
                 "description": "サムネイラスト\n　Curioきゅりおさん　https://twitter.com/Curio_illust\n\nPS5版でプレイするのら(・o・🍬)\n\nELDEN RING NIGHTREIGN再生リスト\nhttps://www.youtube.com/playli..."
             }
@@ -444,7 +444,14 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "zwWf5WFqKlM",
+                "title": "【晩酌】告知あり！５周年カウントダウン晩酌！【 雪花ラミィ /ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/zwWf5WFqKlM/hqdefault.jpg?v=68988cb0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBb_wUQm4Mj6hYu18QO2MgwFs5unQ",
+                "description": "感想は #らみらいぶ で呟いて頂けたら嬉しいです！\n\nイラスト：まめいりこさま\nhttps://x.com/mameiriko\n\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈୨..."
+            }
+        ]
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
