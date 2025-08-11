@@ -130,15 +130,7 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": [
-            {
-                "video_id": "_KS4ywbrJkc",
-                "title": "【 ELDEN RING NIGHTREIGN 】ラスボス「夜を象る者ナメレス」を討伐するまで終われまてん！？なのら！！【姫森ルーナ/ホロライブ】",
-                "date": "2025/08/11 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/_KS4ywbrJkc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPNTnVF0Z4-MUj6g0dnmhCz5EDAg",
-                "description": "サムネイラスト\n　Curioきゅりおさん　https://twitter.com/Curio_illust\n\nPS5版でプレイするのら(・o・🍬)\n\nELDEN RING NIGHTREIGN再生リスト\nhttps://www.youtube.com/playli..."
-            }
-        ]
+        "videos": []
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -359,7 +351,22 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "amBKfML2HNM",
+                "title": "【】subaoka 【ホロライブ/大空スバル】",
+                "date": "2025/08/12 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/amBKfML2HNM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlInomxr-QAzUamULqHA10fUtdAw",
+                "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n+‥‥‥‥..."
+            },
+            {
+                "video_id": "zkoOi3dvMDQ",
+                "title": "【】【ホロライブ/大空スバル】",
+                "date": "2025/08/11 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/zkoOi3dvMDQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmPTyqWXL_JXwGfGgwIafmnmYmnQ",
+                "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n+‥‥‥‥..."
+            }
+        ]
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -484,7 +491,7 @@
             {
                 "video_id": "qMqjtNmKmgY",
                 "title": "【 Minecraft 】#ホロ鯖サマーパーク 飛行船つくるよ✈✨【鷹嶺ルイ/ホロライブ】",
-                "date": "2025/08/11 17:00:00",
+                "date": "2025/08/11 17:30:00",
                 "thumbnail": "https://i.ytimg.com/vi/qMqjtNmKmgY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxgAywDE-Fgdz1C0vSzpnR7lRomQ",
                 "description": "かわいらしい飛行船つくります☺\n\n⭐参考⭐\nhttps://x.com/Sheltie613\nhttps://x.com/Sheltie613/status/1941410630344507578\n\n【使用MOD】\n使用MOD：Complementary Shaders\n制作者..."
             }
