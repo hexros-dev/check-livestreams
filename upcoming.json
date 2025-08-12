@@ -361,7 +361,15 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "3MYmaZKBm8E",
+                "title": "【予定地】何かの配信をする枠【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "date": "2025/08/12 19:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/3MYmaZKBm8E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC59uDhf5YGPF20IKqMEvPpj7kjCA",
+                "description": "👇18:00までだよ～～～～～”””\n【輪堂千速誕生日記念2025】グッズ発売決定✨\n▽ご購入はこちらから▼\nhttps://shop.hololivepro.com/products/rindochihaya_birt..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
