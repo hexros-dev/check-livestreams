@@ -176,7 +176,15 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "PEJkJChCqdY",
+                "title": "【PEAK】We are peaking【Collab】",
+                "date": "2025/08/13 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/PEJkJChCqdY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCR804D9vlRGPdBzPXRJ0xho7k9bA",
+                "description": "with @AkaiHaato & @ShioriNovella \nGame title: PEAK\nStore page: https://store.steampowered.com/app/3527290/PEAK/\n\n#hololiveenglish  #ホロライブ \n\nStream my NEW EP YaBAI NOW!!\nhttps://cover.lnk...."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
