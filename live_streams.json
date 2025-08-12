@@ -93,7 +93,14 @@
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "j-HAzzYNVGQ",
+                "title": "【＃ぺこマリ体操】ホロメン来るかな？ヴィヴィ、お前への尊敬が増しまくってる。12日目【ホロライブ/兎田ぺこら/宝鐘マリン】",
+                "thumbnail": "https://i.ytimg.com/vi/j-HAzzYNVGQ/hqdefault.jpg?v=689b1934&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJ40pGVyBDk66xjRlvMWoKOjRKBQ",
+                "description": "明日はぺこらチャンネル！@usadapekora \n\nサムネイラスト…メリーはるひな\nhttps://x.com/haru_hololive\n\n🥕 🏴‍☠️  ぺこマリ体操モーション配布中！皆踊..."
+            }
+        ]
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
@@ -363,14 +370,7 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": [
-            {
-                "video_id": "AwwoTfAmICA",
-                "title": "【 Minecraft 】#ホロ鯖サマーパーク 展望台作りたい！【角巻わため/ホロライブ４期生】",
-                "thumbnail": "https://i.ytimg.com/vi/AwwoTfAmICA/hqdefault.jpg?v=689a60c3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOpBWmmlJOwgl3RX9gajM_8VUwWw",
-                "description": "できたらバイキングも作りたいなー！\nタグ：#ホロ鯖サマーパーク\n\n配信タイトル：Minecraft\nストアページ：https://www.minecraft.net/ja-jp\n本ゲームは..."
-            }
-        ]
+        "videos": []
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
