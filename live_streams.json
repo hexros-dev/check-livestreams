@@ -227,14 +227,7 @@
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
-        "videos": [
-            {
-                "video_id": "5xMoOuTVuqA",
-                "title": "【 Minecraft 】#ホロ鯖サマーパーク 自分水族館いいですか。【ホロライブ/夏色まつり】",
-                "thumbnail": "https://i.ytimg.com/vi/5xMoOuTVuqA/hqdefault.jpg?v=689b037d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCCZ0lnZJvhVaO4wyRu-oqAWE9LeA",
-                "description": "...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\n\n素敵なサムネイル→久保田 正輝様\n@_Kmasaki\n\n\n本ゲームは Mojang に確認を得..."
-            }
-        ]
+        "videos": []
     },
     "@NekomataOkayu": {
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
@@ -413,7 +406,14 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "M6hHtwHc_Xo",
+                "title": "【 Minecraft 】#ホロ鯖サマーパーク　お土産やさんを完成まで！✨️🪀【常闇トワ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/M6hHtwHc_Xo/hqdefault.jpg?v=689b0593&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAY0isX02agO5xsZHLciDdVioqucw",
+                "description": "こちらをつくるで～～～い！\nhttps://x.com/tifosi360mode2/status/1943287853703925847\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/term..."
+            }
+        ]
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
