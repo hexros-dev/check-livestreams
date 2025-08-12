@@ -107,14 +107,7 @@
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk",
-        "videos": [
-            {
-                "video_id": "xN8Zl0obfuo",
-                "title": "【PEAK】マリン船長、山賊説ふたたび──3期生で山登り！【ホロライブ/宝鐘マリン】",
-                "thumbnail": "https://i.ytimg.com/vi/xN8Zl0obfuo/hqdefault.jpg?v=689aff08&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0OkPK9OKYLPg9H8B6SwFTw9MeRg",
-                "description": "@usadapekora @ShiranuiFlare @ShiroganeNoel \n\nサムネイラスト…日向\nhttps://x.com/hinatabkmt\n\n配信タイトル：PEAK\nストアページ：https://store.steampowered.com/app/3527290/PEAK/..."
-            }
-        ]
+        "videos": []
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
@@ -138,7 +131,14 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "TqOMvG6ELs8",
+                "title": "【  Minecraft  】#ホロ鯖サマーパーク SUMMER HOUSEの続き♪【ホロライブ DEV_IS 響咲リオナ】",
+                "thumbnail": "https://i.ytimg.com/vi/TqOMvG6ELs8/hqdefault.jpg?v=689b3ca1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBB2KUbhrktW1vgvxXEHKtr_EIDOw",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております。\n\n♡...本日のスパーチ..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -199,7 +199,14 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "bSE8JrZVE-4",
+                "title": "【メン限】メダリスト ep6〜9予定。同時視聴✨【水宮枢／FLOW GLOW】#hololiveDEV_IS",
+                "thumbnail": "https://i.ytimg.com/vi/bSE8JrZVE-4/hqdefault.jpg?v=689b3ade&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9lVTnVbERenUl5gstvDih_c7imA",
+                "description": "​\n▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸◂┄▹◃\n\n💙メンバーシップはこちらから ⬇️\nClick here for membership\nhttps://www.youtube.com/channel/UCjk2nKmHzgH5Xy-C5qYRd..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -371,27 +378,13 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": [
-            {
-                "video_id": "Aji7kWGAbQs",
-                "title": "【PEAK】えっほえっほ3期生で登山しなきゃ！【不知火フレア/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/Aji7kWGAbQs/hqdefault.jpg?v=689b04c3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA62Pid0Bcy0HEthVREMf9hmLpoew",
-                "description": "@usadapekora ぺこら！\n@ShiroganeNoel のえっさん\n@HoushouMarine マソソ～～\n\n■Newシングル「架空と本当」MV公開中✨\nhttps://www.youtube.com/watch?v=1DBMg1dqfhM\n💿各種..."
-            }
-        ]
+        "videos": []
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": [
-            {
-                "video_id": "WHEi_eR7Djo",
-                "title": "【PEAK】三期生の絆で登れ～！！！1日遅れの山登りだ～～～🏔✨【白銀ノエル/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/WHEi_eR7Djo/hqdefault.jpg?v=689ae7fb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_GLlFXC3E5V0xaIWu3pQabxgutQ",
-                "description": "🍀素敵なメンバー🍀\n@HoushouMarine \n@usadapekora \n@ShiranuiFlare \n\n[NEW]🔥焚火ASMRボイス販売中🔥→ https://shop.hololivepro.com/products/hololive_asmr_chillinbythecampfire?_p..."
-            }
-        ]
+        "videos": []
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -427,14 +420,7 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": [
-            {
-                "video_id": "M6hHtwHc_Xo",
-                "title": "【 Minecraft 】#ホロ鯖サマーパーク　お土産やさんを完成まで！✨️🪀【常闇トワ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/M6hHtwHc_Xo/hqdefault.jpg?v=689b0593&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAY0isX02agO5xsZHLciDdVioqucw",
-                "description": "こちらをつくるで～～～い！\nhttps://x.com/tifosi360mode2/status/1943287853703925847\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/term..."
-            }
-        ]
+        "videos": []
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
@@ -532,14 +518,7 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": [
-            {
-                "video_id": "cxAyI_sLGqU",
-                "title": "【PEAK】三期生ではじめての山登りやるぞ～～～！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
-                "thumbnail": "https://i.ytimg.com/vi/cxAyI_sLGqU/hqdefault.jpg?v=689aec22&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCw_JBYaJSm8H3loqMTVrXfr7VdKw",
-                "description": "山の日2日目\n@ShiranuiFlare \n@ShiroganeNoel \n@HoushouMarine \n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシ..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
