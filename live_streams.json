@@ -100,7 +100,14 @@
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "xN8Zl0obfuo",
+                "title": "【PEAK】マリン船長、山賊説ふたたび──3期生で山登り！【ホロライブ/宝鐘マリン】",
+                "thumbnail": "https://i.ytimg.com/vi/xN8Zl0obfuo/hqdefault.jpg?v=689aff08&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0OkPK9OKYLPg9H8B6SwFTw9MeRg",
+                "description": "@usadapekora @ShiranuiFlare @ShiroganeNoel \n\nサムネイラスト…日向\nhttps://x.com/hinatabkmt\n\n配信タイトル：PEAK\nストアページ：https://store.steampowered.com/app/3527290/PEAK/..."
+            }
+        ]
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
@@ -245,7 +252,14 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "m8uYtmc0il0",
+                "title": "【Sushiro HK x Ninomae In'anis】The Ancient Ones Are Calling...For Some Sushi!!!! #PR",
+                "thumbnail": "https://i.ytimg.com/vi/m8uYtmc0il0/hqdefault.jpg?v=689aa590&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCIuX_1YfHA9CnqoYu3JW6kuH_JMQ",
+                "description": "【Twitter】\nhttps://twitter.com/ninomaeinanis\n\n__________________________________________________________________________________________\n\nEndcard Art by Me!\nEndcard Animated by Veranze (https://..."
+            }
+        ]
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -257,14 +271,7 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": [
-            {
-                "video_id": "c6oMoTweMKM",
-                "title": "【 ごろごろマウンテン 】ホロメンをごろごろ転がすゲーム？！【 ホロライブ / 大神ミオ 】",
-                "thumbnail": "https://i.ytimg.com/vi/c6oMoTweMKM/hqdefault.jpg?v=689af601&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCLmZmA-SVGc6t-Ba0YfISfSA2R-w",
-                "description": "岩おじ通ってないため、転がす系ゲームは塊魂以来です！\n\nサムネillustrator：tomatoさん　https://x.com/kikikiko84\n\nゲーム➡ ホロライブごろごろマウンテ..."
-            }
-        ]
+        "videos": []
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -300,7 +307,14 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "KPZL5xI8krM",
+                "title": "【スマブラSP】ザクさん、ボクにスマブラを教えてください　W/zackray【ホロライブ/ ロボ子さん】",
+                "thumbnail": "https://i.ytimg.com/vi/KPZL5xI8krM/hqdefault.jpg?v=689945b9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0bxEmj4jJiMBUDbCyJGKnphD6Kg",
+                "description": "＃ホロライブ　＃スマブラ　＃zackray\nｘでは💬  #ロボ子生放送　でポストしてってね✨\n\nプリンで１勝ちできるようになりますか・・・？\n神..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -312,14 +326,7 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": [
-            {
-                "video_id": "TBu1JUErkMY",
-                "title": "【 グルーヴコースター 】みこが声優⁉新作の フューチャーパフォーマーズで遊ぶにぇぇぇぇ‼🎵【ホロライブ/さくらみこ】",
-                "thumbnail": "https://i.ytimg.com/vi/TBu1JUErkMY/hqdefault.jpg?v=689afc51&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1naJJ2YiHelknaFgQTtgJ7lvNAQ",
-                "description": "みこがボイスアクターで出演する新作音楽ゲーム「グルーヴコースター フューチャーパフォーマーズ」をプレイ！\n\n#PR\n提供：株式会社タイトー..."
-            }
-        ]
+        "videos": []
     },
     "@SamekoSaba": {
         "channel_url": "https://www.youtube.com/@SamekoSaba",
@@ -343,13 +350,27 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Aji7kWGAbQs",
+                "title": "【PEAK】えっほえっほ3期生で登山しなきゃ！【不知火フレア/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/Aji7kWGAbQs/hqdefault.jpg?v=689b04c3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA62Pid0Bcy0HEthVREMf9hmLpoew",
+                "description": "@usadapekora ぺこら！\n@ShiroganeNoel のえっさん\n@HoushouMarine マソソ～～\n\n■Newシングル「架空と本当」MV公開中✨\nhttps://www.youtube.com/watch?v=1DBMg1dqfhM\n💿各種..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "WHEi_eR7Djo",
+                "title": "【PEAK】三期生の絆で登れ～！！！1日遅れの山登りだ～～～🏔✨【白銀ノエル/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/WHEi_eR7Djo/hqdefault.jpg?v=689ae7fb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_GLlFXC3E5V0xaIWu3pQabxgutQ",
+                "description": "🍀素敵なメンバー🍀\n@HoushouMarine \n@usadapekora \n@ShiranuiFlare \n\n[NEW]🔥焚火ASMRボイス販売中🔥→ https://shop.hololivepro.com/products/hololive_asmr_chillinbythecampfire?_p..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -416,7 +437,14 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "7_ldsh__nnc",
+                "title": "【5周年企画】新曲MVお披露目＆グッズ告知あり！VRC雪民さんゲーム大会！【 雪花ラミィ /ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/7_ldsh__nnc/hqdefault.jpg?v=689aded7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDfw1veMzPlLc4W57xkA_YGQgg4Q",
+                "description": "本番インスタンス： https://vrch.at/nbtt7k9h\n\n▼同時配信部屋 (パブリック)\nhttps://vrchat.com/home/launch?worldId=wrld_bf5dabb6-c72b-4b37-8cb0-f4949e5865c0 \nここは、本番イ..."
+            }
+        ]
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
@@ -476,7 +504,14 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "cxAyI_sLGqU",
+                "title": "【PEAK】三期生ではじめての山登りやるぞ～～～！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
+                "thumbnail": "https://i.ytimg.com/vi/cxAyI_sLGqU/hqdefault.jpg?v=689aec22&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCw_JBYaJSm8H3loqMTVrXfr7VdKw",
+                "description": "山の日2日目\n@ShiranuiFlare \n@ShiroganeNoel \n@HoushouMarine \n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシ..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
