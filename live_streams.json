@@ -27,14 +27,7 @@
         "channel_url": "https://www.youtube.com/@AmaneKanata",
         "channel_name": "Kanata Ch. Kanata Amane",
         "avatar_url": "https://yt3.googleusercontent.com/oPU9ckNcyeHD0FFsYSxkoD1mtbslSwdmMSfoCYQWphOu5e7UeCnIF-Nt0hvvF41L5Nykga07nQ",
-        "videos": [
-            {
-                "video_id": "DpYSUe6Ca9o",
-                "title": "【チラ見せ】Amane Kanata 1st Solo Live \"LOCK ON\" 有明アリーナ",
-                "thumbnail": "https://i.ytimg.com/vi/DpYSUe6Ca9o/hqdefault.jpg?v=6892d9e6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXg9sktv8tZpEVy1EQKu_bmE12Ew",
-                "description": "▼公式ハッシュタグ #撃ち抜けかなた \n\n2025年8月13日（水）有明アリーナ Amane Kanata 1st Solo Live \"LOCK ON\" 開催！\n公演の一部をYouTube Liveで無料配信！..."
-            }
-        ]
+        "videos": []
     },
     "@AnyaMelfissa": {
         "channel_url": "https://www.youtube.com/@AnyaMelfissa",
@@ -83,7 +76,14 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "EUt_8iax6Xo",
+                "title": "【ドラゴンボールZ KAKAROT】夏だ！初見だ！ドラゴンボールだ！フリーザ＆ギニュー特戦隊後編いくぞおおおおおおおおお！！！ #3 【博衣こより/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/EUt_8iax6Xo/hqdefault.jpg?v=689b57e8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtaNakNw6cN_RVHwUlMne98T7jHA",
+                "description": "春から決めてた夏配信🌻ほぼ毎日「ドラゴンボールZ KAKAROT」始めます！！🔥\n※ドラゴンボールは少年時代を小学生時代に読んだけど完全に記憶..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
