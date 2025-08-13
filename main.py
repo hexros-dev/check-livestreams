@@ -122,7 +122,7 @@ SKIP_STREAMS = [
     "INFI9FahPY0",  # free chat room Matsuri
     "L701Sxy3ohw",  # free chat room Polka
     "9vaxfw1qFcY",  # free chat room Lui
-    "EdVVFI2oIec"
+    "EdVVFI2oIec", "K2osic0Civk"
 ]  # video id
 
 
