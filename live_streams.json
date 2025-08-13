@@ -289,7 +289,14 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "jb8hEnJ2ZU0",
+                "title": "【Uma Musume: Pretty Derby】 Okay Fine",
+                "thumbnail": "https://i.ytimg.com/vi/jb8hEnJ2ZU0/hqdefault.jpg?v=689c1117&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAI0Gp6xKbwGuo9DXrTTmmSqshThA",
+                "description": "[Twitter]\nhttps://twitter.com/ourokronii\n\nThis game is distributed and monetized in accordance with the distribution guidelines of Cygames, Inc.\nhttps://umamusume.jp/news/detail.php?id=107..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
