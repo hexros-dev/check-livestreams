@@ -117,15 +117,7 @@
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk",
-        "videos": [
-            {
-                "video_id": "2KuHsuN0Cgc",
-                "title": "【＃ぺこマリ体操】ホロメン来るかな？マリン枠最終日！！！ここまで走り抜けた！14日目【ホロライブ/兎田ぺこら/宝鐘マリン】",
-                "date": "2025/08/15 05:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/2KuHsuN0Cgc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJOrXNam_d_ZeXSVXU2hpNUbSnJA",
-                "description": "明日はぺこらチャンネル！@usadapekora \n\nサムネイラスト…なべ\nhttps://x.com/nabe_otome\n\n🥕 🏴‍☠️  ぺこマリ体操モーション配布中！皆踊ってね！..."
-            }
-        ]
+        "videos": []
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
@@ -388,7 +380,15 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "cfX-LD1q930",
+                "title": "【朝活 】あさですよ～～【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "date": "2025/08/15 05:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/cfX-LD1q930/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD50-uDb0YG58X4h_QIyUZoXaResA",
+                "description": "ねむねむだよ～～～\n\n\nサムネイルイラスト：MASATOさま\nhttps://x.com/masatoff\nサムネイル素材：沙雨イニ (https://twitter.com/ININIinNINI)\n\nねえ、いっしょに向..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -605,15 +605,7 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": [
-            {
-                "video_id": "WN3gVX_xT-w",
-                "title": "【RESIDENT EVIL 6】 This game is ridiculous (and awesome) | #2",
-                "date": "2025/08/15 05:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/WN3gVX_xT-w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtBBJ1BDmdKfuWhldxIr50NW1PJg",
-                "description": "With @mintfantome !!! 💚\n\n  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋\n\nKonbakuwa! I'm Nimi, the baku nurse VTuber of your nightmares~\n#VTuber #nimi\n\n☁  Socials  ☁\nhttps://x.com/niminightmare..."
-            }
-        ]
+        "videos": []
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
