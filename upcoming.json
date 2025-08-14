@@ -185,15 +185,7 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": [
-            {
-                "video_id": "zGYPrr_vizE",
-                "title": "【ALIEN: ISOLATION】Pwease don't hurt me alien-chan",
-                "date": "2025/08/15 06:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/zGYPrr_vizE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALrgxe2uOTxqy8orvOsV_qFuf76Q",
-                "description": "Thumbnail Art by:@Castella_yaki THANK YOU!\nhttps://x.com/Castella_yaki/status/1940336451432128574/photo/1\n\nBIRTHDAY MERCH\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/produ..."
-            }
-        ]
+        "videos": []
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -471,7 +463,15 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "CVQWMQwStPw",
+                "title": "【COSPLAY APPRECIATION】judging your Hololive cosplays! #kfp #judgewawa",
+                "date": "2025/08/16 01:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/CVQWMQwStPw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2B5OWu9ed-C-01Y1z9wgPAx4jig",
+                "description": "make your submission on the twitter hashtag #judgewawa - please don't submit selfie-style photos or candids as I want to judge the overall picture with its composition, background, pose etc!..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
