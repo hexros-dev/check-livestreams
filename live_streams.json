@@ -90,14 +90,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "wwDofKjr5Jo",
-                "title": "【ドラゴンボールZ KAKAROT】夏だ！初見だ！ドラゴンボールだ！フリーザ編の次はなんだ！？？？？ #4 【博衣こより/ホロライブ】※ネタバレあり",
-                "thumbnail": "https://i.ytimg.com/vi/wwDofKjr5Jo/hqdefault.jpg?v=689ca63d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTwVgxt08Ilgh5gnyaqBKOQ2SiuA",
-                "description": "春から決めてた夏配信🌻ほぼ毎日「ドラゴンボールZ KAKAROT」始めます！！🔥\n※ドラゴンボールは少年時代を小学生時代に読んだけど完全に記憶..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -272,7 +265,14 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "1vrWIIgFCvs",
+                "title": "【#ホロ鯖サマーパーク】フブキ！！一体ステージはどうなった！！！？マイクラだ！！！！【尾丸ポルカ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/1vrWIIgFCvs/hqdefault.jpg?v=689dfcf2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDSBzhSrTKyAO_8AYvvQ4wKmab9DQ",
+                "description": "ただいまなつやすみまっさいチュウ！\nサマーパークを作るよ！！！！\n#フブポル\n\n\nタグ：#ホロ鯖サマーパーク\n\n本ゲームは Mojang に確認を得た上、..."
+            }
+        ]
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
