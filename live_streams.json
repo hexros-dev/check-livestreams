@@ -135,7 +135,14 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "p2slvbT_sHg",
+                "title": "【 朝活 / FreeTalk 】皆勤賞・・・！？【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "thumbnail": "https://i.ytimg.com/vi/p2slvbT_sHg/hqdefault.jpg?v=689f3fed&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAszfMRIm7ulT8z0qUf29oa5sELTg",
+                "description": "素敵なサムネイルのイラスト 苺大福さん　https://x.com/il_ichi05\n\n✨メンバーシップはこちら✨\nhttps://www.youtube.com/channel/UCGzTVXqMQHa4AgJVJIVvtDQ/join\n\n📢iOS..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -455,14 +462,7 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": [
-            {
-                "video_id": "TonY17qcjSA",
-                "title": "【＃ぺこマリ体操】ホロメン来るかな？みんなと一緒に朝の体操！最終日【ホロライブ/兎田ぺこら/宝鐘マリン】",
-                "thumbnail": "https://i.ytimg.com/vi/TonY17qcjSA/hqdefault.jpg?v=689eef73&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2_ia9QZ-SGHN9nO6XgYGZ_iIDDA",
-                "description": "おはよう！！！！！！！！！！！！！！！！！！！！！！！！！！！\n\nありがとうマリン @HoushouMarine \n\n来てくれたホロメン\n\n🥕 🏴‍☠️ぺこマリ..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
