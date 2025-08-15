@@ -3,7 +3,14 @@
         "channel_url": "https://www.youtube.com/@AZKi",
         "channel_name": "AZKi Channel",
         "avatar_url": "https://yt3.googleusercontent.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "T-Qkg7z8wE0",
+                "title": "【雑談/FreeTalk】かなたんソロライブゲストなど怒涛の一週間【ホロライブ / AZKi】",
+                "thumbnail": "https://i.ytimg.com/vi/T-Qkg7z8wE0/hqdefault.jpg?v=689ea694&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB829H3ZlfOqXTcIPjzECrInLBOnQ",
+                "description": "今週みんなは何が印象的でしたか？\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\nサムネイラスト：kope 様\nhttps://x.com/kope194\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈..."
+            }
+        ]
     },
     "@AiraniIofifteen": {
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
@@ -99,14 +106,7 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": [
-            {
-                "video_id": "LgJhnGLg6wg",
-                "title": "【Members Only】Top Gun Movie Watchalong!",
-                "thumbnail": "https://i.ytimg.com/vi/LgJhnGLg6wg/hqdefault.jpg?v=689eb618&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQd6zVxvcuXtOmN0auWd4vcSKdaw",
-                "description": "Top cruise\n\n#hololiveenglish  #ホロライブ \n\nSTREAM MY NEW ORIGINAL SONG, Diamond Girlfriend Feat.MOTSU▼\nhttps://youtu.be/EXM0EE_NpQc\n\n「Twitter」\nhttps://twitter.com/irys_en\n\n「Hastags」..."
-            }
-        ]
+        "videos": []
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
