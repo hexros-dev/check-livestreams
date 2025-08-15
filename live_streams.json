@@ -160,14 +160,7 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": [
-            {
-                "video_id": "zGYPrr_vizE",
-                "title": "【ALIEN: ISOLATION】Pwease don't hurt me alien-chan",
-                "thumbnail": "https://i.ytimg.com/vi/zGYPrr_vizE/hqdefault.jpg?v=689e517f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALrgxe2uOTxqy8orvOsV_qFuf76Q",
-                "description": "Thumbnail Art by:@Castella_yaki THANK YOU!\nhttps://x.com/Castella_yaki/status/1940336451432128574/photo/1\n\nBIRTHDAY MERCH\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/produ..."
-            }
-        ]
+        "videos": []
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -282,7 +275,14 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "AVulAPIU8p4",
+                "title": "【Headbangers: Rhythm Royale】 Rock n' Roll",
+                "thumbnail": "https://i.ytimg.com/vi/AVulAPIU8p4/hqdefault.jpg?v=689ea98d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9vqaG1DTARWfrD7IMEMnO8M-VWA",
+                "description": "[Twitter]\nhttps://twitter.com/ourokronii\n\nThis game is being streamed and monetized after confirming with © 2020 Team17 Group PLC.\n\n----------------------------------------------------------------..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
@@ -438,7 +438,14 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "I9Nil_GNdMA",
+                "title": "【HANDCAM STREAM】PLEASE SIGNED ONE PLEASE!!!! x11 BOOSTER BOX!",
+                "thumbnail": "https://i.ytimg.com/vi/I9Nil_GNdMA/hqdefault.jpg?v=689de355&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7jswIllTJvttRSidxcM0xHEQs0A",
+                "description": "╭─⋆｡ﾟ♡ RAO ♡｡ﾟ⋆─╮\n\n『 X (formely Twitter) 』  \nhttps://x.com/raorapanthera  \n\n『 Hashtags 』  \n╰┈✧ Live ➤ #CiaoRaora  \n╰┈✧ Fanarts ➤ #RaorArt  \n╰┈✧..."
+            }
+        ]
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
