@@ -419,15 +419,7 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": [
-            {
-                "video_id": "ykyZoZT89zU",
-                "title": "Umamusume: Pretty Derby",
-                "date": "2025/08/16 03:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/ykyZoZT89zU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFv3E4Tm7hz6FKVc0khq6mlb75sA",
-                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n===============..."
-            }
-        ]
+        "videos": []
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
@@ -526,7 +518,15 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "z0LfLcOiMRE",
+                "title": "【 Minecraft 】#ホロ鯖サマーパーク 当日だー！楽しむぞおおお🍿🍭🎈【角巻わため/ホロライブ４期生】",
+                "date": "2025/08/16 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/z0LfLcOiMRE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDt6h7C3210bjj3s0yKy6EiOCX8Lg",
+                "description": "つぼはちでまわったり、おかゆんともあの館へ...？！\nタグ：#ホロ鯖サマーパーク\n\n主催：@SakuraMiko @HoshimachiSuisei \n\n配信タイトル：Minecraft\nストアペ..."
+            }
+        ]
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
