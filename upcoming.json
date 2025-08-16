@@ -237,7 +237,29 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "6UJOkPcRLjo",
+                "title": "【HOTEL TALK】Tomorrow's the Big Day! feat...HoloEN guests?! #calliolive",
+                "date": "2025/08/23 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/6UJOkPcRLjo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRoX0oOlEg0mIE6tDXxMOnBaiSpA",
+                "description": "https://all-for-one.hololivepro.com/\n\nVenue tickets AND streaming tickets are available!\nhttps://all-for-one.hololivepro.com/tickets/\n\nBGM: https://x.com/BigRicePiano\nhttps://x.com/the_arkhand..."
+            },
+            {
+                "video_id": "8VN988rFqow",
+                "title": "【HOTEL TALK】After-Show Chatting!! (maaaaaaybe friends will join?!) #calliolive",
+                "date": "2025/08/24 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/8VN988rFqow/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUEGE5Yzyo-EUD0JAbJnwaCJZbeg",
+                "description": "https://all-for-one.hololivepro.com/\n\nVenue tickets AND streaming tickets are available!\nhttps://all-for-one.hololivepro.com/tickets/\n\nBGM: https://x.com/BigRicePiano\nhttps://x.com/the_arkhand..."
+            },
+            {
+                "video_id": "tn33ztf1dmA",
+                "title": "【Member's Only】Lisa: The Painful (part 1) #calliolive",
+                "date": "2025/08/17 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/tn33ztf1dmA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkxHo18XuLH6nhwMvjDvORQMWJYg",
+                "description": "BGM: https://x.com/BigRicePiano\nhttps://x.com/the_arkhand\nhttps://x.com/alterclad\n\nRequest from hololive Productions to underage viewers\nPlease search for [Request To Minors] or click on the..."
+            }
+        ]
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -379,15 +401,7 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": [
-            {
-                "video_id": "q2pAoYQn1Ks",
-                "title": "【ELDEN RING NIGHTREIGN 】強化リブラ強すぎんだろ！【不知火フレア/ホロライブ】",
-                "date": "2025/08/16 21:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/q2pAoYQn1Ks/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOujlpOR-AKpL_dbwWoqJP2ETIfg",
-                "description": "エルフレからプレイヤーを募集する際の条件\n・参加は一人一回まで\n・フレアが下手、迷子になって怒らないで←重要\n・楽しくプレイできる方..."
-            }
-        ]
+        "videos": []
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
