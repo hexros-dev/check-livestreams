@@ -161,14 +161,7 @@
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
         "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/ACubs_Mw4YtmgHDIIZvW_gZaPf_VR1wg9yffFLsq4Lrw-W7Md-0pK4Gob8OJebCYCmgrArsE",
-        "videos": [
-            {
-                "video_id": "M7whZauFBkM",
-                "title": "【#6 DARK SOULS Ⅲ】完全初見🔰サリヴァーン、おまんを倒す！【虎金妃笑虎】※ネタバレあり",
-                "thumbnail": "https://i.ytimg.com/vi/M7whZauFBkM/hqdefault.jpg?v=689f500b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDse8XkGDoy_0bo60zhGW7P-wFp6Q",
-                "description": "サムネイルのイラストはMireiDaさん！✨\nhttps://x.com/MEReiDaSensei/status/1934865563156979796\n\n本ゲームは株式会社フロム・ソフトウェアに確認を得た上、「動..."
-            }
-        ]
+        "videos": []
     },
     "@KosekiBijou": {
         "channel_url": "https://www.youtube.com/@KosekiBijou",
@@ -314,7 +307,14 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "TdhlUbw75dk",
+                "title": "【 Minecraft 】夏休みの宿題は最後にやるタイプです。さむい家を完成させるゾ！ ＃ホロ鯖サマーパーク 　　【ホロライブ/ ロボ子さん】",
+                "thumbnail": "https://i.ytimg.com/vi/TdhlUbw75dk/hqdefault.jpg?v=68a02920&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwLOags6seugLbzaO1XASxFfzwxA",
+                "description": "#hololive 　\nｘでは💬  #ロボ子生放送　でポストしてってね✨\n\nさむね：https://x.com/aya02ka\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://acc..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
