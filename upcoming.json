@@ -231,15 +231,7 @@
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
         "channel_name": "Moona Hoshinova hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3",
-        "videos": [
-            {
-                "video_id": "fyn4WoVI3SI",
-                "title": "【Membership】Talk or watch? let's see【Moona Hoshinova】",
-                "date": "2025/08/16 20:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/fyn4WoVI3SI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlo0YU7A98vEoJ5Z_zydhMBJWO8A",
-                "description": "Streamlabs donation link here : https://streamlabs.com/moonahoshinovahololive-id/tip\nSociaBuzz donation link here : https://sociabuzz.com/moonahoshinova/tribe\n======================================..."
-            }
-        ]
+        "videos": []
     },
     "@MoriCalliope": {
         "channel_url": "https://www.youtube.com/@MoriCalliope",
@@ -387,7 +379,15 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "q2pAoYQn1Ks",
+                "title": "【ELDEN RING NIGHTREIGN 】強化リブラ強すぎんだろ！【不知火フレア/ホロライブ】",
+                "date": "2025/08/16 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/q2pAoYQn1Ks/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOujlpOR-AKpL_dbwWoqJP2ETIfg",
+                "description": "エルフレからプレイヤーを募集する際の条件\n・参加は一人一回まで\n・フレアが下手、迷子になって怒らないで←重要\n・楽しくプレイできる方..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
