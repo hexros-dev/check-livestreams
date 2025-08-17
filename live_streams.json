@@ -51,14 +51,7 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": [
-            {
-                "video_id": "jTwfreav8SQ",
-                "title": "【#Justice3D 3D COLLAB WATCHALONG】keep your \"enemies\" close 🐾 #holoAdvent【FUWAMOCO｜同時視聴】",
-                "thumbnail": "https://i.ytimg.com/vi/jTwfreav8SQ/hqdefault.jpg?v=689d30b1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATJhdNRsIVn59Da5QmQnObosQEug",
-                "description": "watch our kouhai's 3D debut collab with us ✨️ \n▶ www.youtube.com/watch?v=U0Rfu47fo64\n@ShioriNovella @KosekiBijou @NerissaRavencroft \n\n🩵 FUWAMOCO 𝟮𝗻𝗱 𝗼𝗿𝗶𝗴𝗶𝗻𝗮..."
-            }
-        ]
+        "videos": []
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -76,7 +69,14 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "aGQZXfkSjMQ",
+                "title": "【うたわれるもの 二人の白皇】完全初見！うたわれるもの、はじまったな・・・！！！！！(涙) #3 【博衣こより/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/aGQZXfkSjMQ/hqdefault.jpg?v=68a06af3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkh_lsmRvV200RnLrFJPueane6rA",
+                "description": "完全初見うたわれるもの。1作目、2作目、素晴らしかったです。最高の最後、3作目・・・いきましょう。\n💿1stアルバム「FIRST STEP」発売中！全曲..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -142,7 +142,14 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "zB23htsJWaM",
+                "title": "【 リングフィット アドベンチャー 】Ring Fit ！運動の習慣化！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "thumbnail": "https://i.ytimg.com/vi/zB23htsJWaM/hqdefault.jpg?v=68a0c023&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAb1WsgjlFZ_wvgwx1NNLfCS5sMhw",
+                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\nサムネイルの素敵なイラスト　ちゃんまろるさん　https://x.com/chanmar..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -178,7 +185,14 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "5PZde0CoaMI",
+                "title": "【Cooking Simulator - Sushi】水宮が作った寿司食べて？？🍣【水宮枢／ホロライブDEV_IS】",
+                "thumbnail": "https://i.ytimg.com/vi/5PZde0CoaMI/hqdefault.jpg?v=68a0b391&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCE_r4RxUJjieAQHPxWpJ0q6MaTnA",
+                "description": "本ゲームは PlayWay S.A. の確認を得た上で配信・収益化を行なっております\n▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸◂┄▹◃\n\n💙メンバーシップはこち..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -196,7 +210,14 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "tn33ztf1dmA",
+                "title": "【Member's Only】Lisa: The Painful (part 1) #calliolive",
+                "thumbnail": "https://i.ytimg.com/vi/tn33ztf1dmA/hqdefault.jpg?v=68a08e8f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkxHo18XuLH6nhwMvjDvORQMWJYg",
+                "description": "BGM: https://x.com/BigRicePiano\nhttps://x.com/the_arkhand\nhttps://x.com/alterclad\n\nRequest from hololive Productions to underage viewers\nPlease search for [Request To Minors] or click on the..."
+            }
+        ]
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -438,7 +459,14 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "uLMkU-xc1Hw",
+                "title": "【MEMBERS ONLY】3D JUSTICE COLLAB AFTERPARTY! 🎉",
+                "thumbnail": "https://i.ytimg.com/vi/uLMkU-xc1Hw/hqdefault.jpg?v=68a135c6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3TYqBOEvE7g2bq2wQNjrZr_70RA",
+                "description": "╭─⋆｡ﾟ♡ RAO ♡｡ﾟ⋆─╮\n\n『 X (formely Twitter) 』  \nhttps://x.com/raorapanthera  \n\n『 Hashtags 』  \n╰┈✧ Live ➤ #CiaoRaora  \n╰┈✧ Fanarts ➤ #RaorArt  \n╰┈✧..."
+            }
+        ]
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
@@ -462,7 +490,14 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "P5QEK6YJ6hs",
+                "title": "【FF4】ついにファイナルファンタジー4を初見で遊びます！ぺこ！【ホロライブ/兎田ぺこら】※ネタバレあり",
+                "thumbnail": "https://i.ytimg.com/vi/P5QEK6YJ6hs/hqdefault.jpg?v=68a0cba1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0PxIZfLAVE3CFCZrAGSgWkvi6QQ",
+                "description": "面白すぎた\n\nサムネイラスト：Guchicoさん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
