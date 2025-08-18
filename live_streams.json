@@ -15,20 +15,20 @@
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
         "avatar_url": "https://yt3.googleusercontent.com/ecW_DT7IKBcfKJ1qioYiyU_Iq6EB4_bCZpaG4srWPkEZRsIAiYguEvh7_nELEJqPnbjAktVj6Q",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "HMKysSPCElM",
+                "title": "【オカルトーク】深夜の怖い話！みんなのお便りを読む～っ！👻【ホロライブ/赤井はあと】",
+                "thumbnail": "https://i.ytimg.com/vi/HMKysSPCElM/hqdefault.jpg?v=68a2a964&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWMrx4jcCkw18iPh3ufLbQs7LCFg",
+                "description": "👇ここで怖い話おたより募集中っ！👻\nmarshmallow-qa.com/akaihaato?t\n\n📢赤井はあと生誕祭グッズ販売中‼️9/16(火)18:00までの期間限定❕\n◇販売ページUR..."
+            }
+        ]
     },
     "@AkiRosenthal": {
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": [
-            {
-                "video_id": "grVbrq1y9_g",
-                "title": "アキちょこナイトパレット第1回～ホロライブ深夜ラジオ～",
-                "thumbnail": "https://i.ytimg.com/vi/grVbrq1y9_g/hqdefault.jpg?v=689a0b98&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANlyGOX206hBN4jusu96pGdpF3TQ",
-                "description": "#アキちょこナイパレ でやってほしいコーナー大募集中！\nXでタグをつけてポストしてね！\n前週→ https://youtube.com/live/S20KQBljnmI\n次週→\n\nwith ちょこ先..."
-            }
-        ]
+        "videos": []
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -46,14 +46,7 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": [
-            {
-                "video_id": "E_PCz3eb9eY",
-                "title": "Monday Malam Malas !! Wow, we're still malas ??",
-                "thumbnail": "https://i.ytimg.com/vi/E_PCz3eb9eY/hqdefault.jpg?v=68a3244c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzzq60vjMp_SmAMw1ZentpjHBnxA",
-                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nーーーーーーーーー\n\nSTREAM MY NEWEST ORIGINAL SONG メトロポリス (metropolis) IN YOUR PREFERRED MUSIC STREAMING PLATFROM!!!..."
-            }
-        ]
+        "videos": []
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -65,7 +58,14 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "shssT7PfhZk",
+                "title": "【FUWAMOCO MORNING】episode 169 🐾 #FWMCMORNING",
+                "thumbnail": "https://i.ytimg.com/vi/shssT7PfhZk/hqdefault.jpg?v=68a27be9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnVNZnJvu6GxRRFzg2FB3rk96cfg",
+                "description": "wake up with a smile on your face ✨\nlovely illustration by @wan_wan_00xx 💕\njingle by @Sarina_A_Elysia ♪\n🩵 FUWAMOCO 𝟮𝗻𝗱 𝗼𝗿𝗶𝗴𝗶𝗻𝗮𝗹 𝘀𝗼𝗻𝗴 🩷..."
+            }
+        ]
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -402,7 +402,7 @@
         "videos": [
             {
                 "video_id": "nP0OeJ3ysjw",
-                "title": "【しずかなおそうじ】「花王」さんのお掃除ホラゲ！？【不知火フレア/ホロライブ】",
+                "title": "【配信終了後メン限】酔ったので雑談【不知火フレア/ホロライブ】",
                 "thumbnail": "https://i.ytimg.com/vi/nP0OeJ3ysjw/hqdefault.jpg?v=68a31ee7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBh73NZCrGr-NyMAhiYMZi9JzMCZw",
                 "description": "■Newシングル「架空と本当」MV公開中✨\nhttps://www.youtube.com/watch?v=1DBMg1dqfhM\n💿各種音楽サービス配信版 配信中✨\nhttps://cover.lnk.to/lCta8w\n━━━━━━..."
             }
@@ -532,14 +532,7 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": [
-            {
-                "video_id": "Dk04p-o-nNk",
-                "title": "【ゲリラメン限】ぺこ！【ホロライブ/兎田ぺこら】",
-                "thumbnail": "https://i.ytimg.com/vi/Dk04p-o-nNk/hqdefault.jpg?v=68a33065&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJMeRk9qPRaHg9FUJGdhlGELt5Kw",
-                "description": "ﾃｷとうに\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ #ぺこらいぶ でツイート🎶..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
