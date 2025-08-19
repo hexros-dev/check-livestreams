@@ -129,14 +129,7 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w",
-        "videos": [
-            {
-                "video_id": "8T5rJQA9gY8",
-                "title": "【Is This Seat Taken?】we do a lil bit of puzzles and chill【Kaela Kovalskia / hololiveID】",
-                "thumbnail": "https://i.ytimg.com/vi/8T5rJQA9gY8/hqdefault.jpg?v=68a3cd0b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0g1Vhyp9R1HchHOJ5xB96_gbFBQ",
-                "description": "【Donasi lokal】Traktir yang pahit-pahit kini sangat EZGGWP!~\nLink: https://sociabuzz.com/kaelakovalskia/tribe\n\n#Kaelaif #KaelaKovalskia #holoID #hololive #hololiveID \n∘₊✧──────..."
-            }
-        ]
+        "videos": []
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
@@ -293,7 +286,14 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "1v4DMjUqn2A",
+                "title": "【 日本事故物件監視協会 -Japan Stigmatized Property- 】高性能なこのボクが監視してあげますよ！ｧｨ…👻 【ホロライブ/ ロボ子さん】",
+                "thumbnail": "https://i.ytimg.com/vi/1v4DMjUqn2A/hqdefault.jpg?v=68a3d5cb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYQsgRnkEKACN8FECDHPZ4x634GA",
+                "description": "#hololive 　#日本事故物件監視協会\nｘでは💬  #ロボ子生放送　でポストしてってね✨\n\n配信タイトル：日本事故物件監視協会 Japan Stigmatized Property..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
