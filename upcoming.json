@@ -380,21 +380,21 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": [
-            {
-                "video_id": "ixnW1oLmFEU",
-                "title": "【カメラ枠】ホロカ大開封しゅばあああああああああああああああああああ！！！！！【ホロライブ/大空スバル】",
-                "date": "2025/08/19 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/ixnW1oLmFEU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmdTHEerg3zIsYT_nxwfvLMYcO3w",
-                "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n+‥‥‥‥..."
-            }
-        ]
+        "videos": []
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "pw8ERfW1WGE",
+                "title": "【 R.E.P.O. 】ついに来たレポコラボ！！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+                "date": "2025/08/19 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/pw8ERfW1WGE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB7BXFMKlrntRFcs-59fKw2wlIS2A",
+                "description": "▽レポ中間💕▽\n@TsunomakiWatame \n@ui_shig \n\n▽✨重大告知✨ ▽\n音乃瀬奏 1stオリジナル曲「GREATEST」\n4/20(日) 24：00（4/21  0：00）リリース開始！\nhttps://cover..."
+            }
+        ]
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
