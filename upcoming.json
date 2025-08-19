@@ -389,15 +389,7 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": [
-            {
-                "video_id": "cpJATemrVWk",
-                "title": "2025 Gamescom Watchalong",
-                "date": "2025/08/20 00:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/cpJATemrVWk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcDGZbz3zPer4S9FybOqYNths8UA",
-                "description": "Gamescom: https://www.youtube.com/live/74oh7zD_jxI?feature=shared\n\nHashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStor..."
-            }
-        ]
+        "videos": []
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
@@ -429,7 +421,15 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "yxKFOmn7kGo",
+                "title": "【#ホロ7DTDハード Day10】次なる大地は雪山！お引越しするぞ～！❅【獅白ぼたん/ホロライブ】",
+                "date": "2025/08/20 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/yxKFOmn7kGo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBa9k1ifzEBtXpsinF5v7ffaIO3HQ",
+                "description": "砂漠エリアは無事クリアしたので雪山バイオームへお引越し！\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n🔸新着情報/New!\n┈┈┈┈┈┈┈┈┈┈┈┈..."
+            }
+        ]
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
