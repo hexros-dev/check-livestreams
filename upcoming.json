@@ -301,7 +301,15 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ru_rnXXm5gI",
+                "title": "【Storyteller】Let Me Tell You A Story About A Storyteller Who Told Stories About Telling Stories",
+                "date": "2025/08/20 07:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ru_rnXXm5gI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb7mnFrR-RQXIXampjMgQrzSfvLA",
+                "description": "【Thumbnail Art】\n\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\nGame titles：Storyteller\nStore page：https://store.steampowered.com/app/1624540/Storyteller/\n_______________________________..."
+            }
+        ]
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -515,15 +523,7 @@
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48",
-        "videos": [
-            {
-                "video_id": "JUwTVz5maMU",
-                "title": "【UNARCHIVED KARAOKE】 Happy Birthday Queen Mum ~! 💄",
-                "date": "2025/08/20 01:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/JUwTVz5maMU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVO0K3g8bkn_Np5aRN8swfGI50ng",
-                "description": "She wanted this for her Birthday. 1 hour'ish of hand picked tunes by the Queen Mother. \n*  Art by KeenBiscuit https://x.com/keenbiscuit/status/1915729750737453408/photo/1 \n▬▬ι═════..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_gigimurin": {
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
