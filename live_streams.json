@@ -335,7 +335,14 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "v4bR8rbid80",
+                "title": "【縦型歌枠】前回の歌枠リベンジ！お昼にちょいと歌いたい気分🎶【白銀ノエル/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/v4bR8rbid80/hqdefault.jpg?v=68a4a7db&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgCE2TdGjSc00pFLgFwVah7m2ayw",
+                "description": "🌙新曲「トレビアンナイト」MV公開中🌙\nhttps://youtu.be/p9NBMIUOGM0?feature=shared\n\n💙白銀ノエル6周年＆新衣装グッズ！期間限定販売中💙\nhttps://shop.hololiv..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -431,14 +438,7 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": [
-            {
-                "video_id": "Hv_55sjQKGI",
-                "title": "【GRWM✈️】Time to pack my bags… America here I come! HELP ME!!!🧳",
-                "thumbnail": "https://i.ytimg.com/vi/Hv_55sjQKGI/hqdefault.jpg?v=68a497c2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBe9Ts8t3QygSVtY2QX_elf8aELbg",
-                "description": "╭─⋆｡ﾟ♡ RAO ♡｡ﾟ⋆─╮\n\n『 X (formely Twitter) 』  \nhttps://x.com/raorapanthera  \n\n『 Hashtags 』  \n╰┈✧ Live ➤ #CiaoRaora  \n╰┈✧ Fanarts ➤ #RaorArt  \n╰┈✧..."
-            }
-        ]
+        "videos": []
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
