@@ -305,7 +305,15 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "GAkwPTEwcGs",
+                "title": "【 告知あり 】エアホッケーで勝たないと告知できないって本当ですか？【 大神ミオ / 猫又おかゆ 】",
+                "date": "2025/08/21 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/GAkwPTEwcGs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPE4RctPhCzSOPjJ6ydoz00lJFwg",
+                "description": "告知するには、エアホッケーで勝たないといけない・・？\n\n🌟メンバー🌟\n猫又おかゆ @NekomataOkayu \n大神ミオ @OokamiMio \n\n本ゲームは ダットジャパン..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
