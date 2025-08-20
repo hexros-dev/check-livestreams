@@ -106,7 +106,14 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "tvw24XmekUA",
+                "title": "【Balatro】Learning how to Card",
+                "thumbnail": "https://i.ytimg.com/vi/tvw24XmekUA/hqdefault.jpg?v=68a5426b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3r4_TVzSJbE-fccv0maa8BUIMiA",
+                "description": "aaa #hololiveenglish  #ホロライブ \nThis game is being streamed and monetized after confirming with Playstack.\n\nStream my NEW EP YaBAI NOW!!\nhttps://cover.lnk.to/39qmMB\n\nSTREAM MY NEW ORIGINAL..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -275,7 +282,14 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "FpF5Z9oZ9jE",
+                "title": "【Frostpunk 2】 Leave Me Alone I'm Trying",
+                "thumbnail": "https://i.ytimg.com/vi/FpF5Z9oZ9jE/hqdefault.jpg?v=68a5424c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3Gw8rGaMOkv_9IlUYM14DPh4KOA",
+                "description": "[Twitter]\nhttps://twitter.com/ourokronii\n\n[Thumbnail Art]\nhttps://x.com/EmpiKuro\n\nThis game is being streamed and monetized after confirming with 11 bit studios.\n\n----------------------------------..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
