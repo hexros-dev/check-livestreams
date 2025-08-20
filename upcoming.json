@@ -79,7 +79,15 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "197OEpjj8RI",
+                "title": "≪FREE CHAT/VSPACER CHAT≫ WAZZUP!",
+                "date": "2025/08/31 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/197OEpjj8RI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCR5wn5H4ol-Gh3N7gZITTtiyXpUA",
+                "description": "free chat space for schedule/ twitter space chat/ hang out\n\n≪ FIRST ORIGINAL「PLAY DICE!」≫\nhttps://youtu.be/na6bysYNuS0\nhttps://cover.lnk.to/PlayDice\n\n#holocouncil\n#hololiveEnglish\n..."
+            }
+        ]
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -443,15 +451,7 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": [
-            {
-                "video_id": "gVyTmqeRCLY",
-                "title": "【メンバー限定】寝る前にラミィとお話しよ？【雪花ラミィ /ホロライブ】",
-                "date": "2025/08/20 21:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/gVyTmqeRCLY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABwrcabS67ry8WUcoo0ue1bUs6SA",
-                "description": "※23時になったらメンバー限定配信に切り替わります\n　At23:00 p.m., the distribution will switch to members-only distribution.\n　メン限で話した内容は内緒でお願..."
-            }
-        ]
+        "videos": []
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
