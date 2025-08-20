@@ -67,15 +67,7 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": [
-            {
-                "video_id": "ckmLlctcHm8",
-                "title": "【OKAYUNYUMU】a taste of the sultry okayu visual novel game 🐾 【FUWAMOCO｜おかゆにゅ～む】",
-                "date": "2025/08/20 07:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/ckmLlctcHm8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhiiTvzD0jSkkh0pTRP9-muPukhg",
-                "description": "it's finally out in English so let's play all we can together ✨\n\n🩵 FUWAMOCO 𝟮𝗻𝗱 𝗼𝗿𝗶𝗴𝗶𝗻𝗮𝗹 𝘀𝗼𝗻𝗴 \"Lifetime Showtime\" 🩷\n✨️WATCH MV✨️..."
-            }
-        ]
+        "videos": []
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -251,13 +243,6 @@
                 "date": "2025/08/24 10:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/8VN988rFqow/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUEGE5Yzyo-EUD0JAbJnwaCJZbeg",
                 "description": "https://all-for-one.hololivepro.com/\n\nVenue tickets AND streaming tickets are available!\nhttps://all-for-one.hololivepro.com/tickets/\n\nBGM: https://x.com/BigRicePiano\nhttps://x.com/the_arkhand..."
-            },
-            {
-                "video_id": "jFQE2VMnGCg",
-                "title": "【ELDEN RING】take your grasses off, everything is wrong (part 5) #calliolive",
-                "date": "2025/08/20 08:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/jFQE2VMnGCg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCm6_TsXzkNYgZS_bGwnZQ4zhO7Ug",
-                "description": "BGM: https://x.com/BigRicePiano\nhttps://x.com/the_arkhand\nhttps://x.com/alterclad\n\nRequest from hololive Productions to underage viewers\nPlease search for [Request To Minors] or click on the..."
             }
         ]
     },
@@ -309,15 +294,7 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": [
-            {
-                "video_id": "ru_rnXXm5gI",
-                "title": "【Storyteller】Let Me Tell You A Story About A Storyteller Who Told Stories About Telling Stories",
-                "date": "2025/08/20 07:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/ru_rnXXm5gI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb7mnFrR-RQXIXampjMgQrzSfvLA",
-                "description": "【Thumbnail Art】\n\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\nGame titles：Storyteller\nStore page：https://store.steampowered.com/app/1624540/Storyteller/\n_______________________________..."
-            }
-        ]
+        "videos": []
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -481,7 +458,15 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "I2o7MplrtrU",
+                "title": "【 #ホロ7DTDハード | DAY10 】DAY10！雪山へお引越し！７Days to Die！【角巻わため/ホロライブ４期生】",
+                "date": "2025/08/20 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/I2o7MplrtrU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEjg4mTBpyJVRW-0b-DcVOt3ssaA",
+                "description": "まだまだ暑いから雪山助かる～！\n\n主催：@OokamiMio \nタグ：#ホロ7DTDハード\n\n配信タイトル：7 Days to Die\nストアページ：https://store.steampowered.com/app/251570/..."
+            }
+        ]
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -535,15 +520,7 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": [
-            {
-                "video_id": "Hv_55sjQKGI",
-                "title": "【GRWM✈️】Time to pack my bags… America here I come! HELP ME!!!🧳",
-                "date": "2025/08/20 08:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Hv_55sjQKGI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBe9Ts8t3QygSVtY2QX_elf8aELbg",
-                "description": "╭─⋆｡ﾟ♡ RAO ♡｡ﾟ⋆─╮\n\n『 X (formely Twitter) 』  \nhttps://x.com/raorapanthera  \n\n『 Hashtags 』  \n╰┈✧ Live ➤ #CiaoRaora  \n╰┈✧ Fanarts ➤ #RaorArt  \n╰┈✧..."
-            }
-        ]
+        "videos": []
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
