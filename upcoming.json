@@ -429,7 +429,15 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "D-Cn6hCBZgw",
+                "title": "【Minecraft】まったりマイクラ【ホロライブ/ときのそら】",
+                "date": "2025/08/21 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/D-Cn6hCBZgw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3K9ihIzUS71eAPwgPKXsd7Vu-eA",
+                "description": "ひたすら作業しながらお話がしたい。\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
@@ -512,10 +520,10 @@
         "videos": [
             {
                 "video_id": "mwhcZmc6-s8",
-                "title": "【配信予定地】#あずいろ カップヘッド耐久予定地【【風真いろは/ホロライブ】",
+                "title": "【Cuphead】オフコラボ🏠#あずいろ夏合宿 🌻クリア耐久!?【AZKi&風真いろは/ホロライブ】",
                 "date": "2025/08/22 17:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/mwhcZmc6-s8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqKRFWMJV4VV_PmoiedseU5CcVKw",
-                "description": "*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――\n\n💚風真いろはからのおしらせ💚\n\n\n🎤風真いろは 新オリ曲..."
+                "description": "あずきち・・・\n夏の終わりにカップヘッドがんばろうね・・・\n@AZKi \n#あずいろ #クリア耐久\n\nオフコラボです！音質注意サムネイラスト\nhttps://x.com/..."
             }
         ]
     },
