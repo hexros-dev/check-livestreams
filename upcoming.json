@@ -390,7 +390,15 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "vT77HoEuKEc",
+                "title": "【 #ホロ7DTDハード 】雪山でクエストこなすど～～～！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "date": "2025/08/22 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/vT77HoEuKEc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdfnF0dorEBrYi_RTtgzFBlwePFg",
+                "description": "初めての7day!がんばるぞ～～～～！！！！\n\n\n主催：‪ミオ先輩！　@OokamiMio \nタグ：#ホロ7DTDハード\n\n配信タイトル：7 Days to Die\nhttps://store.steampowered.com..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -416,15 +424,7 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": [
-            {
-                "video_id": "4n02dZlcUFA",
-                "title": "【 はいしんよてち！ 】【ホロライブ/さくらみこ】",
-                "date": "2025/08/22 18:15:00",
-                "thumbnail": "https://i.ytimg.com/vi/4n02dZlcUFA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXRt8tEidWBDDr1LzLznd9LnoKUw",
-                "description": "🌸#さくらみこ7周年 記念グッズはこちら！🌸\n⏰2025年09月01日 18時00分 まで 〆切\nhttps://shop.hololivepro.com/products/sakuramiko_anniversary_7th\n\n⪩⪨　お知らせ/..."
-            }
-        ]
+        "videos": []
     },
     "@SamekoSaba": {
         "channel_url": "https://www.youtube.com/@SamekoSaba",
