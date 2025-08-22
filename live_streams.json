@@ -123,20 +123,20 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": [
-            {
-                "video_id": "_h0EymF5ZD0",
-                "title": "【らでん自習室】8月22日10:00~11:00 【儒烏風亭らでん/ReGLOSS】",
-                "thumbnail": "https://i.ytimg.com/vi/_h0EymF5ZD0/hqdefault.jpg?v=68a7309e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwtAw3lPA08h6cbBQHl3vlGeDG7Q",
-                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\nらでん自習室とは……？\n8月31日までの夏休み..."
-            }
-        ]
+        "videos": []
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "GuYxgr7AUuw",
+                "title": "【Umamusume: Pretty Derby】TAURUS CUP: we have 5 chances and a dream【Kaela Kovalskia / hololiveID】",
+                "thumbnail": "https://i.ytimg.com/vi/GuYxgr7AUuw/hqdefault.jpg?v=68a7c2a2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwbFGl8ZYqTkSglektToa9tBafPA",
+                "description": "【Donasi lokal】Traktir yang pahit-pahit kini sangat EZGGWP!~\nLink: https://sociabuzz.com/kaelakovalskia/tribe\n\n#Kaelaif #KaelaKovalskia #holoID #hololive #hololiveID \n∘₊✧──────..."
+            }
+        ]
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
@@ -178,7 +178,14 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "wPPJD1ktC78",
+                "title": "【声マネキング】モノマネ最弱✋一旦赤点回避したい【水宮枢／ホロライブDEV_IS】",
+                "thumbnail": "https://i.ytimg.com/vi/wPPJD1ktC78/hqdefault.jpg?v=68a76486&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNCwR4qZvp5tpOhAkbbGqa2xW8Pg",
+                "description": "本ゲームは宮澤 卓宏様の許諾を受けて配信・収益化を行っております。\n▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸◂┄▹◃\n\n💙メンバーシップはこちら..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -442,14 +449,7 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": [
-            {
-                "video_id": "8tpHSsdm65s",
-                "title": "【SKYBLOCK MINECRAFT】 The one where Nimi makes a mob farm | Day 2",
-                "thumbnail": "https://i.ytimg.com/vi/8tpHSsdm65s/hqdefault.jpg?v=68a78b7b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1Mp4MGm6cr7mfwq_rcbu-P9zs-g",
-                "description": "Kon-block-uu-wa\n\nminecraft skin by Elegancki\nThank you very much!!\n\n  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋\n\nKonbakuwa! I'm Nimi, the baku nurse VTuber of your nightmares~\n#VTuber #nimi..."
-            }
-        ]
+        "videos": []
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
