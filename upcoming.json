@@ -161,7 +161,15 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "_vyduA98lP0",
+                "title": "【CHEERING ROOM】#holoAllforOne",
+                "date": "2025/08/28 06:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/_vyduA98lP0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzDtEsFH37ss2lVFDdSenMNk7NZA",
+                "description": "「Twitter」\nhttps://twitter.com/irys_en\n\n「Hashtags」\n• General: #IRyS\n#hololive #ホロライブ #hololiveenglish \n＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -209,7 +217,15 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "GOBISg2tZmE",
+                "title": "【らでん自習室】8月23日10:00~11:00 【儒烏風亭らでん/ReGLOSS】",
+                "date": "2025/08/23 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/GOBISg2tZmE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnRD3IgDASTFFlD2hG9BHwbxMx0Q",
+                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\nらでん自習室とは……？\n8月31日までの夏休み..."
+            }
+        ]
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
