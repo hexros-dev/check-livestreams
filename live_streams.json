@@ -145,14 +145,7 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": [
-            {
-                "video_id": "94Kbrh0mABY",
-                "title": "【縦型雑談歌枠】土曜日♪うたうぞおおお♡【ホロライブ DEV_IS 響咲リオナ】",
-                "thumbnail": "https://i.ytimg.com/vi/94Kbrh0mABY/hqdefault.jpg?v=68a9668e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtV4ivSi2ehC3m1xgxPsmpiRdizg",
-                "description": "【speical thanks】\n生音風カラオケ屋www.youtube.com/ ‪@namakara ‬ \nこのライブに用いている一部の音源は、株式会社エクシングより提供されています。..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -248,7 +241,14 @@
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "I2zPBi9hLG0",
+                "title": "【 APEX 】ハセまつりでえっさほいさ！！！【ホロライブ/夏色まつり】",
+                "thumbnail": "https://i.ytimg.com/vi/I2zPBi9hLG0/hqdefault.jpg?v=68a96bd8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_v7UQpS_T-x0dboGmiR1c0Ike5w",
+                "description": "...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\n\n素敵なサムネイル→もぬけ様\n@monu_oekaki\n\n\n本ゲームは © 2020 Electronic..."
+            }
+        ]
     },
     "@NekomataOkayu": {
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
