@@ -175,14 +175,7 @@
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
         "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/ACubs_Mw4YtmgHDIIZvW_gZaPf_VR1wg9yffFLsq4Lrw-W7Md-0pK4Gob8OJebCYCmgrArsE",
-        "videos": [
-            {
-                "video_id": "R4KlHtzsxco",
-                "title": "【#７ DARK SOULS Ⅲ】完全初見🔰パリィがあれば何でもできる、、もう何も怖くなイ【虎金妃笑虎】※ネタバレあり",
-                "thumbnail": "https://i.ytimg.com/vi/R4KlHtzsxco/hqdefault.jpg?v=68a863c1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-bqDXIcK9tP3tcfLqupeZktdSrQ",
-                "description": "サムネイルのイラストはおいぬさん！✨\nhttps://x.com/wonderful_512/status/1955917314131681666\n\n本ゲームは株式会社フロム・ソフトウェアに確認を得た上、「..."
-            }
-        ]
+        "videos": []
     },
     "@KosekiBijou": {
         "channel_url": "https://www.youtube.com/@KosekiBijou",
@@ -321,7 +314,14 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "iHwAdYKZMZE",
+                "title": "【 Poppy Playtime２👻 】怖い工場に出戻りしました…いつかドーイに会うために… 【ホロライブ/ ロボ子さん】",
+                "thumbnail": "https://i.ytimg.com/vi/iHwAdYKZMZE/hqdefault.jpg?v=68a5476f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgyvv3bICNsGJFrffIugaWPDCvZg",
+                "description": "#hololive 　#poppyplaytime  　\nｘでは💬  #ロボ子生放送　でポストしてってね✨\n\nドーイのイラストをみて興味をひかれたのが運の尽き\n奴は４まで出て..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
