@@ -76,20 +76,20 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "77ljsORjvks",
-                "title": "【うたわれるもの 二人の白皇】完全初見！傾国こわい何もかもうまくいけええええええ！！！ #4 【博衣こより/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/77ljsORjvks/hqdefault.jpg?v=68a7fc1f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYhMzGg9pOA6EyWoHdTMNMHs6UWQ",
-                "description": "完全初見うたわれるもの。1作目、2作目、素晴らしかったです。最高の最後、3作目・・・いきましょう。\n💿1stアルバム「FIRST STEP」発売中！全曲..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "tBuz-nWxVdM",
+                "title": "【 ミニ四駆 】ぞうしゃん作るのらああああ！！！🐘 MAKING MINI 4WD ELEPHANT RACER　第４回【姫森ルーナ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/tBuz-nWxVdM/hqdefault.jpg?v=68a896a7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9BLW61IExI0xjvgkpqDDW3Cgfdw",
+                "description": "サムネイラスト\n　しいたけさん　https://twitter.com/siitake_hat\n\nミニ四駆作る再生リスト\nhttps://www.youtube.com/playlist?list=PL6gUpTCMieF7OzIHoQHY2FAF8ykSUHC6d\n\nみんな..."
+            }
+        ]
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -145,7 +145,14 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "CpJVL0GEwr0",
+                "title": "【  Minecraft  】マイクラバーサスFLOW GLOW参戦！！✨【ホロライブ DEV_IS 響咲リオナ】",
+                "thumbnail": "https://i.ytimg.com/vi/CpJVL0GEwr0/hqdefault.jpg?v=68a8957f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtcgVSJiGB65cZWnBwa2lTNMbJdg",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております。\n\n「マイクラバーサス..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -163,7 +170,14 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "QwF5YBFmaUA",
+                "title": "【 Minecraft 】マイクラバーサス!🟡黄色！FLOW GLOWチーム🟡楽しむぞおおお【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "thumbnail": "https://i.ytimg.com/vi/QwF5YBFmaUA/hqdefault.jpg?v=68a8cac4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCiLpRE1xNFLafuQugIOgTUwimJtg",
+                "description": "「マイクラバーサス 〜ハッピーガスト スカイバトル！」は、PvPと敵Mobの撃破が融合したポイント制バトル！\n5人乗りになったハッピーガストで、..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -175,7 +189,14 @@
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
         "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/ACubs_Mw4YtmgHDIIZvW_gZaPf_VR1wg9yffFLsq4Lrw-W7Md-0pK4Gob8OJebCYCmgrArsE",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "o71wDDAxg_Q",
+                "title": "【Minecraft】マイクラバーサス！FGの真打、、虎とはニコたんのことッ！【虎金妃笑虎】",
+                "thumbnail": "https://i.ytimg.com/vi/o71wDDAxg_Q/hqdefault.jpg?v=68a970e0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABQvhkzdk2DKA1bu0DHD3BBcao9g",
+                "description": "サムネイルのイラストは\nMireiDaさん！\nhttps://x.com/MEReiDaSensei/status/1954110495880859851\nBYOIさん！\nhttps://x.com/shoi_1035/status/1954902112057639140\n\n「マイクラバーサ..."
+            }
+        ]
     },
     "@KosekiBijou": {
         "channel_url": "https://www.youtube.com/@KosekiBijou",
@@ -199,7 +220,14 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "iWqRItVK8-E",
+                "title": "【Minecraft】マイクラバーサス！FGチームで頑張るぞ💪【水宮枢／ホロライブDEV_IS】",
+                "thumbnail": "https://i.ytimg.com/vi/iWqRItVK8-E/hqdefault.jpg?v=68a76522&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcGfp4Nm6bI-FPBx0uySWoKUM-mw",
+                "description": "@RindoChihaya @KoganeiNiko @KikiraraVivi @IsakiRiona \n「マイクラバーサス 〜ハッピーガスト スカイバトル！」は、PvPと敵Mobの撃破が融合したポイント制バトル..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -315,7 +343,14 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "og9isVtPjbM",
+                "title": "【Minecraft】マイクラバーサス！FGかつぞ～～～～！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "thumbnail": "https://i.ytimg.com/vi/og9isVtPjbM/hqdefault.jpg?v=68a8a87d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPnKOQtwaRjE-Qt8wEX2etc77WvQ",
+                "description": "「マイクラバーサス 〜ハッピーガスト スカイバトル！」は、PvPと敵Mobの撃破が融合したポイント制バトル！\n5人乗りになったハッピーガストで、..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -358,7 +393,14 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "taUBIzTWgms",
+                "title": "【＃６】　星のカービィ ディスカバリー/Kirby and the Forgotten Land　【ホロライブ/白上フブキ】",
+                "thumbnail": "https://i.ytimg.com/vi/taUBIzTWgms/hqdefault.jpg?v=68a97660&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAIHFzOYJf02ZW6yC2M9Dl3TKbktQ",
+                "description": "Nintendo Switch 2 で遊ぶ、カービィの2つの冒険。\n『星のカービィ ディスカバリー Nintendo Switch 2 Edition ＋ スターリーワールド』が8月28日に発売決定。..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -401,7 +443,14 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "VRqk5sIJ2hM",
+                "title": "＃3【JUDGE EYES：死神の遺言】初見でいくジャッジアイズ！4章から！【轟はじめ/ReGLOSS】※ネタバレあり",
+                "thumbnail": "https://i.ytimg.com/vi/VRqk5sIJ2hM/hqdefault.jpg?v=68a84e64&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbhh1MMbsgQ6bxDLV1QTCwnjoysQ",
+                "description": "この動画およびライブは、コンテンツ利用許諾契約に基づいて配信しています。\n©SEGA\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n✨宣伝✨\n新曲⚡B..."
+            }
+        ]
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
