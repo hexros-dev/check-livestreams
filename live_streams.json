@@ -15,14 +15,7 @@
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
         "avatar_url": "https://yt3.googleusercontent.com/ecW_DT7IKBcfKJ1qioYiyU_Iq6EB4_bCZpaG4srWPkEZRsIAiYguEvh7_nELEJqPnbjAktVj6Q",
-        "videos": [
-            {
-                "video_id": "FkCfFccfzQY",
-                "title": "【着信】もしもしもしもしもしもしもしもしもしもし【あり】",
-                "thumbnail": "https://i.ytimg.com/vi/FkCfFccfzQY/hqdefault.jpg?v=68ab6d4c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5ea97DTSg2z4m2sOwSOS1A6_5AQ",
-                "description": "📢赤井はあと生誕祭グッズ販売中‼️9/16(火)18:00までの期間限定❕\n◇販売ページURL\nhttps://shop.hololivepro.com/products/akaihaato_birthday_2025\n📢新曲『感触』..."
-            }
-        ]
+        "videos": []
     },
     "@AkiRosenthal": {
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
@@ -250,7 +243,14 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "fkQe2u2nDig",
+                "title": "【 #朝ミオ 】真夏の朝！月曜日だよ～！おはみぉーん☀",
+                "thumbnail": "https://i.ytimg.com/vi/fkQe2u2nDig/hqdefault.jpg?v=68aab1cf&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbxzf9xQmsMShYNkttXSrCPeHCDA",
+                "description": "暑すぎる・・！\n\n#朝ミオおたより Twitter(X)で募集中です🌟\n今回紹介するお題は、『今やってみたい自由研究』です！\n\nサムネillustrator：トゥーミさ..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
