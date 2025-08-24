@@ -201,14 +201,7 @@
         "channel_url": "https://www.youtube.com/@NakiriAyame",
         "channel_name": "Nakiri Ayame Ch. 百鬼あやめ",
         "avatar_url": "https://yt3.googleusercontent.com/3CeLWGYb6cLUywTJzNt-UpITviNxeGNvtjhIqbV-AIybCqCoFw9onWtg91bjwpqvfEP9mfqIR4Q",
-        "videos": [
-            {
-                "video_id": "5wOimVAtXoA",
-                "title": "【 歌枠 】重大告知アリ！な歌枠　【百鬼あやめ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/5wOimVAtXoA/hqdefault.jpg?v=68aac9c7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfWLl6kekaZZUaAwou0SlNhIgl5w",
-                "description": "- - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - -ഒ˖°\n\n\n　　👰ホロライブ ジューンブライドボイス2025👑\n　　https://shop.h..."
-            }
-        ]
+        "videos": []
     },
     "@NanashiMumei": {
         "channel_url": "https://www.youtube.com/@NanashiMumei",
@@ -220,7 +213,14 @@
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "1IUgT__sr5E",
+                "title": "【歌枠】バラード【ホロライブ/夏色まつり】",
+                "thumbnail": "https://i.ytimg.com/vi/1IUgT__sr5E/hqdefault.jpg?v=68ab2cfe&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5N3OlEWibycaMsYMGShI04wtGcQ",
+                "description": "...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\n\n素敵なサムネイル→HAL様\n@haldayo913\n\n\n...｡oо○**○оo｡...｡oо○**○оo｡......"
+            }
+        ]
     },
     "@NekomataOkayu": {
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
@@ -374,14 +374,7 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": [
-            {
-                "video_id": "zV7LoDvQsdI",
-                "title": "【 同時視聴/Watchalong 】『ウマ娘 プリティーダービー Season 2』第9～13話＋各話のモデルになった実際のレース【鷹嶺ルイ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/zV7LoDvQsdI/hqdefault.jpg?v=68aa09fb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmBpfQSydMUxtD4ENfMbOaLaIgRQ",
-                "description": "Umamusume: Pretty Derby Season 2 Watchalong‼\n\n✨🏇今回観る実際のレース🏇✨\n1993/05/30　東京優駿(GI)\nhttps://youtu.be/gORjMqOIkrg?si=zgBFItlyUBQ5GHvP\n1993/05/16　安田記念..."
-            }
-        ]
+        "videos": []
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
@@ -510,13 +503,6 @@
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": [
-            {
-                "video_id": "hT8C6kMaOV4",
-                "title": "【Minecraft】視聴者１００人サーバーを観光してみる！！！！！　#結城さくな生放送",
-                "thumbnail": "https://i.ytimg.com/vi/hT8C6kMaOV4/hqdefault.jpg?v=68aaf35d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5FzAtctYs31Qp6yJDoVOVklR9HA",
-                "description": "なんと今回はミニ3Dでやってみます\n\n🎀グッズ・ボイス販売はこちら🐾\nhttps://yuki-sakuna.stores.jp/\n\n🎀歌ってみた動画🐾\nhttps://youtube.com/playlist?list=PLEr..."
-            }
-        ]
+        "videos": []
     }
 }
