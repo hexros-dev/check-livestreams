@@ -67,13 +67,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/oPU9ckNcyeHD0FFsYSxkoD1mtbslSwdmMSfoCYQWphOu5e7UeCnIF-Nt0hvvF41L5Nykga07nQ",
         "videos": [
             {
-                "video_id": "OouJXlZYTOI",
-                "title": "【キャプテン翼】#2 初見キャプ翼！ミリしらサッカー！！！ / Captain Tsubasa: Rise of New Champions【天音かなた/ホロライブ】※ネタバレあり",
-                "date": "2025/08/24 11:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/OouJXlZYTOI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCCeC8DxlNSpe3hrQBcGNCrfCzBrQ",
-                "description": "普通のサッカーかな違うのかな\n\n前　01　→\n次　03　→　\n\n⚽再生リスト⚽\nhttps://www.youtube.com/playlist?list=PLNvxSJodVoAsMzvdibrx2wbp9m7HmUJs_\n\nキャプテン翼..."
-            },
-            {
                 "video_id": "YwX0IuVl6NU",
                 "title": "【作業用BGM】第9回 #ゴリレバ 定期深夜Chillラジオ【天音かなた、雪花ラミィ/ホロライブ】",
                 "date": "2025/08/28 21:00:00",
@@ -179,7 +172,15 @@
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
         "channel_name": "Suisei Channel",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "aBl8w54hT9o",
+                "title": "【 #ホロマイクラ人狼RPG 】食べたい食べたい食べたい🐺【ホロライブ / 星街すいせい】",
+                "date": "2025/08/24 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/aBl8w54hT9o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBt0BVzfSvZ56vDe0hj1h4Tq58yJw",
+                "description": "☄2025.1.22 3rdフルアルバム『新星目録』発売中！！☄\nhttps://cover.lnk.to/SHINSEIMOKUROKU\n\n『機動戦士Gundam GQuuuuuuX』EDテーマ\n新曲「もうどうなってもいいや..."
+            }
+        ]
     },
     "@HoushouMarine": {
         "channel_url": "https://www.youtube.com/@HoushouMarine",
@@ -227,15 +228,7 @@
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": [
-            {
-                "video_id": "Ryo9nm7WDG8",
-                "title": "#7【ELDEN RING】フロムゲー初心者、「エルデンリング」のクリアを目指す旅！！！【戌神ころね】※ネタバレあり",
-                "date": "2025/08/24 11:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Ryo9nm7WDG8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD76hYE_CXtc-5Af80m8CNwQR-zBw",
-                "description": "Play Game : ELDEN RING ( steam )\nタグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nエルデンリング再生リスト\nhttps://www.y..."
-            }
-        ]
+        "videos": []
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
