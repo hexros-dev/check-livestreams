@@ -110,13 +110,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
         "videos": [
             {
-                "video_id": "MfikD3pdSwI",
-                "title": "【 #朝こよ 】8月最後の！火曜日の朝は朝こよ～～～！☀ #247 【博衣こより/hololive】",
-                "date": "2025/08/26 05:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/MfikD3pdSwI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpau0HfRHmWyodPfxNaFqBv0Fy2w",
-                "description": "💿1stアルバム「FIRST STEP」発売中！全曲新録！成長した歌を聴いてね🎶\n　https://cover.lnk.to/SdOKbq\n\n#朝こよ を観れば日本ニキも海外ニキもホロライブ..."
-            },
-            {
                 "video_id": "zwSEPwsE3Fo",
                 "title": "【ドラゴンボールZ KAKAROT】夏だ！初見だ！ドラゴンボールだ！バーダック編いくぞおおおおおおお！！！…誰！？ #9 【博衣こより/ホロライブ】※ネタバレあり",
                 "date": "2025/08/26 17:00:00",
@@ -129,7 +122,15 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "5ba5VeGVUu4",
+                "title": "【 PEAK 】初めてのPEAKコラボで登頂できるのら？！？！【姫森ルーナ/ホロライブ】",
+                "date": "2025/08/26 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/5ba5VeGVUu4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDV2ST1slCxI5fnYQuqR6_HlIHi3g",
+                "description": "サムネイラスト\n　https://twitter.com/\n\n#かなポルーナ\n（初心者）姫森ルーナ @HimemoriLuna \n（先にプレイしてた）天音かなた @AmaneKanata \n（もっと先にプレ..."
+            }
+        ]
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -583,15 +584,7 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": [
-            {
-                "video_id": "iVbHClk6BMU",
-                "title": "【SKYBLOCK MINECRAFT】  On a Monday??? | Day 3",
-                "date": "2025/08/26 05:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/iVbHClk6BMU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0weQ6kjmjSFbs4wtHyRYtBa7Tng",
-                "description": "Building a demure little cottage on a demure little sky island\n\n☁  Thumbnail Art  ☁\nhttps://x.com/Ediialex/status/1958358728274538784\nThank you so much!!\n\n  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊..."
-            }
-        ]
+        "videos": []
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
