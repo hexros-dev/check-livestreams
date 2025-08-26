@@ -75,7 +75,15 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "uea1H7Qb3Bo",
+                "title": "【AWAY ON MINI VACATION】ALL FOR ONE + ruffian hangout free chat 🐾 【FUWAMOCO】",
+                "date": "2025/09/06 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/uea1H7Qb3Bo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUD-412WbYqDimRW4yIXtVOSIe9Q",
+                "description": "please wait for us as we take a nice breather in the northwest passage ✨️\n\n🩵 FUWAMOCO 𝟮𝗻𝗱 𝗼𝗿𝗶𝗴𝗶𝗻𝗮𝗹 𝘀𝗼𝗻𝗴 \"Lifetime Showtime\" 🩷\n✨️WATCH..."
+            }
+        ]
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -193,15 +201,7 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": [
-            {
-                "video_id": "GOBISg2tZmE",
-                "title": "【らでん自習室】次回用 【儒烏風亭らでん/ReGLOSS】",
-                "date": "2025/08/25 08:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/GOBISg2tZmE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnRD3IgDASTFFlD2hG9BHwbxMx0Q",
-                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\nらでん自習室とは……？\n8月31日までの夏休み..."
-            }
-        ]
+        "videos": []
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
