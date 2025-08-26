@@ -3,14 +3,7 @@
         "channel_url": "https://www.youtube.com/@AZKi",
         "channel_name": "AZKi Channel",
         "avatar_url": "https://yt3.googleusercontent.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos",
-        "videos": [
-            {
-                "video_id": "AXTIbGC8Zno",
-                "title": "【歌枠】重大告知あり！平成アニソン歌う！！！！！SINGING STREAM【ホロライブ / AZKi】",
-                "thumbnail": "https://i.ytimg.com/vi/AXTIbGC8Zno/hqdefault.jpg?v=68ac8d3a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxOJAkQgfqaYRlKTYUMOvUvZM2cg",
-                "description": "突然ですが、夏の終わりに告知があります！\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\nサムネイラスト：ユキはる 様\nhttps://x.com/yukiharudayoyo\n\nサムネ作成..."
-            }
-        ]
+        "videos": []
     },
     "@AiraniIofifteen": {
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
@@ -35,7 +28,14 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "9gSLbJ5QreI",
+                "title": "【 PEAK 】フレア、りりーかと山登り🏔今日のＭＡＰ難易度はいったい…ゴクリ【アキロゼ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/9gSLbJ5QreI/hqdefault.jpg?v=68ad9a96&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCF6VhaAngVfFuMOgx1ji92AHTZEw",
+                "description": "@ShiranuiFlare  @IchijouRirika \n配信タグ  #アキびゅーわーるど  \n\n配信タイトル：PEAK\nhttps://store.steampowered.com/app/3527290/PEAK/\n・－・－・－・－・－・－・－..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -126,13 +126,27 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "3iTJTTbdXuQ",
+                "title": "【PEAK】今日も今日とて山をのぼるのさ。お姉さん組（アキちゃん先輩、ふーたん！）雪山クリアしたあああい！【一条莉々華/hololive DEV_IS ReGLOSS】",
+                "thumbnail": "https://i.ytimg.com/vi/3iTJTTbdXuQ/hqdefault.jpg?v=68ad988c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJ3_D0NgC3cTLlCfmRv65kskDl3A",
+                "description": "れっつご～～～～～～～～\n\n配信タイトル：PEAK\nストアページ：https://store.steampowered.com/app/3527290/PEAK/\n\n🔽一緒に登る大好きなメンバーたち🔽..."
+            }
+        ]
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "kFEa0-Pn1K4",
+                "title": "【Heal】老人謎解きゲー！？じっちゃんの名に掛けて！！！【戌神ころね】",
+                "thumbnail": "https://i.ytimg.com/vi/kFEa0-Pn1K4/hqdefault.jpg?v=68ad8ea4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdvkOdv-Ac2MYSwWf23qf4T1PprQ",
+                "description": "Play Game : Heal ( steam )\nタグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nころねTwitter▶https://twitter.com/inugamikorone..."
+            }
+        ]
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
@@ -271,14 +285,7 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": [
-            {
-                "video_id": "SVmENz7QKvE",
-                "title": "【 HoloCure 】久しぶりにHoloCureをやりたくなった狼【 ホロライブ / 大神ミオ 】",
-                "thumbnail": "https://i.ytimg.com/vi/SVmENz7QKvE/hqdefault.jpg?v=68ad3c3f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPd22X9_-Qfj7oQV-hgZrk3lvpaw",
-                "description": "大神ミオでプレイしたい気持ち...はあります！(スキル的に厳しいか？)\n\nサムネillustrator：にくにくにんにくさん　https://x.com/bignorishio\n\n本ゲームはKa..."
-            }
-        ]
+        "videos": []
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -350,7 +357,14 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Yml8o1cJECs",
+                "title": "【PEAK】二人のお姉さんに挟まれて再び山登り【不知火フレア/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/Yml8o1cJECs/hqdefault.jpg?v=68ad9a03&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDC7rABFhFnaEGnVZsqLcovBw50yw",
+                "description": "よみがえる骨折の記憶\n@AkiRosenthal雪山まで登ったアキロゼお姉さん\n @IchijouRirika 雪山まで登ったりりかお姉さん\n@ShiranuiFlare 私　前回骨折し続けたか..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -430,7 +444,14 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "rkliCZ3nTsA",
+                "title": "【オラと博士の夏休み】3週目！物語も終盤へ…！？どうなるオラ夏！【 雪花ラミィ /ホロライブ】※ネタバレあり",
+                "thumbnail": "https://i.ytimg.com/vi/rkliCZ3nTsA/hqdefault.jpg?v=68ad6ec7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAX0Km0NDVq1by_MdrWyuBdxPbFCw",
+                "description": "本ゲームはネオス株式会社に確認の上、ガイドラインに則って配信・収益化を行なっております。\n\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈୨..."
+            }
+        ]
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
