@@ -35,7 +35,14 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "zVV65KtpyNc",
+                "title": "【 雑談/Free Talk 】ひさしぶりにゆっくり話そー！！【アキロゼ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/zVV65KtpyNc/hqdefault.jpg?v=68af11c0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAEAysVdhNFNSJKpuIcic0Mq624VQ",
+                "description": "配信タグ  #アキびゅーわーるど  \nサムネイラスト：くさつ さま\nhttps://x.com/KusatsuRain/status/1954143159711301842\n・－・－・－・－・－・－・－・－・－・..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -163,14 +170,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": [
-            {
-                "video_id": "RbFaen1qVmY",
-                "title": "【 メンバー限定 】アフターパーティー【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "thumbnail": "https://i.ytimg.com/vi/RbFaen1qVmY/hqdefault.jpg?v=68aed0ba&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOmDkZYE7ngFpXJQwe-I5ND2ooeA",
-                "description": "✨メンバーシップはこちら✨\nhttps://www.youtube.com/channel/UCGzTVXqMQHa4AgJVJIVvtDQ/join\n\n📢iOS ユーザーの皆様へ / for iOS(iPHONE, iPAD) users\nこちらのURL（https://www.y..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
