@@ -83,14 +83,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "KK4kh1s4Gxc",
-                "title": "【ドラゴンボールZ KAKAROT】夏だ！初見だ！ドラゴンボールだ！天下一武道会編いくぞおおおおおおお！！！ #9 【博衣こより/ホロライブ】※ネタバレあり",
-                "thumbnail": "https://i.ytimg.com/vi/KK4kh1s4Gxc/hqdefault.jpg?v=68ae7c1f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNx1tQuTgGYy_ndhHks6YpEUi_6w",
-                "description": "春から決めてた夏配信🌻ほぼ毎日「ドラゴンボールZ KAKAROT」🔥追ってマンガ履修中📚現在1~14巻途中まで＆17～42巻ラスト2話以外読んだ！\n※ドラ..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -344,7 +337,14 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Fhs0PycA7Pc",
+                "title": "Watching Uma Musume: Pretty Derby Ep 3 onwards because I say so",
+                "thumbnail": "https://i.ytimg.com/vi/Fhs0PycA7Pc/hqdefault.jpg?v=68af0955&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCCN6e1An09zAwb8FsHw000sOWM7Q",
+                "description": "Reine's new original song now 「Yummy Yum Yummy!」AVAILABLE on iTunes, Apple Music, Spotify etc. Click to stream!\nパヴォリア・レイネ新曲「ヤミヤムヤミ」\nhttps://cover.lnk.to/mU..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
