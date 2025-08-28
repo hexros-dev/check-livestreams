@@ -220,14 +220,7 @@
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
-        "videos": [
-            {
-                "video_id": "Vf6zwB0PnA4",
-                "title": "【30 Days on Ship】30日一人で生き残るぞ！！！【ホロライブ/夏色まつり】",
-                "thumbnail": "https://i.ytimg.com/vi/Vf6zwB0PnA4/hqdefault.jpg?v=68af285d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNNyflhHD2lQOwUG-jh-xgdtgMgw",
-                "description": "...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\n\n素敵なサムネイル→とぅー様\n@tooo88\n\n\n...｡oо○**○оo｡...｡oо○**○оo｡...."
-            }
-        ]
+        "videos": []
     },
     "@NekomataOkayu": {
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
@@ -330,7 +323,14 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "WFdM1mzoQC8",
+                "title": "【HOLOEARTH】✨️告知あり✨️ヤマトファンタジア見たり！ポーカーしたり！遊ぶぞぉおお　#白上フブキ降臨祭【ホロライブ/白上フブキ】",
+                "thumbnail": "https://i.ytimg.com/vi/WFdM1mzoQC8/hqdefault.jpg?v=68af3ddd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKyGlIMYLF59iONOJfdtBLDXiPGw",
+                "description": "#白上フブキ降臨祭\n━━━━━━🎵N　E　W　🎵━━━━━━━\n🍙🌽Pale/にゃんぐこーん\n▷https://youtu.be/DNIi7lJ58Z8\n\n🌽🌲To Be Continued....🍙🥐..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
