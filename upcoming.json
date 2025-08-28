@@ -321,15 +321,7 @@
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
-        "videos": [
-            {
-                "video_id": "Vf6zwB0PnA4",
-                "title": "【30 Days on Ship】30日一人で生き残るぞ！！！【ホロライブ/夏色まつり】",
-                "date": "2025/08/28 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Vf6zwB0PnA4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNNyflhHD2lQOwUG-jh-xgdtgMgw",
-                "description": "...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\n\n素敵なサムネイル→とぅー様\n@tooo88\n\n\n...｡oо○**○оo｡...｡oо○**○оo｡...."
-            }
-        ]
+        "videos": []
     },
     "@NekomataOkayu": {
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
@@ -376,7 +368,7 @@
         "videos": [
             {
                 "video_id": "3EiB8kF_PAw",
-                "title": "【】【ホロライブ/大空スバル】",
+                "title": "【#生スバル】あなたの願望をかなえます✨ホロライブ罵倒選手権！！！！【ホロライブ/大空スバル】",
                 "date": "2025/08/28 19:10:00",
                 "thumbnail": "https://i.ytimg.com/vi/3EiB8kF_PAw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYt1tlRrtDtBPjDEGQEO5PGJBOzg",
                 "description": "​@NekomataOkayu\n@OmaruPolka \n@KureijiOllie \n@LaplusDarknesss \n@IchijouRirika \n\n🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！..."
@@ -405,7 +397,15 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "vWWt4c6qgAk",
+                "title": "【メン限ラジオ】輪堂千速のニックナイトガレーディオ #4【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "date": "2025/08/28 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/vWWt4c6qgAk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClqFRlBmKcHIqLVRU9D4R4xCPaew",
+                "description": "もうすぐ9月ってま？！？！はやすぎ！\n\nサムネイルイラスト：よっぴー✐☡さま\nhttps://x.com/yoppy_paint\nありがとうございます！\n\nこの配信でいただい..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
