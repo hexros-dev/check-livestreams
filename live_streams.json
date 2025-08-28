@@ -283,14 +283,7 @@
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC",
-        "videos": [
-            {
-                "video_id": "BJCv-gDPdzQ",
-                "title": "【 縦型歌枠 】ノープランだぁ；；【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-                "thumbnail": "https://i.ytimg.com/vi/BJCv-gDPdzQ/hqdefault.jpg?v=68b038be&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8pBB-8JGOaUiHXyJWTL3lVb6f-g",
-                "description": "▽✨重大告知✨ ▽\n音乃瀬奏 1stオリジナル曲「GREATEST」\n4/20(日) 24：00（4/21  0：00）リリース開始！\nhttps://cover.lnk.to/4rvCRp\n\n୨୧♪:*:･･:*:･♪･:*:･..."
-            }
-        ]
+        "videos": []
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
@@ -396,7 +389,14 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "hi4ju6GO8Rw",
+                "title": "【BLUE PRINCE】you can't escape the wawa blue prince streams #kfp #キアライブ",
+                "thumbnail": "https://i.ytimg.com/vi/hi4ju6GO8Rw/hqdefault.jpg?v=68af93a0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgO8XAlnldScaCK-x5-Ykt0YgNtA",
+                "description": "Takanashi Kiara『TASTY』\nhttps://cover.lnk.to/al3Zjt\n\n🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara\n\n 🏵️[Hashtags] 🏵️\n#kfp #キアライブ#hololiveenglish #holomyth..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
@@ -408,20 +408,20 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": [
-            {
-                "video_id": "FkgUxPxy3Cw",
-                "title": "＃５【JUDGE EYES：死神の遺言】初見でいくジャッジアイズ！８章途中から！【轟はじめ/ReGLOSS】※ネタバレあり",
-                "thumbnail": "https://i.ytimg.com/vi/FkgUxPxy3Cw/hqdefault.jpg?v=68aee470&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAIJxmX6rjYC0-ZX0vZWrs5U_lng",
-                "description": "この動画およびライブは、コンテンツ利用許諾契約に基づいて配信しています。\n©SEGA\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n✨宣伝✨\n新曲⚡B..."
-            }
-        ]
+        "videos": []
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "9wzexvF9V4o",
+                "title": "【ネタバレ注意】都市伝説によばれし主人公っていいよね～都市伝説解体センター～【ホロライブ/ときのそら】",
+                "thumbnail": "https://i.ytimg.com/vi/9wzexvF9V4o/hqdefault.jpg?v=68b06558&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIj5cqUw_xF8QqVaR-9bVILf-Clg",
+                "description": "面白くなってきましたなぁ。\n\n配信タイトル：都市伝説解体センター\n公式サイト：https://umdc.shueisha-games.com/\n開発：墓場文庫　\n販売：集英社ゲーム..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
@@ -446,7 +446,14 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "PgxLnEp413k",
+                "title": "【BUM Simulator】",
+                "thumbnail": "https://i.ytimg.com/vi/PgxLnEp413k/hqdefault.jpg?v=68b03851&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2D6n1IzLhSWZghnSFSrMJGWj1Ww",
+                "description": "配信タイトル：Bum Simulator\nストアページ：https://store.steampowered.com/app/855740/Bum_Simulator/\n\n\n-----\nVestia Zeta's  2nd Original Song  ▶  [ Break It Down ]\n\nAll platform▶️..."
+            }
+        ]
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
