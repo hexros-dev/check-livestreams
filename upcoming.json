@@ -191,15 +191,7 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w",
-        "videos": [
-            {
-                "video_id": "ffY22oNjMPA",
-                "title": "【#dahlahday COUNTDOWN】ok so what's to expect this year? (except embracing the dahlah...)",
-                "date": "2025/08/29 23:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/ffY22oNjMPA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBF2yLG7TqnDFarv7qJGcX64_ZAsw",
-                "description": "actually... nothing to expect asdagsdkljgaskdl;askfg\n∘₊✧──────✧₊∘∘₊✧──────✧₊∘∘₊✧──────✧₊∘∘₊✧──────✧₊∘..."
-            }
-        ]
+        "videos": []
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
@@ -508,7 +500,15 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "485Bai2zm_M",
+                "title": "【Abyssdia】スカヤさんから学ぶ！新作ゲーム『アビスディア』の魅力！【轟はじめ/ReGLOSS】",
+                "date": "2025/08/30 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/485Bai2zm_M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAx8r7ErqtOB033MjtnLKj-NacHGA",
+                "description": "＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝\n提供：アビスディア\n\n期待の新作ゲーム、推しと共に歩む..."
+            }
+        ]
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
