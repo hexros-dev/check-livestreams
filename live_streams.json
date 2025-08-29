@@ -281,14 +281,7 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": [
-            {
-                "video_id": "vnPU3Tve6fM",
-                "title": "UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU (umamusume: pretty derby)",
-                "thumbnail": "https://i.ytimg.com/vi/vnPU3Tve6fM/hqdefault.jpg?v=68b15fb3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxMXw9lkX15oAhSZKE4K0dvuz_pQ",
-                "description": "Reine's new original song now 「Yummy Yum Yummy!」AVAILABLE on iTunes, Apple Music, Spotify etc. Click to stream!\nパヴォリア・レイネ新曲「ヤミヤムヤミ」\nhttps://cover.lnk.to/mU..."
-            }
-        ]
+        "videos": []
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -330,7 +323,14 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "1SEGzBbRFIo",
+                "title": "【#ホロライブホラー2025】恐怖の３大企画 ホロライブホラー2025 【ホロライブ/白上フブキ】",
+                "thumbnail": "https://i.ytimg.com/vi/1SEGzBbRFIo/hqdefault.jpg?v=68b14add&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpqPmg18I6M30TJZTZWa5e8C3PYA",
+                "description": "「ホロライブのメンバーに怖がって欲しい！」今年初企画 #ホロライブホラー2025\n果たして…メンバーは怖がってくれるのか！？ノリと勢いの２時..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
