@@ -191,7 +191,15 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "bcIC1CvhrEw",
+                "title": "【#dahlahday】IT'S MY BIRTHDAY AND I HAVE PREPARED MANY PRESENTS FOR YOU!! 🎮🎵🎉",
+                "date": "2025/08/30 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/bcIC1CvhrEw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJ3vGPGtqvRNuUoIxGr1XXXRX4yQ",
+                "description": "i have no fancy celebration this year, but i just wanna give Pemaloe some presents so we can embrace the #dahlahday to the fullest! ⋆˙⟡♡\n∘₊✧──────✧₊∘∘₊✧──..."
+            }
+        ]
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
@@ -331,6 +339,13 @@
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
         "videos": [
             {
+                "video_id": "QOibPljuCpI",
+                "title": "【 nosh 】自炊したくない！楽したい！/運営さん「ぴったりのものが・・・」【ホロライブ/夏色まつり】",
+                "date": "2025/08/31 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/QOibPljuCpI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBX2yScpUOgtlsJqE1JGye2_BnRfA",
+                "description": "🏮nosh×Matsuri Channel 夏色まつりの特別コラボクーポンはこちら🏮\nhttps://nosh.jp/influencer-promotion?key=NatsuiroMatsuri&utm_source=Youtuber&utm_medium=PR&utm_campaign=Natsu..."
+            },
+            {
                 "video_id": "eID1t5EFf7Y",
                 "title": "【 シャドバWB/Shadowverse 】新パックきちゃ～！！！！！！！【ホロライブ/夏色まつり】",
                 "date": "2025/08/30 13:00:00",
@@ -412,7 +427,15 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "zTzWXPEglnE",
+                "title": "【VRChat 】FGこの夏最後の思い出作り！ぽこピーランドにいくぞ！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "date": "2025/08/30 11:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/zTzWXPEglnE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADIc5ds9g_kFnofm49TbAI6NlRow",
+                "description": "お邪魔したワールドはこちら！\n▷PokoPeaLand\nhttps://vrchat.com/home/launch?worldId=wrld_6f55a286-b851-4d3e-8933-e7a31138edd7\n\nVRChatの承諾を得た上で配信・収益化を行な..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -562,15 +585,7 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": [
-            {
-                "video_id": "yKN2IVlRc6E",
-                "title": "【Yu-Gi-Oh! WCS 2025】CCGG watching the Yu-Gi-Oh! World Championship! YAY #sponsored",
-                "date": "2025/08/30 00:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/yKN2IVlRc6E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDN7TTDXARH7u5UYuUH4_SUhqzOjg",
-                "description": "DOWNLOAD HERE!! https://bit.ly/yu-gi-oh-masterduel / https://bit.ly/yu-gi-oh-duel-links and watch the livestream after us! https://www.youtube.com/@YuGiOhCardEU \n\n#YuGiOhDUELLINKS #YuGiOhMASTERDUEL..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
