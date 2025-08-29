@@ -213,7 +213,15 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "OGP0I6yuiRE",
+                "title": "【 VRChat 】FLOW GLOWでぽこぴーランドに遊びに行く！！🥜🎡【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "date": "2025/08/30 11:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/OGP0I6yuiRE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCeLg5SJmYSwYmTThNWo23BND3Gqg",
+                "description": "綺々羅々ヴィヴィ 誕生日記念2025グッズ\n■販売ページURL\nhttps://shop.hololivepro.com/products/kikiraravivi_birthday_2025\n■グッズ販売期間（受注販売）\n2025年08月2..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -691,15 +699,7 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": [
-            {
-                "video_id": "2tR_ZRdVL8w",
-                "title": "【Hollow Knight】 When I close my eyes, all I see is Hollow Knight | #3",
-                "date": "2025/08/30 05:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/2tR_ZRdVL8w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAL2ppniMV7JHnLmFnwEyN5nZcGbA",
-                "description": "The marathon continues!\n\n  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋\n\nKonbakuwa! I'm Nimi, the baku nurse VTuber of your nightmares~\n#VTuber #nimi\n\n☁  Socials  ☁\nhttps://x.com/niminightmare..."
-            }
-        ]
+        "videos": []
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
