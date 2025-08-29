@@ -27,14 +27,7 @@
         "channel_url": "https://www.youtube.com/@AmaneKanata",
         "channel_name": "Kanata Ch. Kanata Amane",
         "avatar_url": "https://yt3.googleusercontent.com/oPU9ckNcyeHD0FFsYSxkoD1mtbslSwdmMSfoCYQWphOu5e7UeCnIF-Nt0hvvF41L5Nykga07nQ",
-        "videos": [
-            {
-                "video_id": "5nDTiTuRym4",
-                "title": "【MemberOnly】「バック・トゥ・ザ・フューチャー (吹替版)」映画同時視聴 #かなたんロードショー 【天音かなた/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/5nDTiTuRym4/hqdefault.jpg?v=68b17feb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8G1gaLZY8cl0OAxFAQ3Nc7nXAzg",
-                "description": "僕はAmazonPrimeで見るよ！→　\nhttps://www.amazon.co.jp/gp/video/detail/B00YTNGN6Y/\n\n💫メンバーシップ入会💫\nhttps://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg/join..."
-            }
-        ]
+        "videos": []
     },
     "@AnyaMelfissa": {
         "channel_url": "https://www.youtube.com/@AnyaMelfissa",
@@ -125,20 +118,20 @@
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": [
-            {
-                "video_id": "UGpMUHDvrdQ",
-                "title": "【案件】『ソニックレーシング クロスワールド』オープンネットワークテストやるぞ！！！【戌神ころね】",
-                "thumbnail": "https://i.ytimg.com/vi/UGpMUHDvrdQ/hqdefault.jpg?v=68b08623&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgFblcJYf2TOqlekSE9pmtvwChJQ",
-                "description": "提供：株式会社セガ\n■『ソニックレーシング クロスワールド』 9月25日発売\nセガレースゲームチームの精鋭が手掛けるオールスターレースゲーム..."
-            }
-        ]
+        "videos": []
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "mqKjYz429RI",
+                "title": "【メンバーシップ配信】響咲連合の溜まり場、初めての夏楽しかったね【ホロライブ DEV_IS 響咲リオナ】",
+                "thumbnail": "https://i.ytimg.com/vi/mqKjYz429RI/hqdefault.jpg?v=68ade24a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUsB8ycZXif8NCayHlJRKdt61CTQ",
+                "description": "∴∵∴ ୨୧ ∴∵∴ ୨୧ ∴∵∴ ୨୧ ∴∵∴∴∵∴ ୨୧ ∴∵∴ ୨୧ ∴∵∴ ୨୧ ∴∵∴\n\nメンバーシップ(membership)はこちらから⇩\n   / @isakiriona..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -354,7 +347,14 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "b0rxXn1s3ec",
+                "title": "#13【#ホロ7DTDハード】最後の地！荒れ地だあああ‼ハードモードゾンビの世界で生き残るにぇ！！！！【ホロライブ/さくらみこ】",
+                "thumbnail": "https://i.ytimg.com/vi/b0rxXn1s3ec/hqdefault.jpg?v=68b16b8d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOVN-mfUG7rTZAM2XfXhqQulqI3Q",
+                "description": "🌸#さくらみこ7周年 記念グッズはこちら！🌸\n⏰2025年09月01日 18時00分 まで 〆切\nhttps://shop.hololivepro.com/products/sakuramiko_anniversary_7th\n\n⪩⪨　お知らせ/..."
+            }
+        ]
     },
     "@SamekoSaba": {
         "channel_url": "https://www.youtube.com/@SamekoSaba",
@@ -372,7 +372,14 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "VYzORM3X-vc",
+                "title": "【 #ホロ7DTDハード】DAY13　最期の地…最後の準備　荒れ地バイオーム編【ホロライブ/白上フブキ】",
+                "thumbnail": "https://i.ytimg.com/vi/VYzORM3X-vc/hqdefault.jpg?v=68b1644e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRmV9ctEgBX-brH60lbvMxQoxIPQ",
+                "description": "#ホロ7DTDハード\n━━━━━━🎵N　E　W　🎵━━━━━━━\n🍙🌽Pale/にゃんぐこーん\n▷https://youtu.be/DNIi7lJ58Z8\n\n🌽🌲To Be Continued....🍙🥐\n▷https://y..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -422,7 +429,14 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "8EE95tMwWCw",
+                "title": "楽しく歌っちゃお！【轟はじめ】",
+                "thumbnail": "https://i.ytimg.com/vi/8EE95tMwWCw/hqdefault.jpg?v=68b1a6b0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJ-DHBkccDv25tJ3OUIa97ym5jOA",
+                "description": "素敵なサムネお写真：よしだどん🐤様　@RykYsd\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n✨宣伝✨\n新曲⚡BANZAI-轟はじめ【Original 3D MV】⚡\nhttps://www..."
+            }
+        ]
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
@@ -532,7 +546,14 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "vgxJuwLRkbs",
+                "title": "【部屋紹介】緊急！リスナーさんの部屋を見ていく！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
+                "thumbnail": "https://i.ytimg.com/vi/vgxJuwLRkbs/hqdefault.jpg?v=68b1a76a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFQRbrsrDZGzSZqFjQM1_F9YqnWg",
+                "description": "機材故障につきゆうなまは後日でお願いします！\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",

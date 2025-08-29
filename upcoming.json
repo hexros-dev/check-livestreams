@@ -173,13 +173,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
         "videos": [
             {
-                "video_id": "mqKjYz429RI",
-                "title": "【メンバーシップ配信】響咲連合の溜まり場、初めての夏楽しかったね【ホロライブ DEV_IS 響咲リオナ】",
-                "date": "2025/08/29 20:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/mqKjYz429RI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUsB8ycZXif8NCayHlJRKdt61CTQ",
-                "description": "∴∵∴ ୨୧ ∴∵∴ ୨୧ ∴∵∴ ୨୧ ∴∵∴∴∵∴ ୨୧ ∴∵∴ ୨୧ ∴∵∴ ୨୧ ∴∵∴\n\nメンバーシップ(membership)はこちらから⇩\n   / @isakiriona..."
-            },
-            {
                 "video_id": "xup6KMhz-9M",
                 "title": "【歌枠 / 告知アリ！】告知します！歌います！！【ホロライブ DEV_IS 響咲リオナ】",
                 "date": "2025/08/30 16:00:00",
@@ -264,7 +257,15 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "0U4Nsm5YQq4",
+                "title": "【VRChat】FGでぽこピーランドへGO❕💙【水宮枢／ホロライブDEV_IS】",
+                "date": "2025/08/30 11:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/0U4Nsm5YQq4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKSMXn5L30tDNVYP_OjEnvDdQkoQ",
+                "description": "@RindoChihaya @KoganeiNiko @KikiraraVivi @IsakiRiona \nVRChatの承諾を得た上で配信・収益化を行なっております。 ホームページはこちらhttps://hello.vrchat.com/..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -282,7 +283,15 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "R6qpvQaw5PI",
+                "title": "【member's only】catching up with you guys! (asmr mic use is planned) #calliolive",
+                "date": "2025/08/30 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/R6qpvQaw5PI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhQqakxI9Z7lhI6aTSoQhwLSgzSQ",
+                "description": "Streaming tickets are available for our big concert! Enjoy the archive!\nhttps://all-for-one.hololivepro.com/tickets/\n\nBGM: https://x.com/BigRicePiano\nhttps://x.com/the_arkhand\nhttps://x.com/altercl..."
+            }
+        ]
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -314,7 +323,15 @@
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "eID1t5EFf7Y",
+                "title": "【 シャドバWB/Shadowverse 】新パックきちゃ～！！！！！！！【ホロライブ/夏色まつり】",
+                "date": "2025/08/30 13:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/eID1t5EFf7Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5YFjmOOcv_922J-jPfvwcuvRuog",
+                "description": "...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\n\n素敵なサムネイル→GATS☆様\n@gatssuzuka\n\n\n\n配信タイトル：Shadowverse: Worlds..."
+            }
+        ]
     },
     "@NekomataOkayu": {
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
@@ -423,15 +440,7 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": [
-            {
-                "video_id": "b0rxXn1s3ec",
-                "title": "#13【#ホロ7DTDハード】最後の地！荒れ地だあああ‼ハードモードゾンビの世界で生き残るにぇ！！！！【ホロライブ/さくらみこ】",
-                "date": "2025/08/29 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/b0rxXn1s3ec/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOVN-mfUG7rTZAM2XfXhqQulqI3Q",
-                "description": "🌸#さくらみこ7周年 記念グッズはこちら！🌸\n⏰2025年09月01日 18時00分 まで 〆切\nhttps://shop.hololivepro.com/products/sakuramiko_anniversary_7th\n\n⪩⪨　お知らせ/..."
-            }
-        ]
+        "videos": []
     },
     "@SamekoSaba": {
         "channel_url": "https://www.youtube.com/@SamekoSaba",
@@ -457,15 +466,7 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": [
-            {
-                "video_id": "VYzORM3X-vc",
-                "title": "【 #ホロ7DTDハード】DAY13　最期の地…最後の準備　荒れ地バイオーム編【ホロライブ/白上フブキ】",
-                "date": "2025/08/29 20:15:00",
-                "thumbnail": "https://i.ytimg.com/vi/VYzORM3X-vc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRmV9ctEgBX-brH60lbvMxQoxIPQ",
-                "description": "#ホロ7DTDハード\n━━━━━━🎵N　E　W　🎵━━━━━━━\n🍙🌽Pale/にゃんぐこーん\n▷https://youtu.be/DNIi7lJ58Z8\n\n🌽🌲To Be Continued....🍙🥐\n▷https://y..."
-            }
-        ]
+        "videos": []
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -667,13 +668,6 @@
                 "date": "2025/08/30 10:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/G3uCQp6IHhQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkH3tkFkXSbrEVm0cWHcGyjmlZ6g",
                 "description": "土日まで長かった！！！！！！！！！！！！！！！！\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora..."
-            },
-            {
-                "video_id": "vgxJuwLRkbs",
-                "title": "【勇者のくせになまいきだ】破壊神ぺこーらが勇者を倒します！！！ぺこ！【ホロライブ/兎田ぺこら】",
-                "date": "2025/08/29 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/vgxJuwLRkbs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFQRbrsrDZGzSZqFjQM1_F9YqnWg",
-                "description": "待ってろよォ！！\n\nPR：シリーズ作『勇者のくせになまいきだ：3D』発売中\nhttps://www.playstation.com/ja-jp/games/no-heroes-allowed/\n\nサムネイラスト：ごとーさ..."
             }
         ]
     },
