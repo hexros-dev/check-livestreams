@@ -3,14 +3,7 @@
         "channel_url": "https://www.youtube.com/@AZKi",
         "channel_name": "AZKi Channel",
         "avatar_url": "https://yt3.googleusercontent.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos",
-        "videos": [
-            {
-                "video_id": "wyRxEmzIhls",
-                "title": "【嬉しいお知らせ】ぴあアリーナMMにてソロライブします！【ホロライブ / AZKi】",
-                "thumbnail": "https://i.ytimg.com/vi/wyRxEmzIhls/hqdefault.jpg?v=68b2a315&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCrWo26Sdf9FCQbhITSGKKx-faF_g",
-                "description": "昨日の振り返りなど！年表も詳しく見ていきたい👀最後に告知あり\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\nサムネイラスト：加速サトウ 様\nhttps://x.com..."
-            }
-        ]
+        "videos": []
     },
     "@AiraniIofifteen": {
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
@@ -83,14 +76,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "6-tkla-LWmw",
-                "title": "【Membership Only】8月最後の、ひみつの雑談、しよっ♡ホロ甲作戦もたてちゃおっ♡【博衣こより/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/6-tkla-LWmw/hqdefault.jpg?v=68b2bc6e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2Ms3IaLILK7sOnhpdICZjBJfOlg",
-                "description": "ゆるゆるざつだん～～～　※開始直前にメンバー限定に切り替えます\n【大切なお約束！！！】\n⚠メンバー限定で発信している配信内容での発言や..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -150,14 +136,7 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w",
-        "videos": [
-            {
-                "video_id": "bcIC1CvhrEw",
-                "title": "【#dahlahday】IT'S MY BIRTHDAY AND I HAVE PREPARED MANY PRESENTS FOR YOU!! 🎮🎵🎉",
-                "thumbnail": "https://i.ytimg.com/vi/bcIC1CvhrEw/hqdefault.jpg?v=68ad12a1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJ3vGPGtqvRNuUoIxGr1XXXRX4yQ",
-                "description": "i have no fancy celebration this year, but i just wanna give Pemaloe some presents so we can embrace the #dahlahday to the fullest! ⋆˙⟡♡\n∘₊✧──────✧₊∘∘₊✧──..."
-            }
-        ]
+        "videos": []
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
@@ -225,7 +204,14 @@
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
         "channel_name": "Moona Hoshinova hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ErWFW9aD9S4",
+                "title": "【No Man's Sky】What's new?!【Moona Hoshinova】",
+                "thumbnail": "https://i.ytimg.com/vi/ErWFW9aD9S4/hqdefault.jpg?v=68b2cc98&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8YP6mghe3lx8-xuaPBu2prE-zSA",
+                "description": "Streamlabs donation link here : https://streamlabs.com/moonahoshinovahololive-id/tip\nSociaBuzz donation link here : https://sociabuzz.com/moonahoshinova/tribe\n======================================..."
+            }
+        ]
     },
     "@MoriCalliope": {
         "channel_url": "https://www.youtube.com/@MoriCalliope",
@@ -445,7 +431,14 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "pO0xXIEo5xE",
+                "title": "【HOLLOW KNIGHT】must save ALL caterpillars!!!!! #kfp #キアライブ",
+                "thumbnail": "https://i.ytimg.com/vi/pO0xXIEo5xE/hqdefault.jpg?v=68b22a42&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAiegKMVKwXfJ5fpE5lyhFkav6RMg",
+                "description": "Takanashi Kiara『TASTY』\nhttps://cover.lnk.to/al3Zjt\n\n🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara\n\n 🏵️[Hashtags] 🏵️\n#kfp #キアライブ#hololiveenglish #holomyth..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
@@ -544,20 +537,20 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "hfxxsIRHbIo",
-                "title": "【Yu-Gi-Oh! WCS 2025】IT'S TIME FOR THE FINALS! Watching with Colossa! LET'S DUEL #ad",
-                "thumbnail": "https://i.ytimg.com/vi/hfxxsIRHbIo/hqdefault.jpg?v=68b2064f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfCSxIg-W0G85sAhHtmw0x87wtCg",
-                "description": "#sponsored \n\nDOWNLOAD HERE!! https://bit.ly/yu-gi-oh-masterduel / https://bit.ly/yu-gi-oh-duel-links and watch the livestream after us!    / @yugiohcardeu   \n\n#YuGiOhDUELLINKS #YuGiOhMASTERDUEL..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "5P7rft_fCVk",
+                "title": "[Yu-Gi-Oh! WCS 2025] Watching WCS with Colossa and dueling with Liz!!! #pr",
+                "thumbnail": "https://i.ytimg.com/vi/5P7rft_fCVk/hqdefault.jpg?v=68b2f040&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBeMyncCa7vDPyOtNV9fH4XbaUmcw",
+                "description": "╭─⋆｡ﾟ♡ RAO ♡｡ﾟ⋆─╮\n\nYu-Gi-Oh! World Championship with me and Elizabeth!! Don't forget to watch the official livestream here: https://www.youtube.com/@YuGiOhCardEU\n\n・Downloa..."
+            }
+        ]
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
