@@ -132,7 +132,14 @@
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "VjIuExyPQDo",
+                "title": "#8【ELDEN RING】フロムゲー初心者、「エルデンリング」のクリアを目指す旅！！！【戌神ころね】※ネタバレあり",
+                "thumbnail": "https://i.ytimg.com/vi/VjIuExyPQDo/hqdefault.jpg?v=68b1b860&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPTmQ5aIpvbzir_whsHnOgfICGQg",
+                "description": "Play Game : ELDEN RING ( steam )\nタグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nころねTwitter▶https://twitter.com/inugamikoro..."
+            }
+        ]
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
@@ -224,14 +231,7 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": [
-            {
-                "video_id": "R6qpvQaw5PI",
-                "title": "【member's only】catching up with you guys! (asmr mic use is planned) #calliolive",
-                "thumbnail": "https://i.ytimg.com/vi/R6qpvQaw5PI/hqdefault.jpg?v=68b1a619&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhQqakxI9Z7lhI6aTSoQhwLSgzSQ",
-                "description": "Streaming tickets are available for our big concert! Enjoy the archive!\nhttps://all-for-one.hololivepro.com/tickets/\n\nBGM: https://x.com/BigRicePiano\nhttps://x.com/the_arkhand\nhttps://x.com/altercl..."
-            }
-        ]
+        "videos": []
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
