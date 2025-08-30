@@ -294,7 +294,14 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "sGeiH0hPE24",
+                "title": "【 #ホロ7DTDハード 】きょうで最後にする！！！！襲撃だ！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "thumbnail": "https://i.ytimg.com/vi/sGeiH0hPE24/hqdefault.jpg?v=68b2d6fd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKtgeOR2DJhOnNkO-na8N7q3akPQ",
+                "description": "初めての7day!がんばるぞ～～～～！！！！\n\n\n主催：‪ミオ先輩！　@OokamiMio \nタグ：#ホロ7DTDハード\n\n配信タイトル：7 Days to Die\nhttps://store.steampowered.com..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -451,14 +458,7 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
-        "videos": [
-            {
-                "video_id": "KdTa_laDqgQ",
-                "title": "【丁字路】ホロメンオススメホラゲその1、ほんとにできる・・？【風真いろは/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/KdTa_laDqgQ/hqdefault.jpg?v=68b2b04d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUEDlaemYjpilQrEdfxMOwkVrtCw",
-                "description": "あずきちからのオススメです。\n\nこわいです\nGame title: Fork Road\nStore page: https://store.steampowered.com/app/2976400/_/\n*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*..."
-            }
-        ]
+        "videos": []
     },
     "@mikenekoko": {
         "channel_url": "https://www.youtube.com/@mikenekoko",
