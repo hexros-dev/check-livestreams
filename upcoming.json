@@ -520,7 +520,22 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "-kf_pN4WOOM",
+                "title": "【メンバー限定/Member only】SSRB総会 7,8月号【獅白ぼたん/ホロライブ】",
+                "date": "2025/08/31 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/-kf_pN4WOOM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBuTG_A0_uuXbLGQHq2TlZZoJJ4uQ",
+                "description": "SSRB総会とは、SSRBにむけて月1回ししろんがいろんなこぼれ話をするメンバーシップ限定の配信です\n感想やお便りは #SSRB総会 またはマシュマロまで..."
+            },
+            {
+                "video_id": "9zsKX-2-UMM",
+                "title": "【告知あり！】実ははじめての逆凸💖 #逆凸ぼたん【獅白ぼたん/ホロライブ】",
+                "date": "2025/08/31 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/9zsKX-2-UMM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBpbuuXF7gMYpfYrHsN3eH5JoCv7Q",
+                "description": "トークテーマは1つだけに絞りました！いざ逆凸！！告知もあるよ💖\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n🔸新着情報/New!\n┈┈┈┈┈┈┈┈┈..."
+            }
+        ]
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
@@ -615,15 +630,7 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": [
-            {
-                "video_id": "_sQJF_iLS2k",
-                "title": "【MEMBER STREAM】I have never seen Legally Blonde (2001)",
-                "date": "2025/08/31 02:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/_sQJF_iLS2k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9-fqWKXCedTyIcxGheCrd_jZ89g",
-                "description": "art: https://x.com/Catree_cius/status/1959948891748704372\n--------------------------\nHashtags\n📺 Livestream: #ImmerScreen \n🎨 Fanart: #Immergination\n🎻 Music: #ImmerPiece\n🤡 Memes:..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
