@@ -22,13 +22,6 @@
                 "date": "2025/08/31 21:30:00",
                 "thumbnail": "https://i.ytimg.com/vi/6Cih4Qbssts/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDu5gk1M1Es3TktwOiPUmkOgdHusg",
                 "description": "0時からの動画同時視聴するぞ～～～！🌟\n\n📢赤井はあと生誕祭グッズ販売中‼️9/16(火)18:00までの期間限定❕\n◇販売ページURL\nhttps://shop.hololivepro.c..."
-            },
-            {
-                "video_id": "Sr0xKJ6ZK_0",
-                "title": "【 歌枠 】寝る前に大熱唱なちゃま～～～っ💖!!!✨【ホロライブ/赤井はあと】",
-                "date": "2025/08/30 21:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Sr0xKJ6ZK_0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEFCDSZvKC2MZEfo1fZdtAzjEGMg",
-                "description": "📢赤井はあと生誕祭グッズ販売中‼️9/16(火)18:00までの期間限定❕\n◇販売ページURL\nhttps://shop.hololivepro.com/products/akaihaato_birthday_2025\n📢新曲『感触』..."
             }
         ]
     },
@@ -280,7 +273,7 @@
             {
                 "video_id": "ErWFW9aD9S4",
                 "title": "【No Man's Sky】What's new?!【Moona Hoshinova】",
-                "date": "2025/08/30 21:00:00",
+                "date": "2025/08/30 22:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/ErWFW9aD9S4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8YP6mghe3lx8-xuaPBu2prE-zSA",
                 "description": "Streamlabs donation link here : https://streamlabs.com/moonahoshinovahololive-id/tip\nSociaBuzz donation link here : https://sociabuzz.com/moonahoshinova/tribe\n======================================..."
             }
@@ -376,15 +369,7 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": [
-            {
-                "video_id": "v_VFl737RMY",
-                "title": "【#ホロ7DTDハード】最後の襲撃だ！！！！絶対成功するんだ！！！！【尾丸ポルカ/ホロライブ】",
-                "date": "2025/08/30 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/v_VFl737RMY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFafvvOwqkOgsPd5GsUdJzetJ4rQ",
-                "description": "主催！！！！ @OokamiMio ありがとう！！！！Fooo\n▼本ゲームは THE FUN PIMPS ©2017 の確認を得た上で配信・収益化を行なっております\n #ホロ7DTDハード..."
-            }
-        ]
+        "videos": []
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
@@ -422,15 +407,7 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": [
-            {
-                "video_id": "Yc35l-4KTYk",
-                "title": "Watching Uma Musume: Pretty Derby Ep 11 onwards because I say so",
-                "date": "2025/08/30 21:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Yc35l-4KTYk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBHg5rIX5C7vfHooDrBiG0ttqOZA",
-                "description": "Reine's new original song now 「Yummy Yum Yummy!」AVAILABLE on iTunes, Apple Music, Spotify etc. Click to stream!\nパヴォリア・レイネ新曲「ヤミヤムヤミ」\nhttps://cover.lnk.to/mU..."
-            }
-        ]
+        "videos": []
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -666,7 +643,15 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "A199sdAmfeg",
+                "title": "【FF5】ファイナルファンタジー5を初見で始める！！！！！ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意",
+                "date": "2025/08/31 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/A199sdAmfeg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5YeXyjzIvH-5hDCknRw9AvbxanA",
+                "description": "すまんFFも我慢できないぺこ！夜は周年ライブよろしく！\n\nサムネイラスト：さとうぽて🍠さん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
