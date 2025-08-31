@@ -592,7 +592,15 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "B69qrHeqNG0",
+                "title": "【メンバー限定】8月最後のメンバー限定雑談！【雪花ラミィ /ホロライブ】",
+                "date": "2025/08/31 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/B69qrHeqNG0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFHqVR9Yxhr47AEDZ-p1U54D0-Vw",
+                "description": "※23時になったらメンバー限定配信に切り替わります\n　At23:00 p.m., the distribution will switch to members-only distribution.\n　メン限で話した内容は内緒でお願..."
+            }
+        ]
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
