@@ -398,14 +398,7 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": [
-            {
-                "video_id": "EV8XDjR4CRg",
-                "title": "【雑談＆お礼】心優しい（？）羊に戻りました🐏🍀【角巻わため/ホロライブ４期生】",
-                "thumbnail": "https://i.ytimg.com/vi/EV8XDjR4CRg/hqdefault.jpg?v=68b33e33&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSaaaCLrx9zE4Yg6tZgd6c42yZNw",
-                "description": "仲間の力によって正気を取り戻したわため\nタグ：#ドドドライブ\n\n🍉ホロナツパラダイスボイス🍉\nhttps://shop.hololivepro.com/products/holonatsuparadisevoice..."
-            }
-        ]
+        "videos": []
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -441,7 +434,14 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "tMq7Ihh9Aow",
+                "title": "【THANK GOODNESS YOU'RE HERE!】I found you otomos! Right there!",
+                "thumbnail": "https://i.ytimg.com/vi/tMq7Ihh9Aow/hqdefault.jpg?v=68b46732&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsBDl3sOTB7kvQ74VMc4KkbXoHkw",
+                "description": "art: https://x.com/aikamaki/status/1954237490308735407\n\n--------------------------\nHashtags\n📺 Livestream: #ImmerScreen \n🎨 Fanart: #Immergination\n🎻 Music: #ImmerPiece\n🤡 Memes: #ImmerMeme..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",

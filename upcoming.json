@@ -449,7 +449,15 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "iCsM_D7R38k",
+                "title": "【TCG Card Shop Simulator】アプデがきて４００万超えがでるようになったらしい！【不知火フレア/ホロライブ】",
+                "date": "2025/09/01 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/iCsM_D7R38k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApIwalZd4x6BenP6OM2ovVITYjdg",
+                "description": "■Newシングル「架空と本当」MV公開中✨\nhttps://www.youtube.com/watch?v=1DBMg1dqfhM\n💿各種音楽サービス配信版 配信中✨\nhttps://cover.lnk.to/lCta8w\n━━━━━━..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -462,6 +470,13 @@
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
         "videos": [
+            {
+                "video_id": "GmbIaroMuiU",
+                "title": "【3DLIVE】ゲスト＆告知あり✨獅白ぼたん生誕3D LIVE 『MUST RELIVE』【#獅白ぼたん生誕祭2025 /ホロライブ】",
+                "date": "2025/09/08 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/GmbIaroMuiU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBriJX2MG3VmMLjWzD6GiIASelpXQ",
+                "description": "久々のコンセプトをたくさんつめこんだ3D LIVE✨\nゲスト多数あり、重大告知もあります～！\n配信ハッシュタグ：#獅白ぼたん生誕祭2025\n\n┈┈┈┈┈..."
+            },
             {
                 "video_id": "VMCEaZvNpv4",
                 "title": "獅白ぼたんを怖がらせたい Vol.2 ～日本事故物件監視協会(JSP) 編～ 【戌神ころね/鷹嶺ルイ/獅白ぼたん/ホロライブ】",
@@ -549,15 +564,7 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": [
-            {
-                "video_id": "tMq7Ihh9Aow",
-                "title": "【THANK GOODNESS YOU'RE HERE!】I found you otomos! Right there!",
-                "date": "2025/09/01 02:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/tMq7Ihh9Aow/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsBDl3sOTB7kvQ74VMc4KkbXoHkw",
-                "description": "art: https://x.com/aikamaki/status/1954237490308735407\n\n--------------------------\nHashtags\n📺 Livestream: #ImmerScreen \n🎨 Fanart: #Immergination\n🎻 Music: #ImmerPiece\n🤡 Memes: #ImmerMeme..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
