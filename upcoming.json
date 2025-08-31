@@ -107,15 +107,7 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": [
-            {
-                "video_id": "HdgO1QB-Gqc",
-                "title": "【 #なのらいぶ 】８月が終わっちまう…水着納め…ってコトなのら？！？！(・o・🍬)【姫森ルーナ/ホロライブ】",
-                "date": "2025/08/31 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/HdgO1QB-Gqc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYRrheSMkM38gXVWAXHYSK5FD10A",
-                "description": "サムネイラスト\n　いよかん椛さん　https://twitter.com/momomomomiZ\n\n雑談 - Free Talk - 再生リスト\nhttps://www.youtube.com/playlist?list=PL6gUpTCMieF4Yyd0SjmUr7OjjyS9lVW6U..."
-            }
-        ]
+        "videos": []
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -203,7 +195,7 @@
             {
                 "video_id": "p72j2aIrRHM",
                 "title": "【 配信予定 】【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "date": "2025/08/31 20:00:00",
+                "date": "2025/08/31 20:10:00",
                 "thumbnail": "https://i.ytimg.com/vi/p72j2aIrRHM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBszLusH4gOWzzXBIRrDkuaf-7Ifg",
                 "description": "綺々羅々ヴィヴィ 誕生日記念2025グッズ\n■販売ページURL\nhttps://shop.hololivepro.com/products/kikiraravivi_birthday_2025\n■グッズ販売期間（受注販売）\n2025年08月2..."
             }
@@ -271,7 +263,15 @@
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
         "channel_name": "Moona Hoshinova hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "adpXrcofD1E",
+                "title": "【Membership】Repo with MLM!!【Moona | hololive ID】",
+                "date": "2025/08/31 22:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/adpXrcofD1E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPu9of1dSZNjkejOML-HCGn8X_ow",
+                "description": "Streamlabs donation link here : https://streamlabs.com/moonahoshinovahololive-id/tip\nSociaBuzz donation link here : https://sociabuzz.com/moonahoshinova/tribe\n======================================..."
+            }
+        ]
     },
     "@MoriCalliope": {
         "channel_url": "https://www.youtube.com/@MoriCalliope",
