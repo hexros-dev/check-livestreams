@@ -311,14 +311,7 @@
         "channel_url": "https://www.youtube.com/@SamekoSaba",
         "channel_name": "saba",
         "avatar_url": "https://yt3.googleusercontent.com/gNZv93GVlg3GAco7HTg2OXl_9s2Pm3lG6DxNfOXqPkLRNcM5BSEOAcQGpgQ8AejiEam5ElLG",
-        "videos": [
-            {
-                "video_id": "6QEZkZv1g8o",
-                "title": "【Hatsune Miku Project DIVA Mega Mix】Carpal Tunnel The Game",
-                "thumbnail": "https://i.ytimg.com/vi/6QEZkZv1g8o/hqdefault.jpg?v=68b47605&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_e9kzjdU9QJi4iPhQflVKKHzJug",
-                "description": "happy birthday hatsune miku\n\n\n🐟 https://x.com/samekosaba\n#samekosaba \n\n\n\nchat rules: please help me make this a welcoming space for everyone!\n- treat every participant with respect, including..."
-            }
-        ]
+        "videos": []
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
@@ -445,7 +438,14 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "mHzLqwFxk44",
+                "title": "【MEMBERS ONLY】ME AND CHATTINI BEFORE MY SMALL VACATION! ~",
+                "thumbnail": "https://i.ytimg.com/vi/mHzLqwFxk44/hqdefault.jpg?v=68b47d47&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-gxi7LjT7EnzBJ07TryKDqdtbvA",
+                "description": "╭─⋆｡ﾟ♡ RAO ♡｡ﾟ⋆─╮\n\n『 X  』  \nhttps://x.com/raorapanthera  \n\n『 Hashtags 』  \n╰┈✧ Live ➤ #CiaoRaora  \n╰┈✧ Fanarts ➤ #RaorArt  \n╰┈✧ Clips ➤..."
+            }
+        ]
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
