@@ -237,20 +237,20 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": [
-            {
-                "video_id": "aavf5advR8w",
-                "title": "【OHAPOL】#177 9/1月曜日！9月になっちゃおっかな～ #ポルカ公演中 【尾丸ポルカ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/aavf5advR8w/hqdefault.jpg?v=68b4b578&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZSmiA3f3b7RL2xZ84oGQ52t4s7w",
-                "description": "💌尾丸ポルカ 活動5周年記念グッズ💌\n\n📢販売URL\nhttps://shop.hololivepro.com/products/omarupolka_anniversary_5th\n🔔グッズ販売期間（受注販売）\n2025年08月16日..."
-            }
-        ]
+        "videos": []
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "gsbzCOmfY-0",
+                "title": "【 #朝ミオ 】９月だ！！！月曜日だよ～～おはみぉーん！",
+                "thumbnail": "https://i.ytimg.com/vi/gsbzCOmfY-0/hqdefault.jpg?v=68b44d76&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDIl4lSKOZ_BzMQIhZtxLzq2JE7SQ",
+                "description": "暑すぎる・・！\n\n#朝ミオおたより Twitter(X)で募集中です🌟\n今回紹介するお題は、『ソロライブに持っていきたい物』です！\n\nサムネillustrator：ゆぴ..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -420,14 +420,7 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": [
-            {
-                "video_id": "tMq7Ihh9Aow",
-                "title": "【THANK GOODNESS YOU'RE HERE!】I found you otomos! Right there!",
-                "thumbnail": "https://i.ytimg.com/vi/tMq7Ihh9Aow/hqdefault.jpg?v=68b46732&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsBDl3sOTB7kvQ74VMc4KkbXoHkw",
-                "description": "art: https://x.com/aikamaki/status/1954237490308735407\n\n--------------------------\nHashtags\n📺 Livestream: #ImmerScreen \n🎨 Fanart: #Immergination\n🎻 Music: #ImmerPiece\n🤡 Memes: #ImmerMeme..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
