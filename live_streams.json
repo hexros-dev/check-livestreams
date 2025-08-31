@@ -199,14 +199,7 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": [
-            {
-                "video_id": "xJ0ro12eOAc",
-                "title": "【ドンキーコングバナンザ】ドンキーとの物語 #５【水宮枢／ホロライブDEV_IS】",
-                "thumbnail": "https://i.ytimg.com/vi/xJ0ro12eOAc/hqdefault.jpg?v=68b1bf84&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZbmCsG_t_o3M3vIio76po9JD4EA",
-                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸◂┄▹◃\n\n💙メンバーシップは..."
-            }
-        ]
+        "videos": []
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -400,7 +393,14 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "6OGGfd0_Xk4",
+                "title": "【歌】あともう少しで１３１万！この枠でいくかな～？【ホロライブ/ときのそら】",
+                "thumbnail": "https://i.ytimg.com/vi/6OGGfd0_Xk4/hqdefault.jpg?v=68b3d7b4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmO-BTOEbujaJ9kVY3jn4IAI3UVA",
+                "description": "まぁいったらうれしいね。くらいの感覚でいこう！！\n\n～サムネイラスト～\nNelke様\nhttps://x.com/raychinotwin\n\n～カラオケ～\nカラオケアプリ\n※このライ..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
