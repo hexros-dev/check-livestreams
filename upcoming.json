@@ -238,7 +238,15 @@
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "CglKkavQlWs",
+                "title": "【ZOMILY】 MIGHT BE A SHORT ZOMILY STREAM!! 【Kureiji Ollie】",
+                "date": "2025/08/31 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/CglKkavQlWs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBeG3WEOczRH3npgqIfuOxCDIJB2Q",
+                "description": "#OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n==========================================\n\nThis is a membership stream, please don't clip any content or talk about topics said here unless I..."
+            }
+        ]
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
@@ -576,15 +584,7 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": [
-            {
-                "video_id": "_ofOQ9L0tfs",
-                "title": "【STREET FIGHTER 6】ランクをします！！！【常闇トワ/ホロライブ】",
-                "date": "2025/08/31 15:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/_ofOQ9L0tfs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDP_CayOt-M15JlHT8eIeylheV7Ig",
-                "description": "この動画およびライブは株式会社カプコンの利用許諾を受けて配信しています『ストリートファイター6』\n©CAPCOM CO., LTD. 2023 ALL RIGHTS RESERVED.This..."
-            }
-        ]
+        "videos": []
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
