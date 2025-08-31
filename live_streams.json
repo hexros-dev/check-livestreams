@@ -153,7 +153,14 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "dPEMyKFpbvk",
+                "title": "【Hollow Knight】PANTHEON",
+                "thumbnail": "https://i.ytimg.com/vi/dPEMyKFpbvk/hqdefault.jpg?v=68b4b301&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDor8P_OdXkShiWolYIR0stTcAaBA",
+                "description": "Thumbnail Art: @PhdPigeon THANK YOU!\nhttps://x.com/PhdPigeon/status/1952237177074835805/photo/1\n\nBIRTHDAY MERCH\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/koseki..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -347,14 +354,7 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": [
-            {
-                "video_id": "USRojXwfi3w",
-                "title": "【HOLLOW KNIGHT】a wise girl once said \"nothing beats a groundpound\" #kfp #キアライブ",
-                "thumbnail": "https://i.ytimg.com/vi/USRojXwfi3w/hqdefault.jpg?v=68b385a4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCeDcsmdjF1MnqZzozX45eJuPysVA",
-                "description": "Takanashi Kiara『TASTY』\nhttps://cover.lnk.to/al3Zjt\n\n🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara\n\n 🏵️[Hashtags] 🏵️\n#kfp #キアライブ#hololiveenglish #holomyth..."
-            }
-        ]
+        "videos": []
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
