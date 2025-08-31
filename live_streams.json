@@ -314,7 +314,14 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "RANm14s5g2E",
+                "title": "【 VALORANT 】ボクが眠るまでは８月なんだから！！　【ホロライブ/ ロボ子さん】",
+                "thumbnail": "https://i.ytimg.com/vi/RANm14s5g2E/hqdefault.jpg?v=68b4687b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNnlEg5o36FyIahEjFEGqpuNLOZg",
+                "description": "＃ホロライブ　#hololive 　 #valorant \nｘでは💬  #ロボ子生放送　でポストしてってね\n※本ゲームは © Riot Games, Inc. の承諾を得た上で配信・収益化を..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -360,7 +367,7 @@
         "videos": [
             {
                 "video_id": "e05L7KdfSuE",
-                "title": "【スプラトゥーン3/サーモンラン】クマフェスらしいからうswitch２の負荷テストもかねてろこ乱獲しにいく【不知火フレア/ホロライブ】",
+                "title": "【スプラトゥーン3/サーモンラン】クマフェスらしいからswitch２の負荷テストもかねてうろこ乱獲しにいく【不知火フレア/ホロライブ】",
                 "thumbnail": "https://i.ytimg.com/vi/e05L7KdfSuE/hqdefault.jpg?v=68b453a4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA33hypsHSTMd3LJIhVpnVx9Q4J7g",
                 "description": "初switch２始動！！！快適なのか検証もしたい\n@AkiRosenthal アキちゃんが数分だけくるかーも！\n\n■Newシングル「架空と本当」MV公開中✨\nhttps://www.youtub..."
             }
@@ -500,14 +507,7 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
-        "videos": [
-            {
-                "video_id": "u2CRhtb-7aA",
-                "title": "風真いろはの #ねるまえらじお 📻❣ #01",
-                "thumbnail": "https://i.ytimg.com/vi/u2CRhtb-7aA/hqdefault.jpg?v=68b457ab&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADA8I2XD1T_A2xr3zO6IbmBnKkeA",
-                "description": "記念すべき第1回✨\nお便り募集中✨\n\n📻#ねるまえらじお ふつおた募集💌\n￣V￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n第1回のらじおで読むふつおた大..."
-            }
-        ]
+        "videos": []
     },
     "@mikenekoko": {
         "channel_url": "https://www.youtube.com/@mikenekoko",
