@@ -39,7 +39,14 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "u-yA5-i2zZU",
+                "title": "M.M.M. Triple M is back in September !",
+                "thumbnail": "https://i.ytimg.com/vi/u-yA5-i2zZU/hqdefault.jpg?v=68b477e8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAT_Vvuh__yhuURxaxlB4xj0oE3Ug",
+                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nーーーーーーーーー\n\nSTREAM MY NEWEST ORIGINAL SONG メトロポリス (metropolis) IN YOUR PREFERRED MUSIC STREAMING PLATFROM!!!..."
+            }
+        ]
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -153,14 +160,7 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": [
-            {
-                "video_id": "dPEMyKFpbvk",
-                "title": "【Hollow Knight】PANTHEON",
-                "thumbnail": "https://i.ytimg.com/vi/dPEMyKFpbvk/hqdefault.jpg?v=68b4b301&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDor8P_OdXkShiWolYIR0stTcAaBA",
-                "description": "Thumbnail Art: @PhdPigeon THANK YOU!\nhttps://x.com/PhdPigeon/status/1952237177074835805/photo/1\n\nBIRTHDAY MERCH\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/koseki..."
-            }
-        ]
+        "videos": []
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -268,7 +268,14 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "J8tnqHZUy88",
+                "title": "【Just Chatting】All For One Concert + NYC Trip",
+                "thumbnail": "https://i.ytimg.com/vi/J8tnqHZUy88/hqdefault.jpg?v=68b3d0fe&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDlJK-kLN1WJISAF-Y4NcPYviDOAw",
+                "description": "[Twitter]\nhttps://twitter.com/ourokronii\n\n[Thumbnail Art]\nhttps://x.com/MoGu_Zaemon\n\n----------------------------------------------------------------------------\n\n[Viewer Rules]\nThank you for..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
