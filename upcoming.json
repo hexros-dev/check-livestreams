@@ -125,6 +125,13 @@
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
         "videos": [
             {
+                "video_id": "Unk7J8AY67k",
+                "title": "【 #朝こよ 】9月だ～！火曜日の朝は朝こよ～～～！☀ #248 【博衣こより/hololive】",
+                "date": "2025/09/02 05:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Unk7J8AY67k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDizr7JaU2p2N01fqbwrSjszsx1OQ",
+                "description": "💿1stアルバム「FIRST STEP」発売中！全曲新録！成長した歌を聴いてね🎶\n　https://cover.lnk.to/SdOKbq\n\n#朝こよ を観れば日本ニキも海外ニキもホロライブ..."
+            },
+            {
                 "video_id": "r5Vt6LLq9kg",
                 "title": "【 #ホロライブ甲子園2025 】こんこよ高校初回！！！リセマラいくぞおおおおおおおお！！！！！！【博衣こより/ホロライブ】",
                 "date": "2025/09/01 17:00:00",
@@ -636,7 +643,15 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ZgnZfYGcO6o",
+                "title": "【GREMBERS】LONG TIME NO GREMBERS!!!!",
+                "date": "2025/09/02 04:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ZgnZfYGcO6o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBe0gz7ODXFA5MscxKgC9a_cZbkdA",
+                "description": "lets take it ez peasy\n\n【Acrylic Stands】\n▼Official Online Shop▼\nJP：https://shop.hololivepro.com/products/hololiveen_regularoutfit_acrylicstand\nEN：https://shop.hololivepro.com/en/products..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
