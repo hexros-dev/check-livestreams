@@ -35,14 +35,7 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": [
-            {
-                "video_id": "5xJdss0U-_o",
-                "title": "アキちょこナイトパレット第3回～ホロライブ深夜ラジオ～ #アキちょこナイパレ",
-                "thumbnail": "https://i.ytimg.com/vi/5xJdss0U-_o/hqdefault.jpg?v=68b5ab10&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACMya0c8NQAJ7PlVqLzwpBUQavgA",
-                "description": "#アキちょこナイパレ でやってほしいコーナー大募集中！\nXでタグをつけてポストしてね！\n前週→ https://www.youtube.com/live/grVbrq1y9_g\n次週→\n\nwith..."
-            }
-        ]
+        "videos": []
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -72,7 +65,14 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "7C3I9Ht3CQQ",
+                "title": "【FUWAMOCO MORNING】episode 170 🐾 #FWMCMORNING",
+                "thumbnail": "https://i.ytimg.com/vi/7C3I9Ht3CQQ/hqdefault.jpg?v=68b51cd2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSZfA95C6grC7U_e-sgVESO0bvig",
+                "description": "back to a new week and a new month together ✨\nlovely illustration by @kaie_5214 💕\njingle by @Sarina_A_Elysia ♪\n🩵 FUWAMOCO 𝟮𝗻𝗱 𝗼𝗿𝗶𝗴𝗶𝗻𝗮𝗹 𝘀𝗼𝗻𝗴..."
+            }
+        ]
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -245,14 +245,7 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": [
-            {
-                "video_id": "ZlLW__FWCr8",
-                "title": "【ELDEN RING】guts becomes elden lord (part 8) #calliolive",
-                "thumbnail": "https://i.ytimg.com/vi/ZlLW__FWCr8/hqdefault.jpg?v=68b48a37&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6U2J6FB6OaXYQI2iCEYjsI3T2zg",
-                "description": "BGM: https://x.com/BigRicePiano\nhttps://x.com/the_arkhand\nhttps://x.com/alterclad\n\nRequest from hololive Productions to underage viewers\nPlease search for [Request To Minors] or click on the..."
-            }
-        ]
+        "videos": []
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -357,14 +350,7 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": [
-            {
-                "video_id": "cuhsUz8uhR8",
-                "title": "【7 Days to Die  】ひとりで生き抜く！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "thumbnail": "https://i.ytimg.com/vi/cuhsUz8uhR8/hqdefault.jpg?v=68b54352&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApunqpbqSI_QM9azD82BtwdYbTVw",
-                "description": "配信タイトル：7 Days to Die\nhttps://store.steampowered.com/app/251570/7_Days_to_Die/\n本ゲームは THE FUN PIMPS ©2017 の確認を得た上で配信・収益化を行なっておりま..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -488,7 +474,14 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "29pBpS4fCzg",
+                "title": "【BUM Simulator】",
+                "thumbnail": "https://i.ytimg.com/vi/29pBpS4fCzg/hqdefault.jpg?v=68b58228&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCCd9tgdbuuPFWZra4tbfRIZo9Ajw",
+                "description": "配信タイトル：Bum Simulator\nストアページ：https://store.steampowered.com/app/855740/Bum_Simulator/\n\nThumbnail: https://x.com/wiwan_21\n-----\nVestia Zeta's  2nd Original Song  ▶..."
+            }
+        ]
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
