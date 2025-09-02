@@ -412,14 +412,7 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": [
-            {
-                "video_id": "FndjOeuveEU",
-                "title": "【Fork Road】２択を迫られるホラゲ？！【角巻わため/ホロライブ４期生】",
-                "thumbnail": "https://i.ytimg.com/vi/FndjOeuveEU/hqdefault.jpg?v=68b6c339&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyCfYTCA17uz03UguBQ8cogZIYkg",
-                "description": "じっくり選びたいタイプなんですが大丈夫ですか？！\nタグ：#ドドドライブ\n\n配信タイトル：丁字路\nストアページ：https://store.steampowered.com/app/2976400..."
-            }
-        ]
+        "videos": []
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -443,7 +436,14 @@
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
         "channel_name": "Choco Ch. 癒月ちょこ",
         "avatar_url": "https://yt3.googleusercontent.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "MLIE_WnYu08",
+                "title": "【Freetalk】悪魔の飯テロ注意📣 深夜の初めてのカップ焼きそば【ホロライブ/癒月ちょこ】",
+                "thumbnail": "https://i.ytimg.com/vi/MLIE_WnYu08/hqdefault.jpg?v=68b70ca8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2AAHTQRs_I9rW-DVFaFUqQXGu4g",
+                "description": "サブ垢→https://www.youtube.com/channel/UCp3tgHXw_HI0QMk1K8qh3g\n\n癒月ちょこ新衣装記念グッズ\n→https://shop.hololivepro.com/products/yuzukichoco_newoutfit_2025\n\nOP＆ED動画：松..."
+            }
+        ]
     },
     "@dooby3d": {
         "channel_url": "https://www.youtube.com/@dooby3d",
