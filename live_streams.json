@@ -9,7 +9,14 @@
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
         "channel_name": "Airani Iofifteen Channel hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "mvJKYA9tEEE",
+                "title": "【Apex Legends】MATCH WITH IOFORIA!【 iofi / hololiveID 】",
+                "thumbnail": "https://i.ytimg.com/vi/mvJKYA9tEEE/hqdefault.jpg?v=68b6bb3f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLic2t6Fyx9oMU6m7YzuNVxhw1fg",
+                "description": "#ioLyfe #Airani_Iofifteen #hololive #holoID \n\nThis game is being streamed and monetized after receiving prior consent from © 2020 Electronic Arts Inc.\n\n【Support & Jajanin IOFI】🎨\nIndonesia..."
+            }
+        ]
     },
     "@AkaiHaato": {
         "channel_url": "https://www.youtube.com/@AkaiHaato",
@@ -297,7 +304,14 @@
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "2wjrkAlim1Y",
+                "title": "【 Mouthwashing 】宇宙に取り残された５人の物語。【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+                "thumbnail": "https://i.ytimg.com/vi/2wjrkAlim1Y/hqdefault.jpg?v=68b6d4d2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBagwTV28nPGitmlrt3HCmReSesFg",
+                "description": "▽✨重大告知✨ ▽\n音乃瀬奏 1stオリジナル曲「GREATEST」\n4/20(日) 24：00（4/21  0：00）リリース開始！\nhttps://cover.lnk.to/4rvCRp\n\n୨୧♪:*:･･:*:･♪･:*:･..."
+            }
+        ]
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
@@ -340,14 +354,7 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": [
-            {
-                "video_id": "0fmu1C8o4sc",
-                "title": "【 飢界 】緊急で動画回してるんですケド異界の化け物に食われそうです【ホロライブ/さくらみこ】",
-                "thumbnail": "https://i.ytimg.com/vi/0fmu1C8o4sc/hqdefault.jpg?v=68b69feb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8b7d_WY1GMHPdcW-6NOwQGtNolg",
-                "description": "🌸#さくらみこ7周年 記念グッズはこちら！🌸\n⏰2025年09月01日 18時00分 まで 〆切\nhttps://shop.hololivepro.com/products/sakuramiko_anniversary_7th\n\n⪩⪨　お知らせ/..."
-            }
-        ]
+        "videos": []
     },
     "@SamekoSaba": {
         "channel_url": "https://www.youtube.com/@SamekoSaba",
@@ -365,14 +372,7 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": [
-            {
-                "video_id": "X5pjnM6Vpts",
-                "title": "【＃７】　星のカービィ ディスカバリー スターリーワールド/Kirby and the Forgotten Land Star-Crossed World　【ホロライブ/白上フブキ】",
-                "thumbnail": "https://i.ytimg.com/vi/X5pjnM6Vpts/hqdefault.jpg?v=68b6b3e9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmWsDyg2eV8Lc4SwhU1C9O355AIA",
-                "description": "Nintendo Switch 2 で遊ぶ、カービィの2つの冒険。\n『星のカービィ ディスカバリー Nintendo Switch 2 Edition ＋ スターリーワールド』が8月28日に発売！..."
-            }
-        ]
+        "videos": []
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -396,26 +396,33 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "XWIQqU34698",
+                "title": "【HOLLOW KNIGHT】holo night #kfp #キアライブ",
+                "thumbnail": "https://i.ytimg.com/vi/XWIQqU34698/hqdefault.jpg?v=68b6bf6b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBeI49UVLb6UjwrQLq8F0AlSWSvHA",
+                "description": "Takanashi Kiara『TASTY』\nhttps://cover.lnk.to/al3Zjt\n\n🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara\n\n 🏵️[Hashtags] 🏵️\n#kfp #キアライブ#hololiveenglish #holomyth..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "FPMkML16vck",
+                "title": "【 恐怖耐性診断テスト 】ホラゲ耐性弱い？いやいや馬鹿にしないでください少しはついてますよ。【鷹嶺ルイ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/FPMkML16vck/hqdefault.jpg?v=68b6bea9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCS05-ZX0EfjotUVQpNddoAmP5tUw",
+                "description": "昨日コメント欄で馬鹿にされたから俺の本気みせてやるよ！！！！！！！！！！\n\n配信タイトル：恐怖耐性診断テスト\nストアページ：https://store.ste..."
+            }
+        ]
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": [
-            {
-                "video_id": "Xdu9brUQHrY",
-                "title": "＃7【JUDGE EYES：死神の遺言】初見でいくジャッジアイズ！最終回！【轟はじめ/ReGLOSS】※ネタバレあり",
-                "thumbnail": "https://i.ytimg.com/vi/Xdu9brUQHrY/hqdefault.jpg?v=68b5d3ee&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHPsFTvSf1GRdjOP6DomM2vuHq5Q",
-                "description": "この動画およびライブは、コンテンツ利用許諾契約に基づいて配信しています。\n©SEGA\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n✨宣伝✨\n新曲⚡B..."
-            }
-        ]
+        "videos": []
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
