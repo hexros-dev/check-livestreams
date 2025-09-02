@@ -387,7 +387,15 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "3LOtvIiNFVs",
+                "title": "【 雀魂】初心者麻雀の進化論🐣 DREAM MATCH 雀魂下剋上リーグ顔合わせからの特訓！　【ホロライブ/ ロボ子さん】",
+                "date": "2025/09/03 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/3LOtvIiNFVs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLEI5kwr7qxJWF2F6UVQFx2ZPgUQ",
+                "description": "＃ホロライブ　　 #雀魂 #ガチャ\nｘでは💬  #ロボ子生放送　でポストしてってね\nこの配信のPONは合法です。うれしい\n🀄チームメンバー\n@AkiRosenthal..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -554,15 +562,7 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": [
-            {
-                "video_id": "a4g921-7YiI",
-                "title": "【MEMBER STREAM】This piano looks different... [SPIRITFARER]",
-                "date": "2025/09/03 02:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/a4g921-7YiI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyUc7L7cGJG635Hnl_PHGki5lLAA",
-                "description": "Hello I realised I forgot my piano pedal and power chord in the far east... or in freesia?... anyways no piano stream today sorry\nInstead I've been actually wanting to play this game for a..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
