@@ -69,7 +69,14 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "dr8eaR6Eod8",
+                "title": "【告知】博衣こより、○○○○はじめます！【声遊楽プロジェクト】【博衣こより/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/dr8eaR6Eod8/hqdefault.jpg?v=68b5bf56&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7E-FRZQdPNLBU9DPvRclPYSYMng",
+                "description": "提供：JT D-LAB　\n\n◆声遊楽プロジェクトとは？\n「声遊楽プロジェクト」は、「声を発すること」や「聴くこと」を、それぞれの人が好きな形で日常..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -153,14 +160,7 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": [
-            {
-                "video_id": "sy70Cwz13wA",
-                "title": "【Hollow Knight】WAITING FOR SILKSONG WITH MORE PANTHEON!",
-                "thumbnail": "https://i.ytimg.com/vi/sy70Cwz13wA/hqdefault.jpg?v=68b5fc5c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmLm72n-2s618jaGrbnId92W0v-w",
-                "description": "Thumbnail Art: @decrilus THANK YOU!\nhttps://x.com/decrilus/status/1961663469159420307/photo/1\n\nBIRTHDAY MERCH\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/kosekibi..."
-            }
-        ]
+        "videos": []
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -280,7 +280,14 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "kGVUL5fKQZc",
+                "title": "【 縦型歌枠/KARAOKE】　すきま時間にうたっちゃお～～【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "thumbnail": "https://i.ytimg.com/vi/kGVUL5fKQZc/hqdefault.jpg?v=68a84919&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDw31RR_kY8tGK4YhI4MRyRt-YOlg",
+                "description": "サムネイルイラスト：えるさま\nhttps://x.com/l_illust45\n\nねえ、いっしょに向こう側の景色を見に行かない？ \nホロライブDEV_ISからデビューした FLOWGLOWの..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",

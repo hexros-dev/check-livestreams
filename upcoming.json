@@ -85,15 +85,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "dr8eaR6Eod8",
-                "title": "【告知】博衣こより、○○○○はじめます！【声遊楽プロジェクト】【博衣こより/ホロライブ】",
-                "date": "2025/09/02 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/dr8eaR6Eod8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7E-FRZQdPNLBU9DPvRclPYSYMng",
-                "description": "提供：JT D-LAB　\n\n◆声遊楽プロジェクトとは？\n「声遊楽プロジェクト」は、「声を発すること」や「聴くこと」を、それぞれの人が好きな形で日常..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -434,7 +426,15 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "X5pjnM6Vpts",
+                "title": "【＃７】　星のカービィ ディスカバリー スターリーワールド/Kirby and the Forgotten Land Star-Crossed World　【ホロライブ/白上フブキ】",
+                "date": "2025/09/02 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/X5pjnM6Vpts/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmWsDyg2eV8Lc4SwhU1C9O355AIA",
+                "description": "Nintendo Switch 2 で遊ぶ、カービィの2つの冒険。\n『星のカービィ ディスカバリー Nintendo Switch 2 Edition ＋ スターリーワールド』が8月28日に発売！..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
