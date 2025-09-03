@@ -21,7 +21,14 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "pdfsVtAozB4",
+                "title": "【チームファイト タクティクス】第1回FAST8の仲間たちでTFTダブルアップカスタム！ 【ホロライブ/アキロゼ】",
+                "thumbnail": "https://i.ytimg.com/vi/pdfsVtAozB4/hqdefault.jpg?v=68b80c62&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-taoeXZwZby1Sb0zRR7QemjMerQ",
+                "description": "ダブルアップというルールは2人1組でたたかうルールです！\nカスタムメンバーのちほど記載します！\n\n#TFT \n本ゲームは © Riot Games, Inc. の承諾を得た..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -184,7 +191,14 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "IgPiItuIv1Q",
+                "title": "【 歌枠 】カラカラMV発表！！！嬉しくて歌う！！！！！【 桃鈴ねね / hololive 】",
+                "thumbnail": "https://i.ytimg.com/vi/IgPiItuIv1Q/hqdefault.jpg?v=68b7f89c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8gYiVq1KR0kg4K7MafGKpmEJQBQ",
+                "description": "よっしゃ～～～～～～～～！！！！！！！！！！！！！！！！！！！！！\n5周年グッズは１６日まで✨\nhttps://shop.hololivepro.com/products/momosuzunene_annivers..."
+            }
+        ]
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
@@ -359,14 +373,7 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": [
-            {
-                "video_id": "eEzv0qxnMko",
-                "title": "新異変【8番出口】映画見てきたらまた迷い込んだ【轟はじめ/ReGLOSS】",
-                "thumbnail": "https://i.ytimg.com/vi/eEzv0qxnMko/hqdefault.jpg?v=68b7cf74&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgXIh9KQXpGqi7kgn06cII4O1i6Q",
-                "description": "素敵なサムネお写真：とあ様（@toa_inusuki）\n\n本ゲームは、動画配信ガイドラインに則り配信、収益化を行なっております。\nhttps://store.steampowered.com/a..."
-            }
-        ]
+        "videos": []
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
@@ -378,14 +385,7 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": [
-            {
-                "video_id": "bt02btNTBFA",
-                "title": "【 STREET FIGHTER 6 】ダイア5にいけるのか…！？告知もあり！！！【常闇トワ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/bt02btNTBFA/hqdefault.jpg?v=68b7c6e8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXr1HUFeervHtPB6wC774qmk57PA",
-                "description": "この動画およびライブは株式会社カプコンの利用許諾を受けて配信しています『ストリートファイター6』\n©CAPCOM CO., LTD. 2023 ALL RIGHTS RESERVED.This..."
-            }
-        ]
+        "videos": []
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
@@ -476,7 +476,14 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "wuxjWNw372w",
+                "title": "【月見バーガー】マック、ケンタッキー、コメダ、ロッテリアの月見バーガー食べ比べするぞ！！！ぺこ！【ホロライブ/兎田ぺこら】",
+                "thumbnail": "https://i.ytimg.com/vi/wuxjWNw372w/hqdefault.jpg?v=68b7e897&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAONEy132SBRh9e9uQLmU0aSiWq2w",
+                "description": "ジムの先生には内緒だよ\n\nサムネイラスト：朱里さん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
