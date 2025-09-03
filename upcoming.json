@@ -15,15 +15,7 @@
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
         "avatar_url": "https://yt3.googleusercontent.com/ecW_DT7IKBcfKJ1qioYiyU_Iq6EB4_bCZpaG4srWPkEZRsIAiYguEvh7_nELEJqPnbjAktVj6Q",
-        "videos": [
-            {
-                "video_id": "gqDqujgcC34",
-                "title": "【 ゆけむり温泉郷2 】9月から、旅館経営はじめます‼️♨【ホロライブ/赤井はあと】",
-                "date": "2025/09/03 18:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/gqDqujgcC34/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCLWP5ogZUt5frbwDnXUq_pwbZikg",
-                "description": "📢赤井はあと生誕祭グッズ販売中‼️9/16(火)18:00までの期間限定❕\n◇販売ページURL\nhttps://shop.hololivepro.com/products/akaihaato_birthday_2025\n📢新曲『感触』..."
-            }
-        ]
+        "videos": []
     },
     "@AkiRosenthal": {
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
@@ -92,7 +84,15 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "-UsJpa5DuZU",
+                "title": "【恐怖耐性診断テスト】ねぇこれコワイ？コワイの？やばい？大丈夫？【博衣こより/ホロライブ】",
+                "date": "2025/09/03 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/-UsJpa5DuZU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfr-AU32e-yepDkMLHa3DJG1wPjQ",
+                "description": "結果知りたいんだけど怖いのイヤなんだがどうすればいい？\n💿1stアルバム「FIRST STEP」発売中！全曲新録！成長した歌を聴いてね🎶\n　https://cover.l..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
