@@ -89,14 +89,7 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": [
-            {
-                "video_id": "WTZ3JbSc4B8",
-                "title": "【 プリコネR 】久々プリフェス！アイラガチャ回すのらあああ！！！【姫森ルーナ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/WTZ3JbSc4B8/hqdefault.jpg?v=68b719fb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBy-wQxPtxnHcuTEWqsMlmK0Jgbng",
-                "description": "サムネイラスト\n　猫うさぎさん　https://twitter.com/nekousagi_jpn\n\nプリコネR ガチャ再生リスト\nhttps://www.youtube.com/playlist?list=PL6gUpTCMieF4Q9QKRSFXit0Ty2eMXXCrg..."
-            }
-        ]
+        "videos": []
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -114,7 +107,14 @@
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "XYY_hPtLMOg",
+                "title": "【 #ホロライブ甲子園2025】初回！選手リセマラいくぞおおおおおお！！！！！【ホロライブ/宝鐘マリン】",
+                "thumbnail": "https://i.ytimg.com/vi/XYY_hPtLMOg/hqdefault.jpg?v=68b77d89&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3yZnL2PDGrPG8Uip1nAsoDeHHDw",
+                "description": "サムネイラスト…白い箪笥\nhttps://x.com/oekakisurude12\n\n本ゲームは株式会社コナミデジタルエンタテインメントの動画投稿ガイドラインに則り配信・収..."
+            }
+        ]
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
@@ -224,10 +224,10 @@
         "avatar_url": "https://yt3.googleusercontent.com/3CeLWGYb6cLUywTJzNt-UpITviNxeGNvtjhIqbV-AIybCqCoFw9onWtg91bjwpqvfEP9mfqIR4Q",
         "videos": [
             {
-                "video_id": "uRa-uLMea7w",
-                "title": "【 #百鬼あやめ7周年新衣装3D 】百鬼あやめ７周年記念ライブ  ～天女繚華～ 【百鬼あやめ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/uRa-uLMea7w/hqdefault.jpg?v=68afb58d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgtpkoAu-BtBxdzR938UZ9QcX17A",
-                "description": "🌸ゲスト🌸\n​ 　@AZKi \n　@usadapekora \n​　⁨@FUWAMOCOch \n​　@ShirakamiFubuki \n​　@SakuraMiko \n​　@OokamiMio \n​　@HoushouMarine \n​　@AmaneKanata \n​　@YukihanaLamy..."
+                "video_id": "Kb-Zkkdyz6c",
+                "title": "【 #百鬼あやめ7周年新衣装3D 】メンバーシップ限定 百鬼あやめ７周年記念ライブ ～天女繚華～  Encore Live Members Only【百鬼あやめ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/Kb-Zkkdyz6c/hqdefault.jpg?v=68b803a8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCP-bkpDCK1oaJB-o2H3keRv4gWew",
+                "description": "🌟百鬼あやめ活動7周年記念グッズ🌟\n　▽販売はコチラ▽\n　https://shop.hololivepro.com/en/products/nakiriayame_anniversary_7th \n\n🌸2025年9月4日0:00よりリリース..."
             }
         ]
     },
@@ -277,7 +277,14 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "sqNGYGYa700",
+                "title": "【#生スバル】スーパードンキーコング２：Donkey Kong Country 2: Diddy's Kong Quest【ホロライブ/大空スバル】",
+                "thumbnail": "https://i.ytimg.com/vi/sqNGYGYa700/hqdefault.jpg?v=68b6d3f6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmxr1fV32GVKEcT_Q1g6RbklB--Q",
+                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントする..."
+            }
+        ]
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -301,7 +308,14 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "IztzSLD1iEc",
+                "title": "【雑談/chat】いろいろ話そうよ【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "thumbnail": "https://i.ytimg.com/vi/IztzSLD1iEc/hqdefault.jpg?v=68b815de&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXGBmrxojFfxKmDVBzHHrkOK-r8w",
+                "description": "もう秋になるんですか？？？\n\nサムネイルイラスト：flambeさま\nhttps://x.com/tyoitohikkosi07\nありがとうございます！\n\nねえ、いっしょに向こう側の景色を..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -409,7 +423,14 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "TNiymxZMcUc",
+                "title": "【クロノトリガー】#01 完全初見！名作RPGの世界へ冒険に行くぞ！！【 雪花ラミィ /ホロライブ】※配信内容にネタバレあり",
+                "thumbnail": "https://i.ytimg.com/vi/TNiymxZMcUc/hqdefault.jpg?v=68b7d104&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbz8j6ilzcy0B7BzCmqPd-dJOaTg",
+                "description": "本動画のゲームプレイ映像は、株式会社スクウェア・エニックスの許諾を受けて使用しています。\nこのページ、動画で利用している弊社または弊..."
+            }
+        ]
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",

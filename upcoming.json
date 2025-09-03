@@ -116,15 +116,7 @@
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk",
-        "videos": [
-            {
-                "video_id": "XYY_hPtLMOg",
-                "title": "【 #ホロライブ甲子園2025】初回！選手リセマラいくぞおおおおおお！！！！！【ホロライブ/宝鐘マリン】",
-                "date": "2025/09/03 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/XYY_hPtLMOg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3yZnL2PDGrPG8Uip1nAsoDeHHDw",
-                "description": "サムネイラスト…白い箪笥\nhttps://x.com/oekakisurude12\n\n本ゲームは株式会社コナミデジタルエンタテインメントの動画投稿ガイドラインに則り配信・収..."
-            }
-        ]
+        "videos": []
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
@@ -162,7 +154,15 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Z2zCW1BaFM8",
+                "title": "【晩酌雑談】儒烏風亭らでんの「烏」は「鳥」ではない【儒烏風亭らでん #ReGLOSS 】",
+                "date": "2025/09/03 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Z2zCW1BaFM8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBytlkNlQY4zYytso6kYuVOmVn_YQ",
+                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\n\n▼儒烏風亭らでんソロ曲「落噺」楽曲配信（..."
+            }
+        ]
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -177,7 +177,7 @@
         "videos": [
             {
                 "video_id": "PPxvJX-AFbQ",
-                "title": "【 配信予定 】【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "title": "【 ドキドキAI尋問ゲーム 】質問攻めの刑！！お前がやったんだろ!?【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
                 "date": "2025/09/03 20:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/PPxvJX-AFbQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAB6pMyu3Hxga0aZoJlRxycnTLxbQ",
                 "description": "綺々羅々ヴィヴィ 誕生日記念2025グッズ\n■販売ページURL\nhttps://shop.hololivepro.com/products/kikiraravivi_birthday_2025\n■グッズ販売期間（受注販売）\n2025年08月2..."
@@ -380,13 +380,6 @@
                 "date": "2025/09/04 19:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/bIB-D7NmvWo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApq6dpYgBxcEJRCTFc_B5lxVx9vA",
                 "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n+‥‥‥‥..."
-            },
-            {
-                "video_id": "sqNGYGYa700",
-                "title": "【#生スバル】スーパードンキーコング２：Donkey Kong Country 2: Diddy's Kong Quest【ホロライブ/大空スバル】",
-                "date": "2025/09/03 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/sqNGYGYa700/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmxr1fV32GVKEcT_Q1g6RbklB--Q",
-                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントする..."
             }
         ]
     },
@@ -412,15 +405,7 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": [
-            {
-                "video_id": "IztzSLD1iEc",
-                "title": "【雑談/chat】いろいろ話そうよ【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "date": "2025/09/03 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/IztzSLD1iEc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXGBmrxojFfxKmDVBzHHrkOK-r8w",
-                "description": "もう秋になるんですか？？？\n\nサムネイルイラスト：flambeさま\nhttps://x.com/tyoitohikkosi07\nありがとうございます！\n\nねえ、いっしょに向こう側の景色を..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -478,7 +463,15 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "YzbEqjaQ7vM",
+                "title": "【ELDEN RING NIGHTREIGN 】常夜カリゴと常夜リブラわからせにいく【不知火フレア/ホロライブ】",
+                "date": "2025/09/03 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/YzbEqjaQ7vM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzmRyIH5_D9nsDL0c2wQ5deh8qTw",
+                "description": "エルフレからプレイヤーを募集する際の条件\n・参加は一人一回まで\n・フレアが下手、迷子になって怒らないで←重要\n・楽しくプレイできる方..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -583,15 +576,7 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": [
-            {
-                "video_id": "TNiymxZMcUc",
-                "title": "【クロノトリガー】#01 完全初見！名作RPGの世界へ冒険に行くぞ！！【 雪花ラミィ /ホロライブ】※配信内容にネタバレあり",
-                "date": "2025/09/03 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/TNiymxZMcUc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbz8j6ilzcy0B7BzCmqPd-dJOaTg",
-                "description": "本動画のゲームプレイ映像は、株式会社スクウェア・エニックスの許諾を受けて使用しています。\nこのページ、動画で利用している弊社または弊..."
-            }
-        ]
+        "videos": []
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
