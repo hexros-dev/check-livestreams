@@ -221,7 +221,7 @@
         "videos": [
             {
                 "video_id": "G_HMSa0P9sI",
-                "title": "【#すうさ〜ち】りおちのアレこれサーチ👑🔎【響咲リオナ／水宮枢】#hololiveDEV_IS",
+                "title": "【#すうさーち】りおちのアレこれサーチ👑🔎【響咲リオナ／水宮枢】#hololiveDEV_IS",
                 "date": "2025/09/04 20:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/G_HMSa0P9sI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCP0PKaVDZ1PNG73WtsEgdAym4UBg",
                 "description": "@IsakiRiona \n💙すうりおshort⬇️\n？？？\n💙おすすめ配信 ⬇️\nhttps://www.youtube.com/live/4Ya4HSI8xy4?si=R9DvcV7VbO3-g2AE\n▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸◂┄..."
@@ -597,7 +597,15 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "grV7StWtuIA",
+                "title": "【魔法少女ノ魔女裁判】少女たちに紛れた「殺人犯の魔女」を処刑するデスゲームやってみる。ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意",
+                "date": "2025/09/04 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/grV7StWtuIA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWNrZpc7pQ2L5UCV8cqQAVPHInzw",
+                "description": "おまたせ！！！！！！！！！！！！！！！！！！！！\nTwitterや切り抜きのサムネイルで、パッと見てネタバレになりそうな内容は投稿しないよう配..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
