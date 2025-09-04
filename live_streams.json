@@ -3,14 +3,7 @@
         "channel_url": "https://www.youtube.com/@AZKi",
         "channel_name": "AZKi Channel",
         "avatar_url": "https://yt3.googleusercontent.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos",
-        "videos": [
-            {
-                "video_id": "xeslhRiUX5U",
-                "title": "【TCG Card Shop Simulator】ここっ！駿河湾屋！約1年ぶりの開店！激レアカードをゼロゲッサー！【ホロライブ / AZKi】",
-                "thumbnail": "https://i.ytimg.com/vi/xeslhRiUX5U/hqdefault.jpg?v=68b92dd9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDacPN8nrMEGSYizi5zSSYHbQuXiQ",
-                "description": "久々の開店！気づいたら1年ぐらい経ってました！？\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\nサムネイラスト：左 様\nhttps://x.com/maskedrider_w\n\nサムネカー..."
-            }
-        ]
+        "videos": []
     },
     "@AiraniIofifteen": {
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
@@ -427,7 +420,14 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "1G6mWYMaKXI",
+                "title": "【HOLLOW KNIGHT: SILKSONG】little bugs little needle weapon little HELP AAAAAAAAAA",
+                "thumbnail": "https://i.ytimg.com/vi/1G6mWYMaKXI/hqdefault.jpg?v=68b95304&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNyYIV1HaR-7KxXi_PaEKAA4E8nA",
+                "description": "art: https://x.com/Tailong_yo/status/1963302129025552603\nhttps://x.com/Fongban_/status/1961983207123116165\n--------------------------\nHashtags\n📺 Livestream: #ImmerScreen \n🎨 Fanart: #Immergina..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
