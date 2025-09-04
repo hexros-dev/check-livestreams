@@ -340,14 +340,7 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": [
-            {
-                "video_id": "Bwik3O1Nm6M",
-                "title": "【HOLLOW KNIGHT: SILKSONG】day 1 silksong lets gooooooooooo! #kfp #キアライブ",
-                "thumbnail": "https://i.ytimg.com/vi/Bwik3O1Nm6M/hqdefault.jpg?v=68b8d6c7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIEs_J-CilbRaH6ec4CZL2xjlZSg",
-                "description": "Takanashi Kiara『TASTY』\nhttps://cover.lnk.to/al3Zjt\n\n🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara\n\n 🏵️[Hashtags] 🏵️\n#kfp #キアライブ#hololiveenglish #holomyth..."
-            }
-        ]
+        "videos": []
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
@@ -463,7 +456,14 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "eQT4U2_rwWc",
+                "title": "【SKYBLOCK MINECRAFT】 In my happy space",
+                "thumbnail": "https://i.ytimg.com/vi/eQT4U2_rwWc/hqdefault.jpg?v=68b9f1d3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCfF0EEkh3ouRB5XzatYwxLDc1rWQ",
+                "description": "what is silksong?\n\n☁  Thumbnail Art  ☁\nhttps://x.com/Yume_ato29/status/1961531386684416203\nThank you so much!!\n\n  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋\n\nKonbakuwa! I'm Nimi, the baku..."
+            }
+        ]
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
