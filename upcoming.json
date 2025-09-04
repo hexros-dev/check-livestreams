@@ -3,15 +3,7 @@
         "channel_url": "https://www.youtube.com/@AZKi",
         "channel_name": "AZKi Channel",
         "avatar_url": "https://yt3.googleusercontent.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos",
-        "videos": [
-            {
-                "video_id": "xeslhRiUX5U",
-                "title": "【TCG Card Shop Simulator】ここっ！駿河湾屋！約1年ぶりの開店！激レアカードをゼロゲッサー！【ホロライブ / AZKi】",
-                "date": "2025/09/04 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/xeslhRiUX5U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDacPN8nrMEGSYizi5zSSYHbQuXiQ",
-                "description": "久々の開店！気づいたら1年ぐらい経ってました！？\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\nサムネイラスト：左 様\nhttps://x.com/maskedrider_w\n\nサムネカー..."
-            }
-        ]
+        "videos": []
     },
     "@AiraniIofifteen": {
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
@@ -171,7 +163,15 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "RWtq3sIYOqw",
+                "title": "【Is This Seat Taken?】座ってクレメンス～（最近覚えた言葉）【儒烏風亭らでん #ReGLOSS 】",
+                "date": "2025/09/04 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/RWtq3sIYOqw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWwkO-gO8GXLnoAxSepgLE7TcGRA",
+                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\n配信タイトル：Is This Seat Taken?\nストアページ..."
+            }
+        ]
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
