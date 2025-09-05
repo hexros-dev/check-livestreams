@@ -155,15 +155,7 @@
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
         "channel_name": "Suisei Channel",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
-        "videos": [
-            {
-                "video_id": "gNLI2UD1Gl8",
-                "title": "【#ホロ花火 前日‼】みんなで心理テスト‼0期生の本心がわかる……!?【ホロライブ0期生】",
-                "date": "2025/09/05 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/gNLI2UD1Gl8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBd9B9l-DdUvKdYDuR926mp20JH0g",
-                "description": "☄2025.1.22 3rdフルアルバム『新星目録』発売中！！☄\nhttps://cover.lnk.to/SHINSEIMOKUROKU\n\n『機動戦士Gundam GQuuuuuuX』EDテーマ\n新曲「もうどうなってもいいや..."
-            }
-        ]
+        "videos": []
     },
     "@HoushouMarine": {
         "channel_url": "https://www.youtube.com/@HoushouMarine",
@@ -713,7 +705,15 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Q30tM5zJpvk",
+                "title": "【魔法少女ノ魔女裁判】少女たちに紛れた「殺人犯の魔女」を処刑するデスゲームやってみる。ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意",
+                "date": "2025/09/05 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Q30tM5zJpvk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmbJrggI74nP_vsbSG-I6crrKJ4g",
+                "description": "もうやっていけないよ！！！！！！！！！！\nTwitterや切り抜きのサムネイルで、パッと見てネタバレになりそうな内容は投稿しないよう配慮よろぺ..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
