@@ -24,13 +24,6 @@
                 "description": "❤️‍🔥最新グッズ情報❤️‍🔥\n\n📢赤井はあと生誕祭グッズ販売中‼️9/16(火)18:00までの期間限定❕\n◇販売ページURL\nhttps://shop.hololivepro.com/produc..."
             },
             {
-                "video_id": "bPillswzShY",
-                "title": "【ゆけむり温泉郷2】この旅館を世界一にしてみせましょう・・・❕[第二話]【ホロライブ/赤井はあと】",
-                "date": "2025/09/05 18:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/bPillswzShY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvIG2t-k5-MMCPtErWA80WGWB4qQ",
-                "description": "【前回までのあらすじ】\n♨ゆけむり温泉郷2♨第二話✨\n『コンサルの赤井プロ、現る・・・・❕』\n\n出れない客間、温泉のない温泉宿\n量産するト..."
-            },
-            {
                 "video_id": "zUWRHQXSUyE",
                 "title": "【 花火大会 】夏の思い出に！一緒に花火みよ～～～っ！🎆✨【同時視聴｜#ホロ花火】",
                 "date": "2025/09/06 16:00:00",
@@ -101,7 +94,15 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "uqmCStbJ4nY",
+                "title": "≪PROMISE OFF COLLAB≫ WE PARTYIN'!! #holopromise",
+                "date": "2025/09/06 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/uqmCStbJ4nY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4fPYohmLx1LOOOGEUSqEKr3ubhw",
+                "description": "Come here and see what we gonna be doing cuz honestly... \nwe still don't know LOL \nPROMISE LADIES/ @IRyS  @OuroKronii \n\nThumbnail: https://x.com/pakosun/status/1960636094460125527/photo/1\n..."
+            }
+        ]
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -172,35 +173,27 @@
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "B0d7rw5tDc8",
+                "title": "【8番出口】新たな異変を見つけに行きたいゾ【戌神ころね】",
+                "date": "2025/09/05 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/B0d7rw5tDc8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANp--CxQVK-Za9uYkOIK2kGWkuEw",
+                "description": "Play Game : 8番出口 ( steam )\nタグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nころねTwitter▶https://twitter.com/inugamikoro..."
+            }
+        ]
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": [
-            {
-                "video_id": "7zSa-8zmR88",
-                "title": "【しずかなおそうじ 】花王さんが出したゲーム！？久しぶりすぎるホラー！【ホロライブ DEV_IS 響咲リオナ】",
-                "date": "2025/09/05 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/7zSa-8zmR88/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANox1tQ3hR0db8jDbDIy4HoKCV1g",
-                "description": "配信タイトル：しずかなおそうじ\nストアページ：https://store.steampowered.com/app/3833930/_/\n\n♡...本日のスパーチャットはお名前読み上げのみになります..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": [
-            {
-                "video_id": "16BVLzOIS-Y",
-                "title": "【Is This Seat Taken?】その②遮二無二（口に出して言いたい言葉）【儒烏風亭らでん #ReGLOSS 】",
-                "date": "2025/09/05 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/16BVLzOIS-Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKxm_BKaFRxv3mOZ5uM0FwjMl2Uw",
-                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\n配信タイトル：Is This Seat Taken?\nストアページ..."
-            }
-        ]
+        "videos": []
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -270,6 +263,13 @@
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
         "videos": [
             {
+                "video_id": "CQK2Dg1xZC0",
+                "title": "【VRCHAT】LET'S END THE SUMMER WITH STYLE!【3D SUMMER PARTY/NEW VR OUTFITS】",
+                "date": "2025/09/06 09:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/CQK2Dg1xZC0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAbUxIKs6cRM82FdS30LlALJn6Wg",
+                "description": "I got some new 3D updates including...outfits PLURAL?\nLet's hang out and end the summer with a BANG!\n\n====================\n✧Twitter: https://twitter.com/kosekibijou\n\n✧Hashtags: \n#biboo..."
+            },
+            {
                 "video_id": "hlDFczhR2mo",
                 "title": "【OPEN CHATROOM FOR PEBBLES】SCHEDULE",
                 "date": "2025/09/07 09:30:00",
@@ -302,15 +302,7 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": [
-            {
-                "video_id": "E3wWj3si0WQ",
-                "title": "【8番出口】探索的外れが行く新異変…異変当てます✋【水宮枢／ホロライブDEV_IS】",
-                "date": "2025/09/05 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/E3wWj3si0WQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgNkZ5PsycquldK_GUZfP4BaRl5A",
-                "description": "本ゲームは、動画配信ガイドラインに則り配信、収益化を行なっております。\nhttps://store.steampowered.com/app/2653790/_/\n▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄..."
-            }
-        ]
+        "videos": []
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -480,7 +472,15 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "uU9TBD09UwI",
+                "title": "【ネタバレあり】 「古城サンピネルの66の懺悔」続きから再チャレンジ！！【白上フブキ/ホロライブ】",
+                "date": "2025/09/05 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/uU9TBD09UwI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAu_3BuIs2-jaR7Vma8QVnQmFkq7w",
+                "description": "ゲームタイトル：『古城サンピネルの66の懺悔』 \nSteamストアページ：https://store.steampowered.com/app/3502910/\n\n━━━━━━🎵N　E　W　🎵━━━━━━━..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
