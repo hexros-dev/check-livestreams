@@ -162,14 +162,7 @@
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
         "channel_name": "Kobo Kanaeru Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B",
-        "videos": [
-            {
-                "video_id": "t3M81w5AhRE",
-                "title": "【Kobolonimbus】It might be kinda scuffed uwewewewe",
-                "thumbnail": "https://i.ytimg.com/vi/t3M81w5AhRE/hqdefault.jpg?v=68bc47db&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJ1qRHieQkDnhrF28lX6FJ5MkqIg",
-                "description": "Thumbnail art: https://x.com/Labumanizzz/status/1908368729865609319"
-            }
-        ]
+        "videos": []
     },
     "@KoganeiNiko": {
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
@@ -335,7 +328,14 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "AaAOQnRXOIQ",
+                "title": "【 雀魂】皆既月食をリアタイしながら麻雀をうちに来た初心です🀄DREAM MATCH 雀魂下剋上リーグ練習【ホロライブ/ ロボ子さん】",
+                "thumbnail": "https://i.ytimg.com/vi/AaAOQnRXOIQ/hqdefault.jpg?v=68bda3b8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOSa6hxe1vQPndbelPiSSb_K4c5Q",
+                "description": "＃ホロライブ  #DREAMMATCH  #雀魂  #下剋上リーグ\nｘでは💬  #ロボ子生放送　でポストしてってね\nこの配信のPONは合法です。うれしい\n\n🀄チームメン..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -507,14 +507,7 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
-        "videos": [
-            {
-                "video_id": "Pm0_zhkqRhE",
-                "title": "風真いろはの #ねるまえらじお 📻❣ #02",
-                "thumbnail": "https://i.ytimg.com/vi/Pm0_zhkqRhE/hqdefault.jpg?v=68ba825c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCIaqg1q_enhfa2Q_wRD80gcQs-nQ",
-                "description": "第2回 #ねるまえらじお 📻\n沢山のふつおたありがとうございます✨\n\nお便り募集はXまたはYoutubeコミュニティにて発信中❣\nぜひフォローやチャンネ..."
-            }
-        ]
+        "videos": []
     },
     "@mikenekoko": {
         "channel_url": "https://www.youtube.com/@mikenekoko",
