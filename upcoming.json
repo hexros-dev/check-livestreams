@@ -209,7 +209,15 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "VZ-QH7ESL7c",
+                "title": "【帰ってきた魔界村】STAGE３：『魔窟』孤高の騎士でクリアできるまで耐久配信【ホロライブ DEV_IS 響咲リオナ】",
+                "date": "2025/09/08 02:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/VZ-QH7ESL7c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCH9x56v9UwM_iEDU5y6qHXTAB66w",
+                "description": "この動画およびライブは\n株式会社カプコンの利用許諾を受けて配信しています\n帰ってきた 魔界村\n©CAPCOM CO., LTD. ALL RIGHTS RESERVED.\n\n\nサムネイラスト..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -569,15 +577,7 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": [
-            {
-                "video_id": "zL_LhLgUZEU",
-                "title": "【THE QUARRY】but only making the worst decisions",
-                "date": "2025/09/08 02:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/zL_LhLgUZEU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNRyi2ldWkb8knrBMpWPpGj44vLQ",
-                "description": "--------------------------\nHashtags\n📺 Livestream: #ImmerScreen \n🎨 Fanart: #Immergination\n🎻 Music: #ImmerPiece\n🤡 Memes: #ImmerMemes \n--------------------------\n\n\n------------------------..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
