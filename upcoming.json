@@ -129,7 +129,15 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "FGYbHR1ZGXw",
+                "title": "【 プリコネR 】豪運が続いてるんだけどシナツは何連でお迎えできるのら？！【姫森ルーナ/ホロライブ】",
+                "date": "2025/09/08 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/FGYbHR1ZGXw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAqLEs9LkJUPeanX4tZvn-uCIfjQ",
+                "description": "サムネイラスト\n　猫うさぎさん　https://twitter.com/nekousagi_jpn\n\nプリコネR ガチャ再生リスト\nhttps://www.youtube.com/playlist?list=PL6gUpTCMieF4Q9QKRSFXit0Ty2eMXXCrg..."
+            }
+        ]
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -434,15 +442,7 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": [
-            {
-                "video_id": "pS5IvNr3oC0",
-                "title": "This Game is Full of Bugs【Hollow Knight: Silksong】",
-                "date": "2025/09/08 00:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/pS5IvNr3oC0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtI7alKonR5u1gMGFecTlsLNGNZQ",
-                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n===============..."
-            }
-        ]
+        "videos": []
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
