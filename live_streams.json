@@ -40,7 +40,14 @@
         "channel_url": "https://www.youtube.com/@AnyaMelfissa",
         "channel_name": "Anya Melfissa Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "2xJuHgWf-Qk",
+                "title": "【The Exit 8 | 8番出口】GAME UPDATE: New Anomalies Added【hololive ID 2nd Generation | Anya Melfissa】",
+                "thumbnail": "https://i.ytimg.com/vi/2xJuHgWf-Qk/hqdefault.jpg?v=68bd158d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0FRhYNNtKURlVmtMMzI3uklj2tw",
+                "description": "Support me here/ドネーション↓\nStreamlabs: https://streamlabs.com/anyamelfissachhololive-id/tip\nSociaBuzz(Local Donation): https://sociabuzz.com/anyamelfissa/tribe \n\n--\nGame Title: Niconico-..."
+            }
+        ]
     },
     "@AyundaRisu": {
         "channel_url": "https://www.youtube.com/@AyundaRisu",
@@ -446,14 +453,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "BfK6HldzzCQ",
-                "title": "【HOLLOW KNIGHT: SILKSONG】AWOOOOOOOOOOOOOOOOO",
-                "thumbnail": "https://i.ytimg.com/vi/BfK6HldzzCQ/hqdefault.jpg?v=68bbde48&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCoVQgIVJNA4HZxrI--WjOMJbatEA",
-                "description": "This game is being streamed and monetized after confirming with © 2019 Team Cherry.\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
