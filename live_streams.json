@@ -69,14 +69,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "WkjUofqdgBY",
-                "title": "【 #朝こよ 】249回目⁉250目前の火曜日の朝も！朝こよ～～～！☀ #249 【博衣こより/hololive】",
-                "thumbnail": "https://i.ytimg.com/vi/WkjUofqdgBY/hqdefault.jpg?v=68bda636&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnM3d25Ic2KQvoIS24SYkCQnJb4A",
-                "description": "💿1stアルバム「FIRST STEP」発売中！全曲新録！成長した歌を聴いてね🎶\n　https://cover.lnk.to/SdOKbq\n\n#朝こよ を観れば日本ニキも海外ニキもホロライブ..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -160,7 +153,14 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Qsz0fIMFzdE",
+                "title": "【Hollow Knight: Silksong】FARI DO LA SI MANETT~",
+                "thumbnail": "https://i.ytimg.com/vi/Qsz0fIMFzdE/hqdefault.jpg?v=68bf04e5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPQKqToxYnnM47QsxOK00kQj0kYA",
+                "description": "Thumbnail Art: @Said_Ard THANK YOU!\nhttps://x.com/Said_Ard/status/1964649601065209969/photo/1\n\nBIRTHDAY MERCH\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/kosekibi..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
