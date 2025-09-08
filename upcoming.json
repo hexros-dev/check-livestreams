@@ -343,7 +343,15 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "yuenCuxtcPE",
+                "title": "【雑談】ソロライブ前々夜🌌ライブ前最後の配信です！【 ホロライブ / 大神ミオ 】",
+                "date": "2025/09/08 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/yuenCuxtcPE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCHBZ8_r8BjqMG8DR8Kv97czGWIyA",
+                "description": "ちょっとお話しして、明日出発します！あさってのライブよろしくね！\n\nサムネillustrator：秋さん　https://x.com/Qdx4P\n\n🌟ソロライブ情報🌟\n\n2025年9月1..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -381,7 +389,15 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "VsNxnMCZAcI",
+                "title": "【恐怖耐性診断テスト】耐性はあると思います！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "date": "2025/09/08 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/VsNxnMCZAcI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDiXG8JOLhQ9tidKgUeWubGfVhHLw",
+                "description": "耐性はあると思うんだ\n\n-配信タイトル：恐怖耐性診断テスト\nストアページ：https://store.steampowered.com/app/3906770/_/\n\nねえ、いっしょに向こう側の景色..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -461,13 +477,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
         "videos": [
             {
-                "video_id": "GmbIaroMuiU",
-                "title": "【3DLIVE】ゲスト＆告知あり✨獅白ぼたん生誕3D LIVE 『MUST RELIVE』【#獅白ぼたん生誕祭2025 /ホロライブ】",
-                "date": "2025/09/08 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/GmbIaroMuiU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBriJX2MG3VmMLjWzD6GiIASelpXQ",
-                "description": "久々のコンセプトをたくさんつめこんだ3D LIVE✨\nゲスト多数あり、重大告知もあります～！\n配信ハッシュタグ：#獅白ぼたん生誕祭2025\n\n↓↓メンバ..."
-            },
-            {
                 "video_id": "jeORSq6QLWs",
                 "title": "【3DLIVE / Member Only】メンバーシップ限定ミニライブ✨ 『MUST RELIVE』【#獅白ぼたん生誕祭2025 /ホロライブ】",
                 "date": "2025/09/08 19:15:00",
@@ -506,15 +515,7 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": [
-            {
-                "video_id": "cQLCICnyCHY",
-                "title": "【配信予定地】ネットサイン会！！【ホロライブ/ときのそら】",
-                "date": "2025/09/08 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/cQLCICnyCHY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzPvX5GxnRSLF83wfm_fySf1Uwyw",
-                "description": "2025年9月8日(月) 20:00～\nNEW ALBUM「Pulse」リリース記念インターネットサイン会\n\n※開始時間は目安となります。時間は前後する場合がございます。..."
-            }
-        ]
+        "videos": []
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
