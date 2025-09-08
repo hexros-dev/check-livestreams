@@ -62,15 +62,7 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": [
-            {
-                "video_id": "tK4PcWqZllQ",
-                "title": "Monday Morning Malas : Wow it's Monday already",
-                "date": "2025/09/08 09:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/tK4PcWqZllQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzLBKPti2hZ5ae2R9jTKcHRJZtkA",
-                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nーーーーーーーーー\n\nSTREAM MY NEWEST ORIGINAL SONG メトロポリス (metropolis) IN YOUR PREFERRED MUSIC STREAMING PLATFROM!!!..."
-            }
-        ]
+        "videos": []
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -242,7 +234,15 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "G-V4GKlpOXw",
+                "title": "【 TCG Card Shop Simulator 】３００万円出た！新店ヴィヴィステ今日もオープン！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "date": "2025/09/08 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/G-V4GKlpOXw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHEzWh2TvV4zSlnteFKmqGHZt_mg",
+                "description": "綺々羅々ヴィヴィ 誕生日記念2025グッズ\n■販売ページURL\nhttps://shop.hololivepro.com/products/kikiraravivi_birthday_2025\n■グッズ販売期間（受注販売）\n2025年08月2..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -319,13 +319,6 @@
                 "date": "2025/09/13 08:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/MryxToVvJO0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB79aBIXW3aeUSusvtdaRN-tir_Cw",
                 "description": "???\n\nBGM: https://x.com/BigRicePiano\nhttps://x.com/the_arkhand\nhttps://x.com/alterclad\n\nRequest from hololive Productions to underage viewers\nPlease search for [Request To Minors] or click..."
-            },
-            {
-                "video_id": "ww58Durknv4",
-                "title": "【Umamusume Pretty Derby】pulling seiun sky or I'm keeping myself safe #calliolive",
-                "date": "2025/09/08 09:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/ww58Durknv4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqg012TxZX4cssaW9udyhcDJ5sSw",
-                "description": "ーーーーーーーーー\nBGM: https://x.com/BigRicePiano\nhttps://x.com/the_arkhand\nhttps://x.com/alterclad\n\nRequest from hololive Productions to underage viewers\nPlease search for [Request..."
             }
         ]
     },
