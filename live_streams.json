@@ -315,14 +315,7 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": [
-            {
-                "video_id": "VsNxnMCZAcI",
-                "title": "【恐怖耐性診断テスト】耐性はあると思います！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "thumbnail": "https://i.ytimg.com/vi/VsNxnMCZAcI/hqdefault.jpg?v=68beba9e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDiXG8JOLhQ9tidKgUeWubGfVhHLw",
-                "description": "耐性はあると思うんだ\n\n-配信タイトル：恐怖耐性診断テスト\nストアページ：https://store.steampowered.com/app/3906770/_/\n\nねえ、いっしょに向こう側の景色..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -378,7 +371,14 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "vu9ktDmP3sc",
+                "title": "【歌枠/縦型】アニソン中心に！いろいろ歌うよん🎤  #shorts【不知火フレア/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/vu9ktDmP3sc/hqdefault.jpg?v=68becc1e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCOhtqIVM-r_bStlAcqC7yx3NXasQ",
+                "description": "■Newシングル「架空と本当」MV公開中✨\nhttps://www.youtube.com/watch?v=1DBMg1dqfhM\n💿各種音楽サービス配信版 配信中✨\nhttps://cover.lnk.to/lCta8w\n━━━━━━..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
