@@ -133,20 +133,20 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
-        "videos": [
-            {
-                "video_id": "qN9wf6s18yc",
-                "title": "【#ReGLOSS】2周年記念マリパ大乱闘！！！！！【一条莉々華/hololive DEV_IS　ReGLOSS】",
-                "thumbnail": "https://i.ytimg.com/vi/qN9wf6s18yc/hqdefault.jpg?v=68bfcbae&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8sVmf2ctumq1fQh0Ng9EKHVGpUg",
-                "description": "ReGLOSSは2周年も楽しく元気に活動していくぞおおお✨\n13日には公式の配信・ミニライブもあります🥰\n\n@JuufuuteiRaden @OtonoseKanade @TodorokiHajime \n※青君は..."
-            }
-        ]
+        "videos": []
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "boGRKJjjz6o",
+                "title": "【案件】はじめての「ホグワーツレガシー」プレイ！！ヴォルデモートどこ～！！【ヴォルデモート】",
+                "thumbnail": "https://i.ytimg.com/vi/boGRKJjjz6o/hqdefault.jpg?v=68bef537&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD69dShpyD0dyQOkXh2CeDdO8lAzA",
+                "description": "提供：SEGA\n『ホグワーツ・レガシー』Nintendo Switch™ 2版　発売中\n公式サイト：https://www.hogwartslegacy.com/ja-jp\n＃PR\n\n---------------------------------------------..."
+            }
+        ]
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
@@ -170,7 +170,14 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "_jywFGZCSMs",
+                "title": "【 TCG Card Shop Simulator 】ぺこら店長と並走！？【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "thumbnail": "https://i.ytimg.com/vi/_jywFGZCSMs/hqdefault.jpg?v=68bfa270&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwcSqZK8mo0zb9zwW0UDwUkUGasg",
+                "description": "ぺこらん堂 店長@usadapekora \n\n綺々羅々ヴィヴィ 誕生日記念2025グッズ\n■販売ページURL\nhttps://shop.hololivepro.com/products/kikiraravivi_birthday_2025\n■グッズ販売..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -284,7 +291,14 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "WpVJkCLgar4",
+                "title": "【#生スバル】ミオしゃに捧げる1位！！！マリオカートワールドサバイバルwithド珍【ホロライブ/大空スバル】",
+                "thumbnail": "https://i.ytimg.com/vi/WpVJkCLgar4/hqdefault.jpg?v=68bfe0ea&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFVSYlD0Qnxo3XJfV1A0Cq9EFm6Q",
+                "description": "@ShirakamiFubuki \n@SakuraMiko \n\n🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting..."
+            }
+        ]
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -308,7 +322,14 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "5kfhGmHgEaU",
+                "title": "【7 Days to Die  】新しい1週間のはじまり【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "thumbnail": "https://i.ytimg.com/vi/5kfhGmHgEaU/hqdefault.jpg?v=68bfeed1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBiGSo0Hd2AcObc79Yxp4d3GmFTA",
+                "description": "この世界で一人生きていく\n\n配信タイトル：7 Days to Die\nhttps://store.steampowered.com/app/251570/7_Days_to_Die/\n本ゲームは THE FUN PIMPS ©2017 の確認を得た上で配信..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -333,7 +354,14 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "GmWiqsUEOUE",
+                "title": "【 マリオカートワールド 】ミオちゃんに捧げる１位！with ド珍【ホロライブ/さくらみこ/白上フブキ/大空スバル】",
+                "thumbnail": "https://i.ytimg.com/vi/GmWiqsUEOUE/hqdefault.jpg?v=68bfd91d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlH9opjD5chtzKWSoYEYorXdg7pA",
+                "description": "どったばたどったばたちんどーーーちゅーーーーーーー！！！！🌲\n@ShirakamiFubuki @OozoraSubaru \n\n⪩⪨　お知らせ/ɪɴғᴏ\n￣￣￣￣￣￣￣￣￣￣￣￣￣..."
+            }
+        ]
     },
     "@SamekoSaba": {
         "channel_url": "https://www.youtube.com/@SamekoSaba",
@@ -351,7 +379,14 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "0dGTCedn0oU",
+                "title": "【マリオカート ワールド】 ミオ捧げる1位🌳ド珍サバイバル🌽🌸🚑️【白上フブキ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/0dGTCedn0oU/hqdefault.jpg?v=68bff51e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAIVVXSDs2Qj5OwxtPdcttrdmuCQ",
+                "description": "さくらみこ　@SakuraMiko    大空スバル  @OozoraSubaru \n\n━━━━━━🎵N　E　W　🎵━━━━━━━\nマフィア(Mafia)/ 黒上フブキ×鷹嶺ルイ\n▷https://youtu.be/..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -490,7 +525,14 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "CAg1KKDRdLw",
+                "title": "【TCG Card Shop Simulator】ヴィヴィ店長と最高額並走対決！ぺこ！【ホロライブ/兎田ぺこら/綺々羅々ヴィヴィ】",
+                "thumbnail": "https://i.ytimg.com/vi/CAg1KKDRdLw/hqdefault.jpg?v=68bfab3b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdqvtFjEXXEOxtbaqFCin6XBAX9g",
+                "description": "・制限時間内に高額カードを仕入れた方が勝ち\n・お互い同じレベルまでのパックを引く\n\n@KikiraraVivi \n\nサムネイラスト：苺大福さん\n\n⋈ －－－－－..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
