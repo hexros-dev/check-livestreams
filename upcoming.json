@@ -100,15 +100,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "cYn77PqeQ1w",
-                "title": "収録から帰ってきてやれたらやりたい枠～～～～～！！！！！【博衣こより/ホロライブ】",
-                "date": "2025/09/10 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/cYn77PqeQ1w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQkLAYHmgr9ufd_kQoUi2lrN-tnw",
-                "description": "💿1stアルバム「FIRST STEP」発売中！全曲新録！成長した歌を聴いてね🎶\n　https://cover.lnk.to/SdOKbq\n\n🎶こよのSpotifyフォローしてね！▼🎶\nhttps://open.spo..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -192,7 +184,15 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "y4DnVJlYKDM",
+                "title": "【 #らでんちゃん2周年 】2年目を振り返る！！！【儒烏風亭らでん #ReGLOSS 】",
+                "date": "2025/09/10 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/y4DnVJlYKDM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB80vB1UwR6fph9XacsNZ-aAS51dQ",
+                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\n\n▼儒烏風亭らでんソロ曲「落噺」楽曲配信（..."
+            }
+        ]
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
