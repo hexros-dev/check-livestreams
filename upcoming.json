@@ -143,13 +143,6 @@
                 "date": "2025/09/15 18:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/MNkO--oi-CM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPYK6he7zq1ihlJzSwcSp3h1XE8g",
                 "description": "#ホロライブ甲子園2025 …今年も夏が始まる―――！！\n\nこより先輩の企画説明配信はこちら\nhttps://www.youtube.com/watch?v=jGRE-J7kSOY\n\n本ゲームは株式会社..."
-            },
-            {
-                "video_id": "XfTmGxpgN0g",
-                "title": "🌃Free Chat and Schedule🌃",
-                "date": "2025/09/10 23:35:00",
-                "thumbnail": "https://i.ytimg.com/vi/XfTmGxpgN0g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClZUG3z-PDlt62u1ILRLXUWO1xhw",
-                "description": "Schedule for 10/2-10/8!!!\n\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧\n\n合言葉は「可愛い！ポジティブ！ジーニアス！」\n\n୨୧┈┈┈┈┈┈┈┈┈┈..."
             }
         ]
     },
@@ -184,7 +177,15 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "njqBL-eFGxU",
+                "title": "【 #らでんちゃん2周年 】2周年記念特別企画！伝統工芸と科学とロケと落語！？らぽラボで出張してきた！！【儒烏風亭らでん/北白川かかぽ】",
+                "date": "2025/09/11 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/njqBL-eFGxU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCl1hyAu4vAvUda_etnmmYcQSdpdQ",
+                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\nらぽラボとは……？\n「学芸の扉をたたく」..."
+            }
+        ]
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
