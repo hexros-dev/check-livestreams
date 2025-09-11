@@ -36,15 +36,7 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": [
-            {
-                "video_id": "qiVARqRLdp8",
-                "title": "【雀魂】鳴きあがり縛りで練習！？？？？？🀄DREAM MATCH 🀄雀魂下剋上リーグ【ホロライブ/アキロゼ】",
-                "date": "2025/09/11 21:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/qiVARqRLdp8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDdTdTIy1f--dVaf5cELfpzqEvQA",
-                "description": "🀄UNLIMITチームメンバー🀄\n多井隆晴 https://x.com/takaharu_ooi\n西村歩乃果 https://x.com/hoooonoka0128\n〓Ｖ．Ｉ．Ｐ〓 https://x.com/vip_japanA\nロボ子さん@Robocosan..."
-            }
-        ]
+        "videos": []
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -173,7 +165,15 @@
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "p2nwApzA2XI",
+                "title": "【同時視聴】Nintendo Direct 2025.9.12、ころねと一緒に観よ！！！【※ミラーではありません】",
+                "date": "2025/09/12 19:45:00",
+                "thumbnail": "https://i.ytimg.com/vi/p2nwApzA2XI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNzNI3mFIKZK-B8ZDDmv9lDp-bKQ",
+                "description": "タグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\n見る動画はコチラ\n→  https://www.youtube.com/watch?v=B4ZOlKAGdx4\n..."
+            }
+        ]
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
@@ -531,7 +531,15 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "bSumuJU3r3M",
+                "title": "【SOMA】LET ME FEEL SOMETHING!!!!!!!!!!",
+                "date": "2025/09/12 02:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/bSumuJU3r3M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBoox1FhEamLeNK4On8gM15P-Zqew",
+                "description": "thumbnail art: https://x.com/lalachan208/status/1964041341521822176\n--------------------------\nHashtags\n📺 Livestream: #ImmerScreen \n🎨 Fanart: #Immergination\n🎻 Music: #ImmerPiece\n🤡..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
