@@ -422,7 +422,15 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "tPwEyBuFp6Q",
+                "title": "【#ホロライブ甲子園2025】桜咲高校１年目‼⚾夏大会勝ち抜いていくぞ！！！！！！！！【ホロライブ/さくらみこ】",
+                "date": "2025/09/11 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/tPwEyBuFp6Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfDWyKIAr4dGhr4IZ9AkrP30UK1A",
+                "description": "夢にときめけ明日にきらめけ、諦めない心で咲き誇れ桜咲高校！！！！！！！！！🌸\nまずは夏大会！！！！！！！！敗けたら秋大会まで進める予..."
+            }
+        ]
     },
     "@SamekoSaba": {
         "channel_url": "https://www.youtube.com/@SamekoSaba",
