@@ -316,15 +316,7 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": [
-            {
-                "video_id": "QVpQyyQleTo",
-                "title": "HAPPY 5TH ANNIVERSARY!!!!! Celebrations, Announcements, and More!!! #5thInanniversary",
-                "date": "2025/09/13 06:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/QVpQyyQleTo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzrN41P39F6wkW8ifhMG-2KOtVow",
-                "description": "【Thumbnail Art】\nhttps://x.com/fcjfior/status/1966341579645620524\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\n______________________________________________________________________________..."
-            }
-        ]
+        "videos": []
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -432,7 +424,15 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "4g9JyWS9YAQ",
+                "title": "Anime Girls Panic Learning Chess 【Chess Lesson with Advent | #AdVSJus Chess】",
+                "date": "2025/09/14 07:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/4g9JyWS9YAQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAVLTPnqY_MvU7aCSLb8qX6E5Re-w",
+                "description": "Someone let me copy their homework - Shiori.\n\nWatch Advent VS Justice: Chess Battle, streaming on September 14th 17:00 PDT! (with an announcement at the end 🚨)\nStreaming on the hololive..."
+            }
+        ]
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
