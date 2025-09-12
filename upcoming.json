@@ -590,7 +590,15 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "b8ZlD4X1JKk",
+                "title": "【IS THIS SEAT TAKEN?】*sits in your assigned seat* a-ah gomen oomf-chan",
+                "date": "2025/09/13 04:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/b8ZlD4X1JKk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJurOoPMONvRcRR2rjdWUDfQewbQ",
+                "description": "Game title：Is This Seat Taken?\nStore page：https://store.steampowered.com/app/3035120/Is_This_Seat_Taken/\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
