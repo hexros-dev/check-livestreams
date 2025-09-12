@@ -245,7 +245,15 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ThyUUeQNjyA",
+                "title": "【NINTENDO DIRECT WATCHALONG】SILKSONG 2 WHEN?",
+                "date": "2025/09/12 19:50:00",
+                "thumbnail": "https://i.ytimg.com/vi/ThyUUeQNjyA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzM3OEg8KoYKj7mKGfA9JBlCwaHA",
+                "description": "BIRTHDAY MERCH\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/kosekibijou_birthday_2025\nEN: https://shop.hololivepro.com/en/products/kosekibijou_birthday_2025..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -277,15 +285,7 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": [
-            {
-                "video_id": "jVrUXSAxb8I",
-                "title": "【 ホロカ 】みんなで最強カードを1枚作ろう！？【 桃鈴ねね / hololive 】",
-                "date": "2025/09/12 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/jVrUXSAxb8I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC7wEuZO89sXtpTL3AT2Fb8245j2g",
-                "description": "結構自由にできるっぽいぞみんな！！！！！！！！！！！！！！！！！！！！！！！\n知識求！！！！！！！！！！！！！！！！！！！！！！！！..."
-            }
-        ]
+        "videos": []
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
@@ -366,6 +366,41 @@
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
         "videos": [
+            {
+                "video_id": "AAkHUuow3Wk",
+                "title": "【】新衣装大発表会【ホロライブ/大空スバル】",
+                "date": "2025/09/16 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/AAkHUuow3Wk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5u7GUllVwU9qTBEUOL_s969_GuQ",
+                "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n+‥‥‥‥..."
+            },
+            {
+                "video_id": "IOEssMPygCI",
+                "title": "【#3】ナルティメットストーム３するしゅばあああああああああああああああああああああ！！！！！【※ネタバレあり】",
+                "date": "2025/09/14 11:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/IOEssMPygCI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmq8uh-tG8l4CgbKI5iadGj2bGlg",
+                "description": "このゲーム実況は「バンダイナムコエンターテインメント ゲーム実況ポリシー」に基づき制作・配信されています。\nhttps://www.bandainamcoent.co.jp/info....."
+            },
+            {
+                "video_id": "JnncOMMe2Ks",
+                "title": "【】【ホロライブ/大空スバル】",
+                "date": "2025/09/15 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/JnncOMMe2Ks/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_n6btdT1E-6IUCoTOrHFvEqH7Og",
+                "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n+‥‥‥‥..."
+            },
+            {
+                "video_id": "lPaJh_Cx1j0",
+                "title": "【#生スバル】おはすば！！！！！ / OHASHUBA！！！FREE TALK【ホロライブ/大空スバル】",
+                "date": "2025/09/13 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/lPaJh_Cx1j0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOAa4FnmjcQJwqCM3vY28V4zsT5g",
+                "description": "✨大空スバル生誕2025グッズ販売URL⇓✨\nhttps://shop.hololivepro.com/products/oozorasubaru_birthday_2025\n※2025年08月04日 18時00分まで\n\n・★サムネ…ｳﾕﾁｬﾝ.com：..."
+            },
+            {
+                "video_id": "qJtgDHe6apc",
+                "title": "【#2】ナルティメットストーム３するしゅばあああああああああああああああああああああ！！！！！【※ネタバレあり】",
+                "date": "2025/09/13 11:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/qJtgDHe6apc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD647Jw4Ssx7wQAzPTYc1_H_MpGMQ",
+                "description": "このゲーム実況は「バンダイナムコエンターテインメント ゲーム実況ポリシー」に基づき制作・配信されています。\nhttps://www.bandainamcoent.co.jp/info....."
+            },
             {
                 "video_id": "ylsIXGpR1IQ",
                 "title": "【#4】新機動戦記ガンダムW 同時視聴会【ホロライブ/大空スバル】",
