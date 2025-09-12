@@ -22,7 +22,14 @@
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
         "avatar_url": "https://yt3.googleusercontent.com/ecW_DT7IKBcfKJ1qioYiyU_Iq6EB4_bCZpaG4srWPkEZRsIAiYguEvh7_nELEJqPnbjAktVj6Q",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "GnFR0SbgkC0",
+                "title": "【お知らせ】私から大事なお知らせがあります❕🌟【ホロライブ/赤井はあと】",
+                "thumbnail": "https://i.ytimg.com/vi/GnFR0SbgkC0/hqdefault.jpg?v=68c27a8d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOFgf8_kGBjuRPtChMslbO0PGZSw",
+                "description": "📢赤井はあと生誕祭グッズ販売中‼️期間限定❕【9/16(火)18:00まで】\n◇販売ページURL\nhttps://shop.hololivepro.com/products/akaihaato_birthday_2025\n📢新曲『感触..."
+            }
+        ]
     },
     "@AkiRosenthal": {
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
@@ -107,14 +114,7 @@
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk",
-        "videos": [
-            {
-                "video_id": "51DmzgKtZOo",
-                "title": "【PUBG MOBILE】マリン船長スキン登場！？ぺこマリでドン勝だ！！！【ホロライブ/宝鐘マリン・兎田ぺこら】",
-                "thumbnail": "https://i.ytimg.com/vi/51DmzgKtZOo/hqdefault.jpg?v=68c28ff8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJq-G-RUT79gP01aVJjVFWvorPZA",
-                "description": "@usadapekora \n\n提供：KRAFTON JAPAN\nタイトル：PUBG MOBILE\n\nPUBG MOBILEと『宝鐘マリン』がコラボレーション！\nマリン船長の素敵な衣装スキンや魅力的なボイ..."
-            }
-        ]
+        "videos": []
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
@@ -213,7 +213,14 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "WxmnH65944U",
+                "title": "【TCG Card Shop Simulator】カードショップやさん！レアカード当てる❕#3【水宮枢／ホロライブDEV_IS】",
+                "thumbnail": "https://i.ytimg.com/vi/WxmnH65944U/hqdefault.jpg?v=68c33781&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBkesbKBpzfqdCcHRvSrFQn2sENhw",
+                "description": "本ゲームは OPNeon Games に確認の上配信・収益化を行なっております。\n▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸◂┄▹◃\n\n💙メンバーシップはこちらか..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -279,14 +286,7 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": [
-            {
-                "video_id": "MD10hC55Oig",
-                "title": "【PEAK】バカタレサーカス～登山編⛰️～【尾丸ポルカ視点/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/MD10hC55Oig/hqdefault.jpg?v=68c40373&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-DQ7-OvOyltMVVulXFAksIVM1fg",
-                "description": "みんなで登るんだよ・・・！！！！！！！\n@ShirakamiFubuki \n@ShiranuiFlare \n@TsunomakiWatame \n\nサムネイルありがとうございます！\nhttps://x.com/dohoon416\n\n配信タイ..."
-            }
-        ]
+        "videos": []
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
@@ -417,20 +417,20 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": [
-            {
-                "video_id": "2_TBr18tbGg",
-                "title": "【WATCHALONG】i must watch along the nintendo direct 【maybe 3D for whatever reason】",
-                "thumbnail": "https://i.ytimg.com/vi/2_TBr18tbGg/hqdefault.jpg?v=68c35e0b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJEIoH1HoSTZccyJS-ZgxxIjH0GA",
-                "description": "Takanashi Kiara『TASTY』\nhttps://cover.lnk.to/al3Zjt\n\n🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara\n\n 🏵️[Hashtags] 🏵️\n#kfp #キアライブ#hololiveenglish #holomyth..."
-            }
-        ]
+        "videos": []
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "_0SAUdd6r_g",
+                "title": "【 定期雑談 】最近ハマってるもの☺ #もう金ルイ 【鷹嶺ルイ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/_0SAUdd6r_g/hqdefault.jpg?v=68c3fb1e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCD7pc7Qz62sZntXzcy0VoB5n-17A",
+                "description": "相談事あればマシュマロで教えてね☺\nhttps://marshmallow-qa.com/takanelui?t=GAGntZ&utm_medium=url_text&utm_source=promotion\n\nサムネ：しいたけ様 (@siitake_hat)\nロゴデザ..."
+            }
+        ]
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
@@ -546,14 +546,7 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": [
-            {
-                "video_id": "eF6ORfcguIA",
-                "title": "【PUBGモバイル】マリン実装!? ドン勝取らせてみせる！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
-                "thumbnail": "https://i.ytimg.com/vi/eF6ORfcguIA/hqdefault.jpg?v=68c31847&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPhidoHOQLwmSEFjAWdT60mCuOWw",
-                "description": "提供：KRAFTON JAPAN\nタイトル：PUBG MOBILE\n\nPUBG MOBILEと『宝鐘マリン』がコラボレーション！\nマリン船長の素敵な衣装スキンや魅力的なボイスがゲーム..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
