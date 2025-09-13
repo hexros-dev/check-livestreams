@@ -29,14 +29,7 @@
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
         "avatar_url": "https://yt3.googleusercontent.com/ecW_DT7IKBcfKJ1qioYiyU_Iq6EB4_bCZpaG4srWPkEZRsIAiYguEvh7_nELEJqPnbjAktVj6Q",
-        "videos": [
-            {
-                "video_id": "NplKSsbhqHc",
-                "title": "【 歌枠 】懐かしい曲うたう・・・！夏だけに！！！🍉✨【ホロライブ/赤井はあと】",
-                "thumbnail": "https://i.ytimg.com/vi/NplKSsbhqHc/hqdefault.jpg?v=68c4595b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdZs6zdGeNTjkfT1Dkau5wKwAHTQ",
-                "description": "📢赤井はあと生誕祭グッズ販売中‼️期間限定❕【9/16(火)18:00まで】\n◇販売ページURL\nhttps://shop.hololivepro.com/products/akaihaato_birthday_2025\n📢新曲『感触..."
-            }
-        ]
+        "videos": []
     },
     "@AkiRosenthal": {
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
@@ -141,7 +134,14 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "lTooksmeogk",
+                "title": "【VERTICAL KARAOKE / 縦型歌枠】Guerilla Singing :D ゲリラ歌枠！",
+                "thumbnail": "https://i.ytimg.com/vi/lTooksmeogk/hqdefault.jpg?v=68c57048&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6JQ9STt0Qxbse_EMl6Tw3_jCyTA",
+                "description": "aaa #hololiveenglish  #ホロライブ \nThis game is being streamed and monetized after confirming with PlayWay S.A.\n\nStream my NEW EP YaBAI NOW!!\nhttps://cover.lnk.to/39qmMB\n\nSTREAM MY NEW..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -309,7 +309,14 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "RKU3XSBCE3I",
+                "title": "#3【Ace Attorney Investigations】Case 3! A Bigger Mystery Awaits (SPOILERS!)【Pavolia Reine/holoID】",
+                "thumbnail": "https://i.ytimg.com/vi/RKU3XSBCE3I/hqdefault.jpg?v=68c544e9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDy0nTMZjjK0qfxmc15wmcin9-s2A",
+                "description": "Reine's new original song now AVAILABLE on iTunes, Apple Music, Spotify etc. starting September 10, 2025 00:00 your local time!!!\nWatch the MV:➡️https://youtu.be/NEtiag8nTUs\nGet it here:➡️h..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
