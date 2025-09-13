@@ -196,14 +196,7 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": [
-            {
-                "video_id": "MryxToVvJO0",
-                "title": "【5 YEAR ANNIVERSARY】The Story Thus Far - featuring HoloEN! #5YearsOfMori",
-                "thumbnail": "https://i.ytimg.com/vi/MryxToVvJO0/hqdefault.jpg?v=68bbb2d8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB79aBIXW3aeUSusvtdaRN-tir_Cw",
-                "description": "???\nPenlight: https://vrch.at/redeem?code=MORILIVE\n\nBGM: https://x.com/BigRicePiano\nhttps://x.com/the_arkhand\nhttps://x.com/alterclad\n\nRequest from hololive Productions to underage viewers..."
-            }
-        ]
+        "videos": []
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -263,14 +256,7 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": [
-            {
-                "video_id": "lPaJh_Cx1j0",
-                "title": "【#生スバル】おはすば！！！！！ / OHASHUBA！！！FREE TALK【ホロライブ/大空スバル】",
-                "thumbnail": "https://i.ytimg.com/vi/lPaJh_Cx1j0/hqdefault.jpg?v=68c3eade&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOAa4FnmjcQJwqCM3vY28V4zsT5g",
-                "description": "✨大空スバル生誕2025グッズ販売URL⇓✨\nhttps://shop.hololivepro.com/products/oozorasubaru_birthday_2025\n※2025年08月04日 18時00分まで\n\n・★サムネ…ｳﾕﾁｬﾝ.com：..."
-            }
-        ]
+        "videos": []
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -360,7 +346,14 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "a5ymCYO45nQ",
+                "title": "【 龍が如く0 】第5章～！！真島さんフィーバーすぎて沼。：Yakuza 0【鷹嶺ルイ/ホロライブ】※ネタバレあり",
+                "thumbnail": "https://i.ytimg.com/vi/a5ymCYO45nQ/hqdefault.jpg?v=68bc6ca6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAX5sQrdNdtZNrS8XQMpM9NLa-aUg",
+                "description": "やばいやばいやばい\n\nこの動画およびライブは、コンテンツ利用許諾契約に基づいて配信しています。\n©SEGA\n\n※タイトルの『※ネタバレあり』とは..."
+            }
+        ]
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
