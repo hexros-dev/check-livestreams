@@ -16,13 +16,6 @@
                 "date": "2025/09/13 20:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/JurnWxpGut8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcU-O26wohghiQibyBk_BNsSHGDA",
                 "description": "#ioLyfe #Airani_Iofifteen #hololive #holoID \n\n【Support & Jajanin IOFI】🎨\nIndonesia : https://sociabuzz.com/airaniiofifteen/tribe\nOverseas : https://streamlabs.com/airaniiofifteenchannelhololi..."
-            },
-            {
-                "video_id": "tueUz2VOIEo",
-                "title": "【龍が如く 極】#2 11/20 Side story【 iofi / hololiveID 】",
-                "date": "2025/09/13 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/tueUz2VOIEo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBiFX1i8WdLRrB8FliAfdE2XvBSIQ",
-                "description": "#ioLyfe #Airani_Iofifteen #hololive #holoID \n\nこの動画およびライブは、コンテンツ利用許諾契約に基づいて配信しています。\n©SEGA\n\n【Support & Jajanin IOFI】🎨..."
             }
         ]
     },
@@ -177,7 +170,15 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "mERKeBdxbOU",
+                "title": "【夢物語の街】深夜のチルゲームタイム🎵＃２【ホロライブ DEV_IS 響咲リオナ】",
+                "date": "2025/09/13 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/mERKeBdxbOU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2slp9miRjjn7Zwx-LrJtUmXeMvA",
+                "description": "配信タイトル：夢物語の街\nストアページ：https://store.steampowered.com/app/2589500/_/\n\n♡...本日のスパーチャットはお名前読み上げのみになります！！..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
