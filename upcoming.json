@@ -100,15 +100,7 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": [
-            {
-                "video_id": "9FltsLFPwXw",
-                "title": "≪YAKUZA 5≫ LOCK IN ... First Playthrough!! #9 【SPOILER WARNING】",
-                "date": "2025/09/14 08:15:00",
-                "thumbnail": "https://i.ytimg.com/vi/9FltsLFPwXw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCHiBn2_6o_HvCedjqw3QlFHkX4Jw",
-                "description": "THE STORY IS FINALLY CONTINUING... \nIM DOING NOTHING BUT YAKUZA TODAY. \n\nThumbnail Art: https://x.com/SK_Jynx/status/1958246741217820843/photo/1\n\n#telebae  #hololiveenglish \n\n««≪ °◇◆◇°..."
-            }
-        ]
+        "videos": []
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -145,8 +137,8 @@
             },
             {
                 "video_id": "yflhaVXyDr4",
-                "title": "【 エースコンバット5｜PS2版 】初めての『 ACE COMBAT 5 』に挑戦してみるのら！！！ THE UNSUNG WAR ＃４ 最終回【姫森ルーナ/ホロライブ】",
-                "date": "2025/09/15 14:00:00",
+                "title": "【 エースコンバット5｜PS2版 】クリア耐久！初めての『 ACE COMBAT 5 』に挑戦してみるのら！！！ THE UNSUNG WAR ＃４ 最終回【姫森ルーナ/ホロライブ】",
+                "date": "2025/09/15 13:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/yflhaVXyDr4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWBOBsap7cX9vysyRtwk3W6yPqSA",
                 "description": "メン限アンケートで決まったゲームで遊ぶのら(・o・🍬)\n\nサムネイラスト\n　ヤマサんさん　https://twitter.com/yamasan_ossan\n\nエースコンバット5 再生リス..."
             }
@@ -357,7 +349,15 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "czvQNaevBo4",
+                "title": "【 HoloCure 】さらにハードモードをクリアしたい狼【 ホロライブ / 大神ミオ 】",
+                "date": "2025/09/14 15:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/czvQNaevBo4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUfD93aK5CW6JhW-1Lui3UOGvXiQ",
+                "description": "次なるハードモードへ！\n\nサムネillustrator：れいるかさん　https://x.com/hana87z\n\n本ゲームはKay Yu様に確認の上配信・収益化を行なっております。..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -520,6 +520,13 @@
                 "date": "2025/09/14 16:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/HF6lGWSjwJ4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1Jyc9fSHIyEYsfJVW5aRbtNmhow",
                 "description": "素敵なサムネお写真：ほわいと先生様（@pigma_01）\nこの動画およびライブは、コンテンツ利用許諾契約に基づいて配信しています。\n©SEGA\n\nジャッジ..."
+            },
+            {
+                "video_id": "lAqbhdgs5jU",
+                "title": "【メン限】ゆるくお喋り！！【轟はじめ/ReGLOSS】",
+                "date": "2025/09/14 14:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/lAqbhdgs5jU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfUDMDV7ouodo26nIRuYgHMYaY9Q",
+                "description": "素敵なサムネお写真：たろち様（@o2mwnb9）\n\n\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n✨宣伝✨\n新曲⚡BANZAI-轟はじめ【Original 3D MV】⚡\nhttps://www.you..."
             }
         ]
     },
