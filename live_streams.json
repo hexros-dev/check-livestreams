@@ -237,7 +237,14 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Klxspbk6jKQ",
+                "title": "【OHAPOL】#179  9/15月曜日！たいへんもう15日 #ポルカ公演中 【尾丸ポルカ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/Klxspbk6jKQ/hqdefault.jpg?v=68c729de&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCiNtBjkh_fHUlK_z2lKfQG9JOcRA",
+                "description": "💌尾丸ポルカ 活動5周年記念グッズ💌\n\n📢販売URL\nhttps://shop.hololivepro.com/products/omarupolka_anniversary_5th\n🔔グッズ販売期間（受注販売）\n2025年08月16日..."
+            }
+        ]
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
@@ -399,14 +406,7 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": [
-            {
-                "video_id": "WlRqmt6rcVc",
-                "title": "【GUERILLA】I'm a chess piece but also I'm the chess piece (super mini stream hello)",
-                "thumbnail": "https://i.ytimg.com/vi/WlRqmt6rcVc/hqdefault.jpg?v=68c7126e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRvAmyozEUgJ8nS6PUNH1lmlJ7SQ",
-                "description": "--------------------------\nHashtags\n📺 Livestream: #ImmerScreen \n🎨 Fanart: #Immergination\n🎻 Music: #ImmerPiece\n🤡 Memes: #ImmerMemes \n--------------------------\n\n\n------------------------..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
@@ -416,7 +416,7 @@
             {
                 "video_id": "69Edd4xnwEw",
                 "title": "【MEMBERSHIP】Minecraft Movie Watch-A-Long ~! 💄",
-                "thumbnail": "https://i.ytimg.com/vi/69Edd4xnwEw/hqdefault.jpg?v=14&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKeEdsp_qbc3rF3nO5OK2imxG8Uw",
+                "thumbnail": "https://i.ytimg.com/vi/69Edd4xnwEw/hqdefault.jpg?v=1b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKeEdsp_qbc3rF3nO5OK2imxG8Uw",
                 "description": "Movie: Minecraft Movie [Jack Black]\n▬▬ι════════ﺤ\n\n❣ Hashtags ❣\n♡ General: #BFKingdom \n♡ Live: #BloodflameLive\n♡ Art: #BloodflameArt \n\n▬▬ι═══════..."
             }
         ]
