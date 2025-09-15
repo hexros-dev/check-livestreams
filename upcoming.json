@@ -144,13 +144,29 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "BtRo31JES2U",
+                "title": "【Fit Boxing feat. HATSUNE MIKU】BOXING in Studio Selfbooth 3D!!",
+                "date": "2025/09/16 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/BtRo31JES2U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAio_AUReP5qkXfzXihnp8yhJ8Yew",
+                "description": "Make me fit Miku\n\nThis game is being streamed and monetized after confirming with Imagineer Co., Ltd. \n©Crypton Future Media, INC. www.piapro.net©Imagineer Co., Ltd.\n”Exercise with Miku”..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "lMUAek9U6jM",
+                "title": "【定期雑談】祝日明けって仕事いや～～ってなるよねえ…話そ～～！✨#7【一条莉々華/hololive DEV_IS ReGLOSS】",
+                "date": "2025/09/16 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/lMUAek9U6jM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFxu3E8GrXXohQ6DVqwzACJswoTQ",
+                "description": "月曜日23:00から定期雑談を始めたいと思います✨\n皆と週に1回はゆっくり話す時間が欲しいんだ～🌸\n\n✨人生相談はこちらから✨\n（内容はマネージ..."
+            }
+        ]
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
