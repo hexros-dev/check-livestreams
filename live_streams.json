@@ -339,14 +339,7 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": [
-            {
-                "video_id": "2rcPQJ-X9Is",
-                "title": "【 ウマ娘 プリティーダービー 】オルフェーヴルを3冠ウマ娘に…‼ガチャもひく✨【鷹嶺ルイ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/2rcPQJ-X9Is/hqdefault.jpg?v=68c7010e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDI9B8KzfCozpQuetvZvZm1XAPsMg",
-                "description": "おもしろいぞウマ娘！\n\n本ゲームは株式会社Cygamesの配信ガイドラインに則って配信・収益化を行なっております。\nhttps://umamusume.jp/news/detail.php?id=107..."
-            }
-        ]
+        "videos": []
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
@@ -424,7 +417,14 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "GDfNEEMYpSE",
+                "title": "【Chrono Gear: Warden of Time】FIXING TIME BUT BREAKING EVERYTHING ELSE",
+                "thumbnail": "https://i.ytimg.com/vi/GDfNEEMYpSE/hqdefault.jpg?v=68c7f6a7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCLNP0mlS1biTmPysAPieqOkcxPlQ",
+                "description": "╭─⋆｡ﾟ♡ RAO ♡｡ﾟ⋆─╮\n\n『 X (formely Twitter) 』  \nhttps://x.com/raorapanthera  \n\n『 Hashtags 』  \n╰┈✧ Live ➤ #CiaoRaora  \n╰┈✧ Fanarts ➤ #RaorArt  \n╰┈✧..."
+            }
+        ]
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
