@@ -40,14 +40,7 @@
         "channel_url": "https://www.youtube.com/@AnyaMelfissa",
         "channel_name": "Anya Melfissa Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz",
-        "videos": [
-            {
-                "video_id": "Rq7pYml3Scc",
-                "title": "【Lethal Company】どうしてこうなった Hello My Old Friend...【hololive ID 2nd Generation | Anya Melfissa】",
-                "thumbnail": "https://i.ytimg.com/vi/Rq7pYml3Scc/hqdefault.jpg?v=68c816f2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1nMTUS4Tu4jml48vypxjVaojcCQ",
-                "description": "Support me here/ドネーション↓\nStreamlabs: https://streamlabs.com/anyamelfissachhololive-id/tip\nSociaBuzz(Local Donation): https://sociabuzz.com/anyamelfissa/tribe \n\n--\nGame title: Squirrele..."
-            }
-        ]
+        "videos": []
     },
     "@AyundaRisu": {
         "channel_url": "https://www.youtube.com/@AyundaRisu",
@@ -316,7 +309,14 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "NFbLiV8JB4s",
+                "title": "【Deck of Haunts】slurping souls at night【Pavolia Reine/hololiveID 2ndgen】",
+                "thumbnail": "https://i.ytimg.com/vi/NFbLiV8JB4s/hqdefault.jpg?v=68c81c86&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3ZQRHLsTd08L-nSUEe8Yzey_CPA",
+                "description": "Game title：Deck of Haunts\nStore page：https://store.steampowered.com/app/3179730/Deck_of_Haunts/\nDECK OF HAUNTS® is a trademark of Mantis Games NV.\nCopyright © 2025 Mantis Games NV. All..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
