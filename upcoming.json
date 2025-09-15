@@ -122,21 +122,20 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": [
-            {
-                "video_id": "vF7s4BdNLPU",
-                "title": "≪YAKUZA 5≫ She's an Athlete ... First Playthrough!! #10 【SPOILER WARNING】",
-                "date": "2025/09/15 08:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/vF7s4BdNLPU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDoVwKykP5RKYNYOq2Il7qYMDU1nQ",
-                "description": "FROM TAXI... TO HUNTING... TO IDOL... TO BASEBALL?!?!?!\n\nThumbnail Art: https://x.com/ttSyrene/status/1966973306151821635\n#telebae  #hololiveenglish \n\n««≪ °◇◆◇° ≫ »»\nThis game..."
-            }
-        ]
+        "videos": []
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
         "videos": [
+            {
+                "video_id": "0JQRdPegyd4",
+                "title": "【 #朝こよ 】㊗250回！ホロメンからのお祝いも🎉火曜日の朝は朝こよ～～～！☀ #250 【博衣こより/hololive】",
+                "date": "2025/09/16 05:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/0JQRdPegyd4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFHZjYbeIwBs9PyY6iFGmGxM1csQ",
+                "description": "💿1stアルバム「FIRST STEP」発売中！全曲新録！成長した歌を聴いてね🎶\n　https://cover.lnk.to/SdOKbq\n\n#朝こよ を観れば日本ニキも海外ニキもホロライブ..."
+            },
             {
                 "video_id": "FUvkvyX1fwg",
                 "title": "【うたわれるもの 二人の白皇】完全初見！三部作最終章、遂に最終回！！！！！！！ #11 【博衣こより/ホロライブ】",
@@ -487,7 +486,15 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "QEEbrNWfjXQ",
+                "title": "【VRChat】色々お披露目！3Dで動いちゃう？！ASMRにも挑戦だ～～～👀💡【白銀ノエル/ホロライブ】",
+                "date": "2025/09/15 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/QEEbrNWfjXQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4DpXSUCSlY6U36QI2UOHFXN9vUg",
+                "description": "🌙新曲「トレビアンナイト」MV公開中🌙\nhttps://youtu.be/p9NBMIUOGM0?feature=shared\n\n💙白銀ノエル6周年＆新衣装グッズ！期間限定販売中💙\nhttps://shop.hololiv..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
