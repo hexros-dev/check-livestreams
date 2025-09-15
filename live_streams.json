@@ -15,39 +15,39 @@
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
         "avatar_url": "https://yt3.googleusercontent.com/ecW_DT7IKBcfKJ1qioYiyU_Iq6EB4_bCZpaG4srWPkEZRsIAiYguEvh7_nELEJqPnbjAktVj6Q",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "pqf_M_yl7Cw",
+                "title": "【 雑談 】明日から休暇！寝る前にいっぱいしゃべろ～～～！💤【ホロライブ/赤井はあと】",
+                "thumbnail": "https://i.ytimg.com/vi/pqf_M_yl7Cw/hqdefault.jpg?v=68c6fc96&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3l7_R-jbI-Cfqr5LZAse6Senfgg",
+                "description": "📢赤井はあと生誕祭グッズ販売中‼️期間限定❕【9/16(火)18:00まで】\n◇販売ページURL\nhttps://shop.hololivepro.com/products/akaihaato_birthday_2025\n📢新曲『感触..."
+            }
+        ]
     },
     "@AkiRosenthal": {
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": [
-            {
-                "video_id": "_ByC1NlFHN8",
-                "title": "【R.E.P.O】頭だけでも働きなさい！！！？w/フレア,ちょこ,かなた【アキロゼ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/_ByC1NlFHN8/hqdefault.jpg?v=68c733d2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBeSSpUsZBHfv5bKc1WrMxGKDttOA",
-                "description": "ホロでREPOコラボだー！！わーい！！\n@YuzukiChoco \n@ShiranuiFlare \n@AmaneKanata \n\nサムネイラスト：ﾓﾝｺﾞﾘﾆｬﾝさま\nhttps://x.com/ksdns/status/1823342939285987638..."
-            }
-        ]
+        "videos": []
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
         "channel_name": "Kanata Ch. Kanata Amane",
         "avatar_url": "https://yt3.googleusercontent.com/oPU9ckNcyeHD0FFsYSxkoD1mtbslSwdmMSfoCYQWphOu5e7UeCnIF-Nt0hvvF41L5Nykga07nQ",
-        "videos": [
-            {
-                "video_id": "ThnGk-9qC0U",
-                "title": "【R.E.P.O.】予言しよう。僕は必ず、何かを壊す。【天音かなた/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/ThnGk-9qC0U/hqdefault.jpg?v=68c7a969&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxwa6K8vQq7YvNHI5HKVDEmrRBcQ",
-                "description": "ともに、ガラクタを集めるバイトメンバー\n@AkiRosenthal \n@YuzukiChoco \n@ShiranuiFlare \n\n配信タイトル：R.E.P.O.\nストアページ：https://store.steampowered.com/app/3241660..."
-            }
-        ]
+        "videos": []
     },
     "@AnyaMelfissa": {
         "channel_url": "https://www.youtube.com/@AnyaMelfissa",
         "channel_name": "Anya Melfissa Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Rq7pYml3Scc",
+                "title": "【Lethal Company】どうしてこうなった Hello My Old Friend...【hololive ID 2nd Generation | Anya Melfissa】",
+                "thumbnail": "https://i.ytimg.com/vi/Rq7pYml3Scc/hqdefault.jpg?v=68c816f2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1nMTUS4Tu4jml48vypxjVaojcCQ",
+                "description": "Support me here/ドネーション↓\nStreamlabs: https://streamlabs.com/anyamelfissachhololive-id/tip\nSociaBuzz(Local Donation): https://sociabuzz.com/anyamelfissa/tribe \n\n--\nGame title: Squirrele..."
+            }
+        ]
     },
     "@AyundaRisu": {
         "channel_url": "https://www.youtube.com/@AyundaRisu",
@@ -328,7 +328,14 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Ad0qOyB3kQg",
+                "title": "【 縦型/歌枠】 NO　ARCHIVE/今日はハスキーな女の気分♪ 【ホロライブ/ ロボ子さん 】",
+                "thumbnail": "https://i.ytimg.com/vi/Ad0qOyB3kQg/hqdefault.jpg?v=68c81a9a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWVIw0VLkEAxjqg8KQO1SNRFCBFw",
+                "description": "＃ホロライブ 　\nｘでは💬　 #ロボ子生放送　でポストしてってね\n\n【定期新企画】\n Midnight RBmelody 💗　通称　 #ろぼめろでぃ　💗\n週末の金土日に..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -371,14 +378,7 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": [
-            {
-                "video_id": "ai_p9-F_S68",
-                "title": "【R.E.P.O.】なあ…タカラサガシしようや【不知火フレア/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/ai_p9-F_S68/hqdefault.jpg?v=68c72ab8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2RrPdBlCCsRlwagA7zY_lZpPMzw",
-                "description": "@AkiRosenthal 全ての敵に色仕掛けする\n@YuzukiChoco 完全初見repoお姉さん\n@AmaneKanata 全ての敵を握りつぶす\n\n■Newシングル「架空と本当」MV公開中✨..."
-            }
-        ]
+        "videos": []
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -409,7 +409,14 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "2rcPQJ-X9Is",
+                "title": "【 ウマ娘 プリティーダービー 】オルフェーヴルを3冠ウマ娘に…‼ガチャもひく✨【鷹嶺ルイ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/2rcPQJ-X9Is/hqdefault.jpg?v=68c7010e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDI9B8KzfCozpQuetvZvZm1XAPsMg",
+                "description": "おもしろいぞウマ娘！\n\n本ゲームは株式会社Cygamesの配信ガイドラインに則って配信・収益化を行なっております。\nhttps://umamusume.jp/news/detail.php?id=107..."
+            }
+        ]
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
@@ -457,14 +464,7 @@
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
         "channel_name": "Choco Ch. 癒月ちょこ",
         "avatar_url": "https://yt3.googleusercontent.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g",
-        "videos": [
-            {
-                "video_id": "y2rc9Cx3CnY",
-                "title": "【R.E.P.O】怪物から逃げながらホロメンと宝探しするっ！【ホロライブ/癒月ちょこ/アキロゼ/天音かなた/不知火フレア】",
-                "thumbnail": "https://i.ytimg.com/vi/y2rc9Cx3CnY/hqdefault.jpg?v=68c7d5fe&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPcgsCDr4WTxkBznKzM8121f_nmQ",
-                "description": "ホロメンと初R.E.P.O！\n@AkiRosenthal \n@AmaneKanata \n@ShiranuiFlare \n\nサブ垢→https://www.youtube.com/channel/UCp3tgHXw_HI0QMk1K8qh3g\n\n癒月ちょこ新衣装記念グッズ\n→https://sh..."
-            }
-        ]
+        "videos": []
     },
     "@dooby3d": {
         "channel_url": "https://www.youtube.com/@dooby3d",
