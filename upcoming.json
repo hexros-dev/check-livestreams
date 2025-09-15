@@ -136,7 +136,15 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "vxA7wP5q0cQ",
+                "title": "【 Minecraft 】新ホロ鯖アプデ後！\"んな電鉄\" ガタンッ…ゴトンッ…の旅なのら！！！＃１２【姫森ルーナ/ホロライブ】",
+                "date": "2025/09/16 15:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/vxA7wP5q0cQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBml377ji8yiHnqK-R6RB3wMR9pVg",
+                "description": "サムネイラスト\n　Jason Marble Clown Axelさん　https://twitter.com/J_M_C_A\n\nマインクラフト新ホロ鯖再生リスト\nhttps://www.youtube.com/playlist?list=PL6gUpTCMieF56nDTQ8RCVqk..."
+            }
+        ]
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -306,15 +314,7 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": [
-            {
-                "video_id": "ctocZZML_c8",
-                "title": "【ゴブリン・ノーム・ホーン】ゴブリンになってみた【尾丸ポルカ/ホロライブ】",
-                "date": "2025/09/15 21:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/ctocZZML_c8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDN-G8y4KMbTCUPuMPJ08iRy9kx5w",
-                "description": "クリア・・・できるんでしょうね！？！！？！？\n\n配信タイトル：ゴブリン・ノーム・ホーン\nストアページ：https://store.steampowered.com/app/3675060/_/..."
-            }
-        ]
+        "videos": []
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",

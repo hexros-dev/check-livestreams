@@ -145,14 +145,7 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": [
-            {
-                "video_id": "Tdc9jGQsHts",
-                "title": "【メンバーシップ配信】めめめめめんげん！！！【ホロライブ DEV_IS 響咲リオナ】",
-                "thumbnail": "https://i.ytimg.com/vi/Tdc9jGQsHts/hqdefault.jpg?v=68c803b8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOZd6wfpiYnJ820Vrm9l904uKQNQ",
-                "description": "サムネイラストshiharaさん (@ shihara86159980)にお借りしました！ありがとうございます✨\n\n∴∵∴ ୨୧ ∴∵∴ ୨୧ ∴∵∴ ୨୧ ∴∵∴∴∵∴ ୨୧..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -286,7 +279,14 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ctocZZML_c8",
+                "title": "【ゴブリン・ノーム・ホーン】ゴブリンになってみた【尾丸ポルカ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/ctocZZML_c8/hqdefault.jpg?v=68c81ec1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDN-G8y4KMbTCUPuMPJ08iRy9kx5w",
+                "description": "クリア・・・できるんでしょうね！？！！？！？\n\n配信タイトル：ゴブリン・ノーム・ホーン\nストアページ：https://store.steampowered.com/app/3675060/_/..."
+            }
+        ]
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
@@ -365,14 +365,7 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": [
-            {
-                "video_id": "txmglPhW_zk",
-                "title": "【Dread Flats/凶寓】 見知らぬ婆さんと狼と狐と大絶叫。#フブミオ【白上フブキ/大神ミオ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/txmglPhW_zk/hqdefault.jpg?v=68c8086c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBAC0z3B4iphWi1BFM3BGE9DkQ7FQ",
-                "description": "#フブミオ\n見守りの大神ミオ @OokamiMio \n\n━━━━━━🎵N　E　W　🎵━━━━━━━\nマフィア(Mafia)/ 黒上フブキ×鷹嶺ルイ\n▷https://youtu.be/9G2CfzWLRyI..."
-            }
-        ]
+        "videos": []
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -384,14 +377,7 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": [
-            {
-                "video_id": "QEEbrNWfjXQ",
-                "title": "【VRChat】色々お披露目！3Dで動いちゃう？！ASMRにも挑戦だ～～～👀💡【白銀ノエル/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/QEEbrNWfjXQ/hqdefault.jpg?v=68c77c1a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4DpXSUCSlY6U36QI2UOHFXN9vUg",
-                "description": "🌙新曲「トレビアンナイト」MV公開中🌙\nhttps://youtu.be/p9NBMIUOGM0?feature=shared\n\n💙白銀ノエル6周年＆新衣装グッズ！期間限定販売中💙\nhttps://shop.hololiv..."
-            }
-        ]
+        "videos": []
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
