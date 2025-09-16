@@ -396,7 +396,14 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "84KzO2UNxWY",
+                "title": "【BLUE PRINCE】8 trophies and blue tent GET. END GAME!!!! #kfp #キアライブ",
+                "thumbnail": "https://i.ytimg.com/vi/84KzO2UNxWY/hqdefault.jpg?v=68c8a9a0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJC048n9Dw7bFomWQahI1lmxLWzg",
+                "description": "Takanashi Kiara『TASTY』\nhttps://cover.lnk.to/al3Zjt\n\n🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara\n\n 🏵️[Hashtags] 🏵️\n#kfp #キアライブ#hololiveenglish #holomyth..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
@@ -420,14 +427,7 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": [
-            {
-                "video_id": "7HBJZ-fHviU",
-                "title": "【メンバー限定/Memberonly】まったり【常闇トワ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/7HBJZ-fHviU/hqdefault.jpg?v=68c941f3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCAcVLJbSNSmQbUjFxRzgBnUQgPkg",
-                "description": "イラスト：https://x.com/wasemkn/status/1967098145449627761\n\n「MagicalDraw」はaquapal/kukusamaに確認を得た上で配信・収益化を行なっております。\nMagicalDraw\nhttps://dra..."
-            }
-        ]
+        "videos": []
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
