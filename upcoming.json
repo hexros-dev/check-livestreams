@@ -188,13 +188,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
         "videos": [
             {
-                "video_id": "T57DoXmnyQQ",
-                "title": "【PR配信】『ホグワーツ・レガシー』初見プレイ✨リオナはレイブンクローっぽくない！？ねえ！！ねええ！！？【ホロライブ DEV_IS 響咲リオナ】＃PR",
-                "date": "2025/09/17 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/T57DoXmnyQQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9oQ3rnoDF8lXMV2ngl8caxRwETQ",
-                "description": "提供：SEGA\n『ホグワーツ・レガシー』Nintendo Switch™ 2版　発売中\n公式サイト：https://www.hogwartslegacy.com/ja-jp\n＃PR\n\n∴∵∴ ୨୧ ∴∵∴ ୨୧ ∴∵∴..."
-            },
-            {
                 "video_id": "lJNEe9iS7Po",
                 "title": "【 #突発ホロAmongUs 】はいっ！洞察力のリオ――ナです！！(￣▽￣)【ホロライブ DEV_IS 響咲リオナ】",
                 "date": "2025/09/17 19:00:00",
@@ -219,15 +212,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": [
-            {
-                "video_id": "dqH2DQ3Lrpw",
-                "title": "【 ARK: Survival Ascended 】人生初のARK！ソロで恐竜の世界へ！#３【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "date": "2025/09/17 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/dqH2DQ3Lrpw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpuyQZq97ILeTp9tTeulsABaRuGw",
-                "description": "綺々羅々ヴィヴィ 誕生日記念2025グッズ\n■販売ページURL\nhttps://shop.hololivepro.com/products/kikiraravivi_birthday_2025\n■グッズ販売期間（受注販売）\n2025年08月2..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -541,7 +526,22 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "0bj8ak2MvQo",
+                "title": "【 トワと神樹の祈り子たち 】トワ様こんにちは！！ホロライブのトワ様です！【常闇トワ/ホロライブ】",
+                "date": "2025/09/18 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/0bj8ak2MvQo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBlHLOye90IVem-_ByZzUvV7aqJA",
+                "description": "＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝\n提供：バンダイナムコエンターテインメント\n\n※本作品の..."
+            },
+            {
+                "video_id": "2v6dta6WyL0",
+                "title": "【 #常闇祭 】👾 STREET FIGHTER6　常闇祭 3on3 トーナメント👑【常闇トワ/ホロライブ】",
+                "date": "2025/09/20 10:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/2v6dta6WyL0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsVlNmn55hkTsent_I3W1WcoBGeQ",
+                "description": "#常闇祭 SF6 開催\n3on3形式のオープントーナメント！\n\n開催概要：ストリートファイター・オンライントーナメント・3on3勝ち残り戦\n大会日時：2025年9..."
+            }
+        ]
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
