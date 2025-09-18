@@ -33,14 +33,7 @@
         "channel_url": "https://www.youtube.com/@AnyaMelfissa",
         "channel_name": "Anya Melfissa Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz",
-        "videos": [
-            {
-                "video_id": "xf5GL08qsaE",
-                "title": "【Bum Simulator】Ah, Yes... Just Like the Old Days【hololive ID 2nd Generation | Anya Melfissa】",
-                "thumbnail": "https://i.ytimg.com/vi/xf5GL08qsaE/hqdefault.jpg?v=68caf706&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAVoeUDXWvPL3FkGXMQTBFK3FIqOQ",
-                "description": "Support me here/ドネーション↓\nStreamlabs: https://streamlabs.com/anyamelfissachhololive-id/tip\nSociaBuzz(Local Donation): https://sociabuzz.com/anyamelfissa/tribe \n\n--\nGame title: Bum..."
-            }
-        ]
+        "videos": []
     },
     "@AyundaRisu": {
         "channel_url": "https://www.youtube.com/@AyundaRisu",
@@ -142,7 +135,14 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "_HbXuNBKAc0",
+                "title": "【 歌枠 / KARAOKE 】目指せ45万人！縦型歌枠！【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "thumbnail": "https://i.ytimg.com/vi/_HbXuNBKAc0/hqdefault.jpg?v=68cbb591&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpugd1l65CwibZLLEpglOwSGJpcA",
+                "description": "綺々羅々ヴィヴィ 誕生日記念2025グッズ\n■販売ページURL\nhttps://shop.hololivepro.com/products/kikiraravivi_birthday_2025\n■グッズ販売期間（受注販売）\n2025年08月2..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
