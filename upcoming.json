@@ -212,13 +212,6 @@
                 "date": "2025/09/18 13:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/Wkgh6W_Q7Kc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHXJS61L0-rWiTR1iU2rLK_tQKfQ",
                 "description": "#OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n==========================================\n\nThumbnail art by https://x.com/megaseafood087/\nhttps://x.com/megaseafood087/status/1966941043116704068..."
-            },
-            {
-                "video_id": "r7cAijjIey8",
-                "title": "【MONSTER CON】 GETTING THAT MONSTER ACTION w/@holoen_gigimurin  【Kureiji Ollie】",
-                "date": "2025/09/18 08:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/r7cAijjIey8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_o70o0yV34_C0bagHgvDlG2_rhA",
-                "description": "#OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n==========================================\n\nPlaying w/ @holoen_gigimurin \nGame title：Monster Prom 4: Monster Con\nStore page：https://store.steampow..."
             }
         ]
     },
@@ -302,15 +295,7 @@
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
         "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ",
-        "videos": [
-            {
-                "video_id": "oNTZku_JLd4",
-                "title": "I have time, hello! | Chatting",
-                "date": "2025/09/18 07:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/oNTZku_JLd4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfjsDtCQWjFpgN5kr0zLGlvWqpFw",
-                "description": "∴∴🎶*┈┈┈┈┈┈┈┈┈┈┈┈┈*🎶∴∴\n\n🐦‍⬛twitter: https://twitter.com/nerissa_en\n🐦‍⬛spotify: https://open.spotify.com/artist/4uzAnzFMXarRPOBAG2lIIa\n🐦‍⬛..."
-            }
-        ]
+        "videos": []
     },
     "@NinomaeInanis": {
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
@@ -434,7 +419,15 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "TyZSlYjk9J8",
+                "title": "What I Want for Christmas Is 【Cronos: The New Dawn】",
+                "date": "2025/09/19 04:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/TyZSlYjk9J8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA69hGKyYgrxL6PU4cHT0xKs31HWA",
+                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n===============..."
+            }
+        ]
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
