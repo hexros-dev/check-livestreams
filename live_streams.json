@@ -264,7 +264,14 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Z17vAhq5tYM",
+                "title": "【 マリオカートワールド 】自分のSwitch2で初めて遊ぶマリワ！！！！！！【 ホロライブ / 大神ミオ 】",
+                "thumbnail": "https://i.ytimg.com/vi/Z17vAhq5tYM/hqdefault.jpg?v=68cbc673&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnN8leetCdEKhLfCp3js-1l-bhtA",
+                "description": "以前、まだSwitch2にあたった者が選ばれし者ばかりだった頃\nおかゆにおすそ分けしてもらって少しプレイさせてもらいました。\nそれからずっと待..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
