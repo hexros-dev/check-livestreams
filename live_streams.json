@@ -83,7 +83,14 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "GEWvHm5Z7G0",
+                "title": "【Membership Only】ナイショのお話～～～～～っしよっ(ᐡ •͈ ·̫ •͈ ᐡ)♡【博衣こより/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/GEWvHm5Z7G0/hqdefault.jpg?v=68cd3908&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDSUKGHPFvG2z-Mpd7MGM0GiFFM8A",
+                "description": "ゆるゆるざつだん～～～　※開始直前にメンバー限定に切り替えます\n【大切なお約束！！！】\n⚠メンバー限定で発信している配信内容での発言や..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -138,20 +145,20 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": [
-            {
-                "video_id": "hViAQeWJcDE",
-                "title": "【PR配信】『ホグワーツ・レガシー』初見プレイ✨ぐりふぃんどおおおおおおおおる！【ホロライブ DEV_IS 響咲リオナ】＃PR",
-                "thumbnail": "https://i.ytimg.com/vi/hViAQeWJcDE/hqdefault.jpg?v=68cc347b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBeb1k9mh6vS35RlJTGiTKWOcv7yg",
-                "description": "提供：SEGA\n『ホグワーツ・レガシー』Nintendo Switch™ 2版　発売中\n公式サイト：https://www.hogwartslegacy.com/ja-jp\n＃PR\n\n∴∵∴ ୨୧ ∴∵∴ ୨୧ ∴∵∴..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Mupgsfqi_Do",
+                "title": "【雑談】蛍石採掘体験に行ってきた！！in岐阜【儒烏風亭らでん #ReGLOSS 】",
+                "thumbnail": "https://i.ytimg.com/vi/Mupgsfqi_Do/hqdefault.jpg?v=68cd536c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBoxz7Y6M_iMg387QjAbaY63kEIMw",
+                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\n\n▼儒烏風亭らでんソロ曲「落噺」楽曲配信（..."
+            }
+        ]
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -187,14 +194,7 @@
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
-        "videos": [
-            {
-                "video_id": "jeI9VGqelf0",
-                "title": "【#OlliEyesOnMe】 FEAST YOUR EYES UPON THE UNDEAD MAIDEN🕯️🌹🖤 【Kureiji Ollie】",
-                "thumbnail": "https://i.ytimg.com/vi/jeI9VGqelf0/hqdefault.jpg?v=68cbd69e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDMeOlRi0vToElE8k6sNgcjgIuxnQ",
-                "description": "#OLLIEginal #Kureiji_Ollie #holoID #hololive #holoIDNewCostume\n\n==========================================\n\nThumbnail made by https://x.com/simpingskypen\n\n==========================================..."
-            }
-        ]
+        "videos": []
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
@@ -225,7 +225,14 @@
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
         "channel_name": "Moona Hoshinova hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "bfEq3pU8NiU",
+                "title": "【Membership】Just Chill...【Moona Hoshinova】",
+                "thumbnail": "https://i.ytimg.com/vi/bfEq3pU8NiU/hqdefault.jpg?v=68cd6416&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZ-u_YNoioqQ62k249B4XPwapZzw",
+                "description": "Streamlabs donation link here : https://streamlabs.com/moonahoshinovahololive-id/tip\nSociaBuzz donation link here : https://sociabuzz.com/moonahoshinova/tribe\n======================================..."
+            }
+        ]
     },
     "@MoriCalliope": {
         "channel_url": "https://www.youtube.com/@MoriCalliope",
@@ -292,14 +299,7 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": [
-            {
-                "video_id": "dga5vg1XGxs",
-                "title": "【 同時視聴 】大神ミオ 1st Live.「Our Sparkle」ぴあアリーナMM【自分のソロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/dga5vg1XGxs/hqdefault.jpg?v=68cd02d4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDE37cxKffrWZo7YU6s735JcALVuw",
-                "description": "客観的に見るの怖くてまだ見れてません！！！\n\n✨2025年9月10日（水）ぴあアリーナMM✨\n大神ミオ 1st Live.「Our Sparkle」無事終演！\n\n🎫配信チケット..."
-            }
-        ]
+        "videos": []
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -318,7 +318,14 @@
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "x_XuKAIzaD0",
+                "title": "【 雑談 】アーカイブはメン限になるかも！何故かというと声が小さいから【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+                "thumbnail": "https://i.ytimg.com/vi/x_XuKAIzaD0/hqdefault.jpg?v=68cd5622&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsj_RtfCURaet8pHI1dTLSbqu3TA",
+                "description": "▽✨重大告知✨ ▽\n音乃瀬奏 1stオリジナル曲「GREATEST」\n4/20(日) 24：00（4/21  0：00）リリース開始！\nhttps://cover.lnk.to/4rvCRp\n\n୨୧♪:*:･･:*:･♪･:*:･..."
+            }
+        ]
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
@@ -330,7 +337,14 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "MkdXbbnTRiQ",
+                "title": "【No Sleep For Kaname Date】From AI: THE SOMNIUM FILES! WE'RE SO BACK【Pavolia Reine/hololiveID 2ndgen】",
+                "thumbnail": "https://i.ytimg.com/vi/MkdXbbnTRiQ/hqdefault.jpg?v=68c7ffc4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjR-agCDyanvbX1N-_xdn_4k9UhA",
+                "description": "Reine's new original song now AVAILABLE on iTunes, Apple Music, Spotify etc. starting September 10, 2025 00:00 your local time!!!\nWatch the MV:➡️https://youtu.be/NEtiag8nTUs\nGet it here:➡️h..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -423,7 +437,14 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "gX7ld8UgIo4",
+                "title": "【 定期雑談 】1週間すぎるの早すぎないか⁉ #もう金ルイ 【鷹嶺ルイ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/gX7ld8UgIo4/hqdefault.jpg?v=68cc7532&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFNroAO-5ATEMfJkhkWJtLioPTtw",
+                "description": "相談事あればマシュマロで教えてね☺\nhttps://marshmallow-qa.com/takanelui?t=GAGntZ&utm_medium=url_text&utm_source=promotion\n\nサムネ：あまみ様 (@yamagamiamami)\nロゴデザイ..."
+            }
+        ]
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
@@ -460,7 +481,14 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "cg6AAyAbUmM",
+                "title": "【Hollow Knight: Silksong】we do a little bit of wandering",
+                "thumbnail": "https://i.ytimg.com/vi/cg6AAyAbUmM/hqdefault.jpg?v=68cd251a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3Ixau0J8MipaWyxTbXyqZrc_09A",
+                "description": "Game Title：Hollow Knight: Silksong\nStore Page：https://store.steampowered.com/app/1030300/Hollow_Knight_Silksong/\n\nThumbnail: https://x.com/rokusketch/\n-----\nVestia Zeta's  2nd Original..."
+            }
+        ]
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
