@@ -419,15 +419,7 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
-        "videos": [
-            {
-                "video_id": "9SndC3jdSq4",
-                "title": "#01【 牧場物語 Let's！風のグランドバザール 】　初めての牧場物語 🐄✨ ※ネタバレあり【ホロライブ/ロボ子さん】",
-                "date": "2025/09/20 05:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/9SndC3jdSq4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYIPscRShCFHLwepAv-BzS4O2eYQ",
-                "description": "#hololive 　＃ロボ子さん　#牧場物語\nｘでは💬  #ロボ子生放送　でポストしてってね✨\n遂に気になってたゲームができるようになったよ✨\nストー..."
-            }
-        ]
+        "videos": []
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -511,7 +503,15 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "s_pC7QbwD8o",
+                "title": "【HOLLOW KNIGHT: SILKSONG】deja vu (act 2 here i come) #kfp #キアライブ",
+                "date": "2025/09/20 22:15:00",
+                "thumbnail": "https://i.ytimg.com/vi/s_pC7QbwD8o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfrUt358AlmNnKj0W-jQpwzehVkw",
+                "description": "Takanashi Kiara『TASTY』\nhttps://cover.lnk.to/al3Zjt\n\n🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara\n\n 🏵️[Hashtags] 🏵️\n#kfp #キアライブ#hololiveenglish #holomyth..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
@@ -617,15 +617,7 @@
         "channel_url": "https://www.youtube.com/@dooby3d",
         "channel_name": "dooby",
         "avatar_url": "https://yt3.googleusercontent.com/sOGyZgV9pPHQJCEvNe28NCOFC1y0KggsxUjrP5ecMAgBmdNT8p6ZNM24d_9SVgWFhBh0lKBL5Q",
-        "videos": [
-            {
-                "video_id": "Cfj6ASnvKko",
-                "title": "1v1 me noob 🟡🟢🔵 COLLAB w/ @RemiaAotsuki",
-                "date": "2025/09/20 05:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Cfj6ASnvKko/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwjvzy2s0OJ8jhU7yxwBetkOkMgA",
-                "description": "a FREE fun movement arena shooter! ▶ https://store.steampowered.com/app/2386720/STRAFTAT/\ncheck out remia's POV ▶ https://www.youtube.com/watch?v=It6EN_r1E5A"
-            }
-        ]
+        "videos": []
     },
     "@holoen_ceciliaimmergreen": {
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
