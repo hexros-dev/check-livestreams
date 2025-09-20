@@ -113,7 +113,14 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "0c94IyQiJa0",
+                "title": "【Members Only】Typing Peacefully?【Glyphica: Typing Survival】",
+                "thumbnail": "https://i.ytimg.com/vi/0c94IyQiJa0/hqdefault.jpg?v=68ce1c65&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCqtl37JpNPEtj329EATCqgmUyyqg",
+                "description": "Make me fit Miku\n\nThis game is being streamed and monetized after confirming with Squeaky Wheel and aliasBLACK.\n#hololiveenglish  #ホロライブ \n\nStream my NEW EP YaBAI NOW!!\nhttps://cover.lnk.t..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -215,7 +222,7 @@
                 "video_id": "3NvLQFEEgN4",
                 "title": "【QQQbeats!!!】Mori Enters the Stage! Come Fight Me?! #calliolive",
                 "thumbnail": "https://i.ytimg.com/vi/3NvLQFEEgN4/hqdefault.jpg?v=68cd6f63&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzL9eIDW5dSSMN49yCfJXlfSAzTQ",
-                "description": "Mori Calliope 5th Anniversary PREMIUM GOODS ON SALE!!\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/moricalliope_anniversary_5th\nEN: https://shop.hololivepro.com/en..."
+                "description": "Nintendo Switchダウンロード配信ソフト\n『QQQbeats!!!』\n公式HP：https://www.taito.co.jp/qqqbeats\n公式X：https://x.com/qqqbeats\n\nタイトー公式YouTube チャンネル：..."
             }
         ]
     },
@@ -307,14 +314,7 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
-        "videos": [
-            {
-                "video_id": "Jlyh9i34BiE",
-                "title": "#01【 牧場物語 Let's！風のグランドバザール 】　初めての牧場物語 🐄✨ ※ネタバレあり【ホロライブ/ロボ子さん】",
-                "thumbnail": "https://i.ytimg.com/vi/Jlyh9i34BiE/hqdefault.jpg?v=68cdd33e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTcaRyl-kX6TAwKt3iCs4iaIRzkQ",
-                "description": "#hololive 　＃ロボ子さん　#牧場物語\nｘでは💬  #ロボ子生放送　でポストしてってね✨\n遂に気になってたゲームができるようになったよ✨\nストー..."
-            }
-        ]
+        "videos": []
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
