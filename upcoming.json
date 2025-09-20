@@ -429,13 +429,6 @@
                 "date": "2025/09/21 21:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/AkcGtZ7Gd9s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTM-i5ZozyOXaRzF2xeFDUoJ1FzA",
                 "description": "#hololive 　#asmr \n\n途中でお試し全体公開➡メンバー限定配信に切り替わるよ👀\nメンバーさんはそのまま枠移動されるので安心してね💜\nこの機会に..."
-            },
-            {
-                "video_id": "MdsdBvlIUMM",
-                "title": "#02【 牧場物語 Let's！風のグランドバザール 】　残業をぎりぎりまでやりたいボクのスローライフ 🐄✨ ※ネタバレあり【ホロライブ/ロボ子さん】",
-                "date": "2025/09/21 06:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/MdsdBvlIUMM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbGUjqCGzJUHb4OQ4wiq7_RV87iA",
-                "description": "#hololive 　＃ロボ子さん　#牧場物語\nｘでは💬  #ロボ子生放送　でポストしてってね✨\n遂に気になってたゲームができるようになったよ✨\nストー..."
             }
         ]
     },
@@ -513,7 +506,15 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "R0KFXF6qplE",
+                "title": "【THE WITCHER 3】a long long journey ahead of us! #kfp #キアライブ",
+                "date": "2025/09/21 22:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/R0KFXF6qplE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDamLdBptF8yWyDzvT2GUtNAtvRIw",
+                "description": "Anniversary Merch on sale now!\n▼hololive production OFFICIAL SHOP\nEN: https://shop.hololivepro.com/en/products/takanashikiara_anniversary_5th\n▼Geek Jack\nEN: https://shop.geekjack.net/collection..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
