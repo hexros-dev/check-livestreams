@@ -125,15 +125,7 @@
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk",
-        "videos": [
-            {
-                "video_id": "VUEbmSrAawc",
-                "title": "【 #ホロライブ甲子園2025】2年目夏！！大会2回戦から！！！この夏を終わらせるな！【ホロライブ/宝鐘マリン】",
-                "date": "2025/09/20 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/VUEbmSrAawc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACrorH66P6kYKw2ZneEocJHvd3iA",
-                "description": "本ゲームは株式会社コナミデジタルエンタテインメントの動画投稿ガイドラインに則り配信・収益化を行っております\n©Konami Digital Entertainment..."
-            }
-        ]
+        "videos": []
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
@@ -356,7 +348,15 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "NSA9Pi_fi2s",
+                "title": "【Members Only】 Movie Watchalong: A Minecraft Movie",
+                "date": "2025/09/21 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/NSA9Pi_fi2s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOkdsygdVsFsBxVa1H3fXIu7zQMA",
+                "description": "[Twitter]\nhttps://twitter.com/ourokronii\n\n[Thumbnail Art]\nhttps://x.com/MokaGyoza\n----------------------------------------------------------------------------\n\n[Viewer Rules]\nThank you for..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
