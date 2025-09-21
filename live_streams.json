@@ -120,14 +120,7 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": [
-            {
-                "video_id": "4uwiAljDW50",
-                "title": "【SEKIRO: SHADOWS DIE TWICE】Overcoming Trauma (finally)",
-                "thumbnail": "https://i.ytimg.com/vi/4uwiAljDW50/hqdefault.jpg?v=68cf03d2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUrbevyJh8djy3Su3zmi47yd5lKw",
-                "description": "It is time to overcome my trauma\n\nThis game is streamed and monetized after confirming with FromSoftware, Inc., and following the guidelines set out in the \"Videos and Images Publication Guidelines..."
-            }
-        ]
+        "videos": []
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -395,14 +388,7 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": [
-            {
-                "video_id": "JMMBslkfKg8",
-                "title": "【 龍が如く0 】桐生ちゃんパート続き🙃家消失…行き場をなくした一馬君。：Yakuza 0【鷹嶺ルイ/ホロライブ】※ネタバレあり",
-                "thumbnail": "https://i.ytimg.com/vi/JMMBslkfKg8/hqdefault.jpg?v=68cf6399&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtTFDjt4XDZ6gbKzl3oMoJ471oyw",
-                "description": "借りぐらしのかずまってぃ\n\nこの動画およびライブは、コンテンツ利用許諾契約に基づいて配信しています。\n©SEGA\n\n※タイトルの『※ネタバレあり..."
-            }
-        ]
+        "videos": []
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
@@ -433,7 +419,14 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "kGkMI4XCCWY",
+                "title": "【企画告知】ついに始動する企画はっぴょーーーーをします！！！【角巻わため/ホロライブ４期生】",
+                "thumbnail": "https://i.ytimg.com/vi/kGkMI4XCCWY/hqdefault.jpg?v=68ce82b8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIM_MH-JZ8MMO_L8ZLpbwKvKBcAA",
+                "description": "一週間のお休みありがとう！からの、ついにあれの企画説明をするぞお！\nタグ：#ドドドライブ\n\n配信タイトル：Minecraft\nストアページ：https://www.min..."
+            }
+        ]
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
