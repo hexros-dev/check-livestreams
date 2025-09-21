@@ -100,7 +100,14 @@
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "3cFQOuv2aJE",
+                "title": "【メンバーシップ限定】一味主催の花火大会を一緒に観よう！#一味納涼祭【ホロライブ/宝鐘マリン】",
+                "thumbnail": "https://i.ytimg.com/vi/3cFQOuv2aJE/hqdefault.jpg?v=68cf8d6d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAouAm0rrmpy1dKtf7RFpLuBi2kUA",
+                "description": "こちらの配信を見ます！\nhttps://www.youtube.com/live/EZR_k5TP0qo\n\n｡.｡:+* ﾟ ゜ﾟ *+:｡.｡:+* ﾟ ゜ﾟ *+:｡.｡.｡:+*ﾟ ゜ﾟ *+:｡.｡:+*ﾟ ゜ﾟ *+:｡.｡.｡:+*+:｡..."
+            }
+        ]
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
@@ -504,14 +511,7 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": [
-            {
-                "video_id": "I73QCHRLb28",
-                "title": "【FF6】ファイナルファンタジー6を初見で始める！！！！！ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意",
-                "thumbnail": "https://i.ytimg.com/vi/I73QCHRLb28/hqdefault.jpg?v=68cecee9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWDWo08TduuZNUB9xgeWZ2-py6Tw",
-                "description": "昨日まじで面白かった～！\n\nサムネイラスト：憂姫はぐれマッマ\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/u..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
