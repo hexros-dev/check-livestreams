@@ -39,14 +39,7 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": [
-            {
-                "video_id": "94IdLuJhLbA",
-                "title": "MILKSHAKES",
-                "thumbnail": "https://i.ytimg.com/vi/94IdLuJhLbA/hqdefault.jpg?v=68cfc0c2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBcxoYd4LcOodqlKMH1yFT9t7hPQQ",
-                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nThis game is being streamed and monetized after confirming with Flipline Studios\n\nーーーーーーーーー\n\nSTREAM MY NEWEST ORIGINAL..."
-            }
-        ]
+        "videos": []
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -76,14 +69,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "hoCCgeh-xIA",
-                "title": "【完全生3Dライブ】アコースティックライブ in Summer 🌻 #holoAcousticLive 🎤🎶【大神ミオ・AZKi・森カリオペ・古石ビジュー・博衣こより/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/hoCCgeh-xIA/hqdefault.jpg?v=68c7d98f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXDkveRyZlbnlRwNVuo5ZS8xWz5Q",
-                "description": "#holoAcousticLive でポストしてね🎶最初から最後まで完全生ライブ、生演奏、生歌でお届けします。\n✨出演者： @OokamiMio @AZKi @MoriCalliope @KosekiBijou..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -312,7 +298,14 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Uf5IPItH1vQ",
+                "title": "【#ホロライブ甲子園2025】桜咲高校２年目春‼⚾負けるな！夏大会へ挑むにぇ～！！！！！！【ホロライブ/さくらみこ】",
+                "thumbnail": "https://i.ytimg.com/vi/Uf5IPItH1vQ/hqdefault.jpg?v=68cfe57f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxPMb1xs-QENjxeVh0O3JemH9cag",
+                "description": "夢にときめけ明日にきらめけ、諦めない心で咲き誇れ桜咲高校！！！！！！！！！🌸\n\n⚾育成注意事項⚾\n育成期間：９月１日（月）～１０月２２..."
+            }
+        ]
     },
     "@SamekoSaba": {
         "channel_url": "https://www.youtube.com/@SamekoSaba",
@@ -330,7 +323,14 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "yAi4TDkpi20",
+                "title": "【ポケポケ】金コイある所に我はあり！推しのコイある所に白上あり！いでよ！金コイキング！！【白上フブキ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/yAi4TDkpi20/hqdefault.jpg?v=68cf8466&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA30i6SVfPcZEsFKcTbyqG7omAndw",
+                "description": "インディグネイショォオオオオオオオオオオオオオオオオオオオオン\n\n━━━━━━🎵N　E　W　🎵━━━━━━━\nマフィア(Mafia)/ 黒上フブキ×鷹..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -462,7 +462,14 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "LxxyT9QdI80",
+                "title": "【企画】一週間企画最終日！『兎田ぺこらにホロライブ愛はあるのか？クイズ！』ぺこ！【ホロライブ/兎田ぺこら/戌神ころね】",
+                "thumbnail": "https://i.ytimg.com/vi/LxxyT9QdI80/hqdefault.jpg?v=68cf88b4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZFOd0fsLlKgkyKPhSATBJuegFpQ",
+                "description": "@InugamiKorone \n\nサムネイラスト：加ふるさん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
