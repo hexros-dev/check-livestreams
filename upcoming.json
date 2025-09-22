@@ -87,15 +87,7 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": [
-            {
-                "video_id": "y7d8zL_FpjI",
-                "title": "≪YAKUZA 5≫ It's been a long ride ... First Playthrough FINALE!! #11 【SPOILER WARNING】",
-                "date": "2025/09/22 08:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/y7d8zL_FpjI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBEBGgw4X76TcCRiI-KjHevpnlbA",
-                "description": "This game has taken years off my life.\n\nThumbnail Art: https://x.com/MoYoMo8/status/1893595136954716247/photo/1\n#telebae  #hololiveenglish \n\n««≪ °◇◆◇° ≫ »»\nThis game is being..."
-            }
-        ]
+        "videos": []
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -398,13 +390,29 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "vNfG556bEv4",
+                "title": "【首都高バトル】フルリリース版先行プレイ！！！重大告知も！？！？！【 #輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+                "date": "2025/09/22 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/vNfG556bEv4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBY-LB5zDsAd0O3B9iMQ9_7mLco-w",
+                "description": "遂にフルリリース版がきた～～～～～！！！！！！！！！！！\n\n提供：首都高バトル\n\n2025/09/25　首都高バトル　Full Release!!\nhttps://shutoko-battle-jp.genki.c..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "6ECJaa9vO1U",
+                "title": "【#ロボ子さん降臨祭】#ホロアース のセカイにはろーぼー！！！【ホロライブ/ ロボ子さん】",
+                "date": "2025/09/22 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/6ECJaa9vO1U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAE5bnFlTxkhuRS9QsB1Dnh2_i4Tw",
+                "description": "#hololive 　＃ホロアース\nｘでは💬  #ロボ子生放送　でポストしてってね✨\n\n会場\nホロアース\n\n参加方法\n「ホロアース」をインストールすることで..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
