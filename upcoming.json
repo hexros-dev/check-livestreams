@@ -298,15 +298,7 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": [
-            {
-                "video_id": "adS4wn24ank",
-                "title": "【hololive TCG】THE STREAM WHERE MORI CALLIOPE PULLS A SIGNED CARD FINALLY. #calliolive",
-                "date": "2025/09/22 08:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/adS4wn24ank/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDeO5JJDNsuvyu6l4gocaIVNCrsLw",
-                "description": "Mori Calliope 5th Anniversary!!\nAnniversary Merch:\n8:00PM, September 12th, PST(12:00PM, September 13th JST)\n\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/moricalli..."
-            }
-        ]
+        "videos": []
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -582,7 +574,15 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "dEX4HUTyjXU",
+                "title": "【Twelve Minutes】Cat-astrophic loops incoming 🐱⏰",
+                "date": "2025/09/23 04:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/dEX4HUTyjXU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAL3SMDHwOJButdBiSvUDde6TecSg",
+                "description": "╭─⋆｡ﾟ♡ RAO ♡｡ﾟ⋆─╮\n\n『 X  』  \nhttps://x.com/raorapanthera  \n\n『 Hashtags 』  \n╰┈✧ Live ➤ #CiaoRaora  \n╰┈✧ Fanarts ➤ #RaorArt  \n╰┈✧ Clips ➤..."
+            }
+        ]
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
