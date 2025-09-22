@@ -225,7 +225,14 @@
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
         "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "UmC98cFxXJk",
+                "title": "We Want ANSWERS | Higurashi Kai Watchalong",
+                "thumbnail": "https://i.ytimg.com/vi/UmC98cFxXJk/hqdefault.jpg?v=68d05fca&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDac2xEU43MXlTAAOEy6XJJeFO5rg",
+                "description": "∴∴🎶*┈┈┈┈┈┈┈┈┈┈┈┈┈*🎶∴∴\n\n🐦‍⬛twitter: https://twitter.com/nerissa_en\n🐦‍⬛spotify: https://open.spotify.com/artist/4uzAnzFMXarRPOBAG2lIIa\n🐦‍⬛..."
+            }
+        ]
     },
     "@NinomaeInanis": {
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
@@ -297,20 +304,20 @@
         "channel_url": "https://www.youtube.com/@SamekoSaba",
         "channel_name": "saba",
         "avatar_url": "https://yt3.googleusercontent.com/gNZv93GVlg3GAco7HTg2OXl_9s2Pm3lG6DxNfOXqPkLRNcM5BSEOAcQGpgQ8AejiEam5ElLG",
-        "videos": [
-            {
-                "video_id": "QByjUwVr794",
-                "title": "【Members-Only】sick fish stream",
-                "thumbnail": "https://i.ytimg.com/vi/QByjUwVr794/hqdefault.jpg?v=68d1793c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATd3mKZk6m1J1AF9fdrnjCLZFLnQ",
-                "description": "yeah i'm going insane , please entertain me \nwill most likely be short stream, also much earlier in the day because my sleep is all over the place."
-            }
-        ]
+        "videos": []
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "DddlWY4hwgc",
+                "title": "The Psychological Spiral Begins 【SILENT HILL f: SPOILERS】",
+                "thumbnail": "https://i.ytimg.com/vi/DddlWY4hwgc/hqdefault.jpg?v=68d18a88&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFyXdDzn26L3sbhf3Ggbf1FYxYHw",
+                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n===============..."
+            }
+        ]
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
@@ -322,14 +329,7 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": [
-            {
-                "video_id": "dONtKdZVRyI",
-                "title": "【PEAK】深夜に一人登山ってマジ？？【不知火フレア/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/dONtKdZVRyI/hqdefault.jpg?v=68d17063&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2xtTqWmfnVQoIeJjS3D3QVEX-Zw",
-                "description": "メサチェックしに行こう\n\n■Newシングル「架空と本当」MV公開中✨\nhttps://www.youtube.com/watch?v=1DBMg1dqfhM\n💿各種音楽サービス配信版 配信中✨\nhttps://cover..."
-            }
-        ]
+        "videos": []
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -413,14 +413,7 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": [
-            {
-                "video_id": "sPedwe_Ojgo",
-                "title": "【HELLO!】Hi I'm back! Chats, updates and more chats!",
-                "thumbnail": "https://i.ytimg.com/vi/sPedwe_Ojgo/hqdefault.jpg?v=68d1493f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOZcALTc4sm3JwgS8l3LWAFnCpEw",
-                "description": "art: https://x.com/dols_art_/status/1966827109537784013\nhttps://x.com/alifmcdraw/status/1883664508218163594\n--------------------------\nHashtags\n📺 Livestream: #ImmerScreen \n🎨 Fanart: #Immergin..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
