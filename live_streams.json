@@ -63,14 +63,7 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": [
-            {
-                "video_id": "y7d8zL_FpjI",
-                "title": "≪YAKUZA 5≫ It's been a long ride ... First Playthrough FINALE!! #11 【SPOILER WARNING】",
-                "thumbnail": "https://i.ytimg.com/vi/y7d8zL_FpjI/hqdefault.jpg?v=68cfebe2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBEBGgw4X76TcCRiI-KjHevpnlbA",
-                "description": "This game has taken years off my life.\n\nThumbnail Art: https://x.com/MoYoMo8/status/1893595136954716247/photo/1\n#telebae  #hololiveenglish \n\n««≪ °◇◆◇° ≫ »»\nThis game is being..."
-            }
-        ]
+        "videos": []
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -124,7 +117,14 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "XFiSWBGvAoU",
+                "title": "【テラリア】ずっと気になってたゲーム✨テラリアを初見プレイ🎵＃２【ホロライブ DEV_IS 響咲リオナ】",
+                "thumbnail": "https://i.ytimg.com/vi/XFiSWBGvAoU/hqdefault.jpg?v=68d00b41&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPtW9FyGM_HkI8qd-NNjIe596aZg",
+                "description": "本ゲームは、（株）スパイク・チュンソフトより許諾を得た上で、配信・収益化を行なっています。\nタイトル：テラリア\nTerraria ©2019 Re-Logic...."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
