@@ -69,14 +69,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "wcKInOkAyU4",
-                "title": "【対談コラボ】#ディスコードショッキング ～今月のゲスト：狂蘭メロコ様～【博衣こより/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/wcKInOkAyU4/hqdefault.jpg?v=68ceedaa&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChbFUJWE5teod0KIpE1GPQ6iVUjQ",
-                "description": "#ディスコードショッキング でポスト❣ ゲストの紹介でゲストを繋いでいく企画を月イチで開催中！(ゲストはホロライブ外の女性で繋いでいく予..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -315,14 +308,7 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": [
-            {
-                "video_id": "vNfG556bEv4",
-                "title": "【首都高バトル】フルリリース版先行プレイ！！！重大告知も！？！？！【 #輪堂千速 / #hololivedev_is #FLOWGLOW 】",
-                "thumbnail": "https://i.ytimg.com/vi/vNfG556bEv4/hqdefault.jpg?v=68d04bf0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBY-LB5zDsAd0O3B9iMQ9_7mLco-w",
-                "description": "遂にフルリリース版がきた～～～～～！！！！！！！！！！！\n\n提供：首都高バトル\n\n2025/09/25　首都高バトル　Full Release!!\nhttps://shutoko-battle-jp.genki.c..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -390,20 +376,20 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": [
-            {
-                "video_id": "xohS3pEjM5Q",
-                "title": "【スト6】ししもんくん（ベガ様）が完成したぞ～！！【獅白ぼたん/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/xohS3pEjM5Q/hqdefault.jpg?v=68d0d2f6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZhGLXAg4UE8ipFDUkJ8GX5f7BCw",
-                "description": "🔸ししもんくんとは\nバトルハブでAIプレイヤーと闘う「まねもんくん」に「特別なVライバル」として期間限定で獅白ぼたんが登場！\nししもんく..."
-            }
-        ]
+        "videos": []
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ooVxaqNNrz4",
+                "title": "【GIRLSTALK】Talking about some girls called MYTH! #kfp #キアライブ",
+                "thumbnail": "https://i.ytimg.com/vi/ooVxaqNNrz4/hqdefault.jpg?v=68d07774&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvQxkLUwCTOOScEprU1aqN9xE89Q",
+                "description": "Myth Anniversary Merch on sale now! 👉 https://shop.hololivepro.com/en/products/hololiveenmyth_anniversary_5th\nwith @NinomaeInanis and @MoriCalliope !!!!!!!!!\n\nTakanashi Kiara『TASTY』..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
@@ -518,7 +504,14 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "SoWimlqMM-M",
+                "title": "【＃兎田ぺこら新衣装】激ｶﾜ 新衣装お披露目するよおおおおおおおおおおおおおおおおおおおおおおおおおおおおおお！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
+                "thumbnail": "https://i.ytimg.com/vi/SoWimlqMM-M/hqdefault.jpg?v=68c7e415&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmW5_bLL-dwcP6c_Wx8gcuLTQS-g",
+                "description": "ペーニャﾜｸﾜｸ\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ #ぺこらいぶ でツイー..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
