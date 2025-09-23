@@ -59,15 +59,7 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": [
-            {
-                "video_id": "7Z5AT9k603s",
-                "title": "【SILENT HILL F】when they cry upon the silent hill in retro japan🐾【SPOILER WARNING｜FUWAMOCO】",
-                "date": "2025/09/23 11:15:00",
-                "thumbnail": "https://i.ytimg.com/vi/7Z5AT9k603s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlB_trR5V713gY3LcgYCsakxXtHg",
-                "description": "our first time ever experiencing silent hill ✨️ 初めての静岡！\n※This game may be too extreme for some audiences. Viewer discretion is advised and audiences under 18 should not..."
-            }
-        ]
+        "videos": []
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -443,13 +435,6 @@
                 "date": "2025/09/23 18:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/WUf2_qTP3qY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAc2dhQ5MrRizqwv3QHZYah8OiKOw",
                 "description": "9/25のTGS2025 で行われる『運命のトリガー』スペシャルステージにむけて、わいわいチーム練習予定です😋\n（あとでメンバーや詳細記載します～！..."
-            },
-            {
-                "video_id": "aiKRm0-40aY",
-                "title": "【TCG Card Shop Simulator】高額を目指して💰新しい商材と機材を導入するっ【獅白ぼたん/ホロライブ】",
-                "date": "2025/09/23 11:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/aiKRm0-40aY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAff6-CgGFsYf8bWDrPDvJzyiOnBw",
-                "description": "お店レベルあげたので新商品と機材を投入ッ…！\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n🔸新着情報/New!\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈..."
             }
         ]
     },
@@ -597,7 +582,15 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "D1yIpZheXzY",
+                "title": "【配信予定】ぺこ！【ホロライブ/兎田ぺこら】",
+                "date": "2025/09/23 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/D1yIpZheXzY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsQdhe5lgzXhEbJSuvcIPRVY34bA",
+                "description": "サムネイラスト：()さん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ #ぺこらいぶ..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
