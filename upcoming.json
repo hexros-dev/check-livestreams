@@ -235,13 +235,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
         "videos": [
             {
-                "video_id": "5yw1DPeP2H4",
-                "title": "【ドキドキ尋問AIゲーム】タイピングは敵🌻平和に優しく解決🌸【水宮枢／ホロライブDEV_IS】",
-                "date": "2025/09/23 09:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/5yw1DPeP2H4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6we8ZdA3FZBaytIExY16hUqwxkA",
-                "description": "本ゲームは配信ガイドラインに則り配信・収益化を行なっております。\nhttps://store.steampowered.com/app/2844700/AI/?l=japanese\n▹◃┄▸◂┄▹◃┄▸◂┄▹◃..."
-            },
-            {
                 "video_id": "TFtk3vm9ZO4",
                 "title": "【#すうさーち】姉枠だったヴィヴィのあれこれサーチ💅🔎【綺々羅々ヴィヴィ／水宮枢】#hololiveDEV_IS",
                 "date": "2025/09/25 20:00:00",
@@ -396,7 +389,15 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "XsfmiJ8PAEE",
+                "title": "Welcome to (Not) Heavenly Host 【SILENT HILL f: SPOILERS】",
+                "date": "2025/09/24 03:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/XsfmiJ8PAEE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDIZT-D_ycEkaolMvg82hUvSzaiOw",
+                "description": "Viewer discretion advised!\n\nHashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes..."
+            }
+        ]
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
@@ -422,15 +423,7 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": [
-            {
-                "video_id": "4dWw6EHi8Cg",
-                "title": "#04【UNDERTALE】㊗10周年㊗ Pルート！完全初見！みんな大好きな名作「UNDERTALE」を遊ぶよ～✨【白銀ノエル/ホロライブ】",
-                "date": "2025/09/23 09:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/4dWw6EHi8Cg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWYbzoCLTZxeM81feqSoN1Wk3Mbg",
-                "description": "Nルートクリア済み！再生リスト→ https://www.youtube.com/playlist?list=PLsAgfBTGY4i0kbj1jzrWY-HM9zg1c_vmc\n\n[NEW]🔥焚火ASMRボイス販売中🔥→ https://shop.hololivepro.com/pr..."
-            }
-        ]
+        "videos": []
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
