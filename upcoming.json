@@ -394,15 +394,7 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
-        "videos": [
-            {
-                "video_id": "tKL_91rb_yA",
-                "title": "#03【 牧場物語 Let's！風のグランドバザール 】　遂に夏が来るぞ～🐄✨ ※ネタバレあり【ホロライブ/ロボ子さん】",
-                "date": "2025/09/24 22:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/tKL_91rb_yA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcOasAS8zDWFx82KzjILkxmyN5qQ",
-                "description": "#hololive 　＃ロボ子さん　#牧場物語\nｘでは💬  #ロボ子生放送　でポストしてってね✨\n遂に気になってたゲームができるようになったよ✨\nストー..."
-            }
-        ]
+        "videos": []
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -464,15 +456,7 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": [
-            {
-                "video_id": "XYXC1xU4qOQ",
-                "title": "【BLUE PRINCE】2nd ending INCOMING. Crates are GONE #kfp #キアライブ",
-                "date": "2025/09/24 22:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/XYXC1xU4qOQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnMS-a5nswOzD86lFKRoaBNdr-tw",
-                "description": "Takanashi Kiara『TASTY』\nhttps://cover.lnk.to/al3Zjt\n\n🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara\n\n 🏵️[Hashtags] 🏵️\n#kfp #キアライブ#hololiveenglish #holomyth..."
-            }
-        ]
+        "videos": []
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
@@ -526,7 +510,15 @@
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
         "channel_name": "Choco Ch. 癒月ちょこ",
         "avatar_url": "https://yt3.googleusercontent.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "yTL8MwKjKsI",
+                "title": "【歌枠】滅びのバーストストリーム 【ホロライブ/癒月ちょこ】",
+                "date": "2025/09/24 22:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/yTL8MwKjKsI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLMDqVpLAG-onAhBEfXL78UT6WLg",
+                "description": "サブ垢→https://www.youtube.com/channel/UCp3tgHXw_HI0QMk1K8qh3g\n\n癒月ちょこ新衣装記念グッズ\n→https://shop.hololivepro.com/products/yuzukichoco_newoutfit_2025\n\nOP＆ED動画：松..."
+            }
+        ]
     },
     "@dooby3d": {
         "channel_url": "https://www.youtube.com/@dooby3d",
@@ -538,7 +530,15 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "4Vy7DMRFcAU",
+                "title": "【ELDEN RING】GETTING READY FOR MARATHON - (I'm a Veeeee tuber)",
+                "date": "2025/09/25 02:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/4Vy7DMRFcAU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4KsAL6c0lWWIIgZksSQWvLgb8rQ",
+                "description": "thumbnail art:: https://x.com/Chalek0/status/1960738432004600221\nhttps://x.com/DoreEdogawa/status/1966705123054276726\n--------------------------\nHashtags\n📺 Livestream: #ImmerScreen \n🎨..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
