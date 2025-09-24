@@ -450,7 +450,15 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "YVqxMyIeJq0",
+                "title": "【運命のトリガー】#運命の前哨戦 ズズチーム！TGS2025 スペシャルステージ🔥【獅白ぼたん/ホロライブ】",
+                "date": "2025/09/25 12:55:00",
+                "thumbnail": "https://i.ytimg.com/vi/YVqxMyIeJq0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqEpi_NoQHXx5gjbvF0J4WaEhL6A",
+                "description": "9月25日（木）15:00より、ストリーマーたちの運命の前哨戦がはじまる～！⚡\n公式HP：https://fatetrigger.com/ja-jp/#/\n公式X：https://x.com/FateTrigger_JP\n#運命の..."
+            }
+        ]
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
@@ -510,15 +518,7 @@
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
         "channel_name": "Choco Ch. 癒月ちょこ",
         "avatar_url": "https://yt3.googleusercontent.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g",
-        "videos": [
-            {
-                "video_id": "yTL8MwKjKsI",
-                "title": "【歌枠】滅びのバーストストリーム 【ホロライブ/癒月ちょこ】",
-                "date": "2025/09/24 22:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/yTL8MwKjKsI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLMDqVpLAG-onAhBEfXL78UT6WLg",
-                "description": "サブ垢→https://www.youtube.com/channel/UCp3tgHXw_HI0QMk1K8qh3g\n\n癒月ちょこ新衣装記念グッズ\n→https://shop.hololivepro.com/products/yuzukichoco_newoutfit_2025\n\nOP＆ED動画：松..."
-            }
-        ]
+        "videos": []
     },
     "@dooby3d": {
         "channel_url": "https://www.youtube.com/@dooby3d",
