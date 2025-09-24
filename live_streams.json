@@ -279,14 +279,7 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
-        "videos": [
-            {
-                "video_id": "tKL_91rb_yA",
-                "title": "#03【 牧場物語 Let's！風のグランドバザール 】　NEWキャプボで初めての夏を迎えるゾ🐄✨ ※ネタバレあり【ホロライブ/ロボ子さん】",
-                "thumbnail": "https://i.ytimg.com/vi/tKL_91rb_yA/hqdefault.jpg?v=68d3411e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcOasAS8zDWFx82KzjILkxmyN5qQ",
-                "description": "#hololive 　＃ロボ子さん　#牧場物語\nｘでは💬  #ロボ子生放送　でポストしてってね✨\n遂に気になってたゲームができるようになったよ✨\nストー..."
-            }
-        ]
+        "videos": []
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -413,7 +406,14 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "4Vy7DMRFcAU",
+                "title": "【ELDEN RING】GETTING READY FOR MARATHON - (I'm a Veeeee tuber)",
+                "thumbnail": "https://i.ytimg.com/vi/4Vy7DMRFcAU/hqdefault.jpg?v=68d4087a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4KsAL6c0lWWIIgZksSQWvLgb8rQ",
+                "description": "thumbnail art:: https://x.com/Chalek0/status/1960738432004600221\nhttps://x.com/DoreEdogawa/status/1966705123054276726\n--------------------------\nHashtags\n📺 Livestream: #ImmerScreen \n🎨..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
