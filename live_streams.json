@@ -39,14 +39,7 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": [
-            {
-                "video_id": "2JkHzDY8juY",
-                "title": "HEWROOOO WHO DIS ?",
-                "thumbnail": "https://i.ytimg.com/vi/2JkHzDY8juY/hqdefault.jpg?v=68d68280&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDP_0jP5m4mvQSOKpoJQjULS5KRdQ",
-                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nーーーーーーーーー\n\nーーーーーーーーー\n\nSTREAM MY NEWEST ORIGINAL SONG メトロポリス (metropolis) IN YOUR PREFERRED..."
-            }
-        ]
+        "videos": []
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -279,7 +272,14 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "q9J8CI_Uh4U",
+                "title": "【HoloCure】ガチ恋メンツを増やすぞ👊✨️久々にホロキュア～💕【尾丸ポルカ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/q9J8CI_Uh4U/hqdefault.jpg?v=68d6aafd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjO-S0rahlg80QlmbY8mMdEwm_vQ",
+                "description": "本ゲームはKay Yu様に確認の上配信・収益化を行なっております。\nhttps://kay-yu.itch.io/holocure\n\nサムネイルありがとうございます！\nhttps://x.com/Sasabear_02/..."
+            }
+        ]
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
@@ -291,14 +291,7 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": [
-            {
-                "video_id": "UTPjKX888Qw",
-                "title": "【#6】新機動戦記ガンダムW 同時視聴会【ホロライブ/大空スバル】",
-                "thumbnail": "https://i.ytimg.com/vi/UTPjKX888Qw/hqdefault.jpg?v=68d66f79&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYDGo57gRDuYjR005Le31wr8XBbA",
-                "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n\n・本配信..."
-            }
-        ]
+        "videos": []
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
