@@ -130,7 +130,7 @@
         "videos": [
             {
                 "video_id": "oAaUBR0FQ-Y",
-                "title": "※高熱のためおやすみします、ごめんなさい…！【 #ホロライブ甲子園2025 】限界条高校、今度こそ甲子園に行きたいです！！！#7【一条莉々華/hololive DEV_IS ReGLOSS】",
+                "title": "【 #ホロライブ甲子園2025 】限界条高校、今度こそ甲子園に行きたいです！！！#7【一条莉々華/hololive DEV_IS ReGLOSS】",
                 "date": "2025/09/26 17:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/oAaUBR0FQ-Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA46vvwK1kBPCxO8PhI9Q0yfeOwiQ",
                 "description": "#ホロライブ甲子園2025 …今年も夏が始まる―――！！\n\nこより先輩の企画説明配信はこちら\nhttps://www.youtube.com/watch?v=jGRE-J7kSOY\n\n本ゲームは株式会社..."
@@ -626,7 +626,15 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "8ICt_Aypv-s",
+                "title": "【HADES II】Jane Hades 2 better watch out now that she's out of EARLY ACCESS!!",
+                "date": "2025/09/27 04:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/8ICt_Aypv-s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdEwPozUOGJENX-uP794tP9nRpZg",
+                "description": "thumbnail: https://x.com/_nontann/status/1971066062247690592\n\nThis game is being streamed and monetized after confirming with Supergiant Games.\nGet Hades II here: https://store.steampowered.com/app..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
