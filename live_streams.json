@@ -99,7 +99,14 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "DzqIXPuYQac",
+                "title": "【Dragonball Z Kakarot】I will be stronger than Goku",
+                "thumbnail": "https://i.ytimg.com/vi/DzqIXPuYQac/hqdefault.jpg?v=68d55dc6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4XZHm6rrJP0nDJO2doKKVRjN82Q",
+                "description": "7 balls and 1 wish, that's pretty much most of what I know\n\nThis game is being streamed with in accordance with the “Bandai Namco Entertainment Game Video Policy”\nhttps://www.bandainamcoent.co...."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
