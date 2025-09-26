@@ -203,14 +203,7 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": [
-            {
-                "video_id": "7vv9H6AWD0w",
-                "title": "【Castlevania: Symphony of the Night】raging over this iconic game, really #calliolive",
-                "thumbnail": "https://i.ytimg.com/vi/7vv9H6AWD0w/hqdefault.jpg?v=68d54170&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDF9t8SbFWVkQGzKHxZmuLVkjv8Vw",
-                "description": "Mori Calliope 5th Anniversary!!\nAnniversary Merch:\n8:00PM, September 12th, PST(12:00PM, September 13th JST)\n\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/moricalli..."
-            }
-        ]
+        "videos": []
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -378,7 +371,14 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "5RD_bUWC4Lo",
+                "title": "【 雑談-Freetalk- 】お久しぶりに！！　#Towavel を見る会🌈【常闇トワ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/5RD_bUWC4Lo/hqdefault.jpg?v=68d6371f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCH3wVwjATVfpZiJNztEhV4FXsqwQ",
+                "description": "Xに同じ画像を再投稿しないでね～～～！！！\n\n୨୧-------------------------------┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧\n\n⚠👾お..."
+            }
+        ]
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
