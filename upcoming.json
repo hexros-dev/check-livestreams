@@ -21,7 +21,15 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "8HKBjzRT1Qw",
+                "title": "【運命のトリガー∥TGS2025】スペシャルステージだし勝ちたい！w/1tappy,ズズ,ととみっくす【アキロゼ/ホロライブ】",
+                "date": "2025/09/27 13:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/8HKBjzRT1Qw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYyIdt-9PO1_GambUPB0VUzamn4A",
+                "description": "ゲームDLはここからしてね！➡ https://bit.ly/42ARe1x\n#運命のトリガーTGS2025  #運命のトリガー #運トリ\n\n配信タグ #アキびゅーわーるど \n\n✨最新グッズ＆..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -630,15 +638,7 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": [
-            {
-                "video_id": "sSjiyZuWe6Y",
-                "title": "【ZELDA: FOUR SWORDS】KIARA! CECE! Let's have Spaß! (hehe) with @TakanashiKiara",
-                "date": "2025/09/27 00:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/sSjiyZuWe6Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb2ft_1tCCjly4GcnfE4M5K6rycw",
-                "description": "--------------------------\nHashtags\n📺 Livestream: #ImmerScreen \n🎨 Fanart: #Immergination\n🎻 Music: #ImmerPiece\n🤡 Memes: #ImmerMemes \n--------------------------\n\n\n------------------------..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",

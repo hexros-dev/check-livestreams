@@ -171,14 +171,7 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": [
-            {
-                "video_id": "1IUTdZCHb10",
-                "title": "【おにぎり屋さんシミュレーター】シングルタスク宮がおにぎり作る＃２【水宮枢／ホロライブDEV_IS】",
-                "thumbnail": "https://i.ytimg.com/vi/1IUTdZCHb10/hqdefault.jpg?v=68d58f45&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzZ88Hs7pjFX6E2RUFd9t2XxOPiw",
-                "description": "配信タイトル：おにぎり屋さんシミュレーター\nストアページ：https://store.steampowered.com/app/3915140/_/\n▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸◂┄▹◃..."
-            }
-        ]
+        "videos": []
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -190,14 +183,7 @@
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
         "channel_name": "Moona Hoshinova hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3",
-        "videos": [
-            {
-                "video_id": "rnXXIjLk2qo",
-                "title": "【FANTASY LIFE i: The Girl Who Steals Time】Another Fantasy Life Grind!【hololive】",
-                "thumbnail": "https://i.ytimg.com/vi/rnXXIjLk2qo/hqdefault.jpg?v=68d67f09&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSvfUG5H0MavZ_PcJqxJzane6Uyw",
-                "description": "Collab with @KureijiOllie \nStreamlabs donation link here : https://streamlabs.com/moonahoshinovahololive-id/tip\nSociaBuzz donation link here : https://sociabuzz.com/moonahoshinova/tribe\n===========..."
-            }
-        ]
+        "videos": []
     },
     "@MoriCalliope": {
         "channel_url": "https://www.youtube.com/@MoriCalliope",
@@ -434,7 +420,14 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "sSjiyZuWe6Y",
+                "title": "【ZELDA: FOUR SWORDS】KIARA! CECE! Let's have Spaß! (hehe) with @TakanashiKiara",
+                "thumbnail": "https://i.ytimg.com/vi/sSjiyZuWe6Y/hqdefault.jpg?v=68d63dae&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb2ft_1tCCjly4GcnfE4M5K6rycw",
+                "description": "--------------------------\nHashtags\n📺 Livestream: #ImmerScreen \n🎨 Fanart: #Immergination\n🎻 Music: #ImmerPiece\n🤡 Memes: #ImmerMemes \n--------------------------\n\n\n------------------------..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
