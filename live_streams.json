@@ -99,14 +99,7 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": [
-            {
-                "video_id": "DzqIXPuYQac",
-                "title": "【Dragonball Z Kakarot】I will be stronger than Goku",
-                "thumbnail": "https://i.ytimg.com/vi/DzqIXPuYQac/hqdefault.jpg?v=68d55dc6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4XZHm6rrJP0nDJO2doKKVRjN82Q",
-                "description": "7 balls and 1 wish, that's pretty much most of what I know\n\nThis game is being streamed with in accordance with the “Bandai Namco Entertainment Game Video Policy”\nhttps://www.bandainamcoent.co...."
-            }
-        ]
+        "videos": []
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -148,7 +141,14 @@
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
         "channel_name": "Kobo Kanaeru Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "tiHb4YCsAV4",
+                "title": "【Whisper of The House】this game is fun",
+                "thumbnail": "https://i.ytimg.com/vi/tiHb4YCsAV4/hqdefault.jpg?v=68d65936&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBi01rDuM5AcItgYSrlDg-F50HXQg",
+                "description": "Bokobokobo- Kobo Kanaeru at your service! Let me be your sun to shine your day, ehe~ ;D ☔☔☔\n#OnAeru #Kobo_Kanaeru #holoID #holoID03\n\nGame Title: Whisper of the House\nStore Page: https://store..."
+            }
+        ]
     },
     "@KoganeiNiko": {
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
