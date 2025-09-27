@@ -113,7 +113,14 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "yztLZFTjKKc",
+                "title": "【MINECRAFT】Scary Maps w/ Flare!! ふーたんと過去マップ回る！",
+                "thumbnail": "https://i.ytimg.com/vi/yztLZFTjKKc/hqdefault.jpg?v=68d78cfd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDN4376LTP8ZcgN1B-tS8j_pFDWFA",
+                "description": "w/ @ShiranuiFlare \n\nThis game is being streamed and monetized after confirming with Mojang based on the following Terms and Conditions (https://account.mojang.com/terms)\n#hololiveenglish  #ホロ..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -156,14 +163,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": [
-            {
-                "video_id": "L8TMuy5q5D8",
-                "title": "【 nosh  ナッシュ 】生活リズム心配される私に必要な健康的な食事します！！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "thumbnail": "https://i.ytimg.com/vi/L8TMuy5q5D8/hqdefault.jpg?v=68d68adc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDX1sH4W4CCbkMbJGdwzAoKaHeXtA",
-                "description": "💅✨nosh×Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOWの特別コラボクーポンはこちら💅✨\nhttps://nosh.jp/influencer-promotion?key=KikiraraVivi&utm_source=Youtuber&utm_medium=PR&u..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -175,14 +175,7 @@
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
         "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/ACubs_Mw4YtmgHDIIZvW_gZaPf_VR1wg9yffFLsq4Lrw-W7Md-0pK4Gob8OJebCYCmgrArsE",
-        "videos": [
-            {
-                "video_id": "-8maf1KY4jk",
-                "title": "【雑談】興奮しています【虎金妃笑虎】",
-                "thumbnail": "https://i.ytimg.com/vi/-8maf1KY4jk/hqdefault.jpg?v=68d7b0ce&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAGD9ckh3_V8Pq72Kg7PHW-eY2Hvw",
-                "description": "サムネイルにお借りしたイラスト✨\nhttps://x.com/yonosuke_pm21/status/1958846537498345935?s=46&t=BZWBr8nKRf3D-t608UT2Ow\n\n※ホロライブプロダクションから未成年の視..."
-            }
-        ]
+        "videos": []
     },
     "@KosekiBijou": {
         "channel_url": "https://www.youtube.com/@KosekiBijou",
@@ -365,26 +358,33 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "D7yIHrMNaY4",
+                "title": "【＃３】SILENT HILL f：ネタバレあり【白上フブキ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/D7yIHrMNaY4/hqdefault.jpg?v=68d62aa6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfgc-OiWulxuqsKTveIezgIcYEUg",
+                "description": "本作はCERO:Z(18才以上のみ対象)\n※本タイトルは性差別や児童虐待、いじめ、薬物による幻覚、拷問、強い暴力表現があるため視聴にはご注意くださ..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "uvVMTekKvTw",
+                "title": "【#マイクラ肝試し2025】今年もやってきた！IRySとお散歩するぞ！【不知火フレア/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/uvVMTekKvTw/hqdefault.jpg?v=68d74959&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhXCTHO7OJL8n7qhtVRtjOJqPJ8A",
+                "description": "@IRyS 親友\n\n#マイクラ肝試し2025 #minecraft #マインクラフト\n\nマイクラ肝試し2025 主催陣営様\n@QueueYTch \n\n━━━━━━━━━━━━━━━━━━━━━━..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": [
-            {
-                "video_id": "GZ6ZESeWnrU",
-                "title": "【歌枠】休日の夕方にるんるん歌っちゃう🎶【白銀ノエル/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/GZ6ZESeWnrU/hqdefault.jpg?v=68d76e5d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-pUxImsnyGVSerlmCpfUrkqoKZg",
-                "description": "わいわーい！\n\n【公式】白銀ノエルASMR 販売開始→ https://shop.hololivepro.com/products/shiroganenoel_asmr_comfysleep\n\n💗他にもボイス発売中💗\n【NEW】運動会✨→..."
-            }
-        ]
+        "videos": []
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -483,7 +483,14 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "6IhJUX2oi1o",
+                "title": "【ELDEN RING】Let's play! ALL DAY! AND BEAT EVERYONE! with guests? maybe!",
+                "thumbnail": "https://i.ytimg.com/vi/6IhJUX2oi1o/hqdefault.jpg?v=68d71c45&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhith2qTV-f8PbyMXYkxiWXsx0yQ",
+                "description": "https://x.com/paperOKO/status/1962715033789452572\n--------------------------\nHashtags\n📺 Livestream: #ImmerScreen \n🎨 Fanart: #Immergination\n🎻 Music: #ImmerPiece\n🤡 Memes: #ImmerMemes..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",

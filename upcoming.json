@@ -61,6 +61,13 @@
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
         "videos": [
             {
+                "video_id": "0Y9AdbfKtdg",
+                "title": "【#holoEN AMONG US COLLAB】the most merciless crewmate and strongest imposter 🐾 【FUWAMOCO POV】",
+                "date": "2025/09/28 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/0Y9AdbfKtdg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRmU9kj-7Wbe629pQEHT6zKKzlnQ",
+                "description": "we're professional amongusers ✨️ \n@TakanashiKiara @MoriCalliope @IRyS @OuroKronii @KosekiBijou @holoen_erbloodflame @holoen_gigimurin @holoen_ceciliaimmergreen @holoen_raorapanthera \n\n🩵..."
+            },
+            {
                 "video_id": "4bdhrWn3yRc",
                 "title": "【#FUWAMOCOArrival HOLOEARTH】it's time to make our official debut in holoearth 🐾 【FUWAMOCO｜ホロアース】",
                 "date": "2025/09/28 09:00:00",
@@ -130,15 +137,7 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": [
-            {
-                "video_id": "yztLZFTjKKc",
-                "title": "【MINECRAFT】Scary Maps w/ Flare!! ふーたんと過去マップ回る！",
-                "date": "2025/09/27 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/yztLZFTjKKc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDN4376LTP8ZcgN1B-tS8j_pFDWFA",
-                "description": "w/ @ShiranuiFlare \n\nThis game is being streamed and monetized after confirming with Mojang based on the following Terms and Conditions (https://account.mojang.com/terms)\n#hololiveenglish  #ホロ..."
-            }
-        ]
+        "videos": []
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -394,7 +393,15 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "unn-ToRVk0k",
+                "title": "【逆凸】#miComet アポなし⁉逆凸いきます！！！！！！告知アリ【ホロライブ/さくらみこ/星街すいせい】",
+                "date": "2025/09/27 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/unn-ToRVk0k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGt6MBSoFhXr7KC45vmEiflKdMHg",
+                "description": "@HoshimachiSuisei \n\n⪩⪨　お知らせ/ɪɴғᴏ\n￣￣￣￣￣￣￣￣￣￣￣￣￣\n　🌸さくらみこ1st Live \"flower fantasista!\" \n　　  Blu-ray 受注受付開始🎉予約..."
+            }
+        ]
     },
     "@SamekoSaba": {
         "channel_url": "https://www.youtube.com/@SamekoSaba",
@@ -422,13 +429,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
         "videos": [
             {
-                "video_id": "D7yIHrMNaY4",
-                "title": "【＃３】SILENT HILL f：ネタバレあり【白上フブキ/ホロライブ】",
-                "date": "2025/09/27 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/D7yIHrMNaY4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfgc-OiWulxuqsKTveIezgIcYEUg",
-                "description": "本作はCERO:Z(18才以上のみ対象)\n※本タイトルは性差別や児童虐待、いじめ、薬物による幻覚、拷問、強い暴力表現があるため視聴にはご注意くださ..."
-            },
-            {
                 "video_id": "iaLUcvpdpR0",
                 "title": "【Minecraft】まあ…俺がすっげえ〜ドカンと釣れば大丈Vでしょう！！！！【白上フブキ/ホロライブ】",
                 "date": "2025/09/27 22:00:00",
@@ -448,15 +448,7 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": [
-            {
-                "video_id": "uvVMTekKvTw",
-                "title": "【#マイクラ肝試し2025】今年もやってきた！IRySとお散歩するぞ！【不知火フレア/ホロライブ】",
-                "date": "2025/09/27 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/uvVMTekKvTw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhXCTHO7OJL8n7qhtVRtjOJqPJ8A",
-                "description": "@IRyS 親友\n\n#マイクラ肝試し2025 #minecraft #マインクラフト\n\nマイクラ肝試し2025 主催陣営様\n@QueueYTch \n\n━━━━━━━━━━━━━━━━━━━━━━..."
-            }
-        ]
+        "videos": []
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -578,15 +570,7 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": [
-            {
-                "video_id": "6IhJUX2oi1o",
-                "title": "【ELDEN RING】Let's play! ALL DAY! AND BEAT EVERYONE! with guests? maybe!",
-                "date": "2025/09/27 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/6IhJUX2oi1o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhith2qTV-f8PbyMXYkxiWXsx0yQ",
-                "description": "https://x.com/paperOKO/status/1962715033789452572\n--------------------------\nHashtags\n📺 Livestream: #ImmerScreen \n🎨 Fanart: #Immergination\n🎻 Music: #ImmerPiece\n🤡 Memes: #ImmerMemes..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
@@ -652,7 +636,15 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "05orFhrpri0",
+                "title": "【Baby Steps】111歳ニート、頂上への道を歩き始める。2日目ぺこ！【ホロライブ/兎田ぺこら】",
+                "date": "2025/09/27 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/05orFhrpri0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHNaybLFM0m2RQ8FpQN9iXLP14GA",
+                "description": "前人未到の地へ！！！！！！！！！！！！！！！！！！！！\n\nサムネイラスト：アカババァさん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
