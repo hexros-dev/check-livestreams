@@ -131,13 +131,27 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Zfeu_gFjwSA",
+                "title": "【縦型雑談歌枠】歌ったり、お話したり🎵【ホロライブ DEV_IS 響咲リオナ】",
+                "thumbnail": "https://i.ytimg.com/vi/Zfeu_gFjwSA/hqdefault.jpg?v=68d7eb7a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA17ILpxwvCNFuuytSqW32RbqBIUA",
+                "description": "【speical thanks】\n生音風カラオケ屋www.youtube.com/ ‪@namakara ‬ \nこのライブに用いている一部の音源は、株式会社エクシングより提供されています。..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "H7Eyp2zRCZw",
+                "title": "【メン限ASMR】フローライト洗いasmr【儒烏風亭らでん 】",
+                "thumbnail": "https://i.ytimg.com/vi/H7Eyp2zRCZw/hqdefault.jpg?v=68d7d8fe&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjl5qZOJ_PlP8M5Fdq9xqt7jG8LA",
+                "description": "めんげんだよ！！\n\nこちらの配信をご視聴する際はヘッドフォンやイヤホンをしてお楽しみください\n\nサムネイル：海乃エメ様\nhttps://x.com/emeralda__..."
+            }
+        ]
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -314,7 +328,14 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "uQNHCOMMc6Y",
+                "title": "【 縦型/歌枠】NO3.懐かしいアニソン多めに 定期歌枠 ➡ Midnight RBmelody  🎶 【ホロライブ/ ロボ子さん #ろぼめろでぃ】",
+                "thumbnail": "https://i.ytimg.com/vi/uQNHCOMMc6Y/hqdefault.jpg?v=68d7ec88&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCoN-lvrcsMFiAGzExIKa5GCPJlrw",
+                "description": "＃ホロライブ 　\nｘでは💬　 #ろぼめろでぃ　でポストしてってね\n\n\n【定期企画配信】 Midnight RBmelody 💗　通称　 #ろぼめろでぃ　💗\n週末の金土日..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -351,14 +372,7 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": [
-            {
-                "video_id": "D7yIHrMNaY4",
-                "title": "【＃３】SILENT HILL f：ネタバレあり【白上フブキ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/D7yIHrMNaY4/hqdefault.jpg?v=68d62aa6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfgc-OiWulxuqsKTveIezgIcYEUg",
-                "description": "本作はCERO:Z(18才以上のみ対象)\n※本タイトルは性差別や児童虐待、いじめ、薬物による幻覚、拷問、強い暴力表現があるため視聴にはご注意くださ..."
-            }
-        ]
+        "videos": []
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -395,20 +409,20 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "jHz4S7e6qHw",
+                "title": "【 ウマ娘 プリティーダービー 】ストーリー3章と4章みるぞおおおお！！！【鷹嶺ルイ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/jHz4S7e6qHw/hqdefault.jpg?v=68d6baf3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCq8Qj_V1JzXZxe5Z3Hkik7_arsGA",
+                "description": "色々育てております。\n\n本ゲームは株式会社Cygamesの配信ガイドラインに則って配信・収益化を行なっております。\nhttps://umamusume.jp/news/detail.php?id=107..."
+            }
+        ]
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": [
-            {
-                "video_id": "tGq-QJVmGJY",
-                "title": "＃６【LOST JUDGMENT：裁かれざる記憶】初見でいくロストジャッジメント【轟はじめ/ReGLOSS】※ネタバレあり",
-                "thumbnail": "https://i.ytimg.com/vi/tGq-QJVmGJY/hqdefault.jpg?v=68d6ab48&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3m-dhDKmG2xl_vgKu0ZQOxoWp0g",
-                "description": "素敵なサムネお写真：ほわいと先生様（@pigma_01）\nこの動画およびライブは、コンテンツ利用許諾契約に基づいて配信しています。\n©SEGA\n\nジャッジ..."
-            }
-        ]
+        "videos": []
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
@@ -513,7 +527,14 @@
         "channel_url": "https://www.youtube.com/@mikenekoko",
         "channel_name": "みけねこch",
         "avatar_url": "https://yt3.googleusercontent.com/_bT74ettx8Ei9p0zHrSbKdAe1oyaCAbbbXa9teIsxgOtlPl2RADYotJ_kGKwHsNdtWh8D2Hu",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Za-KOoW0wZ4",
+                "title": "ガチ恋距離♡雑談♡初見歓迎誰でもおいで【#縦型配信 /#shorts 】",
+                "thumbnail": "https://i.ytimg.com/vi/Za-KOoW0wZ4/hqdefault.jpg?v=68d75b8c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtdE3Y3w_8Pens2UXk8xjBUA9L7Q",
+                "description": "💘セクシーFANBOX\nhttps://mikenekoko.fanbox.cc/posts/10600424\n\n☢水着アクスタ９/３０まで！\nhttps://mikenekoko.booth.pm/items/7427521\n\n💕ホログラムキーホルダー販売..."
+            }
+        ]
     },
     "@niminightmare": {
         "channel_url": "https://www.youtube.com/@niminightmare",
