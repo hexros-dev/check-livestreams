@@ -237,20 +237,20 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": [
-            {
-                "video_id": "zw5HE8dFCmM",
-                "title": "【OHAPOL】#182 9/29月曜日！なぜ朝活があると気付いた？ #ポルカ公演中 【尾丸ポルカ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/zw5HE8dFCmM/hqdefault.jpg?v=68d9a171&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUBY32xc-17yUTbrimjeHpHTjeZQ",
-                "description": "サムネイルありがとうございます！\nhttps://x.com/yaki_ebiko\n\n▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄\n\nOHAPOL（おはポル）は不定期で朝6時から配信！\n主に水曜..."
-            }
-        ]
+        "videos": []
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "kl38aoL4Pio",
+                "title": "【 #朝ミオ 】９月も終わり・・？！月曜日だよ！おはみぉーん！",
+                "thumbnail": "https://i.ytimg.com/vi/kl38aoL4Pio/hqdefault.jpg?v=68d90f18&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSLWtuVkkh5VxqFIJfcCiin75Owg",
+                "description": "早すぎた９月・・\n\n#朝ミオおたより Twitter(X)で募集中です🌟\n今回紹介するお題は、『秋を感じる瞬間』です！\n\nサムネillustrator：からしさん..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -340,14 +340,7 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": [
-            {
-                "video_id": "hWtKZDdJyQ0",
-                "title": "【Sonic Racing: Crossworlds】Lots Of Fun IPs To Choose - Who Will You Choose?👀 #kfp #キアライブ #ad",
-                "thumbnail": "https://i.ytimg.com/vi/hWtKZDdJyQ0/hqdefault.jpg?v=68d86474&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4-3hxLx4bY1rV_Ksit8x83AOjcg",
-                "description": "This stream is sponsored by SEGA of America!\nGet the game via this link: https://gsght.com/c/dnsyex\n\nTakanashi Kiara『TASTY』\nhttps://cover.lnk.to/al3Zjt\n\n🏵️[Twitter] 🏵️\nhttps://twitter..."
-            }
-        ]
+        "videos": []
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
