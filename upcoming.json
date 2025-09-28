@@ -21,7 +21,22 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "cCMpP2If6_0",
+                "title": "【 nosh】実食レポ！毎日食べたいダイエットの味方ごはんランキング！【アキロゼ/ホロライブ】",
+                "date": "2025/09/29 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/cCMpP2If6_0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClQy1Rf8SlYfpB3thFng8jNsFfXw",
+                "description": "🍎nosh×アキ・ローゼンタールの特別コラボクーポンはこちら🍎\nhttps://nosh.jp/influencer-promotion?key=AkiRosenthal&utm_source=Youtuber&utm_medium=PR&utm_campaign=AkiRosent..."
+            },
+            {
+                "video_id": "qWn4pb2wv2k",
+                "title": "『コンプレックスが意外と役に立った時💕』 アキちょこナイトパレット第7回 ～ホロライブ深夜ラジオ～",
+                "date": "2025/09/29 21:40:00",
+                "thumbnail": "https://i.ytimg.com/vi/qWn4pb2wv2k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCfeHfSAReDnrGaz-5GCnlzfkMaHA",
+                "description": "#アキちょこナイパレ でやってほしいコーナー大募集中！\nXでタグをつけてポストしてね！\n前週→ \n次週→\n\nwith ちょこ先@YuzukiChoco \n毎週月曜 23:40~24:..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -448,15 +463,7 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": [
-            {
-                "video_id": "hWtKZDdJyQ0",
-                "title": "【Sonic Racing: Crossworlds】Lots Of Fun IPs To Choose - Who Will You Choose?👀 #kfp #キアライブ #ad",
-                "date": "2025/09/29 04:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/hWtKZDdJyQ0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4-3hxLx4bY1rV_Ksit8x83AOjcg",
-                "description": "This stream is sponsored by SEGA of America!\nGet the game via this link: https://gsght.com/c/dnsyex\n\nTakanashi Kiara『TASTY』\nhttps://cover.lnk.to/al3Zjt\n\n🏵️[Twitter] 🏵️\nhttps://twitter..."
-            }
-        ]
+        "videos": []
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
