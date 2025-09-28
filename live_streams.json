@@ -114,7 +114,14 @@
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "M9S4lwFl0xE",
+                "title": "【 #ホロライブ甲子園2025】2年目夏！！甲子園2戦目から！！性格ガチャいきます。【ホロライブ/宝鐘マリン】",
+                "thumbnail": "https://i.ytimg.com/vi/M9S4lwFl0xE/hqdefault.jpg?v=68d8b70d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAVPNmZqCR-gzDVYQ0WybRuVxELDw",
+                "description": "本ゲームは株式会社コナミデジタルエンタテインメントの動画投稿ガイドラインに則り配信・収益化を行っております\n©Konami Digital Entertainment..."
+            }
+        ]
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
@@ -126,27 +133,13 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
-        "videos": [
-            {
-                "video_id": "PYeFa7VpzOs",
-                "title": "【#マイクラ肝試し2025】フレポルりりはじで絶叫チャレンジ👻【一条莉々華視点/hololive DEV_IS ReGLOSS】",
-                "thumbnail": "https://i.ytimg.com/vi/PYeFa7VpzOs/hqdefault.jpg?v=68d7db26&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBm79O9idGegxe83FbLZw0MLGkRqQ",
-                "description": "今回は童話がモチーフらしい…！？去年に引き続き参加させていただきます☺✨\n\n素敵なサムネイラスト🔽\n三束ゆかり@ホロクル【F-06】様\n@322ka_y..."
-            }
-        ]
+        "videos": []
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": [
-            {
-                "video_id": "94q3dHH_eIY",
-                "title": "#16【ELDEN RING】フロムゲー初心者、「エルデンリング」のクリアを目指す旅！！！【戌神ころね】※ネタバレあり",
-                "thumbnail": "https://i.ytimg.com/vi/94q3dHH_eIY/hqdefault.jpg?v=68d7f7cd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBT8JjIp8qUHAga5Vu20DP0DmvC3A",
-                "description": "Play Game : ELDEN RING ( steam )\nタグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nころねTwitter▶https://twitter.com/inugamikoro..."
-            }
-        ]
+        "videos": []
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
@@ -329,7 +322,14 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "83ZyIqHsRpU",
+                "title": "【雑談/chat】今月もありがとう！！45万人もありがとう！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "thumbnail": "https://i.ytimg.com/vi/83ZyIqHsRpU/hqdefault.jpg?v=68d8fd70&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0hESTspVMLaU-vbmGwq4aYcjWRQ",
+                "description": "もう9月もおわっちゃうね\n\nサムネイルイラスト：灼熱さま\nhttps://x.com/boboboburning\nありがとうございます！\n\nねえ、いっしょに向こう側の景色を見に..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -390,7 +390,14 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "9Lpa0NJvKbE",
+                "title": "【GONE Fishing】釣り×ホラー×サバイバル🐡釣り師の1日は早い…【獅白ぼたん/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/9Lpa0NJvKbE/hqdefault.jpg?v=68d80e54&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZJROJWcrs8a_XZDTk-_WbX9w-uw",
+                "description": "魚を捧げよ（マルチプレイも可）\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n🔸新着情報/New!\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n🎂獅白ぼたん..."
+            }
+        ]
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
@@ -415,14 +422,7 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": [
-            {
-                "video_id": "2VdzswB3YyM",
-                "title": "【マイクラ肝試し2025】フレポルりりはじで肝試し！！【轟はじめ/ReGLOSS】",
-                "thumbnail": "https://i.ytimg.com/vi/2VdzswB3YyM/hqdefault.jpg?v=68d8130b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-N8YZnXeUufBRiTHAVmc1r9oXew",
-                "description": "素敵なサムネお写真：三束ゆかり様（@322ka_y）\n@ShiranuiFlare \n@OmaruPolka \n@IchijouRirika \n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.moj..."
-            }
-        ]
+        "videos": []
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",

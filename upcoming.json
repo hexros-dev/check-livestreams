@@ -146,15 +146,7 @@
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk",
-        "videos": [
-            {
-                "video_id": "M9S4lwFl0xE",
-                "title": "【 #ホロライブ甲子園2025】2年目夏！！甲子園2戦目から！！性格ガチャいきます。【ホロライブ/宝鐘マリン】",
-                "date": "2025/09/28 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/M9S4lwFl0xE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAVPNmZqCR-gzDVYQ0WybRuVxELDw",
-                "description": "本ゲームは株式会社コナミデジタルエンタテインメントの動画投稿ガイドラインに則り配信・収益化を行っております\n©Konami Digital Entertainment..."
-            }
-        ]
+        "videos": []
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
@@ -220,7 +212,15 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "KHzMxgAotPI",
+                "title": "【 ARK: Survival Ascended 】人生初のARK！ソロで恐竜の世界へ！＃７【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "date": "2025/09/28 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/KHzMxgAotPI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4FzTyqQav83C-PO_Y_pQwgM5Ctg",
+                "description": "綺々羅々ヴィヴィ 誕生日記念2025グッズ\n■販売ページURL\nhttps://shop.hololivepro.com/products/kikiraravivi_birthday_2025\n■グッズ販売期間（受注販売）\n2025年08月2..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -238,7 +238,22 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "uAMDJlgdLdk",
+                "title": "【SILENT HILL f】It's ok, the cute girl always survives",
+                "date": "2025/09/29 06:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/uAMDJlgdLdk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCt508svH4P_TrvaKLU52hAM0tdUQ",
+                "description": "Thumbnail art: @shutowl THANK YOU!\nhttps://x.com/shutowl/status/1971620786247962951/photo/1\n====================\n✧Twitter: https://twitter.com/kosekibijou\n\n✧Hashtags: \n#biboo  \nAdvent:..."
+            },
+            {
+                "video_id": "yCvs-DUWXMk",
+                "title": "【holoEN AMONGUS】I'm not sus, Im nonchalant",
+                "date": "2025/09/28 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/yCvs-DUWXMk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB16lC6-CCjoEUOk5wmg9Kd8yInkA",
+                "description": "biBOO!\n\n====================\n✧Twitter: https://twitter.com/kosekibijou\n\n✧Hashtags: \n#biboo  \nAdvent: #holoAdvent\nLive: #LIVEseki\nMemes: #LMOAI \nArt: #bijouwled \nPebble Personas: #pebblesona..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -397,15 +412,7 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": [
-            {
-                "video_id": "83ZyIqHsRpU",
-                "title": "【雑談/chat】今月もありがとう！！45万人もありがとう！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "date": "2025/09/28 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/83ZyIqHsRpU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0hESTspVMLaU-vbmGwq4aYcjWRQ",
-                "description": "もう9月もおわっちゃうね\n\nサムネイルイラスト：灼熱さま\nhttps://x.com/boboboburning\nありがとうございます！\n\nねえ、いっしょに向こう側の景色を見に..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -498,15 +505,7 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": [
-            {
-                "video_id": "9Lpa0NJvKbE",
-                "title": "【GONE Fishing】釣り×ホラー×サバイバル🐡釣り師の1日は早い…【獅白ぼたん/ホロライブ】",
-                "date": "2025/09/28 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/9Lpa0NJvKbE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZJROJWcrs8a_XZDTk-_WbX9w-uw",
-                "description": "魚を捧げよ（マルチプレイも可）\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n🔸新着情報/New!\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n🎂獅白ぼたん..."
-            }
-        ]
+        "videos": []
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
@@ -563,7 +562,15 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "a5h_NI8wC0M",
+                "title": "#2【Little Witch in the Woods】🧙🏻‍♀️Time to visit the village!!🧹 【insert vtuber name here】",
+                "date": "2025/09/28 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/a5h_NI8wC0M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBy3NDugLCDaLBEM5bXof8EDCk5Yg",
+                "description": "Game title：Little Witch in the Woods\nStore page：https://store.steampowered.com/app/1594940/Little_Witch_in_the_Woods/\n\n\nThumbnail: https://x.com/Yagudo_bunya\n\n-----\nVestia Zeta's  2nd Original..."
+            }
+        ]
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
