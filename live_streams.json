@@ -3,14 +3,7 @@
         "channel_url": "https://www.youtube.com/@AZKi",
         "channel_name": "AZKi Channel",
         "avatar_url": "https://yt3.googleusercontent.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos",
-        "videos": [
-            {
-                "video_id": "IgCzJLp2VqQ",
-                "title": "【ホロライブ縛り歌枠】ソロライブゲスト発表あり！ / SINGING HOLOLIVE SONG!!!【ホロライブ / AZKi】",
-                "thumbnail": "https://i.ytimg.com/vi/IgCzJLp2VqQ/hqdefault.jpg?v=68d8b96b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1Y55y9f-YchrmGWNoNQJhG-sQnw",
-                "description": "今日歌わせていただく中から…⁉️\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\nサムネイラスト・作成：花春 様\nhttps://x.com/KaSyun02\n\n┈┈┈┈┈┈┈┈┈┈..."
-            }
-        ]
+        "videos": []
     },
     "@AiraniIofifteen": {
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
@@ -58,7 +51,14 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "0Y9AdbfKtdg",
+                "title": "【#holoEN AMONG US COLLAB】the most merciless crewmate and strongest imposter 🐾 【FUWAMOCO POV】",
+                "thumbnail": "https://i.ytimg.com/vi/0Y9AdbfKtdg/hqdefault.jpg?v=68d7c43c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRmU9kj-7Wbe629pQEHT6zKKzlnQ",
+                "description": "we're professional amongusers ✨️ \n@TakanashiKiara @MoriCalliope @IRyS @OuroKronii @KosekiBijou @holoen_erbloodflame @holoen_gigimurin @holoen_ceciliaimmergreen @holoen_raorapanthera \n\n🩵..."
+            }
+        ]
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -76,14 +76,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "-yjdEkaPtCA",
-                "title": "【Minecraft】holoXで #マイクラ肝試し2025 初参戦‼えっ…コワイんですけど・・・！？？？？【博衣こより/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/-yjdEkaPtCA/hqdefault.jpg?v=68d81078&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtWmtx8JtF1U2FOTlJy4MmveWWYg",
-                "description": "ホラーが苦手です。対戦よろしくお願いします。　#マイクラ肝試し2025\n一緒に行く→ @LaplusDarknesss @TakaneLui @kazamairoha \n💿1stアルバム「FIRST STEP」発..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -127,7 +120,14 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Z83z0Or0EuA",
+                "title": "【HoloEN Among Us】When IT'S ALL A LIE",
+                "thumbnail": "https://i.ytimg.com/vi/Z83z0Or0EuA/hqdefault.jpg?v=68d83069&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdPxTw1c6PosnHgY2Wb2UYyc3Pcw",
+                "description": "w/ @OuroKronii @TakanashiKiara @FUWAMOCOch @holoen_gigimurin @holoen_erbloodflame @MoriCalliope @holoen_ceciliaimmergreen @KosekiBijou @holoen_raorapanthera \n\nThis game is distributed and monetized..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -195,7 +195,14 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "yCvs-DUWXMk",
+                "title": "【holoEN AMONGUS】I'm not sus, Im nonchalant",
+                "thumbnail": "https://i.ytimg.com/vi/yCvs-DUWXMk/hqdefault.jpg?v=68d90439&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB16lC6-CCjoEUOk5wmg9Kd8yInkA",
+                "description": "biBOO!\n\n====================\n✧Twitter: https://twitter.com/kosekibijou\n\n✧Hashtags: \n#biboo  \nAdvent: #holoAdvent\nLive: #LIVEseki\nMemes: #LMOAI \nArt: #bijouwled \nPebble Personas: #pebblesona..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -238,7 +245,14 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "td-n9s8C0cs",
+                "title": "【amongus】amongus #calliolive",
+                "thumbnail": "https://i.ytimg.com/vi/td-n9s8C0cs/hqdefault.jpg?v=68d883a1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBuSMhxsPtg6GyrUFL7OiSFyFo10A",
+                "description": "Mori Calliope 5th Anniversary!!\nAnniversary Merch:\n8:00PM, September 12th, PST(12:00PM, September 13th JST)\n\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/moricalli..."
+            }
+        ]
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -329,14 +343,7 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": [
-            {
-                "video_id": "83ZyIqHsRpU",
-                "title": "【雑談/chat】今月もありがとう！！45万人もありがとう！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "thumbnail": "https://i.ytimg.com/vi/83ZyIqHsRpU/hqdefault.jpg?v=68d8fd70&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0hESTspVMLaU-vbmGwq4aYcjWRQ",
-                "description": "もう9月もおわっちゃうね\n\nサムネイルイラスト：灼熱さま\nhttps://x.com/boboboburning\nありがとうございます！\n\nねえ、いっしょに向こう側の景色を見に..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -439,14 +446,7 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
-        "videos": [
-            {
-                "video_id": "a5h_NI8wC0M",
-                "title": "#2【Little Witch in the Woods】🧙🏻‍♀️Time to visit the village!!🧹 【insert vtuber name here】",
-                "thumbnail": "https://i.ytimg.com/vi/a5h_NI8wC0M/hqdefault.jpg?v=68d9069c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBy3NDugLCDaLBEM5bXof8EDCk5Yg",
-                "description": "Game title：Little Witch in the Woods\nStore page：https://store.steampowered.com/app/1594940/Little_Witch_in_the_Woods/\n\n\nThumbnail: https://x.com/Yagudo_bunya\n\n-----\nVestia Zeta's  2nd Original..."
-            }
-        ]
+        "videos": []
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
@@ -482,7 +482,14 @@
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "VUURP218SOc",
+                "title": "【AMONG US】Who is the most sus? ~ FT. holoEN 💄",
+                "thumbnail": "https://i.ytimg.com/vi/VUURP218SOc/hqdefault.jpg?v=68d89943&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKqbUlECRpzvRBucTdiY7RrZIDYw",
+                "description": "with ‪@MoriCalliope‬ ‪@OuroKronii‬ ‪@FUWAMOCOch‬ ‪@KosekiBijou‬ ‪@holoen_ceciliaimmergreen‬ ‪@holoen_erbloodflame‬ ‪@holoen_raorapanthera‬ ‪@holoen_gigimurin‬..."
+            }
+        ]
     },
     "@holoen_gigimurin": {
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
@@ -494,7 +501,14 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "kGxn7DVbOAY",
+                "title": "【#holoEN AMONG US COLLAB】Kill or be killed, either way I’ll do it for Justice!😾【RAORA POV】",
+                "thumbnail": "https://i.ytimg.com/vi/kGxn7DVbOAY/hqdefault.jpg?v=68d88072&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCeHU_nqHT4IT6Ux5_5trZBf_bjyw",
+                "description": "╭─⋆｡ﾟ♡ RAO ♡｡ﾟ⋆─╮\n\n『 X  』  \nhttps://x.com/raorapanthera  \n\n『 Hashtags 』  \n╰┈✧ Live ➤ #CiaoRaora  \n╰┈✧ Fanarts ➤ #RaorArt  \n╰┈✧ Clips ➤..."
+            }
+        ]
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
