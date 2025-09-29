@@ -187,7 +187,14 @@
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "OA1KZaAMFBY",
+                "title": "【CloverPit】 I HOPE YOUTUBE DOESN'T DEMONETIZE THIS 【Kureiji Ollie】",
+                "thumbnail": "https://i.ytimg.com/vi/OA1KZaAMFBY/hqdefault.jpg?v=68da82dc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3hw1oIuUXJX8FOMe1oelcl9DRzw",
+                "description": "#OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n==========================================\n\nGame Title: CloverPit\nStore Page: https://store.steampowered.com/app/3314790/CloverPit/\n\n=================..."
+            }
+        ]
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
@@ -390,14 +397,7 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": [
-            {
-                "video_id": "V6WsKyuSwG8",
-                "title": "【#PR】Switch2版で『ホグワーツ・レガシー』遊ぶぞおおおお！！-Hogwarts Legacy【獅白ぼたん/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/V6WsKyuSwG8/hqdefault.jpg?v=68d8e4fe&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDr8F0r3j1222Nm80TnlItvM7awjw",
-                "description": "ホグワーツ・レガシー Nintendo Switch™ 2版は2025年6月5日より発売中です🧙‍♂️\n\n提供：SEGA\n『ホグワーツ・レガシー』Nintendo Switch™ 2版　発売中..."
-            }
-        ]
+        "videos": []
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
