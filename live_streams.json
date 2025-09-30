@@ -21,14 +21,7 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": [
-            {
-                "video_id": "zXvteHt38Fw",
-                "title": "【雀魂】４週目！今日こそ1位とりたい！🀄DREAM MATCH 🀄雀魂下剋上リーグ【ホロライブ/アキロゼ】",
-                "thumbnail": "https://i.ytimg.com/vi/zXvteHt38Fw/hqdefault.jpg?v=68db8bd5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDERJfhEkT3DuD7xABKSGAOefIF0Q",
-                "description": "🀄UNLIMITチームメンバー🀄\n多井隆晴 https://x.com/takaharu_ooi\n西村歩乃果 https://x.com/hoooonoka0128\n〓Ｖ．Ｉ．Ｐ〓 https://x.com/vip_japanA\nロボ子さん@Robocosan..."
-            }
-        ]
+        "videos": []
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -131,7 +124,14 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "KRWaBSvOhxU",
+                "title": "【テラリア】そろそろボス戦したいな・・！？＃4【ホロライブ DEV_IS 響咲リオナ】",
+                "thumbnail": "https://i.ytimg.com/vi/KRWaBSvOhxU/hqdefault.jpg?v=68dbc5e5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBe47rzAAaVTAWtwBZ3cM0rkavPkA",
+                "description": "本ゲームは、（株）スパイク・チュンソフトより許諾を得た上で、配信・収益化を行なっています。\nタイトル：テラリア\nTerraria ©2019 Re-Logic...."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -263,27 +263,13 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": [
-            {
-                "video_id": "x4U4vY3ysnM",
-                "title": "【#生スバル】9月かけこみめんげん！：membership only【ホロライブ/大空スバル】",
-                "thumbnail": "https://i.ytimg.com/vi/x4U4vY3ysnM/hqdefault.jpg?v=68dbb394&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAedTn5HN77yhJBmAV5npYJ8eNMZQ",
-                "description": "★イラスト…https://x.com/sonnamonaka/status/1972252123363786757\n\n🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not..."
-            }
-        ]
+        "videos": []
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC",
-        "videos": [
-            {
-                "video_id": "87x7LEiTMl0",
-                "title": "【 nosh 】おいしい宅配弁当をうめうめして食レポに挑戦！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-                "thumbnail": "https://i.ytimg.com/vi/87x7LEiTMl0/hqdefault.jpg?v=68da55af&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjdiFdL8mfspppESpKDKGJfJBl9A",
-                "description": "🎹✨nosh×音乃瀬奏の特別コラボクーポンはこちら🎹✨\nhttps://nosh.jp/influencer-promotion?key=OtonoseKanade&utm_source=Youtuber&utm_medium=PR&utm_campaign=OtonoseKanade&utm_co..."
-            }
-        ]
+        "videos": []
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
@@ -301,27 +287,13 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": [
-            {
-                "video_id": "_thBI9tuywk",
-                "title": "【歌枠/KARAOKE】ちょびっと歌っちゃお~~~~！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "thumbnail": "https://i.ytimg.com/vi/_thBI9tuywk/hqdefault.jpg?v=68dbb754&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDowmI5bueJkPyoZJzDLTHdbzHfag",
-                "description": "９がつ～～～～～～！！！\n\n提供:XING INC.\n※本サービスは株式会社エクシングより許諾を得た上で配信を行なっています。\n※JOYSOUND音源を使用して..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
-        "videos": [
-            {
-                "video_id": "oGPqHMcLk0M",
-                "title": "【 雀魂】 DREAM MATCH 雀魂下剋上リーグ4週目　　w/ V.I.P/西村歩乃果/多井隆晴/アキロゼ　【ホロライブ/ ロボ子さん】",
-                "thumbnail": "https://i.ytimg.com/vi/oGPqHMcLk0M/hqdefault.jpg?v=68db4dc1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFvMitCIVQixBl4cUpKSFJnWsZaQ",
-                "description": "＃ホロライブ#雀魂 #DREAMMATCH #下剋上リーグ\nｘでは💬  #UNLWIN　でポストしてってね\n\n毎週火曜日はリーグ戦！\n今週は本配信のチャンネルにボクたち..."
-            }
-        ]
+        "videos": []
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -423,7 +395,14 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "UXpT46amTvc",
+                "title": "【オフコラボ】#KoZMy で囁き♡ASMR【 博衣こより・AZKi・雪花ラミィ /ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/UXpT46amTvc/hqdefault.jpg?v=68daa7e9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCqqj1HqnKH0_7O_yuXNXinHx1NhA",
+                "description": "こより　　https://www.youtube.com/@UC6eWCld0KwmyHFbAqK3V-Rw \nあずあず　https://www.youtube.com/@UC0TXe_LYZ4scaW2XMyi5_kw \n\n感想は #KoZMy で呟いて頂けたら嬉しいです！..."
+            }
+        ]
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
