@@ -53,7 +53,14 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "xzMfGfm_w9U",
+                "title": "Cleaning Cleaning",
+                "thumbnail": "https://i.ytimg.com/vi/xzMfGfm_w9U/hqdefault.jpg?v=68dd2a64&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDyJjyptb8XYsVFaFXMoVb1vWNacg",
+                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nGame Title: Whisper of the House\nStore Page: https://store.steampowered.com/app/2589500/_/\n\nーーーーーーーーー\n\nSTREAM MY NEWEST..."
+            }
+        ]
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -151,7 +158,14 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "KkyhuVmNJVI",
+                "title": "【スパチャ読み②】2周年でいただいたスパチャを読み読みタイム【儒烏風亭らでん #ReGLOSS 】",
+                "thumbnail": "https://i.ytimg.com/vi/KkyhuVmNJVI/hqdefault.jpg?v=68dd1a12&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnz9wMS0jhtLJlQOOLzIf5HdUXTw",
+                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\n\n▼儒烏風亭らでんソロ曲「落噺」楽曲配信（..."
+            }
+        ]
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -390,14 +404,7 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": [
-            {
-                "video_id": "89njDwMap8A",
-                "title": "【凶寓 / Dread Flats】ししらみは3日住めば150万円もらえる物件に泊まるようです【獅白ぼたん・雪花ラミィ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/89njDwMap8A/hqdefault.jpg?v=68dc04fe&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCS0EfSTgmm06BgxWLn4G8SGXwGHw",
-                "description": "つまりお家デートってわけ！（ホラー）\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n🔸新着情報/New!\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n🎂獅白ぼ..."
-            }
-        ]
+        "videos": []
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
@@ -409,7 +416,14 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "gqug4-sTVoQ",
+                "title": "【 Membership 】ひみつのおはなし【鷹嶺ルイ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/gqug4-sTVoQ/hqdefault.jpg?v=68dd117c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKarUYwstjVa01ryYpvVnNNQMIFw",
+                "description": "※開始直前にメンバーシップに切り替わります。\n\nサムネ：みはえる/MihaL様 (@0w0miha0w0)\n\n✦••┈┈┈••┈┈┈••✦••┈┈┈••┈┈┈••..."
+            }
+        ]
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
@@ -493,14 +507,7 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
-        "videos": [
-            {
-                "video_id": "kJgs622sztA",
-                "title": "【#マイクラ肝試し2025】釣り釣り~🎣高得点狙いたいですね✨【風真いろは/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/kJgs622sztA/hqdefault.jpg?v=68dcf274&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQdL3a1vLY6u2Jt2N-47a37H0HTA",
-                "description": "※本ゲームは Mojang に確認を得た上、Terms and Conditions\n (https://account.mojang.com/terms)  に基づいて配信・収益化を行なっております。\n\n#マイクラ #マイン..."
-            }
-        ]
+        "videos": []
     },
     "@mikenekoko": {
         "channel_url": "https://www.youtube.com/@mikenekoko",
