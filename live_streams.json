@@ -153,7 +153,14 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Dm8ze1g8-AA",
+                "title": "【SILENT HILL f】WHAT DOES THE FOX SAY?",
+                "thumbnail": "https://i.ytimg.com/vi/Dm8ze1g8-AA/hqdefault.jpg?v=68dd61a4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYQWgXeHQiwgNoYK1vA3VmNFWzWQ",
+                "description": "Thumbnail art: @Castella_yaki THANK YOU!\nhttps://x.com/Castella_yaki/status/1973095386949595450/photo/1\n====================\n✧Twitter: https://twitter.com/kosekibijou\n\n✧Hashtags: \n#biboo..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -237,14 +244,7 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": [
-            {
-                "video_id": "3VLxY9kVrDA",
-                "title": "【OHAPOL】#183 10/2木曜日！これは私の推理だが、10月がはじまったのではないか？ #ポルカ公演中 【尾丸ポルカ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/3VLxY9kVrDA/hqdefault.jpg?v=68dd9566&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAGytuVeqFyEj8y6BU8nJpSApCww",
-                "description": "サムネイルありがとうございます！\nhttps://x.com/KanzakiIra0430\n\n▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄\n\nOHAPOL（おはポル）は不定期で朝6時から配信！\n主に水..."
-            }
-        ]
+        "videos": []
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
