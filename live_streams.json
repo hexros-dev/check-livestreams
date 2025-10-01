@@ -147,7 +147,14 @@
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
         "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/ACubs_Mw4YtmgHDIIZvW_gZaPf_VR1wg9yffFLsq4Lrw-W7Md-0pK4Gob8OJebCYCmgrArsE",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "HqvU-8WECbg",
+                "title": "【全国一般人常識クイズ】常識はあるから、まじで【虎金妃笑虎】",
+                "thumbnail": "https://i.ytimg.com/vi/HqvU-8WECbg/hqdefault.jpg?v=68dce633&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtNLnYKF0siRtdXJO8Mbhr2C9CNQ",
+                "description": "サムネイルのイラストは汐よるさん✨\n\n本ゲームは株式会社 TTの許諾を受けて配信・収益化を行っております\n\n※ホロライブプロダクションから未..."
+            }
+        ]
     },
     "@KosekiBijou": {
         "channel_url": "https://www.youtube.com/@KosekiBijou",
@@ -189,14 +196,7 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": [
-            {
-                "video_id": "XMzCYZoTY3E",
-                "title": "【CloverPit】betting it ALL and NOT crashing out! #calliolive",
-                "thumbnail": "https://i.ytimg.com/vi/XMzCYZoTY3E/hqdefault.jpg?v=68dbb1db&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAy0ifZlhxE5_UXLZNltrkeoBc2hw",
-                "description": "Mori Calliope 5th Anniversary!!\nAnniversary Merch:\n8:00PM, September 12th, PST(12:00PM, September 13th JST)\n\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/moricalli..."
-            }
-        ]
+        "videos": []
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
