@@ -363,7 +363,15 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "AsoM2dXq19c",
+                "title": "【Superchat Catchup】Oh That's A Lot",
+                "date": "2025/10/02 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/AsoM2dXq19c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdX_6j4wdR3MKOqcI2lbGqmTGYxA",
+                "description": "Since I couldn't read the superchats, I want to thank the rest of the people who kindly sent in their superchat.\n\n[Twitter]\nhttps://twitter.com/ourokronii\n\n[Thumbnail Art]\nhttps://x.com/elfe_art..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
