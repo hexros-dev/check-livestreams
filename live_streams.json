@@ -21,14 +21,7 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": [
-            {
-                "video_id": "dz_tFFYTiak",
-                "title": "【GTA5│MAD TOWN】ついに上陸！マッドタウンいってみるよ！【アキロゼ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/dz_tFFYTiak/hqdefault.jpg?v=68dc440b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAF9zej8QownSVG-ks2v6-MjUhh1Q",
-                "description": "Twitchでも同時配信中！ご自身に合う方でご視聴どうぞ⚡\n https://www.twitch.tv/akirosenthal_hololive\n\nこの放送はvaultroomの実施する企画の一環として、配信し..."
-            }
-        ]
+        "videos": []
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -340,7 +333,14 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "gnuHKxe3Ces",
+                "title": "【HANDCAM】sharpening my knives with an expensive little tool (ASMR)",
+                "thumbnail": "https://i.ytimg.com/vi/gnuHKxe3Ces/hqdefault.jpg?v=68dd2116&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2cucT1PFROtL4DpTdO58JEgZ7TQ",
+                "description": "Takanashi Kiara『TASTY』\nhttps://cover.lnk.to/al3Zjt\n\n🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara\n\n 🏵️[Hashtags] 🏵️\n#kfp #キアライブ#hololiveenglish #holomyth..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
