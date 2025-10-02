@@ -31,13 +31,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
         "videos": [
             {
-                "video_id": "jITpevpR5hE",
-                "title": "【GTA5│MAD TOWN】卍お金稼いだりの珍道中卍【アキロゼ/ホロライブ】",
-                "date": "2025/10/02 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/jITpevpR5hE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhmRtgUtPds1s1tddPb5O375q9vA",
-                "description": "Twitchでも同時配信中！ご自身に合う方でご視聴どうぞ⚡\n https://www.twitch.tv/akirosenthal_hololive\n\nこの放送はvaultroomの実施する企画の一環として、配信し..."
-            },
-            {
                 "video_id": "qWn4pb2wv2k",
                 "title": "『#あざとすぎる小悪魔女💕』 アキちょこナイトパレット第7回 ～ホロライブ深夜ラジオ～",
                 "date": "2025/10/06 21:40:00",
@@ -142,6 +135,13 @@
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
         "videos": [
             {
+                "video_id": "9SeFcJnQdqY",
+                "title": "【TCG Card Shop Simulator】店舗拡大を重ねてこんなに大きくなりました‼【ホロライブ / 星街すいせい】",
+                "date": "2025/10/02 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/9SeFcJnQdqY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9c7Ha0teJwglqDKtsTK_MPj-N0Q",
+                "description": "☄2025.1.22 3rdフルアルバム『新星目録』発売中！！☄\nhttps://cover.lnk.to/SHINSEIMOKUROKU\n\n『機動戦士Gundam GQuuuuuuX』EDテーマ\n新曲「もうどうなってもいいや..."
+            },
+            {
                 "video_id": "mh9w_R_2TaI",
                 "title": "【重大告知アリ！】#miComet新衣装 ＆ 新衣装を着て○○○に行ってみた…⁉【ホロライブ / miComet】",
                 "date": "2025/10/02 19:00:00",
@@ -186,7 +186,15 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "KVd-OE6NI9E",
+                "title": "【同時視聴】そら先輩のライブ、みるぞおおお♡【ホロライブ DEV_IS 響咲リオナ】",
+                "date": "2025/10/02 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/KVd-OE6NI9E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVPT5KiBXAriGNoe4qaytgvBuGTA",
+                "description": "10月1日(水)＆2日(木) ときのそら 8th Anniversary Party「Starry Bl∞min'」 at CLUB CITTA' SPWNにて配信中！ \nチケットはこちら https://spwn.jp/events/evt_3vy5uJB1bmr1jUl2y8E..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -216,15 +224,7 @@
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
         "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/ACubs_Mw4YtmgHDIIZvW_gZaPf_VR1wg9yffFLsq4Lrw-W7Md-0pK4Gob8OJebCYCmgrArsE",
-        "videos": [
-            {
-                "video_id": "BjO-0GiDXLk",
-                "title": "【PlateUp!】完全初見🔰　任　せ　て　！　✨　【虎金妃笑虎】",
-                "date": "2025/10/02 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/BjO-0GiDXLk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4wIGKIvI8Cwhouf0rAPhb3qdshw",
-                "description": "サムネイルにお借りしたイラスト✨\nhttps://x.com/koinu_no_edowan/status/1948700668640068044\n\n本ゲームはYogscast Games.に確認の上、配信・収益を行われています。..."
-            }
-        ]
+        "videos": []
     },
     "@KosekiBijou": {
         "channel_url": "https://www.youtube.com/@KosekiBijou",
@@ -269,15 +269,7 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": [
-            {
-                "video_id": "8SnLvWQZVyc",
-                "title": "【 TCG Card Shop Simulator 】2日目！とりあえず１００万こーーい！‼！【 桃鈴ねね / hololive 】",
-                "date": "2025/10/02 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/8SnLvWQZVyc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJv-67xMFyq_d0FJqAw2q5jXJ0Uw",
-                "description": "⸜♡⸝MemberShipに入ったらもっとねねを知れるﾖ\nhttps://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA/join\n\n⸜♡⸝各音楽サイトにてオリジナル楽曲更新中..."
-            }
-        ]
+        "videos": []
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
