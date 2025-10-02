@@ -363,14 +363,7 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": [
-            {
-                "video_id": "UknVCM0v6GQ",
-                "title": "【雑談＆お礼】最近涼しくなったね～！え、もう10月？！！？！【角巻わため/ホロライブ４期生】",
-                "thumbnail": "https://i.ytimg.com/vi/UknVCM0v6GQ/hqdefault.jpg?v=68dda06d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCf7yILSiaUZhHMaAPBbDe3DvV-XQ",
-                "description": "タグ：#ドドドライブ\n\n🐏新オリジナル曲『ビリ』公開！\nMV：https://youtu.be/cVT_yB1qpYY\n\n『ビリ』の購入はこちらから！\n6/6(Fri) 24:00 リリース開始🎉..."
-            }
-        ]
+        "videos": []
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -406,7 +399,14 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "mUv9TCFZV7M",
+                "title": "【MUSIC】making funny notes in funny program and listening to it!",
+                "thumbnail": "https://i.ytimg.com/vi/mUv9TCFZV7M/hqdefault.jpg?v=68dd9f6c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCN0-wTuxan9FYE9KRRgx2uP1Ne9g",
+                "description": "art used: \nhttps://x.com/ranze_lp/status/1971168748548784224\n\n--------------------------\nHashtags\n📺 Livestream: #ImmerScreen \n🎨 Fanart: #Immergination\n🎻 Music: #ImmerPiece\n🤡 Memes:..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
