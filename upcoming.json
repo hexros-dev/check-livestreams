@@ -145,7 +145,15 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "7tetcpqE8Dw",
+                "title": "【PROMISE COLLAB】2nd Anniversary Celebrations + Big Announcements! #Promise2U",
+                "date": "2025/10/04 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/7tetcpqE8Dw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCg4F2jWbziXyUrXYhaS-oof2EzIw",
+                "description": "Exciting announcements with promise girls! @OuroKronii @HakosBaelz \n#hololiveenglish  #ホロライブ \n\nStream my NEW EP YaBAI NOW!!\nhttps://cover.lnk.to/39qmMB\n\n4th AnniversaRyS Merch OUT..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
