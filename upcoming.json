@@ -326,21 +326,21 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": [
-            {
-                "video_id": "JePEmaYUAPo",
-                "title": "【#生スバル】🍔 デスバーガー ：DEATH BURGER🍔【ホロライブ/大空スバル】",
-                "date": "2025/10/02 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/JePEmaYUAPo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDyJ8iKZnmrq1ZsaaI3cLEVqFR3tQ",
-                "description": "配信タイトル：デスバーガー\nストアページ：https://store.steampowered.com/app/3648240//\n\n🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントする..."
-            }
-        ]
+        "videos": []
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "JMfvEZuD8Zw",
+                "title": "【 CloverPit 】ドハマりのギャンブルゲーやっていくよん【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+                "date": "2025/10/02 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/JMfvEZuD8Zw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCJdalOd4cz90EG-sfykUHUk_1OQ",
+                "description": "▽✨重大告知✨ ▽\n音乃瀬奏 1stオリジナル曲「GREATEST」\n4/20(日) 24：00（4/21  0：00）リリース開始！\nhttps://cover.lnk.to/4rvCRp\n\n୨୧♪:*:･･:*:･♪･:*:･..."
+            }
+        ]
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
@@ -360,7 +360,15 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "EKAUF0cY910",
+                "title": "UMA MUSUME SEASON 2 EP 9+++++++",
+                "date": "2025/10/02 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/EKAUF0cY910/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB27rwtwG_zgpfuMBXch_KicBX9Vw",
+                "description": "Reine's new original song now 「Yummy Yum Yummy!」AVAILABLE on iTunes, Apple Music, Spotify etc. Click to stream!\nパヴォリア・レイネ新曲「ヤミヤムヤミ」\nhttps://cover.lnk.to/mU..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -375,8 +383,8 @@
         "videos": [
             {
                 "video_id": "360Y9ba70hg",
-                "title": "#03【 牧場物語 Let's！風のグランドバザール 】　ちるしに来たのに生きるのに必死🐄✨ ※ネタバレあり【ホロライブ/ロボ子さん】",
-                "date": "2025/10/02 22:00:00",
+                "title": "#04【 牧場物語 Let's！風のグランドバザール 】　ちるしに来たのに生きるのに必死🐄✨ ※ネタバレあり【ホロライブ/ロボ子さん】",
+                "date": "2025/10/04 08:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/360Y9ba70hg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJY2SaBn2g76JLyWkOX2Oxktxllw",
                 "description": "#hololive 　＃ロボ子さん　#牧場物語\nｘでは💬  #ロボ子生放送　でポストしてってね✨\n遂に気になってたゲームができるようになったよ✨\nストー..."
             },
@@ -476,7 +484,7 @@
         "videos": [
             {
                 "video_id": "TOoQJYPJoqw",
-                "title": "【  永久のユウグレ  】ラプラスとトワと見ようっ📺️0話はなんと！一緒に見られる✨️【常闇トワ/ホロライブ】",
+                "title": "【  永久のユウグレ同時視聴  】ラプラスとトワと見ようっ📺️0話はなんと！一緒に見られる✨️【常闇トワ/ホロライブ】",
                 "date": "2025/10/02 21:30:00",
                 "thumbnail": "https://i.ytimg.com/vi/TOoQJYPJoqw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBqhApXE3MrF8cO0e6T39ry6b-TA",
                 "description": "提供： Project FT／永久のユウグレ製作委員会・MBS\n#PR\n \n#常闇トワ #ラプラス・ダークネス　同時視聴会！🎉✨\n\nーーーーーーーーー\nアニメ『永久の..."
@@ -487,15 +495,7 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": [
-            {
-                "video_id": "UknVCM0v6GQ",
-                "title": "【雑談＆お礼】最近涼しくなったね～！え、もう10月？！！？！【角巻わため/ホロライブ４期生】",
-                "date": "2025/10/02 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/UknVCM0v6GQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCf7yILSiaUZhHMaAPBbDe3DvV-XQ",
-                "description": "タグ：#ドドドライブ\n\n🐏新オリジナル曲『ビリ』公開！\nMV：https://youtu.be/cVT_yB1qpYY\n\n『ビリ』の購入はこちらから！\n6/6(Fri) 24:00 リリース開始🎉..."
-            }
-        ]
+        "videos": []
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
