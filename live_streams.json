@@ -63,7 +63,14 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "bUg8nnnerKc",
+                "title": "≪Stellar Blade≫ WE BEGIN...First Playthrough!! #1",
+                "thumbnail": "https://i.ytimg.com/vi/bUg8nnnerKc/hqdefault.jpg?v=68de931d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKz6kLxp7SiShcOWTm3gj1hSUGBw",
+                "description": "LOCK IN!!!\n\nThumbnail Art: https://x.com/Cafelittle_1st/status/1972250713335222577\n\n#telebae  #hololiveenglish \n««≪ °◇◆◇° ≫ »»\nThis game is being streamed in accordance with..."
+            }
+        ]
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -449,14 +456,7 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": [
-            {
-                "video_id": "qEeYbiI6emc",
-                "title": "【MEMBERS ONLY】 A SPINE CHILLING members stream!!",
-                "thumbnail": "https://i.ytimg.com/vi/qEeYbiI6emc/hqdefault.jpg?v=68deefcd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxObc1ezOvBu4GPW8DGkU1gz5dGQ",
-                "description": "OOOOooooOOOOOO\n\n☁  Thumbnail Art  ☁\nhttps://x.com/naraicat/status/1968721932750057733\nThank you so much!!\n\nWitch costume: Sekirei (@sekirei_0201)\n\n  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋..."
-            }
-        ]
+        "videos": []
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
