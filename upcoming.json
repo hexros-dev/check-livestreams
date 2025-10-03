@@ -101,13 +101,6 @@
                 "description": "「サイレントヒルf」苦手な和風ホラーでビビり散らかしてましたが、めちゃめちゃ面白かった！！ストーリーの謎が気になるので全ED観たいぞ！..."
             },
             {
-                "video_id": "QnTGmprNbJo",
-                "title": "【 #ホロライブ甲子園2025 】みんなでBBQ（ベースボールクイズ）で遊ぼう！⚾✨【さくらみこ・宝鐘マリン・一条莉々華・博衣こより/ホロライブ】",
-                "date": "2025/10/03 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/QnTGmprNbJo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFsyRB8lDWfnrcKdpK63MQ2fkE1A",
-                "description": "「 #ホロライブ甲子園2025 」本戦は10/26(日)に開催！⚾より楽しむために、みんなでBBQ(ベースボールクイズ)で遊ぶよ！✨\n⚾監督⚾\n @SakuraMiko @HoushouMa..."
-            },
-            {
                 "video_id": "nzBAuSVcJ3E",
                 "title": "【FFT】やりたかったファイナルファンタジータクティクス！リマスターで完全初見プレイ✨ #1 【博衣こより/ホロライブ】",
                 "date": "2025/10/04 09:00:00",
@@ -438,7 +431,7 @@
             {
                 "video_id": "kpnF-BwMTxA",
                 "title": "【SILENT HILL f】はじめてのサイレントヒル #2 ※ネタバレあり【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "date": "2025/10/03 19:00:00",
+                "date": "2025/10/04 19:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/kpnF-BwMTxA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApX9Y-zKS-cwGZ7q3LRKDeNMuU_A",
                 "description": "かなり怖い・・？らしいので緊張する\n\n本作はCERO:Z(18才以上のみ対象)\n※本タイトルは性差別や児童虐待、いじめ、薬物による幻覚、拷問、強い暴..."
             }
@@ -475,7 +468,15 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "hzLWva-Igt0",
+                "title": "【 アソビ大全 】新衣装ペアでフブミオVSmiComet 🔥チーム戦アソビ大全対決⁉【#フブミオみこめっと】",
+                "date": "2025/10/03 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/hzLWva-Igt0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8MgKhIwXdGq7aaaCC0uKTIHt_mA",
+                "description": "@HoshimachiSuisei @ShirakamiFubuki @ShirakamiFubuki \n#フブミオみこめっと \n\n🌸miComet 新衣装グッズ発売中！ ☄\nhttps://shop.hololivepro.com/products/micomet_newoutfit_2025..."
+            }
+        ]
     },
     "@SamekoSaba": {
         "channel_url": "https://www.youtube.com/@SamekoSaba",
@@ -567,15 +568,7 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": [
-            {
-                "video_id": "yE07UgK5Aqg",
-                "title": "【次回ライブも決定！】ときのそら 8th Anniversary Party「Starry Bl∞min'」感想会！【ときのそら/ホロライブ】",
-                "date": "2025/10/03 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/yE07UgK5Aqg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKPz90x_yyaQH9voIUD_dYLZbmeQ",
-                "description": "2026年1月10日(土) 東京国際フォーラムホールAにて\nときのそら史上最大規模ワンマンライブ開催決定！！！\n\n【公演タイトル】 New Year’s Party 2026『Dre..."
-            }
-        ]
+        "videos": []
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
