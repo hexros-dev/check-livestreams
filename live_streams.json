@@ -106,7 +106,14 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ikSFSQkmspw",
+                "title": "【SEKIRO: SHADOWS DIE TWICE】That Monkey is MINE TO SLAY",
+                "thumbnail": "https://i.ytimg.com/vi/ikSFSQkmspw/hqdefault.jpg?v=68dec66b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAB_jHDJmPMJ0cEWH8Ml4VEgdKjZg",
+                "description": "Please save my hands new mini xbox controller\n\nThis game is streamed and monetized after confirming with FromSoftware, Inc., and following the guidelines set out in the \"Videos and Images Publicati..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
