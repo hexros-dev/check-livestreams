@@ -598,7 +598,15 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "tg3Q7SSIIuQ",
+                "title": "【WATERPARK SIMULATOR】THE ONLY PARK IN THE WORLD THAT LETS YOU PPARK!",
+                "date": "2025/10/05 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/tg3Q7SSIIuQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDi-Q4QqcIl5tHpQRZ_3WvqzQVzYA",
+                "description": "thumbnail: https://x.com/ddb_dino/status/1846265833456332916\n\nGame Title: Waterpark Simulator\nStore Page: https://store.steampowered.com/app/3293260/Waterpark_Simulator\n\n‐‐‐‐‐‐‐‐‐..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
