@@ -106,7 +106,14 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "7tetcpqE8Dw",
+                "title": "【PROMISE COLLAB】2nd Anniversary Celebrations + Big Announcements! #Promise2U",
+                "thumbnail": "https://i.ytimg.com/vi/7tetcpqE8Dw/hqdefault.jpg?v=68deb846&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCg4F2jWbziXyUrXYhaS-oof2EzIw",
+                "description": "Exciting announcements with promise girls! @OuroKronii @HakosBaelz \n#hololiveenglish  #ホロライブ \n\nStream my NEW EP YaBAI NOW!!\nhttps://cover.lnk.to/39qmMB\n\n4th AnniversaRyS Merch OUT..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -124,7 +131,14 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "C7UICEanmKo",
+                "title": "【テラリア】ダンジョンを攻略していくっ🔥✨＃５【ホロライブ DEV_IS 響咲リオナ】",
+                "thumbnail": "https://i.ytimg.com/vi/C7UICEanmKo/hqdefault.jpg?v=68e02344&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkakAsYFDe-lovD9ezI8NPU_D9AQ",
+                "description": "本ゲームは、（株）スパイク・チュンソフトより許諾を得た上で、配信・収益化を行なっています。\nタイトル：テラリア\nTerraria ©2019 Re-Logic...."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -270,14 +284,7 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": [
-            {
-                "video_id": "4Fv3Uj_F3rs",
-                "title": "【#生スバル】おはすば！：FREE TALK【ホロライブ/大空スバル】",
-                "thumbnail": "https://i.ytimg.com/vi/4Fv3Uj_F3rs/hqdefault.jpg?v=68dfe630&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCntUHrn9X6FOJt9XhpbZI6X5z4Xg",
-                "description": "★イラスト…https://x.com/sonnamonaka/status/1972252123363786757\n★サムネ…ｳﾕﾁｬﾝ.com： https://x.com/uyucomxx\n\n🐣おやくそく/Rule🐣\n・待機所でお喋りしない..."
-            }
-        ]
+        "videos": []
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -307,7 +314,14 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "360Y9ba70hg",
+                "title": "#04【 牧場物語 Let's！風のグランドバザール 】　ちるしに来たのに生きるのに必死🐄✨ ※ネタバレあり【ホロライブ/ロボ子さん】",
+                "thumbnail": "https://i.ytimg.com/vi/360Y9ba70hg/hqdefault.jpg?v=68ddb2f7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJY2SaBn2g76JLyWkOX2Oxktxllw",
+                "description": "#hololive 　＃ロボ子さん　#牧場物語\nｘでは💬  #ロボ子生放送　でポストしてってね✨\n遂に気になってたゲームができるようになったよ✨\nストー..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -337,7 +351,14 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "mxt5owrerGU",
+                "title": "【＃３】　星のカービィ Wii デラックス | Kirby’s Return to Dream Land Deluxe　【ホロライブ/白上フブキ】",
+                "thumbnail": "https://i.ytimg.com/vi/mxt5owrerGU/hqdefault.jpg?v=68e06f1d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4q1ZLDJV2OacWv08NCzWnguhT9A",
+                "description": "━━━━━━🎵N　E　W　🎵━━━━━━━\n\n🌽🌲トゥインクル/白上フブキ×大神ミオ\n▶https://youtu.be/lcyOR4Qb9EY\n\nマフィア(Mafia)/ 黒上フブキ×鷹嶺..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -476,7 +497,14 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "flHk99rORj0",
+                "title": "【FF6】最終回！ファイナルファンタジー6を初見で始める！！！！！ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意",
+                "thumbnail": "https://i.ytimg.com/vi/flHk99rORj0/hqdefault.jpg?v=68dff014&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCP12_XdiX7x_v-M0eq_f3-9hyEEw",
+                "description": "いくぞ！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
