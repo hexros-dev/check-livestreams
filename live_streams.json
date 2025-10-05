@@ -21,14 +21,7 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": [
-            {
-                "video_id": "chIoOmbD0xY",
-                "title": "【GTA5│MAD TOWN】今日からはじまる白ギャングPart2【アキロゼ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/chIoOmbD0xY/hqdefault.jpg?v=68e22dc5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmL4XwzaXc_H8EZfCZRfd9X187MQ",
-                "description": "この放送はvaultroomの実施する企画の一環として、配信しております。\nRockstar Gamesの許諾を得て収益化しております。\n\nサムネイルイラスト：ささく..."
-            }
-        ]
+        "videos": []
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -317,7 +310,14 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "O7Gg2_1AsPU",
+                "title": "TROLEU: When Fear of European Public Transport Comes True",
+                "thumbnail": "https://i.ytimg.com/vi/O7Gg2_1AsPU/hqdefault.jpg?v=68e1e74f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-DKINhHsmpr-_1zUwdPHGfkjpRQ",
+                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n===============..."
+            }
+        ]
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
@@ -377,14 +377,7 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": [
-            {
-                "video_id": "a0Py70ROxag",
-                "title": "【 Minecraft 】DXわため像制作スタート！！！- ラムベガス／LAMB VEGAS -【角巻わため/ホロライブ４期生】",
-                "thumbnail": "https://i.ytimg.com/vi/a0Py70ROxag/hqdefault.jpg?v=68e193e2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdXQ95xPwt0Xe5W9Qhz50TG4sE9Q",
-                "description": "タグ：#ドドドライブ\n園内の装飾募集中です！→ #ラムベガス飾り隊\n\n参考設計図作成：てほしさん\nhttps://x.com/tifosi360mode2\n\n制作協力：ドズル社..."
-            }
-        ]
+        "videos": []
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
