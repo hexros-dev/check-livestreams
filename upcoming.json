@@ -54,7 +54,15 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Z8jd5kghYLc",
+                "title": "WELL hello there",
+                "date": "2025/10/05 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Z8jd5kghYLc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtFBx7l9Yg86GIAnIykp5b-1s3tg",
+                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nGame Title: Whisper of the House\nStore Page: https://store.steampowered.com/app/2589500/_/\n\nーーーーーーーーー\n\nSTREAM MY NEWEST..."
+            }
+        ]
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -306,7 +314,15 @@
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "f5YRB_2Du5I",
+                "title": "【 CloverPit 】負けたらさっきの倍かけて勝てばいい。【ホロライブ/夏色まつり】",
+                "date": "2025/10/06 14:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/f5YRB_2Du5I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdPSgXBTRId1QQXTiLeKWdJ29Zfg",
+                "description": "...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\n\n素敵なサムネイル→あまねこ様\n@yomiya_amaneko\n\n配信タイトル：CloverPit..."
+            }
+        ]
     },
     "@NekomataOkayu": {
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
@@ -418,15 +434,7 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": [
-            {
-                "video_id": "7Tm7dVsTPBk",
-                "title": "【#冥ハロ2025】白上フブキ生誕３DLIVE「冥界Halloween Night!」【白上フブキ/ホロライブ】",
-                "date": "2025/10/05 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/7Tm7dVsTPBk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbl3qgRkDsPd-Fwi6zaHRfvAie0w",
-                "description": "今宵は王国、FBKINGDOMの地下深くにある冥界でのハロウィンパーティー。\nタグ：#冥ハロ2025\n\nGUEST&CAST\n✦花の王国の姫\n　さくらみこ:@SakuraMiko \n✦名探..."
-            }
-        ]
+        "videos": []
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
