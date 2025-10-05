@@ -54,15 +54,7 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": [
-            {
-                "video_id": "Z8jd5kghYLc",
-                "title": "WELL hello there",
-                "date": "2025/10/05 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Z8jd5kghYLc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtFBx7l9Yg86GIAnIykp5b-1s3tg",
-                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nGame Title: Whisper of the House\nStore Page: https://store.steampowered.com/app/2589500/_/\n\nーーーーーーーーー\n\nSTREAM MY NEWEST..."
-            }
-        ]
+        "videos": []
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -166,13 +158,6 @@
                 "date": "2025/10/09 19:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/QH7TLDbuA2Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBul-P2zS6FLkBS31t0MCJi5F4tQw",
                 "description": "初めてのFFTに胸が高鳴る…\nティータはどうなるの…？？？？？\n\n本動画のゲームプレイ映像は、株式会社スクウェア・エニックスの許諾を受けて..."
-            },
-            {
-                "video_id": "TJS2vzPVG7I",
-                "title": "【 #ホロライブ甲子園2025 】夏の甲子園、勝ち進むぞ！！！！！！#8【一条莉々華/hololive DEV_IS ReGLOSS】",
-                "date": "2025/10/05 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/TJS2vzPVG7I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYz4f8tyUFBrDLgbiFnvmjFSAR_g",
-                "description": "#ホロライブ甲子園2025 …今年も夏が始まる―――！！\n\nこより先輩の企画説明配信はこちら\nhttps://www.youtube.com/watch?v=jGRE-J7kSOY\n\n本ゲームは株式会社..."
             }
         ]
     },
@@ -352,7 +337,15 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "5nBtjCeUpuo",
+                "title": "【 #朝ミオ 】１０月になりました！おはみぉーん！",
+                "date": "2025/10/06 05:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/5nBtjCeUpuo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGKz6y_4ZIG82xDbOJE1-qr83zWg",
+                "description": "まだ暑い...秋ﾄﾞｺ...？\n\n#朝ミオおたより Twitter(X)で募集中です🌟\n今回紹介するお題は、『秋に食べたいあったかいごはん』です！\n\nサムネillustra..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -499,7 +492,15 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "52ofL83628Q",
+                "title": "【Minecraft】釣り雑談【ホロライブ/ときのそら】",
+                "date": "2025/10/05 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/52ofL83628Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNeZi-AOPX_9s7BFZ0KlMRBv6MEA",
+                "description": "2026年1月10日(土) 東京国際フォーラムホールAにて\nときのそら史上最大規模ワンマンライブ開催決定！！！\n\n【公演タイトル】 New Year’s Party 2026『Dre..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
@@ -621,15 +622,7 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": [
-            {
-                "video_id": "gfdX4gwaJB4",
-                "title": "【凱旋門賞】2025年 凱旋門賞で大勝する！！！！！！！！！！！！！！！！！！！こ！【ホロライブ/兎田ぺこら】",
-                "date": "2025/10/05 19:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/gfdX4gwaJB4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAEFskHk2BKqL_DzzuJX1kO9_W-cA",
-                "description": "初挑戦じゃ！！！！！！！！！！！！！！！！！！！！！！！！！！！\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twi..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
