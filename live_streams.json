@@ -89,14 +89,7 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": [
-            {
-                "video_id": "cW_GPyaYdD0",
-                "title": "【 重大告知 】V系のお歌うたって生誕祭ライブの告知をするのら！！！【姫森ルーナ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/cW_GPyaYdD0/hqdefault.jpg?v=68e12d74&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqK6ek3cMEIJQLK9NcufXY_WQ4ww",
-                "description": "サムネイラスト\n　かりんとうさん　https://twitter.com/2fuwl\n\nカラオケ歌枠再生リスト\nhttps://www.youtube.com/playlist?list=PL6gUpTCMieF4yX3kEYFi3PFCfs3LKvrSD\n\n▷==========..."
-            }
-        ]
+        "videos": []
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -170,7 +163,14 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "WxPGhjAUjzE",
+                "title": "【 メンバーシップ限定 】ゆったりお話ししよ～【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "thumbnail": "https://i.ytimg.com/vi/WxPGhjAUjzE/hqdefault.jpg?v=68e23d90&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABke8FrZDNUf8BCKdDdsuf_sq0Qw",
+                "description": "サムネイルの素敵なイラスト　pan田さん　https://x.com/Panda_0035_\n✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧\n\nhololive DEV_ISからデビューし..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -298,14 +298,7 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": [
-            {
-                "video_id": "RoAyaFCvtg8",
-                "title": "【#最終回】ナルティメットストーム４：NARUTO SHIPPUDEN: Ultimate Ninja STORM 4【※ネタバレあり】",
-                "thumbnail": "https://i.ytimg.com/vi/RoAyaFCvtg8/hqdefault.jpg?v=68e120b6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApm1DUrNAnRoEF3GoQbDM30b3auw",
-                "description": "このゲーム実況は「バンダイナムコエンターテインメント ゲーム実況ポリシー」に基づき制作・配信されています。\nhttps://www.bandainamcoent.co.jp/info....."
-            }
-        ]
+        "videos": []
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -385,7 +378,14 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "AGG6y4fszAY",
+                "title": "【世界のアソビ大全51】ハローボー！ようこそフレア邸へ！オフコラボで遊ぼう【不知火フレア/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/AGG6y4fszAY/hqdefault.jpg?v=68e10d49&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLByWhP8wAz3VvxjE_tZeuj8ZgBMgA",
+                "description": "@Robocosan ロボち\n\n■不知火フレア 新衣装記念2025（受注販売）\nhttps://shop.hololivepro.com/products/shiranuiflare_newoutfit_2025\n※2025年9月25日(木) 22時00分 ～..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -416,14 +416,7 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": [
-            {
-                "video_id": "p24I6AyuhjY",
-                "title": "【 龍が如く0 】キャバクラの支配人極めます。：Yakuza 0【鷹嶺ルイ/ホロライブ】※ネタバレあり",
-                "thumbnail": "https://i.ytimg.com/vi/p24I6AyuhjY/hqdefault.jpg?v=68e1b88d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3P2Iq2HjsUqijcKp_3Ijjp7jB9A",
-                "description": "サブクエ祭り\n\nこの動画およびライブは、コンテンツ利用許諾契約に基づいて配信しています。\n©SEGA\n\n※タイトルの『※ネタバレあり』とは、【ゲ..."
-            }
-        ]
+        "videos": []
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
