@@ -238,7 +238,14 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ESnOPXLjnvg",
+                "title": "【Hollow Knight: Silksong】MEOWMEOWMEOWMEOW (Translation: Slow and Steady!!)【#5】",
+                "thumbnail": "https://i.ytimg.com/vi/ESnOPXLjnvg/hqdefault.jpg?v=68e28b96&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBy53bNGradrfpMhYGWD-V4Ksy57w",
+                "description": "【Thumbnail Art】\nhttps://x.com/lava1o\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\nGame Title：Hollow Knight: Silksong\nStore Page：https://store.steampowered.com/app/1030300/Hollow_Knight..."
+            }
+        ]
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -250,14 +257,7 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": [
-            {
-                "video_id": "5nBtjCeUpuo",
-                "title": "【 #朝ミオ 】１０月になりました！おはみぉーん！",
-                "thumbnail": "https://i.ytimg.com/vi/5nBtjCeUpuo/hqdefault.jpg?v=68e26310&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGKz6y_4ZIG82xDbOJE1-qr83zWg",
-                "description": "まだ暑い...秋ﾄﾞｺ...？\n\n#朝ミオおたより Twitter(X)で募集中です🌟\n今回紹介するお題は、『秋に食べたいあったかいごはん』です！\n\nサムネillustra..."
-            }
-        ]
+        "videos": []
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
