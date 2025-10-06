@@ -225,14 +225,7 @@
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
         "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ",
-        "videos": [
-            {
-                "video_id": "BvhNmHghxY0",
-                "title": "UNARCHIVED KARAOKE REBROADCAST | Family Karaoke!",
-                "thumbnail": "https://i.ytimg.com/vi/BvhNmHghxY0/hqdefault.jpg?v=68e276fe&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQftOoFvoiQaT6GNOKQ6a53e7UEA",
-                "description": "∴∴🎶*┈┈┈┈┈┈┈┈┈┈┈┈┈*🎶∴∴\n\n🐦‍⬛twitter: https://twitter.com/nerissa_en\n🐦‍⬛spotify: https://open.spotify.com/artist/4uzAnzFMXarRPOBAG2lIIa\n🐦‍⬛..."
-            }
-        ]
+        "videos": []
     },
     "@NinomaeInanis": {
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
@@ -347,7 +340,14 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ymmvQ5jSXwU",
+                "title": "【CLOVERPIT】welcome to hell #kfp #キアライブ",
+                "thumbnail": "https://i.ytimg.com/vi/ymmvQ5jSXwU/hqdefault.jpg?v=68e2ed2b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBI3ilR6yqJ3533WBJNUqefUfJ2Wg",
+                "description": "Anniversary Merch on sale now!\n▼hololive production OFFICIAL SHOP\nEN: https://shop.hololivepro.com/en/products/takanashikiara_anniversary_5th\n▼Geek Jack\nEN: https://shop.geekjack.net/collection..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
@@ -371,14 +371,7 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": [
-            {
-                "video_id": "9F_EyxODoRQ",
-                "title": "めんげん",
-                "thumbnail": "https://i.ytimg.com/vi/9F_EyxODoRQ/hqdefault.jpg?v=68e3e21b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBI3K5h6DMlU26_zwbHlZO21OC5Xg",
-                "description": "https://x.com/__miname/status/1969042016332812330\n\n--------------------------------\n※ホロライブプロダクションから未成年の視聴者の方々へのお願い\n[カバー 未成年..."
-            }
-        ]
+        "videos": []
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
