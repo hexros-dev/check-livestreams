@@ -198,15 +198,7 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": [
-            {
-                "video_id": "9aqU5779-o0",
-                "title": "【Clover Pit】WHEN LIFE GIVES ME LEMONS...",
-                "date": "2025/10/07 08:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/9aqU5779-o0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmyBT6njDO6uVZnTM-kSORuvbHRg",
-                "description": "Thumbnail art: @PhdPigeon THANK YOU!\nhttps://x.com/PhdPigeon/status/1974742217156919377/photo/1\n====================\n✧Twitter: https://twitter.com/kosekibijou\n\n✧Hashtags: \n#biboo  \nAdvent:..."
-            }
-        ]
+        "videos": []
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -265,7 +257,15 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "yX_xtSKd3RI",
+                "title": "let's celebrate. #calliolive",
+                "date": "2025/10/07 08:10:00",
+                "thumbnail": "https://i.ytimg.com/vi/yX_xtSKd3RI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDs33sIZ8NfHeau_gYAWMOB5ebqfQ",
+                "description": "NOTE: this stream time will change according to the announcements incoming.\n\nMori Calliope 5th Anniversary!!\nAnniversary Merch:\n8:00PM, September 12th, PST(12:00PM, September 13th JST)\n\n▼hololive..."
+            }
+        ]
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
