@@ -276,15 +276,7 @@
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
-        "videos": [
-            {
-                "video_id": "TcRI88ijcJ4",
-                "title": "【睡眠導入朗読】蜘蛛の糸/芥川龍之介【ホロライブ/夏色まつり】",
-                "date": "2025/10/07 22:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/TcRI88ijcJ4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKVGr0Nlt5Q7ozt0CvV6b6hyrrfg",
-                "description": "...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\n\n素敵なサムネイル→あまねこ様\n@yomiya_amaneko\n\n青空文庫:https://www.aozora.gr.jp..."
-            }
-        ]
+        "videos": []
     },
     "@NekomataOkayu": {
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
@@ -468,7 +460,15 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ts4AAEYmIOM",
+                "title": "【Keep Digging】ソロで雑談しながらまったり穴掘り【 雪花ラミィ /ホロライブ】",
+                "date": "2025/10/08 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ts4AAEYmIOM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1x4AbApDkaGAvJgk-D3xbBCV_bA",
+                "description": "配信タイトル：Keep Digging / キープディギング\nストアページ：https://store.steampowered.com/app/3585800/Keep_Digging/\n\nサムネイル：雨貫さんさま\nhttps://x.com/G_new0..."
+            }
+        ]
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
@@ -486,15 +486,7 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": [
-            {
-                "video_id": "PdKL31BFb2k",
-                "title": "【MEMBER STREAM】signing more cards while mumbling",
-                "date": "2025/10/07 22:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/PdKL31BFb2k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTlv4LQvd0SdCwzL7U3ntP7zTK7A",
-                "description": "art used: \nhttps://x.com/bardanaryawan/status/1974884396215021804\n\n--------------------------\nHashtags\n📺 Livestream: #ImmerScreen \n🎨 Fanart: #Immergination\n🎻 Music: #ImmerPiece\n🤡..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
