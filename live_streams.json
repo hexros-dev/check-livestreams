@@ -46,14 +46,7 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": [
-            {
-                "video_id": "-btvjv9ty0U",
-                "title": "STREAMING before collab",
-                "thumbnail": "https://i.ytimg.com/vi/-btvjv9ty0U/hqdefault.jpg?v=68e4e250&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBp0KkPaZZRKLI8iOl8qDLZwcKbbg",
-                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nGame Title: Whisper of the House\nStore Page: https://store.steampowered.com/app/2589500/_/\n\nーーーーーーーーー\n\nSTREAM MY NEWEST..."
-            }
-        ]
+        "videos": []
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -351,14 +344,7 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": [
-            {
-                "video_id": "AbJctYl8ihc",
-                "title": "【#フブミオまんぷくグルメ】五感を研ぎ澄ませ！フブミオのてぇてぇグルメSHOW【#ヤフーショッピング】",
-                "thumbnail": "https://i.ytimg.com/vi/AbJctYl8ihc/hqdefault.jpg?v=68dbd676&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPOGKYEeK2Y2hGqvUFS_ltpehiQQ",
-                "description": "提供：Yahoo!ショッピング\n\n白上フブキと大神ミオが五感を研ぎ澄ましてグルメクイズに挑戦！お見逃しなく✨🎉\n\n▼配信で紹介した商品のご購入、..."
-            }
-        ]
+        "videos": []
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -407,7 +393,14 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "WX8JDet1K6M",
+                "title": "【ネタバレ注意】都市伝説によばれし主人公っていいよね～都市伝説解体センター～【ホロライブ/ときのそら】",
+                "thumbnail": "https://i.ytimg.com/vi/WX8JDet1K6M/hqdefault.jpg?v=68e4f163&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxnRrtQMTJU0VIXFQLtEBIhUdTug",
+                "description": "新しい物語はどんなお話かな？\nわくわくがとまらねえぞ！！\n\n配信タイトル：都市伝説解体センター\n公式サイト：https://umdc.shueisha-games.com/\n開発：..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
@@ -497,7 +490,14 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "EnQcoZzAh9s",
+                "title": "【マリカ8DX】1時間以内に1位取れなかったらマリオオデッセイクリアするまで寝ない！！！ぺこ！【ホロライブ/兎田ぺこら】",
+                "thumbnail": "https://i.ytimg.com/vi/EnQcoZzAh9s/hqdefault.jpg?v=68e4f4ce&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtDjXrnWpKzosTk7pbXUWm5uxzpg",
+                "description": "久々のマリカいくぞおおおおおおおおおおおおおおおおおおおおおおおお！！！\n\nサムネイラスト：右左見あむろおさん\n\n⋈ －－－－－－－－－－..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
