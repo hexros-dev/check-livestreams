@@ -556,15 +556,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "dOqPabTi2aY",
-                "title": "【GOBLIN CLEANUP】going to show @OuroKronii how i mop",
-                "date": "2025/10/09 04:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/dOqPabTi2aY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtUc1IAkL8ZTwjX8oDuHpmXWy3rQ",
-                "description": "thumbnail: https://x.com/YambotRkgk/status/1960322593505816755\n\nGame Title: Goblin Cleanup\nStore Page: https://store.steampowered.com/app/2748340/Goblin_Cleanup/\n\n‐‐‐‐‐‐‐‐‐‐‐..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
@@ -596,7 +588,15 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "MW3ZM5yyBcg",
+                "title": "【Unfair Flips】 Gambling with a coin that can only flip tails",
+                "date": "2025/10/09 05:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/MW3ZM5yyBcg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRmixAPFJC93lSxCBXa47WQ2lojA",
+                "description": "GAMBLING\n\n☁  Thumbnail Art  ☁\nhttps://x.com/noyuuu28/status/1975644788033724901\nThank you so much!!\n\n  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋\n\nKonbakuwa! I'm Nimi, the baku nurse VTuber..."
+            }
+        ]
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",

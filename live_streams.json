@@ -425,7 +425,14 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "dOqPabTi2aY",
+                "title": "【GOBLIN CLEANUP】going to show @OuroKronii how i mop",
+                "thumbnail": "https://i.ytimg.com/vi/dOqPabTi2aY/hqdefault.jpg?v=68e6381a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtUc1IAkL8ZTwjX8oDuHpmXWy3rQ",
+                "description": "thumbnail: https://x.com/YambotRkgk/status/1960322593505816755\n\nGame Title: Goblin Cleanup\nStore Page: https://store.steampowered.com/app/2748340/Goblin_Cleanup/\n\n‐‐‐‐‐‐‐‐‐‐‐..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
