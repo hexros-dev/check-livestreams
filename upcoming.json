@@ -3,15 +3,7 @@
         "channel_url": "https://www.youtube.com/@AZKi",
         "channel_name": "AZKi Channel",
         "avatar_url": "https://yt3.googleusercontent.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos",
-        "videos": [
-            {
-                "video_id": "YnRKTP8yY3g",
-                "title": "【biohazard HD REMASTER】完全初見！初代バイオハザードをプレイ！#2【ホロライブ / AZKi】",
-                "date": "2025/10/08 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/YnRKTP8yY3g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAIIISf3IjGq7HUszAw63LzSm_ihg",
-                "description": "バイオハザードの原点\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\nサムネイラスト：TELU 様\nhttps://x.com/TELUscarlet\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\nこの動..."
-            }
-        ]
+        "videos": []
     },
     "@AiraniIofifteen": {
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
@@ -349,13 +341,6 @@
                 "date": "2025/10/09 19:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/78YidEt8LOM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfYVtJr8-vzDYJG64b6b1LTsfrgw",
                 "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n\n🔽楽曲各..."
-            },
-            {
-                "video_id": "ihQsYGyGzP4",
-                "title": "【UNO凸待ち】ガチのマジでUNOしたい人集合【ホロライブ/大空スバル】",
-                "date": "2025/10/08 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/ihQsYGyGzP4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCiCUNEJR3E45mIjX0wEDVe4lyo6w",
-                "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n\n🔽楽曲各..."
             }
         ]
     },
@@ -439,7 +424,15 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "LZA7Jg0VfvI",
+                "title": "【Bus Flipper Simulator】古いバスを改造してキャンピングカーにして売りさばくぞ【不知火フレア/ホロライブ】",
+                "date": "2025/10/08 20:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/LZA7Jg0VfvI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBO22xL7G1b2npOTWlHBG7GGawr3g",
+                "description": "■不知火フレア 新衣装記念2025（受注販売）\nhttps://shop.hololivepro.com/products/shiranuiflare_newoutfit_2025\n※2025年9月25日(木) 22時00分 ～ 2025年10月27日(月)..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -483,7 +476,15 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "AgNKjq-70zI",
+                "title": "【おにぎり屋さんシミュレーター】おいしいおにぎりで心も幸せ【ホロライブ/ときのそら】",
+                "date": "2025/10/08 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/AgNKjq-70zI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCG3wLu5CmVoTKRa4uMUfw3BGT-Ow",
+                "description": "好きなおにぎりは梅干しです。\nみんなは何が好き？\n\n配信タイトル：おにぎり屋さんシミュレーター\nストアページ：https://store.steampowered.com/app/39151..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
@@ -513,15 +514,7 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": [
-            {
-                "video_id": "ts4AAEYmIOM",
-                "title": "【Keep Digging】ソロで雑談しながらまったり穴掘り【 雪花ラミィ /ホロライブ】",
-                "date": "2025/10/08 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/ts4AAEYmIOM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1x4AbApDkaGAvJgk-D3xbBCV_bA",
-                "description": "配信タイトル：Keep Digging / キープディギング\nストアページ：https://store.steampowered.com/app/3585800/Keep_Digging/\n\nサムネイル：雨貫さんさま\nhttps://x.com/G_new0..."
-            }
-        ]
+        "videos": []
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
@@ -608,10 +601,10 @@
         "videos": [
             {
                 "video_id": "V9haTRFyICc",
-                "title": "【メンバー限定】（同時視聴ではない）ぺこ！【ホロライブ/兎田ぺこら】",
+                "title": "【メンバー限定】カメラありでサイン書きながらだらだらとする【ホロライブ/兎田ぺこら】",
                 "date": "2025/10/08 20:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/V9haTRFyICc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDL2KgC945po3oANZuPTDP-7l1mZQ",
-                "description": "サムネイラスト：()さん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ #ぺこらいぶ..."
+                "description": "ぱ！\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ #ぺこらいぶ でツイート🎶\n\n⋈..."
             }
         ]
     },
