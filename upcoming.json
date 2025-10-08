@@ -58,13 +58,6 @@
                 "date": "2025/10/09 08:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/NrpjvBn8-84/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPAza9jji0ONN-lxD3zja1-eceMQ",
                 "description": "we wanted to play this game more but everyone stopped ⤵️⤵️ ✨️\n@holoen_raorapanthera @KureijiOllie \n\n🩵 FUWAMOCO 𝟮𝗻𝗱 𝗼𝗿𝗶𝗴𝗶𝗻𝗮𝗹 𝘀𝗼𝗻𝗴..."
-            },
-            {
-                "video_id": "YJgNHCoIz2M",
-                "title": "【SUPER MARIO GALAXY】gathering stars to light up the galaxy 🐾 【FUWAMOCO】",
-                "date": "2025/10/08 08:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/YJgNHCoIz2M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDFKLy82IVjuETa-hMR4J8HtnW7w",
-                "description": "super stars lead us to more comfy storytime ✨\nlovely illustration by @_OrangeJuice13 💕\n\n🩵 FUWAMOCO 𝟮𝗻𝗱 𝗼𝗿𝗶𝗴𝗶𝗻𝗮𝗹 𝘀𝗼𝗻𝗴 \"Lifetime Showtime\"..."
             }
         ]
     },
@@ -82,7 +75,7 @@
             {
                 "video_id": "ZU7ODvAbtRI",
                 "title": "≪Chrono Gear: Warden of Time≫ Experience Perfection.",
-                "date": "2025/10/08 08:00:00",
+                "date": "2025/10/08 08:10:00",
                 "thumbnail": "https://i.ytimg.com/vi/ZU7ODvAbtRI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTFhgV9SDI2sKXtXQYrJXHvYpiXw",
                 "description": "PLAYING KRONII GAME!!!\n\n#telebae  #hololiveenglish \n««≪ °◇◆◇° ≫ »»\nThis game is streamed and monetized with permission from holo Indie.\nSteam link：https://store.steampowered.com/a..."
             }
@@ -369,15 +362,7 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": [
-            {
-                "video_id": "Ss_Rw6nObdI",
-                "title": "【FiGGYZ x hololive EN】A Fine Addition to My Collection! Upcoming Collab Info + Drawing!? #sponsored",
-                "date": "2025/10/08 08:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Ss_Rw6nObdI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDaAN1dYBlreIDqVa3T7NRvylBLFA",
-                "description": "More information on the collaboration coming soon!\nCheck out FiGGYZ!\nhttps://figgyz.com/\nhttps://figgyz.com/pages/what-are-figgyz\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\n_________________..."
-            }
-        ]
+        "videos": []
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -464,7 +449,15 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "eY-YW4HsrfQ",
+                "title": "FMV Horror Where You're a Parasite Removing Surgeon (Dead Reset)",
+                "date": "2025/10/09 03:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/eY-YW4HsrfQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPlnoWkMSYRfKLN97-nqhSrg3hBQ",
+                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n===============..."
+            }
+        ]
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
