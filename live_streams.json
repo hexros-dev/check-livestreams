@@ -265,7 +265,14 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "lBJ_MnvIyXc",
+                "title": "【CloverPit】はぁ～～なんかスロットでバカ勝ちして気持ちよくなりてえ～～～～【尾丸ポルカ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/lBJ_MnvIyXc/hqdefault.jpg?v=68e6350b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQCq3kbzQaaDDuZELNXMjpYIpQqg",
+                "description": "命がけのスロット、はじまる―――・・・。\n\n\n配信タイトル：CloverPit\nストアページ：https://store.steampowered.com/app/3314790/CloverPit/\n\nサムネイルありがと..."
+            }
+        ]
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
@@ -308,14 +315,7 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": [
-            {
-                "video_id": "k_0MpSJdzZI",
-                "title": "【Goblin Cleanup】#つぼはち でダンジョンのお掃除！？準備！？#つぼはち【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "thumbnail": "https://i.ytimg.com/vi/k_0MpSJdzZI/hqdefault.jpg?v=68e63caf&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWNo3zcoihPv7OtISydFkNmrBDgg",
-                "description": "ダンジョンの裏側ってこと！？\n‪\n\n@TsunomakiWatame @ShishiroBotan @TodorokiHajime \n\nねえ、いっしょに向こう側の景色を見に行かない？ \nホロライブDEV_ISから..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -358,14 +358,7 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": [
-            {
-                "video_id": "i3XRRS9JEa4",
-                "title": "【FINAL FANTASY XIV】ガンブレララ狐と黄金のレガシー patch7.0　※ネタバレあり※ 【ホロライブ/白上フブキ】",
-                "thumbnail": "https://i.ytimg.com/vi/i3XRRS9JEa4/hqdefault.jpg?v=68e62bdd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCUThby9Uq0AesE0-PauXc8pG1Vbg",
-                "description": "⚠FF14内における迷惑行為等はご遠慮ください。\n━━━━━━━━━━━━━━━━━━━━━━━\n✦オリジナル楽曲『冥界Halloween Night!』\n▷配信..."
-            }
-        ]
+        "videos": []
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -383,14 +376,7 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": [
-            {
-                "video_id": "v_TPSsL3mu8",
-                "title": "【Goblin Cleanup】次の冒険者が来る前に、ダンジョンを掃除して罠を再設置だっ🧹 #つぼはち【獅白ぼたん/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/v_TPSsL3mu8/hqdefault.jpg?v=68e56c67&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCMwl2t6B3gQnzGOKl-AraW2l-nBA",
-                "description": "次の冒険者が来る前にダンジョンを掃除して罠を再配置しよう！\nなお掃除する者の安全は保障しません！（フラグ）\n@TsunomakiWatame @ShishiroBotan..."
-            }
-        ]
+        "videos": []
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
@@ -408,20 +394,20 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": [
-            {
-                "video_id": "90Z57ma6YaY",
-                "title": "【Goblin Cleanup】次の冒険者が来る前にダンジョン掃除しなきゃぁ！ #つぼはち【轟はじめ/ReGLOSS】",
-                "thumbnail": "https://i.ytimg.com/vi/90Z57ma6YaY/hqdefault.jpg?v=68e5eed0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6FiDbJgjfvmA9-FPIuUdcnf2vvg",
-                "description": "@TsunomakiWatame\n@ShishiroBotan\n@RindoChihaya\n\n配信タイトル：Goblin Cleanup\nストアページ：https://store.steampowered.com/app/2748340/Goblin_Cleanup/\n￣￣￣￣￣￣￣￣￣￣￣..."
-            }
-        ]
+        "videos": []
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "AgNKjq-70zI",
+                "title": "【おにぎり屋さんシミュレーター】おいしいおにぎりで心も幸せ【ホロライブ/ときのそら】",
+                "thumbnail": "https://i.ytimg.com/vi/AgNKjq-70zI/hqdefault.jpg?v=68e656a3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCG3wLu5CmVoTKRa4uMUfw3BGT-Ow",
+                "description": "好きなおにぎりは梅干しです。\nみんなは何が好き？\n\n配信タイトル：おにぎり屋さんシミュレーター\nストアページ：https://store.steampowered.com/app/39151..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
@@ -433,14 +419,7 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": [
-            {
-                "video_id": "rgNSlQdam9I",
-                "title": "【Goblin Cleanup】協力してダンジョンを綺麗にするぞー！！【角巻わため/ホロライブ４期生】",
-                "thumbnail": "https://i.ytimg.com/vi/rgNSlQdam9I/hqdefault.jpg?v=68e53221&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGUxvXeSqW_n2OR6o-IEgiR_WX_Q",
-                "description": "タグ：#つぼはち\n\n配信タイトル：Goblin Cleanup\nストアページ：https://store.steampowered.com/app/2748340/Goblin_Cleanup/\n\n🐏新オリジナル曲『ビリ』公開！\nMV：http..."
-            }
-        ]
+        "videos": []
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -525,7 +504,14 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "V9haTRFyICc",
+                "title": "【メンバー限定】カメラありでサイン書きながらだらだらとする【ホロライブ/兎田ぺこら】",
+                "thumbnail": "https://i.ytimg.com/vi/V9haTRFyICc/hqdefault.jpg?v=68e624e0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDL2KgC945po3oANZuPTDP-7l1mZQ",
+                "description": "ぱ！\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ #ぺこらいぶ でツイート🎶\n\n⋈..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
