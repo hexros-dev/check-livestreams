@@ -205,15 +205,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": [
-            {
-                "video_id": "2U4vIhMRA38",
-                "title": "【 おしゃべりキング！ 】マイクでコミュ力診断！！上手には、話せるもん！！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "date": "2025/10/08 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/2U4vIhMRA38/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAP74BFgLTBY9vdjVNlSCOE-iUb0w",
-                "description": "配信タイトル：おしゃべりキング！コミュ力診断ゲーム\nストアページ：https://store.steampowered.com/app/3360380/_/\n\nメンバーシップ開設しました！加入は..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -232,13 +224,6 @@
                 "date": "2025/10/12 20:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/Ar8N97BW_tw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXPprmr6XAG53dj-7cHg_e7nQBSg",
                 "description": "サムネイルにお借りしたイラスト✨\nhttps://x.com/MEReiDaSensei/status/1969991018444681704\n\n白玖ウタノ主催 歌枠リレー\nUTANO FES!! -WHITE and BLACK-\nハッシュタグ..."
-            },
-            {
-                "video_id": "Xdoyt1SsULs",
-                "title": "【歌枠】ジブリ縛り歌枠🍁【虎金妃笑虎】",
-                "date": "2025/10/08 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Xdoyt1SsULs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAk5E8QguUYurh-ivL-WR5cBIoAow",
-                "description": "サムネイルにお借りしたイラスト✨\nhttps://x.com/rglvvv/status/1958732723134374020\n\n※ホロライブプロダクションから未成年の視聴者の方々へのお願い..."
             }
         ]
     },
@@ -651,7 +636,15 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "V9haTRFyICc",
+                "title": "【メンバー限定】（同時視聴ではない）ぺこ！【ホロライブ/兎田ぺこら】",
+                "date": "2025/10/08 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/V9haTRFyICc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDL2KgC945po3oANZuPTDP-7l1mZQ",
+                "description": "サムネイラスト：()さん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ #ぺこらいぶ..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
