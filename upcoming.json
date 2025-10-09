@@ -214,6 +214,13 @@
                 "date": "2025/10/10 14:30:00",
                 "thumbnail": "https://i.ytimg.com/vi/rJ3S0uR5lwI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxwLTMLIKcaaNgj1L8va7op3gTiw",
                 "description": "本ゲームは、（株）スパイク・チュンソフトより許諾を得た上で、配信・収益化を行なっています。\nタイトル：テラリア\nTerraria ©2019 Re-Logic...."
+            },
+            {
+                "video_id": "zUqGoeVDrBQ",
+                "title": "【歌枠】デビュー11ヶ月歌っていくぞ〜！【ホロライブ DEV_IS 響咲リオナ】",
+                "date": "2025/10/09 19:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/zUqGoeVDrBQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdgNPeeR4sWFK42pm8m7MHy3ZdDw",
+                "description": "サムネイラスト　夏ノ羊さん(@ NatunoHituzi)にお借りしました！ありがとうございます！\n素敵なイラストありがとうございます♡\n\n【speical thanks】..."
             }
         ]
     },
@@ -227,15 +234,7 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w",
-        "videos": [
-            {
-                "video_id": "liSSBXo2I48",
-                "title": "【Paranormal Cleanup】wow very scaryyyyy",
-                "date": "2025/10/09 14:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/liSSBXo2I48/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3ORPrhXIrQcfzqgyRgCjasWtu7g",
-                "description": "with @ONShannon_ @PiaMeraleo-JKT48V @DaisyIgnaciaYCh\n∘₊✧──────✧₊∘∘₊✧──────✧₊∘∘₊✧──────✧₊∘∘₊✧──────✧₊∘..."
-            }
-        ]
+        "videos": []
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
@@ -390,15 +389,7 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": [
-            {
-                "video_id": "ICUCWTXu2zg",
-                "title": "【HoloCure】実績解除！～オールガチ恋への道のり～【尾丸ポルカ/ホロライブ】",
-                "date": "2025/10/09 14:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/ICUCWTXu2zg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3K8tQzIZts-a3vSHdaSlbx8Ddxw",
-                "description": "本ゲームはKay Yu様に確認の上配信・収益化を行なっております。\nhttps://kay-yu.itch.io/holocure\n\nサムネイルありがとうございます！\nhttps://x.com/choko_min_..."
-            }
-        ]
+        "videos": []
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
@@ -643,7 +634,15 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "2PDMpsW-uak",
+                "title": "【Blue Protocol: Star Resonance】Come join me on a New MMORPG Journey!!! #ad",
+                "date": "2025/10/10 09:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/2PDMpsW-uak/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyXaya282Zw6iY2KdubLK5FhR45A",
+                "description": "Blue Protocol: Star Resonance\nhttps://bpsr.onelink.me/Ijsy/b6gb1ckw\n\nWEB：https://www.playbpsr.com/\nX：@Blue Protocol: Star Resonance\n\n#BlueProtocolStarResonance #StarResonance #BPSR #sponsored..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
