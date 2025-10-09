@@ -21,7 +21,14 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "OlXoBjAhzy0",
+                "title": "【GTA5│MAD TOWN】マッドアリエス教会初ミサ始動！？白狐の顔も添えて【アキロゼ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/OlXoBjAhzy0/hqdefault.jpg?v=68e77f27&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnaHtfe9c5EuaBvla3HYNUQSPcTQ",
+                "description": "この放送はvaultroomの実施する企画の一環として、配信しております。\nRockstar Gamesの許諾を得て収益化しております。\n\nサムネイルイラスト\nささく..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -237,14 +244,7 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": [
-            {
-                "video_id": "ICUCWTXu2zg",
-                "title": "【HoloCure】実績解除！～オールガチ恋への道のり～【尾丸ポルカ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/ICUCWTXu2zg/hqdefault.jpg?v=68e75e6d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3K8tQzIZts-a3vSHdaSlbx8Ddxw",
-                "description": "本ゲームはKay Yu様に確認の上配信・収益化を行なっております。\nhttps://kay-yu.itch.io/holocure\n\nサムネイルありがとうございます！\nhttps://x.com/choko_min_..."
-            }
-        ]
+        "videos": []
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
