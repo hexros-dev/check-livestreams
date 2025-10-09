@@ -51,7 +51,14 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "NrpjvBn8-84",
+                "title": "【FAST FOOD SIMULATOR with OLLIE & RAORA】2 dogs + a cat + a zombie = culinary success 🐾 【FUWAMOCO】",
+                "thumbnail": "https://i.ytimg.com/vi/NrpjvBn8-84/hqdefault.jpg?v=68e40a89&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPAza9jji0ONN-lxD3zja1-eceMQ",
+                "description": "we wanted to play this game more but everyone stopped ⤵️⤵️ ✨️\n@holoen_raorapanthera @KureijiOllie \n\n🩵 FUWAMOCO 𝟮𝗻𝗱 𝗼𝗿𝗶𝗴𝗶𝗻𝗮𝗹 𝘀𝗼𝗻𝗴..."
+            }
+        ]
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -418,14 +425,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "dOqPabTi2aY",
-                "title": "【GOBLIN CLEANUP】going to show @OuroKronii how i mop",
-                "thumbnail": "https://i.ytimg.com/vi/dOqPabTi2aY/hqdefault.jpg?v=68e6381a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtUc1IAkL8ZTwjX8oDuHpmXWy3rQ",
-                "description": "thumbnail: https://x.com/YambotRkgk/status/1960322593505816755\n\nGame Title: Goblin Cleanup\nStore Page: https://store.steampowered.com/app/2748340/Goblin_Cleanup/\n\n‐‐‐‐‐‐‐‐‐‐‐..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
