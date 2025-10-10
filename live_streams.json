@@ -399,14 +399,7 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": [
-            {
-                "video_id": "7mHAyp7ccog",
-                "title": "Hey this is spanish with @holoen_gigimurin",
-                "thumbnail": "https://i.ytimg.com/vi/7mHAyp7ccog/hqdefault.jpg?v=68e96f71&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZm9zaWiJVeuJjUxKN8R_3aqgIsA",
-                "description": "art by: https://x.com/dorkdragoon\nhttps://x.com/KosmoKami/status/1963977779113808182\n--------------------------\nHashtags\n📺 Livestream: #ImmerScreen \n🎨 Fanart: #Immergination\n🎻 Music:..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
@@ -442,7 +435,14 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "2-heo8MsGoY",
+                "title": "【BIRTHDAY STREAM】 Nimi's Maze of Horrors #BirthdayBaku2025",
+                "thumbnail": "https://i.ytimg.com/vi/2-heo8MsGoY/hqdefault.jpg?v=68e81708&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCWwwCdIWeKZ3t3NspZB-DIn-qmA",
+                "description": "Trapping my friends in a devious TTRPG-inspired maze for my birthday!\nWITH @feebeechanchibi &  @mintfantome 💗💚\n\n☁  Thumbnail Art  ☁\nhttps://x.com/kokomiin\nThank you so much!!\n\n  ‧₊..."
+            }
+        ]
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
