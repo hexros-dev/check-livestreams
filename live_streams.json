@@ -46,7 +46,14 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "2_pINRhDcVE",
+                "title": "WATCHALONG : INSIDIOUS",
+                "thumbnail": "https://i.ytimg.com/vi/2_pINRhDcVE/hqdefault.jpg?v=68e8d738&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjCR-wWb8kQY6xqSINd5dJjpdBQw",
+                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nーーーーーーーーー\n\nーーーーーーーーー\n\nSTREAM MY NEWEST ORIGINAL SONG メトロポリス (metropolis) IN YOUR PREFERRED..."
+            }
+        ]
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -76,20 +83,20 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "Nqs4zWaf9lc",
-                "title": "【デジモンストーリー】神ゲーと超評価の新作デジモンストーリータイムストレンジャーをやってみる！！！ #1 【博衣こより/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/Nqs4zWaf9lc/hqdefault.jpg?v=68e8c446&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDSThvwC3NJDVmB1Qun7q5QrER_iA",
-                "description": "ガチで神ゲーとめっちゃ高評価らしい！！！デジモンの世界に飛び込もう！！！\n💿1stアルバム「FIRST STEP」発売中！全曲新録！成長した歌を聴い..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "jtQy1xURcuQ",
+                "title": "【 #姫森ルーナ生誕LIVE2025 】Luna RebirthDay !! 💗 BIRTHDAY 3D LIVE【ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/jtQy1xURcuQ/hqdefault.jpg?v=68e68cde&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLpbs-4i_OkR6XFJLvMMrUtz5eUA",
+                "description": "お祝いしてなのらああああい(・o・🍬)\n体調不良の中の収録で声が出てないかもしれないけど頑張ったので応援してくださいなのら！！！！..."
+            }
+        ]
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -131,14 +138,7 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": [
-            {
-                "video_id": "rJ3S0uR5lwI",
-                "title": "【PLATE UP!】多分得意なので見ててください✨【ホロライブ DEV_IS 響咲リオナ】",
-                "thumbnail": "https://i.ytimg.com/vi/rJ3S0uR5lwI/hqdefault.jpg?v=68e8b765&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxwLTMLIKcaaNgj1L8va7op3gTiw",
-                "description": "本ゲームはYogscast Games.に確認の上、配信・収益を行われています。\n\nサムネイラスト　おくに(ん)さん(@ _Okunin) ありがとうございます✨\n∴∵∴..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -156,14 +156,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": [
-            {
-                "video_id": "HTuE50u6dKY",
-                "title": "【 首都高バトル 】なにわのシンデレラいきます！※ネタバレあり【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "thumbnail": "https://i.ytimg.com/vi/HTuE50u6dKY/hqdefault.jpg?v=68e8d142&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1861MRQIPTpYf4nI0-1RuAnSU7g",
-                "description": "本ゲームは元気株式会社に確認の上、配信・収益化を行なっております。\n© Genki\n\nサムネイルの素敵なイラスト むぬーさん　https://x.com/unyog\n✧♡✧..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -277,7 +270,14 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "wsXGoFXS-Vs",
+                "title": "【#7】新機動戦記ガンダムW 同時視聴会【ホロライブ/大空スバル】",
+                "thumbnail": "https://i.ytimg.com/vi/wsXGoFXS-Vs/hqdefault.jpg?v=68e8f30b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAsH1Oe6fOUU1vHEE94ieqIdsL_8w",
+                "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n\n・本配信..."
+            }
+        ]
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -301,14 +301,7 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": [
-            {
-                "video_id": "BgFl3l25rqs",
-                "title": "【おにぎり屋さんシミュレーター】おにぎりん堂開店です【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "thumbnail": "https://i.ytimg.com/vi/BgFl3l25rqs/hqdefault.jpg?v=68e8d0db&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8vRcdtPMVAfgyHu5VwPcLcayRSA",
-                "description": "ロータリー転がしてたしもうすでにおにぎり屋さんです\n\n配信タイトル：おにぎり屋さんシミュレーター\nストアページ：https://store.steampowered.com/app/..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
