@@ -381,7 +381,15 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "BgFl3l25rqs",
+                "title": "【予定地】【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "date": "2025/10/10 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/BgFl3l25rqs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8vRcdtPMVAfgyHu5VwPcLcayRSA",
+                "description": "歌ってみた聞いてね\nhttps://youtu.be/bE9EPLSE6bY?si=Ng_O0q_6rr2kSsZE\n\nねえ、いっしょに向こう側の景色を見に行かない？ \nホロライブDEV_ISからデビューした..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
