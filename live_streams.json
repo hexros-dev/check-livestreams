@@ -289,14 +289,7 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": [
-            {
-                "video_id": "jaF5B5_D_Ek",
-                "title": "【Blue Protocol: Star Resonance】 New MMORPG? So In 🏃‍♀️ With @TakanashiKiara #sponsored",
-                "thumbnail": "https://i.ytimg.com/vi/jaF5B5_D_Ek/hqdefault.jpg?v=68e80241&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjzfDugPUHyJXggiUkoQrWk3RDLA",
-                "description": "✨ Play Blue Protocol: Star Resonance NOW ✨\nhttps://bpsr.onelink.me/Ijsy/oqsi6ujw\n\n[Twitter]\nhttps://twitter.com/ourokronii\n\n---------------------------------------------------------------------..."
-            }
-        ]
+        "videos": []
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
@@ -368,14 +361,7 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": [
-            {
-                "video_id": "q4nv8E7iutQ",
-                "title": "【Blue Protocol: Star Resonance】A New Chance To Shine!! Long Awaited MMORPG💖with @OuroKronii #ad",
-                "thumbnail": "https://i.ytimg.com/vi/q4nv8E7iutQ/hqdefault.jpg?v=68e6e76b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXDjxiQ4X-CIbf2_OWG7gWrfRUxQ",
-                "description": "Get Blue Protocol: Star Resonance with this link!✨👇\nhttps://bpsr.onelink.me/Ijsy/9d8zdbro\n\nWEB：https://www.playbpsr.com/\nX：@Blue Protocol: Star Resonance\n\n#BlueProtocolStarResonance..."
-            }
-        ]
+        "videos": []
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
@@ -441,7 +427,14 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ZlkxwA9SYxY",
+                "title": "【Blue Protocol: Star Resonance】Oh hello green haired lady with @holoen_gigimurin #sponsored",
+                "thumbnail": "https://i.ytimg.com/vi/ZlkxwA9SYxY/hqdefault.jpg?v=68e7cd7d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEqptvp9KMpFfvYS4EQ1af3akYDA",
+                "description": "Blue Protocol: Star Resonance\nhttps://bpsr.onelink.me/Ijsy/dwv8qo1w\n\nWEB：https://www.playbpsr.com/\nX：@Blue Protocol: Star Resonance\n\n#BlueProtocolStarResonance #StarResonance #BPSR #sponsored..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
@@ -453,7 +446,14 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "2PDMpsW-uak",
+                "title": "【Blue Protocol: Star Resonance】Come join me on a New MMORPG Journey!!! #ad",
+                "thumbnail": "https://i.ytimg.com/vi/2PDMpsW-uak/hqdefault.jpg?v=68e76677&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyXaya282Zw6iY2KdubLK5FhR45A",
+                "description": "Blue Protocol: Star Resonance\nhttps://bpsr.onelink.me/Ijsy/b6gb1ckw\n\nWEB：https://www.playbpsr.com/\nX：@Blue Protocol: Star Resonance\n\n#BlueProtocolStarResonance #StarResonance #BPSR #sponsored..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
@@ -477,14 +477,7 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": [
-            {
-                "video_id": "q42ucyHBSZ8",
-                "title": "youtube please",
-                "thumbnail": "https://i.ytimg.com/vi/q42ucyHBSZ8/hqdefault.jpg?v=68e83f34&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAm3XM0eJcvzgqKaHnD0E3sbL7Wgw",
-                "description": "a stream\n\n  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋\n\nKonbakuwa! I'm Nimi, the baku nurse VTuber of your nightmares~\n#VTuber #nimi\n\n☁  Socials  ☁\nhttps://x.com/niminightmare\nhttps://bsky.app/pr..."
-            }
-        ]
+        "videos": []
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",

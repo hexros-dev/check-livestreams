@@ -211,7 +211,15 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "HTuE50u6dKY",
+                "title": "【 配信予定【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "date": "2025/10/10 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/HTuE50u6dKY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1861MRQIPTpYf4nI0-1RuAnSU7g",
+                "description": "サムネイルの素敵なイラスト　pan田さん　https://x.com/Panda_0035_\n✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧♡✧\n\nhololive DEV_ISからデビューし..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -515,15 +523,7 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": [
-            {
-                "video_id": "ZlkxwA9SYxY",
-                "title": "【Blue Protocol: Star Resonance】Oh hello green haired lady with @holoen_gigimurin #sponsored",
-                "date": "2025/10/10 09:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/ZlkxwA9SYxY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEqptvp9KMpFfvYS4EQ1af3akYDA",
-                "description": "Blue Protocol: Star Resonance\nhttps://bpsr.onelink.me/Ijsy/dwv8qo1w\n\nWEB：https://www.playbpsr.com/\nX：@Blue Protocol: Star Resonance\n\n#BlueProtocolStarResonance #StarResonance #BPSR #sponsored..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
@@ -535,15 +535,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "2PDMpsW-uak",
-                "title": "【Blue Protocol: Star Resonance】Come join me on a New MMORPG Journey!!! #ad",
-                "date": "2025/10/10 09:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/2PDMpsW-uak/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyXaya282Zw6iY2KdubLK5FhR45A",
-                "description": "Blue Protocol: Star Resonance\nhttps://bpsr.onelink.me/Ijsy/b6gb1ckw\n\nWEB：https://www.playbpsr.com/\nX：@Blue Protocol: Star Resonance\n\n#BlueProtocolStarResonance #StarResonance #BPSR #sponsored..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
