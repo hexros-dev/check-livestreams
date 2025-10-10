@@ -106,7 +106,14 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "I-Y4qlXzkg0",
+                "title": "【Silent Cleaning / しずかなおそうじ】 Cleaning & Running & ANNOUNCING",
+                "thumbnail": "https://i.ytimg.com/vi/I-Y4qlXzkg0/hqdefault.jpg?v=68e8747f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6vhsy3Lxi7E16v7WUaD8fjUsqtQ",
+                "description": "OooOooooOo\n\n配信タイトル：しずかなおそうじ\nストアページ：https://store.steampowered.com/app/3833930/_/\n\n#hololiveenglish  #ホロライブ \n\nStream my NEW EP YaBAI NOW!!..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
