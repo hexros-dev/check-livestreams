@@ -278,15 +278,7 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": [
-            {
-                "video_id": "h7Bz6tvDk3A",
-                "title": "【 歌枠 】リベンジ！しっとりバラード多めでチルい夜にしてね【 桃鈴ねね / hololive 】",
-                "date": "2025/10/11 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/h7Bz6tvDk3A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_h-rfYkb9vGpNZV0IIMgIUget8g",
-                "description": "前回はただの雑談になっちゃったので・・・・・・・・・\n\n⸜♡⸝MemberShipに入ったらもっとねねを知れるﾖ\nhttps://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-z..."
-            }
-        ]
+        "videos": []
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
@@ -412,15 +404,7 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
-        "videos": [
-            {
-                "video_id": "FQfI-MGpx3E",
-                "title": "【CloverPit】夢のゲームとききまして・・・？【ホロライブ/ロボ子さん】",
-                "date": "2025/10/11 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/FQfI-MGpx3E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1r6_INAj-WidaMmH4LwNm9UVDjQ",
-                "description": "＃ホロライブ \nｘでは💬　＃ロボ子生放送　でポストしてってね\n配信タイトル：CloverPit\nストアページ：https://store.steampowered.com/app/3314790/CloverPit/..."
-            }
-        ]
+        "videos": []
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -527,7 +511,15 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "8geeG_DSK6Y",
+                "title": "【 おにぎり屋さんシミュレーター 】熱血おにぎり！らむすび亭はじめました🍙【角巻わため/ホロライブ４期生】",
+                "date": "2025/10/11 21:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/8geeG_DSK6Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFnybRv83o2SiSJGoT1uGu9Kbzwg",
+                "description": "#ドドドライブ \n\n配信タイトル：おにぎり屋さんシミュレーター\nストアページ：https://store.steampowered.com/app/3915140/_/\n\n🐏角巻わため BIGぬいぐるみ販..."
+            }
+        ]
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
