@@ -39,7 +39,22 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Yea6QsyWWA8",
+                "title": "THE HEADLINERS : MABAR",
+                "date": "2025/10/11 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Yea6QsyWWA8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDAPK379qXNpLKMtHEvA4WwVO6ZA",
+                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\n\nGame title: The Headliners\nStore page: https://store.steampowered.com/app/3059070/The_Headliners/\n\nーーーーーーーーー\n\nSTREAM..."
+            },
+            {
+                "video_id": "Yxw2Nb0ZXCw",
+                "title": "Chill before collab",
+                "date": "2025/10/11 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Yxw2Nb0ZXCw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqedEzwchLGVVXU9SAX_b04yUfEw",
+                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nGame Title: Whisper of the House\nStore Page: https://store.steampowered.com/app/2589500/_/\n\nーーーーーーーーー\n\nSTREAM MY NEWEST..."
+            }
+        ]
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -79,6 +94,13 @@
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
         "videos": [
             {
+                "video_id": "77QUt1Ih7KA",
+                "title": "【FFT】ファイナルファンタジータクティクス楽しすぎる！リマスターで完全初見プレイ✨ #4 【博衣こより/ホロライブ】※ネタバレを含みます",
+                "date": "2025/10/12 09:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/77QUt1Ih7KA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0k9n2zZ69kLbftXDSDfx59lFvAg",
+                "description": "FFT配信でやりたくて、リマスター発売を心待ちにしていました！！！ジョブシステムやっぱり楽しい！！🥳\n💿1stアルバム「FIRST STEP」発売中！全..."
+            },
+            {
                 "video_id": "Vv8nwV4uogw",
                 "title": "【デジモンストーリー】神ゲーと超高評価の新作デジモンストーリータイムストレンジャー！デジタルワールドきちゃあああ！！！ #3 【博衣こより/ホロライブ】※ネタバレを含みます",
                 "date": "2025/10/11 18:00:00",
@@ -91,15 +113,7 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": [
-            {
-                "video_id": "idpHByTWwSY",
-                "title": "【 新3D＆新髪型お披露目 】生誕祭の苦悩話なのらね(・o・🍬)【姫森ルーナ/ホロライブ】",
-                "date": "2025/10/11 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/idpHByTWwSY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjoyUup91P3o9K7hDt7I1x7L7AAg",
-                "description": "👑誕生日記念グッズ2025👑\n■販売ページURL（2025年11月10日(月)18時まで）\nhttps://shop.hololivepro.com/products/himemoriluna_birthday_2025\n🍬ふたりのルーナ♡アク..."
-            }
-        ]
+        "videos": []
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -130,13 +144,6 @@
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
         "videos": [
-            {
-                "video_id": "QH7TLDbuA2Q",
-                "title": "【FFT】FINAL FANTASY TACTICS 完全初見プレイ #3【一条莉々華/hololive DEV_IS ReGLOSS】",
-                "date": "2025/10/11 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/QH7TLDbuA2Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBul-P2zS6FLkBS31t0MCJi5F4tQw",
-                "description": "初めてのFFTに胸が高鳴る…\nティータはどうなるの…？？？？？\n\n本動画のゲームプレイ映像は、株式会社スクウェア・エニックスの許諾を受けて..."
-            },
             {
                 "video_id": "aZ4n84inFH4",
                 "title": "【 #ホロライブ甲子園2025 】秋はホロメン育成に全力だあああああ！！#10【一条莉々華/hololive DEV_IS ReGLOSS】",
@@ -415,7 +422,15 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ZOrLhQtVjGE",
+                "title": "【#ホロライブ甲子園2025】桜咲高校３年目春‼⚾新入生ガチャ、そして春甲子園へ！！！！！！【ホロライブ/さくらみこ】",
+                "date": "2025/10/11 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ZOrLhQtVjGE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJkdjibSALSgNhrTqZEbbC04H6Lg",
+                "description": "夢にときめけ明日にきらめけ、諦めない心で咲き誇れ桜咲高校！！！！！！！！！🌸\n\n⚾育成注意事項⚾\n育成期間：９月１日（月）～１０月２２..."
+            }
+        ]
     },
     "@SamekoSaba": {
         "channel_url": "https://www.youtube.com/@SamekoSaba",
@@ -617,15 +632,7 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
-        "videos": [
-            {
-                "video_id": "MvvK3RzNkXM",
-                "title": "【ごはん】炊飯器到着‼クソデカナス到着‼母襲来‼【風真いろは/ホロライブ】",
-                "date": "2025/10/11 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/MvvK3RzNkXM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBrdKCo3z0YKWZL0WYgAl2q7_QmIQ",
-                "description": "でかい炊飯器とでかいナスと(態度が)でかい母きた。\n\nびびってる父もいます。\n\n声は極力載せないですがアーカイブ場合によってメンげんです。*..."
-            }
-        ]
+        "videos": []
     },
     "@mikenekoko": {
         "channel_url": "https://www.youtube.com/@mikenekoko",
