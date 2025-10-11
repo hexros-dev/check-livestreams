@@ -39,15 +39,7 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": [
-            {
-                "video_id": "arUy5YSssc8",
-                "title": "MINECRAFT EVENT POINT GRINDING",
-                "date": "2025/10/11 13:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/arUy5YSssc8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5X48oC_j_CIHNJkhcleEtVzL5Mw",
-                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nThis game is being streamed and monetized with permission and under license.\n©SEGA\nタイトル名：『Sonic Racing: CrossWorlds』Open..."
-            }
-        ]
+        "videos": []
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -264,13 +256,6 @@
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
         "videos": [
-            {
-                "video_id": "4pJNdbBZ2hE",
-                "title": "【崩壊 : スターレイル】初めから…！新たな星へ #４【水宮枢／ホロライブDEV_IS】",
-                "date": "2025/10/11 13:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/4pJNdbBZ2hE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUJpIikX0co53a08610u-MYSBGFw",
-                "description": "▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸◂┄▹◃\n\n💙メンバーシップはこちらから ⬇️\nClick here for membership\nhttps://www.youtube.com/channel/UCjk2nKmHzgH5Xy-C5qYRd5A/j..."
-            },
             {
                 "video_id": "vKpfQxmpeXw",
                 "title": "【龍が如く0】極から0へ！完全初見…👊10章〜#5 ※ネタバレあり【水宮枢／ホロライブDEV_IS】",
@@ -558,7 +543,15 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "K0FMNGilmSI",
+                "title": "【FF4】#02 完全初見！ファイナルファンタジーIVをプレイ！～ピクセルリマスター版～【 雪花ラミィ /ホロライブ】※配信内容にネタバレあり",
+                "date": "2025/10/11 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/K0FMNGilmSI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHBiHHtNLl-uvqUePhn_PbGiVfhQ",
+                "description": "※切り抜き禁止です！\n\n本動画のゲームプレイ映像は、株式会社スクウェア・エニックスの許諾を受けて使用しています。\n© SQUARE ENIX\nLOGO ILLUSTRATION..."
+            }
+        ]
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
