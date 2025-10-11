@@ -396,15 +396,7 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": [
-            {
-                "video_id": "l-8y1fcL40M",
-                "title": "【VRC】TEST歌枠　※アーカイブ不明！！！！【白上フブキ/ホロライブ】",
-                "date": "2025/10/11 22:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/l-8y1fcL40M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAaKI-YkaZ4-eaZYxuD-84Nfk3jbQ",
-                "description": "━━━━━━━━━━━━━━━━━━━━━━━\n✦オリジナル楽曲『冥界Halloween Night!』\n▷配信：https://cover.lnk.to/N3W2d9\n▷MV：Comingsoon\n🕯️冥界..."
-            }
-        ]
+        "videos": []
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -455,7 +447,15 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "0mSmkzl57b4",
+                "title": "【Coca-Cola X Fes 2025】かなはじナビゲーター就任！！すいせい先輩を応援する！！【轟はじめ/音乃瀬奏】 #hololivedev_is",
+                "date": "2025/10/12 11:45:00",
+                "thumbnail": "https://i.ytimg.com/vi/0mSmkzl57b4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXMnOQRRugs6ykwsXxKnysph7Hrg",
+                "description": "提供：日本コカ･コーラ株式会社\nコークを飲みながら、すいせい先輩を応援するぞー！！\n@OtonoseKanade \n\n#PR #コカコーラ #CocaColaXFes2025 #夢中全開..."
+            }
+        ]
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
@@ -473,15 +473,7 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": [
-            {
-                "video_id": "8geeG_DSK6Y",
-                "title": "【 おにぎり屋さんシミュレーター 】熱血おにぎり！らむすび亭はじめました🍙【角巻わため/ホロライブ４期生】",
-                "date": "2025/10/11 21:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/8geeG_DSK6Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFnybRv83o2SiSJGoT1uGu9Kbzwg",
-                "description": "#ドドドライブ \n\n配信タイトル：おにぎり屋さんシミュレーター\nストアページ：https://store.steampowered.com/app/3915140/_/\n\n🐏角巻わため BIGぬいぐるみ販..."
-            }
-        ]
+        "videos": []
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
