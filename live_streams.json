@@ -90,27 +90,13 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "Vv8nwV4uogw",
-                "title": "【デジモンストーリー】神ゲーと超高評価の新作デジモンストーリータイムストレンジャー！デジタルワールドきちゃあああ！！！ #3 【博衣こより/ホロライブ】※ネタバレを含みます",
-                "thumbnail": "https://i.ytimg.com/vi/Vv8nwV4uogw/hqdefault.jpg?v=68e938db&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYs1HqtpSXvmPV7CmlPqVA__hbNg",
-                "description": "デジタルワールド入ったぞおおおお！！！デジモンストーリータイムストレンジャー始まったな・・・！！！\n💿1stアルバム「FIRST STEP」発売中！..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": [
-            {
-                "video_id": "idpHByTWwSY",
-                "title": "【 新3D＆新髪型お披露目 】生誕祭の苦悩話なのらね(・o・🍬)【姫森ルーナ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/idpHByTWwSY/hqdefault.jpg?v=68e9a66b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjoyUup91P3o9K7hDt7I1x7L7AAg",
-                "description": "👑誕生日記念グッズ2025👑\n■販売ページURL（2025年11月10日(月)18時まで）\nhttps://shop.hololivepro.com/products/himemoriluna_birthday_2025\n🍬ふたりのルーナ♡アク..."
-            }
-        ]
+        "videos": []
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -203,7 +189,14 @@
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
         "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/ACubs_Mw4YtmgHDIIZvW_gZaPf_VR1wg9yffFLsq4Lrw-W7Md-0pK4Gob8OJebCYCmgrArsE",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "l5LjH93Jn74",
+                "title": "【土曜の晩酌】一口だけ、一口だけだから、ね？【虎金妃笑虎】",
+                "thumbnail": "https://i.ytimg.com/vi/l5LjH93Jn74/hqdefault.jpg?v=68e8fc93&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFrTzrxuLfiTeVrdE8lB9nijRIkQ",
+                "description": "サムネイルにお借りしたイラスト✨\nhttps://x.com/tomi23500706/status/1957359852000538918\n\n※ホロライブプロダクションから未成年の視聴者の方々へのお願い..."
+            }
+        ]
     },
     "@KosekiBijou": {
         "channel_url": "https://www.youtube.com/@KosekiBijou",
@@ -580,13 +573,6 @@
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": [
-            {
-                "video_id": "o7aKk5SOrXQ",
-                "title": "宇宙一萌え声配信☆さくたん・ざ・すとりーむっ！#結城さくな生放送",
-                "thumbnail": "https://i.ytimg.com/vi/o7aKk5SOrXQ/hqdefault.jpg?v=68ea1641&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxLJZAQyGowE2LKSbkaNiIJNAMaw",
-                "description": "🎀グッズ・ボイス販売はこちら🐾\nhttps://yuki-sakuna.stores.jp/\n\n🎀歌ってみた動画🐾\nhttps://youtube.com/playlist?list=PLErsMirGq93vRw-CcRaaZfR4QVxl2uBsb&si=BRmEr8erE6aR-UJ..."
-            }
-        ]
+        "videos": []
     }
 }
