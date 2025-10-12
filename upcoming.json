@@ -103,13 +103,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
         "videos": [
             {
-                "video_id": "77QUt1Ih7KA",
-                "title": "【FFT】ファイナルファンタジータクティクス楽しすぎる！リマスターで完全初見プレイ✨ #4 【博衣こより/ホロライブ】※ネタバレを含みます",
-                "date": "2025/10/12 09:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/77QUt1Ih7KA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0k9n2zZ69kLbftXDSDfx59lFvAg",
-                "description": "FFT配信でやりたくて、リマスター発売を心待ちにしていました！！！ジョブシステムやっぱり楽しい！！🥳\n💿1stアルバム「FIRST STEP」発売中！全..."
-            },
-            {
                 "video_id": "D7PD2G_aW2E",
                 "title": "【 #ホロライブ甲子園2025 】こんこよ高校2年目春の甲子園！えっ優勝してないのウチだけ！？初戦Aだが！？勝つぞ！✊🔥【博衣こより/ホロライブ】",
                 "date": "2025/10/12 17:00:00",
@@ -543,7 +536,15 @@
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
         "channel_name": "Choco Ch. 癒月ちょこ",
         "avatar_url": "https://yt3.googleusercontent.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "gv_-_jFdJ80",
+                "title": "【ちょこっとクッキング】かなあずとちょこっとクッキング📣 【ホロライブ/癒月ちょこ/天音かなた/AZKi】",
+                "date": "2025/10/12 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/gv_-_jFdJ80/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfxeVds4IZfB5K2r_ypHAnL_v1ZQ",
+                "description": "サブ垢→https://www.youtube.com/channel/UCp3tgHXw_HI0QMk1K8qh3g\n\n天音かなた@AmaneKanata \nAZKi@AZKi \n\nOP＆ED動画：松賀りお。様@rio_matsuka\nしょこらデザイン＆イラスト..."
+            }
+        ]
     },
     "@dooby3d": {
         "channel_url": "https://www.youtube.com/@dooby3d",
@@ -581,15 +582,7 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": [
-            {
-                "video_id": "Ctsd2St9WhU",
-                "title": "【LITTLE NIGHTMARE III】Gigi Screamed Before The Title Screen【SPOILERS】",
-                "date": "2025/10/12 09:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Ctsd2St9WhU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFf8s53ojvohJBuZmgScerpKwp7A",
-                "description": "╭─⋆｡ﾟ♡ RAO ♡｡ﾟ⋆─╮\n\nWITH @holoen_gigimurin \n\n\n『 X  』  \nhttps://x.com/raorapanthera  \n\n『 Hashtags 』  \n╰┈✧ Live ➤ #CiaoRaora  \n╰┈✧ Fanarts ➤ #RaorArt..."
-            }
-        ]
+        "videos": []
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
