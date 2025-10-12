@@ -55,15 +55,7 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": [
-            {
-                "video_id": "jgZrFlY1nzI",
-                "title": "yapping",
-                "date": "2025/10/12 14:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/jgZrFlY1nzI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-V0lCRPAk_ykOQNvx_O_1c7fvPw",
-                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nGame Title: Whisper of the House\nStore Page: https://store.steampowered.com/app/2589500/_/\n\nーーーーーーーーー\n\nSTREAM MY NEWEST..."
-            }
-        ]
+        "videos": []
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -157,7 +149,15 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "_JG2qIIDj0Q",
+                "title": "【PLATE UP!】サラダ クリアするぞ！！【ホロライブ DEV_IS 響咲リオナ】",
+                "date": "2025/10/12 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/_JG2qIIDj0Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzJGMW7AnR3DR6Xuh9jOhCx7bksg",
+                "description": "本ゲームはYogscast Games.に確認の上、配信・収益を行われています。\n\nサムネイラスト　おくに(ん)さん(@ _Okunin) ありがとうございます✨\n∴∵∴..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -444,13 +444,6 @@
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
         "videos": [
-            {
-                "video_id": "9DxE7980fnM",
-                "title": "【 龍が如く0 】かなしみを超えていく。：Yakuza 0【鷹嶺ルイ/ホロライブ】※ネタバレあり",
-                "date": "2025/10/12 14:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/9DxE7980fnM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfH68vtaXQHrLyZ6796hlrUeG_1A",
-                "description": "えーんえーん\n\nこの動画およびライブは、コンテンツ利用許諾契約に基づいて配信しています。\n©SEGA\n\n※タイトルの『※ネタバレあり』とは、【ゲ..."
-            },
             {
                 "video_id": "IuQMDZRyVX8",
                 "title": "【 同時視聴 】アニメ映像あり！『コードギアス 反逆のルルーシュ』第13～18話【鷹嶺ルイ/ホロライブ】",
