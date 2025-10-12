@@ -387,7 +387,14 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "fdPjZ1iA2tw",
+                "title": "【メン限】喋ろ～！【轟はじめ/ReGLOSS】",
+                "thumbnail": "https://i.ytimg.com/vi/fdPjZ1iA2tw/hqdefault.jpg?v=68eb4bfc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAO20_GkDZ_fqkcmTH0JLdCSPelTQ",
+                "description": "素敵なサムネお写真：くるん様（@kurun_p）\n\n\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n✨オリジナル曲宣伝✨\n⚡【Original】ちゃちゃもにゃ/轟はじ..."
+            }
+        ]
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
@@ -459,14 +466,7 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": [
-            {
-                "video_id": "Ctsd2St9WhU",
-                "title": "【LITTLE NIGHTMARE III】Gigi Screamed Before The Title Screen【SPOILERS】",
-                "thumbnail": "https://i.ytimg.com/vi/Ctsd2St9WhU/hqdefault.jpg?v=68ea6eaf&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFf8s53ojvohJBuZmgScerpKwp7A",
-                "description": "╭─⋆｡ﾟ♡ RAO ♡｡ﾟ⋆─╮\n\nWITH @holoen_gigimurin \n\n\n『 X  』  \nhttps://x.com/raorapanthera  \n\n『 Hashtags 』  \n╰┈✧ Live ➤ #CiaoRaora  \n╰┈✧ Fanarts ➤ #RaorArt..."
-            }
-        ]
+        "videos": []
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
