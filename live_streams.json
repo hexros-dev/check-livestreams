@@ -63,14 +63,7 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": [
-            {
-                "video_id": "YHM6cwSNQl8",
-                "title": "≪Clubhouse Games: 51 Worldwide Classics≫ Rat VS Clock",
-                "thumbnail": "https://i.ytimg.com/vi/YHM6cwSNQl8/hqdefault.jpg?v=68ea537f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjsZ2XHv0EPAs-cCZDBCDxqWPHvQ",
-                "description": "LISTEN TO OUR NEW COVER!! \nhttps://www.youtube.com/watch?v=aGeC-2_lsRs\nw/ @OuroKronii \n\nThumbnail Art: https://x.com/sanni44322/status/1872090907128000614\n\n#telebae  #hololiveenglish \n««≪..."
-            }
-        ]
+        "videos": []
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -380,7 +373,14 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "0mSmkzl57b4",
+                "title": "【Coca-Cola X Fes 2025】かなはじナビゲーター就任！！すいせい先輩を応援する！！【轟はじめ/音乃瀬奏】 #hololivedev_is",
+                "thumbnail": "https://i.ytimg.com/vi/0mSmkzl57b4/hqdefault.jpg?v=68ea7338&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXMnOQRRugs6ykwsXxKnysph7Hrg",
+                "description": "提供：日本コカ･コーラ株式会社\nコークを飲みながら、すいせい先輩を応援するぞー！！\n@OtonoseKanade \n\n#PR #コカコーラ #CocaColaXFes2025 #夢中全開..."
+            }
+        ]
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
