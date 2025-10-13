@@ -151,21 +151,21 @@
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": [
-            {
-                "video_id": "kY4tmNuFA5o",
-                "title": "【案件】みんなで『ソニックレーシング クロスワールド』遊ぶ！！！【戌神ころね/白上フブキ/大空スバル/大神ミオ】",
-                "date": "2025/10/13 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/kY4tmNuFA5o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9f4yo2sNlgsoT-SlBZltPx_OpSg",
-                "description": "提供：『ソニックレーシング クロスワールド』（株式会社セガ）\n\n■『ソニックレーシング クロスワールド』 9月25日発売\nセガレースゲームチー..."
-            }
-        ]
+        "videos": []
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "-v-H-ZgqHoc",
+                "title": "【PLATE UP!】すいせい師匠降臨ッ！！ビシバシ指導してくださいッ♡【ホロライブ / 星街すいせい】【ホロライブ DEV_IS 響咲リオナ】@HoshimachiSuisei",
+                "date": "2025/10/13 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/-v-H-ZgqHoc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB80xeiTQmXW52FSCHifhfVOENZGg",
+                "description": "本ゲームはYogscast Games.に確認の上、配信・収益を行われています。\n\nサムネイラスト　ややさん(@ Pi63925174) ありがとうございます✨\n∴∵∴ ୨୧..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -315,29 +315,13 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": [
-            {
-                "video_id": "_hgWJSO_odU",
-                "title": "【 ソニックレーシング 】４人でコラボ対決！！！色んなコースでハチャメチャバトル！【大神ミオ視点】",
-                "date": "2025/10/13 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/_hgWJSO_odU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRBT6qzruhHWgUIhkP2g0Cp_2bHQ",
-                "description": "白上フブキ🌽 \n大空スバル 🚑 \n戌神ころね 🥐 \n大神ミオ 🌲 ※チャンネル主\n\n提供：『ソニックレーシング クロスワールド』（株式会社セガ）..."
-            }
-        ]
+        "videos": []
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": [
-            {
-                "video_id": "eKuoCejmMyA",
-                "title": "【ソニックレーシング クロスワールド】オールスターレースゲームで4人で大バトルしゅばああああああああ！！！！【大空スバル視点】",
-                "date": "2025/10/13 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/eKuoCejmMyA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdBxdr49Cn1GmZjXSXgGvBriSNAA",
-                "description": "提供：『ソニックレーシング クロスワールド』（株式会社セガ）\n\n■『ソニックレーシング クロスワールド』 9月25日発売\nセガレースゲームチー..."
-            }
-        ]
+        "videos": []
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -413,15 +397,7 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": [
-            {
-                "video_id": "qKiJai2jAQk",
-                "title": "【ソニックレーシングCW】　みんなで駆け抜けるソニックレーシング クロスワールド!!!!【白上フブキ/ホロライブ】",
-                "date": "2025/10/13 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/qKiJai2jAQk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgnXJSbdhuEC3j4YWdS3lwkRp-KQ",
-                "description": "大神ミオ @OokamiMio  戌神ころね @InugamiKorone  大空スバル @OozoraSubaru \n\n提供：『ソニックレーシング クロスワールド』（株式会社セガ）\n\n■『ソニック..."
-            }
-        ]
+        "videos": []
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -517,7 +493,15 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "kKbs0KufdaI",
+                "title": "【メンバー限定】今月はじめてのメンバー限定配信！お話しよ！【雪花ラミィ /ホロライブ】",
+                "date": "2025/10/13 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/kKbs0KufdaI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD06GOwD1I2GVMNGNLM28SstlUIGA",
+                "description": "※21時になったらメンバー限定配信に切り替わります\n　At21:00 p.m., the distribution will switch to members-only distribution.\n　メン限で話した内容は内緒でお願..."
+            }
+        ]
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
@@ -585,15 +569,7 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": [
-            {
-                "video_id": "oDz8xl8wR-I",
-                "title": "【Minecraft】死んだらおわり！ハードコアソロでエンドラを討伐する！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
-                "date": "2025/10/13 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/oDz8xl8wR-I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCyyVGqk2m2kyafDrBDhIOkasvfw",
-                "description": "わたくしハードコアソロでエンドラ討伐したことありませんでした。\n\nサムネイラスト：\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",

@@ -51,14 +51,7 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": [
-            {
-                "video_id": "cfEbnwJX7qE",
-                "title": "【TCG CARD SHOP SIMULATOR】新店３日目✨️ゴッドパック☆KOI☆恋!！god packs for good demon dogs 🐾【FUWAMOCO】",
-                "thumbnail": "https://i.ytimg.com/vi/cfEbnwJX7qE/hqdefault.jpg?v=68e7378e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwS1Dzq5MEdEjCcupb6ym3b40ChQ",
-                "description": "more card game more card game more card game ✨️\nlovely illustration by @Kukie_nyan 💕\n\n🩵 FUWAMOCO 𝟮𝗻𝗱 𝗼𝗿𝗶𝗴𝗶𝗻𝗮𝗹 𝘀𝗼𝗻𝗴 \"Lifetime Showtime\"..."
-            }
-        ]
+        "videos": []
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -126,20 +119,20 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
-        "videos": [
-            {
-                "video_id": "hMyZUloT6r4",
-                "title": "【 #ホロライブ甲子園2025 】春の甲子園、初出場！！打て打て打て～！！#11【一条莉々華/hololive DEV_IS ReGLOSS】",
-                "thumbnail": "https://i.ytimg.com/vi/hMyZUloT6r4/hqdefault.jpg?v=68ebc2ed&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbna6xemWvint7ZqsTK5dOkmnrww",
-                "description": "#ホロライブ甲子園2025 …今年も夏が始まる―――！！\n\nこより先輩の企画説明配信はこちら\nhttps://www.youtube.com/watch?v=jGRE-J7kSOY\n\n本ゲームは株式会社..."
-            }
-        ]
+        "videos": []
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "kY4tmNuFA5o",
+                "title": "【案件】みんなで『ソニックレーシング クロスワールド』遊ぶ！！！【戌神ころね/白上フブキ/大空スバル/大神ミオ】",
+                "thumbnail": "https://i.ytimg.com/vi/kY4tmNuFA5o/hqdefault.jpg?v=68ec7629&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9f4yo2sNlgsoT-SlBZltPx_OpSg",
+                "description": "提供：『ソニックレーシング クロスワールド』（株式会社セガ）\n\n■『ソニックレーシング クロスワールド』 9月25日発売\nセガレースゲームチー..."
+            }
+        ]
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
@@ -271,13 +264,27 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "_hgWJSO_odU",
+                "title": "【 ソニックレーシング 】４人でコラボ対決！！！色んなコースでハチャメチャバトル！【大神ミオ視点】",
+                "thumbnail": "https://i.ytimg.com/vi/_hgWJSO_odU/hqdefault.jpg?v=68e61f61&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRBT6qzruhHWgUIhkP2g0Cp_2bHQ",
+                "description": "白上フブキ🌽 \n大空スバル 🚑 \n戌神ころね 🥐 \n大神ミオ 🌲 ※チャンネル主\n\n提供：『ソニックレーシング クロスワールド』（株式会社セガ）..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "eKuoCejmMyA",
+                "title": "【ソニックレーシング クロスワールド】オールスターレースゲームで4人で大バトルしゅばああああああああ！！！！【大空スバル視点】",
+                "thumbnail": "https://i.ytimg.com/vi/eKuoCejmMyA/hqdefault.jpg?v=68ec82ab&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdBxdr49Cn1GmZjXSXgGvBriSNAA",
+                "description": "提供：『ソニックレーシング クロスワールド』（株式会社セガ）\n\n■『ソニックレーシング クロスワールド』 9月25日発売\nセガレースゲームチー..."
+            }
+        ]
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -337,7 +344,14 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "qKiJai2jAQk",
+                "title": "【ソニックレーシングCW】　みんなで駆け抜けるソニックレーシング クロスワールド!!!!【白上フブキ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/qKiJai2jAQk/hqdefault.jpg?v=68ec8496&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgnXJSbdhuEC3j4YWdS3lwkRp-KQ",
+                "description": "大神ミオ @OokamiMio  戌神ころね @InugamiKorone  大空スバル @OozoraSubaru \n\n提供：『ソニックレーシング クロスワールド』（株式会社セガ）\n\n■『ソニック..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -483,7 +497,14 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "oDz8xl8wR-I",
+                "title": "【Minecraft】死んだらおわり！ハードコアソロでエンドラを討伐する！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
+                "thumbnail": "https://i.ytimg.com/vi/oDz8xl8wR-I/hqdefault.jpg?v=68ecd0e5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCyyVGqk2m2kyafDrBDhIOkasvfw",
+                "description": "わたくしハードコアソロでエンドラ討伐したことありませんでした。\n\nサムネイラスト：\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
