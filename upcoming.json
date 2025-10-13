@@ -172,6 +172,12 @@
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
         "videos": []
     },
+    "@KaelaKovalskia": {
+        "channel_url": "https://www.youtube.com/@KaelaKovalskia",
+        "channel_name": "Kaela Kovalskia Ch. hololive-ID",
+        "avatar_url": "https://yt3.googleusercontent.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w",
+        "videos": []
+    },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -315,7 +321,15 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "_hgWJSO_odU",
+                "title": "【 ソニックレーシング 】４人でコラボ対決！！！色んなコースでハチャメチャバトル！【大神ミオ視点】",
+                "date": "2025/10/13 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/_hgWJSO_odU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRBT6qzruhHWgUIhkP2g0Cp_2bHQ",
+                "description": "白上フブキ🌽 \n大空スバル 🚑 \n戌神ころね 🥐 \n大神ミオ 🌲 ※チャンネル主\n\n提供：『ソニックレーシング クロスワールド』（株式会社セガ）..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -408,13 +422,6 @@
                 "date": "2025/10/13 20:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/Fb_HZtzAWgY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDA1wWkHCHjBTe--X_6X6WKvqYYqQ",
                 "description": "何やら途中からメンバー限定にできるみたいなので実験してみます！\n※この枠のスパチャは配信後に裏で拝見させて頂きます！ありがとう🌸..."
-            },
-            {
-                "video_id": "mCyc-KEQVVk",
-                "title": "【朝活雑談】10月最初の配信！コロナから復活～！！！ただいま！【白銀ノエル/ホロライブ】",
-                "date": "2025/10/13 08:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/mCyc-KEQVVk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfWZCPmSSg_IDd2I4S7kNcNaVtpA",
-                "description": "🌙新曲「トレビアンナイト」MV公開中🌙\nhttps://youtu.be/p9NBMIUOGM0?feature=shared\n\n💙白銀ノエル6周年＆新衣装グッズ！期間限定販売中💙\nhttps://shop.hololiv..."
             }
         ]
     },
