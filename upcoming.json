@@ -29,7 +29,15 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "mB9kZtSrFyc",
+                "title": "『今まで惚れた異性の特徴 💕』 アキちょこナイトパレット第9回 ～ホロライブ深夜ラジオ～",
+                "date": "2025/10/13 21:40:00",
+                "thumbnail": "https://i.ytimg.com/vi/mB9kZtSrFyc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQvZSh1T5jRfqrsLwwBbovYGrEZA",
+                "description": "#アキちょこナイパレ でやってほしいコーナー大募集中！\nXでタグをつけてポストしてね！\n前週→ \n次週→\n\nwith ちょこ先@YuzukiChoco \n毎週月曜 23:40~24:..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -422,15 +430,7 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": [
-            {
-                "video_id": "wAQZSTjvN4E",
-                "title": "【雑談】行動力があがってきた気がする【ホロライブ/ときのそら】",
-                "date": "2025/10/13 21:15:00",
-                "thumbnail": "https://i.ytimg.com/vi/wAQZSTjvN4E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCz8qM5AZqDDdy32J4n5VV2tKx4Ug",
-                "description": "突発です！！\n\n～サムネイラスト～\nDS様\nhttps://x.com/ds_ndsl\n\n★★★★★★★★★★★★★★★★★★★★★★\n\n2026年1月10日(土) 東京国際フォーラムホ..."
-            }
-        ]
+        "videos": []
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
