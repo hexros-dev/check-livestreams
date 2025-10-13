@@ -69,14 +69,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "RSrQHUmGW_M",
-                "title": "【 #朝こよ 】にゃんこよ回目だ！火曜日の朝は朝こよ～～～！☀ #254 【博衣こより/hololive】",
-                "thumbnail": "https://i.ytimg.com/vi/RSrQHUmGW_M/hqdefault.jpg?v=68eb70da&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASTP0moXgstOXsmzvrLVyrV-Oabg",
-                "description": "💿1stアルバム「FIRST STEP」発売中！全曲新録！成長した歌を聴いてね🎶\n　https://cover.lnk.to/SdOKbq\n\n#朝こよ を観れば日本ニキも海外ニキもホロライブ..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -160,7 +153,14 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "zXCWgnBgZaQ",
+                "title": "【MEGABONK】BIBONK",
+                "thumbnail": "https://i.ytimg.com/vi/zXCWgnBgZaQ/hqdefault.jpg?v=68ed1c38&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCaHn2OlnCujIzQKD5ERuw94gQebQ",
+                "description": "Thumbnail art by: @PhdPigeon THANK YOU\nhttps://x.com/PhdPigeon/status/1970735129422348499/photo/1\n====================\n✧Twitter: https://twitter.com/kosekibijou\n\n✧Hashtags: \n#biboo  \nAdvent:..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
