@@ -435,7 +435,15 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "dQh-jZwiPjY",
+                "title": "【RATATAN】ローグライクなリズムゲー！ラタタンで遊んでみる【不知火フレア/ホロライブ】",
+                "date": "2025/10/13 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/dQh-jZwiPjY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDR4NX2OJsMO5kyB8cg8fuMtbSkcw",
+                "description": "■不知火フレア 新衣装記念2025（受注販売）\nhttps://shop.hololivepro.com/products/shiranuiflare_newoutfit_2025\n※2025年9月25日(木) 22時00分 ～ 2025年10月27日(月)..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
