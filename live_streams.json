@@ -69,14 +69,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "pgWyVMaJKKU",
-                "title": "【デジモンストーリー】神ゲーと超高評価の新作デジモンストーリータイムストレンジャー！12神を集めろ！？ #5 【博衣こより/ホロライブ】※ネタバレを含みます",
-                "thumbnail": "https://i.ytimg.com/vi/pgWyVMaJKKU/hqdefault.jpg?v=68ed02af&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJXZowKPRvvANEPUZXrUQW_gl4_w",
-                "description": "ガチで神ゲーとめっちゃ高評価らしい！！！デジモンの世界に飛び込もう！！！\n💿1stアルバム「FIRST STEP」発売中！全曲新録！成長した歌を聴い..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -432,7 +425,14 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "WXqlXCYY_2A",
+                "title": "【SC KETCHUP】lets address the elephant in the room",
+                "thumbnail": "https://i.ytimg.com/vi/WXqlXCYY_2A/hqdefault.jpg?v=68ee12e7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUOu-CTt4S21C36EoLdXditdqU1w",
+                "description": "yea\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n【Debut..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
