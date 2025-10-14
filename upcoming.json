@@ -131,21 +131,21 @@
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "7UAlYSjJ6_s",
+                "title": "【 #ホロライブ甲子園2025】3年目夏！！負けたら即終了のオワタ式夏大会1回戦／(^o^)＼【ホロライブ/宝鐘マリン】",
+                "date": "2025/10/14 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/7UAlYSjJ6_s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsECNhTqbyA4g4GMlB_amge4t-vg",
+                "description": "本ゲームは株式会社コナミデジタルエンタテインメントの動画投稿ガイドラインに則り配信・収益化を行っております\n©Konami Digital Entertainment..."
+            }
+        ]
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": [
-            {
-                "video_id": "kK8zLy0DZk4",
-                "title": "【Sonic Racing: Crossworlds】 My First Sonic Game",
-                "date": "2025/10/14 10:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/kK8zLy0DZk4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJFlrucJW2J-DKGyJ_GFa0tAHJ0w",
-                "description": "I can't wait to use certain characters\n\nThis game is being streamed and monetized with permission and under license.\n©SEGA\nタイトル名：『Sonic Racing: CrossWorlds』Open Network Test..."
-            }
-        ]
+        "videos": []
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
