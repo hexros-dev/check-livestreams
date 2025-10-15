@@ -46,14 +46,7 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": [
-            {
-                "video_id": "Fdk_2asF8T0",
-                "title": "KESTIS CAL",
-                "thumbnail": "https://i.ytimg.com/vi/Fdk_2asF8T0/hqdefault.jpg?v=68ef3bf8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkFYxzSkd7_h8cbK8igTUH8IiMLw",
-                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nGame title：STAR WARS Jedi: Fallen Order™\nStore page：https://store.steampowered.com/app/1172380/STAR_WARS/\n\nーーーーーーーーー..."
-            }
-        ]
+        "videos": []
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -198,7 +191,14 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "0c3iaWbpdsY",
+                "title": "【 Minecraft 】アプデきた！！！！どんな要素なのか見に行くぞ～教えてね！【 桃鈴ねね / hololive 】",
+                "thumbnail": "https://i.ytimg.com/vi/0c3iaWbpdsY/hqdefault.jpg?v=68ef5b12&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvfay3bVDmhh9_vrAwCvTiXX9fxg",
+                "description": "おしえてみんな・・・・・・・・・・・・・・・・・・\n⸜♡⸝MemberShipに入ったらもっとねねを知れるﾖ\nhttps://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA..."
+            }
+        ]
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
