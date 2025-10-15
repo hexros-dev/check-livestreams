@@ -158,14 +158,7 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": [
-            {
-                "video_id": "xHAPmf2Aqo0",
-                "title": "【雑談】ちょこっとお喋り今日はきのこの日らしいです【儒烏風亭らでん #ReGLOSS 】",
-                "thumbnail": "https://i.ytimg.com/vi/xHAPmf2Aqo0/hqdefault.jpg?v=68efa63e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBgjtrPuFCHZ_QrF1GIeTswCKTqKw",
-                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\n\n▼儒烏風亭らでんソロ曲「落噺」楽曲配信（..."
-            }
-        ]
+        "videos": []
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -403,7 +396,14 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "utBQj1KqzOY",
+                "title": "【THE WITCHER 3】redhead meets redhead #kfp #キアライブ",
+                "thumbnail": "https://i.ytimg.com/vi/utBQj1KqzOY/hqdefault.jpg?v=68eebf88&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUfFvoLre4OtuutcQCc-jDsnAq-A",
+                "description": "Takanashi Kiara『TASTY』\nhttps://cover.lnk.to/al3Zjt\n\n🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara\n\n 🏵️[Hashtags] 🏵️\n#kfp #キアライブ#hololiveenglish #holomyth..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
