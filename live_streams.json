@@ -69,14 +69,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "gT2cHzw-K6I",
-                "title": "【ポケモンZA】ポケモン新作きちゃあああああああああ！！！！！！！！✨✨✨ #1 【博衣こより/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/gT2cHzw-K6I/hqdefault.jpg?v=68ef7e38&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3dzeL65kxNiHCZH2sOhkcC3EROA",
-                "description": "楽しみにしてた！！！！！🥳やるぞやるぞやるぞーーーーーーーー！！！！！！！！！！！\n💿1stアルバム「FIRST STEP」発売中！全曲新録！成長し..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -426,13 +419,27 @@
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "bNoVsoLRaYg",
+                "title": "【VRCHAT】 Taking @holoen_gigimurin out on a virtual stroll  ~! 💄👧",
+                "thumbnail": "https://i.ytimg.com/vi/bNoVsoLRaYg/hqdefault.jpg?v=68f0ecfc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkw6B7XUVbPa3Uszwm6NhvpiQTiw",
+                "description": "HOT PURSUIT! \n* With Gigi Murin \n* VRChat is being streamed and monetized after confirming with VRChat Inc. \n* Thumbnail Chibi Art: https://x.com/rikolyco_pene \n▬▬ι════════ﺤ..."
+            }
+        ]
     },
     "@holoen_gigimurin": {
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "SQu1s96aGf0",
+                "title": "【VRCHAT】 LIZ SAID ITD BE REALLYYYYYY AWESOME TO HAVE MY POV",
+                "thumbnail": "https://i.ytimg.com/vi/SQu1s96aGf0/hqdefault.jpg?v=1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPrUyokXIbqlrnUITB6XonjPbJTg",
+                "description": "@holoen_erbloodflame \nVRChat is being streamed and monetized after confirming with VRChat Inc. \n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐  ⸜(｡˃ ᵕ ˂ )⸝♡ credits (˶ˆᗜˆ˵)..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
