@@ -99,7 +99,14 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "kuHu_QbqPME",
+                "title": "【3D KARAOKE / 3D歌枠】New Song Pre-Release Karaoke in 3D BOOTH!!",
+                "thumbnail": "https://i.ytimg.com/vi/kuHu_QbqPME/hqdefault.jpg?v=68efa863&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8hS0Hm7yWPjbPcIIv0CW9GBk0pQ",
+                "description": "We in self booth 3d singing some songs! :D #hololiveenglish  #ホロライブ \nNEW SONG RELEASING RIGHT AFTER THIS HERE: https://www.youtube.com/watch?v=i2sw2i6_XDk\n\nStream my newest EP YaBAI..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -111,14 +118,7 @@
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": [
-            {
-                "video_id": "cIU9vmiDewQ",
-                "title": "【ポケモンZA㊗発売】Pokémon LEGENDS Z-A遊ぶぞおおおおおおおおおお！！！！【戌神ころね】",
-                "thumbnail": "https://i.ytimg.com/vi/cIU9vmiDewQ/hqdefault.jpg?v=68ef4822&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDy2QsDVgeIdCL2_bHe2XF5o_AP8Q",
-                "description": "Play Game : Pokémon LEGENDS Z-A ( switch2 )\nタグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nころねTwitter▶https://twitter.com..."
-            }
-        ]
+        "videos": []
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
