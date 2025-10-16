@@ -417,15 +417,7 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
-        "videos": [
-            {
-                "video_id": "cQ2bMIYluVo",
-                "title": "【朝活 】MGMG　EAT　TIMEEE　朝起きて㋒？【ホロライブ/ ロボ子さん】",
-                "date": "2025/10/17 05:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/cQ2bMIYluVo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCq3EjRViP1T16FtKMCvlF5GG8HRA",
-                "description": "＃ホロライブ　#hololive 　\nｘでは💬  #ロボ子生放送　でポストしてってね✨\n\nボクの初期ボイスがでたよ！？\nhttps://shop.hololivepro.com/products/robocosan_he..."
-            }
-        ]
+        "videos": []
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -495,15 +487,7 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": [
-            {
-                "video_id": "F4tbu49ozaQ",
-                "title": "【SHADOWVERSE: WORLDS BEYOND】the past is catching up to me... SOLO PRACTICE TIME! #ad #umamusume",
-                "date": "2025/10/17 06:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/F4tbu49ozaQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBpKzBMM8IDBOcb4Jfy4kGC6O2w1g",
-                "description": "#sponsored \n\nThis stream is sponsored by Cygames USA\nhttps://shadowverse-wb.com/en/\nOfficial X (Twitter) account: @shadowversegame\n#ShadowverseWB #umamusume \n\nTakanashi Kiara『TASTY』\nhttps://cov..."
-            }
-        ]
+        "videos": []
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
@@ -658,7 +642,15 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "p45CAqujoCk",
+                "title": "【配信予定】ぺこ！【ホロライブ/兎田ぺこら】",
+                "date": "2025/10/17 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/p45CAqujoCk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3B7bR7hOiP1OZmsW2ZTvtcr7_MA",
+                "description": "サムネイラスト：()さん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ #ぺこらいぶ..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
