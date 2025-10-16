@@ -137,7 +137,15 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "uzzP81dWQOU",
+                "title": "【Asphalt 9: Legends】Descended into a Race Game #sponsored",
+                "date": "2025/10/17 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/uzzP81dWQOU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAOoVVrcYHjIcM5wyomR_QmKwwsBQ",
+                "description": "Download Asphalt Legends now and get your hands on IRyS’ decal!\nhttps://gmlft.co/asphaltxhololive-irys Hurry, it's only available for a limited time!\n#asphaltlegends #asphaltpartner\n\nALSO..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
