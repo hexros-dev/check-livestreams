@@ -168,14 +168,7 @@
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
         "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/ACubs_Mw4YtmgHDIIZvW_gZaPf_VR1wg9yffFLsq4Lrw-W7Md-0pK4Gob8OJebCYCmgrArsE",
-        "videos": [
-            {
-                "video_id": "kA6gpC285V4",
-                "title": "【ホロライブごろごろマウンテン】ホロメンでっかぁ↑♥【虎金妃笑虎】",
-                "thumbnail": "https://i.ytimg.com/vi/kA6gpC285V4/hqdefault.jpg?v=68f1f095&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBg42zUhG7wM69C3UdQRtQUjIrCQQ",
-                "description": "配信タイトル：ホロライブごろごろマウンテン\nストアページ：https://store.steampowered.com/app/3511130/hololive_GoroGoro_Mountain/\n\n※ホロライブプロダクション..."
-            }
-        ]
+        "videos": []
     },
     "@KosekiBijou": {
         "channel_url": "https://www.youtube.com/@KosekiBijou",
@@ -212,14 +205,7 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": [
-            {
-                "video_id": "xV3Ph-JhzHg",
-                "title": "【 Pokémon LEGENDS Z-A 】虫パ縛り❣虫結構いて草ｗ#2【 桃鈴ねね / hololive 】",
-                "thumbnail": "https://i.ytimg.com/vi/xV3Ph-JhzHg/hqdefault.jpg?v=68f1d91a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMPGrawqwpzvUy0432vaJ1uIh8Sg",
-                "description": "ぱぴもっちに会いたい・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・\n⸜♡⸝MemberShipに入ったらもっとねねを知れるﾖ..."
-            }
-        ]
+        "videos": []
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
@@ -347,7 +333,14 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "1lYziWlkzFY",
+                "title": "【 告知あり】新生ホロウィッチで一致するまで告知できまテン⁉【#ホロウィッチ】",
+                "thumbnail": "https://i.ytimg.com/vi/1lYziWlkzFY/hqdefault.jpg?v=68f1f184&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzi5SVVNQgyvTCQOFbpABiz7OVGQ",
+                "description": "@ShirakamiFubuki @HoushouMarine @AmaneKanata @HimemoriLuna @YukihanaLamy \n\n魔法少女ホロウィッチ！『微かな夕陽』アニメーションMV\n10月17日 20:40〜 プレミア公開！..."
+            }
+        ]
     },
     "@SamekoSaba": {
         "channel_url": "https://www.youtube.com/@SamekoSaba",
