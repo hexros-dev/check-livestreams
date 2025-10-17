@@ -135,14 +135,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": [
-            {
-                "video_id": "R1bgBsbXel4",
-                "title": "【 朝活/FreeTalk 】ん～～～ッッッおはよ？【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "thumbnail": "https://i.ytimg.com/vi/R1bgBsbXel4/hqdefault.jpg?v=68f0f3f5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADw8zo06okXuQFHezaZsyf7xSCqA",
-                "description": "メンバーシップ開設しました！加入はこちらから💕https://www.youtube.com/channel/UCGzTVXqMQHa4AgJVJIVvtDQ/join\n\n📢iOS ユーザーの皆様へ / for iOS(iPHONE, iPAD)..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -160,7 +153,14 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "kMVZ5JV1dJo",
+                "title": "【MEMBER'S STREAM】CHATTING IN VR! 【3D VRChat】",
+                "thumbnail": "https://i.ytimg.com/vi/kMVZ5JV1dJo/hqdefault.jpg?v=68f169af&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBpkM9ffpjkdb3xxbwXcnIN_RF7fw",
+                "description": "Thumbnail Art: @WCKsan THANK YOU!\nhttps://x.com/WCKsan/status/1976345061072961688\n====================\n✧Twitter: https://twitter.com/kosekibijou\n\n✧Hashtags: \n#biboo  \nAdvent: #holoAdvent..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -238,7 +238,14 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Uz2XU3GAp5g",
+                "title": "【Pokémon LEGENDS Z-A】A NEW ADVENTURE FOR US!!!!!!!!!",
+                "thumbnail": "https://i.ytimg.com/vi/Uz2XU3GAp5g/hqdefault.jpg?v=68f02e66&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVVqkXgGAN_aW9ppLCSM94Ptt-tg",
+                "description": "【Thumbnail Art】\nhttps://x.com/NueBunny/status/1978464858594312312\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\nGame Title: Pokémon LEGENDS Z-A\nStore Page: https://store-jp.nintendo.com/it..."
+            }
+        ]
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -286,14 +293,7 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
-        "videos": [
-            {
-                "video_id": "cQ2bMIYluVo",
-                "title": "【朝活 】MGMG　EAT　TIMEEE　朝起きて㋒？【ホロライブ/ ロボ子さん】",
-                "thumbnail": "https://i.ytimg.com/vi/cQ2bMIYluVo/hqdefault.jpg?v=68f11301&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCq3EjRViP1T16FtKMCvlF5GG8HRA",
-                "description": "＃ホロライブ　#hololive 　\nｘでは💬  #ロボ子生放送　でポストしてってね✨\n\nボクの初期ボイスがでたよ！？\nhttps://shop.hololivepro.com/products/robocosan_he..."
-            }
-        ]
+        "videos": []
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -414,7 +414,14 @@
         "channel_url": "https://www.youtube.com/@dooby3d",
         "channel_name": "dooby",
         "avatar_url": "https://yt3.googleusercontent.com/sOGyZgV9pPHQJCEvNe28NCOFC1y0KggsxUjrP5ecMAgBmdNT8p6ZNM24d_9SVgWFhBh0lKBL5Q",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "COSL9zD_HP0",
+                "title": "-1 Dimension",
+                "thumbnail": "https://i.ytimg.com/vi/COSL9zD_HP0/hqdefault.jpg?v=68f01f30&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmeu5JQkHMInw_-Dr5xx6Y9Dr5fA",
+                "description": "😱!?\nan early 1 year celebration goodie ヾ( ˃ᴗ˂ )◞ • *✰"
+            }
+        ]
     },
     "@holoen_ceciliaimmergreen": {
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
