@@ -70,14 +70,7 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": [
-            {
-                "video_id": "Mjc1lqt05Bk",
-                "title": "≪SILENT HILL f≫ Do it for the Ikemen #2【SPOILERS WARNING】",
-                "thumbnail": "https://i.ytimg.com/vi/Mjc1lqt05Bk/hqdefault.jpg?v=68f240fb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBAnnoIGVAmVEO5FW3tAN6aqVbUlg",
-                "description": "in ikemen we trust.\n\n#telebae  #hololiveenglish \n««≪ °◇◆◇° ≫ »»\nThis game is being streamed and monetized with permission and under license of Konami Digital Entertainment...."
-            }
-        ]
+        "videos": []
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -139,7 +132,14 @@
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "pYR3pcIvK6s",
+                "title": "#19【ELDEN RING】フロムゲー初心者、「エルデンリング」のクリアを目指す旅！！！【戌神ころね】※ネタバレあり",
+                "thumbnail": "https://i.ytimg.com/vi/pYR3pcIvK6s/hqdefault.jpg?v=68f2249a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABxnENq8QaiXTBRvXR4UI9Lq6hTA",
+                "description": "Play Game : ELDEN RING ( steam )\nタグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nエルデンリング再生リスト\nhttps://www.y..."
+            }
+        ]
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
