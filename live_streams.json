@@ -120,7 +120,14 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "j1s6XUBzzLo",
+                "title": "【Members Only Gaming】The IRyS Concoction【Potion Craft】",
+                "thumbnail": "https://i.ytimg.com/vi/j1s6XUBzzLo/hqdefault.jpg?v=68f30b04&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxUenQgk_AEZ85Cxmsf6qMm0JoKw",
+                "description": "Making meds ;D\n\nSTREAM MY NEW ORIGINAL SONG!! https://www.youtube.com/watch?v=i2sw2i6_XDk\n\nStream my newest EP YaBAI NOW!!\nhttps://cover.lnk.to/39qmMB\n\n#hololiveenglish  \n  #ホロライブ..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -498,14 +505,7 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": [
-            {
-                "video_id": "MpDE_-2wU50",
-                "title": "【Pokémon Legends: Z-A】 Legally distinct pink nurse plays pokemon | #2",
-                "thumbnail": "https://i.ytimg.com/vi/MpDE_-2wU50/hqdefault.jpg?v=68f294c5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfviVVfSLF8KlU9SOmcMvDt_44pg",
-                "description": "BIRTHDAY MERCH AVAILABLE: https://ohmonah.shop/collections/nimi-nightmare\n\n☁  Thumbnail Art  ☁\nhttps://x.com/kokomiin/status/1882865955853803541\nThank you so much!!\n\n  ‧₊ ˚  ⊹ ࣭..."
-            }
-        ]
+        "videos": []
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
