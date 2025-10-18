@@ -3,7 +3,14 @@
         "channel_url": "https://www.youtube.com/@AZKi",
         "channel_name": "AZKi Channel",
         "avatar_url": "https://yt3.googleusercontent.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "VG8ZYfIzVHM",
+                "title": "【メン限】あずきちのまったりレア雑談【ホロライブ / AZKi】",
+                "thumbnail": "https://i.ytimg.com/vi/VG8ZYfIzVHM/hqdefault.jpg?v=68f35d9a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjLzglnuP2LfV95GMKhWqEYrJVEA",
+                "description": "※開始直前にメンバーシップ限定に切り替えます。\n\n▼メン限/Membership only　の配信について\nスクショ、切り抜きがNGです。ご注意ください。..."
+            }
+        ]
     },
     "@AiraniIofifteen": {
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
@@ -392,7 +399,14 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "l-O1P4_x02E",
+                "title": "#01【Pokémon LEGENDS Z-A】ポケモン初心者がニンフィアとまた冒険できるとききました！【不知火フレア/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/l-O1P4_x02E/hqdefault.jpg?v=68f36655&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQ6CbKu05LQ5ziPqnMLhJrStVZxw",
+                "description": "あわよくばブイズパ目指したい、一旦普通に進めます\n\n■不知火フレア 新衣装記念2025（受注販売）\nhttps://shop.hololivepro.com/products/shiranuiflare_newoutfit_2..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -429,14 +443,7 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": [
-            {
-                "video_id": "c4Wk9aO_LOo",
-                "title": "【ポケモンZA】新作！Pokémon LEGENDS Z-Aで新しい冒険だ！#3【轟はじめ/ReGLOSS】",
-                "thumbnail": "https://i.ytimg.com/vi/c4Wk9aO_LOo/hqdefault.jpg?v=68f28351&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClcOZGSrtK6-y45AZsO_-c_O2fNg",
-                "description": "素敵なサムネお写真：みるく丸。様（@milkmaru_MM）\n\n配信タイトル：Pokémon LEGENDS Z-A\nストアページ：https://store-jp.nintendo.com/item/software/D70010000094233..."
-            }
-        ]
+        "videos": []
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
@@ -461,7 +468,14 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ATIYnPRq5as",
+                "title": "【 Pokémon LEGENDS Z-A 】わためいと（アリゲイツ）と行くサブクエ巡りの旅！ #3【角巻わため/ホロライブ４期生】",
+                "thumbnail": "https://i.ytimg.com/vi/ATIYnPRq5as/hqdefault.jpg?v=68f2c29d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBL3SPqKhv-W5us-h1deYgL8rGujg",
+                "description": "そろそろ旅パを決めねばな...！\n#ドドドライブ \n\n配信タイトル：Pokémon LEGENDS Z-A\nストアページ：https://store-jp.nintendo.com/item/software/D70010000094233\n..."
+            }
+        ]
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
