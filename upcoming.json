@@ -21,7 +21,15 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "mOyeTau73XQ",
+                "title": "【GTA5│MAD TOWN】白狐も成長しつついろんなこと楽しむ【アキロゼ/ホロライブ】",
+                "date": "2025/10/19 18:05:00",
+                "thumbnail": "https://i.ytimg.com/vi/mOyeTau73XQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqvtZ5pUOso5rkVDlmGu-XVH4p9Q",
+                "description": "この放送はvaultroomの実施する企画の一環として、配信しております。\nRockstar Gamesの許諾を得て収益化しております。\n\nサムネイルイラスト\nささく..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -116,15 +124,7 @@
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk",
-        "videos": [
-            {
-                "video_id": "v2QhoirYIzE",
-                "title": "【3D】ホロ3期生の超！重大告知！！！！VTuber人生をかけてホロライブゲームで勝負！？【ホロライブ/宝鐘マリン】",
-                "date": "2025/10/19 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/v2QhoirYIzE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCHkeMf5KDkCwXftpoWIwbHhEnUNw",
-                "description": "#3期生超重大告知3D\n\n@usadapekora @ShiranuiFlare @ShiroganeNoel \n\n｡.｡:+* ﾟ ゜ﾟ *+:｡.｡:+* ﾟ ゜ﾟ *+:｡.｡.｡:+*ﾟ ゜ﾟ *+:｡.｡:+*ﾟ ゜ﾟ *+:｡.｡.｡:+*+:｡.｡..."
-            }
-        ]
+        "videos": []
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
