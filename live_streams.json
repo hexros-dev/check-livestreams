@@ -210,7 +210,14 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "uzG6MjeSuFU",
+                "title": "【DEVIL MAY CRY 3】first dmc experience sorry #calliolive",
+                "thumbnail": "https://i.ytimg.com/vi/uzG6MjeSuFU/hqdefault.jpg?v=68f384e3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwp1sbQO2qfECktHYfja7NCGSVsg",
+                "description": "ehehe\n\nBGM: https://x.com/BigRicePiano\nhttps://x.com/the_arkhand\nhttps://x.com/alterclad\n\nRequest from hololive Productions to underage viewers\nPlease search for [Request To Minors] or click..."
+            }
+        ]
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -439,14 +446,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "PZbOVhD-Eoc",
-                "title": "【GIGI MURIN BDAY 2025】The Game of WHIMSY #WHIMGI",
-                "thumbnail": "https://i.ytimg.com/vi/PZbOVhD-Eoc/hqdefault.jpg?v=68f20ea3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTdgMi9xr58pqnQ_kCp7YK6AZ5xQ",
-                "description": "use #WHIMGI to talk about the stream :3\n\n【Gigi murin Fantacy Birthday merch 2025】\nーーーーーーーーー\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/gigi..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
