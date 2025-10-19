@@ -476,7 +476,15 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "RTN5A-mEbTI",
+                "title": "stream here placeholder guys I am eepy",
+                "date": "2025/10/20 02:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/RTN5A-mEbTI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPdDoKByWHcAlksr0eE9bjA_sVUQ",
+                "description": "--------------------------\nHashtags\n📺 Livestream: #ImmerScreen \n🎨 Fanart: #Immergination\n🎻 Music: #ImmerPiece\n🤡 Memes: #ImmerMemes \n--------------------------\n\n\n------------------------..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
@@ -516,15 +524,7 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
-        "videos": [
-            {
-                "video_id": "YYGuEXjHzBI",
-                "title": "風真いろはの #ねるまえらじお 📻❣ #03",
-                "date": "2025/10/19 22:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/YYGuEXjHzBI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtZvO_Ya_yb2zh7Y5o5HXGnBp-xQ",
-                "description": "第3回 #ねるまえらじお 📻\n沢山のふつおたありがとうございます✨\n\nお便り募集はXまたはYoutubeコミュニティにて発信中❣\nぜひフォローやチャンネ..."
-            }
-        ]
+        "videos": []
     },
     "@mikenekoko": {
         "channel_url": "https://www.youtube.com/@mikenekoko",
