@@ -69,14 +69,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "z3EogBEpCeE",
-                "title": "【FFT】ファイナルファンタジータクティクス楽しすぎる！チャプター4から！！✨ #6 【博衣こより/ホロライブ】※ネタバレを含みます",
-                "thumbnail": "https://i.ytimg.com/vi/z3EogBEpCeE/hqdefault.jpg?v=68f32ff9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClSk5HbtDFUwsTD8TzMcdglPCjYg",
-                "description": "FFT配信でやりたくて、リマスター発売を心待ちにしていました！！！ジョブシステムやっぱり楽しい！！🥳\n💿1stアルバム「FIRST STEP」発売中！全..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -406,7 +399,14 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "i_ViOwxbknA",
+                "title": "【 TCG Card Shop Simulator 】抜け出せないこの沼から【常闇トワ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/i_ViOwxbknA/hqdefault.jpg?v=68f469e2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-DXSkzfmnXR4JPBbk3EmAqIFfeA",
+                "description": "本ゲームは OPNeon Games に確認の上配信・収益化を行なっております。\n\n୨୧-------------------------------┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈..."
+            }
+        ]
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
