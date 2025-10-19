@@ -15,14 +15,7 @@
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
         "avatar_url": "https://yt3.googleusercontent.com/ecW_DT7IKBcfKJ1qioYiyU_Iq6EB4_bCZpaG4srWPkEZRsIAiYguEvh7_nELEJqPnbjAktVj6Q",
-        "videos": [
-            {
-                "video_id": "sFkHa17hHm8",
-                "title": "【PC復活！】アーカイブなし！テスト配信",
-                "thumbnail": "https://i.ytimg.com/vi/sFkHa17hHm8/hqdefault.jpg?v=68f50803&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALGz9xhb4xeLBn84tE_dJi5TYoFQ",
-                "description": "💖Membership to support HAACHAMA!!!メンバーシップ加入はこちら！✨\n➡https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg/join\n\n🚃ファンメイドのサイト情報..."
-            }
-        ]
+        "videos": []
     },
     "@AkiRosenthal": {
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
@@ -250,7 +243,14 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "l5428JVHdz8",
+                "title": "【 #朝ミオ 】月曜日だよ～おはみぉーん～～～",
+                "thumbnail": "https://i.ytimg.com/vi/l5428JVHdz8/hqdefault.jpg?v=68f4a648&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCHBVZh7-nZK1S8HaHHVYlJoK6qWQ",
+                "description": "窓をあけたくなる季節～～🎵\n\n#朝ミオおたより Twitter(X)で募集中です🌟\n今回紹介するお題は、『冬に向けた準備』です！\n\nサムネillustrator：tomato..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
