@@ -58,7 +58,14 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "si5nKzdLGyw",
+                "title": "【FUWAMOCO MORNING】episode 177 🐾 #FWMCMORNING",
+                "thumbnail": "https://i.ytimg.com/vi/si5nKzdLGyw/hqdefault.jpg?v=68f2c166&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1zhkTuni9THJBTtuvJUUE7tfmww",
+                "description": "chilly mornings made warmer with fluff & fuzz ✨\nlovely illustration by @MIYAOO1224 💕\njingle by @Sarina_A_Elysia ♪\n🩵 FUWAMOCO 𝟮𝗻𝗱 𝗼𝗿𝗶𝗴𝗶𝗻𝗮𝗹 𝘀𝗼𝗻𝗴..."
+            }
+        ]
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -144,14 +151,7 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": [
-            {
-                "video_id": "qKwqdcWLIgg",
-                "title": "【メン限同時視聴】水曜どうでしょうサイコロ５同時視聴配信 【儒烏風亭らでん 】",
-                "thumbnail": "https://i.ytimg.com/vi/qKwqdcWLIgg/hqdefault.jpg?v=68f61d3e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAt82hr0kll4vd9EEKBgLsGEThIjQ",
-                "description": "同時視聴する映画\n水曜どうでしょうサイコロ５\n\n同時視聴の方法\n①それぞれで映画を用意（映像サブスクサービスやレンタルなど）\n②らでんの「..."
-            }
-        ]
+        "videos": []
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -511,14 +511,7 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": [
-            {
-                "video_id": "_qjSfPKf-tM",
-                "title": "【Minecraft】４んだら終わり！ハードコアソロでエンドラを討伐する！涙の最終回編 ぺこ！【ホロライブ/兎田ぺこら】",
-                "thumbnail": "https://i.ytimg.com/vi/_qjSfPKf-tM/hqdefault.jpg?v=68f60ad2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABLd_0DVgFGTIDrozmmWuMUGSEPA",
-                "description": "最初からクライマックスぺこ！！！！！！！！！！！！！！！！！！！！\n\nサムネイラスト：Hikosanさん\n\n本ゲームは Mojang に確認を得た上、\nTerms..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
