@@ -107,7 +107,15 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "RAilx21BVbU",
+                "title": "【 モンハンワイルズ 】HR289！秋イベ「交わりの祭事」開催！『零式オメガ』戦リベンジなのら！！！【姫森ルーナ/ホロライブ】",
+                "date": "2025/10/22 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/RAilx21BVbU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKRoNwDS5VFshPtZKkfihMVltOlA",
+                "description": "👑誕生日記念グッズ2025👑\n■販売ページURL（2025年11月10日(月)18時まで）\nhttps://shop.hololivepro.com/products/himemoriluna_birthday_2025\n\n通常オメガは前回討伐済..."
+            }
+        ]
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -389,15 +397,7 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": [
-            {
-                "video_id": "WQ_PUJnSuxE",
-                "title": "【Pokémon LEGENDS: Z-A】in front of my salad??? #kfp #キアライブ",
-                "date": "2025/10/21 22:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/WQ_PUJnSuxE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBq_9J3Bw873axXAIlIiqPVhyl-8A",
-                "description": "Takanashi Kiara『TASTY』\nhttps://cover.lnk.to/al3Zjt\n\n🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara\n\n 🏵️[Hashtags] 🏵️\n#kfp #キアライブ#hololiveenglish #holomyth..."
-            }
-        ]
+        "videos": []
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
