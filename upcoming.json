@@ -419,7 +419,15 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "a8GE1Wuamjc",
+                "title": "【MAGE ARENA】we are all rizzards #kfp #キアライブ",
+                "date": "2025/10/23 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/a8GE1Wuamjc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5jV9BVSMFQW3PWkVm1EoKPdds2Q",
+                "description": "with @NinomaeInanis @MoriCalliope @FUWAMOCOch @KosekiBijou @holoen_raorapanthera @holoen_ceciliaimmergreen @holoen_gigimurin \n \nTakanashi Kiara『TASTY』\nhttps://cover.lnk.to/al3Zjt\n\n🏵️[Twitt..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
