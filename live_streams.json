@@ -128,14 +128,7 @@
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk",
-        "videos": [
-            {
-                "video_id": "fZJXBQs4PEc",
-                "title": "【有識者マリンが見守る】大空スバル、はじめての「サクラ大戦3 〜巴里は燃えているか〜」【ホロライブ/宝鐘マリン】※ネタバレあり",
-                "thumbnail": "https://i.ytimg.com/vi/fZJXBQs4PEc/hqdefault.jpg?v=68f876a8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcUsNEnDLzaxSMRCpo145KrmLz3w",
-                "description": "#ババドナ\n@OozoraSubaru \nスバルはじめてのサクラ大戦はこちら👇\nhttps://www.youtube.com/live/FyYpyHpH9vE?si=Vs9snqvEa48U38Ns\n\nこの動画およびライブは、コンテン..."
-            }
-        ]
+        "videos": []
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
@@ -393,7 +386,14 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "qUb0k9-mB7Q",
+                "title": "【雑談】ホロメンらくがき【白上フブキ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/qUb0k9-mB7Q/hqdefault.jpg?v=68f8e2e8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHRGXgHU0-YwR-_mJEZK0XkLWaow",
+                "description": "🌽白上フブキ生誕記念グッズ2025\n⏬購入はこちら⏬️\nhttps://shop.hololivepro.com/products/shirakamifubuki_birthday_2025\n\n＼\\ 冥界Halloween Night!記念 /／\n🕯️冥ハロ..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -514,14 +514,7 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
-        "videos": [
-            {
-                "video_id": "TJFxdJ4cF-c",
-                "title": "【Minecraft】告知あり❣なんか鉄を1000個掘るらしいです。【風真いろは/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/TJFxdJ4cF-c/hqdefault.jpg?v=68f879f5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6uw9fwo5cTEYyH6OPCjKsTV-OoA",
-                "description": "※本ゲームは Mojang に確認を得た上、Terms and Conditions\n (https://account.mojang.com/terms)  に基づいて配信・収益化を行なっております。\n\n【鉄千について】..."
-            }
-        ]
+        "videos": []
     },
     "@mikenekoko": {
         "channel_url": "https://www.youtube.com/@mikenekoko",
