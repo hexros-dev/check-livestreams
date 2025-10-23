@@ -565,15 +565,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "7W_Q57Aj_f4",
-                "title": "【HADES II】can i finish this game today we just dont know",
-                "date": "2025/10/24 04:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/7W_Q57Aj_f4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCC7FDz09X33qlL72SpvST8FFb9Q",
-                "description": "This game is being streamed and monetized after confirming with Supergiant Games.\nGet Hades II here: https://store.steampowered.com/app/1145350/Hades_II/\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
@@ -597,7 +589,15 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "yMNAxnuROdk",
+                "title": "【BALL x PIT】 New & addictive brick-breaking roguelite!",
+                "date": "2025/10/24 05:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/yMNAxnuROdk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDniWnPYCp5aVFR0p2lvOVe7uiVbw",
+                "description": "BIRTHDAY MERCH AVAILABLE: https://ohmonah.shop/collections/nimi-nightmare\n\n  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋\n\nKonbakuwa! I'm Nimi, the baku nurse VTuber of your nightmares~\n#VTuber..."
+            }
+        ]
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
