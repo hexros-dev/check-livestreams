@@ -27,14 +27,7 @@
         "channel_url": "https://www.youtube.com/@AmaneKanata",
         "channel_name": "Kanata Ch. Kanata Amane",
         "avatar_url": "https://yt3.googleusercontent.com/oPU9ckNcyeHD0FFsYSxkoD1mtbslSwdmMSfoCYQWphOu5e7UeCnIF-Nt0hvvF41L5Nykga07nQ",
-        "videos": [
-            {
-                "video_id": "3zN0Dle548o",
-                "title": "【MemberOnly】雑談(∩ᐡ.  ̫ .ᐡ )⊃━💕【天音かなた/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/3zN0Dle548o/hqdefault.jpg?v=68fa09a4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8O3qeiYE3yev1HjrCP3jDWz-UJw",
-                "description": "最近さむすぎ\n\nサムネイラスト：\nhttps://x.com/hitor1111/status/1981118373120373085\n\n---------------------------------------------------------------------------------\n\n天音かなた..."
-            }
-        ]
+        "videos": []
     },
     "@AnyaMelfissa": {
         "channel_url": "https://www.youtube.com/@AnyaMelfissa",
@@ -553,7 +546,14 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "m1oi6jeAHnc",
+                "title": "【エスケープ フロム ダッコフ】なんにもわからないけど圧倒的好評のアヒルが物資を集めて脱出するゲームやってみる！ぺこ！【ホロライブ/兎田ぺこら】",
+                "thumbnail": "https://i.ytimg.com/vi/m1oi6jeAHnc/hqdefault.jpg?v=68fa25db&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAADu5G5uljN_LCWTEyQ5dovq2EJQ",
+                "description": "サムネイラスト：()さん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ #ぺこらいぶ..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
