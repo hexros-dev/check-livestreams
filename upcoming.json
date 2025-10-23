@@ -545,7 +545,15 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Xlzd4DuJEX4",
+                "title": "【LITTLE NIGHTMARES III】hehehe no nightmares can hold us back! With @HakosBaelz !!!",
+                "date": "2025/10/24 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Xlzd4DuJEX4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9yQnAaWh23abVoKYlQYS_MM1NlQ",
+                "description": "#LittleNightmaresIII\n#BandaiNamcoEntertainmentEurope\nhttps://bnent.eu/LN3-Hololive\n\nLittle Nightmares III is an atmospheric platformer game where players can play as Low and Alone, two children..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
