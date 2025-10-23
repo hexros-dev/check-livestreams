@@ -22,13 +22,6 @@
                 "date": "2025/10/24 19:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/G8wrjCkgyRM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVW9XKCA63G3Sp_EymZtjKhT2uaA",
                 "description": "この動画およびライブは、コンテンツ利用許諾契約に基づいて配信しています。\nタイトル名： 『ホグワーツ・レガシー』\n公式サイト：  https://www...."
-            },
-            {
-                "video_id": "jjm6dSej2jU",
-                "title": "【寝る前】ちゃまのろけ雑談【ピロートーク】",
-                "date": "2025/10/23 21:01:00",
-                "thumbnail": "https://i.ytimg.com/vi/jjm6dSej2jU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCIv2JpM7EwAb9Dgt-_gRk7W9fGjg",
-                "description": "休暇中の出来事！最近の話！ぜーんぶ幸せハッピーもりだくさんトーーーク！🌟\n\n💖Membership to support HAACHAMA!!!メンバーシップ加入はこちら！✨..."
             }
         ]
     },
@@ -86,7 +79,15 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ygILKuT0NDE",
+                "title": "≪Little Nightmares III≫ We Spoopy Together #1",
+                "date": "2025/10/24 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ygILKuT0NDE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJR6uRUMAloRfcGCqqgreqXA2EmQ",
+                "description": "FINALLY. WE MADE IT. \nWITH @holoen_ceciliaimmergreen \nThumbnail Art: https://x.com/Fongban_/status/1973806303735918947/photo/1\n\nThank you to BANDAI EU for sponsoring this stream! \nLittle Nightmares..."
+            }
+        ]
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -244,15 +245,7 @@
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
         "channel_name": "Moona Hoshinova hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3",
-        "videos": [
-            {
-                "video_id": "MI3WYMUC9eE",
-                "title": "【Troublemaker 2: Beyond Dream】JADI PREMAN LETS GO【Moona | holoID 】",
-                "date": "2025/10/23 21:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/MI3WYMUC9eE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBpCTJJ2ippvgSamX4R3dUbU8jyPQ",
-                "description": "Streamlabs donation link here : https://streamlabs.com/moonahoshinovahololive-id/tip\nSociaBuzz donation link here : https://sociabuzz.com/moonahoshinova/tribe\n======================================..."
-            }
-        ]
+        "videos": []
     },
     "@MoriCalliope": {
         "channel_url": "https://www.youtube.com/@MoriCalliope",
@@ -282,7 +275,15 @@
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "3KT0ShW51b4",
+                "title": "【絵チャ】おえかきしたい気分！【ホロライブ/夏色まつり】",
+                "date": "2025/10/23 22:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/3KT0ShW51b4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVTDoACfgZsjW97cLwVqSv7ebSYw",
+                "description": "...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\n\n素敵なサムネイル→熊野ぽく様\n@kumano_poku\n\nルール\n・メンバーシップのみ..."
+            }
+        ]
     },
     "@NekomataOkayu": {
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
@@ -358,13 +359,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
         "videos": [
             {
-                "video_id": "69v9T49wJxk",
-                "title": "【CloverPit】ここから脱出できますか！！！！！！！！【ホロライブ/ロボ子さん】",
-                "date": "2025/10/23 21:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/69v9T49wJxk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmRPr62-gZov01wvM6xUi6IwHPDg",
-                "description": "＃ホロライブ \nｘでは💬　＃ロボ子生放送　でポストしてってね\n配信タイトル：CloverPit\nストアページ：https://store.steampowered.com/app/3314790/CloverPit/..."
-            },
-            {
                 "video_id": "xlUHU013Ybs",
                 "title": "【ASMR】🎃ARCHIVEはメン限￤いたずら好きの女の子のASMR  マッサージ/炭酸/ウィスパー【ホロライブ/ ロボ子さん】",
                 "date": "2025/10/24 22:00:00",
@@ -407,15 +401,7 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": [
-            {
-                "video_id": "PNVkVdesHmQ",
-                "title": "【雑談】まったりと深夜雑談！【不知火フレア/ホロライブ】",
-                "date": "2025/10/23 21:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/PNVkVdesHmQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCIYK3vkMK6w79RwahTHfuA-dqqw",
-                "description": "■不知火フレア 新衣装記念2025（受注販売）\nhttps://shop.hololivepro.com/products/shiranuiflare_newoutfit_2025\n※2025年9月25日(木) 22時00分 ～ 2025年10月27日(月)..."
-            }
-        ]
+        "videos": []
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -451,15 +437,7 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": [
-            {
-                "video_id": "xwYiJ3GQXEA",
-                "title": "【おにぎり屋さんシミュレーター】おいしいおにぎりいかがですか～【ホロライブ/ときのそら】",
-                "date": "2025/10/23 21:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/xwYiJ3GQXEA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2J0OtHI75lgAkp_42pn93C-XYCA",
-                "description": "今日もおにぎり屋さんは忙しい\n楽しく遊ぶぞ！！\n\n配信タイトル：おにぎり屋さんシミュレーター\nストアページ：https://store.steampowered.com/app/3915140/..."
-            }
-        ]
+        "videos": []
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
