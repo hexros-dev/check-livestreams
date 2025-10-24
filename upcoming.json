@@ -208,15 +208,7 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": [
-            {
-                "video_id": "ICK7pKWdYZ8",
-                "title": "【リオニココラボ】どうやら私は恥を捨てられてないらしい【ホロライブ DEV_IS 響咲リオナ 虎金妃笑虎 @KoganeiNiko 】",
-                "date": "2025/10/24 15:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/ICK7pKWdYZ8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbvGUfr7yOj3w5yKW6OkPSJ8Ks3w",
-                "description": "∴∵∴ ୨୧ ∴∵∴ ୨୧ ∴∵∴ ୨୧ ∴∵∴∴∵∴ ୨୧ ∴∵∴ ୨୧ ∴∵∴ ୨୧ ∴∵∴\n\nメンバーシップ(membership)はこちらから⇩\nhttps://www.youtube...."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -258,7 +250,15 @@
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "AcFFyMKvrxI",
+                "title": "【FREETALK】 I WANT TO SPEND THE NIGHT WITH YOU... CHATTING!! :DDD 【Kureiji Ollie】",
+                "date": "2025/10/24 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/AcFFyMKvrxI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5vJz_jTenGPDCZVYNd0PGGmMucQ",
+                "description": "❥・・───༅༚˳ . ୨୧ . ˳༚༅༚─── ・・❥\n\n#OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n────୨｡ ₊°༺❤︎༻°₊ ｡ৎ────\n\n Did you miss..."
+            }
+        ]
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
