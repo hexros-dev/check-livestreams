@@ -230,15 +230,7 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": [
-            {
-                "video_id": "FTw7PyTjuco",
-                "title": "【VISAGE】WIMPS BACKSEATING WIMPS PART1: BIBOO ON DA WHEEL",
-                "date": "2025/10/25 06:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/FTw7PyTjuco/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNXM3tXdDX0-we40k9TRlq-ohVwA",
-                "description": "WITH @holoen_gigimurin \n====================\n✧Twitter: https://twitter.com/kosekibijou\n\n✧Hashtags: \n#biboo  \nAdvent: #holoAdvent\nLive: #LIVEseki\nMemes: #LMOAI \nArt: #bijouwled \nPebble Personas:..."
-            }
-        ]
+        "videos": []
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -464,7 +456,15 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "a1ALPmok-bM",
+                "title": "【WATCHALONG】Addams Family Values (1993) with you! (on NETFLIX)",
+                "date": "2025/10/26 03:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/a1ALPmok-bM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBejT0f0zJwR_LNlAiMl1cOFOSB0A",
+                "description": "Takanashi Kiara『TASTY』\nhttps://cover.lnk.to/al3Zjt\n\n🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara\n\n 🏵️[Hashtags] 🏵️\n#kfp #キアライブ#hololiveenglish #holomyth..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
