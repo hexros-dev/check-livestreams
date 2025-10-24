@@ -124,14 +124,7 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": [
-            {
-                "video_id": "ICK7pKWdYZ8",
-                "title": "【リオニココラボ】どうやら私は恥を捨てられてないらしい【ホロライブ DEV_IS 響咲リオナ 虎金妃笑虎 @KoganeiNiko 】",
-                "thumbnail": "https://i.ytimg.com/vi/ICK7pKWdYZ8/hqdefault.jpg?v=68faf1f1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbvGUfr7yOj3w5yKW6OkPSJ8Ks3w",
-                "description": "∴∵∴ ୨୧ ∴∵∴ ୨୧ ∴∵∴ ୨୧ ∴∵∴∴∵∴ ୨୧ ∴∵∴ ୨୧ ∴∵∴ ୨୧ ∴∵∴\n\nメンバーシップ(membership)はこちらから⇩\nhttps://www.youtube...."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -191,7 +184,14 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "E7VYrlzYUEI",
+                "title": "【 Pokémon LEGENDS Z-A 】虫パ縛り❣友達が色違いハッサムくれるらしい#6【 桃鈴ねね / hololive 】",
+                "thumbnail": "https://i.ytimg.com/vi/E7VYrlzYUEI/hqdefault.jpg?v=68fb3982&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChfD8HTHp6sHsVKdg1yVBsOPRJWw",
+                "description": "めっちゃやばい！！！！！！！！！！！！！！！！！！！\n⸜♡⸝MemberShipに入ったらもっとねねを知れるﾖ\nhttps://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zq..."
+            }
+        ]
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
