@@ -475,7 +475,15 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "oR30H4rRC4M",
+                "title": "【そらぱ2026ライブに向けて】そらのライブの歴史振り返らない？【ホロライブ/ときのそら】",
+                "date": "2025/10/25 13:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/oR30H4rRC4M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHmOtpWTFfpEC9ONUqacYufw6yzA",
+                "description": "時間未定15:00or19:00～\n今までのポスターとか見ながらお話したりたまーに歌ったりかな？\n\n～サムネイラスト～\n様\n\n★★★★★★★★★★★★★★..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
