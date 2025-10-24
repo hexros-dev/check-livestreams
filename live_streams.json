@@ -196,14 +196,7 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": [
-            {
-                "video_id": "5GKUEH68R2g",
-                "title": "【Member's Only】Lisa: The Painful (part 3) #calliolive",
-                "thumbnail": "https://i.ytimg.com/vi/5GKUEH68R2g/hqdefault.jpg?v=68fa48fe&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmlgQwN1kNFkdTxI9aT6cEn6WRgg",
-                "description": "BGM: https://x.com/BigRicePiano\nhttps://x.com/the_arkhand\nhttps://x.com/alterclad\n\nRequest from hololive Productions to underage viewers\nPlease search for [Request To Minors] or click on the..."
-            }
-        ]
+        "videos": []
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -227,7 +220,14 @@
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "PN2CYNlpcRs",
+                "title": "【 CloverPit 】長く長く生き残るのだ！！【ホロライブ/夏色まつり】",
+                "thumbnail": "https://i.ytimg.com/vi/PN2CYNlpcRs/hqdefault.jpg?v=68faef44&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQ9tKLzG26Ta0LWX7ffWPgfhAtIg",
+                "description": "...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\n\n素敵なサムネイル→熊野ぽく様\n@kumano_poku\n\n配信タイトル：CloverPit\nストア..."
+            }
+        ]
     },
     "@NekomataOkayu": {
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
