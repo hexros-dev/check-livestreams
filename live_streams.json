@@ -83,14 +83,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "Pvk-0rCQzOc",
-                "title": "【 #ホロライブ甲子園2025 】前夜祭！！！監督陣をゲストにチーム紹介＆対戦順抽選回✨【さくらみこ・宝鐘マリン・一条莉々華・博衣こより/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/Pvk-0rCQzOc/hqdefault.jpg?v=68f7cb9b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVVxk2peoazc9RoLwyt9bjvcl3VQ",
-                "description": "#ホロライブ甲子園2025 遂に明日10/26(日)15:00から本戦！もっと本戦を楽しめるよう、チームの注目ポイントを各監督にインタビューします！\n⚾監督..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -336,7 +329,14 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "L-y8FHiBWBg",
+                "title": "【首都高バトル】本気の千速に勝つために！！！！※ネタバレあり【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "thumbnail": "https://i.ytimg.com/vi/L-y8FHiBWBg/hqdefault.jpg?v=68fcb7b0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBb1sciS8g0mwHbJ3stJE4Kt52-8g",
+                "description": "負けられない戦い！！！！！！\n\n本ゲームは元気株式会社に確認の上、配信・収益化を行なっております。\n© Genki\nhttps://store.steampowered.com/app/2634950/_..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
