@@ -9,20 +9,20 @@
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
         "channel_name": "Airani Iofifteen Channel hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "96UI_5yU4jA",
+                "title": "【 Plate Up 】リオナと一緒にクリア目指そう！！！【 iofi / hololiveID 】",
+                "thumbnail": "https://i.ytimg.com/vi/96UI_5yU4jA/hqdefault.jpg?v=68fc3eb4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTax02rqyLKJ2H3CRQpo72ERcd-g",
+                "description": "#ioLyfe #Airani_Iofifteen #hololive #holoID \n\nWith: @IsakiRiona \nThis game is being streamed and monetized after confirming with Yogscast Games.\n\n【Support & Jajanin IOFI】🎨\nIndonesia..."
+            }
+        ]
     },
     "@AkaiHaato": {
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
         "avatar_url": "https://yt3.googleusercontent.com/ecW_DT7IKBcfKJ1qioYiyU_Iq6EB4_bCZpaG4srWPkEZRsIAiYguEvh7_nELEJqPnbjAktVj6Q",
-        "videos": [
-            {
-                "video_id": "-JIXPYaEYTg",
-                "title": "ENGLISH KARAOKE TIME~♪【※No archive】",
-                "thumbnail": "https://i.ytimg.com/vi/-JIXPYaEYTg/hqdefault.jpg?v=68fc37d4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMaaIrcud8GC-Rp9MDuMGwg8EHRg",
-                "description": "💖Membership to support HAACHAMA!!!メンバーシップ加入はこちら！✨\n➡https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg/join\n\n🚃ファンメイドのサイト情報..."
-            }
-        ]
+        "videos": []
     },
     "@AkiRosenthal": {
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
@@ -53,7 +53,14 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "irWmxKauI5Q",
+                "title": "D-D-D-D-DINKUM !?!?!?! @sammybollivienn",
+                "thumbnail": "https://i.ytimg.com/vi/irWmxKauI5Q/hqdefault.jpg?v=68fc60ef&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBrxGbmKzknIH769AC9bMIN2SxNjw",
+                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nGame Title: Dinkum\nStore Page: https://store.steampowered.com/app/1062520/Dinkum/\n\nーーーーーーーーー\n\nSTREAM MY NEWEST ORIGINAL..."
+            }
+        ]
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -150,14 +157,7 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w",
-        "videos": [
-            {
-                "video_id": "Gr7Nf9KlIsY",
-                "title": "【Honor of Kings】GARUDA KHAGESWARA SHOWMATCH - A BATTLE OF PROMISE 【Kaela's POV】",
-                "thumbnail": "https://i.ytimg.com/vi/Gr7Nf9KlIsY/hqdefault.jpg?v=68fc5355&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2SGzLTziMEStX2ubTgVrfddBtrQ",
-                "description": "GARUDA GARUDA GARUDA!!\n\n#DecadeofPromise #GarudaShowmatch #GarudaKhageswara  #HonorofKingsID#decadeofpromise  #GarudaShowmatch #GarudaKhageswara  #HonorofKingsID\n∘₊✧──────✧₊..."
-            }
-        ]
+        "videos": []
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
@@ -290,7 +290,14 @@
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ZKX3MYIvzpw",
+                "title": "【 P5R 】完全初見！ペルソナ5ザ・ロイヤルやるよおおおおおお #14【音乃瀬奏】#hololiveDEV_IS #ReGLOSS ※ネタバレあり",
+                "thumbnail": "https://i.ytimg.com/vi/ZKX3MYIvzpw/hqdefault.jpg?v=68fc6928&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2hdnvwWlm5YpDMyMKY0aPf4hZFQ",
+                "description": "▽✨重大告知✨ ▽\n音乃瀬奏 1stオリジナル曲「GREATEST」\n4/20(日) 24：00（4/21  0：00）リリース開始！\nhttps://cover.lnk.to/4rvCRp\n\n୨୧♪:*:･･:*:･♪･:*:･..."
+            }
+        ]
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
