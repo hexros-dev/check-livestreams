@@ -21,14 +21,7 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": [
-            {
-                "video_id": "0tWwzoXzzaE",
-                "title": "【 #ホロ鉄千】 一番早く鉄を1000個集めたチームが勝ち！【アキロゼ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/0tWwzoXzzaE/hqdefault.jpg?v=68fc9aec&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVnAdhDLoC_CGyzcNJneLjRxHHag",
-                "description": "転生したら鉄を1000個掘ることになったんだが？～踊り子とカジノオーナーとラーメン屋の物語～（略してホロ転）\n\n本ゲームは Mojang に確認を得た..."
-            }
-        ]
+        "videos": []
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -371,7 +364,14 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "qqkS4vlxVnM",
+                "title": "【スプラトゥーン3】リバイバルフェス！今回はゾンビに鞍替えします【不知火フレア/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/qqkS4vlxVnM/hqdefault.jpg?v=68fcc9da&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-AESOcJkog7uBrA1LyblDDwU1zw",
+                "description": "■不知火フレア 新衣装記念2025（受注販売）\nhttps://shop.hololivepro.com/products/shiranuiflare_newoutfit_2025\n※2025年9月25日(木) 22時00分 ～ 2025年10月27日(月)..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -383,14 +383,7 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": [
-            {
-                "video_id": "amLWUwgnTOM",
-                "title": "【Minecraft】#ホロ鉄千 ～ 一番早く鉄を1000個集めろ ～【獅白ぼたん/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/amLWUwgnTOM/hqdefault.jpg?v=68fbe2cc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCH7AVdE6vJrcMNCJ0J2tGxu8Oc-A",
-                "description": "チーム①：@ShirakamiFubuki @AZKi @OtonoseKanade \nチーム②：@HoshimachiSuisei @MomosuzuNene @MizumiyaSu \nチーム③：@AkiRosenthal @TsunomakiWatame @ShishiroBotan \n\n本ゲームは..."
-            }
-        ]
+        "videos": []
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
@@ -433,14 +426,7 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": [
-            {
-                "video_id": "M8XesbGoCZg",
-                "title": "【 #ホロ鉄千 】チーム対抗！鉄を1000個掘れ！掘れ！！掘れ！！！【角巻わため/ホロライブ４期生】",
-                "thumbnail": "https://i.ytimg.com/vi/M8XesbGoCZg/hqdefault.jpg?v=68fbbffb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAO_2fcb5t4dpDR8TDCek8wh4QuPQ",
-                "description": "わためぇは、アキちゃん＆ぼたんちゃんと同じチーム✨\nタグ： #ホロ鉄千\n\n神視点➡@kazamairoha \n\n🔨チーム壱\n@ShirakamiFubuki @AZKi @OtonoseKanade \n\n🔨チー..."
-            }
-        ]
+        "videos": []
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
