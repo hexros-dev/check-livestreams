@@ -374,15 +374,7 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": [
-            {
-                "video_id": "7yJnbQjS-7E",
-                "title": "【Brunch Stream】Guess if I bought a new mouse or not【Pavolia Reine/hololiveID 2ndgen】",
-                "date": "2025/10/26 12:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/7yJnbQjS-7E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqOBFUVr9AHBNDEgZzaW_mRMoigg",
-                "description": "Reine's new original song now AVAILABLE on iTunes, Apple Music, Spotify etc. starting September 10, 2025 00:00 your local time!!!\nWatch the MV:➡️https://youtu.be/NEtiag8nTUs\nGet it here:➡️h..."
-            }
-        ]
+        "videos": []
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -513,7 +505,15 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "voBy_g0fsOQ",
+                "title": "【歌枠】久々にノリノリで歌っていこう！！【ホロライブ/ときのそら】",
+                "date": "2025/10/26 12:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/voBy_g0fsOQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2Xq90v5dG_JDUiwvw8wu2ZAwyYw",
+                "description": "エコーが！！ありません！！！\n\n\n～サムネイラスト～\n星クズの夜様：https://twitter.com/hoshikuzu_yoru\n★★★★★★★★★★★★★★★★★★★★★★..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
