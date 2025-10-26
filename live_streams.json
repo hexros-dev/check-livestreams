@@ -131,7 +131,14 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "J8v4rJzQoqM",
+                "title": "【CloverPit】滾るかぁ～【ホロライブ DEV_IS 響咲リオナ】",
+                "thumbnail": "https://i.ytimg.com/vi/J8v4rJzQoqM/hqdefault.jpg?v=68fe1082&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCcPerzB2-K93tbn9I9rpmsvy9jg",
+                "description": "配信タイトル：CloverPit\nストアページ：https://store.steampowered.com/app/3314790/CloverPit/\n\nサムネイラスト 汐よる様 (@ushio_yoru) ありがとうございます✨..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -149,7 +156,14 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "IpjY1qKITlc",
+                "title": "【 メンバーシップ限定 】㊗メンバー開設１０ヶ月ありがとううう！！！！！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "thumbnail": "https://i.ytimg.com/vi/IpjY1qKITlc/hqdefault.jpg?v=68fe1118&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSYdBVWcfMGg---urZahXQSf3JTA",
+                "description": "メンバーシップ開設しました！加入はこちらから💕https://www.youtube.com/channel/UCGzTVXqMQHa4AgJVJIVvtDQ/join\n\n📢iOS ユーザーの皆様へ / for iOS(iPHONE, iPAD)..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -263,14 +277,7 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": [
-            {
-                "video_id": "c8DQiraWTls",
-                "title": "【#ホロライブ甲子園2025】ホロライブ甲子園同時視聴＆応援配信【ホロライブ/大空スバル】",
-                "thumbnail": "https://i.ytimg.com/vi/c8DQiraWTls/hqdefault.jpg?v=68fd2a24&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQ0c6wJfsno3S-7VQFmVUVxjhqpg",
-                "description": "＜限界条高校監督：りりか＞\n@IchijouRirika \n\n＜本配信＞\nhttps://www.youtube.com/live/kmMiQeMBEgc?si=mKAkVDWgMwDwty7P\n\n🐣おやくそく/Rule🐣\n・待機所でお喋りしない..."
-            }
-        ]
+        "videos": []
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -301,7 +308,14 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "m02P03R9j1k",
+                "title": "【雑談/ギター練習】弾き語り練習したり喋ったり【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "thumbnail": "https://i.ytimg.com/vi/m02P03R9j1k/hqdefault.jpg?v=68fe16fe&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCeGz6Tas8ntyo70sArrXyER9m6mw",
+                "description": "うまくなりたいな～～～～～～！\n\nサムネイルイラスト：うち1048さま\nhttps://x.com/uchi1048\nありがとうございます！\n\nギター素材：せんべいさま..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -388,13 +402,27 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "8VxSZLQDhSo",
+                "title": "【 カオスゼロナイトメア 】DLランキング1位のNEWゲーム #カオゼロ で遊んでいく✨【鷹嶺ルイ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/8VxSZLQDhSo/hqdefault.jpg?v=68fbc12d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWEKBUaPxE7QLALwiRKetf_EuUrw",
+                "description": "提供：Smilegate Megaport\n\n▼DLはこちらから！\nhttps://czn.sng.link/Dssu8/gus31?_smtype=3&pcn=TakaneLui\n\n▼テーマソング『OVER//RIDE | Game ver. MV』\nhttps://youtu.be/UVOyL-hm2v0?s..."
+            }
+        ]
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "L07ydDR6omA",
+                "title": "【ポケモンZA】新作！Pokémon LEGENDS Z-Aで新しい冒険だ！#８【轟はじめ/ReGLOSS】",
+                "thumbnail": "https://i.ytimg.com/vi/L07ydDR6omA/hqdefault.jpg?v=68fe0146&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChK-hd1cjg7oWipYI-L_VHphjM0A",
+                "description": "素敵なサムネお写真：とあ様（@toa_inusuki）\n\n配信タイトル：Pokémon LEGENDS Z-A\nストアページ：https://store-jp.nintendo.com/item/software/D70010000094233\n￣￣￣￣￣..."
+            }
+        ]
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
