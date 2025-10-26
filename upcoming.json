@@ -223,7 +223,15 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "edUhrj2dNes",
+                "title": "【KUROMI'S MISCHIEF MANSION】Celebrating the Spooky Season with Kuromi!【Roblox】#sponsored #sanrio",
+                "date": "2025/10/27 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/edUhrj2dNes/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-YWyduj0epi-8Fxs_xofld5LW_A",
+                "description": "Kuromi's Mischief Mansion: https://www.roblox.com/games/9346039031/Kuromis-Mischief-Mansion-My-Hello-Kitty-Cafe\nKuromi Merch at Hot Topic Available Now:\nhttps://www.hottopic.com/search?q=mischief%2..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -589,15 +597,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "mhWu3pJMGdo",
-                "title": "【ESCAPE FROM DUCKOV】attacked by 500 ducks in a park simulator",
-                "date": "2025/10/27 04:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/mhWu3pJMGdo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBpu6Y64tJKuXVt474oGsm1goaKA",
-                "description": "【Gigi Murin BDAY Plushie】\nhttps://shop.hololivepro.com/en/products/gigimurin_birthday_2025\n\nGame title: Escape From Duckov\nStore page : https://store.steampowered.com/app/3167020/Escape_From_Du..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
