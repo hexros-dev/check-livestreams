@@ -231,7 +231,14 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "xWClvFiAgMY",
+                "title": "【Pokémon LEGENDS Z-A】Get In My Pockets 【#4】",
+                "thumbnail": "https://i.ytimg.com/vi/xWClvFiAgMY/hqdefault.jpg?v=68feec67&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUOc3lLXljMYJe_CqCXjD33mZlkg",
+                "description": "【Thumbnail Art】\n\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\nGame Title: Pokémon LEGENDS Z-A\nStore Page: https://store-jp.nintendo.com/item/software/D70010000094233\n_____________________..."
+            }
+        ]
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
