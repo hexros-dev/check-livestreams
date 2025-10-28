@@ -51,7 +51,14 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "SurY1-X5rB0",
+                "title": "【QUICK CHAT】bau bau bau bau bau... 🐾  【MEMBERS ONLY】",
+                "thumbnail": "https://i.ytimg.com/vi/SurY1-X5rB0/hqdefault.jpg?v=69002c4a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5RNIy1wdbWn1__30l1bQNg9M1sA",
+                "description": "the universe keeps trying to stop us gunununu 🐾\nThis stream will become MEMBERS ONLY shortly before starting!\n\n🩵 FUWAMOCO 𝟮𝗻𝗱 𝗼𝗿𝗶𝗴𝗶𝗻𝗮𝗹 𝘀𝗼𝗻𝗴..."
+            }
+        ]
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -171,7 +178,14 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "bqyGjtoUhAY",
+                "title": "【デスバーガー】食われる前に食う！！！！！！【水宮枢／ホロライブDEV_IS】",
+                "thumbnail": "https://i.ytimg.com/vi/bqyGjtoUhAY/hqdefault.jpg?v=68fd2766&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBT0wlWHFBsKoGdBMHbm1PPfKtQhw",
+                "description": "配信タイトル：デスバーガー\nストアページ：https://store.steampowered.com/app/3648240/DEATH_BURGER/\n▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸◂┄▹◃\n\n💙メンバー..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -238,14 +252,7 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": [
-            {
-                "video_id": "xWClvFiAgMY",
-                "title": "【Pokémon LEGENDS Z-A】Get In My Pockets 【#4】",
-                "thumbnail": "https://i.ytimg.com/vi/xWClvFiAgMY/hqdefault.jpg?v=68feec67&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUOc3lLXljMYJe_CqCXjD33mZlkg",
-                "description": "【Thumbnail Art】\n\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\nGame Title: Pokémon LEGENDS Z-A\nStore Page: https://store-jp.nintendo.com/item/software/D70010000094233\n_____________________..."
-            }
-        ]
+        "videos": []
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
