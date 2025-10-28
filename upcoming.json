@@ -148,29 +148,13 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": [
-            {
-                "video_id": "VYeLgnmVaL4",
-                "title": "【深夜歌枠】しっとり歌っていきます🎤【ホロライブ DEV_IS 響咲リオナ】",
-                "date": "2025/10/28 21:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/VYeLgnmVaL4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6-hnvye4inwvqMTKyQQaGJBsuSQ",
-                "description": "サムネイラスト haidollo様 (@ haidollo) ありがとうございます✨\n∴∵∴ ୨୧ ∴∵∴ ୨୧ ∴∵∴ ୨୧ ∴∵∴∴∵∴ ୨୧ ∴∵∴ ୨୧ ∴∵∴ ୨୧..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": [
-            {
-                "video_id": "SbbUetz5IpE",
-                "title": "【#らでりあ】ロケットアイドルVTuberと見るビビデバJAXAver.解説＆特別映像も！？ゲスト：宇推くりあ【儒烏風亭らでん #ReGLOSS 】",
-                "date": "2025/10/28 21:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/SbbUetz5IpE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPZdrtt4Fj5z5VmNRIF28pP4kUhg",
-                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\n本日見る動画\nビビデバJAXAver./ビビデバ替え歌..."
-            }
-        ]
+        "videos": []
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -267,7 +251,15 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ItSzk490lyI",
+                "title": "【DICE DESIGNING!】drawing something edgy for the grim reaper's dice?! #calliolive #ad",
+                "date": "2025/10/29 07:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ItSzk490lyI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsXlfpz9E5AA4qYiscj_v3NWsc2Q",
+                "description": "Get Mori's dice in resin or glass! Available for pre-order now.\nhttps://mistymountaingaming.com/pages/mori-calliope\n\nDesign in progress, final version may differ\n\nMisty Mountain Gaming is a..."
+            }
+        ]
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -367,15 +359,7 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": [
-            {
-                "video_id": "k26tRsiXnjk",
-                "title": "【Escape From Duckov】スカベンジャーと傭兵を倒したい！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "date": "2025/10/28 21:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/k26tRsiXnjk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9LmRmjw5OZj-xOGUKDOVA3_xh3A",
-                "description": "昨日のリベンジ！！\n\n配信タイトル：エスケープ フロム ダッコフ\nストアページ：https://store.steampowered.com/app/3167020/Escape_From_Duckov/\n\nサムネイルイラ..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",

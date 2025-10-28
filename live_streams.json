@@ -145,13 +145,27 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "VYeLgnmVaL4",
+                "title": "【深夜歌枠】しっとり歌っていきます🎤【ホロライブ DEV_IS 響咲リオナ】",
+                "thumbnail": "https://i.ytimg.com/vi/VYeLgnmVaL4/hqdefault.jpg?v=6900b6ea&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6-hnvye4inwvqMTKyQQaGJBsuSQ",
+                "description": "【speical thanks】\n生音風カラオケ屋www.youtube.com/ ‪@namakara ‬ \nこのライブに用いている一部の音源は、株式会社エクシングより提供されています。..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "SbbUetz5IpE",
+                "title": "【#らでりあ】ロケットアイドルVTuberと見るビビデバJAXAver.解説＆特別映像も！？ゲスト：宇推くりあ【儒烏風亭らでん #ReGLOSS 】",
+                "thumbnail": "https://i.ytimg.com/vi/SbbUetz5IpE/hqdefault.jpg?v=6900ba1c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPZdrtt4Fj5z5VmNRIF28pP4kUhg",
+                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\n本日見る動画\nビビデバJAXAver./ビビデバ替え歌..."
+            }
+        ]
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -206,14 +220,7 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": [
-            {
-                "video_id": "YkuvzijkwWE",
-                "title": "【ASMR】メン限囁きでお試し【水宮枢／FLOW GLOW】#hololiveDEV_IS",
-                "thumbnail": "https://i.ytimg.com/vi/YkuvzijkwWE/hqdefault.jpg?v=6900ac30&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUCcxSEQifAI_nBkSsLpXkG9ohFg",
-                "description": "​\n▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸◂┄▹◃\n\n💙メンバーシップはこちらから ⬇️\nClick here for membership\nhttps://www.youtube.com/channel/UCjk2nKmHzgH5Xy-C5qYRd..."
-            }
-        ]
+        "videos": []
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -255,14 +262,7 @@
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
-        "videos": [
-            {
-                "video_id": "TRB3A0UZneg",
-                "title": "【恋愛相談】あなたの恋のお悩み夏色はあとが解決します♡【ホロライブ/夏色まつり】",
-                "thumbnail": "https://i.ytimg.com/vi/TRB3A0UZneg/hqdefault.jpg?v=69009c57&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZqHbmu-jwWgZa0EAMUAiYOrr5eQ",
-                "description": "...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\n\n【慈愛の天使】\n@AkaiHaato \n\n素敵なサムネイル→あまねこ様\n@yomiya_amaneko..."
-            }
-        ]
+        "videos": []
     },
     "@NekomataOkayu": {
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
@@ -329,7 +329,14 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "k26tRsiXnjk",
+                "title": "【Escape From Duckov】スカベンジャーと傭兵を倒したい！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "thumbnail": "https://i.ytimg.com/vi/k26tRsiXnjk/hqdefault.jpg?v=6900c7ca&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9LmRmjw5OZj-xOGUKDOVA3_xh3A",
+                "description": "昨日のリベンジ！！\n\n配信タイトル：エスケープ フロム ダッコフ\nストアページ：https://store.steampowered.com/app/3167020/Escape_From_Duckov/\n\nサムネイルイラ..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -354,14 +361,7 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": [
-            {
-                "video_id": "VJm12Ztekgo",
-                "title": "【 オフコラボ 】恐怖の新居みこ宅パーティー【ホロライブ/さくらみこ】",
-                "thumbnail": "https://i.ytimg.com/vi/VJm12Ztekgo/hqdefault.jpg?v=69005ccc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBrUeKAUeN0U0AzOzk_FWUp0jhWOg",
-                "description": "スバちゃんが例のブツを持ってきてくれるので・・・・\n@OozoraSubaru  ????\n\n🌸miComet 新衣装グッズ発売中！ ☄\nhttps://shop.hololivepro.com/products/micomet_newoutf..."
-            }
-        ]
+        "videos": []
     },
     "@SamekoSaba": {
         "channel_url": "https://www.youtube.com/@SamekoSaba",
