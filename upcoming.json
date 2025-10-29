@@ -412,15 +412,7 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": [
-            {
-                "video_id": "84t_gkiTEUs",
-                "title": "【応援会場】#常闇トワ2nd　Tokoyami Towa 2nd Live \"SHINier\"　自宅会場応援席【白上フブキ/ホロライブ】",
-                "date": "2025/10/29 16:15:00",
-                "thumbnail": "https://i.ytimg.com/vi/84t_gkiTEUs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvBpQsg0OygtnnGpkLhsCOZBDn1Q",
-                "description": "※本配信ではライブ本編の映像及び音声は流れません。「ネット配信視聴チケット」をお手元にご用意の上、ご参加ください。\n\n▼配信チケットは..."
-            }
-        ]
+        "videos": []
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -546,7 +538,15 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "cMReIopmScg",
+                "title": "【CARIMARA: Beneath the forlorn limbs】who up forlorning they limbs",
+                "date": "2025/10/30 07:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/cMReIopmScg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAR-wA1F1SDJMxDmzzZZKzPwxEnUw",
+                "description": "waiting room is currently a safe estimate on when i think i'll be back\nMIGHT start earlier, timeslot unsure because of gigimama task.\nwill keep you updated on if time needs to be pushed back!..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
