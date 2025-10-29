@@ -39,14 +39,7 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": [
-            {
-                "video_id": "TUmY5nXuId4",
-                "title": "DUN TAKA DUN TAKA DUN TAKA TAN [ SPOILER ALERT ]",
-                "thumbnail": "https://i.ytimg.com/vi/TUmY5nXuId4/hqdefault.jpg?v=6901eabd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOb8I_KTd7Wo1Xu8_TxdUOAql-HA",
-                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\n#ラタタン #Ratatan\n© 2025 Ratata Arts Co. Ltd. All rights reserved.\nSteam: https://store.steampowered.com/app/2949320/Ratatan\n..."
-            }
-        ]
+        "videos": []
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -180,7 +173,14 @@
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "fbdXYzElkuU",
+                "title": "【UNARCHIVE KARAOKE】 VERY SHORT-- JUST SINGING A BIT :3c 【Kureiji Ollie】",
+                "thumbnail": "https://i.ytimg.com/vi/fbdXYzElkuU/hqdefault.jpg?v=6901fe60&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCk7TDSIeyA-F9XuzjNNlS4TEV7fA",
+                "description": "❥・・───༅༚˳ . ୨୧ . ˳༚༅༚─── ・・❥\n\n#OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n────୨｡ ₊°༺❤︎༻°₊ ｡ৎ────\n\nEnglish Karaoke..."
+            }
+        ]
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
@@ -309,13 +309,27 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "jNlojNbC1wk",
+                "title": "【CloverPit】what's after the drawers【Pavolia Reine/hololiveID 2ndgen】",
+                "thumbnail": "https://i.ytimg.com/vi/jNlojNbC1wk/hqdefault.jpg?v=6901fd0a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATBRDjTvVQQz1SP1EwA6p2NCGGcQ",
+                "description": "Reine's new original song now AVAILABLE on iTunes, Apple Music, Spotify etc. starting September 10, 2025 00:00 your local time!!!\nWatch the MV:➡️https://youtu.be/NEtiag8nTUs\nGet it here:➡️h..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "4EevkuiFXbM",
+                "title": "【メン限ラジオ】輪堂千速のニックナイトガレーディオ #6【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "thumbnail": "https://i.ytimg.com/vi/4EevkuiFXbM/hqdefault.jpg?v=690206a9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBf9Pl6Flo0JxCTNcLxe5fzbPC-LA",
+                "description": "この配信でいただいたスーパーチャットなどは最後にお名前だけお呼びさせていただきます。\n\nBGM：トーマス大森音楽工房\nhttps://youtube.com/@FM_ThomasOo..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
