@@ -39,7 +39,14 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "UZeIaGxQ3zc",
+                "title": "SAL KESTIC",
+                "thumbnail": "https://i.ytimg.com/vi/UZeIaGxQ3zc/hqdefault.jpg?v=6901a0f5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBiWIf_GBXsc-iIz4AM-d8Fc2TEPg",
+                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nGame title：STAR WARS Jedi: Fallen Order™\nStore page：https://store.steampowered.com/app/1172380/STAR_WARS/\n\nーーーーーーーーー..."
+            }
+        ]
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -129,14 +136,7 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w",
-        "videos": [
-            {
-                "video_id": "Ry4qblLzPtQ",
-                "title": "【Omelet You Cook】never stop cooking 👨‍🍳",
-                "thumbnail": "https://i.ytimg.com/vi/Ry4qblLzPtQ/hqdefault.jpg?v=69017e2f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4uRYSCcgSzyL3tRJo_8ONLHM-ig",
-                "description": "【Donasi lokal】Traktir yang pahit-pahit kini sangat EZGGWP!~\nLink: https://sociabuzz.com/kaelakovalskia/tribe\n\n#Kaelaif #KaelaKovalskia #holoID #hololive #hololiveID \n∘₊✧──────..."
-            }
-        ]
+        "videos": []
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
