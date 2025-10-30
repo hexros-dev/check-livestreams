@@ -301,7 +301,14 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "GJReIH3er8Y",
+                "title": "【歌枠/KARAOKE】ひさびさにうた～～～～うよ！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "thumbnail": "https://i.ytimg.com/vi/GJReIH3er8Y/hqdefault.jpg?v=6903285e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJRXxT5GjuLF4OVi2grTSkICXU2A",
+                "description": "このライブに用いている一部の音源は、株式会社エクシングより提供されています。\n\nサムネイルイラスト：Araraさま\nhttps://x.com/arara0916\nありがとう..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
