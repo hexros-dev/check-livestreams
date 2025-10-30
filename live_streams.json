@@ -21,7 +21,14 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "EeE5pKh4DX4",
+                "title": "【GTA5│MAD TOWN】いよいよ明日でラスト！？終わりたくない【アキロゼ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/EeE5pKh4DX4/hqdefault.jpg?v=69033aa7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlI_trwkBnte5C0-BTjtDJ_y47DA",
+                "description": "この放送はvaultroomの実施する企画の一環として、配信しております。\nRockstar Gamesの許諾を得て収益化しております。\n\nサムネイルイラスト\nささく..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -149,7 +156,14 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ry3qT6Il7x8",
+                "title": "【 縦型歌枠】４７万人を目指して！！！！！【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "thumbnail": "https://i.ytimg.com/vi/ry3qT6Il7x8/hqdefault.jpg?v=69033f83&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXui4u3YkZAoMoJngHjR27uxeezQ",
+                "description": "メンバーシップ開設しました！加入はこちらから💕https://www.youtube.com/channel/UCGzTVXqMQHa4AgJVJIVvtDQ/join\n\n📢iOS ユーザーの皆様へ / for iOS(iPHONE, iPAD)..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -301,14 +315,7 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": [
-            {
-                "video_id": "GJReIH3er8Y",
-                "title": "【歌枠/KARAOKE】ひさびさにうた～～～～うよ！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "thumbnail": "https://i.ytimg.com/vi/GJReIH3er8Y/hqdefault.jpg?v=6903285e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJRXxT5GjuLF4OVi2grTSkICXU2A",
-                "description": "このライブに用いている一部の音源は、株式会社エクシングより提供されています。\n\nサムネイルイラスト：Araraさま\nhttps://x.com/arara0916\nありがとう..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
