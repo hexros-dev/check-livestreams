@@ -269,13 +269,6 @@
                 "date": "2025/11/02 12:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/vJ2yfebz-PM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBN1j8uPBIlpKrE5c4wJK8SIRLTcw",
                 "description": "配信タイトル：Pokémon LEGENDS Z-A\nストアページ：https://store-jp.nintendo.com/item/software/D70010000094233\n\n▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸◂┄▹◃\n\n💙メン..."
-            },
-            {
-                "video_id": "wBeZOeDyqdQ",
-                "title": "【小学生で知りたい法律 こども裁判クイズ】水宮賢なんでわかります✨【水宮枢／ホロライブDEV_IS】",
-                "date": "2025/10/31 12:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/wBeZOeDyqdQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfxcU3moV0l6oXhWrS1JB69yMrVw",
-                "description": "本ゲームはMASKの許諾を受けて配信・収益化を行っております\n▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸◂┄▹◃\n\n💙メンバーシップはこちらから..."
             }
         ]
     },
@@ -588,7 +581,15 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "nZn43abvpog",
+                "title": "【コラボ】パッションで乗り越えろ！AmongUs【 雪花ラミィ /ホロライブ】",
+                "date": "2025/10/31 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/nZn43abvpog/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxT39lZ2cgODX7Iarj3E6rTakqEA",
+                "description": "主催：大空スバル　https://www.youtube.com/@UCvzGlP9oQwU--Y0r9id_jnA \n\n愉快なメンバー\nhttps://www.youtube.com/@UCp6993wxpyDPHUpavwDFqgg \nhttps://www.youtube.com/@UCdn5BQ06XqgXoAxIhbq..."
+            }
+        ]
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
