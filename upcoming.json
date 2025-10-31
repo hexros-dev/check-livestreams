@@ -59,15 +59,7 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": [
-            {
-                "video_id": "fRqhZO4M55A",
-                "title": "【PHASMOPHOBIA VR in 3D SELF BOOTH】haunted by the ghosts in hololive's 3D studio 🐾【FUWAMOCO】",
-                "date": "2025/10/31 10:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/fRqhZO4M55A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtoqdH3WDuq4UcnWGnp5gDHVpxjg",
-                "description": "don't know how we'll survive this one ✨️\nnow in full 3D with the help of the NEW 3D self booth technology 💓\nphoto by TerribleJoe @SeptetteS 💕\n\n🩵 FUWAMOCO 𝟮𝗻𝗱 𝗼𝗿𝗶𝗴..."
-            }
-        ]
+        "videos": []
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -99,7 +91,15 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "d0vDQvV3jwI",
+                "title": "【 Dead Space 】名作サバイバルホラー「デッドスペース」に挑戦するのらあああ！！！＃２【姫森ルーナ/ホロライブ】",
+                "date": "2025/11/01 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/d0vDQvV3jwI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBy7s8_9gttThAdpM2JI8LhaqY4Sw",
+                "description": "サムネイラスト\n　Absentさん　https://twitter.com/absentable655\n\n👑誕生日記念グッズ2025👑\n■販売ページURL（2025年11月10日(月)18時まで）\nhttps://shop.hololivepro..."
+            }
+        ]
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -571,15 +571,7 @@
         "channel_url": "https://www.youtube.com/@dooby3d",
         "channel_name": "dooby",
         "avatar_url": "https://yt3.googleusercontent.com/sOGyZgV9pPHQJCEvNe28NCOFC1y0KggsxUjrP5ecMAgBmdNT8p6ZNM24d_9SVgWFhBh0lKBL5Q",
-        "videos": [
-            {
-                "video_id": "yMeNXTqRvfI",
-                "title": "doobgenerate hours",
-                "date": "2025/10/31 09:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/yMeNXTqRvfI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDB90Lt6VWvDx0qrwkIkgaVj6u3QQ",
-                "description": "eeep"
-            }
-        ]
+        "videos": []
     },
     "@holoen_ceciliaimmergreen": {
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
