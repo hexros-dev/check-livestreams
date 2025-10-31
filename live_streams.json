@@ -322,14 +322,7 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": [
-            {
-                "video_id": "zDZK_e1z7kw",
-                "title": "#05【Pokémon LEGENDS Z-A】ニンフィアと行く！ポケモン初心者が再び旅に出る【不知火フレア/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/zDZK_e1z7kw/hqdefault.jpg?v=6904b543&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBz9qku9fn_YGVgGM3mNLIEt9DBnw",
-                "description": "ブイズパ目指します、一旦普通に進めます\n\n■New「Fun fair」MV公開✨\nhttps://www.youtube.com/watch?v=FdKux6g4HJ4\n\n━━━━━━━━━━━━━━━━━━━━..."
-            }
-        ]
+        "videos": []
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -413,7 +406,14 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "oyYgeVvHO2Y",
+                "title": "Let's watch IT (the movie)!!【WATCHALONG】",
+                "thumbnail": "https://i.ytimg.com/vi/oyYgeVvHO2Y/hqdefault.jpg?v=6904df0b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArH3tBTPGRPuMkOovzsO2hXcd7QQ",
+                "description": "--------------------------\nHashtags\n📺 Livestream: #ImmerScreen \n🎨 Fanart: #Immergination\n🎻 Music: #ImmerPiece\n🤡 Memes: #ImmerMemes \n--------------------------\n\n\n------------------------..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
