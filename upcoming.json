@@ -123,7 +123,15 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "IBY2X0P_ESk",
+                "title": "【Dead Space 2】IRyS in Space Again",
+                "date": "2025/11/01 11:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/IBY2X0P_ESk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVoZPSwbNZumic95_7SL4j3dzbCQ",
+                "description": "It has been quite a while since we last played Dead Space\n\nGame Title: Dead Space 2\nStore Page: https://store.steampowered.com/app/47780/Dead_Space_2/\n\n#hololiveenglish  #ホロライブ \n..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -429,15 +437,7 @@
         "channel_url": "https://www.youtube.com/@SamekoSaba",
         "channel_name": "saba",
         "avatar_url": "https://yt3.googleusercontent.com/gNZv93GVlg3GAco7HTg2OXl_9s2Pm3lG6DxNfOXqPkLRNcM5BSEOAcQGpgQ8AejiEam5ElLG",
-        "videos": [
-            {
-                "video_id": "Dw2nc5YZtXA",
-                "title": "【Halloween】Scary VR games + Scary costume reveal!",
-                "date": "2025/11/01 04:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Dw2nc5YZtXA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGMMx4TG_kQjprsi3EWfwkUR8pLQ",
-                "description": "i'm running on a reeces cup and a shot of espresso\n\n🐟 https://x.com/samekosaba\n#samekosaba \n\n\n\nchat rules: please help me make this a welcoming space for everyone!\n- treat every participant..."
-            }
-        ]
+        "videos": []
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
@@ -481,15 +481,7 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": [
-            {
-                "video_id": "8ngKArtcNWw",
-                "title": "【DREAMHACK】streaming the COSPLAY CONTEST straight from the venue! (read description)",
-                "date": "2025/11/01 03:45:00",
-                "thumbnail": "https://i.ytimg.com/vi/8ngKArtcNWw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCUlBZTgBHcZ6R7hLkzcO69R0jvbw",
-                "description": "Kikkeriki! I am a guest at Dreamhack today, and they are streaming to their own YT and Twitch. I am just restreaming the same footage, so there won't be interaction with chat or too much focus..."
-            }
-        ]
+        "videos": []
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
