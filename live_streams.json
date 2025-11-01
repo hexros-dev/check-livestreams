@@ -69,14 +69,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "oIc7Nq_LzEY",
-                "title": "【エスケープ フロム ダッコフ】面白すぎて無限に遊べるらしいダッコフをやってみる！！！【博衣こより/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/oIc7Nq_LzEY/hqdefault.jpg?v=6904e1c4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDoIo5Tfp2IzFDZdOcmvHyI_pcNiw",
-                "description": "めっちゃ面白いらしく気になってたやーつ！！！気づいたらホロライブでも流行ってた！\n💿1stアルバム「FIRST STEP」発売中！全曲新録！成長した..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -347,7 +340,14 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "tPpfkoUIEyI",
+                "title": "【Blue Protocol: Star Resonance】Back for a special festival!!! Happy Halloween ingame! #ad",
+                "thumbnail": "https://i.ytimg.com/vi/tPpfkoUIEyI/hqdefault.jpg?v=69054968&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCagBV73m_Uc1sKzigkbh94NZj9eA",
+                "description": "Blue Protocol: Star Resonance\nhttps://bpsr.onelink.me/Ijsy/9d8zdbro\n\nWEB：https://www.playbpsr.com/\nX：@Blue Protocol: Star Resonance\n\nTrick or Treat?!!! Let's celebrate Halloween ONLINE..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
@@ -377,14 +377,7 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": [
-            {
-                "video_id": "mNLf-JgAN1M",
-                "title": "【雑談＆お礼】日曜日は歌ってみた動画を投稿します！！ぞ！！！【角巻わため/ホロライブ４期生】",
-                "thumbnail": "https://i.ytimg.com/vi/mNLf-JgAN1M/hqdefault.jpg?v=690538fe&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYHOaLZqUvPo9b5bqFRH1RCIOUXA",
-                "description": "今日は短め、短め...\nタグ：#ドドドライブ \n\n🐏角巻わため BIGぬいぐるみ販売開始🎉\nhttps://shop.hololivepro.com/products/tsunomakiwatame_bigplushie\n\n-----------------..."
-            }
-        ]
+        "videos": []
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
