@@ -413,7 +413,14 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "0p7Xk4Knkn0",
+                "title": "【New Accessory Reveal】WHOA WHAT'S THIS!?!?!?!?!? #JusticeGirlsNight",
+                "thumbnail": "https://i.ytimg.com/vi/0p7Xk4Knkn0/hqdefault.jpg?v=690672db&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDE8kpkcaPaHx9VBK_ALmV52iZhKw",
+                "description": "--------------------------\nHashtags\n📺 Livestream: #ImmerScreen \n🎨 Fanart: #Immergination\n🎻 Music: #ImmerPiece\n🤡 Memes: #ImmerMemes \n--------------------------\n\n\n------------------------..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
@@ -425,14 +432,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "U-dFxkEvBbY",
-                "title": "【New Accessory Reveal】LET'S ADDRESS THE SITUATION #JusticeGirlsNight",
-                "thumbnail": "https://i.ytimg.com/vi/U-dFxkEvBbY/hqdefault.jpg?v=69056699&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZqR69OcAEncOTi9_LIc3nySW_iQ",
-                "description": "【Gigi Murin BDAY Plushie】\nhttps://shop.hololivepro.com/en/products/gigimurin_birthday_2025\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
