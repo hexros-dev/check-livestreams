@@ -47,15 +47,7 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": [
-            {
-                "video_id": "cFEaiDPARDs",
-                "title": "#3 RV GETTING OUT OF THE CAVE w/ @sammybollivienn",
-                "date": "2025/11/01 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/cFEaiDPARDs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbUoHJsGpyNi-NqOQ6vdGJ6Cc2yw",
-                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nGame title：RV There Yet?\nStore page：https://store.steampowered.com/app/3949040/RV_There_Yet/\n\nーーーーーーーーー\n\nSTREAM..."
-            }
-        ]
+        "videos": []
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -163,7 +155,15 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "gepBbQyyPNM",
+                "title": "【 #めぐるきらでん同時視聴 】『劇場版 忍たま乱太郎 ドクタケ忍者隊最強の軍師』世界一うるさい同時視聴配信 【儒烏風亭らでん 】",
+                "date": "2025/11/01 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/gepBbQyyPNM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCHrm-cpBa_WAx_pefaTFFNbgd-aA",
+                "description": "同時視聴する映画\n劇場版 忍たま乱太郎 ドクタケ忍者隊最強の軍師\n\n同時視聴の方法\n①それぞれで映画を用意（映像サブスクサービスやレンタル..."
+            }
+        ]
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -300,13 +300,6 @@
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
         "videos": [
-            {
-                "video_id": "L-XVS13TRTI",
-                "title": "【 #夏色まつり誕生祭2025 】重大告知あり！アイドル革命進行中！～今日の主役は夢の途中～　【ホロライブ/夏色まつり】",
-                "date": "2025/11/01 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/L-XVS13TRTI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDutyY-29F4dgnCbsihhMBLsaGugg",
-                "description": "当ライブは事前収録となります。\n\n【音源】\nトライフロンティア合同会社\nよつやちゃん　https://twitter.com/yotsuyachan__\n宮内椋太　https://twitter.com/mukudor..."
-            },
             {
                 "video_id": "f1L9US7hOqk",
                 "title": "【 #夏色まつり誕生祭2025 】メンバー限定アンコールライブ！【ホロライブ/夏色まつり】",
@@ -654,7 +647,15 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "fJ80E_sbic8",
+                "title": "【FF7】最終回！ファイナルファンタジー7 オリジナル版の世界にいくぞ！FINAL FANTASY VII！ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意",
+                "date": "2025/11/02 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/fJ80E_sbic8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8StRusd3IZOcLnnGuAzCjQ6hSYg",
+                "description": "行くわよ！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
