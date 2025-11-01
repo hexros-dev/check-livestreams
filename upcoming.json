@@ -402,7 +402,15 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "SYeAXSpBtrY",
+                "title": "【 はいしんよてち！ 】やるぞ！！！！！！！！！！【ホロライブ/さくらみこ】",
+                "date": "2025/11/01 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/SYeAXSpBtrY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDixBBJbR105YIPu_560Sk4KqlXg",
+                "description": "🌸miComet 新衣装グッズ発売中！ ☄\nhttps://shop.hololivepro.com/products/micomet_newoutfit_2025\n\n🌸miComet 2nd Original Music 『Lollipop』☄\n歌：miComet　/ さくらみこ..."
+            }
+        ]
     },
     "@SamekoSaba": {
         "channel_url": "https://www.youtube.com/@SamekoSaba",
