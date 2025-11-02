@@ -291,14 +291,7 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": [
-            {
-                "video_id": "RLgGH3DeCbU",
-                "title": "【 ポケモンルビー 】色違い耐久２８日目🎣みこちと金コイ伝説～最弱からみんなで最強に育てる旅～【ホロライブ/さくらみこ】",
-                "thumbnail": "https://i.ytimg.com/vi/RLgGH3DeCbU/hqdefault.jpg?v=690729bd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqyU4ffYwA0nbLwTlEkM36_Ef9_Q",
-                "description": "きょうこそくるはずや！！！！！！！！！！！！\n\n🌸miComet 新衣装グッズ発売中！ ☄\nhttps://shop.hololivepro.com/products/micomet_newoutfit_2025\n\n🌸miComet..."
-            }
-        ]
+        "videos": []
     },
     "@SamekoSaba": {
         "channel_url": "https://www.youtube.com/@SamekoSaba",
@@ -412,7 +405,14 @@
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "7dK0r-WoV58",
+                "title": "【Justice Girls' Night】Games Night #1 #holojustice",
+                "thumbnail": "https://i.ytimg.com/vi/7dK0r-WoV58/hqdefault.jpg?v=69044d87&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACCyYheWFUDawGGnikGh7I0qwuKA",
+                "description": "▬▬ι════════ﺤ\nThis game is being streamed and monetized after confirming with Czech Games Edition (CGE), the creators of Codenames.\n▬▬ι════════ﺤ..."
+            }
+        ]
     },
     "@holoen_gigimurin": {
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
