@@ -368,15 +368,7 @@
         "channel_url": "https://www.youtube.com/@SamekoSaba",
         "channel_name": "saba",
         "avatar_url": "https://yt3.googleusercontent.com/gNZv93GVlg3GAco7HTg2OXl_9s2Pm3lG6DxNfOXqPkLRNcM5BSEOAcQGpgQ8AejiEam5ElLG",
-        "videos": [
-            {
-                "video_id": "TJGOk7Yi8qQ",
-                "title": "【KARAOKE】hello, roommate!",
-                "date": "2025/11/03 05:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/TJGOk7Yi8qQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD37wsjVYZV6YYkJOo4X3wAAZsM-g",
-                "description": "the acoustics in here sure are great!\n\n🐟 https://x.com/samekosaba\n#samekosaba \n\n\nintro sound + mixing: https://x.com/KickbackSound\n\n\nchat rules: please help me make this a welcoming space..."
-            }
-        ]
+        "videos": []
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
@@ -394,7 +386,15 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "smEbqlxqRoI",
+                "title": "#07【Pokémon LEGENDS Z-A】ニンフィアと行く！ポケモン初心者が再び旅に出る【不知火フレア/ホロライブ】",
+                "date": "2025/11/03 05:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/smEbqlxqRoI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWOvL1Dd7ucVV6PPfmuUaPueKt2w",
+                "description": "ブイズパ基本でいきます\n\n■New「Fun fair」MV公開✨\nhttps://www.youtube.com/watch?v=FdKux6g4HJ4\n\n━━━━━━━━━━━━━━━━━━━━━━━\n■Newシング..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
