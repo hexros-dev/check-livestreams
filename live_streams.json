@@ -138,20 +138,20 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": [
-            {
-                "video_id": "UF9uLZP5n0c",
-                "title": "【PowerWash Simulator 2】高圧洗浄機やってみたかったんだよなああああ【ホロライブ DEV_IS 響咲リオナ】",
-                "thumbnail": "https://i.ytimg.com/vi/UF9uLZP5n0c/hqdefault.jpg?v=6906eb4d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDR4g2UIjY9XTSrSLDt-7vxAJHs1w",
-                "description": "配信タイトル：PowerWash Simulator 2\nストアページ：https://store.steampowered.com/app/2968420/PowerWash_Simulator_2/\n\nサムネイラスト 汐よる様 (@ushio_yoru) ありがとう..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "NyyVqmEVWjA",
+                "title": "【リトルナイトメア3】#2 夜は短し歩けよるりらでん ※ネタバレあり【栞葉るり/儒烏風亭らでん】",
+                "thumbnail": "https://i.ytimg.com/vi/NyyVqmEVWjA/hqdefault.jpg?v=69065d79&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3y7sWFJav-nX1XyWWXfWWRdPigA",
+                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\n#1 はこちら\nhttps://www.youtube.com/live/VwlPZZZf1wY?si=h..."
+            }
+        ]
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -238,14 +238,7 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": [
-            {
-                "video_id": "SxPs5aKg45U",
-                "title": "【DEVIL MAY CRY 4】THE TIME HAS COME AND SO HAVE I (part 2) #calliolive",
-                "thumbnail": "https://i.ytimg.com/vi/SxPs5aKg45U/hqdefault.jpg?v=6905ede8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJJFVR6tIQGaZsrKa9McN0KowugA",
-                "description": "superchats read at the end!\n\nBGM: https://x.com/BigRicePiano\nhttps://x.com/the_arkhand\nhttps://x.com/alterclad\n\nRequest from hololive Productions to underage viewers\nPlease search for [Request..."
-            }
-        ]
+        "videos": []
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -499,7 +492,14 @@
         "channel_url": "https://www.youtube.com/@mikenekoko",
         "channel_name": "みけねこch",
         "avatar_url": "https://yt3.googleusercontent.com/_bT74ettx8Ei9p0zHrSbKdAe1oyaCAbbbXa9teIsxgOtlPl2RADYotJ_kGKwHsNdtWh8D2Hu",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "j9sHbAgQx1k",
+                "title": "【ホロライブお宝マウンテン】推しキャラを集めてぺこらを作りたい！！！！",
+                "thumbnail": "https://i.ytimg.com/vi/j9sHbAgQx1k/hqdefault.jpg?v=6906cce5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBE3nb5dK8WpfyIWxIEdq-s-X14Q",
+                "description": "ハロウィン限定グッズ！１１・３まで！\nhttps://mikenekoko.booth.pm/items/7551766\n\n💘セクシーFANBOX\nhttps://mikenekoko.fanbox.cc/posts/10600424\n\n💕ホログラムキーホル..."
+            }
+        ]
     },
     "@niminightmare": {
         "channel_url": "https://www.youtube.com/@niminightmare",
