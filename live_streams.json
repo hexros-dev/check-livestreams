@@ -39,7 +39,14 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "sWXya9NCpf4",
+                "title": "Monday Morning November !!!!!!",
+                "thumbnail": "https://i.ytimg.com/vi/sWXya9NCpf4/hqdefault.jpg?v=690816cb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDSmNh3sX34tS3gf7Jn_xwo25q9Dg",
+                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nーーーーーーーーー\n\nSTREAM MY NEWEST ORIGINAL SONG メトロポリス (metropolis) IN YOUR PREFERRED MUSIC STREAMING PLATFORM!!!..."
+            }
+        ]
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -196,14 +203,7 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": [
-            {
-                "video_id": "3bFvhnGhsns",
-                "title": "【UNARCHIVED KARAOKE】singing and leaving no record of it!! #calliolive",
-                "thumbnail": "https://i.ytimg.com/vi/3bFvhnGhsns/hqdefault.jpg?v=69039966&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHRsTeH2jXlXXfD4xXDLrUKC8wEA",
-                "description": "singing with no archive!\n\nBGM: https://x.com/BigRicePiano\nhttps://x.com/the_arkhand\nhttps://x.com/alterclad\n\nRequest from hololive Productions to underage viewers\nPlease search for [Request..."
-            }
-        ]
+        "videos": []
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
