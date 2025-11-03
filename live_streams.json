@@ -39,14 +39,7 @@
         "channel_url": "https://www.youtube.com/@AyundaRisu",
         "channel_name": "Ayunda Risu Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": [
-            {
-                "video_id": "sWXya9NCpf4",
-                "title": "Monday Morning November !!!!!!",
-                "thumbnail": "https://i.ytimg.com/vi/sWXya9NCpf4/hqdefault.jpg?v=690816cb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDSmNh3sX34tS3gf7Jn_xwo25q9Dg",
-                "description": "#Risu_Live #Ayunda_Risu #holoid #hololive_id #hololive \n\nーーーーーーーーー\n\nSTREAM MY NEWEST ORIGINAL SONG メトロポリス (metropolis) IN YOUR PREFERRED MUSIC STREAMING PLATFORM!!!..."
-            }
-        ]
+        "videos": []
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -89,7 +82,14 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "pRIjGYn5-tc",
+                "title": "【 Dead Space 】名作サバイバルホラー「デッドスペース」に挑戦するのらあああ！！！＃３ 最終回【姫森ルーナ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/pRIjGYn5-tc/hqdefault.jpg?v=6907270c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-0NH6tBT_9FLmFPiPgIQAu_1IWQ",
+                "description": "サムネイラスト\n　Absentさん　https://twitter.com/absentable655\n\n👑誕生日記念グッズ2025👑\n■販売ページURL（2025年11月10日(月)18時まで）\nhttps://shop.hololivepro..."
+            }
+        ]
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -150,7 +150,14 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "3rREfLtWGt8",
+                "title": "【RV There Yet?】everything will be alright【KOPIKANON】",
+                "thumbnail": "https://i.ytimg.com/vi/3rREfLtWGt8/hqdefault.jpg?v=690827d0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfOWks0tAWqYpt5_PhmLPlYpDsbw",
+                "description": "Playing with @ONShannon_ @PiaMeraleo-JKT48V \n∘₊✧──────✧₊∘∘₊✧──────✧₊∘∘₊✧──────✧₊∘∘₊✧──────✧₊∘..."
+            }
+        ]
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
