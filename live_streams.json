@@ -243,7 +243,14 @@
         "channel_url": "https://www.youtube.com/@NakiriAyame",
         "channel_name": "Nakiri Ayame Ch. 百鬼あやめ",
         "avatar_url": "https://yt3.googleusercontent.com/3CeLWGYb6cLUywTJzNt-UpITviNxeGNvtjhIqbV-AIybCqCoFw9onWtg91bjwpqvfEP9mfqIR4Q",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "qBVZw90APDU",
+                "title": "【 VALORANT 】V最チーム７ DAY5  ショーティマスターに余はなる！【百鬼あやめ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/qBVZw90APDU/hqdefault.jpg?v=690866ed&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCrAc1z9qnT4HPHvZPwsUKFAOZqsA",
+                "description": "- - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - -ഒ˖°\n\n\nチームメンバー\n@MurakumoKagetsu \n@uruhaichinose \n@kohakuteto_Q \n@totokogara..."
+            }
+        ]
     },
     "@NanashiMumei": {
         "channel_url": "https://www.youtube.com/@NanashiMumei",
@@ -421,14 +428,7 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": [
-            {
-                "video_id": "phrmAvNnxlc",
-                "title": "【Minecraft】夕方ののんびりマイクラ【ホロライブ/ときのそら】",
-                "thumbnail": "https://i.ytimg.com/vi/phrmAvNnxlc/hqdefault.jpg?v=69085839&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQYcYiEp-lUnxE73r0ebE6fvdUHg",
-                "description": "今日はまったりマイクラ生活だ～！！\n\n\n2026年1月10日(土) 東京国際フォーラムホールAにて\nときのそら史上最大規模ワンマンライブ開催決定！！！..."
-            }
-        ]
+        "videos": []
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
