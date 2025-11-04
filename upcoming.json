@@ -554,7 +554,15 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "_wMpl1hzejo",
+                "title": "【ANGER FOOT】i've mastered the way of the fists now to master the way of the foots",
+                "date": "2025/11/05 06:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/_wMpl1hzejo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAiAsrCET8yQJrpvyAw3DB7l59n2g",
+                "description": "title that was under consideration but unfortunately canceled: ive mastered fisting time to master footing\n\nGame Title: Anger Foot\nStore Page: https://store.steampowered.com/app/1978590/Anger_Foot/..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
