@@ -106,7 +106,14 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Mx20y5Mb2V0",
+                "title": "【SEKIRO: SHADOWS DIE TWICE】BUSHIDORyS",
+                "thumbnail": "https://i.ytimg.com/vi/Mx20y5Mb2V0/hqdefault.jpg?v=690a4473&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARq_hz-ZgGekp8wnKqxxtfYCmJIg",
+                "description": "I'm back my master\n\nThis game is streamed and monetized after confirming with FromSoftware, Inc., and following the guidelines set out in the \"Videos and Images Publication Guidelines\".\nhttps://www..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
