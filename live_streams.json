@@ -237,7 +237,14 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "WsgSMoIjUsM",
+                "title": "【OHAPOL】＃186 11/6木曜日！頸動脈から朝活がふきでて #ポルカ公演中 【尾丸ポルカ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/WsgSMoIjUsM/hqdefault.jpg?v=690bcffe&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALBlPJHFJyZR6DnnK62dWCSITQsQ",
+                "description": "サムネイルありがとうございます！\nhttps://x.com/Porco_JJ\n\n▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄\n\nOHAPOL（おはポル）は不定期で朝6時から配信！\n主に水曜〜..."
+            }
+        ]
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
@@ -411,14 +418,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "891lX6DHEoA",
-                "title": "【UNARCHIVED KARAOKE】NO SETLIST WE VIBE!!!!!",
-                "thumbnail": "https://i.ytimg.com/vi/891lX6DHEoA/hqdefault.jpg?v=690b28c2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEvxynKeBwLcSCEU_8fm3MvTO4-w",
-                "description": "【Gigi Murin BDAY Plushie】\nhttps://shop.hololivepro.com/en/products/gigimurin_birthday_2025\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
@@ -442,7 +442,14 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "e3VVfecwOlA",
+                "title": "【Pokémon Legends: Z-A】 Get paycheck. Buy fashion. Repeat. | #5",
+                "thumbnail": "https://i.ytimg.com/vi/e3VVfecwOlA/hqdefault.jpg?v=690bca62&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQ6CSp8tQhLnJgU8eQ8Se3YYVQJQ",
+                "description": "I fight not for money but for FASHION\n\n☁  Thumbnail Art  ☁\nhttps://x.com/soratoriman/status/1984554220985729085\nThank you so much!!\n\nMerch: https://ohmonah.shop/collections/nimi-nightmare..."
+            }
+        ]
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
