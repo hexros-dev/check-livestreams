@@ -191,7 +191,15 @@
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
         "channel_name": "Moona Hoshinova hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ZSNN5ugdf9k",
+                "title": "【FANTASY LIFE i: The Girl Who Steals Time】Ginor up to lv 5?【hololive】",
+                "date": "2025/11/06 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ZSNN5ugdf9k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC83xyPLJm0iA45XOhUvNafE8s4uw",
+                "description": "Streamlabs donation link here : https://streamlabs.com/moonahoshinovahololive-id/tip\nSociaBuzz donation link here : https://sociabuzz.com/moonahoshinova/tribe\n======================================..."
+            }
+        ]
     },
     "@MoriCalliope": {
         "channel_url": "https://www.youtube.com/@MoriCalliope",
