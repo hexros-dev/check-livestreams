@@ -71,15 +71,7 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": [
-            {
-                "video_id": "Uc68bMAxPGM",
-                "title": "≪APEX LEGENDS≫ Professional Streamer is back w/ Towa Sama",
-                "date": "2025/11/06 10:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Uc68bMAxPGM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpfNQ1ypNKlrU18K9uZSLk9JAxZA",
-                "description": "UPDATED AND READY \nw/@TokoyamiTowa \n\nThumbnail Art: https://x.com/_fyuu/status/1830154114841657669/photo/1\n\n#telebae #hololiveenglish \n\n««≪ °◇◆◇° ≫ »»\nThis game is being streamed..."
-            }
-        ]
+        "videos": []
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -158,13 +150,6 @@
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
         "videos": [
-            {
-                "video_id": "JmFz_5V45Ms",
-                "title": "【定期配信＃１1】水曜のお昼の１２時はリオナとランチ❤【ホロライブ DEV_IS 響咲リオナ】#リオナとランチ",
-                "date": "2025/11/06 10:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/JmFz_5V45Ms/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyCmw5tUbioKi4z0X4-VYD0rmqgg",
-                "description": "♡...本日のスパーチャットはお名前読み上げのみになります！！\n\nサムネイラスト　あやめなこさん @ joumoku \nサムネロゴ　ロオウズさん @ roooose25..."
-            },
             {
                 "video_id": "pDezwxg68Xo",
                 "title": "【エスケープ フロム ダッコフ】二つ目のマップ攻略した！い！＃２【ホロライブ DEV_IS 響咲リオナ】",
@@ -268,7 +253,15 @@
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "lOQ_9eULWNY",
+                "title": "【崩壊：スターレイル】完全初見！新たな星へ...！！【ホロライブ/夏色まつり】",
+                "date": "2025/11/06 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/lOQ_9eULWNY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAVeMN-WW7lq2BSIesREQOvXMJirw",
+                "description": "...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\n\n素敵なサムネイル→ちゃんまろる様\n@chanmarorunoe\n\n...｡oо○**○оo｡...｡oо..."
+            }
+        ]
     },
     "@NekomataOkayu": {
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
@@ -451,15 +444,7 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": [
-            {
-                "video_id": "YSg1m3sKfhc",
-                "title": "【 Apex Legends 】べーと一緒に練習会✨️【常闇トワ視点 / ホロライブ】",
-                "date": "2025/11/06 10:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/YSg1m3sKfhc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWgjJqup3BSINZ2aY9qsgXtpPXgQ",
-                "description": "@HakosBaelz \n\n本ゲームは © 2022 Electronic Arts Inc. の承諾を得た上で配信・収益化を行なっております\n\n୨୧-------------------------------┈┈┈┈┈┈┈┈┈┈..."
-            }
-        ]
+        "videos": []
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
@@ -493,6 +478,13 @@
                 "date": "2025/11/07 19:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/38fJIy2FoDg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1Y7JpKO-ul9x542SvKEdakxNLFw",
                 "description": "★ Oshi mark: 📜\n★Twitter (updates about schedule & stream time): https://twitter.com/vestiazeta\n★ Donasi Lokal: https://sociabuzz.com/vestiazeta/tribe\n\nOverlay design: https://x.com/yamiyou..."
+            },
+            {
+                "video_id": "xbmSq0MXnfE",
+                "title": "【BDAY COUNTDOWN】Chat & New reveal ❗❗#AgentTest3D",
+                "date": "2025/11/06 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/xbmSq0MXnfE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnzRP4kc_WOLVY_m94v11kFRJu4g",
+                "description": "#vestiazeta #hololive #vtuber #holoid #hololiveindonesia \n\nThumbnail: https://x.com/natha_yz\n\nThis game is being streamed with in accordance with the “Bandai Namco Entertainment Game Video..."
             }
         ]
     },
