@@ -86,13 +86,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
         "videos": [
             {
-                "video_id": "Ox39GGhaLjI",
-                "title": "【Membership Only】おはなし【博衣こより/ホロライブ】",
-                "date": "2025/11/07 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Ox39GGhaLjI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_YRg9mjvAA2GPsFZlPlChS3ebOg",
-                "description": "今日はメン限でお願いします！　※開始直前にメンバー限定に切り替えます\n【大切なお約束！！！】\n⚠メンバー限定で発信している配信内容での..."
-            },
-            {
                 "video_id": "siisSoQpAVU",
                 "title": "【ゼルダの伝説 時のオカリナ】完全初見！レトロゼルダ初めてやるよ～！森の神殿クリアしたとこから！ #3 【博衣こより/ホロライブ】",
                 "date": "2025/11/08 09:00:00",
@@ -357,21 +350,21 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": [
-            {
-                "video_id": "3cz4Y-LDRxM",
-                "title": "【Escape From Duckov】全ロスしたら即終了？！？！！！次のマップに行く！！！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "date": "2025/11/07 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/3cz4Y-LDRxM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCfubbEGsaS8OxP9O0jDcsfMbDrPw",
-                "description": "新マップに踏みいれる\n\n配信タイトル：エスケープ フロム ダッコフ\nストアページ：https://store.steampowered.com/app/3167020/Escape_From_Duckov/\n\nサムネイルイ..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "k6EmB3JBhXI",
+                "title": "【VALORANT】Ｖ最スクリム３日目　VS叢雲カゲツチーム 【ホロライブ/ロボ子さん】",
+                "date": "2025/11/07 18:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/k6EmB3JBhXI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_8tpWFtu62xreni2hEAOn_6_6qw",
+                "description": "#V最協A2\n＃ホロライブ 　\nｘでは💬　 #ロボ子生放送　でポストしてってね\n\n⚡V最協A2メンバーの応援よろしくne！\n\nチームメンバーはこちら👇..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -570,15 +563,7 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
-        "videos": [
-            {
-                "video_id": "O6IXxkQci7U",
-                "title": "【縦型歌枠】歌いましょうそうしましょう🎤【風真いろは/ホロライブ】",
-                "date": "2025/11/07 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/O6IXxkQci7U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9lZ1QwwuZQ5p8cWffS2bG4GHUCg",
-                "description": "サムネイラスト\nhttps://x.com/ofpon10d21/status/1802718594112885227\n\n*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――\n\n💚風真..."
-            }
-        ]
+        "videos": []
     },
     "@mikenekoko": {
         "channel_url": "https://www.youtube.com/@mikenekoko",
