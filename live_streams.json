@@ -297,20 +297,20 @@
         "channel_url": "https://www.youtube.com/@SamekoSaba",
         "channel_name": "saba",
         "avatar_url": "https://yt3.googleusercontent.com/gNZv93GVlg3GAco7HTg2OXl_9s2Pm3lG6DxNfOXqPkLRNcM5BSEOAcQGpgQ8AejiEam5ElLG",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "pHNNqjYV63M",
+                "title": "【PEAK】is there a badge for eating sand",
+                "thumbnail": "https://i.ytimg.com/vi/pHNNqjYV63M/hqdefault.jpg?v=690e3149&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-8mGPI4R6KSf23cXplXNnBND2Yw",
+                "description": "with;  @dooby3d @Limealicious \n\n🐟 https://x.com/samekosaba\n#samekosaba \n\n\n\nchat rules: please help me make this a welcoming space for everyone!\n- treat every participant with respect, including..."
+            }
+        ]
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": [
-            {
-                "video_id": "VgNfP3dydbk",
-                "title": "The Great Reset Is Here! 【Urban Myth Dissolution Center】",
-                "thumbnail": "https://i.ytimg.com/vi/VgNfP3dydbk/hqdefault.jpg?v=690d7671&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVM8t7GMnFFxFMkFX0Y6DU3l0hKg",
-                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n===============..."
-            }
-        ]
+        "videos": []
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
@@ -328,7 +328,14 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Xa8LhxgUX58",
+                "title": "【朝活】歌ったり喋ったりフリーダム！久々の縦型ゆるゆる〜☀️【白銀ノエル/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/Xa8LhxgUX58/hqdefault.jpg?v=690e0a39&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqcq2V4PDHJpqnnj2-S_M0J-TmTQ",
+                "description": "珍しい時間！土日早起き計画🌟\n\n【公式】白銀ノエルASMR 販売中→ https://shop.hololivepro.com/products/shiroganenoel_asmr_comfysleep\n\n📝白銀ノエル LINEスタンプ..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -400,7 +407,14 @@
         "channel_url": "https://www.youtube.com/@dooby3d",
         "channel_name": "dooby",
         "avatar_url": "https://yt3.googleusercontent.com/sOGyZgV9pPHQJCEvNe28NCOFC1y0KggsxUjrP5ecMAgBmdNT8p6ZNM24d_9SVgWFhBh0lKBL5Q",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "36o23kmJr1A",
+                "title": "✋😮🤚 →⭕⛰️ collab",
+                "thumbnail": "https://i.ytimg.com/vi/36o23kmJr1A/hqdefault.jpg?v=690e68fd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZ5WCO7Y5JTRc6sfY6_E4flyEa3g",
+                "description": "w/ @SamekoSaba & @Limealicious"
+            }
+        ]
     },
     "@holoen_ceciliaimmergreen": {
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
