@@ -177,15 +177,7 @@
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
         "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/ACubs_Mw4YtmgHDIIZvW_gZaPf_VR1wg9yffFLsq4Lrw-W7Md-0pK4Gob8OJebCYCmgrArsE",
-        "videos": [
-            {
-                "video_id": "0AX6bJ4Ml1E",
-                "title": "【お知らせ】今のニコたんと、直近の事についてお話させてね【虎金妃笑虎】",
-                "date": "2025/11/07 16:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/0AX6bJ4Ml1E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7LJFBpe6y2dP8qxlPBxc0HzJZkw",
-                "description": "サムネのイラスト　ニコたん母\n\n心配してくれてありがとう、大丈夫だよ\n今日ちゃんとお話しするので少しだけみんなの時間を頂戴な\n\n※ホロライ..."
-            }
-        ]
+        "videos": []
     },
     "@KosekiBijou": {
         "channel_url": "https://www.youtube.com/@KosekiBijou",
@@ -365,7 +357,15 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "3cz4Y-LDRxM",
+                "title": "【Escape From Duckov】全ロスしたら即終了？！？！！！次のマップに行く！！！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "date": "2025/11/07 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/3cz4Y-LDRxM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCfubbEGsaS8OxP9O0jDcsfMbDrPw",
+                "description": "新マップに踏みいれる\n\n配信タイトル：エスケープ フロム ダッコフ\nストアページ：https://store.steampowered.com/app/3167020/Escape_From_Duckov/\n\nサムネイルイ..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
