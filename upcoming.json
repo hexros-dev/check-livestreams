@@ -152,7 +152,15 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "DbaUhOCz-qM",
+                "title": "【Dragonball Z Kakarot】Kamehamehaaaaaa",
+                "date": "2025/11/08 11:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/DbaUhOCz-qM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdCtZ65577GdlCMv3UEExIgUMJRw",
+                "description": "Frieza is a great work boss\n\nThis game is being streamed with in accordance with the “Bandai Namco Entertainment Game Video Policy”\nhttps://www.bandainamcoent.co.jp/info/videopolicy/\n#hololivee..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -562,15 +570,7 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": [
-            {
-                "video_id": "7b20KJn0ScY",
-                "title": "【SOMA】LET ME FEEL SOMETHING while thinking",
-                "date": "2025/11/08 03:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/7b20KJn0ScY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB7hFssM6gBoBeyu5-FEduBPjsHvw",
-                "description": "art: https://x.com/uwagiru/status/1982616383138697720\n--------------------------\nHashtags\n📺 Livestream: #ImmerScreen \n🎨 Fanart: #Immergination\n🎻 Music: #ImmerPiece\n🤡 Memes: #ImmerMemes..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
