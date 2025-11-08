@@ -102,7 +102,22 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "_V-Jdms65CE",
+                "title": "≪Little Nightmares III≫ They were in fact not Brother and Sister #2",
+                "date": "2025/11/09 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/_V-Jdms65CE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCx12o5c5Ekux5UMUxOtwhB5LdHkQ",
+                "description": "I may have lied. \nWITH @holoen_ceciliaimmergreen \nThumbnail Art: https://x.com/Fongban_/status/1973806303735918947/photo/1\n\n#telebae  #hololiveenglish \n««≪ °◇◆◇° ≫ »»\n\n≪ NEW..."
+            },
+            {
+                "video_id": "q1jsrVBRwDU",
+                "title": "≪SILENT HILL f≫ DELULU IS THE SOLULU...FINALE #4【SPOILERS WARNING】",
+                "date": "2025/11/09 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/q1jsrVBRwDU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwhItKqbYGdd24LXHdewZf1Ep7bA",
+                "description": "I BELIEVE (?) IN FOX IKEMEN...... I BELIEVE..... \n\n#telebae  #hololiveenglish \n««≪ °◇◆◇° ≫ »»\nThis game is being streamed and monetized with permission and under license of..."
+            }
+        ]
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -182,15 +197,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": [
-            {
-                "video_id": "pmk8AL3P4m8",
-                "title": "【 Minecraft 】1周年カウントダウンとホロ鯖ゆったり観光！！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "date": "2025/11/08 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/pmk8AL3P4m8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAT0s5ENQGH9Ks4z_ymsrP5uVQHVw",
-                "description": "メンバーシップ開設しました！加入はこちらから💕https://www.youtube.com/channel/UCGzTVXqMQHa4AgJVJIVvtDQ/join\n\n📢iOS ユーザーの皆様へ / for iOS(iPHONE, iPAD)..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -234,15 +241,7 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": [
-            {
-                "video_id": "2PwZmb5inxY",
-                "title": "【マリオカート8DX】1周年カウントダウン参加型❕1位目指す❕✨【水宮枢／ホロライブDEV_IS】",
-                "date": "2025/11/08 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/2PwZmb5inxY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7eDWpqGWLtzBvgSZt8XyDZc1kOA",
-                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸◂┄▹◃\n\n💙メンバーシップは..."
-            }
-        ]
+        "videos": []
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -481,10 +480,10 @@
         "videos": [
             {
                 "video_id": "IL5J_ExYeMw",
-                "title": "【祝１００万再生】ありがとうPulse歌枠【ホロライブ/ときのそら】",
+                "title": "【祝MV１００万再生】ありがとうPulse歌枠【ホロライブ/ときのそら】",
                 "date": "2025/11/08 20:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/IL5J_ExYeMw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBiI1giXlXoJAZKPosFWOWgFVajuw",
-                "description": "～サムネイラスト～\nふな様\nhttps://x.com/funa_holo\n\n★★★★★★★★★★★★★★★★★★★★★★\n\n2026年1月10日(土) 東京国際フォーラムホールAにて..."
+                "description": "ライブの2次抽選がはじまりました！！\nみんな～見てくれた？\n\n\n～サムネイラスト～\nふな様\nhttps://x.com/funa_holo\n\n★★★★★★★★★★★★★★★★..."
             }
         ]
     },
