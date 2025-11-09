@@ -69,14 +69,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "JGvNiZokP_Q",
-                "title": "【ゼルダの伝説 時のオカリナ】完全初見！水の神殿へいくぞ！！！！！ #4 【博衣こより/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/JGvNiZokP_Q/hqdefault.jpg?v=690df111&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBW3PhccardbYrr6pMYWZZHifYLIQ",
-                "description": "石神のぞみちゃんにオススメしてもらった時オカ＆ムジュラ遂にやる！めっちゃムズ楽しいねぇ！！！🥰\n💿1stアルバム「FIRST STEP」発売中！全曲..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -312,7 +305,14 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "QCmIfoexJwM",
+                "title": "【捜索】 ０時までにヒンバスを探してます見かけた方はご連絡下さい",
+                "thumbnail": "https://i.ytimg.com/vi/QCmIfoexJwM/hqdefault.jpg?v=6910420a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsW5BuAEWjWVvV54u4kqv6Xx62IA",
+                "description": "#みこちと金コイ伝説 までご連絡お待ちしております\n\n🌸miComet 2nd Original Music 『Lollipop』☄\n歌：miComet　/ さくらみこ 星街すいせい\n♫各音楽サービ..."
+            }
+        ]
     },
     "@SamekoSaba": {
         "channel_url": "https://www.youtube.com/@SamekoSaba",
@@ -366,14 +366,7 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": [
-            {
-                "video_id": "1WR8iULjJNI",
-                "title": "【おしゃべりキング】伝われ【轟はじめ/ReGLOSS】",
-                "thumbnail": "https://i.ytimg.com/vi/1WR8iULjJNI/hqdefault.jpg?v=690f896e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDX74i9Rploqw8IrjlBbZWyJv0fmQ",
-                "description": "素敵なサムネお写真：魚🐟様（@saka11205）\n\n配信タイトル：おしゃべりキング！コミュ力診断ゲーム\nストアページ：https://store.steampowered.com/app/3360380..."
-            }
-        ]
+        "videos": []
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
