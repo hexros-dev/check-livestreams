@@ -184,7 +184,15 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "UfSlvJHAcx8",
+                "title": "【BATMAN ARKHAM ASYLUM】I AM THE NIGHT",
+                "date": "2025/11/10 09:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/UfSlvJHAcx8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCi5YF1xB8_a_nekEFbZ_NSH6UALQ",
+                "description": "STREAM MY NEW SONG ROCK IN!\n youtu.be/XSZ0iMP80QQ\ncover.lnk.to/gHW4IL\n\nThumbnail art by: @Anversailles THANK YOU\nhttps://x.com/Anversailles/status/1925960950298911124/photo/1\n====================..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -514,15 +522,7 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": [
-            {
-                "video_id": "t4vCoEQb-P0",
-                "title": "【DUDE, STOP】 No, I don't think I will.",
-                "date": "2025/11/10 06:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/t4vCoEQb-P0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwLctKuDRTzB8StDa6eNJ3RRMBXg",
-                "description": "cheeky tapir\n\nMerch: https://ohmonah.shop/collections/nimi-nightmare\n\n  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋\n\nKonbakuwa! I'm Nimi, the baku nurse VTuber of your nightmares~\n#VTuber #nimi..."
-            }
-        ]
+        "videos": []
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
