@@ -192,14 +192,7 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": [
-            {
-                "video_id": "277u6YRwaNk",
-                "title": "【Thief Simulator 2】弱虫卒業✋堂々といきます【水宮枢／ホロライブDEV_IS】",
-                "thumbnail": "https://i.ytimg.com/vi/277u6YRwaNk/hqdefault.jpg?v=690f89cb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBg1RXAwvMdTzZOdTzwUl5Qhgn0nQ",
-                "description": "本ゲームは PlayWay S.A. に確認の上配信・収益化を行なっております。\n▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸◂┄▹◃\n\n💙メンバーシップはこちらか..."
-            }
-        ]
+        "videos": []
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -377,14 +370,7 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": [
-            {
-                "video_id": "sTmnGpSGK94",
-                "title": "【朝活雑談】今週もお疲れさまっする！日曜10時はさんでーまっするッ🌞【白銀ノエル/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/sTmnGpSGK94/hqdefault.jpg?v=690f624e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVi_GxaWKTShs9K8S5F2KTzIvHxA",
-                "description": "🌙新曲「トレビアンナイト」MV公開中🌙\nhttps://youtu.be/p9NBMIUOGM0?feature=shared\n\n✥-------------------------------------------------------------------------✥\n\n📢ホロラ..."
-            }
-        ]
+        "videos": []
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -421,7 +407,14 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "kYBBsxaBI88",
+                "title": "【ゼルダの伝説 ムジュラの仮面】新しい場所にはなにがあるのか！？【ホロライブ/ときのそら】",
+                "thumbnail": "https://i.ytimg.com/vi/kYBBsxaBI88/hqdefault.jpg?v=69102574&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_zI_pC4fGaeAgGyreXjrSMnoTBg",
+                "description": "前回強くなったし、別の場所にいこうかな？\nわたしは強くなれるのか！？\n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信して..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
