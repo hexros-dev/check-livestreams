@@ -132,7 +132,15 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "GF-_uCwj-Jg",
+                "title": "【KARAOKE / 歌枠】UNARCHIVED LA LA LA songs♪",
+                "date": "2025/11/11 11:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/GF-_uCwj-Jg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBD871hjml1lGQE-P_O8vL7eGfEWg",
+                "description": "Ha ha\n#hololiveenglish  #ホロライブ \n\nStream my NEW ORIGINAL SONG NOW\nhttps://youtu.be/i2sw2i6_XDk?si=Lz9Qy6i8TFEjmBNS\n\n4th AnniversaRyS Merch OUT NOW\n▼hololive production OFFICIAL SHOP..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
