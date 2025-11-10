@@ -35,12 +35,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz",
         "videos": []
     },
-    "@AyundaRisu": {
-        "channel_url": "https://www.youtube.com/@AyundaRisu",
-        "channel_name": "Ayunda Risu Ch. hololive-ID",
-        "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94",
-        "videos": []
-    },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
         "channel_name": "Ceres Fauna Ch. hololive-EN",
@@ -89,7 +83,7 @@
                 "title": "【 R.E.P.O.コラボ 】初めてのフルパ６人で挑むのらっ…わァ……ぁ…… #タカタレサーカスプリンセス 【姫森ルーナ/ホロライブ】",
                 "date": "2025/11/10 19:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/bo3JMyi-00I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKDCLj6kjYzvJXU_nf9zxzzQMsOg",
-                "description": "👑誕生日記念グッズ2025👑\n■販売ページURL（2025年11月10日(月)18時まで）\nhttps://shop.hololivepro.com/products/himemoriluna_birthday_2025\n\nふな）姫森ルーナ@Himemori..."
+                "description": "👑誕生日記念グッズ2025👑\n■販売ページURL（2025年11月10日(月)18時まで）\nhttps://shop.hololivepro.com/products/himemoriluna_birthday_2025\n\nサムネイラスト\n..."
             }
         ]
     },
@@ -373,7 +367,15 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "-1Gi0GkJ77g",
+                "title": "【R.E.P.O.】ついにフルパ！！１人の姫と５人の護り手(時と場合によりけり)いくぞぉおおお！！ 【#タカタレサーカスプリンセス】",
+                "date": "2025/11/10 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/-1Gi0GkJ77g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbGA1Xze7er6suNB9VQZhycUmcjg",
+                "description": "#タカタレサーカスプリンセス\n\n不知火フレア @ShiranuiFlare \n角巻わため @TsunomakiWatame \n姫森ルーナ @HimemoriLuna \n尾丸ポルカ @OmaruPolka \n鷹嶺ルイ @TakaneLui..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -509,7 +511,15 @@
         "channel_url": "https://www.youtube.com/@mikenekoko",
         "channel_name": "みけねこch",
         "avatar_url": "https://yt3.googleusercontent.com/_bT74ettx8Ei9p0zHrSbKdAe1oyaCAbbbXa9teIsxgOtlPl2RADYotJ_kGKwHsNdtWh8D2Hu",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "fw-ixoTXKq4",
+                "title": "君の名は。同時視聴しよ💓memberonly",
+                "date": "2025/11/10 18:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/fw-ixoTXKq4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5vGa-Tlo9NzgTxZFp_MGM2qUV2Q",
+                "description": "チルアウトアンケート！\nhttps://forms.bey-inc.com/chillout-jizen?id=mikeneko　\n\nチルアウト購入アマゾン☆\nhttps://amzn.to/47C0JiH\n\n💘セクシーFANBOX\nhttps://mikenekoko.fa..."
+            }
+        ]
     },
     "@niminightmare": {
         "channel_url": "https://www.youtube.com/@niminightmare",
