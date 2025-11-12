@@ -412,7 +412,15 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "XhG3kUSl2rk",
+                "title": "Freezing My Shioreos Off with Advent 【Project Winter】",
+                "date": "2025/11/14 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/XhG3kUSl2rk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpZnbiyT84ZUdTUpGk7phGiGdigw",
+                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n===============..."
+            }
+        ]
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
@@ -528,15 +536,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "0NUxQpVBLEM",
-                "title": "SURPRISE SHORT YAPPING AND DOODLING",
-                "date": "2025/11/13 05:50:00",
-                "thumbnail": "https://i.ytimg.com/vi/0NUxQpVBLEM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDh_Us8S1k71mjxqxq99-d3v16pIA",
-                "description": "【Gigi Murin BDAY Plushie】\nhttps://shop.hololivepro.com/en/products/gigimurin_birthday_2025\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
