@@ -502,15 +502,7 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
-        "videos": [
-            {
-                "video_id": "296iyzoRtTk",
-                "title": "【Free Talk】about stuffs 💬 & Supa Reading【Post-Bday】",
-                "date": "2025/11/12 15:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/296iyzoRtTk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDV0dn9AKhMVD9FcFbexqZHoZlumQ",
-                "description": "#vestiazeta #hololive #vtuber #holoid #hololiveindonesia \n\n\nThumbnail: https://x.com/OperationV7/status/1986440883265249409?s=20\n \nーーーーーーーーー\n🛍️BDAY GOODS 2025\n▼hololive..."
-            }
-        ]
+        "videos": []
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
@@ -614,7 +606,15 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "VeATmkMasR4",
+                "title": "【配信予定】月並みだけど届けたい想い～！ぺこ！【ホロライブ/兎田ぺこら】",
+                "date": "2025/11/12 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/VeATmkMasR4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSsVrMCtldiu12jhQf_5vie1D60Q",
+                "description": "サムネイラスト：()さん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ #ぺこらいぶ..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
