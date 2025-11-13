@@ -162,15 +162,7 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w",
-        "videos": [
-            {
-                "video_id": "uq_nRkwr-jc",
-                "title": "【Paddle Paddle Paddle】celebrating cover and suffering for 2 hours cos why not【Timesmith】",
-                "date": "2025/11/13 10:10:00",
-                "thumbnail": "https://i.ytimg.com/vi/uq_nRkwr-jc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8mCGBIZLJjCcq5vrpfDWfUDh79w",
-                "description": "CHECK OUT our recent cover: ▶️ https://www.youtube.com/watch?v=HsNmKTG-VSc\n∘₊✧──────✧₊∘∘₊✧──────✧₊∘∘₊✧──────✧₊∘∘₊✧..."
-            }
-        ]
+        "videos": []
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
@@ -431,7 +423,15 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "sDZFWow3IKI",
+                "title": "【お知らせ】白銀愛好会(メンバーシップ)の特典紹介✨【白銀ノエル/ホロライブ】",
+                "date": "2025/11/24 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/sDZFWow3IKI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-VVTCdQc2TZwG9vs_v-IQAXXfUQ",
+                "description": "🌙新曲「トレビアンナイト」MV公開中🌙\nhttps://youtu.be/p9NBMIUOGM0?feature=shared\n\n💙白銀ノエル6周年＆新衣装グッズ！期間限定販売中💙\nhttps://shop.hololiv..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
