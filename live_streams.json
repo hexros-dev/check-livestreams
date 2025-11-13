@@ -313,14 +313,7 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": [
-            {
-                "video_id": "Zu9kmlmOuSg",
-                "title": "【＃生スバル】スバルの小屋　ゲスト：りりか/RIRIKA Suba Free Talk【ホロライブ/大空スバル】",
-                "thumbnail": "https://i.ytimg.com/vi/Zu9kmlmOuSg/hqdefault.jpg?v=69158584&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAG2IYlyX6XrUy5bwOxJP68CPRB4g",
-                "description": "@IchijouRirika \n\n🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid..."
-            }
-        ]
+        "videos": []
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -338,7 +331,14 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "oLn075eohpw",
+                "title": "#5【Urban Myth Dissolution Center】MYSTERY HAUNTED TOUR【Pavolia Reine/hololiveID】",
+                "thumbnail": "https://i.ytimg.com/vi/oLn075eohpw/hqdefault.jpg?v=6915dd1c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBChAQFos9NdTdJk6WEzMtfCH803Q",
+                "description": "Reine's new original song now AVAILABLE on iTunes, Apple Music, Spotify etc. starting September 10, 2025 00:00 your local time!!!\nWatch the MV:➡️https://youtu.be/NEtiag8nTUs\nGet it here:➡️h..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",

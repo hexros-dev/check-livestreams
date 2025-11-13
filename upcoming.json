@@ -315,15 +315,7 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": [
-            {
-                "video_id": "oLn075eohpw",
-                "title": "#5【Urban Myth Dissolution Center】MYSTERY HAUNTED TOUR【Pavolia Reine/hololiveID】",
-                "date": "2025/11/13 21:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/oLn075eohpw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBChAQFos9NdTdJk6WEzMtfCH803Q",
-                "description": "Reine's new original song now AVAILABLE on iTunes, Apple Music, Spotify etc. starting September 10, 2025 00:00 your local time!!!\nWatch the MV:➡️https://youtu.be/NEtiag8nTUs\nGet it here:➡️h..."
-            }
-        ]
+        "videos": []
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -501,7 +493,15 @@
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "4bWfw5fMbu0",
+                "title": "【POLICE SIMULATOR: Patrol Officers】 You're Under Arrest! ~! With @holoen_raorapanthera 💄🐱",
+                "date": "2025/11/13 23:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/4bWfw5fMbu0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5h1DR0_G8LolnhvYV0odERBwtYg",
+                "description": "FOR JUSTICE !\n* With Raora Panthera - My Pretty Kitty! \n* This game is distributed and monetized after confirmation with astragon Entertainment GmbH. \n* 本ゲームはastragon Entertainment..."
+            }
+        ]
     },
     "@holoen_gigimurin": {
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
