@@ -177,14 +177,7 @@
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
         "channel_name": "Moona Hoshinova hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3",
-        "videos": [
-            {
-                "video_id": "Am461Z1k-40",
-                "title": "【Membership】Night talk!【Moona Hoshinova】",
-                "thumbnail": "https://i.ytimg.com/vi/Am461Z1k-40/hqdefault.jpg?v=6915f5ef&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACbDJJXUVjsB7JnDx4L2biZy4zug",
-                "description": "Streamlabs donation link here : https://streamlabs.com/moonahoshinovahololive-id/tip\nSociaBuzz donation link here : https://sociabuzz.com/moonahoshinova/tribe\n======================================..."
-            }
-        ]
+        "videos": []
     },
     "@MoriCalliope": {
         "channel_url": "https://www.youtube.com/@MoriCalliope",
@@ -263,7 +256,14 @@
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "UMF9XNc4lok",
+                "title": "【 縦型歌枠 】深夜のゲリラすぎる歌枠【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+                "thumbnail": "https://i.ytimg.com/vi/UMF9XNc4lok/hqdefault.jpg?v=69161e60&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgjeIlgeLNhl9Ek5c_E5_rxa4HYg",
+                "description": "▽✨重大告知✨ ▽\n音乃瀬奏 1stオリジナル曲「GREATEST」\n4/20(日) 24：00（4/21  0：00）リリース開始！\nhttps://cover.lnk.to/4rvCRp\n\n୨୧♪:*:･･:*:･♪･:*:･..."
+            }
+        ]
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
