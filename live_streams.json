@@ -255,7 +255,14 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "KS2SyK7NUV0",
+                "title": "【Just Chatting】She... She's Here?",
+                "thumbnail": "https://i.ytimg.com/vi/KS2SyK7NUV0/hqdefault.jpg?v=69167adb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2gYJpr_IEfC2i95FAzasurDyDlQ",
+                "description": "[Twitter]\nhttps://twitter.com/ourokronii\n\n----------------------------------------------------------------------------\n\n[Viewer Rules]\nThank you for watching my stream!\nTo help everyone enjoy..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
