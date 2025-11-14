@@ -94,13 +94,6 @@
                 "description": "ハッシュタグは #こよりとガンダム で✨\nなんと！！！大好きな「劇場版機動戦士ガンダム」を同時視聴させていただけることになりました！！！..."
             },
             {
-                "video_id": "YaiFyMWd5_w",
-                "title": "【エスケープ フロム ダッコフ】打ち上げダッコフ！面白すぎて無限に遊べる！J-LABやりたい！！！【博衣こより/ホロライブ】",
-                "date": "2025/11/14 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/YaiFyMWd5_w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCIMc0wnrVrNtbj6J2bwGi0266Ojg",
-                "description": "本当にめっちゃ面白いんですが！！！辞め時分からない危険なゲームですｗｗｗ\n💿1stアルバム「FIRST STEP」発売中！全曲新録！成長した歌を聴い..."
-            },
-            {
                 "video_id": "eC7rh29fOPc",
                 "title": "【2夜連続ガンダム祭】ファーストガンダム劇場版3部作を観よう！～1作目＆Ⅱ哀・戦士編～ #こよりとガンダム 【博衣こより/ホロライブ】",
                 "date": "2025/11/15 19:00:00",
@@ -140,15 +133,7 @@
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
         "channel_name": "Suisei Channel",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
-        "videos": [
-            {
-                "video_id": "2xeoAHEoKwM",
-                "title": "【再演続報アリ‼】星街すいせいのお仕事に密着⁉ライブの裏側を公開👀【ホロライブ / 星街すいせい】",
-                "date": "2025/11/14 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/2xeoAHEoKwM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXE8l-z9x3O73VadKQ72x6n2zH0g",
-                "description": "🔽“Spectra of Nova” “SuperNova” Blu-ray販売開始！🔽\n・JP\nhttps://shop.hololivepro.com/products/hoshimachisuisei_livetour2024andnipponbudokanlive_bluray\n・EN\nhttps://shop.hololive..."
-            }
-        ]
+        "videos": []
     },
     "@HoushouMarine": {
         "channel_url": "https://www.youtube.com/@HoushouMarine",
@@ -415,7 +400,15 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ZKDrhxqFwak",
+                "title": "#02【夢物語の街】深夜にチルいお片付け【不知火フレア/ホロライブ】",
+                "date": "2025/11/14 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ZKDrhxqFwak/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjsoXj-ZqoRTj9n85bbsoNcoy1ng",
+                "description": "■New「Fun fair」MV公開✨\nhttps://www.youtube.com/watch?v=FdKux6g4HJ4\n\n━━━━━━━━━━━━━━━━━━━━━━━\n■Newシングル「架空と本当」MV公開中..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
