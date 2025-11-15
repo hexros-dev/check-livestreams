@@ -460,15 +460,7 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": [
-            {
-                "video_id": "XrLGdDmN93w",
-                "title": "【Minecraft】まったりマイクラ生活がしたい【ホロライブ/ときのそら】",
-                "date": "2025/11/15 21:45:00",
-                "thumbnail": "https://i.ytimg.com/vi/XrLGdDmN93w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA46AxxYYPkZX-UHwxPL0ZB75IZ4Q",
-                "description": "マイクラが好きすぎる。\n\n\n2026年1月10日(土) 東京国際フォーラムホールAにて\nときのそら史上最大規模ワンマンライブ開催決定！！！\n\n【公演タイト..."
-            }
-        ]
+        "videos": []
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
@@ -574,7 +566,15 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "y0f--9iM-ko",
+                "title": "#2【FF8】完全初見でファイナルファンタジーⅧを始める！ FINAL FANTASY Ⅷ ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意",
+                "date": "2025/11/16 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/y0f--9iM-ko/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAn_HM72L0aZSilgkT-aHcSvTsdOA",
+                "description": "⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ #ぺこらいぶ でツイート🎶\n\n本動画のゲー..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
