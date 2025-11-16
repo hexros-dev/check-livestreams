@@ -412,7 +412,14 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "KiOKW-2vuOs",
+                "title": "【YOOKA-REPLAYLEE】i, too, am a lizard",
+                "thumbnail": "https://i.ytimg.com/vi/KiOKW-2vuOs/hqdefault.jpg?v=6919ae85&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB7PJ70L4a5QQSzb4sI4KAqYNV56A",
+                "description": "【Gigi Murin BDAY Plushie】\nhttps://shop.hololivepro.com/en/products/gigimurin_birthday_2025\n\nGame Title: Yooka-Replaylee\nStore Page: https://store.steampowered.com/app/2448020/YookaReplaylee/..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
