@@ -305,15 +305,7 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": [
-            {
-                "video_id": "oE1zccMVi8c",
-                "title": "【#8】SFC版 ドラゴンクエストIII そして伝説へ…：Dragon Warrior III【ホロライブ/大空スバル】",
-                "date": "2025/11/16 11:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/oE1zccMVi8c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAf2bQMjn2xYecyBhlN2m1DN8dj4Q",
-                "description": "本動画のゲームプレイ映像は、株式会社スクウェア・エニックスの許諾を受けて使用しています。\nこの動画で利用している株式会社スクウェア・..."
-            }
-        ]
+        "videos": []
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -345,7 +337,15 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "HbIHAD8Fr_U",
+                "title": "【競馬/エリザベス女王杯】最強クイーンはどの馬だ！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "date": "2025/11/16 12:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/HbIHAD8Fr_U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhizoA8RyZmtZG-bYIK1oPXowvzQ",
+                "description": "セキトバイースト・・・・！！！！！！！！！！！\n\n15:40 出走\n\nサムネイルイラスト：鮨田はやりさま\nhttps://x.com/sushidahayari\nありがとうございます..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
