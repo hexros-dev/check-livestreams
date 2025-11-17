@@ -515,7 +515,15 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "u13z8Y3RZkE",
+                "title": "【BABY STEPS】PRESS X TO NATE",
+                "date": "2025/11/18 05:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/u13z8Y3RZkE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCq27zxIWHmxjIWxf6RIj6ct6Ts4w",
+                "description": "Game Title: Baby Steps\nStore Page: https://store.steampowered.com/app/1281040/Baby_Steps/\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
