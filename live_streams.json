@@ -3,14 +3,7 @@
         "channel_url": "https://www.youtube.com/@AZKi",
         "channel_name": "AZKi Channel",
         "avatar_url": "https://yt3.googleusercontent.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos",
-        "videos": [
-            {
-                "video_id": "4k7srAigS1o",
-                "title": "【Mini Tokyo 3D】ソロライブ、前々夜。横浜で会いましょう―。【ホロライブ / AZKi】",
-                "thumbnail": "https://i.ytimg.com/vi/4k7srAigS1o/hqdefault.jpg?v=691af145&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAsd4vCw3g1D1KDjTjQUConUbKlPg",
-                "description": "ライブ前ラストの配信！\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\nサムネイラスト：syara 様\nhttps://x.com/syara_so_ju\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈..."
-            }
-        ]
+        "videos": []
     },
     "@AiraniIofifteen": {
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
@@ -125,7 +118,14 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "-lH_RP8fkrA",
+                "title": "【雑談】もうすぐ３DLIVEですなあ【ホロライブ DEV_IS 響咲リオナ】",
+                "thumbnail": "https://i.ytimg.com/vi/-lH_RP8fkrA/hqdefault.jpg?v=691b2fd6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzYYgEHn5WrH7wCC1OcEBDcR9k9g",
+                "description": "♡...本日のスパーチャットはお名前読み上げのみになります！！\n\nサムネイラスト　\nなべさん(@ nabe_otome)ありがとうございます❤\n\n∴∵∴ ୨୧..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
