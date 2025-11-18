@@ -193,14 +193,7 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": [
-            {
-                "video_id": "oq2_Ndz7dyg",
-                "title": "【RV There Yet?】運転手×2いるので帰れます✋【水宮枢×輪堂千速】#ホロライブデバイス",
-                "thumbnail": "https://i.ytimg.com/vi/oq2_Ndz7dyg/hqdefault.jpg?v=691c1381&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDt_7zsYU5fcl1IJDBAIJAUfLQxVg",
-                "description": "配信タイトル：RV There Yet?\nストアページ：https://store.steampowered.com/app/3949040/RV_There_Yet/\nイラストhttps://x.com/konomi9a?s=21&t=CbrrjZRpYKuQt6jP6ruZBg\n▹◃┄▸◂┄..."
-            }
-        ]
+        "videos": []
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -310,20 +303,20 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ZeBzQxSeajo",
+                "title": "【BRUNCH STREAM】CHROMATIC FUTURE WOWOWOWO OTSUKAREEEEEEEEEEEEEEE",
+                "thumbnail": "https://i.ytimg.com/vi/ZeBzQxSeajo/hqdefault.jpg?v=691c82e5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAOQImovtoxrxUV9JEYk24wKaL3oQ",
+                "description": "Reine's new original song now 「Yummy Yum Yummy!」AVAILABLE on iTunes, Apple Music, Spotify etc. Click to stream!\nパヴォリア・レイネ新曲「ヤミヤムヤミ」\nhttps://cover.lnk.to/mU..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": [
-            {
-                "video_id": "ewYDCQ66qUQ",
-                "title": "【RV There Yet? 】お家に帰るよ枢ちゃん！！！！！！【水宮枢 / 輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "thumbnail": "https://i.ytimg.com/vi/ewYDCQ66qUQ/hqdefault.jpg?v=691c58f5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHT3PWl1kvFdBMoHFI0znKtDqYhQ",
-                "description": "すみゃ、お家に帰る時間だよ\n@MizumiyaSu \n\n配信タイトル：RV There Yet?\nストアページ：https://store.steampowered.com/app/3949040/RV_There_Yet/\n\nサムネイルイラスト..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
