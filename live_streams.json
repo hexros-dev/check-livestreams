@@ -351,7 +351,14 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "eVnPaSIWuMk",
+                "title": "朝と作業と朝ごはん　【アーカイブはメンバー限定へ】",
+                "thumbnail": "https://i.ytimg.com/vi/eVnPaSIWuMk/hqdefault.jpg?v=691bd19d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMjXcupkUc5abaNr7-RTzuqvKVaQ",
+                "description": "୨୧-------------------------------┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧\n\n⚠👾お知らせ/ Notice 👾⚠\n\nいつも切り抜きを作成して..."
+            }
+        ]
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
@@ -405,14 +412,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "u13z8Y3RZkE",
-                "title": "【BABY STEPS】PRESS X TO NATE",
-                "thumbnail": "https://i.ytimg.com/vi/u13z8Y3RZkE/hqdefault.jpg?v=691aef3f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCq27zxIWHmxjIWxf6RIj6ct6Ts4w",
-                "description": "Game Title: Baby Steps\nStore Page: https://store.steampowered.com/app/1281040/Baby_Steps/\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
