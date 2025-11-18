@@ -80,15 +80,7 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": [
-            {
-                "video_id": "1Q60q2xEeUg",
-                "title": "≪BLEACH: Brave Souls≫ GYAHHHHHHHHHHH w/ Cecilia Immergreen",
-                "date": "2025/11/18 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/1Q60q2xEeUg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAR4dwGSHEUWu_g3A4wAk7f2PQ5vQ",
-                "description": "Oh the memories of this GOD anime w/  ⁨@holoen_ceciliaimmergreen⁩  \n\nThank you so much for the sponsorship!! We will be trying out Bleach: Brave Souls for the first time!! \nBleach: Brave..."
-            }
-        ]
+        "videos": []
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -156,7 +148,15 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "4uO4iftvGt0",
+                "title": "【リトルナイトメア】#1 助けてクレメンス ※ネタバレあり【儒烏風亭らでん】",
+                "date": "2025/11/18 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/4uO4iftvGt0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCB1j-nwTDC8TmJ7H11kpCGSAENVQ",
+                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\n\nこのゲーム実況は「バンダイナムコエンター..."
+            }
+        ]
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -212,21 +212,21 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": [
-            {
-                "video_id": "oq2_Ndz7dyg",
-                "title": "【RV There Yet?】運転手×2いるので帰れます✋【水宮枢×輪堂千速】#ホロライブデバイス",
-                "date": "2025/11/18 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/oq2_Ndz7dyg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDt_7zsYU5fcl1IJDBAIJAUfLQxVg",
-                "description": "配信タイトル：RV There Yet?\nストアページ：https://store.steampowered.com/app/3949040/RV_There_Yet/\nイラストhttps://x.com/konomi9a?s=21&t=CbrrjZRpYKuQt6jP6ruZBg\n▹◃┄▸◂┄..."
-            }
-        ]
+        "videos": []
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "vRkCeuJfx_o",
+                "title": "【 インターネットサイン会 】まったり夜雑談しながら～！【 桃鈴ねね / hololive 】",
+                "date": "2025/11/19 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/vRkCeuJfx_o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmG0UXAl_B6YrbpBTtZ4JcrZ_YHg",
+                "description": "スパチャ、メンギフが赤色でお名前入りでサインプレゼントしていくよ！\n（人数多くなっちゃうと収拾がつかないので絞ってごめんね ＞＜..."
+            }
+        ]
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
@@ -345,15 +345,7 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": [
-            {
-                "video_id": "ewYDCQ66qUQ",
-                "title": "【RV There Yet? 】お家に帰るよ枢ちゃん！！！！！！【水宮枢 / 輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "date": "2025/11/18 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/ewYDCQ66qUQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHT3PWl1kvFdBMoHFI0znKtDqYhQ",
-                "description": "すみゃ、お家に帰る時間だよ\n@MizumiyaSu \n\n配信タイトル：RV There Yet?\nストアページ：https://store.steampowered.com/app/3949040/RV_There_Yet/\n\nサムネイルイラスト..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -405,7 +397,15 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "O-G5yQtKoCE",
+                "title": "【けものティータイム】ケモミミ+ KAWAII +ASMR=超絶癒やしの喫茶店経営【白上フブキ/ホロライブ】",
+                "date": "2025/11/18 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/O-G5yQtKoCE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCw_5gRJn3zxe71may3vjoLGMebFQ",
+                "description": "【配信禁止区間】\n2025年11月30日まではゲーム内DAY20（ゲーム内日付1月1日）以降の配信は禁止です。\n━━━━━━━━━━━━━━━━━━━━━..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -418,13 +418,6 @@
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
         "videos": [
-            {
-                "video_id": "Y-Kwrj8KpH0",
-                "title": "【3D】3期生カラオケ配信！！ライブに向けてコール予習も...？！こりゃ必見太郎ッッ！【白銀ノエル/ホロライブ】",
-                "date": "2025/11/18 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Y-Kwrj8KpH0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBeV-ECFY1_TNPh3_iE9rDBzALftA",
-                "description": "📢ホロライブ3期生、現地ライブ決定！\nhttps://operation-heartful-cuties.hololivepro.com/\n\n👯🔥hololive 3rd Generation Live #きゅるるん大作戦 〜最強アイドル、推..."
-            },
             {
                 "video_id": "sDZFWow3IKI",
                 "title": "【お知らせ】白銀愛好会(メンバーシップ)の特典紹介✨【白銀ノエル/ホロライブ】",
