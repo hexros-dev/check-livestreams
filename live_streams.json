@@ -64,14 +64,7 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": [
-            {
-                "video_id": "1Q60q2xEeUg",
-                "title": "≪BLEACH: Brave Souls≫ GYAHHHHHHHHHHH w/ Cecilia Immergreen",
-                "thumbnail": "https://i.ytimg.com/vi/1Q60q2xEeUg/hqdefault.jpg?v=691b4f8a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAR4dwGSHEUWu_g3A4wAk7f2PQ5vQ",
-                "description": "Oh the memories of this GOD anime w/  ⁨@holoen_ceciliaimmergreen⁩  \n\nThank you so much for the sponsorship!! We will be trying out Bleach: Brave Souls for the first time!! \nBleach: Brave..."
-            }
-        ]
+        "videos": []
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -256,14 +249,7 @@
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
-        "videos": [
-            {
-                "video_id": "tJRfew3BgcU",
-                "title": "【ARC Raiders】Don't  Shoot!!!!!!!!!!!!!!!!!!!!!!!!!!!【ホロライブ/夏色まつり】",
-                "thumbnail": "https://i.ytimg.com/vi/tJRfew3BgcU/hqdefault.jpg?v=691b3a06&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKPk7VdapFlfu51SGjkzjzuy0V8A",
-                "description": "...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\n\n素敵なサムネイル→\n\n配信タイトル：ARC Raiders\nストアページ：https://store...."
-            }
-        ]
+        "videos": []
     },
     "@NekomataOkayu": {
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
@@ -355,7 +341,14 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "HviYG-wTKIw",
+                "title": "【 メンバー限定 】みこちの気まぐれ放送局 #１０【ホロライブ/さくらみこ】",
+                "thumbnail": "https://i.ytimg.com/vi/HviYG-wTKIw/hqdefault.jpg?v=691c53b9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvVWDV6q51sszwHv9X_m5zL0NlKw",
+                "description": "🌸スシロー×さくらみこコラボ開催決定‼🍣\n11/19(水)～12/7(日)まで！全店舗で実施🎉\nhttps://www.akindo-sushiro.co.jp/campaign/detail.php?id=4127\n\n🌸miComet..."
+            }
+        ]
     },
     "@SamekoSaba": {
         "channel_url": "https://www.youtube.com/@SamekoSaba",
