@@ -63,7 +63,14 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "kDsQsGMjcMM",
+                "title": "【雑談】新衣装で5億年ぶり雑談！ホロメンとの話とかロケ話とか話したいことたまっております！【博衣こより/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/kDsQsGMjcMM/hqdefault.jpg?v=691d7474&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBR4ttLf7jkFgyVRPn8E3VdES5NGQ",
+                "description": "また雑談が5億年ぶりになっちまった！！！！！話したいことがあるんだよーーーーー！！！！！！✨✨\n💿1stアルバム「FIRST STEP」発売中！全曲新..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -255,14 +262,7 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": [
-            {
-                "video_id": "kuMFDvWi0CE",
-                "title": "【Lorelei and the Laser Eyes】 BEEEEEEEEEEEEEAM",
-                "thumbnail": "https://i.ytimg.com/vi/kuMFDvWi0CE/hqdefault.jpg?v=691d0075&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlCg13l7cjitNPTKgGOIQHY3gFaw",
-                "description": "[Twitter]\nhttps://twitter.com/ourokronii\n\nGame title: Lorelei and the Laser Eyes\nStore page: https://store.steampowered.com/app/2008920/Lorelei_and_the_Laser_Eyes/\n\n--------------------------------..."
-            }
-        ]
+        "videos": []
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
