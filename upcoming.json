@@ -5,13 +5,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos",
         "videos": [
             {
-                "video_id": "7UlZnyO79Xg",
-                "title": "【チラ見せ】AZKi SOLO LiVE 2025 \"Departure\"【ぴあアリーナMM】",
-                "date": "2025/11/19 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/7UlZnyO79Xg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBH7mInyBGj3E6z_BOzke19lxQCEg",
-                "description": "AZKi SOLO LiVE 2025 \"Departure\"開催！\n2025年11月19日(水)に公演の一部をYouTube Liveで無料配信！\n\n🔽配信チケット購入🔽\n【SPWN】\nhttps://spwn.jp/events/evt_25111901-j..."
-            },
-            {
                 "video_id": "sCOkc7fzJdw",
                 "title": "【応援席】AZKi SOLO LiVE 2025 \"Departure\" ぴあアリーナMM / 配信チケット発売中！【ホロライブ / AZKi】",
                 "date": "2025/11/20 17:00:00",
@@ -218,15 +211,7 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": [
-            {
-                "video_id": "vRkCeuJfx_o",
-                "title": "【 インターネットサイン会 】まったり夜雑談しながら～！【 桃鈴ねね / hololive 】",
-                "date": "2025/11/19 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/vRkCeuJfx_o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmG0UXAl_B6YrbpBTtZ4JcrZ_YHg",
-                "description": "スパチャ、メンギフが赤色でお名前入りでサインプレゼントしていくよ！\n（人数多くなっちゃうと収拾がつかないので絞ってごめんね ＞＜..."
-            }
-        ]
+        "videos": []
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
@@ -539,7 +524,15 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "6EJ5L6NXYvw",
+                "title": "【DELIVERED BY FRIDAY】I'M A WITCH AND I HAVE TO DELIVER THESE PACKAGES!!! #ad",
+                "date": "2025/11/20 05:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/6EJ5L6NXYvw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJYmVbp3f9XrvsQ0SygwZF2jBXbw",
+                "description": "#sponsored\n\nhttps://store.steampowered.com/app/4141430/Delivered_by_Friday/\n\nGameplay and story by Emerson Arriety\nBackground and story art by SleepySoren\nSprite art by Vioclipse\nUser interface..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
