@@ -407,14 +407,7 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": [
-            {
-                "video_id": "HGEQfQgd2bk",
-                "title": "【PIANO】LET'S PRESS THE KEYS!!!!!!",
-                "thumbnail": "https://i.ytimg.com/vi/HGEQfQgd2bk/hqdefault.jpg?v=691ade73&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyUOTjCSYtGfLxzOCOPXPcK41xTA",
-                "description": "A little mini piano stream as a treat for me as I eat the notes OM NOM NOM \nthumbnail art: https://x.com/1Qjinator/status/1928636663044968509?s=20\n\n--------------------------\nHashtags\n📺..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
@@ -426,7 +419,14 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "6EJ5L6NXYvw",
+                "title": "【DELIVERED BY FRIDAY】I'M A WITCH AND I HAVE TO DELIVER THESE PACKAGES!!! #ad",
+                "thumbnail": "https://i.ytimg.com/vi/6EJ5L6NXYvw/hqdefault.jpg?v=691ae617&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJYmVbp3f9XrvsQ0SygwZF2jBXbw",
+                "description": "#sponsored\n\nhttps://store.steampowered.com/app/4141430/Delivered_by_Friday/\n\nGameplay and story by Emerson Arriety\nBackground and story art by SleepySoren\nSprite art by Vioclipse\nUser interface..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
