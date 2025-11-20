@@ -318,7 +318,15 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "R_3GZQUBJ2w",
+                "title": "【Superchat Catchup】Long Catching #sponsored",
+                "date": "2025/11/21 09:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/R_3GZQUBJ2w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3oo4FHg1ceYfy7JLp4BhtCLuh7A",
+                "description": "Since I couldn't read the superchats, I want to thank the rest of the people who kindly sent in their superchat.\n\nThank you AGG for sponsoring today's stream 💕\n🧥 Get your Kronii jacket..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
