@@ -87,14 +87,7 @@
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk",
-        "videos": [
-            {
-                "video_id": "XbOhlp2D1lw",
-                "title": "【メンバーシップ限定】ねねちリスペクトでチェキ会やってみるぞ！！【ホロライブ/宝鐘マリン】",
-                "thumbnail": "https://i.ytimg.com/vi/XbOhlp2D1lw/hqdefault.jpg?v=691ec5b9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDS22EZDJm3aykT4ejosdy7mnlw4Q",
-                "description": "｡.｡:+* ﾟ ゜ﾟ *+:｡.｡:+* ﾟ ゜ﾟ *+:｡.｡.｡:+*ﾟ ゜ﾟ *+:｡.｡:+*ﾟ ゜ﾟ *+:｡.｡.｡:+*+:｡.｡｡\n\n📢ホロライブ3期生、現地ライブ決定!!\n\n👯🔥holol..."
-            }
-        ]
+        "videos": []
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
@@ -136,7 +129,14 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ZNqiMy_4JtU",
+                "title": "【 朝活 / FreeTalk 】みんなを笑顔で送り出す朝【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "thumbnail": "https://i.ytimg.com/vi/ZNqiMy_4JtU/hqdefault.jpg?v=691f1e41&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_5j_tDSy2MLXjPwYP1TCykqFi4g",
+                "description": "さサムネイルの素敵なイラスト　.MAさん　https://x.com/dottoMAdayo?s=20\n\nメンバーシップ開設しました！加入はこちらから💕https://www.youtube.com/channel/UCGzTV..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
