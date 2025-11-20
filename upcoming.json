@@ -109,7 +109,15 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "PN-KPLGFjPc",
+                "title": "【ARC Raiders】We are the Holo Raiders w/ Biboo & GG",
+                "date": "2025/11/21 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/PN-KPLGFjPc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAj4AeHcAQrlkjOsGXkSgIJYN_3hg",
+                "description": "with @KosekiBijou and @holoen_gigimurin \n\nGame title：ARC Raiders\nStore page：https://store.steampowered.com/app/1808500/ARC_Raiders/\n\n#hololiveenglish  #ホロライブ \n\nSTREAM MY NEW ORIGINAL..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
