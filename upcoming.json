@@ -149,13 +149,6 @@
                 "date": "2025/11/22 19:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/FwS7Kuj2KH0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfOR42oay_FZArmO-zOW7qFpEigw",
                 "description": "♡...本日のスパーチャットはお名前読み上げのみになります！！\n\nサムネイラスト　\naquryさん(@ Aqury0)ありがとうございます❤\n\n∴∵∴ ୨୧ ∴∵∴..."
-            },
-            {
-                "video_id": "hDkYwjDriKk",
-                "title": "【カービィのエアライダー】初めてのエアライダー☆コラボに向けて練習だ❤【ホロライブ DEV_IS 響咲リオナ】",
-                "date": "2025/11/21 21:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/hDkYwjDriKk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDow45lTWLNnAw3mILsfDWEUPF5RQ",
-                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\nサムネイラスト EggoSymphony様 (@ Waddledeeznut)  ありがとうございます✨..."
             }
         ]
     },
@@ -197,15 +190,7 @@
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
         "channel_name": "Kobo Kanaeru Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B",
-        "videos": [
-            {
-                "video_id": "eNMOXiZf5bQ",
-                "title": "【POST TALK】HOLO ID CONCERT AFTER TALK!!! We dance and talk talk ~",
-                "date": "2025/11/21 21:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/eNMOXiZf5bQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnzIIKWwWUzguBF0LaNJQgzgvwwA",
-                "description": "Bokobokobo- Kobo Kanaeru at your service! Let me be your sun to shine your day, ehe~ ;D ☔☔☔\n#OnAeru #Kobo_Kanaeru #holoID #holoID03\n\n==================================\nDONASI LOKAL GUYS!..."
-            }
-        ]
+        "videos": []
     },
     "@KoganeiNiko": {
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
@@ -331,7 +316,15 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "xSwX5g11F2w",
+                "title": "【 CULT OF THE LAMB 】ビッグゴッドミオーンによる、あったかい村作り【 ホロライブ / 大神ミオ 】",
+                "date": "2025/11/22 13:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/xSwX5g11F2w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpeTP8kIbucgMu1uMXxQ5jqtCNzg",
+                "description": "信者にはホロライブメンバーの名前をちょっと変えてつける予定です。\nサジェスト汚染もあり、つけないでってメンバーの名前は\n使用しない予定..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -405,35 +398,27 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": [
-            {
-                "video_id": "2AR2qA1DiP8",
-                "title": "【SIMPWALK】simpin and walkin",
-                "date": "2025/11/21 21:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/2AR2qA1DiP8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBo-y2_L--aTgUXetusi5ku7d0zQ",
-                "description": "Game title: SIMPWALK\nStore page: https://store.steampowered.com/app/3362870/SIMPWALK/\n\nReine's new original song now 「Yummy Yum Yummy!」AVAILABLE on iTunes, Apple Music, Spotify etc. Click..."
-            }
-        ]
+        "videos": []
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": [
-            {
-                "video_id": "3moobYS9QGQ",
-                "title": "【歌枠/KARAOKE】おしゃべり多めで３Dライブ前にゆるゆると歌おう～！※途中からメン限【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "date": "2025/11/21 20:57:26",
-                "thumbnail": "https://i.ytimg.com/vi/3moobYS9QGQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHfOJkqYOK5dejtB90PSuz6mG80w",
-                "description": "歌ったり喋ったり\n\n\nサムネイルイラスト：Zolomon（黎查/香腸伯）さま\nhttps://x.com/JarvisLin1210\nありがとうございます！\n\nFLOWGLOW 1st Album『FLOW GLOW』..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ISA4bN7TA18",
+                "title": "【ARC Raiders】最近話題の人もロボットも恐い世界【ホロライブ/ ロボ子さん】",
+                "date": "2025/11/21 22:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ISA4bN7TA18/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABHw3oe2GSjAskwfN8AThwqorySA",
+                "description": "＃ホロライブ 　\nｘでは💬　 #ロボ子生放送　でポストしてってね\n\n配信タイトル：ARC Raiders\nストアページ：https://store.steampowered.com/app/1808500/ARC_Raide..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -507,7 +492,7 @@
             {
                 "video_id": "D0l7Z01JIMQ",
                 "title": "【Pokémon LEGENDS: Z-A】its been 6-7 years... #kfp #キアライブ",
-                "date": "2025/11/22 08:00:00",
+                "date": "2025/11/22 09:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/D0l7Z01JIMQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbr1GfR2_GKMOblXP5cubynKxi7A",
                 "description": "Takanashi Kiara『TASTY』\nhttps://cover.lnk.to/al3Zjt\n\n🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara\n\n 🏵️[Hashtags] 🏵️\n#kfp #キアライブ#hololiveenglish #holomyth..."
             }
