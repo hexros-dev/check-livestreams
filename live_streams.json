@@ -125,14 +125,7 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": [
-            {
-                "video_id": "FwS7Kuj2KH0",
-                "title": "【 #FG3DLIVE 】ねえねえねえ明日いよいよ3DLIVEです❤決起集会じゃあああ🔥【ホロライブ DEV_IS 響咲リオナ】",
-                "thumbnail": "https://i.ytimg.com/vi/FwS7Kuj2KH0/hqdefault.jpg?v=691f67ce&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfOR42oay_FZArmO-zOW7qFpEigw",
-                "description": "♡...本日のスパーチャットはお名前読み上げのみになります！！\n\nサムネイラスト　\naquryさん(@ Aqury0)ありがとうございます❤\n\n【speical thanks】..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -372,7 +365,14 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "XWlrzhIa3xA",
+                "title": "【雑談】月一くらいの深夜雑談！【不知火フレア/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/XWlrzhIa3xA/hqdefault.jpg?v=6921a0d1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6AV60PI0JphMGlHayYnLFQFFKNg",
+                "description": "■New「Fun fair」MV公開✨\nhttps://www.youtube.com/watch?v=FdKux6g4HJ4\n\n━━━━━━━━━━━━━━━━━━━━━━━\n■Newシングル「架空と本当」MV公開中..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
