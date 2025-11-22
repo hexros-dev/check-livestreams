@@ -294,7 +294,15 @@
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
         "channel_name": "Laplus ch. ラプラス・ダークネス - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/6Y5lj4DhikLBo0UqIZ1dT3-D3aYXVPbxUgNTyYiyE_Se8AVxkGAn05D3oc1y3whpzDu-CzEQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "KC0-vIj7piY",
+                "title": "【念願】遂に決まる！ホロメンASMR品評会！#ラプ様4周年記念 【ラプラス・ダークネス/ホロライブ】",
+                "date": "2025/11/26 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/KC0-vIj7piY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6719k0iAa1Z4IYaR1aTdlyHxgpw",
+                "description": "各ASMR部門代表作品\n\nお姉さん部門：\n妹部門：\n安眠部門：\nヤンデレ部門：\nネタ部門：\nセンシティブ部門：\nフレッシュ部門：\n個人的最優秀ASMR..."
+            }
+        ]
     },
     "@MizumiyaSu": {
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
@@ -721,15 +729,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "rO62y5qqCy4",
-                "title": "【GREMBERS】chill time",
-                "date": "2025/11/23 05:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/rO62y5qqCy4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCUK7zAsUBJVflWy5dF5NTPfo59LQ",
-                "description": "【Acrylic Stands】\n▼Official Online Shop▼\nJP：https://shop.hololivepro.com/products/hololiveen_regularoutfit_acrylicstand\nEN：https://shop.hololivepro.com/en/products/hololiveen_regularoutf..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
