@@ -244,15 +244,7 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": [
-            {
-                "video_id": "dO2kFCWt0Fw",
-                "title": "【雑談／freetalk】3Dライブ前日らしい。え？？【水宮枢／ホロライブDEV_IS】",
-                "date": "2025/11/22 15:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/dO2kFCWt0Fw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA76_LmHx4llOXmBAY8OLMsydceqA",
-                "description": "▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸◂┄▹◃\n\n💙メンバーシップはこちらから ⬇️\nClick here for membership\nhttps://www.youtube.com/channel/UCjk2nKmHzgH5Xy-C5qYRd5A/j..."
-            }
-        ]
+        "videos": []
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -458,7 +450,15 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Jg_f_tQpeiM",
+                "title": "【 The Long Dark 】オオカミの住む山を目指したあとに岬の灯台に行くらしい【白上フブキ/ホロライブ】",
+                "date": "2025/11/22 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Jg_f_tQpeiM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1wj4LNtHpUvAFVm1bJEGBbRtdTw",
+                "description": "👑1st LIVE　◤FBKINGDOM “ANTHEM”　◢\n\n✨️念願の豪華特典付きBlu-rayが予約開始✨️\n✦予約はコチラ\nhttps://shop.hololivepro.com/products/shirakamifubuki_1stsololive..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
