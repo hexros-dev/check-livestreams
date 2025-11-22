@@ -158,13 +158,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
         "videos": [
             {
-                "video_id": "fLYYIeGYbX8",
-                "title": "【リトルナイトメア】#4 キッド視点はまだまだ続く！？ ※ネタバレあり【儒烏風亭らでん】",
-                "date": "2025/11/22 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/fLYYIeGYbX8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBu7SCi-JRfgzAkqc5RC_PYIkS4pA",
-                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\n\nこのゲーム実況は「バンダイナムコエンター..."
-            },
-            {
                 "video_id": "uN9donqrA-A",
                 "title": "『時をかける少女』を、らでんと一緒に語りながら観よう！【儒烏風亭らでん #ReGLOSS 】",
                 "date": "2025/11/28 18:45:00",
@@ -403,7 +396,22 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "9yJRebMnZKs",
+                "title": "【#FG3Dライブ】MAKE IT, BREAK IT　フリーチャット配信【輪堂千速】",
+                "date": "2025/11/29 22:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/9yJRebMnZKs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzWHN3Ku1MTlnJwPgKfwhlDkJCzQ",
+                "description": "こちらはFLOW GLOW　3Dライブ「MAKE IT, BREAK IT」のフリーチャット配信です✨\n感想はコメントまたは #FG3Dライブ でお待ちしております！\n\n\n-----------------..."
+            },
+            {
+                "video_id": "iOMHXJgXoY0",
+                "title": "【#FG3Dライブ】MAKE IT, BREAK IT　推しカメラ【輪堂千速】",
+                "date": "2025/11/23 19:15:00",
+                "thumbnail": "https://i.ytimg.com/vi/iOMHXJgXoY0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQEKhKoaoU4VQlyPxrX5M609CHJg",
+                "description": "こちらの配信では #輪堂千速 の推しカメラをご視聴いただけます✨\n※メインカメラはFLOW GLOW公式チャンネルのメン限にて配信となります\n\n\n＜各チ..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
