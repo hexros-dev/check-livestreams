@@ -347,13 +347,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
         "videos": [
             {
-                "video_id": "1OtUs937H9U",
-                "title": "【#9】SFC版 ドラゴンクエストIII そして伝説へ…：Dragon Warrior III【ホロライブ/大空スバル】",
-                "date": "2025/11/22 11:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/1OtUs937H9U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDiIsX1BZ6iE5dgcl9CTCIotKjrYg",
-                "description": "本動画のゲームプレイ映像は、株式会社スクウェア・エニックスの許諾を受けて使用しています。\nこの動画で利用している株式会社スクウェア・..."
-            },
-            {
                 "video_id": "3ZTc6IFGZYA",
                 "title": "【#生スバル】春日一番参戦‼‼ 視聴者参加型ソニックレーシング クロスワールド【ホロライブ/大空スバル】",
                 "date": "2025/11/27 18:00:00",
@@ -400,21 +393,21 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": [
-            {
-                "video_id": "JZBiLzuk3A0",
-                "title": "[Hollow Knight: Silksong] I Missed You... | #6",
-                "date": "2025/11/22 11:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/JZBiLzuk3A0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgxVSkX15XMBr4EKpRp2QFBAsCsw",
-                "description": "[Twitter]\nhttps://twitter.com/ourokronii\n\n[Thumbnail Art]\nhttps://x.com/cloudrain_demon\n\nGame Title: Hollow Knight: Silksong\nStore Page: https://store.steampowered.com/app/1030300/Hollow_Knight_Sil..."
-            }
-        ]
+        "videos": []
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "4tb13pPBe40",
+                "title": "we are digitan (umamusume: pretty derby)",
+                "date": "2025/11/22 12:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/4tb13pPBe40/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDiVHjqwo_-TBE9NgHyfQLBDVicug",
+                "description": "Reine's new original song now 「Yummy Yum Yummy!」AVAILABLE on iTunes, Apple Music, Spotify etc. Click to stream!\nパヴォリア・レイネ新曲「ヤミヤムヤミ」\nhttps://cover.lnk.to/mU..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
