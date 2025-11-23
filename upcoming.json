@@ -114,7 +114,15 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "XZeJwgeSajA",
+                "title": "地獄で会おうぜ、ベイビー(・o・🍬)【姫森ルーナ/ホロライブ】",
+                "date": "2025/11/24 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/XZeJwgeSajA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCuCo6-QecHnnxv0fWUujnbPcS3xw",
+                "description": "サムネイラスト\n　昼野いすさん　https://twitter.com/tree_isu\n\n雑談 - Free Talk - 再生リスト\nhttps://www.youtube.com/playlist?list=PL6gUpTCMieF4Yyd0SjmUr7OjjyS9lVW6U\n\n▷=======..."
+            }
+        ]
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -145,6 +153,13 @@
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
         "videos": [
+            {
+                "video_id": "baEVk0deD-U",
+                "title": "【phasmophobia】ホラーデート…ってこと…？【一条莉々華/hololive DEV_IS　ReGLOSS】",
+                "date": "2025/11/24 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/baEVk0deD-U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAuub5NhQL4LTLWGj5Cp7Lg2-7V-w",
+                "description": "@TokoyamiTowa @AiraniIofifteen 先輩達と✨\n\n本ゲームは Kinetic Games の確認を得た上で配信・収益化を行なっております\nゲームURL：\nhttps://store.steampowered.com/ap..."
+            },
             {
                 "video_id": "r6SJFVqVc8s",
                 "title": "【定期雑談】もう1週間経ってるってこと！？！？ #16【一条莉々華/hololive DEV_IS　ReGLOSS】",
@@ -597,15 +612,7 @@
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
         "channel_name": "Choco Ch. 癒月ちょこ",
         "avatar_url": "https://yt3.googleusercontent.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g",
-        "videos": [
-            {
-                "video_id": "KDfy6x0TzC8",
-                "title": "【メンバーシップ限定】悪魔の秘密のASMR【ホロライブ/癒月ちょこ】",
-                "date": "2025/11/23 22:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/KDfy6x0TzC8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBceDDAhxXaKUru9ZJJF62oBJCCXQ",
-                "description": "サブ垢→https://www.youtube.com/channel/UCp3tgHXw_HI0QMk1K8qh3gQ\nサムネイラスト：おやずり様@Oyazuly\nサムネ作成：籠乃あさぎり様@kagono_asagiri\nOP＆ED動画：松賀り..."
-            }
-        ]
+        "videos": []
     },
     "@dooby3d": {
         "channel_url": "https://www.youtube.com/@dooby3d",
