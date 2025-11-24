@@ -261,7 +261,15 @@
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
         "channel_name": "Moona Hoshinova hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "XcGIi7g0DoU",
+                "title": "【MoonUtau】Karaoke time!! 【UNARCHIVE】",
+                "date": "2025/11/24 22:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/XcGIi7g0DoU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAG5wMmJxiF_b1JnBeWx8gTqmpf5Q",
+                "description": "Streamlabs donation link here : https://streamlabs.com/moonahoshinovahololive-id/tip\nSociaBuzz donation link here : https://sociabuzz.com/moonahoshinova/tribe\n======================================..."
+            }
+        ]
     },
     "@MoriCalliope": {
         "channel_url": "https://www.youtube.com/@MoriCalliope",
@@ -278,7 +286,7 @@
             {
                 "video_id": "P7RfIwKzVm4",
                 "title": "【ARC Raiders】generational solo run by the grim reaper!! #calliolive",
-                "date": "2025/11/25 07:00:00",
+                "date": "2025/11/25 08:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/P7RfIwKzVm4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzXPEEizyZm68jWtbtEKMEpmyorA",
                 "description": "💿ALBUM「DISASTERPIECE」Pre-Order💿 ON SALE NOW!! \nhttps://lnk.to/mc_dp_ec\n\n🎧DL / STREAMING🎧\nhttps://lnk.to/mc_gu\n\nSIGNED CARD VERSION AVAILABLE FOR 1 MORE DAY!\nhttps://shop.moricalliop..."
             }
@@ -396,15 +404,7 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": [
-            {
-                "video_id": "9yJRebMnZKs",
-                "title": "【#FG3Dライブ】MAKE IT, BREAK IT　フリーチャット配信【輪堂千速】",
-                "date": "2025/11/29 22:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/9yJRebMnZKs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzWHN3Ku1MTlnJwPgKfwhlDkJCzQ",
-                "description": "こちらはFLOW GLOW　3Dライブ「MAKE IT, BREAK IT」のフリーチャット配信です✨\n感想はコメントまたは #FG3Dライブ でお待ちしております！\n\n※本配信のソ..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
