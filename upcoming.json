@@ -146,15 +146,7 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": [
-            {
-                "video_id": "2MCHelDzquQ",
-                "title": "【Dead Space 3】We Love Markers w/ Biboo",
-                "date": "2025/11/24 11:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/2MCHelDzquQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9kNlZ122IJHO6PCPLl-2Qp67cXw",
-                "description": "with @KosekiBijou \n\nThis game is being streamed and monetized after receiving prior consent from © 2020 Electronic Arts Inc.\n\n#hololiveenglish  #ホロライブ \n\nSTREAM MY NEW ORIGINAL SONG..."
-            }
-        ]
+        "videos": []
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -188,6 +180,13 @@
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
         "videos": [
+            {
+                "video_id": "EsJ98-AdtD4",
+                "title": "【告知あり】LIVE打ち上げ！3Dカラオケ♡",
+                "date": "2025/11/24 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/EsJ98-AdtD4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4luqnG70RPlGZlXUGHUUzdPnnXQ",
+                "description": "カラオケ音源協力：DAM 第一興商\n\n∴∵∴ ୨୧ ∴∵∴ ୨୧ ∴∵∴ ୨୧ ∴∵∴∴∵∴ ୨୧ ∴∵∴ ୨୧ ∴∵∴ ୨୧ ∴∵∴\n\nメンバーシップ(membersh..."
+            },
             {
                 "video_id": "c36kOuoYYc0",
                 "title": "【#FG3Dライブ】MAKE IT, BREAK IT　フリーチャット配信【響咲リオナ】",
@@ -255,15 +254,7 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": [
-            {
-                "video_id": "rBDIjoMtOdg",
-                "title": "【DEAD SPACE 3】NOW WITH DOUBLE THE STOMPING POWER!",
-                "date": "2025/11/24 11:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/rBDIjoMtOdg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0GmpdpRTQ58VKtS8kP7POOkq3aQ",
-                "description": "STREAM MY NEW SONG ROCK IN!\n youtu.be/XSZ0iMP80QQ\ncover.lnk.to/gHW4IL\n\nThumbnail Art: @decrilus THANK YOU! https://x.com/decrilus/status/1992425262705950957/photo/1\nwith @IRyS \n====================..."
-            }
-        ]
+        "videos": []
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -447,15 +438,7 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": [
-            {
-                "video_id": "MnZX01mYmxw",
-                "title": "【The Forest】 Yay Camping With @holoen_raorapanthera",
-                "date": "2025/11/24 11:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/MnZX01mYmxw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3UxVGwLn3hq3aza-OsPAI1x6iEQ",
-                "description": "[Twitter]\nhttps://twitter.com/ourokronii\n\n[Thumbnail Art]\nhttps://x.com/underdatv\n\nThis game is streamed and monetized according to the streaming policy.\n\n------------------------------------------..."
-            }
-        ]
+        "videos": []
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
@@ -559,21 +542,21 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "aLaU04KbbcA",
+                "title": "【Minecraft】ラムベガスに装飾しにいく！ #ラムベガスグランドオープン【獅白ぼたん/ホロライブ】",
+                "date": "2025/11/24 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/aLaU04KbbcA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLAD38xbRYBizjBIUIxIf6bptMxQ",
+                "description": "札束風呂とブレスレット屋さんを作りたい\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n🔸新着情報/New!\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n🎵歌っ..."
+            }
+        ]
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": [
-            {
-                "video_id": "6xyJh3V0CXA",
-                "title": "【WAWA TALK】what was that!!!?!??? #kfp #キアライブ",
-                "date": "2025/11/24 11:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/6xyJh3V0CXA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDakeTmgUwA7yXj7TGJPuqT9jt3BA",
-                "description": "Takanashi Kiara『TASTY』\nhttps://cover.lnk.to/al3Zjt\n\n🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara\n\n 🏵️[Hashtags] 🏵️\n#kfp #キアライブ#hololiveenglish #holomyth..."
-            }
-        ]
+        "videos": []
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
