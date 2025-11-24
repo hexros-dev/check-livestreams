@@ -63,14 +63,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "T3e2Z4l2RL0",
-                "title": "【 #朝こよ 】11/28は4周年！火曜日の朝も朝こよ～～～！☀ #260 【博衣こより/hololive】",
-                "thumbnail": "https://i.ytimg.com/vi/T3e2Z4l2RL0/hqdefault.jpg?v=692315eb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNp07yrceuaTjzHcOmwawbjjsLqQ",
-                "description": "💿1stアルバム「FIRST STEP」発売中！全曲新録！成長した歌を聴いてね🎶\n　https://cover.lnk.to/SdOKbq\n\n#朝こよ を観れば日本ニキも海外ニキもホロライブ..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -443,7 +436,14 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "9ZA_AB0tF9s",
+                "title": "【Wii Game Show Games】 Testing my 2010 trivia knowledge",
+                "thumbnail": "https://i.ytimg.com/vi/9ZA_AB0tF9s/hqdefault.jpg?v=6924d05f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKzoKMVBHtpXozZJU6jUJywDvmlg",
+                "description": "Wii Jeopardy and Wii The Price is Right and maybe other Wii games!\n\n☁  Thumbnail Art  ☁\nhttps://x.com/RitsukiChrilip9/status/1987490651953619302\nThank you so much!!\n\nMerch: https://ohmonah.shop..."
+            }
+        ]
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
