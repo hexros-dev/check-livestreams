@@ -9,7 +9,15 @@
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
         "channel_name": "Airani Iofifteen Channel hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "T_9rEQoHx1A",
+                "title": "HEY KKC!【 iofi / hololiveID 】",
+                "date": "2025/11/25 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/T_9rEQoHx1A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1Z1oczZscWSch96jYXwMnR7l6dQ",
+                "description": "#ioLyfe #Airani_Iofifteen #hololive #holoID \n\n【Support & Jajanin IOFI】🎨\nIndonesia : https://sociabuzz.com/airaniiofifteen/tribe\nOverseas : https://streamlabs.com/airaniiofifteenchannelhololi..."
+            }
+        ]
     },
     "@AkaiHaato": {
         "channel_url": "https://www.youtube.com/@AkaiHaato",
@@ -86,13 +94,6 @@
                 "date": "2025/11/26 18:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/tuR84LMlft8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDR7tRUyCf_adeixNcTRuTGa4SMhQ",
                 "description": "公式がやっていたholoX切り抜きコンテストへの応募ありがとうございました！✨\nせっかくお送りいただいたので、4周年を前にみんなで観たいなと..."
-            },
-            {
-                "video_id": "xvNLrLQoKlA",
-                "title": "【Fantasy map simulator】ホロライブのミニキャラ闘わせてみた！！！？？【博衣こより/ホロライブ】",
-                "date": "2025/11/25 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/xvNLrLQoKlA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDg0dkLl02SuhdqpK-KRGE_5Wstw",
-                "description": "サムネにいない子たちも出てきます！ホロライブのミニキャラが大集合！そうだ！闘わせてみよう！！！✌✨\n※ファンネームは使いません！「も..."
             }
         ]
     },
@@ -486,21 +487,21 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "pwPdsNZrIEE",
+                "title": "【ASMR】ささやきつつ歌いつつ、告知もあるよ！【ホロライブ/ときのそら】",
+                "date": "2025/11/26 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/pwPdsNZrIEE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBP3HQcAJOEq46QMaYvfr92FNMIdA",
+                "description": "★★★★★★★★★★★★★★★★★★★★★★\n\n2026年1月10日(土) 東京国際フォーラムホールAにて\nときのそら史上最大規模ワンマンライブ開催決..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": [
-            {
-                "video_id": "FZ4RrgPOmvU",
-                "title": "【 第七回 / #ホロステ 】- 常闇トワpresents -🎀ホロソングステーション【常闇トワ/ホロライブ】",
-                "date": "2025/11/25 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/FZ4RrgPOmvU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjZsWFhhUAD_nDCeZKxHSm-7I3ug",
-                "description": "ご応募ありがとうございました！✨️\n\n前回：https://www.youtube.com/live/pFo3V8Hz8Rw\n次回：\n\n次回紹介はすでに決まっているので、\nまた応募お願い致しま..."
-            }
-        ]
+        "videos": []
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
@@ -572,7 +573,7 @@
             {
                 "video_id": "eDeAkp4a4V8",
                 "title": "【Mafia: The Old Country】PER LA FAMIGLIA, CHATTINI【SPOILERS】",
-                "date": "2025/11/25 21:00:00",
+                "date": "2025/11/25 22:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/eDeAkp4a4V8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCccCKWBpG0GggReB3_U_SzWqqZ7Q",
                 "description": "╭─⋆｡ﾟ♡ RAO ♡｡ﾟ⋆─╮\n Amuniiiiiiiiii\n\n\n\n My first Original Song is OUT!\n🐱https://youtu.be/1BTd20qIfBI🐱\n\n✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦\n\n✎ ‧₊ Chattini..."
             }
@@ -600,7 +601,15 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Zvh5BE2Guik",
+                "title": "【配信予定】呪いも病も抱きしめたい【ホロライブ/兎田ぺこら】",
+                "date": "2025/11/25 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Zvh5BE2Guik/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtGiv6iBLOJBhtS1_zLpNAvFzi3A",
+                "description": "サムネイラスト：()さん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ #ぺこらいぶ..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
