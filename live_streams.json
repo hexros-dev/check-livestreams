@@ -372,14 +372,7 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": [
-            {
-                "video_id": "FZ4RrgPOmvU",
-                "title": "【 第七回 / #ホロステ 】- 常闇トワpresents -🎀ホロソングステーション【常闇トワ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/FZ4RrgPOmvU/hqdefault.jpg?v=691dc11e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjZsWFhhUAD_nDCeZKxHSm-7I3ug",
-                "description": "ご応募ありがとうございました！✨️\n\n前回：https://www.youtube.com/live/pFo3V8Hz8Rw\n次回：\n\n次回紹介はすでに決まっているので、\nまた応募お願い致しま..."
-            }
-        ]
+        "videos": []
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
@@ -463,7 +456,14 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Zvh5BE2Guik",
+                "title": "【ARC Raiders】Imagine / 想像してごらん【ホロライブ/兎田ぺこら】",
+                "thumbnail": "https://i.ytimg.com/vi/Zvh5BE2Guik/hqdefault.jpg?v=69258b24&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtGiv6iBLOJBhtS1_zLpNAvFzi3A",
+                "description": "あたいには…あたいには…\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ #ぺこらいぶ..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
