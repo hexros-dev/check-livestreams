@@ -117,15 +117,7 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": [
-            {
-                "video_id": "AQ9Yvc5buek",
-                "title": "【Kirby Air Riders】PoyoRyS",
-                "date": "2025/11/25 11:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/AQ9Yvc5buek/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDeSQR70VQlr4-chs0HSMLXar--Qw",
-                "description": "This might be my first kirby game on stream\n\nProperties belonging to Nintendo used in this video and livestream are used with permission and under the license of Nintendo Co., Ltd.\n#hololiveenglish..."
-            }
-        ]
+        "videos": []
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -544,7 +536,15 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "eDeAkp4a4V8",
+                "title": "【Mafia: The Old Country】PER LA FAMIGLIA, CHATTINI【SPOILERS】",
+                "date": "2025/11/25 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/eDeAkp4a4V8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCccCKWBpG0GggReB3_U_SzWqqZ7Q",
+                "description": "╭─⋆｡ﾟ♡ RAO ♡｡ﾟ⋆─╮\n Amuniiiiiiiiii\n\n\n\n My first Original Song is OUT!\n🐱https://youtu.be/1BTd20qIfBI🐱\n\n✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦\n\n✎ ‧₊ Chattini..."
+            }
+        ]
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",

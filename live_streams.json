@@ -93,7 +93,14 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "AQ9Yvc5buek",
+                "title": "【Kirby Air Riders】PoyoRyS",
+                "thumbnail": "https://i.ytimg.com/vi/AQ9Yvc5buek/hqdefault.jpg?v=69252a91&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDeSQR70VQlr4-chs0HSMLXar--Qw",
+                "description": "This might be my first kirby game on stream\n\nProperties belonging to Nintendo used in this video and livestream are used with permission and under the license of Nintendo Co., Ltd.\n#hololiveenglish..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -412,14 +419,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "Zkao4fyxAVk",
-                "title": "【CULT OF THE LAMB】one last day of gigi murin plushie thumbnail because preorders end tomorrow",
-                "thumbnail": "https://i.ytimg.com/vi/Zkao4fyxAVk/hqdefault.jpg?v=69242be0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvXZ_GmIBdKylwpD0hLD_uBKD5sA",
-                "description": "【Gigi Murin BDAY Plushie】\nhttps://shop.hololivepro.com/en/products/gigimurin_birthday_2025\n\nTWITCH INTEGRATION\nhttps://www.twitch.tv/gigimurin\n\nThis game is being streamed and monetized..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
