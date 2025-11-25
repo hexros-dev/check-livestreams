@@ -180,7 +180,7 @@
         "videos": [
             {
                 "video_id": "qjiODbShyXM",
-                "title": "【 配信予定 】【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "title": "【 メンバー限定 】おうち３D💖もっとみんなを魅了しちゃお【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
                 "date": "2025/11/25 20:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/qjiODbShyXM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZFFQRyp1kcbns2l3BRM7UGAyOyA",
                 "description": "メンバーシップ開設しました！加入はこちらから💕https://www.youtube.com/channel/UCGzTVXqMQHa4AgJVJIVvtDQ/join\n\n📢iOS ユーザーの皆様へ / for iOS(iPHONE, iPAD)..."
@@ -211,7 +211,15 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "2AI5hYY5fcw",
+                "title": "【HONKAI STAR RAIL】Give me all the cute girls.",
+                "date": "2025/11/26 06:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/2AI5hYY5fcw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD29Y56YAn_oREmIMNBp8MCEV-kMg",
+                "description": "STREAM MY NEW SONG ROCK IN!\n youtu.be/XSZ0iMP80QQ\ncover.lnk.to/gHW4IL\n\nThumbnail art by: @Castella_yaki THANK YOU\nhttps://x.com/Castella_yaki/status/1992278273523634291/photo/1\n====================..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -345,13 +353,6 @@
                 "date": "2025/11/26 19:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/9Jv3H3aePW8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBADfk-GqFIrSR3BaGwoOB2_GGMfg",
                 "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n\n🔽楽曲各..."
-            },
-            {
-                "video_id": "xx3ZTvOhNoM",
-                "title": "【#最終回？！】ゼルダの伝説 神々のトライフォース：The Legend of Zelda: A Link to the Past【ホロライブ/大空スバル】",
-                "date": "2025/11/25 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/xx3ZTvOhNoM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhiATyZfY7zBXNuE4aGabJAhzbxg",
-                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントする..."
             }
         ]
     },
@@ -395,7 +396,15 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "fCDvm0Y3qkw",
+                "title": "【 GTAV 】歌鬼ごっこ‼１曲歌い終わるまでリスナーから逃げ切れええええええええ‼🔥【ホロライブ/さくらみこ】",
+                "date": "2025/11/25 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/fCDvm0Y3qkw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKqMGA_cgafrQ_uAhEqBdUFlueFA",
+                "description": "なんだか歌いたい気分だからにぇ！！！！！！\n視聴者参加型！🔥\n１曲歌い終わるまでリスナーから逃げ切る\n①参加するリスナー側は指定の位置..."
+            }
+        ]
     },
     "@SamekoSaba": {
         "channel_url": "https://www.youtube.com/@SamekoSaba",
@@ -413,7 +422,15 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "TKWDAjdwzMU",
+                "title": "【 Minecraft 】#かみぬい　ラムベガスを好きにして良いと聞いて！古のネタ装飾をちらほら【白上フブキ/不知火フレア/ホロライブ】",
+                "date": "2025/11/25 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/TKWDAjdwzMU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCx8VrX9ad29LIg_9QbiTFYym7QQ",
+                "description": "＃かみぬい\n不知火フレア @ShiranuiFlare \n━━━━━━━━━━━━━━━━━━━━━━━\n\n🎃オリジナル楽曲『冥界Halloween Night!』\n▷配信：https://c..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -557,7 +574,7 @@
             {
                 "video_id": "eDeAkp4a4V8",
                 "title": "【Mafia: The Old Country】PER LA FAMIGLIA, CHATTINI【SPOILERS】",
-                "date": "2025/11/25 22:00:00",
+                "date": "2025/11/25 21:30:00",
                 "thumbnail": "https://i.ytimg.com/vi/eDeAkp4a4V8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCccCKWBpG0GggReB3_U_SzWqqZ7Q",
                 "description": "╭─⋆｡ﾟ♡ RAO ♡｡ﾟ⋆─╮\n Amuniiiiiiiiii\n\n\n\n My first Original Song is OUT!\n🐱https://youtu.be/1BTd20qIfBI🐱\n\n✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦\n\n✎ ‧₊ Chattini..."
             }
