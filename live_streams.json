@@ -63,14 +63,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "xvNLrLQoKlA",
-                "title": "【Fantasy map simulator】ホロライブのミニキャラ闘わせてみた！！！？？【博衣こより/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/xvNLrLQoKlA/hqdefault.jpg?v=6924502c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDg0dkLl02SuhdqpK-KRGE_5Wstw",
-                "description": "サムネにいない子たちも出てきます！ホロライブのミニキャラが大集合！そうだ！闘わせてみよう！！！✌✨\n※ファンネームは使いません！「も..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -145,9 +138,9 @@
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
         "videos": [
             {
-                "video_id": "qjiODbShyXM",
+                "video_id": "WlRFwGRW0do",
                 "title": "【 メンバー限定 】おうち３D💖もっとみんなを魅了しちゃお【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "thumbnail": "https://i.ytimg.com/vi/qjiODbShyXM/hqdefault.jpg?v=6925a03a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZFFQRyp1kcbns2l3BRM7UGAyOyA",
+                "thumbnail": "https://i.ytimg.com/vi/WlRFwGRW0do/hqdefault.jpg?v=6925aece&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCrqhCXmWeqAxHtkvAPLGl8IxBGNw",
                 "description": "メンバーシップ開設しました！加入はこちらから💕https://www.youtube.com/channel/UCGzTVXqMQHa4AgJVJIVvtDQ/join\n\n📢iOS ユーザーの皆様へ / for iOS(iPHONE, iPAD)..."
             }
         ]
@@ -345,13 +338,27 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "TKWDAjdwzMU",
+                "title": "【 Minecraft 】#かみぬい　ラムベガスを好きにして良いと聞いて！古のネタ装飾をちらほら【白上フブキ/不知火フレア/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/TKWDAjdwzMU/hqdefault.jpg?v=69259dd7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCx8VrX9ad29LIg_9QbiTFYym7QQ",
+                "description": "＃かみぬい\n不知火フレア @ShiranuiFlare \n━━━━━━━━━━━━━━━━━━━━━━━\n\n🎃オリジナル楽曲『冥界Halloween Night!』\n▷配信：https://c..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "HfCIWvU1-Dw",
+                "title": "【 Minecraft 】#かみぬい ５億年ぶりにマイクラ【不知火フレア/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/HfCIWvU1-Dw/hqdefault.jpg?v=6925a1c5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyfg8n4YzgJJr68gfa0PXg07njYQ",
+                "description": "@ShirakamiFubuki 白上フブキよ～(`・ω・´)\n\n■New「Fun fair」MV公開✨\nhttps://www.youtube.com/watch?v=FdKux6g4HJ4\n\n━━━━━━━━━━━━━━━━━━━━━━..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -401,7 +408,14 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "DG4MTQvFvcg",
+                "title": "【Minecraft】ラムベガスだって！？行くしかない！！【ホロライブ/ときのそら】",
+                "thumbnail": "https://i.ytimg.com/vi/DG4MTQvFvcg/hqdefault.jpg?v=6925a91d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATYtvSjafuEJaBq5xkUKKQNOMBWg",
+                "description": "なんか楽しそうだから見学してみる！！\n\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
