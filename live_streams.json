@@ -111,7 +111,14 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Yl5nS6p52Jg",
+                "title": "【定期配信＃１４】水曜のお昼の１２時はリオナとランチ❤【ホロライブ DEV_IS 響咲リオナ】#リオナとランチ",
+                "thumbnail": "https://i.ytimg.com/vi/Yl5nS6p52Jg/hqdefault.jpg?v=6925d2b6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWlb9sUByrFmpiG3iLfn8xFvSxDA",
+                "description": "♡...本日のスパーチャットはお名前読み上げのみになります！！\n\nサムネイラスト　あやめなこさん @ joumoku \nサムネロゴ　ロオウズさん @ roooose25..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -280,14 +287,7 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
-        "videos": [
-            {
-                "video_id": "FbkEFlS28ZM",
-                "title": "【ARC Raiders】朝から稼ぎに行ったっていいですにゃ 【ホロライブ/ ロボ子さん】",
-                "thumbnail": "https://i.ytimg.com/vi/FbkEFlS28ZM/hqdefault.jpg?v=69261cbe&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZnJUncbnHe3sB3DuEn6GrgJrK7Q",
-                "description": "＃ホロライブ 　\nｘでは💬　 #ロボ子生放送　でポストしてってね\n\n配信タイトル：ARC Raiders\nストアページ：https://store.steampowered.com/app/1808500/ARC_Raide..."
-            }
-        ]
+        "videos": []
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
