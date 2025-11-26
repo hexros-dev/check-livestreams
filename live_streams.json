@@ -147,14 +147,7 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": [
-            {
-                "video_id": "2AI5hYY5fcw",
-                "title": "【HONKAI STAR RAIL】Give me all the cute girls.",
-                "thumbnail": "https://i.ytimg.com/vi/2AI5hYY5fcw/hqdefault.jpg?v=69259e50&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD29Y56YAn_oREmIMNBp8MCEV-kMg",
-                "description": "STREAM MY NEW SONG ROCK IN!\n youtu.be/XSZ0iMP80QQ\ncover.lnk.to/gHW4IL\n\nThumbnail art by: @Castella_yaki THANK YOU\nhttps://x.com/Castella_yaki/status/1992278273523634291/photo/1\n====================..."
-            }
-        ]
+        "videos": []
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -214,7 +207,14 @@
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "bx-27NAEo7E",
+                "title": "【歌枠】君のためのうた【ホロライブ/夏色まつり】",
+                "thumbnail": "https://i.ytimg.com/vi/bx-27NAEo7E/hqdefault.jpg?v=6926b6e6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDA3aegSxg7tzNi3_NHHqqf91a2JQ",
+                "description": "...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\n\n素敵なサムネイル→とくまろ様\n@tokumaro\n\n\n...｡oо○**○оo｡...｡oо○**○о..."
+            }
+        ]
     },
     "@NekomataOkayu": {
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
