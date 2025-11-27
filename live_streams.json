@@ -364,14 +364,7 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": [
-            {
-                "video_id": "tFe5bojGp6c",
-                "title": "【雑談＆お礼】いよいよ本番が近い...！どきどき！！！【角巻わため/ホロライブ４期生】",
-                "thumbnail": "https://i.ytimg.com/vi/tFe5bojGp6c/hqdefault.jpg?v=69282f89&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFpOm6c4jq-6Nffym9-TaCt8GWtg",
-                "description": "駆け抜けた11月💨\nタグ：#ドドドライブ \n\n🐏新オリジナル曲『ビリ』公開！\nMV：https://youtu.be/cVT_yB1qpYY\n\n『ビリ』の購入はこちらから！\n6/6(Fri)..."
-            }
-        ]
+        "videos": []
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -407,7 +400,14 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "pW9uge_Qfp0",
+                "title": "【EXPEDITION 33】FRENCH AUTOMATON PLAYS FRENCH GAME",
+                "thumbnail": "https://i.ytimg.com/vi/pW9uge_Qfp0/hqdefault.jpg?v=69283b49&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBG6Fj8baYXVFy-pGjvb4znZq01jw",
+                "description": "BDAY Merch available here! \n▼hololive production OFFICIAL SHOP \nJP: https://shop.hololivepro.com/products/ceciliaimmergreen_birthday_2025 \nEN: https://shop.hololivepro.com/en/products/ceciliaimme..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
