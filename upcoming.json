@@ -264,7 +264,15 @@
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
         "channel_name": "Moona Hoshinova hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "BqaCYEZ7k3o",
+                "title": "【New Accessories】I just went to a salon and look what they got me!【Moona Hoshinova】",
+                "date": "2025/11/28 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/BqaCYEZ7k3o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWpYywHWz8JTzHO9HD2Jau-FP4cw",
+                "description": "Streamlabs donation link here : https://streamlabs.com/moonahoshinovahololive-id/tip\nSociaBuzz donation link here : https://sociabuzz.com/moonahoshinova/tribe\n======================================..."
+            }
+        ]
     },
     "@MoriCalliope": {
         "channel_url": "https://www.youtube.com/@MoriCalliope",
