@@ -357,15 +357,7 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": [
-            {
-                "video_id": "uhQXBBdtS9c",
-                "title": "【s.p.l.i.t】Hackerman",
-                "date": "2025/11/28 10:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/uhQXBBdtS9c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAs0vZoS98IhppM8AKUsRkWKOynhw",
-                "description": "Game title：s.p.l.i.t\nStore page：https://store.steampowered.com/app/3684610/split/\n\n[Twitter]\nhttps://twitter.com/ourokronii\n\n[Thumbnail Art]\nhttps://x.com/panpanirene\n\n-------------------------..."
-            }
-        ]
+        "videos": []
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
@@ -413,7 +405,15 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "6u2k-xwiqn4",
+                "title": "【#FF14】ネックスピーカーで良き音体験！！！皆で討滅戦もやるぞぃ！！！【白上フブキ/ホロライブ】",
+                "date": "2025/11/28 19:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/6u2k-xwiqn4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBsJNLqzNwtiZOzvB7b22097Us3w",
+                "description": "提供：パナソニック株式会社\nパナソニックのゲーミングネックスピーカー「SC-GNW10S-FF」で\n「ファイナルファンタジーXIV（FF14）」の討滅戦プレイ..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
