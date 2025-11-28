@@ -218,15 +218,7 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": [
-            {
-                "video_id": "kvDr26xpxHk",
-                "title": "【UNARCHIVED THANKSGIVING】HAPPY KARAOKE",
-                "date": "2025/11/28 07:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/kvDr26xpxHk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCUENq_IFsvJ_LbHFJPBqtMEW0N-w",
-                "description": "STREAM MY NEW SONG ROCK IN!\n youtu.be/XSZ0iMP80QQ\ncover.lnk.to/gHW4IL\n\n====================\n✧Twitter: https://twitter.com/kosekibijou\n\n✧Hashtags: \n#biboo  \nAdvent: #holoAdvent\nLive: #LIVEseki..."
-            }
-        ]
+        "videos": []
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -535,7 +527,15 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "VQFMBZzOPEo",
+                "title": "【JP LEARNING】勉強しましょう！ yippie!",
+                "date": "2025/11/28 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/VQFMBZzOPEo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYtcwPr3iulzAd-gc5a4E1rHpw3w",
+                "description": "BDAY Merch available here! \n▼hololive production OFFICIAL SHOP \nJP: https://shop.hololivepro.com/products/ceciliaimmergreen_birthday_2025 \nEN: https://shop.hololivepro.com/en/products/ceciliaimme..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
