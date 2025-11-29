@@ -139,14 +139,7 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": [
-            {
-                "video_id": "nQksqjVAiGw",
-                "title": "【 Minecraft 】ラムベガスさん、設定６ですか？？？♡ #ラムベガスグランドオープン【ホロライブ DEV_IS 響咲リオナ】",
-                "thumbnail": "https://i.ytimg.com/vi/nQksqjVAiGw/hqdefault.jpg?v=6929e106&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAT-TqUg359ognnKR3LSCawjpkAzw",
-                "description": "久しぶりのマイクラ楽しみすぎるぞおおおお！！！！\nタグ：#ラムベガスグランドオープン\n--------------------------------------------\n本ゲームは Mojang..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -164,14 +157,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": [
-            {
-                "video_id": "Q6Bsz3c-08w",
-                "title": "【 Minecraft 】＃ラムベガスグランドオープン 運だけで生きてきた女【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "thumbnail": "https://i.ytimg.com/vi/Q6Bsz3c-08w/hqdefault.jpg?v=692ab757&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvPBLfl0Ua3XUJtFA8TF_BoCo57w",
-                "description": "サムネイルや配信の素敵な素材　クリエイター：ぶるー太 様(https://x.com/blueta9810)\nサムネイルの素敵なイラスト　雪畑しゅうさん　https://x.com/yukihata..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -324,7 +310,14 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "1E6VaJHl-_s",
+                "title": "#2【Ace Attorney Investigations 2】WHO IS DE KILLER (SPOILERS!)【Pavolia Reine/holoID gen 2】",
+                "thumbnail": "https://i.ytimg.com/vi/1E6VaJHl-_s/hqdefault.jpg?v=692ad771&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxpv2HJsSnRCcUN0mlySucOswtkA",
+                "description": "Reine's new original song now AVAILABLE on iTunes, Apple Music, Spotify etc. starting September 10, 2025 00:00 your local time!!!\nWatch the MV:➡️https://youtu.be/NEtiag8nTUs\nGet it here:➡️h..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -532,13 +525,6 @@
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": [
-            {
-                "video_id": "1A8fEWLke2Y",
-                "title": "はじめまして逆凸をしてみる回。#結城さくな生放送",
-                "thumbnail": "https://i.ytimg.com/vi/1A8fEWLke2Y/hqdefault.jpg?v=692a78da&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCg1dzuRWB8pD847ZxtJ5QluiRGlg",
-                "description": "🎀グッズ・ボイス販売はこちら🐾\nhttps://yuki-sakuna.stores.jp/\n\n🎀歌ってみた動画🐾\nhttps://youtube.com/playlist?list=PLErsMirGq93vRw-CcRaaZfR4QVxl2uBsb&si=BRmEr8erE6aR-UJ..."
-            }
-        ]
+        "videos": []
     }
 }
