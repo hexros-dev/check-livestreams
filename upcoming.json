@@ -546,7 +546,15 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "A7xov1YyTYw",
+                "title": "【Minecraft】勝ちまくりぃ！！#ラムベガスグランドオープン【 雪花ラミィ /ホロライブ】",
+                "date": "2025/11/29 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/A7xov1YyTYw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1RV8eFaGk87HJxSoHwoQw7Poa4Q",
+                "description": "主催：@TsunomakiWatame \n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております..."
+            }
+        ]
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
