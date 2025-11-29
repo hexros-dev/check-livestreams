@@ -134,7 +134,15 @@
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
         "channel_name": "Suisei Channel",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "-Og7TBaZ3Ac",
+                "title": "【 Minecraft / #ラムベガスグランドオープン 】運の悪い私はもういません♪【ホロライブ / 星街すいせい】",
+                "date": "2025/11/29 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/-Og7TBaZ3Ac/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDutu4ZWDb4Cj_XVqlvXmagKoFoCg",
+                "description": "☄️Hoshimachi Suisei Live “SuperNova: REBOOT”☄️\n2026年2月21日(土)にKアリーナ横浜にて開催！\nhttps://supernova.hololivepro.com\n\n🎫現地・配信チケットはこちら..."
+            }
+        ]
     },
     "@HoushouMarine": {
         "channel_url": "https://www.youtube.com/@HoushouMarine",
