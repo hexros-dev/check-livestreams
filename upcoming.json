@@ -248,13 +248,6 @@
                 "date": "2025/11/29 17:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/DH6pI53HNHA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASR_Hc_GA9FbV5ammkdhY2DP9S_w",
                 "description": "主催 @TsunomakiWatame \n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております..."
-            },
-            {
-                "video_id": "H3pjDLah-4o",
-                "title": "【カービィのエアライダー】初めてのエアライダーやってみる！【水宮枢／ホロライブDEV_IS】",
-                "date": "2025/11/29 11:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/H3pjDLah-4o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwJYraK4uiv9VFZA24m75tgMJHKA",
-                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\nイラストhttps://x.com/akichazuke?s=21&t=CbrrjZRpYKuQt6jP6ruZBg\n▹◃┄▸◂┄▹◃..."
             }
         ]
     },
@@ -407,7 +400,15 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "J21MJ6HRGOk",
+                "title": "【Minecraft】ラムベガスで儲けるぞ―――‼地下はイヤダ･･地下はイヤダ･･【ホロライブ/さくらみこ】",
+                "date": "2025/11/29 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/J21MJ6HRGOk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_I0BoKoRlUer0jnhSnHBIfx44jw",
+                "description": "🌸スシロー×さくらみこコラボ開催決定‼🍣\n11/19(水)～12/7(日)まで！全店舗で実施🎉\nhttps://www.akindo-sushiro.co.jp/campaign/detail.php?id=4127\n\n🌸miComet..."
+            }
+        ]
     },
     "@SamekoSaba": {
         "channel_url": "https://www.youtube.com/@SamekoSaba",
@@ -649,6 +650,14 @@
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "1A8fEWLke2Y",
+                "title": "はじめまして逆凸をしてみる回。#結城さくな生放送",
+                "date": "2025/11/29 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/1A8fEWLke2Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCg1dzuRWB8pD847ZxtJ5QluiRGlg",
+                "description": "🎀グッズ・ボイス販売はこちら🐾\nhttps://yuki-sakuna.stores.jp/\n\n🎀歌ってみた動画🐾\nhttps://youtube.com/playlist?list=PLErsMirGq93vRw-CcRaaZfR4QVxl2uBsb&si=BRmEr8erE6aR-UJ..."
+            }
+        ]
     }
 }
