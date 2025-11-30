@@ -300,14 +300,7 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": [
-            {
-                "video_id": "awVuuBJ34oA",
-                "title": "【大神ミオ視点】ド素人エアライダー・・・がんばる！！！【 #ホロのエアライダー 】",
-                "thumbnail": "https://i.ytimg.com/vi/awVuuBJ34oA/hqdefault.jpg?v=692bdc27&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCr_a127TRpbsKSuZkjLxTBRaU5rQ",
-                "description": "初心者🔰エアライダー！チュートリアルとシティトライアルちょっと練習した！🔰\n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて..."
-            }
-        ]
+        "videos": []
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -344,14 +337,7 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": [
-            {
-                "video_id": "T50qDHzN_kI",
-                "title": "【 #ホロのエアライダー】16人で”！？がんばるぞ～～～～！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "thumbnail": "https://i.ytimg.com/vi/T50qDHzN_kI/hqdefault.jpg?v=692c16ff&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB75zpqGUqcUG4p8JJQYxPkBUoOXA",
-                "description": "参加者の皆さま！！！！​\n@HoshimachiSuisei  @SakuraMiko  @ShirakamiFubuki @OozoraSubaru  \n@OokamiMio   @NekomataOkayu  @ShiroganeNoel  \n@TokoyamiTowa  @ShishiroBotan  @YukihanaLamy..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -407,20 +393,20 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "wIFHHaHTwf0",
+                "title": "【MemberOnly/同時視聴】笑えるらしい！？amazonプライムで「俺たちフィギュアスケーター」をみよう【不知火フレア/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/wIFHHaHTwf0/hqdefault.jpg?v=692c2719&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCMmxSYtTNyKh30jb4oRG57f2vWgw",
+                "description": "🔥メンバーシップはこちらから\n➡https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg/join\n\n今日の同時視聴「俺たちフィギュアスケーター」\nhttps://www.amazon.c..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": [
-            {
-                "video_id": "cKEIbyO1Gpw",
-                "title": "【ホロのエアライダー】ノエばあの初エアライダー！【白銀ノエル/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/cKEIbyO1Gpw/hqdefault.jpg?v=692bac83&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAGXOl5NwBikzai_8MJ--8V3XtW2Q",
-                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n#ホロのエアライダー\n\n✨🤍白銀ノエル誕生日記念グッズ2025販売開..."
-            }
-        ]
+        "videos": []
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -445,52 +431,45 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": [
-            {
-                "video_id": "Q2pRjrpoBoQ",
-                "title": "【 #ホロのエアライダー 】募：最強の酔い対策【鷹嶺ルイ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/Q2pRjrpoBoQ/hqdefault.jpg?v=692bfac8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXNfaxZ8d3fjdlGK2c9nncOP3PTw",
-                "description": "かわいいかわいいマホロア君で頑張ります☺\n\n🥀鷹嶺ルイ4周年記念グッズ🥀\n🔽12月29日(月)18時まで‼🔽\nhttps://shop.hololivepro.com/products/takanelui_annive..."
-            }
-        ]
+        "videos": []
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": [
-            {
-                "video_id": "m7A0sszknG8",
-                "title": "【 ＃ホロのエアライダー】はしぇ！！【轟はじめ/ReGLOSS】",
-                "thumbnail": "https://i.ytimg.com/vi/m7A0sszknG8/hqdefault.jpg?v=692bb2fe&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhxB_EVicmajZykFohriNEMy71qQ",
-                "description": "＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝\n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n#ホロのエアライダー..."
-            }
-        ]
+        "videos": []
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "7pEcbuYDlBw",
+                "title": "【ネタバレあり】ゼルダ無双 封印戦記～2～【ホロライブ/ときのそら】",
+                "thumbnail": "https://i.ytimg.com/vi/7pEcbuYDlBw/hqdefault.jpg?v=692c397c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBiFDg9rOszL_b0G3yymuEzEndXnA",
+                "description": "はじまりの物語。\n今日も続きを見ていく！！\n※ネタバレ注意の作品です。よろしくお願いします！\n\n本ゲームはコーエーテクモゲームスの確認を..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": [
-            {
-                "video_id": "G-MMkMHfoEY",
-                "title": "【 #ホロのエアライダー 】Switch2初‼️れちごおおおおおおおおおっ【常闇トワ視点 / ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/G-MMkMHfoEY/hqdefault.jpg?v=692bc539&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1SUiocGhS2Qt--zQuAw6jhu-mUA",
-                "description": "メンバー🌽\n@ShirakamiFubuki 　サムネありがとう❤️\n@SakuraMiko \n@HoshimachiSuisei \n@OozoraSubaru \n@OokamiMio \n@NekomataOkayu \n@ShiroganeNoel \n@ShishiroBotan \n@YukihanaLamy..."
-            }
-        ]
+        "videos": []
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "EdrZbZieRRw",
+                "title": "【 Minecraft 】ラムベガスで遊びつつ振り返り！！！- ラムベガス／LAMB VEGAS -【角巻わため/ホロライブ４期生】",
+                "thumbnail": "https://i.ytimg.com/vi/EdrZbZieRRw/hqdefault.jpg?v=692b4339&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAIAInYmQ9veNLRwpBXq8nnj31HCQ",
+                "description": "優勝者の銅像お披露目予定！こよちゃんも来てくれるかも✨\nタグ：#ドドドライブ \n\n制作協力：ドズル社 様\n@dozle \n\nKVイラスト：ぶるー太\nhttps://x.com..."
+            }
+        ]
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
