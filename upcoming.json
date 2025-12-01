@@ -449,7 +449,15 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "jE7taEP6Vr4",
+                "title": "【STREAM】Der Stream",
+                "date": "2025/12/02 03:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/jE7taEP6Vr4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdbY_ULeRaOw60-Hv9RGScDPRIUw",
+                "description": "oooh i head emptyyy\n\nBDAY Merch available here! \n▼hololive production OFFICIAL SHOP \nJP: https://shop.hololivepro.com/products/ceciliaimmergreen_birthday_2025 \nEN: https://shop.hololivepro.com/en..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
