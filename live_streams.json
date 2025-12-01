@@ -297,7 +297,14 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "k9mMbgdLstk",
+                "title": "Becoming a Post Apocalyptic Vampire 【Code Vein】❗SPOILERS❗",
+                "thumbnail": "https://i.ytimg.com/vi/k9mMbgdLstk/hqdefault.jpg?v=692d298c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLBMs_TYlHbXw0JkyTyUnuQ5xtVA",
+                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n===============..."
+            }
+        ]
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
@@ -357,14 +364,7 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": [
-            {
-                "video_id": "dSpeGaQk9e0",
-                "title": "【 Pokémon LEGENDS Z-A 】わためいと（オーダイル）と行くのんびり過ぎるかもしれない旅！ #7【角巻わため/ホロライブ４期生】",
-                "thumbnail": "https://i.ytimg.com/vi/dSpeGaQk9e0/hqdefault.jpg?v=692cecc0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvPf0x2EOW7MHeWsKVlwOhw0UjmA",
-                "description": "今日は、高級な服屋さんに行くぞ！！\n#ドドドライブ \n\n配信タイトル：Pokémon LEGENDS Z-A\nストアページ：https://store-jp.nintendo.com/item/software/D70010000094233..."
-            }
-        ]
+        "videos": []
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
