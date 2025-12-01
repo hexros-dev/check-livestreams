@@ -66,10 +66,10 @@
         "videos": [
             {
                 "video_id": "f-2ucSj9w0U",
-                "title": "【 #朝こよ 】holoXライブおつかれ！12月最初の火曜日の朝も朝こよ～～～！☀ #261 【博衣こより/hololive】",
+                "title": "【 #朝こよ 】㊗朝こよ4周年！holoXライブおつかれ！12月最初の火曜日の朝も朝こよ～！☀シーズン12スタートだよ！ #261 【博衣こより/hololive】",
                 "date": "2025/12/02 05:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/f-2ucSj9w0U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxt1oRzlQ_BTBBg0DZlfxs8T6vPg",
-                "description": "🧪4周年記念グッズ発売中！12/29(月)18:00まで！もふこよぬいも💖\nhttps://shop.hololivepro.com/products/hakuikoyori_anniversary_4th\n\n💗もふこよ＆こより達のLINE絵..."
+                "description": "⚠シーズン11台詞大賞アンケート開催中！➡ https://forms.gle/KX32q5X5hfweyyPJ9 ⚠\n🧪4周年記念グッズ発売中！12/29(月)18:00まで！もふこよぬいも💖\nhttps://s..."
             }
         ]
     },
@@ -199,15 +199,7 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": [
-            {
-                "video_id": "nvwyk_kCnVk",
-                "title": "【Dragonball Z Kakarot】freiza arc today!? (SPOILERS!!)  #calliolive",
-                "date": "2025/12/01 09:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/nvwyk_kCnVk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAVt6pQx2ASVJQ55bMVRU7hHU0Beg",
-                "description": "DISASTERPIECE New Album ON Sale!\nPre-Order:https://lnk.to/mc_dp_ec\n\n直筆サイン入り通常盤 / SIGNED BONUS EDITION (ONLY A FEW DAYS LEFT!)\n https://lnk.to/moricalliope_shop\n\nBGM: https://x.c..."
-            }
-        ]
+        "videos": []
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -366,7 +358,15 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "P1YlcwtfdIo",
+                "title": "【ARC RAIDERS】quark raiders #kfp #キアライブ",
+                "date": "2025/12/01 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/P1YlcwtfdIo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCd3C-YaHshN_n8ELRNA4egdQPawg",
+                "description": "TAKOTORI CONCERT Drawn To Dawn @ The Wiltern in Los Angeles, USA 27/28th March 2026 →　https://drawn-to-dawn.hololivepro.com/\nALBUM PREORDER: https://shop.hololivepro.com/en/products/takanashiki..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
@@ -404,7 +404,15 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "dSpeGaQk9e0",
+                "title": "【 Pokémon LEGENDS Z-A 】わためいと（オーダイル）と行くのんびり過ぎるかもしれない旅！ #7【角巻わため/ホロライブ４期生】",
+                "date": "2025/12/01 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/dSpeGaQk9e0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvPf0x2EOW7MHeWsKVlwOhw0UjmA",
+                "description": "今日は、高級な服屋さんに行くぞ！！\n#ドドドライブ \n\n配信タイトル：Pokémon LEGENDS Z-A\nストアページ：https://store-jp.nintendo.com/item/software/D70010000094233..."
+            }
+        ]
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
