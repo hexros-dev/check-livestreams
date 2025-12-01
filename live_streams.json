@@ -69,14 +69,7 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": [
-            {
-                "video_id": "6qaW8-IPVC4",
-                "title": "【 Cities: Skylines II 】んな市長が都市計画事業を始めるのら！！！＃２ 【姫森ルーナ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/6qaW8-IPVC4/hqdefault.jpg?v=692c2f86&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD39-ZgqQlXSw4Ud-uMaId6FAq-3Q",
-                "description": "Cities: Skylines II再生リスト\nhttps://www.youtube.com/playlist?list=PL6gUpTCMieF76Dl-4NcHhSNscyI58V8AF\nCities: Skylines再生リスト\nhttps://www.youtube.com/playlist?list=PL6gUpTCMieF7ATgGXB..."
-            }
-        ]
+        "videos": []
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -407,7 +400,14 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "jE7taEP6Vr4",
+                "title": "no one has asked for this 【call of juarez bound in blood】",
+                "thumbnail": "https://i.ytimg.com/vi/jE7taEP6Vr4/hqdefault.jpg?v=692df502&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdbY_ULeRaOw60-Hv9RGScDPRIUw",
+                "description": "oooh i head emptyyy\n\nBDAY Merch available here! \n▼hololive production OFFICIAL SHOP \nJP: https://shop.hololivepro.com/products/ceciliaimmergreen_birthday_2025 \nEN: https://shop.hololivepro.com/en..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",

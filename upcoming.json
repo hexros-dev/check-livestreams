@@ -85,7 +85,15 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "PNp-AbVIFY0",
+                "title": "【 グラディウスⅢ -伝説から神話へ- 】鬼畜レトロゲームシューティングで遊ぶのら！！！【姫森ルーナ/ホロライブ】",
+                "date": "2025/12/02 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/PNp-AbVIFY0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQ9qmjrdjfZMf0RUOUDrkLOqKRJA",
+                "description": "グラディウス オリジン コレクションで遊んでるのら(・o・🍬)\n\nグラディウスⅢ -伝説から神話へ- 再生リスト\nhttps://www.youtube.com/playlist?list=PL6gUpTCMie..."
+            }
+        ]
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -463,15 +471,7 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": [
-            {
-                "video_id": "jE7taEP6Vr4",
-                "title": "【STREAM】Der Stream",
-                "date": "2025/12/02 03:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/jE7taEP6Vr4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdbY_ULeRaOw60-Hv9RGScDPRIUw",
-                "description": "oooh i head emptyyy\n\nBDAY Merch available here! \n▼hololive production OFFICIAL SHOP \nJP: https://shop.hololivepro.com/products/ceciliaimmergreen_birthday_2025 \nEN: https://shop.hololivepro.com/en..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
