@@ -139,6 +139,13 @@
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
         "videos": [
             {
+                "video_id": "6JgRFrYdIww",
+                "title": "【 Carry The Glass 】奏ヴィヴィで協力してガラスを割らずに運べ！！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "date": "2025/12/02 18:15:00",
+                "thumbnail": "https://i.ytimg.com/vi/6JgRFrYdIww/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzETzNT2oe2CpeSwrY27iP5a9Jvg",
+                "description": "@OtonoseKanade \n✦ ━━━━━━━ ✦ ━━━━━━━ ✦ \n1st Album「FLOW GLOW」が発売決定！\n✦ ━━━━━━━ ✦ ━━━━━━━ ✦ \n\n▼ご予約はこち..."
+            },
+            {
                 "video_id": "SXPVIeKPzls",
                 "title": "【 Carry The Glass 】奏ヴィヴィで協力してガラスを割らずに運べ！！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
                 "date": "2025/12/02 18:00:00",
@@ -292,7 +299,15 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "VR1WlZwakvA",
+                "title": "【 ミメシス 】え？！ホラーなんですか？！？！【大神ミオ視点】",
+                "date": "2025/12/02 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/VR1WlZwakvA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFMRWItb46xh_G3mpXSA_TewlfXg",
+                "description": "#ド珍組 に・・・偽物がいる？！\n\nサムネillustrator：くまらんさん　https://x.com/kumarang_\n\n『ミメシス』ストアページ：https://store.steampowered.com/app/2827200/..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -301,10 +316,10 @@
         "videos": [
             {
                 "video_id": "frZa5ZaRGAc",
-                "title": "【】【ホロライブ/大空スバル】",
+                "title": "【】噂のAIゲーム？！MIMESISやるしゅばああああああああああああああ！！！！！！！！【ホロライブ/大空スバル】",
                 "date": "2025/12/02 19:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/frZa5ZaRGAc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJVyGMuKUl5odsMZQJ0MiF5zZeUw",
-                "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n\n🔽楽曲各..."
+                "description": "@OokamiMio @ShirakamiFubuki @SakuraMiko \n\n🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in..."
             }
         ]
     },
@@ -390,7 +405,15 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "_cXrqRT7qxA",
+                "title": "【 MIMESIS 】＃ド珍組　ニセモノに騙されずに旅を続けられるのか？！？！？！！？【白上フブキ/ホロライブ】",
+                "date": "2025/12/02 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/_cXrqRT7qxA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAVpoD7Ry05RswRZr516LjNlF8dfQ",
+                "description": "大神ミオ @OokamiMio \nさくらみこ @SakuraMiko \n大空スバル @OozoraSubaru \n━━━━━━━━━━━━━━━━━━━━━━━\n\n🎃オリジナル楽曲『冥界Hallowe..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -546,28 +569,12 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": [
-            {
-                "video_id": "3IyhAD0qasY",
-                "title": "【Minecraft】４んだら終わり！ハードコアソロでエンドラを討伐する！シン・最終回編 ぺこ！【ホロライブ/兎田ぺこら】",
-                "date": "2025/12/02 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/3IyhAD0qasY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBILH0CFk7n9jf57i1_EwyfFwozsw",
-                "description": "お願いします\n\nサムネイラスト：Hikosanさん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタ..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": [
-            {
-                "video_id": "d6zY22NdVgw",
-                "title": "【誕生日】はっぴーばーすでーとぅみー！お披露目とお知らせあり！　#結城さくな生誕祭2025",
-                "date": "2025/12/02 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/d6zY22NdVgw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJNH7YhgpH2nT03MJfAOSopMk-JA",
-                "description": "🎀グッズ・ボイス販売はこちら🐾\nhttps://yuki-sakuna.stores.jp/\n\n🎀歌ってみた動画🐾\nhttps://youtube.com/playlist?list=PLErsMirGq93vRw-CcRaaZfR4QVxl2uBsb&si=BRmEr8erE6aR-UJ..."
-            }
-        ]
+        "videos": []
     }
 }

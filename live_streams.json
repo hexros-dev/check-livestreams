@@ -63,7 +63,14 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "imSIa-NqDi4",
+                "title": "ゆったり歌おう【博衣こより/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/imSIa-NqDi4/hqdefault.jpg?v=692ec7db&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb88o4XAnUfeGx6xVMCtqrpiM8qg",
+                "description": "一緒に過ごしたい人のために\n🧪4周年記念グッズ発売中！12/29(月)18:00まで！もふこよぬいも💖\nhttps://shop.hololivepro.com/products/hakuikoyori_anniversary_4th..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -442,12 +449,26 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "3IyhAD0qasY",
+                "title": "【Minecraft】４んだら終わり！ハードコアソロでエンドラを討伐する！シン・最終回編 ぺこ！【ホロライブ/兎田ぺこら】",
+                "thumbnail": "https://i.ytimg.com/vi/3IyhAD0qasY/hqdefault.jpg?v=692ebc03&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBILH0CFk7n9jf57i1_EwyfFwozsw",
+                "description": "お願いします\n\nサムネイラスト：Hikosanさん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタ..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "d6zY22NdVgw",
+                "title": "【誕生日】はっぴーばーすでーとぅみー！お披露目とお知らせあり！　#結城さくな生誕祭2025",
+                "thumbnail": "https://i.ytimg.com/vi/d6zY22NdVgw/hqdefault.jpg?v=692e7be0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJNH7YhgpH2nT03MJfAOSopMk-JA",
+                "description": "🎀グッズ・ボイス販売はこちら🐾\nhttps://yuki-sakuna.stores.jp/\n\n🎀歌ってみた動画🐾\nhttps://youtube.com/playlist?list=PLErsMirGq93vRw-CcRaaZfR4QVxl2uBsb&si=BRmEr8erE6aR-UJ..."
+            }
+        ]
     }
 }
