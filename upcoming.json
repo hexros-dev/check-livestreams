@@ -87,7 +87,15 @@
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "nMUeLSp4EE0",
+                "title": "【メンバーシップ限定】雑談【ホロライブ/宝鐘マリン】",
+                "date": "2025/12/02 21:09:31",
+                "thumbnail": "https://i.ytimg.com/vi/nMUeLSp4EE0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPwCsQ7Jm9huUkQ9USTCXLjGJCKw",
+                "description": "｡.｡:+* ﾟ ゜ﾟ *+:｡.｡:+* ﾟ ゜ﾟ *+:｡.｡.｡:+*ﾟ ゜ﾟ *+:｡.｡:+*ﾟ ゜ﾟ *+:｡.｡.｡:+*+:｡.｡｡\n\n📢ホロライブ3期生、現地ライブ決定!!\n\n👯🔥holol..."
+            }
+        ]
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
@@ -119,15 +127,7 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": [
-            {
-                "video_id": "97rnN5tp8xc",
-                "title": "【Melatonin】深夜の音チルゲー🎶今日はここでゆっくり寝ない？【ホロライブ DEV_IS 響咲リオナ】",
-                "date": "2025/12/02 21:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/97rnN5tp8xc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3QQLXWmz2psUe-VMjhlQ0lMpZMw",
-                "description": "本ゲームは Half Asleep に確認の上配信・収益化を行なっております。\n\nサムネイラスト　灼熱さん(@ boboboburning)お借りしました！ありがとうございま..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
