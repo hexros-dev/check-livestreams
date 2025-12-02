@@ -147,14 +147,7 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": [
-            {
-                "video_id": "_yw9mvILrug",
-                "title": "【HONKAI STAR RAIL】Here for the PLOT",
-                "thumbnail": "https://i.ytimg.com/vi/_yw9mvILrug/hqdefault.jpg?v=692daf34&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSjBQgbtjt54U6cdFziOQPAl4m8Q",
-                "description": "STREAM MY NEW SONG ROCK IN!\n youtu.be/XSZ0iMP80QQ\ncover.lnk.to/gHW4IL\n\nThumbnail art by: @shutowl THANK YOU\nhttps://x.com/shutowl/status/1993741542310465989/photo/1\n====================\n✧Twitter:..."
-            }
-        ]
+        "videos": []
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -275,7 +268,14 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "wDM_oOShCVI",
+                "title": "#2【Pokemon Legends: Z-A】if i get distracted w fashion throw tomatoes at me【Pavolia Reine/hololiveID】",
+                "thumbnail": "https://i.ytimg.com/vi/wDM_oOShCVI/hqdefault.jpg?v=692e45ce&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZEOkpklCX9ebemuNyN2IrwqD4Kw",
+                "description": "Reine's new original song now AVAILABLE on iTunes, Apple Music, Spotify etc. starting September 10, 2025 00:00 your local time!!!\nWatch the MV:➡️https://youtu.be/NEtiag8nTUs\nGet it here:➡️h..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
