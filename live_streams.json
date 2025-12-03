@@ -9,14 +9,7 @@
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
         "channel_name": "Airani Iofifteen Channel hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc",
-        "videos": [
-            {
-                "video_id": "TCDt8_WjTe4",
-                "title": "【Monster Hunter Wilds】260【 iofi / hololiveID 】",
-                "thumbnail": "https://i.ytimg.com/vi/TCDt8_WjTe4/hqdefault.jpg?v=692fc4d5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDq80crPQQOWLBsQg_ppQwSI1l9Hg",
-                "description": "#ioLyfe #Airani_Iofifteen #hololive #holoID #monsterhunter \n\nこの動画およびライブは株式会社カプコンの利用許諾を受けて配信しています\nモンスターハンターワ..."
-            }
-        ]
+        "videos": []
     },
     "@AkaiHaato": {
         "channel_url": "https://www.youtube.com/@AkaiHaato",
@@ -95,7 +88,14 @@
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
         "channel_name": "Suisei Channel",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "nFaT3DEuYRk",
+                "title": "【メン限雑談】数億年ぶりですね。。。【ホロライブ / 星街すいせい】",
+                "thumbnail": "https://i.ytimg.com/vi/nFaT3DEuYRk/hqdefault.jpg?v=69301944&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnSa2sCPwCZhSEuju27zPkx4vx4Q",
+                "description": "⇩星街すいせい たらららグッズ　販売開始！⇩\nhttps://shop.hololivepro.com/products/hoshimachisuisei_talalalamerch\n\n\n☄️Hoshimachi Suisei Live “SuperNova: REBOOT”☄️..."
+            }
+        ]
     },
     "@HoushouMarine": {
         "channel_url": "https://www.youtube.com/@HoushouMarine",
