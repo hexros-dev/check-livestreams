@@ -180,7 +180,14 @@
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
         "channel_name": "Laplus ch. ラプラス・ダークネス - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/6Y5lj4DhikLBo0UqIZ1dT3-D3aYXVPbxUgNTyYiyE_Se8AVxkGAn05D3oc1y3whpzDu-CzEQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "bSosw3_lwq0",
+                "title": "お気持ち表明雑談【話すことは決まってない】",
+                "thumbnail": "https://i.ytimg.com/vi/bSosw3_lwq0/hqdefault.jpg?v=692fb081&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDuHldI2kOezI2IJHSNlfUjd5X2wA",
+                "description": "https://x.com/aaaraaaaaaaaa/status/1986368545178214763?s=46\n﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏\n\nエデンの星に住む人間達諸君！🛸💜\n吾輩は holoX 総帥..."
+            }
+        ]
     },
     "@MizumiyaSu": {
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
@@ -332,14 +339,7 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": [
-            {
-                "video_id": "FIds-AJRiH0",
-                "title": "This is MY Stinky, Poisonous Swamp 【Code Vein】❗SPOILERS❗",
-                "thumbnail": "https://i.ytimg.com/vi/FIds-AJRiH0/hqdefault.jpg?v=692e5cc1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjBBnfa-s653X242ky2-5Wv1CBWQ",
-                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n===============..."
-            }
-        ]
+        "videos": []
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
