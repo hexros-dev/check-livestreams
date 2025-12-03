@@ -187,7 +187,15 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "zMdfDWnHP70",
+                "title": "【DEAD SPACE 3】Space bros",
+                "date": "2025/12/03 09:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/zMdfDWnHP70/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqPiF37SxVAqU6jM8wJNmxFKA8ZQ",
+                "description": "STREAM MY NEW SONG ROCK IN!\n youtu.be/XSZ0iMP80QQ\ncover.lnk.to/gHW4IL\n\nThumbnail Art: @pck_1990 THANK YOU! https://x.com/pck_1990/status/1995906547487310240/photo/2\nwith @IRyS \n====================..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -223,15 +231,7 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": [
-            {
-                "video_id": "i-C-30vYpzk",
-                "title": "【Sekiro: Shadows Die Twice】this is where I got filtered #calliolive",
-                "date": "2025/12/03 08:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/i-C-30vYpzk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDc1QR9PCo7wv6ownoEvW4Kz_qbRQ",
-                "description": "DISASTERPIECE New Album ON Sale!\nPre-Order:https://lnk.to/mc_dp_ec\n\n直筆サイン入り通常盤 / SIGNED BONUS EDITION (ONLY A FEW DAYS LEFT!)\n https://lnk.to/moricalliope_shop\n\nBGM: https://x.c..."
-            }
-        ]
+        "videos": []
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -397,13 +397,6 @@
                 "title": "【WATCHALONG】CHROMATIC FUTURE @ HOLO EARTH!  #kfp #キアライブ",
                 "date": "2025/12/03 20:30:00",
                 "thumbnail": "https://i.ytimg.com/vi/VXM1WQMcenc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGuo2aKdGBzqZ47nYmS0v2UDSUPg",
-                "description": "ALBUM PREORDER: https://shop.hololivepro.com/en/products/takanashikiara_2ndalbum_vogelfrei\nCONCERT STREAMING TICKETS: https://drawn-to-dawn.hololivepro.com/ticket\nCONCERT WEBSITE: https://drawn-to-..."
-            },
-            {
-                "video_id": "nlvUYt6Z0zo",
-                "title": "【THE WITCHER 3】will yennefer take me back  #kfp #キアライブ",
-                "date": "2025/12/03 08:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/nlvUYt6Z0zo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCORThQSryn23DN_P7oX_CBq3Y_0Q",
                 "description": "ALBUM PREORDER: https://shop.hololivepro.com/en/products/takanashikiara_2ndalbum_vogelfrei\nCONCERT STREAMING TICKETS: https://drawn-to-dawn.hololivepro.com/ticket\nCONCERT WEBSITE: https://drawn-to-..."
             }
         ]
