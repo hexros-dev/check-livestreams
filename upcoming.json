@@ -71,7 +71,22 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "a9El3FcsH0g",
+                "title": "【対談コラボ】#ディスコードショッキング ～今月のゲスト：ルンルン様～【博衣こより/ホロライブ】",
+                "date": "2025/12/05 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/a9El3FcsH0g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCqlliXIMkL0X4qTj8UD_VUtVvgtg",
+                "description": "#ディスコードショッキング でポスト❣ ゲストの紹介でゲストを繋いでいく企画を月イチで開催中！(ゲストはホロライブ外の女性で繋いでいく予..."
+            },
+            {
+                "video_id": "hul-R2YyEc4",
+                "title": "【ゼルダの伝説 ムジュラの仮面】完全初見！ロックビルの神殿に挑戦だ！！！ #6 【博衣こより/ホロライブ】",
+                "date": "2025/12/06 09:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/hul-R2YyEc4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6Dc-KzqVUEpN0vgVjnmMZAhClIQ",
+                "description": "石神のぞみちゃんにオススメしてもらった時オカ＆ムジュラ遂にやる！ムジュラは時オカよりむずくてホラーって言われてたけど結構順調なう！..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -125,7 +140,15 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "B30gDTfyYmE",
+                "title": "【雑談】鞍馬より牛若丸が出まして温泉とジオパークに行きたい【儒烏風亭らでん #ReGLOSS 】",
+                "date": "2025/12/04 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/B30gDTfyYmE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5sgmtXdTh8oYvgTHD91eF7_RM3Q",
+                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\nタイトルの元ネタ\nhttps://ddnavi.com/article/d1488189/..."
+            }
+        ]
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -305,15 +328,7 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": [
-            {
-                "video_id": "JOm2fhkpI5A",
-                "title": "【#生スバル】１２月だ！切り抜き鑑賞会やるしゅばああああああああああああああ！！！！！！！【ホロライブ/大空スバル】",
-                "date": "2025/12/04 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/JOm2fhkpI5A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsr4Sj9s0dLObPLiyjahlJnnTJGA",
-                "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n\n🔽楽曲各..."
-            }
-        ]
+        "videos": []
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -355,15 +370,7 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": [
-            {
-                "video_id": "fD_KDK3GmMQ",
-                "title": "【 はいしんよてち！ 】【ホロライブ/さくらみこ】",
-                "date": "2025/12/04 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/fD_KDK3GmMQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTVQHUCSflwHTUkIA-jmsdN4C5Ww",
-                "description": "🌸スシロー×さくらみこコラボ開催決定‼🍣\n11/19(水)～12/7(日)まで！全店舗で実施🎉\nhttps://www.akindo-sushiro.co.jp/campaign/detail.php?id=4127\n\n🌸miComet..."
-            }
-        ]
+        "videos": []
     },
     "@SamekoSaba": {
         "channel_url": "https://www.youtube.com/@SamekoSaba",
@@ -396,15 +403,7 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": [
-            {
-                "video_id": "Pq8hckrKSY8",
-                "title": "【絵描き】最近の流れに乗ってみるお絵かき雑談配信。【白上フブキ/ホロライブ】",
-                "date": "2025/12/04 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Pq8hckrKSY8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAb-y-v51GI5cZlpWDAnCUfp5B1Ww",
-                "description": "#リプでオススメされたホロメン描く\n━━━━━━━━━━━━━━━━━━━━━━━\n🎃オリジナル楽曲『冥界Halloween Night!』\n▷配信：https://cov..."
-            }
-        ]
+        "videos": []
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -470,7 +469,7 @@
             {
                 "video_id": "6x6cYaz1kmE",
                 "title": "【 #ラムベガスグランドオープン 】お休み前に切り抜き鑑賞しよう！ - ラムベガス／LAMB VEGAS -【角巻わため/ホロライブ４期生】",
-                "date": "2025/12/04 20:00:00",
+                "date": "2025/12/04 20:30:00",
                 "thumbnail": "https://i.ytimg.com/vi/6x6cYaz1kmE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnP_wCYXEarL79cD_H4L4wKOLryQ",
                 "description": "12/5～12/11まで一週間お休みをいただきます🍀\nタグ：#ドドドライブ \n\n制作協力：ドズル社 様\n@dozle \n\nKVイラスト：ぶるー太\nhttps://x.com/blueta9810..."
             }
@@ -480,15 +479,7 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
-        "videos": [
-            {
-                "video_id": "imFSPuARkw4",
-                "title": "Random free talk -w-)7",
-                "date": "2025/12/04 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/imFSPuARkw4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjxy94kBzHxMZVG5vXH42HHYY4Pw",
-                "description": "#vestiazeta #hololive #vtuber ##holoid #hololiveindonesia \n\nThumbnail: https://x.com/monyetguru/\n\nーーーーーーーーー\n🛍️ZETA BIRTHDAY GOODS 2025🛒\n▼hololive production OFFICIAL..."
-            }
-        ]
+        "videos": []
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
@@ -500,7 +491,15 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "97j_uIp_Oq0",
+                "title": "【メンバー限定】笑顔になれるお話し会【雪花ラミィ /ホロライブ】",
+                "date": "2025/12/05 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/97j_uIp_Oq0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5zXMdf_hrY1fDzZu_sd6vADDxIw",
+                "description": "※22時になったらメンバー限定配信に切り替わります\n　At22:00 p.m., the distribution will switch to members-only distribution.\n　メン限で話した内容は内緒でお願..."
+            }
+        ]
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
@@ -518,7 +517,15 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "oX6AEZ-rZbk",
+                "title": "【EXPEDITION 33】A flower? Do you want one?",
+                "date": "2025/12/05 03:05:00",
+                "thumbnail": "https://i.ytimg.com/vi/oX6AEZ-rZbk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_RY0-WudiFw2P2ZLkdT5D71_zPQ",
+                "description": "BDAY Merch available here! \n▼hololive production OFFICIAL SHOP \nJP: https://shop.hololivepro.com/products/ceciliaimmergreen_birthday_2025 \nEN: https://shop.hololivepro.com/en/products/ceciliaimme..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
