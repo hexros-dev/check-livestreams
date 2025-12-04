@@ -160,7 +160,14 @@
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "vPyAbhQDlyo",
+                "title": "【#LovellieUnion - Among Us】 MAKING EVERYONE GASLIGHT EACH OTHER 【Kureiji Ollie】",
+                "thumbnail": "https://i.ytimg.com/vi/vPyAbhQDlyo/hqdefault.jpg?v=692fc890&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2PVKEWrTVPQEYdFwthRs3Ot8Rpw",
+                "description": "❥・・───༅༚˳ . ୨୧ . ˳༚༅༚─── ・・❥\n\n#OLLIEginal #Kureiji_Ollie #holoID #hololive #LovellieUnion #holorofa5hionshow\n\n────୨｡ ₊°༺❤︎༻°₊..."
+            }
+        ]
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
@@ -438,14 +445,7 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
-        "videos": [
-            {
-                "video_id": "AoX3jC6LcEQ",
-                "title": "【縦型歌枠】お昼だよ～🎤お仕事前にうたうじょ！#shorts #歌枠 【風真いろは/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/AoX3jC6LcEQ/hqdefault.jpg?v=6930f87f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_sdqku7NfNAD24d0SBdYrRjYLSQ",
-                "description": "*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――\n\n💚風真いろはからのおしらせ💚\n\n🎤風真いろは 新オリ曲..."
-            }
-        ]
+        "videos": []
     },
     "@mikenekoko": {
         "channel_url": "https://www.youtube.com/@mikenekoko",
