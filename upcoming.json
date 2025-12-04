@@ -206,13 +206,6 @@
                 "date": "2025/12/04 22:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/RdH9FqVKSwY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkHehPyENbcgZ012luFxMlA6_GHQ",
                 "description": "❥・・───༅༚˳ . ୨୧ . ˳༚༅༚─── ・・❥\n\n#OLLIEginal #Kureiji_Ollie #holoID #hololive #LovellieUnion #holorofa5hionshow \n\n────୨｡ ₊°༺❤︎༻°₊..."
-            },
-            {
-                "video_id": "okAPEuclbXk",
-                "title": "【#LovellieUnion - HOLOPLUS】 LAUNCH OF A NEW SERIES I'D LIKE TO CALL \"PLUS+ SURVEY\"!! 【Kureiji Ollie】",
-                "date": "2025/12/04 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/okAPEuclbXk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwFKRzQCH_CRPvkAkfTg2xPr-UTw",
-                "description": "❥・・───༅༚˳ . ୨୧ . ˳༚༅༚─── ・・❥\n\n#OLLIEginal #Kureiji_Ollie #holoID #hololive #LovellieUnion #holorofa5hionshow \n\n────୨｡ ₊°༺❤︎༻°₊..."
             }
         ]
     },
@@ -453,7 +446,15 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "FgUUvyTBKPQ",
+                "title": "【Minecraft】まったり配信だよ！【ホロライブ/ときのそら】",
+                "date": "2025/12/04 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/FgUUvyTBKPQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkM518ZTMiINYeEgreYDQSfx1gSw",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n【使用MOD】\n使用MOD：Simp..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
@@ -465,15 +466,7 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": [
-            {
-                "video_id": "6x6cYaz1kmE",
-                "title": "【 #ラムベガスグランドオープン 】お休み前に切り抜き鑑賞しよう！ - ラムベガス／LAMB VEGAS -【角巻わため/ホロライブ４期生】",
-                "date": "2025/12/04 20:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/6x6cYaz1kmE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnP_wCYXEarL79cD_H4L4wKOLryQ",
-                "description": "12/5～12/11まで一週間お休みをいただきます🍀\nタグ：#ドドドライブ \n\n制作協力：ドズル社 様\n@dozle \n\nKVイラスト：ぶるー太\nhttps://x.com/blueta9810..."
-            }
-        ]
+        "videos": []
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
