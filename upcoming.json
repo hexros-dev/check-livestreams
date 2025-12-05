@@ -73,7 +73,15 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "lJ6KW2lgmVY",
+                "title": "≪Phoenix Wright: Trials and Tribulations≫ OBJECTION! ... First Playthrough! #1【SPOILER WARNING】",
+                "date": "2025/12/06 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/lJ6KW2lgmVY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnVHfo320wB539pRH9-VRaKPRDLA",
+                "description": "oh how ive missed this\n\nThumbnail Art: https://x.com/YFG_Arts/status/1988169831791948204/photo/1\n\n#telebae  #hololiveenglish \n««≪ °◇◆◇° ≫ »»\nThis video or live stream is distributed..."
+            }
+        ]
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -144,11 +152,11 @@
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
         "videos": [
             {
-                "video_id": "ZAudKrtY0D4",
-                "title": "【Melatonin】深夜の音チルゲー🎶今日もここでゆっくり寝ない？？＃２【ホロライブ DEV_IS 響咲リオナ】",
-                "date": "2025/12/05 21:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/ZAudKrtY0D4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBcRg4CIMtTomdKCi2N677kUQtkBQ",
-                "description": "本ゲームは Half Asleep に確認の上配信・収益化を行なっております。\n\nサムネイラスト　灼熱さん(@ boboboburning)お借りしました！ありがとうございま..."
+                "video_id": "21jhNdi3GTI",
+                "title": "【NieR:Automata】完全初見プレイ―どんな世界が待ってるの・・！？【ホロライブ DEV_IS 響咲リオナ】【※ネタばれありです】",
+                "date": "2025/12/06 12:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/21jhNdi3GTI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC95JAg5LzIufoSmyhZtUYLPLoUpw",
+                "description": "本動画のゲームプレイ映像は、株式会社スクウェア・エニックスの許諾を受けて使用しています。\n© SQUARE ENIX\n\n∴∵∴ ୨୧ ∴∵∴ ୨୧ ∴∵∴..."
             }
         ]
     },
@@ -204,15 +212,7 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": [
-            {
-                "video_id": "wem7DUrkz2w",
-                "title": "【ドラゴンボールZ KAKAROT】魔人ブウしか知らない✋完全初見#5  ※ネタバレあり【水宮枢／ホロライブDEV_IS】",
-                "date": "2025/12/05 21:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/wem7DUrkz2w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWRhAltcuuswE64SRF6evU0vYt6w",
-                "description": "このゲーム実況は「バンダイナムコエンターテインメント ゲーム実況ポリシー」に基づき制作・配信されています。\nhttps://www.bandainamcoent.co.jp/info/v..."
-            }
-        ]
+        "videos": []
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
