@@ -127,15 +127,7 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": [
-            {
-                "video_id": "21jhNdi3GTI",
-                "title": "【NieR:Automata】完全初見プレイ―どんな世界が待ってるの・・！？【ホロライブ DEV_IS 響咲リオナ】【※ネタばれありです】",
-                "date": "2025/12/06 12:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/21jhNdi3GTI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC95JAg5LzIufoSmyhZtUYLPLoUpw",
-                "description": "本動画のゲームプレイ映像は、株式会社スクウェア・エニックスの許諾を受けて使用しています。\n© SQUARE ENIX\n\n※初見プレイですので、ネタバレを..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -284,7 +276,15 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "5jo-_t0dc34",
+                "title": "【No, I'm not a Human】あなたは大丈夫な人・・ですか？！【 大神ミオ / ホロライブ 】",
+                "date": "2025/12/06 15:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/5jo-_t0dc34/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbOST1Y4Iy99s350kXnq09cNdnlA",
+                "description": "サムネillustrator：GATS★さん　https://x.com/gatssuzuka\n\nストアページ：https://store.steampowered.com/app/3180070/No_Im_not_a_Human/\n✣✣––––––..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -409,13 +409,36 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "CuX8aC7opY4",
+                "title": "【ミメシス】自分や他人に擬態する存在が1番怖い説【白銀ノエル/ホロライブ】",
+                "date": "2025/12/06 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/CuX8aC7opY4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCn3WQUZBTZOfbY_bvJngg6fZoHWA",
+                "description": "💖素敵な仲間たち💖\n@Robocosan ロボちゃんって人間じゃない...つまり敵...？(疑心暗鬼)\n@YukihanaLamy ハーフエルフだから半分人間だけど...仲間であっ..."
+            },
+            {
+                "video_id": "NdokuBzVK3c",
+                "title": "【朝活雑談】12月最初のおはまっするさんでーッ🌞【白銀ノエル/ホロライブ】",
+                "date": "2025/12/07 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/NdokuBzVK3c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4uEhlt1tvR8kfqK22OZLgTnuJ-w",
+                "description": "※もし会社や卒業関連の話があったらその部分だけ切り抜き禁止でお願いします🙇‍♀️※\n\n✨🤍白銀ノエル誕生日記念グッズ2025販売中🤍✨..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "PHSiVzX-u0A",
+                "title": "【BALL x PIT】雑談してたら地獄へ転がっていく配信【獅白ぼたん/ホロライブ】",
+                "date": "2025/12/06 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/PHSiVzX-u0A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAun4bI1wU-IvgjeHVa-79QJYHPSg",
+                "description": "お宝を求めボールを転がせ！\nブロック崩し、ボール合成、基地建設の要素を組み合わせたサバイバルローグライトゲーム！\n\n┈┈┈┈┈┈┈┈┈..."
+            }
+        ]
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
