@@ -282,7 +282,14 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "RdlTYciguKU",
+                "title": "MY TEACHER IS STUCK IN TRAFFIC JAM 💔💔💔💔💔💔💔  #REINEver5ary",
+                "thumbnail": "https://i.ytimg.com/vi/RdlTYciguKU/hqdefault.jpg?v=6933d11b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBgwnYtRfCa3IBfVhcNWrCh-T4pSg",
+                "description": "#REINEver5ary Schedule: https://www.youtube.com/playlist?list=PLrALGrrF-6IUm9u_98o8MwGNPC143z6WQ\n10 AM WIB - Brunch\n11 AM WIB - Mini Karaoke + Outfit Reveal + Announcement\n2 PM WIB - Q & A..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -330,14 +337,7 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": [
-            {
-                "video_id": "NIk8tnB_Wn0",
-                "title": "【ELDEN RING NIGHTREIGN 】あまりにも久々なのでリハビリもかねて昼渡り【不知火フレア/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/NIk8tnB_Wn0/hqdefault.jpg?v=693301b0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDa8Yu-QSldkPZWoFXUYvsC66DFkw",
-                "description": "エルフレからプレイヤーを募集する際の条件\n・参加は一人一回まで\n・フレアが下手、迷子になって怒らないで←重要\n・楽しくプレイできる方..."
-            }
-        ]
+        "videos": []
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
