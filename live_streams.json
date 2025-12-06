@@ -63,14 +63,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "hul-R2YyEc4",
-                "title": "【ゼルダの伝説 ムジュラの仮面】完全初見！ロックビルの神殿に挑戦だ！！！ #6 【博衣こより/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/hul-R2YyEc4/hqdefault.jpg?v=69318668&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6Dc-KzqVUEpN0vgVjnmMZAhClIQ",
-                "description": "石神のぞみちゃんにオススメしてもらった時オカ＆ムジュラ遂にやる！ムジュラは時オカよりむずくてホラーって言われてたけど結構順調なう！..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -251,7 +244,14 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "5jo-_t0dc34",
+                "title": "【No, I'm not a Human】あなたは大丈夫な人・・ですか？！【 大神ミオ / ホロライブ 】",
+                "thumbnail": "https://i.ytimg.com/vi/5jo-_t0dc34/hqdefault.jpg?v=693324e5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbOST1Y4Iy99s350kXnq09cNdnlA",
+                "description": "サムネillustrator：GATS★さん　https://x.com/gatssuzuka\n\nストアページ：https://store.steampowered.com/app/3180070/No_Im_not_a_Human/\n✣✣––––––..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
