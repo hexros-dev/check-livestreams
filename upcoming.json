@@ -276,15 +276,7 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": [
-            {
-                "video_id": "AubuqU42Skw",
-                "title": "【７周年記念】１２月７日は周年記念日！お祝いしたりする！【ホロライブ/大神ミオ】",
-                "date": "2025/12/06 21:45:00",
-                "thumbnail": "https://i.ytimg.com/vi/AubuqU42Skw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC51btzV7dYUOYIMGbjT-dItubudw",
-                "description": "メンバーシップバッジをリニューアルします🎉🎉\n\n✣✣––––––––––––––✣–––..."
-            }
-        ]
+        "videos": []
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -537,7 +529,15 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "x4Hz62Wiezs",
+                "title": "#8【FF8】完全初見でファイナルファンタジーⅧを始める！ FINAL FANTASY Ⅷ ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意",
+                "date": "2025/12/07 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/x4Hz62Wiezs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFtUc0c7AE57sPOwZQo5tDV-wKew",
+                "description": "⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ #ぺこらいぶ でツイート🎶\n\n本動画のゲー..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
