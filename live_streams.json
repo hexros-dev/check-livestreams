@@ -150,14 +150,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": [
-            {
-                "video_id": "JhgNlwEs0nE",
-                "title": "【 朝活 / FreeTalk 】最近の話全部語ろう【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "thumbnail": "https://i.ytimg.com/vi/JhgNlwEs0nE/hqdefault.jpg?v=693321d6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACcGlL8jIQsdKZgDJ6iEhW-vNtXQ",
-                "description": "素敵なサムネイルのイラスト　gumaさん　https://x.com/TeddyBear_oxo?s=20\n\n✦ ━━━━━━━ ✦ ━━━━━━━ ✦ \n1st Album「FLOW GLOW」が発売決定！..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -278,7 +271,14 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "x_r6SmNeX-U",
+                "title": "【#裏ダンジョン 】SFC版 ドラゴンクエストIII そして伝説へ…：Dragon Warrior III【ホロライブ/大空スバル】",
+                "thumbnail": "https://i.ytimg.com/vi/x_r6SmNeX-U/hqdefault.jpg?v=6932f5ac&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlRcA07vlF9WxtM1qUXF36yGXotQ",
+                "description": "本動画のゲームプレイ映像は、株式会社スクウェア・エニックスの許諾を受けて使用しています。\nこの動画で利用している株式会社スクウェア・..."
+            }
+        ]
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -298,10 +298,10 @@
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
         "videos": [
             {
-                "video_id": "3o_SBIq7NgQ",
-                "title": "SPECIAL ANNIVERSARY BRUNCH #REINEver5ary",
-                "thumbnail": "https://i.ytimg.com/vi/3o_SBIq7NgQ/hqdefault.jpg?v=6932a553&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBk1d6buBRddV6ut2YQN8F7mnc0lQ",
-                "description": "#REINEver5ary Schedule: https://www.youtube.com/playlist?list=PLrALGrrF-6IUm9u_98o8MwGNPC143z6WQ\n10 AM WIB - YOU ARE HERE\n11 AM WIB - Mini Karaoke + Outfit Reveal + Announcement\n2 PM WIB -..."
+                "video_id": "lWuTDALn8Kk",
+                "title": "【NEW OUTFIT REVEAL】IT'S TIME TO EXERCISE!!+sing+announcement #REINEver5ary 【Pavolia Reine】",
+                "thumbnail": "https://i.ytimg.com/vi/lWuTDALn8Kk/hqdefault.jpg?v=6932a1a7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQbqSmnAIg4QNjlGupnPVSZD2wkw",
+                "description": "#REINEver5ary Schedule: https://www.youtube.com/playlist?list=PLrALGrrF-6IUm9u_98o8MwGNPC143z6WQ\n10 AM WIB - Special YABE (Brunch Stream)\n11 AM WIB - YOU ARE HERE\n2 PM WIB - Q & A with Reine's..."
             }
         ]
     },
@@ -376,14 +376,7 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": [
-            {
-                "video_id": "NFcQEeM4FpY",
-                "title": "【Arknights: Endfield】whenfield? NOWFIELD!!!!!!!! #kfp #キアライブ",
-                "thumbnail": "https://i.ytimg.com/vi/NFcQEeM4FpY/hqdefault.jpg?v=6932bf62&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcV_3M9CpuHVjJ7CO1qUWnNg_RLw",
-                "description": "TAKOTORI CONCERT Drawn To Dawn @ The Wiltern in Los Angeles, USA 27/28th March 2026 →　https://drawn-to-dawn.hololivepro.com/\nALBUM PREORDER: https://shop.hololivepro.com/en/products/takanashiki..."
-            }
-        ]
+        "videos": []
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
