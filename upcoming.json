@@ -140,7 +140,15 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "NM9pi3FoSbs",
+                "title": "【Cast n Chill】深夜のチルゲーやるばい！！！！！！！！！【儒烏風亭らでん #ReGLOSS 】",
+                "date": "2025/12/06 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/NM9pi3FoSbs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzOVim7--F4HhRutg5J0iGFUafPA",
+                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\n配信タイトル：Cast n Chill\nストアページ：https:..."
+            }
+        ]
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -576,15 +584,7 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": [
-            {
-                "video_id": "eoNTn5M2LQ4",
-                "title": "【企画告知】2025年最後の告知します！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
-                "date": "2025/12/06 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/eoNTn5M2LQ4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWWGx24JPUIidAAtBJ6_ljjt8UvA",
-                "description": "なんじゃろな！\n\nサムネイラスト：憂姫はぐれマッマ\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
