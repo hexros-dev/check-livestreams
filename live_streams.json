@@ -57,14 +57,7 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": [
-            {
-                "video_id": "BnMYB63926I",
-                "title": "≪Phoenix Wright: Trials and Tribulations≫ Let's Dance... First Playthrough! #2【SPOILER WARNING】",
-                "thumbnail": "https://i.ytimg.com/vi/BnMYB63926I/hqdefault.jpg?v=69340c6b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtTYMPtyOYSyoTlKnDDCC9KbqjcA",
-                "description": "NEW HUSBANDO ALERT?!\n\nThumbnail Art: https://x.com/YFG_Arts/status/1988169831791948204/photo/1\n\n#telebae  #hololiveenglish \n««≪ °◇◆◇° ≫ »»\nThis video or live stream is distributed..."
-            }
-        ]
+        "videos": []
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -107,7 +100,14 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "T4bXXlS6MGM",
+                "title": "【No, I'm not a Human】Knock Knock",
+                "thumbnail": "https://i.ytimg.com/vi/T4bXXlS6MGM/hqdefault.jpg?v=69349243&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBpHKAlSjbvWTmspRAXcP2VOTHyrQ",
+                "description": "HiRyS its IRｙS\n\nGame title：No, I'm not a Human\nStore page：https://store.steampowered.com/app/3180070/No_Im_not_a_Human/\n\n#hololiveenglish  #ホロライブ \n\nStream my NEW ORIGINAL SONG..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
