@@ -95,13 +95,27 @@
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
         "channel_name": "Suisei Channel",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "fPMqgGRvzd0",
+                "title": "【にじホロR.E.P.O.】海賊(コスプレ)とケルベロスと錬金術師とアイドルです【ホロライブ / 星街すいせい】",
+                "thumbnail": "https://i.ytimg.com/vi/fPMqgGRvzd0/hqdefault.jpg?v=69367b0e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPoy2gexV1ew_yNH4SNSkYecswxw",
+                "description": "⇩星街すいせい たらららグッズ　販売開始！⇩\nhttps://shop.hololivepro.com/products/hoshimachisuisei_talalalamerch\n\n\n☄️Hoshimachi Suisei Live “SuperNova: REBOOT”☄️..."
+            }
+        ]
     },
     "@HoushouMarine": {
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "QJfS6YeJmKE",
+                "title": "【R.E.P.O.】にじホロ！にじさんじにマリンの海賊らしいところ見せなきゃ（使命感【ホロライブ/宝鐘マリン】",
+                "thumbnail": "https://i.ytimg.com/vi/QJfS6YeJmKE/hqdefault.jpg?v=69367a89&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXnn67gqPFJ3hBgU1ja-dcR_YYoQ",
+                "description": "@HoshimachiSuisei \n@AngeKatrina \n@InuiToko \n\n配信タイトル：R.E.P.O.\nストアページ：https://store.steampowered.com/app/3241660/REPO/\n\n｡.｡:+* ﾟ ゜ﾟ *+:｡.｡:+* ﾟ ゜ﾟ..."
+            }
+        ]
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
