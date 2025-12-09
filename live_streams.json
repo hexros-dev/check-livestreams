@@ -287,14 +287,7 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
-        "videos": [
-            {
-                "video_id": "AcFczTSXjqA",
-                "title": "【 雑談】大掃除やった？断捨離したいんです＞＜【ホロライブ/ ロボ子さん 】",
-                "thumbnail": "https://i.ytimg.com/vi/AcFczTSXjqA/hqdefault.jpg?v=6936d4cb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdKAbu7Xu2yrgLCdNmzN__-gm11w",
-                "description": "＃ホロライブ 　\nｘでは💬　 #ロボ子生放送　でポストしてってね\n\n猫の毛・段ボール・箱・書類・物・物・物・物\nどうしよおおおおおね＞＜..."
-            }
-        ]
+        "videos": []
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -416,7 +409,14 @@
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
         "channel_name": "Choco Ch. 癒月ちょこ",
         "avatar_url": "https://yt3.googleusercontent.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "MXD-3sZjVl0",
+                "title": "【録画はメン限】悪魔のゲリラ吐息ASMR【ホロライブ/癒月ちょこ】",
+                "thumbnail": "https://i.ytimg.com/vi/MXD-3sZjVl0/hqdefault.jpg?v=69380cdf&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmtEVLkSkghwpkpNlTBGeoN0BPvw",
+                "description": "サブ垢→https://www.youtube.com/channel/UCp3tgHXw_HI0QMk1K8qh3gQ\nサムネイラスト：兎乃介様@Rakugaki_Usagi\n\nOP＆ED動画：松賀りお。様@rio_matsuka\nしょこらデザイン＆..."
+            }
+        ]
     },
     "@dooby3d": {
         "channel_url": "https://www.youtube.com/@dooby3d",
