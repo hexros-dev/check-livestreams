@@ -227,7 +227,15 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "VhhF5ZPFQSs",
+                "title": "【＃ホロドラゴンマイクラ】初参戦！1級マイクラ術師のねね、いきまーーーす！【 桃鈴ねね / hololive 】",
+                "date": "2025/12/09 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/VhhF5ZPFQSs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBN6fvmANMQ1_cMKfpoclswYnCuMQ",
+                "description": "@usadapekora \n⸜♡⸝MemberShipに入ったらもっとねねを知れるﾖ\nhttps://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA/join\n\n⸜♡⸝各音楽サイトにてオリジナル楽曲..."
+            }
+        ]
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
@@ -409,10 +417,17 @@
         "videos": [
             {
                 "video_id": "Mi1zWrbTMIw",
-                "title": "【ポケットモンスターゴールドコイキング】　第一話「コイキングの逆襲」【白上フブキ/ホロライブ】",
+                "title": "【ポケットモンスターゴールドコイキング】　第二話「コイキングの逆襲」【白上フブキ/ホロライブ】",
                 "date": "2025/12/09 20:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/Mi1zWrbTMIw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfugH1GE35T30NNFCLeRdw4NR3JQ",
                 "description": "伝説を釣る。　ただ、それだけ。　\n⚠本家リスペクトしたくなるので、地獄の旅バトルの予定はございません。\n#金コイフブさん\n\n━━━━━━━..."
+            },
+            {
+                "video_id": "z712sTyUhbM",
+                "title": "【超おどるメイドインワリオ】突然呼んだ白上と突然呼ばれたポルカと３Dで遊びまくる！！ #フブポル 【白上フブキ/尾丸ポルカ/ホロライブ】",
+                "date": "2025/12/09 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/z712sTyUhbM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmewnempx7pA9XfT1480i8p0JU9w",
+                "description": "#フブポル\nいつも急によばれる尾丸ポルカ @OmaruPolka \n━━━━━━━━━━━━━━━━━━━━━━━\n\n🎃オリジナル楽曲『冥界Halloween Night!』..."
             }
         ]
     },
