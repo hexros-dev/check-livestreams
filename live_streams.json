@@ -63,7 +63,14 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Yb1KJF5ZHcc",
+                "title": "【声遊楽プロジェクト】共同研究発表会！今までのおさらい＆今後の話もするかも…!?【博衣こより/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/Yb1KJF5ZHcc/hqdefault.jpg?v=6937d7fa&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA86NHmbDCBxyk8MMY5DV3NjeI0Hw",
+                "description": "提供：JT D-LAB　\n\n◆声遊楽プロジェクトとは？\n「声遊楽プロジェクト」は、「声を発すること」や「聴くこと」を、それぞれの人が好きな形で日常..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -115,7 +122,7 @@
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
-        "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
+        "channel_name": null,
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
         "videos": []
     },
