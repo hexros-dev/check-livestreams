@@ -126,13 +126,6 @@
                 "date": "2025/12/11 16:30:00",
                 "thumbnail": "https://i.ytimg.com/vi/2wMyN3lEok0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFu_ohzrqUXHktYYz0KEAwmrCLJA",
                 "description": "本動画のゲームプレイ映像は、株式会社スクウェア・エニックスの許諾を受けて使用しています。\n© SQUARE ENIX\n\n※初見プレイですので、ネタバレを..."
-            },
-            {
-                "video_id": "A8OLSno2aZM",
-                "title": "【メンバーシップ配信】リオナのメンバーシップ創立1周年きねんび♡【ホロライブ DEV_IS 響咲リオナ】",
-                "date": "2025/12/10 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/A8OLSno2aZM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4bw14In96kmXuOy68Thl5sB6BHg",
-                "description": "１周年めでたし♡\nいつからだってここに来てくれたことが、とても嬉しいんだよ！\nだからみーんなとお話したい♡\n\nサムネイラスト　-Chum-ちゃむ..."
             }
         ]
     },
@@ -274,7 +267,22 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "GM37wlKMftI",
+                "title": "【DAY3】#ホロドラゴンマイクラ 幻のドラゴンをゲットしに大冒険へ出発しゅばあああああああああああああああああ！！！！：MINECRAFT【ホロライブ/大空スバル】",
+                "date": "2025/12/11 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/GM37wlKMftI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJ9IIUMGNSnCwSd0Q8bDZP4D1JCQ",
+                "description": "企画：ぺこちゃん　@usadapekora \n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なってお..."
+            },
+            {
+                "video_id": "cwb8Lv4csME",
+                "title": "【】ウマ娘プリティーダービー同時視聴しゅば！【ホロライブ/大空スバル】",
+                "date": "2025/12/12 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/cwb8Lv4csME/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAT7A2sC9VJ_8DIAWTdXl_rDbcQfg",
+                "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n\n🔽楽曲各..."
+            }
+        ]
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -422,15 +430,7 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": [
-            {
-                "video_id": "L2o8iOMt8uU",
-                "title": "【雑談】ラミィと夜にまったりお話ししよ？【 雪花ラミィ /ホロライブ】",
-                "date": "2025/12/10 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/L2o8iOMt8uU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8d3ST3JqANT018EHBdeygJ1WQvw",
-                "description": "感想は #らみらいぶ で呟いて頂けたら嬉しいです！\n\nサムネイル：緒方ていさま\nhttps://x.com/ogatatei\n\n🛍️ 雪花ラミィ 誕生日記念2025\nhttps://shop.hololive..."
-            }
-        ]
+        "videos": []
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
