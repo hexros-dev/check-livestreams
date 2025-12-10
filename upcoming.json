@@ -375,7 +375,15 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "L7JX6PvvrXE",
+                "title": "Amateur Player Learning from a (Short) VTuber Pilot【Granblue Fantasy Versus: Rising】",
+                "date": "2025/12/11 07:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/L7JX6PvvrXE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDMyLfF030X6u8_Jw26o3MOtluX7g",
+                "description": "🎮Game Link:\nhttps://rising.granbluefantasy.jp/en/\nhttps://store.steampowered.com/app/2157560/Granblue_Fantasy_Versus_Rising/\n==============================\n\nCredits: \n🖼️Thumbnail Art:..."
+            }
+        ]
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
