@@ -71,15 +71,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "tgmPZnhixbE",
-                "title": "【スーパーダンガンロンパ2】㊗全章配信解禁！先行配信させていただきます！EDまでやれるぞおおお！！！ #1 【博衣こより/ホロライブ】",
-                "date": "2025/12/10 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/tgmPZnhixbE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJIlKJ8J5eSS6yjuDKuzr8SHllhw",
-                "description": "ダンガンロンパ大好き！なのだけど、2はアニメがないのもありほぼ記憶喪失です！皆にネタバレもしたくないので、初見の気持ちで楽しみます！..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -111,7 +103,15 @@
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "SSn9qfqjVtY",
+                "title": "【MIMESIS】偽物AIの3期生 VS 3期生わかりて王のマリン船長【ホロライブ/宝鐘マリン・兎田ぺこら・不知火フレア・白銀ノエル】",
+                "date": "2025/12/10 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/SSn9qfqjVtY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwaqXkZbQv2G2YEozBDcIVkkBRVg",
+                "description": "@usadapekora @ShiranuiFlare @ShiroganeNoel \n配信タイトル：ミメシス\nストアページ：https://store.steampowered.com/app/2827200/_/\n｡.｡:+* ﾟ ゜ﾟ *+:｡.｡:+* ﾟ ゜ﾟ..."
+            }
+        ]
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
@@ -428,13 +428,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
         "videos": [
             {
-                "video_id": "0RfZQyvNoOM",
-                "title": "【企画発表】今年の目標だったアレ...ついにやっちゃう？！！！！！！【白銀ノエル/ホロライブ】",
-                "date": "2025/12/10 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/0RfZQyvNoOM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCo8EGC_vFlfj4ykBstzCjRZjeGaw",
-                "description": "50分に発表！それまでマシュマロ読むか！(既視感)(ぺこらっちょリスペクト)\nhttps://marshmallow-qa.com/shiroganenoel?t=yy0aMH&utm_medium=url_text&utm_source=promotion..."
-            },
-            {
                 "video_id": "iBjU2SPr3m4",
                 "title": "【ミメシス】自分や他人に擬態する存在が1番怖い説【白銀ノエル/ホロライブ】",
                 "date": "2025/12/10 19:00:00",
@@ -453,15 +446,7 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": [
-            {
-                "video_id": "NUJHLRVRctg",
-                "title": "【OFF COLLAB】cooking with the amazing Onigiri! #kfp #キアライブ",
-                "date": "2025/12/10 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/NUJHLRVRctg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCU_2EsdGw_eX0egTJP4jcJ9FkQsg",
-                "description": "ALBUM PREORDER: https://shop.hololivepro.com/en/products/takanashikiara_2ndalbum_vogelfrei\nCONCERT STREAMING TICKETS: https://drawn-to-dawn.hololivepro.com/ticket\nCONCERT WEBSITE: https://drawn-to-..."
-            }
-        ]
+        "videos": []
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
@@ -547,7 +532,15 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "l_BU42e4tHo",
+                "title": "【The Elder Scrolls IV: Oblivion Remastered】grug will become the master of mages",
+                "date": "2025/12/11 05:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/l_BU42e4tHo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAC3rswoMkuDHnshzaJ5ts67tzjeg",
+                "description": "game title: The Elder Scrolls IV: Oblivion Remastered\nhttps://store.steampowered.com/app/2623190/The_Elder_Scrolls_IV_Oblivion_Remastered/\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
@@ -559,15 +552,7 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
-        "videos": [
-            {
-                "video_id": "L__YzXASl6Q",
-                "title": "【カービィのエアライダー】リベンジIKZ仮免初走り🔰たのむよやらせてくれよ！！！【風真いろは/ホロライブ】",
-                "date": "2025/12/10 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/L__YzXASl6Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWJdnx0sr02elWzv_2mnHIXeAtWQ",
-                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*..."
-            }
-        ]
+        "videos": []
     },
     "@mikenekoko": {
         "channel_url": "https://www.youtube.com/@mikenekoko",
