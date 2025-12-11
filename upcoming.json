@@ -73,7 +73,15 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "bzljPQUL9mE",
+                "title": "≪MIMESIS≫ Trust no one.",
+                "date": "2025/12/11 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/bzljPQUL9mE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYfe6K3nTOdchf2lBLH67JKSZ7KA",
+                "description": "Honestly life's motto.\nPLAYING WITH @MoriCalliope @ShioriNovella @FUWAMOCOch \n\n#telebae  #hololiveenglish \n««≪ °◇◆◇° ≫ »»\nGame Title: MIMESIS\nStore Page: https://store.steampowered...."
+            }
+        ]
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -149,15 +157,7 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": [
-            {
-                "video_id": "2wMyN3lEok0",
-                "title": "【NieR:Automata】完全初見プレイ―私まだ何にも知れてないよ、あなたたちのこと。＃３【ホロライブ DEV_IS 響咲リオナ】【※ネタばれありです】",
-                "date": "2025/12/11 16:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/2wMyN3lEok0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFu_ohzrqUXHktYYz0KEAwmrCLJA",
-                "description": "本動画のゲームプレイ映像は、株式会社スクウェア・エニックスの許諾を受けて使用しています。\n© SQUARE ENIX\n\n※初見プレイですので、ネタバレを..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
