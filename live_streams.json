@@ -273,7 +273,14 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ufDL_vrZOl0",
+                "title": "【#ねぽらぼ】重大告知 in ホロアース【#ホロライブ 】",
+                "thumbnail": "https://i.ytimg.com/vi/ufDL_vrZOl0/hqdefault.jpg?v=693a3d64&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDIy7U4Q9WchkOxPS9pGh3cbllf3g",
+                "description": "なにやらねぽらぼから重大告知があるみたいです・・・！？\nホロアースに集合だっ！\n\nホロアース公式X\nhttps://x.com/Holoearth_JP\nホロアース公式サイト..."
+            }
+        ]
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
@@ -323,14 +330,7 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": [
-            {
-                "video_id": "SiZuBK3usIs",
-                "title": "【グランツーリスモ7】カフェの続き！#7【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "thumbnail": "https://i.ytimg.com/vi/SiZuBK3usIs/hqdefault.jpg?v=693a9767&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnM9QIchRKfqIfjblcMjg7huO-kg",
-                "description": "配信タイトル：グランツーリスモ７\nストアページ：https://www.playstation.com/ja-jp/games/gran-turismo-7/\nGran Turismo 7: TM & ©2025 Sony Interactive Entertainment Inc...."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -451,14 +451,7 @@
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
         "channel_name": "Choco Ch. 癒月ちょこ",
         "avatar_url": "https://yt3.googleusercontent.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g",
-        "videos": [
-            {
-                "video_id": "p0npDHpXt9s",
-                "title": "【NEXTGEAR】先輩はアキちょこ！転生したらコールセンタースタッフだった？！【ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/p0npDHpXt9s/hqdefault.jpg?v=693a34e7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtB3xEqShuQSufVxpCG09hLyiTZw",
-                "description": "\"提供：マウスコンピューター\n\nおすすめモデル.1はこちら\nhttps://www.mouse-jp.co.jp/store/g/gngear-jga7a6xb5bbdw101dec/?utm_source=hololive&utm_medium=content-text&utm_campaign..."
-            }
-        ]
+        "videos": []
     },
     "@dooby3d": {
         "channel_url": "https://www.youtube.com/@dooby3d",
