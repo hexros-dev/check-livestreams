@@ -152,13 +152,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B",
         "videos": [
             {
-                "video_id": "Bc8k_4GiPwE",
-                "title": "【#TheGameAwards】THE AWARD GOES TO ....?? let's watch together!",
-                "date": "2025/12/12 08:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Bc8k_4GiPwE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCiAauu19kblDUVU0eDUosfpxoBQQ",
-                "description": "Bokobokobo- Kobo Kanaeru at your service! Let me be your sun to shine your day, ehe~ ;D ☔☔☔\n#OnAeru #Kobo_Kanaeru #holoID #holoID03 #TheGameAwards \n\n==================================..."
-            },
-            {
                 "video_id": "jNCGOv8Zz1A",
                 "title": "【3D Live】Let My Voice Enchant You Tonight! #3DKobornDay2025",
                 "date": "2025/12/12 19:00:00",
@@ -278,15 +271,7 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": [
-            {
-                "video_id": "GzvAM7ehG6M",
-                "title": "【CHAT】= w= Just Chlling",
-                "date": "2025/12/12 08:15:00",
-                "thumbnail": "https://i.ytimg.com/vi/GzvAM7ehG6M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnHLGOJ1dvqlGSSqlwmRQqpHAXrw",
-                "description": "【Thumbnail Art】\n\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\n__________________________________________________________________________________________\n\nEndcard Art by Me!\nEndcard..."
-            }
-        ]
+        "videos": []
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -345,15 +330,7 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": [
-            {
-                "video_id": "5ZpcFyaEKrM",
-                "title": "【Granblue Fantasy Versus: Rising】Learning Time VICTORY TIME 📝 #ad",
-                "date": "2025/12/12 09:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/5ZpcFyaEKrM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjMFHVafamAhD6uOIxqByaFlwgRQ",
-                "description": "🎮 Game Link\nhttps://rising.granbluefantasy.jp/en\nhttps://store.steampowered.com/app/2157560/Granblue_Fantasy_Versus_Rising\n\n[Twitter]\nhttps://twitter.com/ourokronii\n\n----------------------------..."
-            }
-        ]
+        "videos": []
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
@@ -365,7 +342,15 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "bNY5hQNVY0s",
+                "title": "【同時視聴/WATCHALONG】劇場版！ファースト一緒に見よう～～！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "date": "2025/12/12 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/bNY5hQNVY0s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUJZgu3lraEdmcsHuJnFTWUZyb8g",
+                "description": "ファーストからちゃんと履修していきたい！！！\n\n\n本配信は、株式会社 創通、株式会社バンダイナムコフィルムワークスの許諾を得ております。..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
