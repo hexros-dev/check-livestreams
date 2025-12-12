@@ -244,14 +244,7 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": [
-            {
-                "video_id": "AlHBif8tFh4",
-                "title": "【歌枠】ゆるっと好きな歌をうたって過ごす枠【大神ミオ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/AlHBif8tFh4/hqdefault.jpg?v=693bc9c8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdaZvniZjGvImN0RH5sEBJVi8BPQ",
-                "description": "はいっ！うたいます！\n\nサムネillustrator：とげまるさん　https://x.com/togemaru34\n\n🎤音源お借りします🎤\nカラオケ歌っちゃ王\nhttps://www.youtube.com/channel/UC..."
-            }
-        ]
+        "videos": []
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -359,7 +352,14 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "4P3Dr4H-utc",
+                "title": "【かこって検索】VTuber最古参仲間！キズナアイちゃん同時視聴＆あの歴史を振り返り・・・！？【ホロライブ/ときのそら】",
+                "thumbnail": "https://i.ytimg.com/vi/4P3Dr4H-utc/hqdefault.jpg?v=693b5cf4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDM2c4D5L9BY6BwksAIMzxPO5N4vw",
+                "description": "#PR\n提供：Google 合同会社\n【 Android かこって MUSIC 特設サイト】　\nhttps://kakotte.withgoogle.com/\n\n【Android のかこって検索とは】　　　　　　　　　..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
