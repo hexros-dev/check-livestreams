@@ -373,7 +373,14 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "F4RDu1hMiLI",
+                "title": "【ネタバレあり】ゼルダ無双 封印戦記～3～【ホロライブ/ときのそら】",
+                "thumbnail": "https://i.ytimg.com/vi/F4RDu1hMiLI/hqdefault.jpg?v=693cf413&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARlEpouN0JArPu8QHfpHInQ430Zw",
+                "description": "今日も元気に世界を旅する！\n\n本ゲームはコーエーテクモゲームスの確認を得た上で配信を行なっております。\n©コーエーテクモゲームス\n\n★★★..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
@@ -433,14 +440,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "cj4PjFEzdz0",
-                "title": "【Granblue Fantasy Versus: Rising】your fingers are so delicate on that leverless #ad",
-                "thumbnail": "https://i.ytimg.com/vi/cj4PjFEzdz0/hqdefault.jpg?v=693ba271&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtvW7xgnT92A0xq-NupidNtkYceA",
-                "description": "#sponsored \nhttps://rising.granbluefantasy.jp/en/ \n\nwill have fumiko hoshi joining me later in the stream to help teach me!!!\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
