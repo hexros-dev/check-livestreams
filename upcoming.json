@@ -277,15 +277,7 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": [
-            {
-                "video_id": "E9D5mh_-ZVk",
-                "title": "【Potion Craft】お薬ぜんぶ作るぞ(たぶん大変)【 ホロライブ / 大神ミオ 】",
-                "date": "2025/12/13 20:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/E9D5mh_-ZVk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-4yarBXCDL4SFMQkEQDwnWiVWCg",
-                "description": "久しぶり。Potion Craftの配信が好きだって人が\n根強くいるんだ。うちもこのゲーム、好きだ。\n\nサムネillustrator：にくにくにんにくさん　https://x.com/b..."
-            }
-        ]
+        "videos": []
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -386,7 +378,15 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "8PHnHIaiRtc",
+                "title": "【朝活雑談】今夜は初主催！ボンバーマン大会あるヨ！🌞【白銀ノエル/ホロライブ】",
+                "date": "2025/12/14 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/8PHnHIaiRtc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4fRD8Il73i6-KG7m2VTVyXEq4jg",
+                "description": "ドキドキ！！！\n\n✨🤍白銀ノエル誕生日記念グッズ2025販売中🤍✨\nhttps://shop.hololivepro.com/products/shiroganenoel_birthday_2025\n\n💚新曲「VAVAVA！バーチャル大..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",

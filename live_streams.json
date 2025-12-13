@@ -300,7 +300,14 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "E9D5mh_-ZVk",
+                "title": "【Potion Craft】お薬ぜんぶ作るぞ(たぶん大変)【 ホロライブ / 大神ミオ 】",
+                "thumbnail": "https://i.ytimg.com/vi/E9D5mh_-ZVk/hqdefault.jpg?v=693d4328&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-4yarBXCDL4SFMQkEQDwnWiVWCg",
+                "description": "久しぶり。Potion Craftの配信が好きだって人が\n根強くいるんだ。うちもこのゲーム、好きだ。\n\nサムネillustrator：にくにくにんにくさん　https://x.com/b..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -536,14 +543,7 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
-        "videos": [
-            {
-                "video_id": "PVY900X32w0",
-                "title": "【Minecraft】エンドラRTA🔥年内･･･?あと何日･･･?【風真いろは/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/PVY900X32w0/hqdefault.jpg?v=693cd9a5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXtMjT0rLZsUA7XMHZM1eYccq2Cg",
-                "description": "※本ゲームは Mojang に確認を得た上、Terms and Conditions\n (https://account.mojang.com/terms)  に基づいて配信・収益化を行なっております。\n\n#マイクラ #マイン..."
-            }
-        ]
+        "videos": []
     },
     "@mikenekoko": {
         "channel_url": "https://www.youtube.com/@mikenekoko",
