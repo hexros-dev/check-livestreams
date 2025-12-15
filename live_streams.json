@@ -21,14 +21,7 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": [
-            {
-                "video_id": "pDnWCMSKMSg",
-                "title": "『#プロポーズで言われたいこと 💕』 アキちょこナイトパレット第17回 ～ホロライブ深夜ラジオ～",
-                "thumbnail": "https://i.ytimg.com/vi/pDnWCMSKMSg/hqdefault.jpg?v=69401c05&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBioT8Bk4O3mDP62_8ARj5TBTkbCg",
-                "description": "#アキちょこナイパレ でやってほしいコーナー大募集中！\nXでタグをつけてポストしてね！\n前週→ \n次週→\n\nwith ちょこ先@YuzukiChoco \n毎週月曜 23:40~24:..."
-            }
-        ]
+        "videos": []
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -234,7 +227,14 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "JIOx_WIukMg",
+                "title": "【 🟣メン限 】チェキ書きつづきから✦【 猫又おかゆ/ホロライブ 】",
+                "thumbnail": "https://i.ytimg.com/vi/JIOx_WIukMg/hqdefault.jpg?v=693ff7b1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4I2SvN5C5UACUexzTI-Lzjiawkw",
+                "description": "前回書き切れなかったサインつづき！書いていきます！\n❥・・ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ・・❥\n\nゲマズのアニバーサリーグッズ..."
+            }
+        ]
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
