@@ -45,7 +45,14 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ptQWL1U2y0Q",
+                "title": "【オフコラボ歌枠｜OFF-COLLAB KARAOKE with KANATA】かなた先輩だいすき！！気持ちをこめて一緒に歌おう 💫🐾singing together 💓【FUWAMOCO】",
+                "thumbnail": "https://i.ytimg.com/vi/ptQWL1U2y0Q/hqdefault.jpg?v=693d0208&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAGHsIe9nFEnnp0Pd2wgPPJV8jpEw",
+                "description": "ホロライブに欠かせない存在、みんなの天使💓\nour first and last collab with our dear kanata-senpai 💫🐾\n@AmaneKanata \n\n🩵 FUWAMOCO 𝟮𝗻𝗱 𝗼𝗿𝗶𝗴𝗶𝗻..."
+            }
+        ]
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -228,14 +235,7 @@
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
-        "videos": [
-            {
-                "video_id": "55QJzv5klMo",
-                "title": "【#vtuber発掘3 】チャンネル1万人以下の原石個人勢VTuber大紹介逆凸✨【ホロライブ/夏色まつり】",
-                "thumbnail": "https://i.ytimg.com/vi/55QJzv5klMo/hqdefault.jpg?v=693fcf28&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC98qVmGtbX8P3HaK9tOmHmAyLDxA",
-                "description": "...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\n\n＼🏮まつりす向けメンバーシップ🏮／\n\n▷メンバーに入るとこんな特典..."
-            }
-        ]
+        "videos": []
     },
     "@NekomataOkayu": {
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
