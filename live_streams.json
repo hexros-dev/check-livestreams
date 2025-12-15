@@ -63,14 +63,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "NE_-Uet32ZA",
-                "title": "【 #朝こよ 】12月ももう半分終わった！？火曜日の朝も朝こよ～！☀ #263 【博衣こより/hololive】",
-                "thumbnail": "https://i.ytimg.com/vi/NE_-Uet32ZA/hqdefault.jpg?v=693ea43b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDlFH1zvyPHDZgWS8VgY3zCEbNzEw",
-                "description": "🧪4周年記念グッズ発売中！12/29(月)18:00まで！もふこよぬいも💖\nhttps://shop.hololivepro.com/products/hakuikoyori_anniversary_4th\n\n💗もふこよ＆こより達のLINE絵..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -450,7 +443,14 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "6r9TpyuYHYo",
+                "title": "【Members Stream】 Cozy art stream!",
+                "thumbnail": "https://i.ytimg.com/vi/6r9TpyuYHYo/hqdefault.jpg?v=69408681&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDA2WQSAb64AMMoCLtKVlAYsp-amg",
+                "description": "Relaxing and doodling!\n\nMerch: https://ohmonah.shop/collections/nimi-nightmare\n\n  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋\n\nKonbakuwa! I'm Nimi, the baku nurse VTuber of your nightmares~\n#VTuber..."
+            }
+        ]
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
