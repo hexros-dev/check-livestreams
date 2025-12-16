@@ -29,6 +29,12 @@
         "avatar_url": "https://yt3.googleusercontent.com/oPU9ckNcyeHD0FFsYSxkoD1mtbslSwdmMSfoCYQWphOu5e7UeCnIF-Nt0hvvF41L5Nykga07nQ",
         "videos": []
     },
+    "@AnyaMelfissa": {
+        "channel_url": "https://www.youtube.com/@AnyaMelfissa",
+        "channel_name": "Anya Melfissa Ch. hololive-ID",
+        "avatar_url": "https://yt3.googleusercontent.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz",
+        "videos": []
+    },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
         "channel_name": "Ceres Fauna Ch. hololive-EN",
@@ -119,14 +125,7 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": [
-            {
-                "video_id": "4CVU98d63jw",
-                "title": "【NieR:Automata】完全初見プレイ―最初に選ばなかったルート・・みます。＃６【ホロライブ DEV_IS 響咲リオナ】【※ネタばれありです】",
-                "thumbnail": "https://i.ytimg.com/vi/4CVU98d63jw/hqdefault.jpg?v=6940fc92&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAw__7w_BqtUGL_sViZTwsPYuG_DA",
-                "description": "本動画のゲームプレイ映像は、株式会社スクウェア・エニックスの許諾を受けて使用しています。\n© SQUARE ENIX\n\n※初見プレイですので、ネタバレを..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -200,7 +199,14 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "R0CVoafcVHM",
+                "title": "【＃ホロドラゴンマイクラ】どこまで進んでるのドラゴンマイクラ！？【 桃鈴ねね / hololive 】",
+                "thumbnail": "https://i.ytimg.com/vi/R0CVoafcVHM/hqdefault.jpg?v=69414488&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhI4RnS8HpUlt3qL91USBrhFQMmw",
+                "description": "@usadapekora ラップするうーーーさぎ\n⸜♡⸝MemberShipに入ったらもっとねねを知れるﾖ\nhttps://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA/join\n\n⸜♡⸝各音楽サ..."
+            }
+        ]
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
@@ -269,10 +275,10 @@
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
         "videos": [
             {
-                "video_id": "7hZKr4TXzss",
-                "title": "【#ホロドラゴンマイクラ】尾丸ポルカ途中参加DLC※視点がないと多分◯されるとおもった※ちょっとだけ【尾丸ポルカ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/7hZKr4TXzss/hqdefault.jpg?v=694148a1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbRX6KJpoGGonB5GR-1pj33WDf6w",
-                "description": "主催　@usadapekora \nぺこちゃん\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっており..."
+                "video_id": "2Bt4Aww6j70",
+                "title": "【対談】かなたそ、ゆっくり話がしたいと思ってたんだぜ #かなぽる対談",
+                "thumbnail": "https://i.ytimg.com/vi/2Bt4Aww6j70/hqdefault.jpg?v=69410d32&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB77m_DgJQhg9iFSZPkhDQ7Lqc3kg",
+                "description": "二人目の女\n\n\nゲスト：天音かなた @AmaneKanata  \nハッシュタグ→ #かなぽる対談\n\n※尾丸ポルカへ頂いたスパチャは、基本的に毎週木曜日19時から「ポ..."
             }
         ]
     },
@@ -380,7 +386,14 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "_hFr92XxDJU",
+                "title": "【ELDEN RING NIGHTREIGN 】リハビリに夜の王に会いにいこうぜ！！！【不知火フレア/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/_hFr92XxDJU/hqdefault.jpg?v=6941432b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBs3gia9_jvB5DuvrLSvWb3uiEM0Q",
+                "description": "エルフレからプレイヤーを募集する際の条件\n・参加は一人一回まで\n・フレアが下手、迷子になって怒らないで←重要\n・楽しくプレイできる方..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
