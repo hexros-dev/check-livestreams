@@ -93,14 +93,7 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": [
-            {
-                "video_id": "-00UnZ2LkRs",
-                "title": "【Dispatch】IRyS coming to the Rescue",
-                "thumbnail": "https://i.ytimg.com/vi/-00UnZ2LkRs/hqdefault.jpg?v=69406ba1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABH_qtY-1edBWjbIySSu4ioDAfVw",
-                "description": "I can fly until my meeting at 6PM\n\nGame Title: Dispatch\nStore Page : https://store.steampowered.com/app/2592160/Dispatch/\n\n#hololiveenglish  #ホロライブ \n\nStream my NEW ORIGINAL SONG NOW..."
-            }
-        ]
+        "videos": []
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -334,7 +327,14 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "fotqTEImvyA",
+                "title": "【watchalong】ReGLOSS 1st LIVE !!!! lets cheer for them! #kfp #キアライブ",
+                "thumbnail": "https://i.ytimg.com/vi/fotqTEImvyA/hqdefault.jpg?v=69411d06&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKbtDuDDF9-KEvnpA2_6ZyyBShJg",
+                "description": "https://flashpoint.hololivepro.com/ticket/\n\nALBUM PREORDER: https://shop.hololivepro.com/en/products/takanashikiara_2ndalbum_vogelfrei\nCONCERT STREAMING TICKETS: https://drawn-to-dawn.hololivepro.c..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
