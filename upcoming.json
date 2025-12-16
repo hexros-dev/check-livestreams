@@ -150,13 +150,6 @@
                 "date": "2025/12/16 18:30:00",
                 "thumbnail": "https://i.ytimg.com/vi/4CVU98d63jw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAw__7w_BqtUGL_sViZTwsPYuG_DA",
                 "description": "本動画のゲームプレイ映像は、株式会社スクウェア・エニックスの許諾を受けて使用しています。\n© SQUARE ENIX\n\n※初見プレイですので、ネタバレを..."
-            },
-            {
-                "video_id": "zYpZ17UogWk",
-                "title": "【同時視聴】ReGLOSS先輩の現地１stLIVE、一緒に見ませんか～？♫【ホロライブ DEV_IS 輪堂 千速 響咲リオナ】",
-                "date": "2025/12/16 16:25:00",
-                "thumbnail": "https://i.ytimg.com/vi/zYpZ17UogWk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6Skt7g1un7GO7bC1_tO-g3szM7w",
-                "description": "※本配信ではライブ本編の映像及び音声は流れません。「ネット配信視聴チケット」をお手元にご用意の上、ご参加ください。\n\n▼配信チケットは..."
             }
         ]
     },
@@ -238,7 +231,15 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "kprRKPNfP3o",
+                "title": "【3D】reveal  #calliolive",
+                "date": "2025/12/17 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/kprRKPNfP3o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3qPwnNjof-QpoDmxvk9tConrqyg",
+                "description": "DISASTERPIECE New Album ON Sale!\nPre-Order:https://lnk.to/mc_dp_ec\n\n直筆サイン入り通常盤 / SIGNED BONUS EDITION (ONLY A FEW DAYS LEFT!)\n https://lnk.to/moricalliope_shop\n\nLINE Stickers:..."
+            }
+        ]
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -334,7 +335,15 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "AOW1AwKIFWE",
+                "title": "【CARIMARA: Beneath the forlorn limbs】Delving into Mystery",
+                "date": "2025/12/17 11:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/AOW1AwKIFWE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYifOEO1SjjAkHoC3E6GP2o0-QmA",
+                "description": "Game Title: CARIMARA: Beneath the forlorn limbs\nStore Page: https://store.steampowered.com/app/3570370/CARIMARA_Beneath_the_forlorn_limbs/\n\n[Twitter]\nhttps://twitter.com/ourokronii\n\n---------------..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
@@ -482,15 +491,7 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
-        "videos": [
-            {
-                "video_id": "GQw8ggEnrrI",
-                "title": "【ReGLOSS 1st Live “Flashpoint”】Watch Party! 🍿",
-                "date": "2025/12/16 16:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/GQw8ggEnrrI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwJIrhlF21XGB4rfvpIhh1ARA-Tg",
-                "description": "#vestiazeta #hololive #vtuber #holoid #hololiveindonesia \nWith @KureijiOllie @AnyaMelfissa \n\nYoutube: https://www.youtube.com/watch?v=wlPLYUOmtHE\n\nTo watch the full version, get the tickets..."
-            }
-        ]
+        "videos": []
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
