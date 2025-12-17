@@ -140,7 +140,15 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "IFmHtpjB0NE",
+                "title": "【Dispatch】I'm In",
+                "date": "2025/12/18 11:10:00",
+                "thumbnail": "https://i.ytimg.com/vi/IFmHtpjB0NE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCIFx23B2DxrvLosVTLqZUd6DSbFQ",
+                "description": "In the hacking way I swear\n\nGame Title: Dispatch\nStore Page : https://store.steampowered.com/app/2592160/Dispatch/\n\n#hololiveenglish  #ホロライブ \n\nStream my NEW ORIGINAL SONG NOW\nhttps://yout..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
