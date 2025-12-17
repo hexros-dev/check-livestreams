@@ -111,14 +111,7 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": [
-            {
-                "video_id": "QP_9acChdo8",
-                "title": "【定期配信＃１７】水曜のお昼の１２時はリオナとランチ❤【ホロライブ DEV_IS 響咲リオナ】#リオナとランチ",
-                "thumbnail": "https://i.ytimg.com/vi/QP_9acChdo8/hqdefault.jpg?v=69417c1a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCGocmEpqcj9qLEkiptxFYRZWv-lQ",
-                "description": "♡...本日のスパーチャットはお名前読み上げのみになります！！\n\nサムネイラスト　あやめなこさん @ joumoku \nサムネロゴ　ロオウズさん @ roooose25..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -269,7 +262,14 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "AOW1AwKIFWE",
+                "title": "【CARIMARA: Beneath the forlorn limbs】Delving into Mystery",
+                "thumbnail": "https://i.ytimg.com/vi/AOW1AwKIFWE/hqdefault.jpg?v=69412ad4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYifOEO1SjjAkHoC3E6GP2o0-QmA",
+                "description": "Game Title: CARIMARA: Beneath the forlorn limbs\nStore Page: https://store.steampowered.com/app/3570370/CARIMARA_Beneath_the_forlorn_limbs/\n\n[Twitter]\nhttps://twitter.com/ourokronii\n\n---------------..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
