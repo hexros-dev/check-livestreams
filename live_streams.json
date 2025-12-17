@@ -206,14 +206,7 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": [
-            {
-                "video_id": "YPqL0eggKTc",
-                "title": "【 雑談 】ねねかなタイマン雑談するべ！やめるのやめろ！！！！！【 桃鈴ねね / hololive 】",
-                "thumbnail": "https://i.ytimg.com/vi/YPqL0eggKTc/hqdefault.jpg?v=69426466&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-hHYG0PHmw0z-vbPJz0m8zksxoA",
-                "description": "@AmaneKanata ね、そーしよう\n⸜♡⸝MemberShipに入ったらもっとねねを知れるﾖ\nhttps://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA/join\n\n⸜♡⸝各音楽サイトにて..."
-            }
-        ]
+        "videos": []
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
@@ -286,7 +279,14 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "AjvmmZalw0E",
+                "title": "【Potion Craft】賢者の石を作るぞ！(たいへん)【 ホロライブ / 大神ミオ 】",
+                "thumbnail": "https://i.ytimg.com/vi/AjvmmZalw0E/hqdefault.jpg?v=69429418&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPzvB6WFWWKyJO2r2cUK-h3-Ksdw",
+                "description": "ついに賢者の石を作るフェーズらしい。\nレシピは難解です。\n\nサムネillustrator：pohitashiさん　https://x.com/pohitashi\n\n本ゲームは tinyBuild に確認の上配信..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -305,7 +305,14 @@
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "NglKTHbIF84",
+                "title": "【 振り返り 】ReGLOSS 1st Live \"Flashpoint\"を振り返るよん with 新衣装【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+                "thumbnail": "https://i.ytimg.com/vi/NglKTHbIF84/hqdefault.jpg?v=69425f39&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmWVuRfmF-4SHKs2fQY8SYyFqSQg",
+                "description": "▽✨重大告知✨ ▽\n音乃瀬奏 1stオリジナル曲「GREATEST」\n4/20(日) 24：00（4/21  0：00）リリース開始！\nhttps://cover.lnk.to/4rvCRp\n\n୨୧♪:*:･･:*:･♪･:*:･..."
+            }
+        ]
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
@@ -317,7 +324,14 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "jeiXGSAeZjQ",
+                "title": "#2【Hades II】IM AWAKE【Pavolia Reine/hololiveID】",
+                "thumbnail": "https://i.ytimg.com/vi/jeiXGSAeZjQ/hqdefault.jpg?v=6942b4ff&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSsVAMbm7H7KSQeMc2r03I3eoBOQ",
+                "description": "REINE'S 5th ANNIVERSARY MERCH: \n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/pavoliareine_anniversary_5th \nEN: https://shop.hololivepro.com/en/products/pavoliarein..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
