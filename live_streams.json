@@ -34,14 +34,7 @@
         "channel_url": "https://www.youtube.com/@AmaneKanata",
         "channel_name": "Kanata Ch. Kanata Amane",
         "avatar_url": "https://yt3.googleusercontent.com/oPU9ckNcyeHD0FFsYSxkoD1mtbslSwdmMSfoCYQWphOu5e7UeCnIF-Nt0hvvF41L5Nykga07nQ",
-        "videos": [
-            {
-                "video_id": "R6tdesVIHgo",
-                "title": "【超うれしいこと】告知！！！【天音かなた/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/R6tdesVIHgo/hqdefault.jpg?v=694278b5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnQ6tFsz6TxUAYZvrPvRSOoumiow",
-                "description": "Amane Kanata 1st Solo Live “LOCK ON”のBlu-ray 販売決定！\n1/19 18時まで受注受付中です！\nhttps://shop.hololivepro.com/products/amanekanata_1stsololive_lockon_bluray\n\n\nIllustrator..."
-            }
-        ]
+        "videos": []
     },
     "@AnyaMelfissa": {
         "channel_url": "https://www.youtube.com/@AnyaMelfissa",
@@ -338,7 +331,14 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "hw1As_jT0Fs",
+                "title": "【ポケットモンスターゴールドコイキング】　第五話「金コイキング時を超えた遭遇」【白上フブキ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/hw1As_jT0Fs/hqdefault.jpg?v=69424bcd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD92DWJCbmFwKoU34m8VAAsgRMQMg",
+                "description": "伝説を釣る。　ただ、それだけ。　\n⚠本家リスペクトしたくなるので、地獄の旅バトルの予定はございません。\n#金コイフブさん\n\n━━━━━━━..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -470,7 +470,14 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "35Zwesa0oVc",
+                "title": "【3D】ぺこヴィヴィが初めて会う【ホロライブ/兎田ぺこら】#ぺこヴィヴィ初対面",
+                "thumbnail": "https://i.ytimg.com/vi/35Zwesa0oVc/hqdefault.jpg?v=694016af&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAQMgkzrYDcUMSYsuptZ_BbuIhMA",
+                "description": "@KikiraraVivi \n\nサムネイラスト：メリーはるひな@C107(火)西2 す-19bさん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.co..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
