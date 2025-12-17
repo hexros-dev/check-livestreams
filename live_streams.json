@@ -287,7 +287,14 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "0qzhczNpp7k",
+                "title": "【VALORANT】 久々にかじってみますか　デスマッチから出れるかな雑談【ホロライブ/ロボ子さん】",
+                "thumbnail": "https://i.ytimg.com/vi/0qzhczNpp7k/hqdefault.jpg?v=694261a0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBReObat9yz4dPHLoGTn70wuSmfQQ",
+                "description": "＃ホロライブ 　\n＃ロボ子生放送　でポストしてくれると　ちょーーーーーうれしい！！\n\n本ゲームは © Riot Games, Inc. \nの承諾を得た上で配信・収益..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
