@@ -364,7 +364,15 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "jxYFbE2aRzY",
+                "title": "【Dispatch】Hello How May I Help You Today",
+                "date": "2025/12/19 11:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/jxYFbE2aRzY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCqttWKvWARulCTS2rSO5EsY4fjxA",
+                "description": "Game Title: Dispatch\nStore Page : https://store.steampowered.com/app/2592160/Dispatch/\n\n[Twitter]\nhttps://twitter.com/ourokronii\n\n-------------------------------------------------------------------..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
@@ -406,15 +414,7 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": [
-            {
-                "video_id": "6-WoKhIy7bY",
-                "title": "Charm Jewelry Making Handcam【Members Only】",
-                "date": "2025/12/19 06:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/6-WoKhIy7bY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0STNXqB47f3IVr6NW-qZ-q7x2ng",
-                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n===============..."
-            }
-        ]
+        "videos": []
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
@@ -586,15 +586,7 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": [
-            {
-                "video_id": "Rg60FaE8HR8",
-                "title": "【Vampire: The Masquerade - Bloodlines】 The ridiculous & amazing vampire RPG | #2",
-                "date": "2025/12/19 06:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Rg60FaE8HR8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfHyFR72tmjLefUTMBO8Ht_nY2eQ",
-                "description": "YIPPEE\n\n☁  Thumbnail Art  ☁\nhttps://x.com/orangekaboccha_/status/1997427202749780362\nThank you so much!!\n\nMerch: https://ohmonah.shop/collections/nimi-nightmare\n\n  ‧₊ ˚  ⊹ ࣭ ⭑..."
-            }
-        ]
+        "videos": []
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
