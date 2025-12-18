@@ -140,15 +140,7 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": [
-            {
-                "video_id": "IFmHtpjB0NE",
-                "title": "【Dispatch】I'm In",
-                "date": "2025/12/18 11:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/IFmHtpjB0NE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCIFx23B2DxrvLosVTLqZUd6DSbFQ",
-                "description": "In the hacking way I swear\n\nGame Title: Dispatch\nStore Page : https://store.steampowered.com/app/2592160/Dispatch/\n\n#hololiveenglish  #ホロライブ \n\nStream my NEW ORIGINAL SONG NOW\nhttps://yout..."
-            }
-        ]
+        "videos": []
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -362,7 +354,15 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "p2mS_t8Cwtc",
+                "title": "#2【Danganronpa 2: Goodbye Despair】NO ONE DIES (really?) (find out more)【Pavolia Reine/hololiveID】",
+                "date": "2025/12/18 13:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/p2mS_t8Cwtc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdZJfOD9b0oWcNC0eVQdkIRvobRw",
+                "description": "REINE'S 5th ANNIVERSARY MERCH: \n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/pavoliareine_anniversary_5th \nEN: https://shop.hololivepro.com/en/products/pavoliarein..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
