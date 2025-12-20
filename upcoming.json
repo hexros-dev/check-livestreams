@@ -115,15 +115,7 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": [
-            {
-                "video_id": "riS-iledMsc",
-                "title": "【 #ホロドラゴンマイクラ 】んな電鉄以外のお仕事に初挑戦なのら！！！(・o・🍬) ＃最終日【姫森ルーナ/ホロライブ】",
-                "date": "2025/12/20 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/riS-iledMsc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKgwmPpQAmwg9oUO2g98mSoC_Ggw",
-                "description": "2025年12月8日（月）～ 12月20日（土）\n※上記期間の内、7日前後の開催\n\nホロドラゴンマイクラ再生リスト\nhttps://www.youtube.com/playlist?list=PL6gUpTCMieF7Bed-kf..."
-            }
-        ]
+        "videos": []
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -165,21 +157,21 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": [
-            {
-                "video_id": "GMVCMBVjZL4",
-                "title": "【メンバーシップ配信】リオナと晩酌しようぜい♡【ホロライブ DEV_IS 響咲リオナ】",
-                "date": "2025/12/20 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/GMVCMBVjZL4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkQkHR45rhMQuf2H6uaK6bTF446g",
-                "description": "ひさしぶりにアルコールを飲みます＾＾\n\nサムネイラスト　灼熱さん (@ boboboburning)にお借りしました！ありがとうございます✨\n\n【speical thanks】..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "DTMy3E4VV2U",
+                "title": "【祝！】静岡県立美術館にて音声ガイド担当決定！！展示は？静岡の魅力は！？【儒烏風亭らでん #ReGLOSS 】",
+                "date": "2025/12/20 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/DTMy3E4VV2U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCglu3Q5sZcNYAL8o7vbat1pVGjHg",
+                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\n\n▼儒烏風亭らでんソロ曲「落噺」楽曲配信（..."
+            }
+        ]
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -353,7 +345,15 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ap6ghoCaowg",
+                "title": "【nosh】実食レポで勝手にがっつり系ランキングつくる【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "date": "2025/12/21 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ap6ghoCaowg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCeJbWq3jskyvrLM8r7eDfO04UfA",
+                "description": "🎧🔧nosh×輪堂千速の特別コラボクーポンはこちら🎧🔧\nhttps://nosh.jp/landing/hololive/RindoChihaya?utm_source=Youtuber&utm_medium=PR&utm_campaign=RindoChihaya&utm_content=20..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -427,7 +427,15 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "VuGzD3Ka17s",
+                "title": "【雑談】音ゲー語りがぁ～したいんだよぉおお！！【不知火フレア/ホロライブ】",
+                "date": "2025/12/20 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/VuGzD3Ka17s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArB-ixGBBfdTrQhVgdA_GQvBBoOQ",
+                "description": "主にポップン。基本K〇NAMI関連\n\n■New「Fun fair」MV公開✨\nhttps://www.youtube.com/watch?v=FdKux6g4HJ4\n\n━━━━━━━━━━━━━━━━━━━━━━━..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -486,7 +494,15 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "N7GT9LmMzuc",
+                "title": "【Vampire Survivors】エメラルドジオラマやりたい【ホロライブ/ときのそら】",
+                "date": "2025/12/20 19:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/N7GT9LmMzuc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8s4cHZn3jgzpXvyKIYzsSKpd0VQ",
+                "description": "お金的にはいける。\nクリアできるとは言ってない！！\n\n本ゲームはponcleに確認の上配信・収益化を行なっております\n\n～サムネイラスト～\n下川(お..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
