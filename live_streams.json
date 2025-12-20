@@ -311,14 +311,7 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": [
-            {
-                "video_id": "wrk6oIRKf4I",
-                "title": "【Lorelei and the Laser Eyes】 Brain Is Overclocking | #2",
-                "thumbnail": "https://i.ytimg.com/vi/wrk6oIRKf4I/hqdefault.jpg?v=694514dc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB66Y2Thkqtl8i6QOP6dbxYzN8ktw",
-                "description": "[Twitter]\nhttps://twitter.com/ourokronii\n\n[Thumbnail Art]\nhttps://x.com/beslab_official\n\nGame title: Lorelei and the Laser Eyes\nStore page: https://store.steampowered.com/app/2008920/Lorelei_and_th..."
-            }
-        ]
+        "videos": []
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
@@ -494,7 +487,14 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "OWZdLz8iLjk",
+                "title": "【実食レポ】nosh1週間体験してみた🔰【風真いろは/ホロライブ】#PR",
+                "thumbnail": "https://i.ytimg.com/vi/OWZdLz8iLjk/hqdefault.jpg?v=69467128&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWb1XOVeMi0vTLwhiGbMN2Wqpz2A",
+                "description": "🍃nosh×Iroha ch. 風真いろは - holoX -の特別コラボクーポンはこちら🍃\nhttps://nosh.jp/landing/hololive/KazamaIroha?utm_source=Youtuber&utm_medium=PR&utm_campaign=KazamaIroha&u..."
+            }
+        ]
     },
     "@mikenekoko": {
         "channel_url": "https://www.youtube.com/@mikenekoko",
