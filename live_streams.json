@@ -412,7 +412,14 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "uIkglgd6Hj8",
+                "title": "【The Elder Scrolls IV: Oblivion Remastered】grug is a genius and grug of many talents",
+                "thumbnail": "https://i.ytimg.com/vi/uIkglgd6Hj8/hqdefault.jpg?v=6946704b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBV3If8hvkqpc84mnu_Jwzy7x9l7g",
+                "description": "thumbnail: https://x.com/Oasis_Mii/status/2001954650497704192\n\ngame title: The Elder Scrolls IV: Oblivion Remastered\nhttps://store.steampowered.com/app/2623190/The_Elder_Scrolls_IV_Oblivion_Remaste..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
