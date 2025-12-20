@@ -264,14 +264,7 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": [
-            {
-                "video_id": "eum4Nm_6XgY",
-                "title": "【#生スバル】おはすば！：FREE TALK【ホロライブ/大空スバル】",
-                "thumbnail": "https://i.ytimg.com/vi/eum4Nm_6XgY/hqdefault.jpg?v=69456efe&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFyEA3helqrVCZd_H2bl9UwHREhQ",
-                "description": "🌟大空スバルもこもこグッズ：NEW GOODS 12/20~1/26 18:00(JST)\n⇒https://shop.hololivepro.com/products/oozorasubaru_cozymerchandise\n\n★サムネ…sakuさん： https://x.com/skb318..."
-            }
-        ]
+        "videos": []
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -484,7 +477,14 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "G_C-kFqxJEM",
+                "title": "【BIOHAZARD Re4】完全初見！はじめてのバイオハザード４やる！ぺこ！【ホロライブ/兎田ぺこら】※未成年視聴注意",
+                "thumbnail": "https://i.ytimg.com/vi/G_C-kFqxJEM/hqdefault.jpg?v=69456db4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-Tsc60-3J4HgRMpEMoj1Kcpzp8w",
+                "description": "オリジナル版の４も未プレイぺこ！めっちゃ楽しみ！\n\nサムネイラスト：朱里/shuriさん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
