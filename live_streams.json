@@ -380,7 +380,14 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "6ozExN51pik",
+                "title": "【オリジナル曲】そらぱに向かって歌う枠！【ホロライブ/ときのそら】",
+                "thumbnail": "https://i.ytimg.com/vi/6ozExN51pik/hqdefault.jpg?v=69462ac2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwAIB3w4QXsPN2RUTebPsk7xOnaQ",
+                "description": "どんな曲があるかな？\n聴いていってね！\n\n～サムネポーズ～\nﾆﾉﾊﾅ様\nhttps://x.com/aoj_032\n\n\n★★★★★★★★★★★★★★★★★★★★★★..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
@@ -447,14 +454,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "DwNFurts0bk",
-                "title": "【WARFRAME】A NEW PLAYER'S FORAY INTO WARFRAME!! #ad",
-                "thumbnail": "https://i.ytimg.com/vi/DwNFurts0bk/hqdefault.jpg?v=6944fee1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtbaRYlbZsuxBLOsWRJrEAOF_qBg",
-                "description": "#sponsored\n\nCheck out Warframe using my link and a promo code for YOU!!\nhttps://t.warframe.com/c/qvny4o  \nPromo code: OLDPEACE-TS7HD\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐  ⸜(｡˃..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
