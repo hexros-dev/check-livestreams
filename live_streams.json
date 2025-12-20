@@ -305,7 +305,14 @@
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "zfJBsXO0_xA",
+                "title": "【 ＃ホロドラゴンマイクラ 】最終回！！いざいくぞー！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+                "thumbnail": "https://i.ytimg.com/vi/zfJBsXO0_xA/hqdefault.jpg?v=69467efe&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAIScV0c-p0a0dXN70ttXQs-fKMpw",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n【使用MOD】\n　Eyes..."
+            }
+        ]
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
@@ -323,14 +330,7 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": [
-            {
-                "video_id": "9BEcYXyQUcY",
-                "title": "【GTWS2025/ミラー配信】マニュファクチャラーズカップ グランドファイナル  一緒に見よう～～！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "thumbnail": "https://i.ytimg.com/vi/9BEcYXyQUcY/hqdefault.jpg?v=69458cac&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnHTSTGRSBxDwxOYgCtzw488bJkw",
-                "description": "「Gran Turismo 7: TM & ©2025 Sony Interactive Entertainment Inc. Developed by Polyphony Digital Inc.」\n\n本配信\nhttps://www.youtube.com/live/Af84yOECti4?si=VFjG6SN7KKqAOxgk\nライブタイミ..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
