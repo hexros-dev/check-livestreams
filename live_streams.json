@@ -100,7 +100,14 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "OJx2N1mBc18",
+                "title": "【GTWS2025 / Mirror Watchalong】Watch the Nations Cup with Me!!! #PR",
+                "thumbnail": "https://i.ytimg.com/vi/OJx2N1mBc18/hqdefault.jpg?v=6947157a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSqe8JXJ1Ud__4bZ05_ohIvPF8Sg",
+                "description": "Who will be the fastest? :o \n提供：ソニー・インタラクティブエンタテインメント\nGran Turismo 7: TM & ©2025 Sony Interactive Entertainment Inc. Developed by Polyphony..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
