@@ -104,13 +104,6 @@
                 "description": "@NatsuiroMatsuri 先輩と @IchijouRirika と一緒に @shadowverse_jp バラエティコーナーに出演します！出てない時間もミラー配信するよ～！✨\n📺本配信はこち..."
             },
             {
-                "video_id": "WkRuFyBEs-c",
-                "title": "【 #朝こよ 】クリスマス直前！な火曜日の朝も朝こよ～！☀ #264 【博衣こより/hololive】",
-                "date": "2025/12/23 05:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/WkRuFyBEs-c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTsfRrUj-DF7QTB5bd0nf2vtOIaw",
-                "description": "🧪4周年記念グッズ発売中！12/29(月)18:00まで！もふこよぬいも💖\nhttps://shop.hololivepro.com/products/hakuikoyori_anniversary_4th\n\n💗もふこよ＆こより達のLINE絵..."
-            },
-            {
                 "video_id": "eRIn6q0jmZk",
                 "title": "【セガNET麻雀 MJ】麻雀大好き女とホロライブカップで対戦しよう！！！🀄✨【博衣こより/ホロライブ】",
                 "date": "2025/12/26 18:00:00",
@@ -315,7 +308,15 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "zNBtyy3Xclo",
+                "title": "【 #ホロライブランド 】遊びにｲｸﾖｲｸﾖｲｸﾖｲｸﾖｲｸﾖ【 猫又おかゆ/ホロライブ 】",
+                "date": "2025/12/23 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/zNBtyy3Xclo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsTtv8TiM8eMBSMLnUuvpP-nXQvQ",
+                "description": "❥・・ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ・・❥\n\nゲマズのアニバーサリーグッズ 「hololive GAMERS Anniversary Parade」 販売決定！\n1/13(火) 18時まで..."
+            }
+        ]
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -600,15 +601,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "L1iICRpml3o",
-                "title": "【DISPATCH】i'm not here for romance i'm here for my 9-5",
-                "date": "2025/12/23 05:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/L1iICRpml3o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDELiruiocXyQcjfLMK_RlfmLfzOw",
-                "description": "IF ITS NAWT YAOI OR YURI THEN I DONT CAR!!!!!!!!!!\n\nGame Title: Dispatch\nStore Page : https://store.steampowered.com/app/2592160/Dispatch/\n\nthumbnail: https://x.com/shynoraneko/status/2001127348020..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
