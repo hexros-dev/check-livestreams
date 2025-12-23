@@ -506,7 +506,15 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Bhney2LCYu0",
+                "title": "【#ホロライブランド】ちょっと見学に行く！【ホロライブ/ときのそら】",
+                "date": "2025/12/23 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Bhney2LCYu0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3HcZWX13jGjpzVObFjGkBpIRNJw",
+                "description": "急遽予定があいて参加なのでみんなで見学しよう！！\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
