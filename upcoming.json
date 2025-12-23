@@ -3,7 +3,22 @@
         "channel_url": "https://www.youtube.com/@AZKi",
         "channel_name": "AZKi Channel",
         "avatar_url": "https://yt3.googleusercontent.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "258LHsafsxY",
+                "title": "【Minecraft】#ホロライブランド マイクラの遊園地で遊びまくる！！！！！【ホロライブ / AZKi】",
+                "date": "2025/12/23 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/258LHsafsxY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2ERgSFP2U9Fp6XF8vdkXzw3jusg",
+                "description": "主催 @TakaneLui \n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\nサムネイラスト：TELU 様\nhttps://x.com/TELUscarlet\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\n本ゲームは..."
+            },
+            {
+                "video_id": "_vCzHm4ZQcE",
+                "title": "【歌枠】#ホロクリスマス歌枠リレー / Xmas Singing Stream【ホロライブ / AZKi】",
+                "date": "2025/12/24 16:40:00",
+                "thumbnail": "https://i.ytimg.com/vi/_vCzHm4ZQcE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5Cc7HphAULppjZpNEeYn6K9OmpA",
+                "description": "#ホロクリスマス歌枠リレー AZKi【12/24(水) 18:40～】からです！\n\n次は綺々羅々ヴィヴィちゃん   @KikiraraVivi \n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n..."
+            }
+        ]
     },
     "@AiraniIofifteen": {
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
@@ -592,15 +607,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "0Nvm2U1DEpo",
-                "title": "【GREMBERS】LATE NIGHT SINGIN MOOD (BUT SHORT BCUZ MEETING)",
-                "date": "2025/12/23 13:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/0Nvm2U1DEpo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACsKtbN5_LiTQXp3M0LxzDzKK6iw",
-                "description": "【Acrylic Stands】\n▼Official Online Shop▼\nJP：https://shop.hololivepro.com/products/hololiveen_regularoutfit_acrylicstand\nEN：https://shop.hololivepro.com/en/products/hololiveen_regularoutf..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
@@ -638,7 +645,15 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "SeG0AYhhHyY",
+                "title": "【#ホロライブランド】今いくよくるよ【ホロライブ/兎田ぺこら】",
+                "date": "2025/12/23 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/SeG0AYhhHyY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB37WzqYKNfNj65OfKI4c2ZqpfjsA",
+                "description": "サムネイラスト：Hikosanさん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ #ぺこらいぶ..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
