@@ -328,7 +328,15 @@
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "7xwXkl38C4E",
+                "title": "【 #ホロライブランド 】遊園地、だぁぁぁぁ！！！！！わくわく【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+                "date": "2025/12/23 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/7xwXkl38C4E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBf9VzR07dtE6GBYnuqdAtSQHp0jQ",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\n【使用MOD】\n使用MOD：Simp..."
+            }
+        ]
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
@@ -402,15 +410,7 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": [
-            {
-                "video_id": "zeAAO_DJoxo",
-                "title": "#01【崩壊:スターレイル】完全初見！どんな冒険がはじまるんだ...ッ！ワクワク太郎～！【白銀ノエル/ホロライブ】",
-                "date": "2025/12/23 11:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/zeAAO_DJoxo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDjaH_9aHkzoGBAn6t2tlhliDLTg",
-                "description": "キャラ可愛いし気になっていた...！！！！お昼にまったりプレイだ～！\n\n『崩壊:スターレイル』\nホームページ：https://hsr.hoyoverse.com/ja-jp/home\n..."
-            }
-        ]
+        "videos": []
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -423,6 +423,13 @@
                 "date": "2025/12/31 10:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/smrMuN26M0Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3Qcvl6_G-zzTmDeajMvnlZZoZJg",
                 "description": "┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n🔸新着情報/New!\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n🎄『ねぽらぼライブre:VISION』🎁\n12/21（Sun.）19:00から..."
+            },
+            {
+                "video_id": "z9B8wvLzl_c",
+                "title": "【Minecraft】遊園地いこっ☺️ ＃ホロライブランド 【獅白ぼたん/ホロライブ】",
+                "date": "2025/12/23 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/z9B8wvLzl_c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXlufQDlGgUhdpGt-NusO_cgo68Q",
+                "description": "テーマパークに来たみたいだぜ\nオーナー：@TakaneLui \n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n🔸新着情報/New!\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈..."
             }
         ]
     },
