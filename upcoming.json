@@ -73,15 +73,7 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": [
-            {
-                "video_id": "9UffgxOfKQg",
-                "title": "≪DISPATCH≫ It's the friends you made along the way... GRAND FINALE! #3",
-                "date": "2025/12/23 08:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/9UffgxOfKQg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPBbajWxHHXovAELvInVl0T4Bhlg",
-                "description": "I may suck at my job BUT FRIENDSHIPPPPPPPPPPPPP\n\n#telebae  #hololiveenglish \n««≪ °◇◆◇° ≫ »»\nGame Title: Dispatch\nStore Page : https://store.steampowered.com/app/2592160/Dispatch/..."
-            }
-        ]
+        "videos": []
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -410,7 +402,15 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "zeAAO_DJoxo",
+                "title": "#01【崩壊:スターレイル】完全初見！どんな冒険がはじまるんだ...ッ！ワクワク太郎～！【白銀ノエル/ホロライブ】",
+                "date": "2025/12/23 11:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/zeAAO_DJoxo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDjaH_9aHkzoGBAn6t2tlhliDLTg",
+                "description": "キャラ可愛いし気になっていた...！！！！お昼にまったりプレイだ～！\n\n『崩壊:スターレイル』\nホームページ：https://hsr.hoyoverse.com/ja-jp/home\n..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
