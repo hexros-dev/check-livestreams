@@ -94,14 +94,7 @@
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk",
-        "videos": [
-            {
-                "video_id": "9zXAWHFoXZQ",
-                "title": "【 #ホロクリスマス歌枠リレー】船長、夏以来の歌枠ってマジでか？【ホロライブ/宝鐘マリン】",
-                "thumbnail": "https://i.ytimg.com/vi/9zXAWHFoXZQ/hqdefault.jpg?v=694b6f8d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKVz9cx6tTNYCJtex0VycOeMOzvw",
-                "description": "マリンの前→@IsakiRiona https://www.youtube.com/watch?v=3GzYtCTSTMg\nマリンの後→@KoganeiNiko https://www.youtube.com/watch?v=5ss8GG5azNs\n\nサムネイラスト…あかさあい..."
-            }
-        ]
+        "videos": []
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
@@ -271,7 +264,14 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "XmDc-8IHNek",
+                "title": "【#生スバル】メリ～クリスマス！🎄大空アワード2025🎅🎁【ホロライブ/大空スバル】",
+                "thumbnail": "https://i.ytimg.com/vi/XmDc-8IHNek/hqdefault.jpg?v=694a62f4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlB1BaovKU3uZFTIyv3x6gvfIEHg",
+                "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n\n🔽楽曲各..."
+            }
+        ]
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -331,7 +331,14 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "g76Ha_zzpHA",
+                "title": "【同時視聴】２０２５年度　コマンドー/Commando #聖夜のコマンドー【 白上フブキ/尾丸ポルカ/ホロライブ 】",
+                "thumbnail": "https://i.ytimg.com/vi/g76Ha_zzpHA/hqdefault.jpg?v=694b6f0f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJ_hAWwCfSbrouNOz0thHSr9VoUg",
+                "description": "今年も…とんでもねぇ待ってたんだ #聖夜のコマンドー\nAmazonにて配信中のコマンドー(吹き替え)を視聴します。\n\nポルトリクス隊長　‪@OmaruPolka..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -398,7 +405,14 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "X0x0eXVTgsI",
+                "title": "【Home Alone 2 Watchalong】Gaki, watch out!!!! There's a thief!!!!!.... AGAIN !!!!",
+                "thumbnail": "https://i.ytimg.com/vi/X0x0eXVTgsI/hqdefault.jpg?v=694bb0ab&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVnzsMf-uXunXHk6fhigfDwhNlqQ",
+                "description": "#vestiazeta #hololive #vtuber #holoid #hololiveindonesia \n​\n\nThumbnail: https://x.com/SaltdCrmell\n\n-----\nVestia Zeta's  2nd Original Song  ▶  [ Break It Down ]\n\nAll platform▶️ https://cover..."
+            }
+        ]
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
@@ -471,6 +485,12 @@
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
         "videos": [
+            {
+                "video_id": "5IcmqVUyba8",
+                "title": "【3D】リア凸来るまで帰れないクリスマスパーティ【ホロライブ/兎田ぺこら】＃メリクリぺこパーティ",
+                "thumbnail": "https://i.ytimg.com/vi/5IcmqVUyba8/hqdefault.jpg?v=694b78eb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLsPvylnfsBuXa6CTgdQ0z8szISA",
+                "description": "ルール\n・家から来てもらう\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ #ぺこらいぶ..."
+            },
             {
                 "video_id": "XBuq7qzqF40",
                 "title": "チキン冷やし会場2025【ホロライブ/兎田ぺこら】",
