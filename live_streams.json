@@ -59,7 +59,14 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "RhQ1Is0YmIo",
+                "title": "【#ホロクリスマス歌枠リレー｜XMAS KARAOKE】寒い聖なる夜はFUWAMOCOで暖めましょう🎁 j-pop christmas favorites 🐾 【FUWAMOCO】",
+                "thumbnail": "https://i.ytimg.com/vi/RhQ1Is0YmIo/hqdefault.jpg?v=694aef0e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMTFSYZBfzs7yoqwJWANQ_bcsFGA",
+                "description": "次はジーニアス@IchijouRirika (Silly Lady✨️) ▶ youtube.com/watch?v=tImd0L5QVHg\nlovely illustration by @mrcanary3 💓\n\n🩵 FUWAMOCO 𝟮𝗻𝗱 𝗼𝗿𝗶𝗴𝗶𝗻𝗮𝗹..."
+            }
+        ]
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -71,7 +78,14 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "HvSp11djYFQ",
+                "title": "≪UNARCHIVED KARAOKE・歌枠≫ GIMME 1,111,111 FOR XMAS #shorts",
+                "thumbnail": "https://i.ytimg.com/vi/HvSp11djYFQ/hqdefault.jpg?v=694b6fd7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb4yU4jhPeYvXOejJmkRwZJBGy_A",
+                "description": "dawn of the dork sober. \nits also christmas. \nyikes.\n\n#telebae  #hololiveenglish \n««≪ °◇◆◇° ≫ »»\n\n≪ NEW ORIGINAL「狂宴-FEAST-」 ≫\nhttps://www.youtube.com/watch?v=j4-E6tEpyiU..."
+            }
+        ]
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -323,7 +337,14 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "7j65Mtslls0",
+                "title": "【メン限】クリスマス一緒にのんびりしよ？？【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "thumbnail": "https://i.ytimg.com/vi/7j65Mtslls0/hqdefault.jpg?v=694bdacd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCrJuhM-ZyWYeiwXn_AH3ITGymwBg",
+                "description": "サムネイルイラスト：涼織フィーカさま\nhttps://x.com/suzuori_fika\nありがとうございます！！\n\n\n✦ ━━━━━━━ ✦ ━━━━━━━ ✦ \n1st Album「FLOW..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -546,13 +567,6 @@
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": [
-            {
-                "video_id": "sydC9ZXinnc",
-                "title": "【クリスマス】聖夜のクソマロお炊き上げ会場　#結城さくな生放送",
-                "thumbnail": "https://i.ytimg.com/vi/sydC9ZXinnc/hqdefault.jpg?v=694bae03&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjzlcK2gXld4lRsc-zyXTdE3qtTg",
-                "description": "marshmallow-qa.com/hfnij1fawd6ijr\n\n🎀グッズ・ボイス販売はこちら🐾\nhttps://yuki-sakuna.stores.jp/\n\n🎀歌ってみた動画🐾\nhttps://youtube.com/playlist?list=PLErsMirGq93vRw-Cc..."
-            }
-        ]
+        "videos": []
     }
 }
