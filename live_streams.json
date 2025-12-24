@@ -3,13 +3,27 @@
         "channel_url": "https://www.youtube.com/@AZKi",
         "channel_name": "AZKi Channel",
         "avatar_url": "https://yt3.googleusercontent.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "1eKZgaa9CT8",
+                "title": "【オフコラボ】#あずいろ で料理コラボ！クリスマス会の準備🎄【ホロライブ / AZKi / 風真いろは】",
+                "thumbnail": "https://i.ytimg.com/vi/1eKZgaa9CT8/hqdefault.jpg?v=694a3606&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdDVkQWNszMAKj26DefPHtvPS36A",
+                "description": "@kazamairoha ござるさん家からお届けします🍃\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\nサムネ作成：花春 様\nhttps://twitter.com/KaSyun02\n\n┈┈┈┈┈┈┈┈┈┈..."
+            }
+        ]
     },
     "@AiraniIofifteen": {
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
         "channel_name": "Airani Iofifteen Channel hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "G66qvp4hOQA",
+                "title": "2025 LAST KARAOKE!",
+                "thumbnail": "https://i.ytimg.com/vi/G66qvp4hOQA/hqdefault.jpg?v=694b73a7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDoBdEtot7SdElZDMkC1ux0rUuXVw",
+                "description": "#ioLyfe #Airani_Iofifteen #hololive #holoID \n\n【Support & Jajanin IOFI】🎨\nIndonesia : https://sociabuzz.com/airaniiofifteen/tribe\nOverseas : https://streamlabs.com/airaniiofifteenchannelhololi..."
+            }
+        ]
     },
     "@AkaiHaato": {
         "channel_url": "https://www.youtube.com/@AkaiHaato",
@@ -27,14 +41,7 @@
         "channel_url": "https://www.youtube.com/@AmaneKanata",
         "channel_name": "Kanata Ch. Kanata Amane",
         "avatar_url": "https://yt3.googleusercontent.com/oPU9ckNcyeHD0FFsYSxkoD1mtbslSwdmMSfoCYQWphOu5e7UeCnIF-Nt0hvvF41L5Nykga07nQ",
-        "videos": [
-            {
-                "video_id": "4m5bGOoG85Y",
-                "title": "【#ホロクリスマス歌枠リレー 】メリークリスマス🎄✊【天音かなた/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/4m5bGOoG85Y/hqdefault.jpg?v=694ad6da&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5w6caCki8di4Z_2CPyAEkTc9JAA",
-                "description": "次は 奏ちゃん！　https://www.youtube.com/watch?v=GoNEvx4LU7U  @OtonoseKanade 🎶\n\n主催： @OokamiMio （いつもありがとうミオ先輩）\n\nサムネイラスト：\nhttps://x.com/ka..."
-            }
-        ]
+        "videos": []
     },
     "@AnyaMelfissa": {
         "channel_url": "https://www.youtube.com/@AnyaMelfissa",
@@ -70,7 +77,14 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "CEhuYbSG9tc",
+                "title": "【Membership Only】聖夜のASMR雑談🎄🎅クリスマスはこよと過ごしてくれるよね・・・？💗【博衣こより/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/CEhuYbSG9tc/hqdefault.jpg?v=694bc770&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBExEvNqYuD7nGrDDZp-oZPk9EZFg",
+                "description": "バイノーラルマイクで雑談するこよ！ASMRマイク直ったと思われるんだけど、もしまたぶっ壊れたら普通のマイクになるかも！　※開始直前にメン..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -131,7 +145,14 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "gL9qwJcGB3w",
+                "title": "【メン限】ケーキ食べる人！集合！！【儒烏風亭らでん/ReGLOSS】",
+                "thumbnail": "https://i.ytimg.com/vi/gL9qwJcGB3w/hqdefault.jpg?v=694bde53&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-yjriuotiXIQXE2Ef8Yra-XYizw",
+                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\n\n\n▼儒烏風亭らでんソロ曲「落噺」楽曲配信..."
+            }
+        ]
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -227,14 +248,7 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
-        "videos": [
-            {
-                "video_id": "NRgkWeRMGwE",
-                "title": "【 🟣月一企画メン限 】めりくりしないとだよ～～💜💜 / ASMR【 猫又おかゆ/ホロライブ 】",
-                "thumbnail": "https://i.ytimg.com/vi/NRgkWeRMGwE/hqdefault.jpg?v=694a95c6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgqcR3kMO8z0aYO2Jr3mSS91HbGg",
-                "description": "❥・・ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ・・❥\nにゃんぐこーんグッズ 販売決定！\n1/26(月) 18時まで受注受付中！\n‣ ふぶにゃ：https://shop.hol..."
-            }
-        ]
+        "videos": []
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -271,7 +285,14 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "FCMY8fSw_vo",
+                "title": "【２期生オフコラボ】クリスマスパーティ！！！！！🎄【ホロライブ/大空スバル】",
+                "thumbnail": "https://i.ytimg.com/vi/FCMY8fSw_vo/hqdefault.jpg?v=694a639d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBreH4CNit9PaUn0Ibpt24-3O9tjw",
+                "description": "@NakiriAyame @YuzukiChoco \n\n🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting..."
+            }
+        ]
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -364,7 +385,14 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "XAdWnh-TPa0",
+                "title": "【メンバー限定】クリスマスイブはVRChatでおうちデート♡【白銀ノエル/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/XAdWnh-TPa0/hqdefault.jpg?v=694b9bb0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkMGXe7fpFcZjoRoEkPW0_cOd-XA",
+                "description": "※配信直前にメンバー限定に変更します！\n\nVRChatの承諾を得た上で配信・収益化を行なっております。\nホームページはこちら https://hello.vrchat.com/..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -506,12 +534,6 @@
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
         "videos": [
-            {
-                "video_id": "5IcmqVUyba8",
-                "title": "【3D】リア凸来るまで帰れないクリスマスパーティ【ホロライブ/兎田ぺこら】＃メリクリぺこパーティ",
-                "thumbnail": "https://i.ytimg.com/vi/5IcmqVUyba8/hqdefault.jpg?v=694b78eb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLsPvylnfsBuXa6CTgdQ0z8szISA",
-                "description": "ルール\n・家から来てもらう\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ #ぺこらいぶ..."
-            },
             {
                 "video_id": "XBuq7qzqF40",
                 "title": "チキン冷やし会場2025【ホロライブ/兎田ぺこら】",
