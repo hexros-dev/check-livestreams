@@ -274,7 +274,14 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "FLHyuVKGjzs",
+                "title": "【#ホロクリスマス歌枠リレー】ｸｰﾘｽﾏｽが今年もやってきた！！！🎄【輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "thumbnail": "https://i.ytimg.com/vi/FLHyuVKGjzs/hqdefault.jpg?v=694abcc1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYikxHNs9nTisVuk4_V776q_TTuQ",
+                "description": "#ホロクリスマス歌枠リレー\n\nつぎはすうみゃ！\n水宮枢 @MizumiyaSu \n\n主催\n大神ミオ先輩   ‪@OokamiMio  \n\nタイムテーブル\nhttps://x.com/ookamimio/status/20033470854..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -431,14 +438,7 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
-        "videos": [
-            {
-                "video_id": "WBML26cPYLE",
-                "title": "【#ホロクリスマス歌枠リレー】くりすますたのしみます🎄【風真いろは/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/WBML26cPYLE/hqdefault.jpg?v=694b7290&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCakGbLtto3i1rz8h9msyDECHnS9A",
-                "description": "サムネイルイラスト\nhttps://x.com/_Ryuya_R/status/2002735795975888942?s=20\n*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――..."
-            }
-        ]
+        "videos": []
     },
     "@mikenekoko": {
         "channel_url": "https://www.youtube.com/@mikenekoko",

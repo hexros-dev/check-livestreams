@@ -16,7 +16,7 @@
                 "title": "【歌枠】#ホロクリスマス歌枠リレー / Xmas Singing Stream【ホロライブ / AZKi】",
                 "date": "2025/12/24 16:40:00",
                 "thumbnail": "https://i.ytimg.com/vi/_vCzHm4ZQcE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5Cc7HphAULppjZpNEeYn6K9OmpA",
-                "description": "#ホロクリスマス歌枠リレー AZKi【12/24(水) 18:40～】からです！\n\n次は綺々羅々ヴィヴィちゃん   @KikiraraVivi \n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n..."
+                "description": "#ホロクリスマス歌枠リレー AZKi【12/24(水) 18:40～】からです！\n\n次は綺々羅々ヴィヴィちゃん   @KikiraraVivi \n\n@kazamairoha 宅からお届け🍃 \n\n┈┈┈┈┈..."
             }
         ]
     },
@@ -25,13 +25,6 @@
         "channel_name": "Airani Iofifteen Channel hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc",
         "videos": [
-            {
-                "video_id": "8GZb3_w_LkI",
-                "title": "【Baldur's Gate 3】Me and My Big Black Dragon Adventure【 iofi / hololiveID 】",
-                "date": "2025/12/24 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/8GZb3_w_LkI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwwWadt9S_TKdE4n1Y2Jt-x0A63g",
-                "description": "#ioLyfe #Airani_Iofifteen #hololive #holoID #baldursgate3 \n\nThis game is being streamed and monetized after confirming with Larian Studios, which is based on the following LARIAN STUDIOS' FAN..."
-            },
             {
                 "video_id": "G66qvp4hOQA",
                 "title": "2025 LAST KARAOKE!",
@@ -290,6 +283,13 @@
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
         "videos": [
             {
+                "video_id": "BnFWuisdJU8",
+                "title": "【ちはヴィヴィオフコラボ】クリスマス一緒に過ごそうよ🎄【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "date": "2025/12/25 16:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/BnFWuisdJU8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBou_rcmCqpJXulEkH98_Hd9MXkuw",
+                "description": "ヴィヴィにメロメロなちは　@RindoChihaya \nサムネイルの素敵なイラスト　HOKKULさん　https://x.com/Ho_Hokkul?s=20\n\n✦ ━━━━━━━ ✦ ━━━━━━━..."
+            },
+            {
                 "video_id": "cfX_AMl3R5I",
                 "title": "【＃ホロクリスマス歌枠リレー】クリスマスイブもホロライブと過ごそ🎶Happy Christmas Eve!🎄💖【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
                 "date": "2025/12/24 17:00:00",
@@ -393,7 +393,15 @@
         "channel_url": "https://www.youtube.com/@NakiriAyame",
         "channel_name": "Nakiri Ayame Ch. 百鬼あやめ",
         "avatar_url": "https://yt3.googleusercontent.com/3CeLWGYb6cLUywTJzNt-UpITviNxeGNvtjhIqbV-AIybCqCoFw9onWtg91bjwpqvfEP9mfqIR4Q",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "F9rtc6sop2A",
+                "title": "【歌枠】クリスマス歌枠🎄🎁【百鬼あやめ/ホロライブ】",
+                "date": "2025/12/24 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/F9rtc6sop2A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnw_hVsfVRe_zf6RWzuv0Wgo0xXQ",
+                "description": "- - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - -ഒ˖°\n\n             \n　　🎅ホロライブ クリスマスボイス2025 ～ミラクル..."
+            }
+        ]
     },
     "@NanashiMumei": {
         "channel_url": "https://www.youtube.com/@NanashiMumei",
@@ -512,15 +520,7 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": [
-            {
-                "video_id": "FLHyuVKGjzs",
-                "title": "【#ホロクリスマス歌枠リレー】ｸｰﾘｽﾏｽが今年もやってきた！！！🎄【輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "date": "2025/12/24 15:40:00",
-                "thumbnail": "https://i.ytimg.com/vi/FLHyuVKGjzs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYikxHNs9nTisVuk4_V776q_TTuQ",
-                "description": "#ホロクリスマス歌枠リレー\n\nつぎはすうみゃ！\n水宮枢 @MizumiyaSu \n\n主催\n大神ミオ先輩   ‪@OokamiMio  \n\nタイムテーブル\nhttps://x.com/ookamimio/status/20033470854..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
