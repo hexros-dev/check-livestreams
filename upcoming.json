@@ -275,7 +275,15 @@
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
         "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "7DQHyGiCdpk",
+                "title": "REBROADCAST UNARCHIVED KARAOKE feat. MAMARISSA | HAPPY CHRISTMAS EVE",
+                "date": "2025/12/25 23:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/7DQHyGiCdpk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8P2dMm_4fF7nWE2K2VxyCelyfiA",
+                "description": "∴∴🎶*┈┈┈┈┈┈┈┈┈┈┈┈┈*🎶∴∴\n\n🐦‍⬛twitter: https://x.com/nerissa_en\n🐦‍⬛spotify: https://open.spotify.com/artist/4uzAnzFMXarRPOBAG2lIIa\n🐦‍⬛insta:..."
+            }
+        ]
     },
     "@NinomaeInanis": {
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
@@ -458,15 +466,7 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
-        "videos": [
-            {
-                "video_id": "AbP9EBibhsU",
-                "title": "(Rebroadcast) Unarchived December Karaoke~ ♫⋆｡♪ ₊˚♬ ﾟ.",
-                "date": "2025/12/25 22:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/AbP9EBibhsU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4u2W2yHLI21PDtCDqcd4jtIZcIQ",
-                "description": "#vestiazeta #hololive #vtuber #holoid #hololiveindonesia \n\nRebroadcast of the stream that was done today 16:00 JST\n\n​​As this is members only stream, please do not clip/share/summarize/transcri..."
-            }
-        ]
+        "videos": []
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
