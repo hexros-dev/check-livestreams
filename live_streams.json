@@ -407,7 +407,14 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "3Cb4IjPIxtw",
+                "title": "【CHRISTMAS MOVIE WATCHALONG】Can you believe it guys? Christm! Just a week away! VIOLENT NIGHT (2022)",
+                "thumbnail": "https://i.ytimg.com/vi/3Cb4IjPIxtw/hqdefault.jpg?v=694d74df&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpVOK2pgy_pnYm2xC3Zmbphvij5g",
+                "description": "BDAY Merch available here! \n▼hololive production OFFICIAL SHOP \nJP: https://shop.hololivepro.com/products/ceciliaimmergreen_birthday_2025 \nEN: https://shop.hololivepro.com/en/products/ceciliaimme..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
