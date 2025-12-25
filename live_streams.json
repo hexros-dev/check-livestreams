@@ -262,14 +262,7 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": [
-            {
-                "video_id": "-LCOhGIPn80",
-                "title": "【Unarchived Karaoke】Crimin Time",
-                "thumbnail": "https://i.ytimg.com/vi/-LCOhGIPn80/hqdefault.jpg?v=694cd9ce&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4_CDw57T1SKWPlNSL4oGWOgFReg",
-                "description": "we are so happy u all decided to become furries with this merch 🥰\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/ourokronii_anniversary_4th\nEN: https://shop.holol..."
-            }
-        ]
+        "videos": []
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
@@ -438,7 +431,14 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "C7TmzZZyiVE",
+                "title": "【凸待ち】あずいろでクリスマスリアル凸待ち🎄【風真いろは/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/C7TmzZZyiVE/hqdefault.jpg?v=694be8f4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtviXkj4UgdwcOUHQ4vcpe8sX22w",
+                "description": "みんなきてくれるかな・・・？\n@AZKi といっしょに一生懸命用意しました✨\n\nhttps://www.youtube.com/live/1eKZgaa9CT8?si=qYVXf56nnX_fyls7\n*⇔*――*⇔*――*⇔*――*..."
+            }
+        ]
     },
     "@mikenekoko": {
         "channel_url": "https://www.youtube.com/@mikenekoko",
