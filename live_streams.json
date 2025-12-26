@@ -237,14 +237,7 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": [
-            {
-                "video_id": "ou4IrSrjzmo",
-                "title": "【雑談】眠れない人と一緒に過ごす深夜のオオカミ",
-                "thumbnail": "https://i.ytimg.com/vi/ou4IrSrjzmo/hqdefault.jpg?v=694ebcb8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCY2RubQ_3PWC1UWifdmk7Jn7TMyw",
-                "description": "こんな時間に・・・起きちゃった\n\nサムネillustrator：くまらんさん　https://x.com/kumarang_\n✣✣––––––––––..."
-            }
-        ]
+        "videos": []
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -419,7 +412,14 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "NuEsGynglhE",
+                "title": "【WATCHALONG】i don't remember this movie very well sorry in advance",
+                "thumbnail": "https://i.ytimg.com/vi/NuEsGynglhE/hqdefault.jpg?v=694cea54&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCv7yW15tafbnbSyIGY5433xPXyOg",
+                "description": "@holoen_ceciliaimmergreen \n50 shades of grey (2:05:14)\nthumbnail: https://x.com/Akan_Emi/status/2002171226169528714\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
