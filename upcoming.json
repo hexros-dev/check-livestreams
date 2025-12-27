@@ -374,15 +374,7 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
-        "videos": [
-            {
-                "video_id": "HoB2DzuPEmI",
-                "title": "【 縦型/歌枠】NO15💜眠れない今日はド深夜に沢山歌っちゃおう🎤ろぼめろでぃ～ Midnight RBmelody  🎶 【ホロライブ/ ロボ子さん #ろぼめろでぃ】",
-                "date": "2025/12/27 23:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/HoB2DzuPEmI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQckSxTmMi-ClEP1GhB6XuSFsihQ",
-                "description": "＃ホロライブ 　\nｘでは💬　 #ろぼめろでぃ　でポストしてってね\n\n\n【定期企画配信】 Midnight RBmelody 💗　通称　 #ろぼめろでぃ　💗\n週末の金土日..."
-            }
-        ]
+        "videos": []
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -447,7 +439,15 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "KaghBv4wFv8",
+                "title": "【朝活雑談】今年最後のさんでーまっするうううう🌞✨【白銀ノエル/ホロライブ】",
+                "date": "2025/12/28 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/KaghBv4wFv8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSt1YkpVE4q9Yd4TMwItP3xEk1_w",
+                "description": "今年の振り返りは31日にやる予定！(うぇんずでーまっする！←語呂悪いｗ)\n\n✨🤍白銀ノエル誕生日記念グッズ2025販売中🤍✨\nhttps://shop.hololivepro.com..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
