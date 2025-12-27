@@ -374,7 +374,15 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "HoB2DzuPEmI",
+                "title": "【 縦型/歌枠】NO15💜今日はド深夜に沢山歌っちゃおう🎤ろぼめろでぃ～ Midnight RBmelody  🎶 【ホロライブ/ ロボ子さん #ろぼめろでぃ】",
+                "date": "2025/12/27 23:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/HoB2DzuPEmI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQckSxTmMi-ClEP1GhB6XuSFsihQ",
+                "description": "＃ホロライブ 　\nｘでは💬　 #ろぼめろでぃ　でポストしてってね\n\n\n【定期企画配信】 Midnight RBmelody 💗　通称　 #ろぼめろでぃ　💗\n週末の金土日..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -393,6 +401,13 @@
                 "date": "2025/12/28 17:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/2j_UEalq-Hc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqO6ckyqj9t37LoARyFoEU5OfXJQ",
                 "description": "🎀さくらみこ新衣装記念グッズ発売🎉\nhttps://shop.hololivepro.com/products/sakuramiko_roomwearoutfitcelebration\n🎀グッズ販売期間（受注販売）\n2025年12月25日(木)..."
+            },
+            {
+                "video_id": "vwX0Vc1RqPQ",
+                "title": "【 有馬 】【ホロライブ/さくらみこ】",
+                "date": "2025/12/28 11:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/vwX0Vc1RqPQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA20lgtQKXmKDURpolKxt20sic8Vg",
+                "description": "🌸miComet 2nd Original Music 『Lollipop』☄\n歌：miComet　/ さくらみこ 星街すいせい\n♫各音楽サービスで楽曲配信！\nhttps://cover.lnk.to/ouUbcZ\n\n⪩⪨　お知らせ/..."
             }
         ]
     },
@@ -444,15 +459,7 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": [
-            {
-                "video_id": "uayLsXysBBM",
-                "title": "【Pokémon LEGENDS: Z-A】wawa in big money trouble oh no #kfp #キアライブ",
-                "date": "2025/12/27 22:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/uayLsXysBBM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwT9G1vks7MNukHbDxdqPvDkDBDA",
-                "description": "CONCERT STREAMING TICKETS: https://drawn-to-dawn.hololivepro.com/ticket\nCONCERT WEBSITE: https://drawn-to-dawn.hololivepro.com/ \n\n🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara..."
-            }
-        ]
+        "videos": []
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
