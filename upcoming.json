@@ -530,7 +530,15 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "XIx02CZLFEI",
+                "title": "【Vampire Survivors】はじまったな！強さへの挑戦【ホロライブ/ときのそら】",
+                "date": "2025/12/27 15:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/XIx02CZLFEI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNIaW16xWnZvPI5emCxLHA1qzi1Q",
+                "description": "さぁ最強になろうじゃないか。\n\n本ゲームはponcleに確認の上配信・収益化を行なっております\n★★★★★★★★★★★★★★★★★★★★★★..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
@@ -604,9 +612,16 @@
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
         "videos": [
             {
+                "video_id": "GBon4X1CuH0",
+                "title": "【Minecraft】#マイクラリレーで作った装置みんなにも見せたいんだ！！！【風真いろは/ホロライブ】",
+                "date": "2025/12/29 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/GBon4X1CuH0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-qyRUwUDdy8eOQ5sVtT2VrKcFmg",
+                "description": "*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――\n\n💚風真いろはからのおしらせ💚\n\n🍃活動4周年グッズ販売中🍃..."
+            },
+            {
                 "video_id": "GENHtNVctZ0",
                 "title": "【配信予定地】ホロカむきたい顔してる予定地【風真いろは/ホロライブ】",
-                "date": "2025/12/27 16:00:00",
+                "date": "2025/12/29 10:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/GENHtNVctZ0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCuaV80FfzlnEWUUDy30iD2Om-dgw",
                 "description": "*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――\n\n💚風真いろはからのおしらせ💚\n\n🍃活動4周年グッズ販売中🍃..."
             }
