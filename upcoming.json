@@ -89,7 +89,15 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Kf1rxikvaRQ",
+                "title": "≪MIMESIS≫ WHO IS IT. w/ Holo JP!",
+                "date": "2025/12/28 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Kf1rxikvaRQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAicmrJxON5iPzJg-CYrtmYN2TyYg",
+                "description": "Another go at this game aye aye \nw/ @TokoyamiTowa @TodorokiHajime @KikiraraVivi \n\n#telebae  #hololiveenglish \n\n««≪ °◇◆◇° ≫ »»\nGame Title: MIMESIS\nStore Page: https://store.steampowe..."
+            }
+        ]
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -545,15 +553,7 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": [
-            {
-                "video_id": "35jq6_kSJ6o",
-                "title": "【利用規約に同意したい】難しいらしい！？おためしでちょこっと挑戦！【ホロライブ/ときのそら】",
-                "date": "2025/12/28 12:15:00",
-                "thumbnail": "https://i.ytimg.com/vi/35jq6_kSJ6o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD28XLLQcPgeqpsxxN7MUpI928OKQ",
-                "description": "夜はお仕事があるので１６：００くらいまででどこまでできるか挑戦！\nわくわく♪\n\n配信タイトル：利用規約に同意したい\nストアページ：https://st..."
-            }
-        ]
+        "videos": []
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",

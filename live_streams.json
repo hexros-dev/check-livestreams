@@ -387,7 +387,14 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "35jq6_kSJ6o",
+                "title": "【利用規約に同意したい】難しいらしい！？おためしでちょこっと挑戦！【ホロライブ/ときのそら】",
+                "thumbnail": "https://i.ytimg.com/vi/35jq6_kSJ6o/hqdefault.jpg?v=6950b84c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD28XLLQcPgeqpsxxN7MUpI928OKQ",
+                "description": "夜はお仕事があるので１６：００くらいまででどこまでできるか挑戦！\nわくわく♪\n\n配信タイトル：利用規約に同意したい\nストアページ：https://st..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
