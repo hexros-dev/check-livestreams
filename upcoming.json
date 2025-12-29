@@ -347,7 +347,15 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "7RpDlF11_dU",
+                "title": "【SHADOWVERSE: WORLDS BEYOND】First Time Playing!!!....Wait...Is That...F-FRIEREN SAMA?!",
+                "date": "2025/12/30 09:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/7RpDlF11_dU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNonAUf_gYOGRGvLR-u52Uvtnplg",
+                "description": "This stream is sponsored by Cygames.\nCheck out Shadowverse: Worlds Beyond here: https://shadowverse-wb.com/en/\n\n【Thumbnail Art】\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\n_______________..."
+            }
+        ]
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -504,15 +512,7 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": [
-            {
-                "video_id": "gWz4dpCEPvM",
-                "title": "【Agreeee】LET ME INNNNNNNNN #kfp #キアライブ",
-                "date": "2025/12/30 01:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/gWz4dpCEPvM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqVyx6VT7YjuHPXMpa7T81YlnqiQ",
-                "description": "CONCERT STREAMING TICKETS: https://drawn-to-dawn.hololivepro.com/ticket\nCONCERT WEBSITE: https://drawn-to-dawn.hololivepro.com/ \n\n🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara..."
-            }
-        ]
+        "videos": []
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
