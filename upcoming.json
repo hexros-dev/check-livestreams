@@ -356,7 +356,15 @@
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "bTNx6xRYLrQ",
+                "title": "【 はいしにょてい 】【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+                "date": "2025/12/29 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/bTNx6xRYLrQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCq8ZdxJIniQMEVCaXYRhJPsvGeRA",
+                "description": "前はかなた先輩！▶　https://www.youtube.com/live/4m5bGOoG85Y?si=4r9Wdw6UKgFE9ZDM\n次はわため先輩！▶　https://www.youtube.com/live/19H-RtnV-MU?si=O0B5yZcu6LJxsow_\n\n▽✨重大..."
+            }
+        ]
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
@@ -374,7 +382,22 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "lXoNbHhnSGI",
+                "title": "【お正月衣装お披露目】新衣装！？着物なのか？洋装なのか？#DEV_IS正月リレー【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "date": "2026/01/02 12:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/lXoNbHhnSGI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvEOB5a66lD-q4y-DopHE5et0osw",
+                "description": "どきどきだね！\n\n#輪堂千速新衣装予想\nこちらでぜひ予想してみてね！\n\n\nFLOWGLOW 1st Album『FLOW GLOW』\n\n2026.1.21 リリース\n🔽予約はこちらから🔽\nhttps://s..."
+            },
+            {
+                "video_id": "ooc8MOHC-mo",
+                "title": "【メン限ラジオ】輪堂千速のニックナイトガレーディオ #8【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "date": "2025/12/29 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ooc8MOHC-mo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCLm_zIEzLN0pHHxQBtl8z6Q9cotw",
+                "description": "今年最後のガレーディオ！\n\nこの配信でいただいたスーパーチャットなどは最後にお名前だけお呼びさせていただきます。\n\nBGM：トーマス大森音楽..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
