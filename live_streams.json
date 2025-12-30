@@ -239,20 +239,20 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": [
-            {
-                "video_id": "7RpDlF11_dU",
-                "title": "【SHADOWVERSE: WORLDS BEYOND】First Time Playing!!!....Wait...Is That...F-FRIEREN SAMA?!",
-                "thumbnail": "https://i.ytimg.com/vi/7RpDlF11_dU/hqdefault.jpg?v=6952c3f6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNonAUf_gYOGRGvLR-u52Uvtnplg",
-                "description": "This stream is sponsored by Cygames.\nCheck out Shadowverse: Worlds Beyond here: https://shadowverse-wb.com/en/\n\n【Thumbnail Art】\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\n_______________..."
-            }
-        ]
+        "videos": []
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "1zOANHiwoBs",
+                "title": "【歌枠/KARAOKE】最後と言ったがあれは嘘だ今度こそ2025最後【尾丸ポルカ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/1zOANHiwoBs/hqdefault.jpg?v=69533f9a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9GhIxzuzT49mVC26pVQL7oCgr9g",
+                "description": "サムネイルありがとうございます！\nhttps://x.com/n79oqc3Yja6JLOF\n\nテンプレートありがとうございます！\nhttps://x.com/B_A_9_X\n\n※尾丸ポルカへ頂いたスパチャ..."
+            }
+        ]
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
@@ -450,14 +450,7 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": [
-            {
-                "video_id": "IJxqcullC3g",
-                "title": "【This Bed We Made】 A Choices-Matter 1950s Murder Mystery Game",
-                "thumbnail": "https://i.ytimg.com/vi/IJxqcullC3g/hqdefault.jpg?v=6952fa15&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALSZbnvOF_lBOSLlOj4uoygrUXEw",
-                "description": "Also you get to play as a maid\n\nMerch: https://ohmonah.shop/collections/nimi-nightmare\n\n  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋\n\nKonbakuwa! I'm Nimi, the baku nurse VTuber of your nightmares~..."
-            }
-        ]
+        "videos": []
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
