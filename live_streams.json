@@ -172,7 +172,14 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "bt5Yl9aaO5c",
+                "title": "【崩壊 : スターレイル】オンパロス編 #20【水宮枢／ホロライブDEV_IS】",
+                "thumbnail": "https://i.ytimg.com/vi/bt5Yl9aaO5c/hqdefault.jpg?v=6952e37c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBg0y1bz1oTTxV4PD0UTfIxhVhnWQ",
+                "description": "イラスト https://x.com/cha_seiga?s=21&t=CbrrjZRpYKuQt6jP6ruZBg\n▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸◂┄▹◃\n\n💙メンバーシップはこちらから ⬇️\nClick here..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -232,7 +239,14 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "7RpDlF11_dU",
+                "title": "【SHADOWVERSE: WORLDS BEYOND】First Time Playing!!!....Wait...Is That...F-FRIEREN SAMA?!",
+                "thumbnail": "https://i.ytimg.com/vi/7RpDlF11_dU/hqdefault.jpg?v=6952c3f6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNonAUf_gYOGRGvLR-u52Uvtnplg",
+                "description": "This stream is sponsored by Cygames.\nCheck out Shadowverse: Worlds Beyond here: https://shadowverse-wb.com/en/\n\n【Thumbnail Art】\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\n_______________..."
+            }
+        ]
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -412,14 +426,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "dx_d1I-zZYE",
-                "title": "【GREMBERS】INSIDE (2021) WATCHALONG",
-                "thumbnail": "https://i.ytimg.com/vi/dx_d1I-zZYE/hqdefault.jpg?v=69523352&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDSiLVFY99kpZmKmv045oYZpPXB8g",
-                "description": "im watchin on netflix this may or may not become a singalong\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐  ⸜(｡˃ ᵕ ˂ )⸝♡ credits (˶ˆᗜˆ˵)  ‐‐‐‐‐‐‐‐‐‐‐‐‐..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
@@ -462,6 +469,13 @@
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "6VUD-qFn7fA",
+                "title": "利用規約に同意したいと思います。　#結城さくな生放送",
+                "thumbnail": "https://i.ytimg.com/vi/6VUD-qFn7fA/hqdefault.jpg?v=69531949&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_ShlJmowXGjkHzqhEiStSSBVzRg",
+                "description": "🎀グッズ・ボイス販売はこちら🐾\nhttps://yuki-sakuna.stores.jp/\n\n🎀歌ってみた動画🐾\nhttps://youtube.com/playlist?list=PLErsMirGq93vRw-CcRaaZfR4QVxl2uBsb&si=BRmEr8erE6aR-UJ..."
+            }
+        ]
     }
 }
