@@ -276,7 +276,14 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "BEvWqPRvwEg",
+                "title": "【Unarchived Karaoke Relay】New Year... 🧍",
+                "thumbnail": "https://i.ytimg.com/vi/BEvWqPRvwEg/hqdefault.jpg?v=69557d68&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDu9OUT0qVycYbE-Yw2cqXm9X98bQ",
+                "description": "we are so happy u all decided to become furries with this merch 🥰\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/ourokronii_anniversary_4th\nEN: https://shop.holol..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
@@ -348,14 +355,7 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": [
-            {
-                "video_id": "KiBYZd70RDM",
-                "title": "wawa new year aaaaaaaaaaaa",
-                "thumbnail": "https://i.ytimg.com/vi/KiBYZd70RDM/hqdefault.jpg?v=6955a985&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3xuG5YQMjdawqLg2--ycFDnk1rw",
-                "description": null
-            }
-        ]
+        "videos": []
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
@@ -421,14 +421,7 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": [
-            {
-                "video_id": "GBB8cRSrkEU",
-                "title": "【UNARCHIVED KARAOKE RELAY】but i'll play a bunch of silly instruments instead cause throat ouchie",
-                "thumbnail": "https://i.ytimg.com/vi/GBB8cRSrkEU/hqdefault.jpg?v=69556d43&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVGIxqxAO3ySdcqVQ8vPW70YROuA",
-                "description": "most scuffed stream i hope you are ready (maybe it'll even be asmr (no it won't this is a lie and a misdirect))\n\nthumbnail: https://x.com/brmameng/status/1995325094747570248?s=20\n------------------..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
