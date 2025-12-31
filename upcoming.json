@@ -195,7 +195,15 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "i3fhlegZ79U",
+                "title": "【#DEV_IS正月リレー】はじめまして、新衣装です【儒烏風亭らでん #ReGLOSS 】",
+                "date": "2026/01/02 12:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/i3fhlegZ79U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCy_cdZSVsJ7BuP86f1Y0NL6gstKQ",
+                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\nReGLOSSとFLOWGLOWで新衣装お披露目リレーです！..."
+            }
+        ]
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -360,7 +368,7 @@
             {
                 "video_id": "cugUExvV57c",
                 "title": "【MEMBERS】hololive Countdown Live Watchalong!!!",
-                "date": "2025/12/31 21:30:00",
+                "date": "2025/12/31 20:30:00",
                 "thumbnail": "https://i.ytimg.com/vi/cugUExvV57c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCurQ1kcrvpcgARaG_tJ9k0usRglA",
                 "description": "【Thumbnail Art】\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\nGame title：gogh: Focus with Your Avatar\nStore page：https://store.steampowered.com/app/3213850/gogh_Focus_with_Your_Avatar/..."
             }
