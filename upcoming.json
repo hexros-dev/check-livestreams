@@ -356,7 +356,15 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "cugUExvV57c",
+                "title": "【MEMBERS】hololive Countdown Live Watchalong!!!",
+                "date": "2025/12/31 21:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/cugUExvV57c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCurQ1kcrvpcgARaG_tJ9k0usRglA",
+                "description": "【Thumbnail Art】\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\nGame title：gogh: Focus with Your Avatar\nStore page：https://store.steampowered.com/app/3213850/gogh_Focus_with_Your_Avatar/..."
+            }
+        ]
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -385,7 +393,7 @@
         "videos": [
             {
                 "video_id": "6Z6BilFHkZk",
-                "title": "【】ゆくホロくるホロ同時視聴＆年末凸待ち【ホロライブ/大空スバル】",
+                "title": "【#生スバル】ゆくホロくるホロ同時視聴＆年末凸待ちしゅばああああああ！！！【ホロライブ/大空スバル】",
                 "date": "2025/12/31 15:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/6Z6BilFHkZk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMF2WSjQFALJZxkJetwLNmnPAMyA",
                 "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n\n🔽楽曲各..."
@@ -632,7 +640,22 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "NY7zGK5ea5s",
+                "title": "【SHADOWVERSE: WORLDS BEYOND】oh my goodness gracious Frieren it's time to read #ad",
+                "date": "2026/01/01 09:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/NY7zGK5ea5s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRVflVKYxNf09xwMXVgjLRrLEDwQ",
+                "description": "This stream is sponsored by Cygames.\nCheck out Shadowverse: Worlds Beyond here: https://shadowverse-wb.com/en/\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
+            },
+            {
+                "video_id": "hkKcdBNKp7A",
+                "title": "【UNARCHIVED KARAOKE RELAY】DJ COOL MURIN NEW YEARS MEGAMIX #holoENKaraokeRelay",
+                "date": "2026/01/01 03:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/hkKcdBNKp7A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBliO-b-Y5voGVx3Bf0NoPhMg3_GQ",
+                "description": "NEXT @holoen_erbloodflame \n\n【Debut Celebration Merch】\n▼Official Online Shop▼\nJP：https://shop.hololivepro.com/products/hololiveen_justice_debut\nEN：https://shop.hololivepro.com/en/product..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
