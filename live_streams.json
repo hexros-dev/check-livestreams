@@ -348,7 +348,14 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "xjcdAjJ2x9g",
+                "title": "【KARAOKE RELAY】#1, Takanashi Kiara !! HAPPY NEW YEAR #holoENKaraokeRelay",
+                "thumbnail": "https://i.ytimg.com/vi/xjcdAjJ2x9g/hqdefault.jpg?v=695425af&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYehGVAw8u8152SGYCBDBp83S9Mg",
+                "description": "next is @holoen_gigimurin !\nCONCERT STREAMING TICKETS: https://drawn-to-dawn.hololivepro.com/ticket\nCONCERT WEBSITE: https://drawn-to-dawn.hololivepro.com/ \n\n🏵️[Twitter] 🏵️\nhttps://twitte..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
