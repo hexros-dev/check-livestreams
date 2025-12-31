@@ -348,14 +348,7 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": [
-            {
-                "video_id": "xjcdAjJ2x9g",
-                "title": "【KARAOKE RELAY】#1, Takanashi Kiara !! HAPPY NEW YEAR #holoENKaraokeRelay",
-                "thumbnail": "https://i.ytimg.com/vi/xjcdAjJ2x9g/hqdefault.jpg?v=695425af&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYehGVAw8u8152SGYCBDBp83S9Mg",
-                "description": "next is @holoen_gigimurin !\nCONCERT STREAMING TICKETS: https://drawn-to-dawn.hololivepro.com/ticket\nCONCERT WEBSITE: https://drawn-to-dawn.hololivepro.com/ \n\n🏵️[Twitter] 🏵️\nhttps://twitte..."
-            }
-        ]
+        "videos": []
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
@@ -385,14 +378,7 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": [
-            {
-                "video_id": "uQ6v7r0ZZ_Y",
-                "title": "【 謹賀新年 】HAPPY NEW YEAR！2026年最初の配信！！！【角巻わため/ホロライブ４期生】",
-                "thumbnail": "https://i.ytimg.com/vi/uQ6v7r0ZZ_Y/hqdefault.jpg?v=69545eab&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBq05oTa1EKnYVegO8-jU54kFpj3g",
-                "description": "こちらの枠でいただいたすーぱーちゃは、動画にお名前を入れてのお礼とさせていただきます！\nタグ：#ドドドライブ\n\n🐏角巻わため 活動6周年記..."
-            }
-        ]
+        "videos": []
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -440,7 +426,14 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "hkKcdBNKp7A",
+                "title": "【UNARCHIVED KARAOKE RELAY】DJ COOL MURIN NEW YEARS MEGAMIX #holoENKaraokeRelay",
+                "thumbnail": "https://i.ytimg.com/vi/hkKcdBNKp7A/hqdefault.jpg?v=6954d04e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBliO-b-Y5voGVx3Bf0NoPhMg3_GQ",
+                "description": "NEXT @holoen_erbloodflame \n\n【Debut Celebration Merch】\n▼Official Online Shop▼\nJP：https://shop.hololivepro.com/products/hololiveen_justice_debut\nEN：https://shop.hololivepro.com/en/product..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
