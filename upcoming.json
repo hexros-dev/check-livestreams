@@ -370,15 +370,7 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": [
-            {
-                "video_id": "jPnjhzQ6NbM",
-                "title": "【年越し配信】ゆくホロくるホロ同時視聴‼️カウントダウンミラー‼️一緒に新しい年へ‼️【尾丸ポルカ/ホロライブ】",
-                "date": "2025/12/31 15:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/jPnjhzQ6NbM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjgVtKdDm9qAJ-ZQmPSut8uJq_SA",
-                "description": "2025から2026へ\n\n#年末年始はホロライブと\n#holocountdown2025 \n#ゆくホロくるホロ2025\n\n⬇️ホロ公式本編⬇️\nhttps://www.youtube.com/watch?v=IJa1U202qkQ\n\n※尾丸ポル..."
-            }
-        ]
+        "videos": []
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
@@ -390,15 +382,7 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": [
-            {
-                "video_id": "6Z6BilFHkZk",
-                "title": "【#生スバル】ゆくホロくるホロ同時視聴＆年末凸待ちしゅばああああああ！！！【ホロライブ/大空スバル】",
-                "date": "2025/12/31 15:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/6Z6BilFHkZk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMF2WSjQFALJZxkJetwLNmnPAMyA",
-                "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n\n🔽楽曲各..."
-            }
-        ]
+        "videos": []
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -722,6 +706,14 @@
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "n_wM-GtmsNY",
+                "title": "年越しといったらやっぱ鍋だよな　#年越しさくめあちゃん",
+                "date": "2025/12/31 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/n_wM-GtmsNY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDMzkv-GCGPsTsHdQ96Zpyv2kwrow",
+                "description": "@KaguraMea \n\n🎀グッズ・ボイス販売はこちら🐾\nhttps://yuki-sakuna.stores.jp/\n\n🎀歌ってみた動画🐾\nhttps://youtube.com/playlist?list=PLErsMirGq93vRw-CcRaaZfR4QVxl2uBsb&si=BR..."
+            }
+        ]
     }
 }
