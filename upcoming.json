@@ -212,13 +212,6 @@
                 "date": "2026/01/02 11:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/QRhXMuWB14k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBAO111Bj2NfYVt8klWC1GPuIAmhQ",
                 "description": "メンバーシップ開設しました！加入はこちらから💕https://www.youtube.com/channel/UCGzTVXqMQHa4AgJVJIVvtDQ/join\n\n📢iOS ユーザーの皆様へ / for iOS(iPHONE, iPAD)..."
-            },
-            {
-                "video_id": "dHX0mkt5BSA",
-                "title": "【初！料理】みんなから募集した料理作る(予定)【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "date": "2025/12/31 11:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/dHX0mkt5BSA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAVZ0fU8lmYxDvq3OgS2LplxzKdRg",
-                "description": "サムネイルの素敵なイラスト　Absentさん　https://x.com/absentable655?s=20\n\nメンバーシップ開設しました！加入はこちらから💕https://www.youtube.com/channel/UCGz..."
             }
         ]
     },
@@ -473,7 +466,15 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "eY-bAdPFy0I",
+                "title": "Hololive Countdown Live 2025 Watchalong",
+                "date": "2025/12/31 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/eY-bAdPFy0I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtEZoFT0531ZYeqBr4bf1la-gJLg",
+                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n===============..."
+            }
+        ]
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
