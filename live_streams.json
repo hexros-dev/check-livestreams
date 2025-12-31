@@ -306,14 +306,7 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": [
-            {
-                "video_id": "6mNr29RhxDc",
-                "title": "【初日の出2026】今年も一緒に初日の出みるにぇ！🌅35pライブカメラあり‼️【ホロライブ/さくらみこ】",
-                "thumbnail": "https://i.ytimg.com/vi/6mNr29RhxDc/hqdefault.jpg?v=6955717d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3Eqbyri9CHekpoFMWDDP1ciCfcA",
-                "description": "あけましておめでとうございます🐱🌸\n\n🎀さくらみこ新衣装記念グッズ発売🎉\nhttps://shop.hololivepro.com/products/sakuramiko_roomwearoutfitcelebration\n🎀グッズ..."
-            }
-        ]
+        "videos": []
     },
     "@SamekoSaba": {
         "channel_url": "https://www.youtube.com/@SamekoSaba",
@@ -355,7 +348,14 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "KiBYZd70RDM",
+                "title": "wawa new year aaaaaaaaaaaa",
+                "thumbnail": "https://i.ytimg.com/vi/KiBYZd70RDM/hqdefault.jpg?v=6955a985&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3xuG5YQMjdawqLg2--ycFDnk1rw",
+                "description": null
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
@@ -464,7 +464,14 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "D27Amj2-7v0",
+                "title": "【Napling Choice Awards】 THE VERY SPECIAL AWARDS SHOW TO END 2025",
+                "thumbnail": "https://i.ytimg.com/vi/D27Amj2-7v0/hqdefault.jpg?v=6954cf9f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAk57ZK40Yv2WgJnYEHseO-IGOJ3w",
+                "description": "Vote on your favorite Nimi-related things to close out 2025!\n\nMerch: https://ohmonah.shop/collections/nimi-nightmare\n\n  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋\n\nKonbakuwa! I'm Nimi, the baku..."
+            }
+        ]
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
