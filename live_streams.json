@@ -45,14 +45,7 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": [
-            {
-                "video_id": "hVqGyY2jb24",
-                "title": "【NEW YEAR CHATTING】nothing can keep us from celebrating the start of 2026 together 🐾 【FUWAMOCO】",
-                "thumbnail": "https://i.ytimg.com/vi/hVqGyY2jb24/hqdefault.jpg?v=6955c74a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBacXRAjsHXa--kMI7677ekmlpOPQ",
-                "description": "forgive us if we seem a bit under the weather, sick puppies on board ✨️\nlovely illustration by @kareidon26 💓\n\n🩵 FUWAMOCO 𝟮𝗻𝗱 𝗼𝗿𝗶𝗴𝗶𝗻𝗮𝗹 𝘀𝗼𝗻𝗴..."
-            }
-        ]
+        "videos": []
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -244,7 +237,14 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "PJPGhrmochc",
+                "title": "【あけおめ】新年のご挨拶！！！年越し大忙しでした！【ことよろ】",
+                "thumbnail": "https://i.ytimg.com/vi/PJPGhrmochc/hqdefault.jpg?v=69562964&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBp1VeALOcWQo-qP7Ns4TrREz4QUw",
+                "description": "筋肉痛になったよ～ん\n\n✣✣––––––––––––––✣––––––––..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -359,14 +359,7 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": [
-            {
-                "video_id": "zvV4k2hw5XI",
-                "title": "【新年最初は】2026年の目標と計画を立てよう！【ホロライブ/ときのそら】",
-                "thumbnail": "https://i.ytimg.com/vi/zvV4k2hw5XI/hqdefault.jpg?v=695614bf&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVo9nY5SVcksw2tFirKHNg7FG3lg",
-                "description": "まずは最初は計画からだよね！\nサムネは間に合わせ。待たれよ！！\n\n★★★★★★★★★★★★★★★★★★★★★★\n\n2026年1月10日(土) 東京国際..."
-            }
-        ]
+        "videos": []
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
