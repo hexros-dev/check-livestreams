@@ -71,7 +71,7 @@
                 "title": "≪A Gentlemen's Dispute≫ GOOD DAY TO YOU SIR! w/ HoloEN",
                 "date": "2026/01/02 20:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/WO-5ENHjvHI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBihscf1E9hM74gveWOqxz1GaKUoA",
-                "description": "Chaos! But make it polite and British. \n\nw/ @TakanashiKiara \n@NinomaeInanis\n@NerissaRavencroft \n@FUWAMOCOch \n@holoen_ceciliaimmergreen \n@holoen_erbloodflame \n\n#telebae  #hololiveenglish \n\n««≪..."
+                "description": "Chaos! But make it polite and British. \n\nw/ @TakanashiKiara \n@NinomaeInanis\n@NerissaRavencroft \n@FUWAMOCOch \n@holoen_erbloodflame \n\n#telebae  #hololiveenglish \n\n««≪ °◇◆◇° ≫ »»..."
             }
         ]
     },
@@ -111,7 +111,15 @@
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "iWLmuobqhXo",
+                "title": "【#新春3期生24時間配信】新春あけおめ！ホロライブ24時間ぶっ通し生配信！4枠目【ホロライブ/兎田ぺこら/不知火フレア/白銀ノエル/宝鐘マリン】",
+                "date": "2026/01/03 12:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/iWLmuobqhXo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdfiaPjKzAuZxrNrtFYu5eS8IzqQ",
+                "description": "🏴‍☠️マリン枠のタイムスケジュール🏴‍☠️\n\n⏰PM2：00～\n捨てられない女ノエルの年始から大掃除\n\n■ゲスト\n白銀ノエル\n@ShiroganeNoel \n\n⏰PM3:00..."
+            }
+        ]
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
@@ -133,7 +141,7 @@
             },
             {
                 "video_id": "lajxiOmRMUg",
-                "title": "【#DEV_IS正月リレー】歌うぞ～！！新衣装お披露目！！【一条莉々華/hololive DEV_IS　ReGLOSS】",
+                "title": "【#DEV_IS正月リレー】緊急凸待ち発生！！くじ引きもあるよ 新衣装お披露目！！【一条莉々華/hololive DEV_IS　ReGLOSS】",
                 "date": "2026/01/02 13:30:00",
                 "thumbnail": "https://i.ytimg.com/vi/lajxiOmRMUg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRD_6IpQwi2fvzpGOu71A_XYFwYQ",
                 "description": "莉々華の前：@MizumiyaSu \nhttps://www.youtube.com/live/Gx7zfWuY5Bo\n\n莉々華の後：@KoganeiNiko \nhttps://www.youtube.com/live/5TjD197ojPs\n\n\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈┈..."
@@ -164,15 +172,7 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": [
-            {
-                "video_id": "i3fhlegZ79U",
-                "title": "【#DEV_IS正月リレー】はじめまして、新衣装です【儒烏風亭らでん #ReGLOSS 】",
-                "date": "2026/01/02 12:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/i3fhlegZ79U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCy_cdZSVsJ7BuP86f1Y0NL6gstKQ",
-                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\nReGLOSSとFLOWGLOWで新衣装お披露目リレーです！..."
-            }
-        ]
+        "videos": []
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -339,10 +339,10 @@
         "videos": [
             {
                 "video_id": "_8u-fp3L7K0",
-                "title": "【 お披露目 / 歌 】ついにきた...!! お正月衣ー！！✨　#DEV_IS正月リレー【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+                "title": "【 お披露目 / 歌 】ついにきた...!! お正月衣装ー！！✨　#DEV_IS正月リレー【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
                 "date": "2026/01/02 14:30:00",
                 "thumbnail": "https://i.ytimg.com/vi/_8u-fp3L7K0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGnMtRDs2DnS7M-dJjIRtz9V1r-w",
-                "description": "次！▷ @IsakiRiona  https://www.youtube.com/live/HTHdI209UXU?si=YLNCau5T5ikyoJFn\n\n▽✨重大告知✨ ▽\n音乃瀬奏 1stオリジナル曲「GREATEST」\n4/20(日) 24：00（4/21  0：00）..."
+                "description": "前！▷ @KoganeiNiko  https://www.youtube.com/live/5TjD197ojPs?si=mFs6a0qMZntvIsDJ\n次！▷ @IsakiRiona  https://www.youtube.com/live/HTHdI209UXU?si=YLNCau5T5ikyoJFn\n\n▽✨重大告知✨..."
             }
         ]
     },
@@ -414,7 +414,15 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "HcG9FM5olo0",
+                "title": "【Getting Over It 】２０２６年金壺おじさんへの道　リスタート編【白上フブキ/ホロライブ】",
+                "date": "2026/01/02 14:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/HcG9FM5olo0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCuHWAci45MxZlkhWst1Bi-8UfElQ",
+                "description": "💜にゃんぐこーんグッズ発売中💙\n⁺‧┈┈┈┈┈┈┈┈┈┈┈┈‧⁺\n✦購入はコチラ¸✧･ﾟ•.\nフブキ▶https://shop.hololivepro.com/products/shirakamifubu..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -434,7 +442,15 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "UeVQ9egyr_I",
+                "title": "【#新春3期生24時間配信】あけおめことよろ！ホロライブ24時間ぶっ通し生配信！3枠目【白銀ノエル/兎田ぺこら/不知火フレア/宝鐘マリン/ホロライブ】",
+                "date": "2026/01/03 06:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/UeVQ9egyr_I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDI63RrrUYqb7YttYIQhQR9vZtpXA",
+                "description": "【1枠目】1/2(金)20:00~26:00 ‪@usadapekora \n【2枠目】1/3(土)02:00~08:00 ‪@ShiranuiFlare‬ \n🎍今ココ➡【3枠目】1/3(土)08:00~14:00 ‪@ShiroganeNoel‬ \n【4枠目】1/3(土)..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
