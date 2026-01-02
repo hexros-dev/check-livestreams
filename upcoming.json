@@ -79,7 +79,15 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Tghf7OzDHMg",
+                "title": "【桃鉄2】100年耐久🔥西日本VS最強CPU(さくま&エンマ)に圧勝しよう！～年目から！～ #こより100年桃鉄 【博衣こより/ホロライブ】",
+                "date": "2026/01/03 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Tghf7OzDHMg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvJ55Vyj08a6QvpRZkUrpsw4cIMg",
+                "description": "#こより100年桃鉄 でツイート🍑　正月といえば「すごろく」！新作桃鉄2遂に100年やるぞ～！\n西日本で、CPU2種類のほうが難易度高そうということ..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -586,15 +594,7 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": [
-            {
-                "video_id": "y8SKnGDaWCE",
-                "title": "【#新春3期生24時間配信】新春あけおめ！ホロライブ24時間ぶっ通し生配信！1枠目【ホロライブ/兎田ぺこら/不知火フレア/白銀ノエル/宝鐘マリン】",
-                "date": "2026/01/02 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/y8SKnGDaWCE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAP58CvDUsowMjW7r9TWjx03y_tCQ",
-                "description": "【1枠目】1/2(金)20:00~26:00 @usadapekora \n【2枠目】1/3(土)02:00~08:00 @ShiranuiFlare \n【3枠目】1/3(土)08:00~14:00 @ShiroganeNoel \n【4枠目】1/3(土)14:00~20:00 @HoushouMarine..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
