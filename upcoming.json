@@ -363,7 +363,15 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "x9l7CKQTq0A",
+                "title": "【Ouro Kronii】New Year New Me (Literally)",
+                "date": "2026/01/03 09:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/x9l7CKQTq0A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCiS6W4uKkAd033UbKht9WTaxA91w",
+                "description": "we are so happy u all decided to become furries with this merch 🥰\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/ourokronii_anniversary_4th\nEN: https://shop.holol..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
