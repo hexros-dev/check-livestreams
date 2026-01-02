@@ -231,14 +231,7 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": [
-            {
-                "video_id": "SZH_KecrODg",
-                "title": "＃1【魔法少女ノ魔女裁判】可愛い顔で嘘をついてるのは誰？※ネタバレあり【尾丸ポルカ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/SZH_KecrODg/hqdefault.jpg?v=6957b5dd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCttUN3v4gg9OKPb4O0HBq2GtLRmg",
-                "description": "「この中に、魔女になった少女がいる」\n\n高校１年生になるはずの朝、エマが目を覚ますと、そこは薄暗い檻の中。\n身に覚えもなく絶海の孤島に..."
-            }
-        ]
+        "videos": []
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
@@ -341,7 +334,14 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "GRyS9d3RMpg",
+                "title": "【members】2025 in review ✨lets reminisce!!!",
+                "thumbnail": "https://i.ytimg.com/vi/GRyS9d3RMpg/hqdefault.jpg?v=6957def1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCIiUf1DByURRDvp3gYhHfyoICC0w",
+                "description": "🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara\n\n 🏵️[Hashtags] 🏵️\n#kfp #キアライブ#hololiveenglish #holomyth #takanashikiara \nFANART #KFPicasso\n\n＝＝＝＝＝＝＝＝..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
