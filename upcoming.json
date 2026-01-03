@@ -399,15 +399,7 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": [
-            {
-                "video_id": "7zozSLtzqxo",
-                "title": "【Pokémon LEGENDS: Z-A】climbing the ranks!!! #kfp #キアライブ",
-                "date": "2026/01/03 22:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/7zozSLtzqxo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBG0mTc1cNZ3v_h8arfhob5xj8b5A",
-                "description": "CONCERT STREAMING TICKETS: https://drawn-to-dawn.hololivepro.com/ticket\nCONCERT WEBSITE: https://drawn-to-dawn.hololivepro.com/ \n\n🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara..."
-            }
-        ]
+        "videos": []
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
@@ -528,7 +520,15 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "HJilD4caE8I",
+                "title": "【利用規約に同意したい】チェックボックス忘れがちですが同意します。【風真いろは/ホロライブ】",
+                "date": "2026/01/04 12:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/HJilD4caE8I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB83S701NkxuXwxWQplKTmETm9Q2w",
+                "description": "配信タイトル：利用規約に同意したい\nストアページ：https://store.steampowered.com/app/3757210/_/\n\n*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――..."
+            }
+        ]
     },
     "@mikenekoko": {
         "channel_url": "https://www.youtube.com/@mikenekoko",
