@@ -293,7 +293,15 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "LgMT-Q1Yd6o",
+                "title": "【新年のご挨拶】あけましておめでとうございます🎍今年の目標決めようず【尾丸ポルカ/ホロライブ】",
+                "date": "2026/01/03 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/LgMT-Q1Yd6o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZAfDlKtpaHWEEWndg30IWlp7TTQ",
+                "description": "2026・・・・はじまったな！！！！！\n\nサムネ素材ありがとうございます！\nHEART KAEDE https://x.com/Heart_Kaede\n\n※尾丸ポルカへ頂いたスパチャは、基本的..."
+            }
+        ]
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
@@ -306,13 +314,6 @@
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
         "videos": [
-            {
-                "video_id": "NuJLSB3XD5w",
-                "title": "【#6】スーパーダンガンロンパ2 さよなら絶望学園 Anniversary Edition：Danganronpa 2: Goodbye Despairやるしゅば！【ホロライブ/大空スバル】",
-                "date": "2026/01/03 11:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/NuJLSB3XD5w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjuRIRYj_d_M6Y-ckVvIqwnS3ovA",
-                "description": "※本ゲームは、（株）スパイク・チュンソフトより、シナリオ全解禁を記念した先行解禁として特別な許諾を得た上で、配信・収益化を行なって..."
-            },
             {
                 "video_id": "m5QQybkk0yE",
                 "title": "【#7】スーパーダンガンロンパ2 さよなら絶望学園 Anniversary Edition：Danganronpa 2: Goodbye Despairやるしゅば！【ホロライブ/大空スバル】",
@@ -434,15 +435,7 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": [
-            {
-                "video_id": "wQdRomIAnbk",
-                "title": "【 クロノトリガー 】完全初見！このゲーム面白すぎて止まらない・・・。【鷹嶺ルイ/ホロライブ】※ネタバレあり",
-                "date": "2026/01/03 10:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/wQdRomIAnbk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAEPBgow3191ZLiLg4SVx-wDM6a0Q",
-                "description": "世界はどうなってしまうんだ・・・\n\n本動画のゲームプレイ映像は、株式会社スクウェア・エニックスの許諾を受けて使用しています。\nこのペー..."
-            }
-        ]
+        "videos": []
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
