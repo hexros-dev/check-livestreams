@@ -200,15 +200,7 @@
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
-        "videos": [
-            {
-                "video_id": "Mb8g-lE-T8s",
-                "title": "【AGREEEE】 YOU CAN'T MAKE ME 【Kureiji Ollie】",
-                "date": "2026/01/03 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Mb8g-lE-T8s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAiumPLOQ9TjsvP3lkUFYYZMRt8xA",
-                "description": "❥・・───༅༚˳ . ୨୧ . ˳༚༅༚─── ・・❥\n\n#OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n────୨｡ ₊°༺❤︎༻°₊ ｡ৎ────\n\nGame title:..."
-            }
-        ]
+        "videos": []
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
@@ -234,7 +226,15 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "9TN4GNJDhwU",
+                "title": "【 新年1発目 】あけおめ #まがまがーず 話題募集なのでコメント欄に書いて～【 桃鈴ねね / hololive 】",
+                "date": "2026/01/03 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/9TN4GNJDhwU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJybKOa55gRneIjy9yEAh5vYh3dw",
+                "description": "@YukihanaLamy ま～ずだっけ？まーずだっけ？？？？？？？ｗｗｗｗｗｗｗｗ\n⸜♡⸝MemberShipに入ったらもっとねねを知れるﾖ\nhttps://www.youtube.com/channel/U..."
+            }
+        ]
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
@@ -424,6 +424,13 @@
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
         "videos": [
             {
+                "video_id": "lE5m0bpzTTk",
+                "title": "【#ホロ正月】🎍おもてなし凸待ちホロ正月🎍オフコラボでワイワイホロライブ🎵【白上フブキ/大神ミオ/大空スバル/ホロライブ】",
+                "date": "2026/01/04 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/lE5m0bpzTTk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAInRuaVooKWuvZqhp13ncF1pfAqg",
+                "description": "大空スバル  @OozoraSubaru  大神ミオ @OokamiMio \n\n３人で新年早々遊びに来てくれたホロメン達ののんびり交流🎵\n\n事前に募集をかけておりますが、果た..."
+            },
+            {
                 "video_id": "lRWKse4vsQU",
                 "title": "【UNDERWARD 】下廃病院でカオスなモンスター回収！！！！【白上フブキ/ホロライブ】",
                 "date": "2026/01/03 19:00:00",
@@ -511,13 +518,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
         "videos": [
             {
-                "video_id": "pmWH-wAJYRE",
-                "title": "【 #常闇トワ6周年記念LIVE 】ROCK Festa !!!【 3DLIVE 】",
-                "date": "2026/01/03 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/pmWH-wAJYRE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBi6kl9RIKHJafvwS6_mrH5kKbklA",
-                "description": "2026.1.3　21:00~『シルベ』プレミア公開\n　TVアニメ『勇者パーティを追い出された器用貧乏』オープニングテーマ\n　https://www.youtube.com/watch?v=eUmwR0x55JU..."
-            },
-            {
                 "video_id": "t4-uLJnAbLQ",
                 "title": "【 #常闇トワ6周年記念LIVE 】ROCK Festa !!!【 3DLIVE/メンバー限定/MemberOnly 】",
                 "date": "2026/01/03 19:15:00",
@@ -586,7 +586,15 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "9STXm1VZRzA",
+                "title": "【RV THERE YET?】don't worry guys i have a drivers license",
+                "date": "2026/01/04 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/9STXm1VZRzA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARJuAI05baC-JICCduXsuV-t3hWA",
+                "description": "@holoen_ceciliaimmergreen  @ShioriNovella  @KosekiBijou \n\nGame Title: RV There Yet?\nStore Page: https://store.steampowered.com/app/3949040/RV_There_Yet/\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
