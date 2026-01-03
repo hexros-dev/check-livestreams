@@ -106,14 +106,7 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
-        "videos": [
-            {
-                "video_id": "AV6NVoRohJ4",
-                "title": "【お正月マイクラ】アドバイス大歓迎！初めてのソロエンドラ討伐！！2日目【一条莉々華/hololive DEV_IS　ReGLOSS】",
-                "thumbnail": "https://i.ytimg.com/vi/AV6NVoRohJ4/hqdefault.jpg?v=6957e665&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLOoOrdzZ0HNMFmBa0zrJ2FPDD8w",
-                "description": "初めてのネザー探索だ！！！！\nマイクラ知識ほぼゼロでも大丈夫なのか…！？\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.moja..."
-            }
-        ]
+        "videos": []
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -156,7 +149,14 @@
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
         "channel_name": "Kobo Kanaeru Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "fFgFW7GMc_E",
+                "title": "【Fears to Fathom - Carson House】EPISODE 3 !!!!!",
+                "thumbnail": "https://i.ytimg.com/vi/fFgFW7GMc_E/hqdefault.jpg?v=6958e25d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBx7W21Ggb64cSEIct_x0f8F08IsA",
+                "description": "Bokobokobo- Kobo Kanaeru at your service! Let me be your sun to shine your day, ehe~ ;D ☔☔☔\n#OnAeru #Kobo_Kanaeru #holoID #holoID03\n\nGame title: Fears to Fathom - Carson House\nStore page:http..."
+            }
+        ]
     },
     "@KoganeiNiko": {
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
@@ -421,20 +421,20 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch. 常闇トワ",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": [
-            {
-                "video_id": "t4-uLJnAbLQ",
-                "title": "【 #常闇トワ6周年記念LIVE 】ROCK Festa !!!【 3DLIVE/メンバー限定/MemberOnly 】",
-                "thumbnail": "https://i.ytimg.com/vi/t4-uLJnAbLQ/hqdefault.jpg?v=6957a0e3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAa-2PEDxyi9xXX_ZDXqJeXY03-Q",
-                "description": "🧸常闇トワ6周年記念グッズ購入はこちらから\n　https://shop.hololivepro.com/products/tokoyamitowa_anniversary_6th\n　発売期間：2026年1月3日(土) 21時05分 ～ 2026年2..."
-            }
-        ]
+        "videos": []
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ZdT5s72JO7g",
+                "title": "【利用規約に同意したい】お試しで同意していく角巻わため🐏【角巻わため/ホロライブ４期生】",
+                "thumbnail": "https://i.ytimg.com/vi/ZdT5s72JO7g/hqdefault.jpg?v=6957bfe1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDIFPjvEDW2KgqBJAaKLCw831R2xw",
+                "description": "タグ：#ドドドライブ\n\n配信タイトル：利用規約に同意したい\nストアページ：https://store.steampowered.com/app/3757210/_/\n\n🐏角巻わため 活動6周年記念グッ..."
+            }
+        ]
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
