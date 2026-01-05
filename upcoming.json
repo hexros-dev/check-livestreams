@@ -306,15 +306,7 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": [
-            {
-                "video_id": "bEy6uanGG2I",
-                "title": "【#サロスバ】サロスバ2026年新年あいさつ凸待ち【ホロライブ/大空スバル】",
-                "date": "2026/01/05 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/bEy6uanGG2I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCX6tS_BfYve9ix_EuqjJ9eA7VDiQ",
-                "description": "サロメちゃん…@HyakumantenbaraSalome \n\n🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users..."
-            }
-        ]
+        "videos": []
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -420,15 +412,7 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": [
-            {
-                "video_id": "kKnvb4QBwFY",
-                "title": "【 ラジコン対談 】鷹嶺ルイ＆ラジコンルイで初対談コラボです。【 #ねこたか /ホロライブ】",
-                "date": "2026/01/05 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/kKnvb4QBwFY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSGRV8adUeQi0Bi6g7CZ66Xavqpw",
-                "description": "まさかのラジコンルイと対談！？どうなってしまうのか！！？\nマシュマロで対談テーマ募集中♪\nhttps://marshmallow-qa.com/takanelui?t=GAGntZ&utm_medium=url_text&..."
-            }
-        ]
+        "videos": []
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
@@ -474,7 +458,15 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "LR0cdPl7BmA",
+                "title": "【Dispatch】I'm pressing the undo button",
+                "date": "2026/01/05 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/LR0cdPl7BmA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1U8gHFXoB0wngneWu-KXwabkXuA",
+                "description": "#vestiazeta #hololive #vtuber #gaming #dispatch #holoid #hololiveindonesia \n\n\nGame Title: Dispatch\nStore Page : https://store.steampowered.com/app/2592160/Dispatch/\n\n-----\nVestia Zeta's  2nd..."
+            }
+        ]
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
@@ -516,7 +508,15 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Q7Y9C3LhUfU",
+                "title": "【MONSTER HUNTER WILDS】COLLABORATION OUTFIT AND HUNTS WITH @holoen_raorapanthera",
+                "date": "2026/01/06 01:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Q7Y9C3LhUfU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6UNSCMOlnbxTFIjAVYRH1OUL4Lw",
+                "description": "This video and livestream are being streamed with permission and under license by CAPCOM CO., LTD.\nMonster Hunter Wilds\n©CAPCOM\n#MHWilds\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐  ⸜(｡˃..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
@@ -561,6 +561,13 @@
                 "date": "2026/01/05 19:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/07ndF1p8o30/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDj-6Z0YW4Ft5GWfESh4MbtKyXfhQ",
                 "description": "いくぞおおおおおおおおおおおおおおおおおおおおお！！！\n\nサムネイラスト：憂姫はぐれ(@yuukihagure)マッマ\n\n⋈ －－－－－－－－－－－－－－－..."
+            },
+            {
+                "video_id": "jkLFpWJ1xOA",
+                "title": "【FGO】新春福袋引くぞおおおおおおおおおおおおお！！！ぺこ！【ホロライブ/兎田ぺこら】",
+                "date": "2026/01/05 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/jkLFpWJ1xOA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsixvF0qUTXr-jFF7NFeLMo-8YlA",
+                "description": "サムネイラスト：()さん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ #ぺこらいぶ..."
             }
         ]
     },
