@@ -199,7 +199,22 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "9kKfDvJK6xE",
+                "title": "【My Little Puppy】what the dog doin #calliolive",
+                "date": "2026/01/06 07:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/9kKfDvJK6xE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNNJNzpy9-X2TtRjeHWmwCj6Yw0A",
+                "description": "DISASTERPIECE New Album ON Sale!\nPre-Order:https://lnk.to/mc_dp_ec\n\n直筆サイン入り通常盤 / SIGNED BONUS EDITION (ONLY A FEW DAYS LEFT!)\n https://lnk.to/moricalliope_shop\n\nLINE Stickers:..."
+            },
+            {
+                "video_id": "QUgskriSfPU",
+                "title": "【member's only】having a snack and a glass of red!!  #calliolive",
+                "date": "2026/01/05 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/QUgskriSfPU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCR76bQel1_1mWRDQf8VGjqg8Rjww",
+                "description": "DISASTERPIECE New Album ON Sale!\nPre-Order:https://lnk.to/mc_dp_ec\n\n直筆サイン入り通常盤 / SIGNED BONUS EDITION (ONLY A FEW DAYS LEFT!)\n https://lnk.to/moricalliope_shop\n\nLINE Stickers:..."
+            }
+        ]
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -263,15 +278,7 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": [
-            {
-                "video_id": "yLlabMZOJQU",
-                "title": "【歌枠/KARAOKE】2026年最初のまったり歌＆おしゃべり枠わくわく【尾丸ポルカ/ホロライブ】",
-                "date": "2026/01/05 11:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/yLlabMZOJQU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBl-f78bMr1qQoKuSSAbtulAQSK6w",
-                "description": "サムネイルありがとうございます！\nhttps://x.com/koinu_no_edowan\n\nテンプレートありがとうございます！\nhttps://x.com/B_A_9_X\n\n※尾丸ポルカへ頂いたスパチャ..."
-            }
-        ]
+        "videos": []
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",

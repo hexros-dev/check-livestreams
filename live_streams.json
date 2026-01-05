@@ -57,14 +57,7 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": [
-            {
-                "video_id": "tIVp-NRUtG0",
-                "title": "≪SHADOWVERSE: WORLDS BEYOND≫ Oh Sweet Rival w/ @holoen_gigimurin #sponsored",
-                "thumbnail": "https://i.ytimg.com/vi/tIVp-NRUtG0/hqdefault.jpg?v=695a60c1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAB3Sl0nDsfT4INZL79PpRNBVfRLA",
-                "description": "This stream is sponsored by Cygames.\nCheck out Shadowverse: Worlds Beyond here: https://shadowverse-wb.com/en/\n\n#telebae  #hololiveenglish #shadowverse \n««≪ °◇◆◇° ≫ »»\n\n≪..."
-            }
-        ]
+        "videos": []
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -252,7 +245,14 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "yLlabMZOJQU",
+                "title": "【歌枠/KARAOKE】2026年最初のまったり歌＆おしゃべり枠わくわく【尾丸ポルカ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/yLlabMZOJQU/hqdefault.jpg?v=695b2d5a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBl-f78bMr1qQoKuSSAbtulAQSK6w",
+                "description": "サムネイルありがとうございます！\nhttps://x.com/koinu_no_edowan\n\nテンプレートありがとうございます！\nhttps://x.com/B_A_9_X\n\n※尾丸ポルカへ頂いたスパチャ..."
+            }
+        ]
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
