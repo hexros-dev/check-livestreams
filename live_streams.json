@@ -63,7 +63,14 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "e3zgCI0F4fc",
+                "title": "【 #朝こよ 】早朝逆凸アリ⁉2026年最初の！火曜日の朝も朝こよ～！☀ #266 【博衣こより/hololive】",
+                "thumbnail": "https://i.ytimg.com/vi/e3zgCI0F4fc/hqdefault.jpg?v=695be590&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNxvWkhWL74x3os-mdvjTwDfsZSQ",
+                "description": "新年一発目、ニュースがめちゃめちゃ少ないので逆凸していい人募集してみてます！\n💗もふこよ＆こより達のLINE絵文字新登場！💗\nhttps://store.line..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -231,14 +238,7 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": [
-            {
-                "video_id": "qHlQQc6EhI0",
-                "title": "朝こよ難民",
-                "thumbnail": "https://i.ytimg.com/vi/qHlQQc6EhI0/hqdefault.jpg?v=695c36ed&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAC_xl3BRYisxTrPwFMqDPCdtJwyw",
-                "description": "@HakuiKoyori \nhttps://www.youtube.com/watch?v=e3zgCI0F4fc\n\n＝＝＝＝＝⚡⚡NEWS⚡⚡＝＝＝＝＝＝＝＝\n\n🌟配信中のオリジナル曲\n\n🎪「サイキョウチックポルカ」..."
-            }
-        ]
+        "videos": []
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
