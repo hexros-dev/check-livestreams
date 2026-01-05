@@ -142,15 +142,7 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": [
-            {
-                "video_id": "_5OUB_tkKDY",
-                "title": "【MIMESIS 】初めてのミメシス！！AIを見抜けるのか！？！？【ホロライブ DEV_IS 響咲リオナ】",
-                "date": "2026/01/05 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/_5OUB_tkKDY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDeFwmsjctjGfG0a0KS-zgc1e0gtA",
-                "description": "一緒にあそぶめんば❤\n@RindoChihaya @MizumiyaSu \n================\n配信タイトル：ミメシス\nストアページ：https://store.steampowered.com/app/2827200/_/\n \n∴∵∴ ୨୧..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -353,7 +345,15 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "8Lqpx5n8zoQ",
+                "title": "【MIMESIS】同期の絆でAIなんてすぐ気づけるよね？！？！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "date": "2026/01/05 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/8Lqpx5n8zoQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBE3Ej-N8QoIgIWzrr2ljLV2zeqHA",
+                "description": "さすがにわかりますよ～～～～～～2年目になるんですよ？？？\n\n@MizumiyaSu \n@IsakiRiona \n\n\n\nFLOWGLOW 1st Album『FLOW GLOW』\n2026.1.21 リリース\n🔽予約はこちら..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
