@@ -269,7 +269,15 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Ja8szdDQ3vU",
+                "title": "【ワンス・アポン・ア・塊魂】転がして転がして、星になれ【 ネタバレあり 】",
+                "date": "2026/01/06 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Ja8szdDQ3vU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFq0r6MURVu_b7Hje9WgWSDmaMAg",
+                "description": "いっぱい固めるぞ～～～～～～～🌎\n\nサムネillustrator：tomatoさん https://x.com/kikikiko84\n\nこのゲーム実況は「バンダイナムコエンターテインメント..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -415,15 +423,7 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch.Tokoyami Towa",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": [
-            {
-                "video_id": "OeiilPJBfUk",
-                "title": "【 利用規約に同意したい 】同意すｒ【常闇トワ/ホロライブ】",
-                "date": "2026/01/06 15:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/OeiilPJBfUk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8aAz0_S1EcnIxsnNixLQmmF2nAw",
-                "description": "配信タイトル：利用規約に同意したい\nストアページ：https://store.steampowered.com/app/3757210/_/\n\n✼••┈┈┈┈┈┈┈┈┈┈┈┈••✼\n\n　📣お知らせ/..."
-            }
-        ]
+        "videos": []
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
