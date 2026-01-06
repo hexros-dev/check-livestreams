@@ -474,7 +474,15 @@
         "channel_url": "https://www.youtube.com/@dooby3d",
         "channel_name": "dooby",
         "avatar_url": "https://yt3.googleusercontent.com/sOGyZgV9pPHQJCEvNe28NCOFC1y0KggsxUjrP5ecMAgBmdNT8p6ZNM24d_9SVgWFhBh0lKBL5Q",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "8QqSEOZg9dk",
+                "title": "KIPPU vs VEGETA vs SHREK",
+                "date": "2026/01/07 09:05:00",
+                "thumbnail": "https://i.ytimg.com/vi/8QqSEOZg9dk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBL1kamxo7NsuoI3UkvhwzsoEEuow",
+                "description": "🤼\nhttps://store.steampowered.com/app/1468720/Ultimate_Epic_Battle_Simulator_2/"
+            }
+        ]
     },
     "@holoen_ceciliaimmergreen": {
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
