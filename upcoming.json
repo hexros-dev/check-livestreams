@@ -77,15 +77,7 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": [
-            {
-                "video_id": "k5HtCmP634Y",
-                "title": "【 Cuphead 】初見プレイで高難易度ゲームカップヘッドに挑戦してみるのら！！！【姫森ルーナ/ホロライブ】",
-                "date": "2026/01/06 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/k5HtCmP634Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmBBhNd3twi_pRLoFT6CAcCg1Kcg",
-                "description": "💓ルーナ姫の公式LINEスタンプ第2弾が2026年1月4日より販売開始💓\nhttps://line.me/S/sticker/32401762\n\n本ゲームは© 2020 StudioMDHR Entertainment Inc.に確認を得た..."
-            }
-        ]
+        "videos": []
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -299,15 +291,7 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": [
-            {
-                "video_id": "o-Z6EKxCYNg",
-                "title": "【グランツーリスモ７】#V1GP 個人練すっぞ～～～～！！！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "date": "2026/01/06 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/o-Z6EKxCYNg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCU-FsqBCeOp_nRCZ8ID0N1aqwVrg",
-                "description": "このあと22時からチーム練もありそう～～！\n\nTEAM BLUEのみなさま\n\nコーチ\n宮園拓真 \nhttps://x.com/TakumaMiyazono\n\nチームメンバー\n天硝路ろまん @RomanTenshoji..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -316,7 +300,7 @@
         "videos": [
             {
                 "video_id": "Z-xLePWSxAk",
-                "title": "【ミメシス】珍メンバーで…騙しあいがはじまろうとしている【ホロライブ/ ロボ子さん 】",
+                "title": "【ミメシス】珍メンバーで…疑心暗鬼？？【ホロライブ/ ロボ子さん 】",
                 "date": "2026/01/07 19:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/Z-xLePWSxAk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmZNB_LkvWhUEYGq0NSLddOE74Rg",
                 "description": "＃ホロライブ 　\nｘでは💬　 #ロボ子生放送　でポストしてってね\n\n@YukokuRoberu \n@ren_kisaragi__ \n@Mitsuba_Eni \n\n配信タイトル：ミメシス\nストアページ：http..."
@@ -383,7 +367,15 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "EQIS6hkX6EY",
+                "title": "【YAPPING】just normal chitchatting with @holoen_gigimurin #kfp #キアライブ",
+                "date": "2026/01/07 04:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/EQIS6hkX6EY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdqP8TlI0SOcpci8w5pvvySdXbtg",
+                "description": "CONCERT STREAMING TICKETS: https://drawn-to-dawn.hololivepro.com/ticket\nCONCERT WEBSITE: https://drawn-to-dawn.hololivepro.com/ \n\n🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
@@ -507,7 +499,15 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "bVb863e3tIg",
+                "title": "【21時か22時】頬を伝う涙の理由をもっと 知りたいんだ【ホロライブ/兎田ぺこら】",
+                "date": "2026/01/06 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/bVb863e3tIg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCrifdiflH8YyRItiOnu6ofjAV9OQ",
+                "description": "サムネイラスト：()さん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ #ぺこらいぶ..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
