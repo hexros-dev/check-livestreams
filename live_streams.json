@@ -282,7 +282,14 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "np_n7kWa24g",
+                "title": "#5【Danganronpa 2: Goodbye Despair】can people stop dying idk man (spoilers)【Pavolia Reine/hololiveID】",
+                "thumbnail": "https://i.ytimg.com/vi/np_n7kWa24g/hqdefault.jpg?v=695d1d20&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAr9NGAzY6cBtmqfrkOpUEqRS46Bw",
+                "description": "REINE'S 5th ANNIVERSARY MERCH: \n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/pavoliareine_anniversary_5th \nEN: https://shop.hololivepro.com/en/products/pavoliarein..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -374,14 +381,7 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": [
-            {
-                "video_id": "HSaTA96xLHY",
-                "title": "＃3【バイオハザード HDリマスター】完全初見で挑む初代バイオの世界【轟はじめ/ReGLOSS】",
-                "thumbnail": "https://i.ytimg.com/vi/HSaTA96xLHY/hqdefault.jpg?v=695b5523&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDy4vr2oBQPcdlhVSBG1xUAQUbvDQ",
-                "description": "自分....やれんのか....？？\n\nこの動画およびライブは\n株式会社カプコンの利用許諾を受けて配信しています\nバイオハザード HDリマスター\n©CAPCOM..."
-            }
-        ]
+        "videos": []
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
