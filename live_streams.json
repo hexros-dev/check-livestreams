@@ -239,7 +239,14 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "F6hxTHfADTU",
+                "title": "【Work With Inya】She Indeed Did Not Finish Her Homework....",
+                "thumbnail": "https://i.ytimg.com/vi/F6hxTHfADTU/hqdefault.jpg?v=695d0c38&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxBhHpBKnERUdVxEBEpc3vuBSd6g",
+                "description": "【Thumbnail Art】\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\nGame title：gogh: Focus with Your Avatar\nStore page：https://store.steampowered.com/app/3213850/gogh_Focus_with_Your_Avatar/..."
+            }
+        ]
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -387,7 +394,14 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ZD_O92-X0Ds",
+                "title": "【そらぱに向けて】そらちが考えるライブマナー講座！【ホロライブ/ときのそら】",
+                "thumbnail": "https://i.ytimg.com/vi/ZD_O92-X0Ds/hqdefault.jpg?v=695d0b57&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDX1CspQhVMzm0cdq6-GtkHMPVTtw",
+                "description": "★★★★★★★★★★★★★★★★★★★★★★\n\n2026年1月10日(土) 東京国際フォーラムホールAにて\nときのそら史上最大規模ワンマンライブ開催決..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
@@ -497,13 +511,6 @@
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": [
-            {
-                "video_id": "wyFfpBBbb2I",
-                "title": "【MIMESIS】これが噂のミメシス女子会ですか･･･！？！？　#結城さくな生放送",
-                "thumbnail": "https://i.ytimg.com/vi/wyFfpBBbb2I/hqdefault.jpg?v=695c46e6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAM0mhg76-ORhnZuIRaNG93fIhHhA",
-                "description": "@KaguraMea @MakainoRirimu @YanoKuromu \n\n🎀グッズ・ボイス販売はこちら🐾\nhttps://yuki-sakuna.stores.jp/\n\n🎀歌ってみた動画🐾\nhttps://youtube.com/playlist?list=PLErsMirGq93v..."
-            }
-        ]
+        "videos": []
     }
 }
