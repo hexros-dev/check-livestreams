@@ -183,7 +183,14 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "3frenCj870E",
+                "title": "【Sekiro: Shadows Die Twice】parry GOD, I will become #calliolive",
+                "thumbnail": "https://i.ytimg.com/vi/3frenCj870E/hqdefault.jpg?v=695e4128&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCOtii8gr2c0xc05I16vlXoCUiqhA",
+                "description": "DISASTERPIECE New Album ON Sale!\nPre-Order:https://lnk.to/mc_dp_ec\n\n直筆サイン入り通常盤 / SIGNED BONUS EDITION (ONLY A FEW DAYS LEFT!)\n https://lnk.to/moricalliope_shop\n\nBGM: https://x.c..."
+            }
+        ]
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -334,14 +341,7 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": [
-            {
-                "video_id": "Y1mKlzO0g-8",
-                "title": "【MEGABONK】I'M GOING BONKERS #kfp #キアライブ",
-                "thumbnail": "https://i.ytimg.com/vi/Y1mKlzO0g-8/hqdefault.jpg?v=695da0e9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAl3UgFpaY4cItnT0f3UFOaWmOMFw",
-                "description": "CONCERT STREAMING TICKETS: https://drawn-to-dawn.hololivepro.com/ticket\nCONCERT WEBSITE: https://drawn-to-dawn.hololivepro.com/ \n\n🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara..."
-            }
-        ]
+        "videos": []
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
