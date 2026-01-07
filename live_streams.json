@@ -70,14 +70,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "DXuuwG4qIkg",
-                "title": "【モンスト】新春運試し！リンネ何連で引けるかおみくじ！！！！！✊🔥【博衣こより/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/DXuuwG4qIkg/hqdefault.jpg?v=695ddf91&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDvzxGUkb8Fihz1m1yOeBQ2jPtVtg",
-                "description": "リンネめっちゃ強いらしい！！！！！～30連大吉、～60連吉、～90連中吉、～120連小吉、～150連凶、150連～大凶って感じかなぁ？みんなの意見も聞..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -102,14 +95,7 @@
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
         "channel_name": "Suisei Channel",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
-        "videos": [
-            {
-                "video_id": "2qIh_LaYQMY",
-                "title": "お年玉ルーレット凸待ち🎍【ホロライブ / 星街すいせい】",
-                "thumbnail": "https://i.ytimg.com/vi/2qIh_LaYQMY/hqdefault.jpg?v=695e0c19&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5crGVB4nk2mgkVz-PfN0ZFof-ag",
-                "description": "⇩星街すいせい たらららグッズ　販売開始！⇩\nhttps://shop.hololivepro.com/products/hoshimachisuisei_talalalamerch\n\n\n☄️Hoshimachi Suisei Live “SuperNova: REBOOT”☄️..."
-            }
-        ]
+        "videos": []
     },
     "@HoushouMarine": {
         "channel_url": "https://www.youtube.com/@HoushouMarine",
@@ -145,7 +131,14 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "qwocJH3uUZs",
+                "title": "【鳥魂2】ReGLOSSでバチバチ診断ゲーム！！一番のチキンは誰だ！？【一条莉々華/儒烏風亭らでん/音乃瀬奏/轟はじめ 】",
+                "thumbnail": "https://i.ytimg.com/vi/qwocJH3uUZs/hqdefault.jpg?v=695dcf76&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkt_RrwaHzPPxsE7TEgjqSnQKoGg",
+                "description": "本ゲームは株式会社ジー・モードの確認を得た上で配信・収益化を行なっております。\nタイトル：鳥魂2 ～みんなでチキン度診断～\nプラットフォ..."
+            }
+        ]
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -230,7 +223,14 @@
         "channel_url": "https://www.youtube.com/@NakiriAyame",
         "channel_name": "Nakiri Ayame Ch. 百鬼あやめ",
         "avatar_url": "https://yt3.googleusercontent.com/3CeLWGYb6cLUywTJzNt-UpITviNxeGNvtjhIqbV-AIybCqCoFw9onWtg91bjwpqvfEP9mfqIR4Q",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "F1DVOOBHaBI",
+                "title": "【謹賀新年】謹賀新年っていつまで使えますか？【百鬼あやめ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/F1DVOOBHaBI/hqdefault.jpg?v=695e28a3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAr4GXR00hYya9emTWa985QRrEJXQ",
+                "description": "- - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - -ഒ˖°\n\n             \n　　🎅ホロライブ クリスマスボイス2025 ～ミラクル..."
+            }
+        ]
     },
     "@NanashiMumei": {
         "channel_url": "https://www.youtube.com/@NanashiMumei",
@@ -266,7 +266,14 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "95AR2NOyU7M",
+                "title": "＃4【魔法少女ノ魔女裁判】壊れていく少女たち。※ネタバレあり【尾丸ポルカ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/95AR2NOyU7M/hqdefault.jpg?v=695db603&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmFIrQsST8UXsNElEjLzT-AM3-Vw",
+                "description": "「この中に、魔女になった少女がいる」\n\n高校１年生になるはずの朝、エマが目を覚ますと、そこは薄暗い檻の中。\n身に覚えもなく絶海の孤島に..."
+            }
+        ]
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
@@ -308,7 +315,14 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Z-xLePWSxAk",
+                "title": "【ミメシス】珍メンバーで…疑心暗鬼？？【ホロライブ/ ロボ子さん 】",
+                "thumbnail": "https://i.ytimg.com/vi/Z-xLePWSxAk/hqdefault.jpg?v=695caa4c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmZNB_LkvWhUEYGq0NSLddOE74Rg",
+                "description": "＃ホロライブ 　＃ミメシス\nｘでは💬　 #ロボ子生放送　でポストしてってね\n\n@YukokuRoberu \n@ren_kisaragi__ \n@Mitsuba_Eni \n\n配信タイトル：ミメシス\nストア..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -459,14 +473,7 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
-        "videos": [
-            {
-                "video_id": "D_p6rArbp6Y",
-                "title": "【おしゃべりキング】コミュ力”あり”❣なところを見せたいと思います【風真いろは/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/D_p6rArbp6Y/hqdefault.jpg?v=695daabb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0OzUv44CcEzho1WDzoBi6FZu5kw",
-                "description": "コミュ力のかたまりでしかない。\n\nサムネイラスト：https://x.com/nut_megu/status/2002304982842843481?s=20\n\n配信タイトル：おしゃべりキング！コミュ力診断ゲ..."
-            }
-        ]
+        "videos": []
     },
     "@mikenekoko": {
         "channel_url": "https://www.youtube.com/@mikenekoko",
