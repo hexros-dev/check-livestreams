@@ -57,21 +57,28 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "flfKicFEA0U",
+                "title": "≪ASMR TYPING STREAM≫ I am become TTS",
+                "date": "2026/01/08 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/flfKicFEA0U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBmxss5hoA5fFIXr7cARCruCxv-w",
+                "description": "Erm.... this has become my norm.\n\n#telebae  #hololiveenglish \n\n««≪ °◇◆◇° ≫ »»\n\n≪ NEW ORIGINAL「狂宴-FEAST-」 ≫\nhttps://www.youtube.com/watch?v=j4-E6tEpyiU\nhttps://cover.lnk...."
+            },
+            {
+                "video_id": "uWg-R02c4mM",
+                "title": "≪OFFICIAL WATCHALONG≫ DID SOMEONE SAY PHONE GAME?! w/ @KaelaKovalskia  #ホロライブドリームス情報解禁",
+                "date": "2026/01/08 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/uWg-R02c4mM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTgrZVuzPisYDHETXxodaPI2X_dg",
+                "description": "WHAT IS HOLOLIVE DREAMS?!?!?!\n\nKaela and I will be hosting a watchalong of the official stream!! \nLETS FIND OUT TOGETHER!\n\n#telebae  #hololiveenglish \n\n««≪ °◇◆◇° ≫ »»\n\n≪ NEW..."
+            }
+        ]
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "HMGrJI2CWG4",
-                "title": "【Membership Only】新春！新年一発目のメン限雑談🎍ナイショのお喋り、しよっ？【博衣こより/ホロライブ】",
-                "date": "2026/01/07 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/HMGrJI2CWG4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-NLK3L_XMWR6CrdRIKFbpe9j4lA",
-                "description": "新年一発目のメン限だよ～～～～～🎍2026年、メンバーになって楽しんじゃおう❣　※開始直前にメンバー限定に切り替えます\n【大切なお約束！..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -119,15 +126,7 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": [
-            {
-                "video_id": "cqttb9g8Vaw",
-                "title": "【Party Animals 】FG全員集合！新年会で大暴れじゃ～！！【ホロライブ DEV_IS FLOW GLOW】",
-                "date": "2026/01/07 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/cqttb9g8Vaw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDeSd4XNpCI-NwkFKcfAPjv9Hff2w",
-                "description": "改めまして、明けましておめでとうございます！\n今年も何卒FLOW GLOWをよろしくお願いいたします✨\n\n愉快なFGメンバーたち❤↓\n皆の頼れる優しい..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -151,15 +150,7 @@
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
         "channel_name": "Kobo Kanaeru Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B",
-        "videos": [
-            {
-                "video_id": "XK6hqp4VAXc",
-                "title": "【Fears to Fathom - Ironbark Lookout】EPISODE 4 PATROLI MALAM-MALAM DI HUTAN ?!",
-                "date": "2026/01/07 20:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/XK6hqp4VAXc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkzrUQoNkTDQr5_o6TNcelJPUNYQ",
-                "description": "Bokobokobo- Kobo Kanaeru at your service! Let me be your sun to shine your day, ehe~ ;D ☔☔☔\n#OnAeru #Kobo_Kanaeru #holoID #holoID03\n\nGame title: Fears to Fathom - Ironbark Lookout\nStore..."
-            }
-        ]
+        "videos": []
     },
     "@KoganeiNiko": {
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
@@ -222,13 +213,6 @@
                 "date": "2026/01/08 06:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/3frenCj870E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCOtii8gr2c0xc05I16vlXoCUiqhA",
                 "description": "DISASTERPIECE New Album ON Sale!\nPre-Order:https://lnk.to/mc_dp_ec\n\n直筆サイン入り通常盤 / SIGNED BONUS EDITION (ONLY A FEW DAYS LEFT!)\n https://lnk.to/moricalliope_shop\n\nBGM: https://x.c..."
-            },
-            {
-                "video_id": "vhM9YJDhkuQ",
-                "title": "【UNARCHIVED KARAOKE】singing until 2.6 million subscribers, probably #calliolive",
-                "date": "2026/01/07 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/vhM9YJDhkuQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBD12AmvwbJsTJP_LTMvdJK1nSGsg",
-                "description": "DISASTERPIECE New Album ON Sale!\nPre-Order:https://lnk.to/mc_dp_ec\n\n直筆サイン入り通常盤 / SIGNED BONUS EDITION (ONLY A FEW DAYS LEFT!)\n https://lnk.to/moricalliope_shop\n\nLINE Stickers:..."
             }
         ]
     },
@@ -348,15 +332,7 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": [
-            {
-                "video_id": "LHV5Jyqw7KI",
-                "title": "真・最終回【 Jump King 】絶対に新年クリアするJump King挑戦！！！！！！！！！！！完【ホロライブ/さくらみこ】",
-                "date": "2026/01/07 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/LHV5Jyqw7KI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdB4NnIMagoF7t8SzRZFk7tQbb7Q",
-                "description": "今日こそは\n\n🎀さくらみこ新衣装記念グッズ発売🎉\nhttps://shop.hololivepro.com/products/sakuramiko_roomwearoutfitcelebration\n🎀グッズ販売期間（受注販売）..."
-            }
-        ]
+        "videos": []
     },
     "@SamekoSaba": {
         "channel_url": "https://www.youtube.com/@SamekoSaba",
@@ -394,15 +370,7 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": [
-            {
-                "video_id": "f4LflEcxedw",
-                "title": "#07【DARK SOULS Ⅱ】今年最初のダクソ2！脳筋女騎士の戦い【白銀ノエル/ホロライブ】",
-                "date": "2026/01/07 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/f4LflEcxedw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCi7DdIFCjmRZXHCK89cHSwqpbNpA",
-                "description": "深夜にまったりダクソ2だ～！！(なお絵面はちょい陰鬱太郎♡)\nhttps://www.youtube.com/playlist?list=PLsAgfBTGY4i2qNQNUio1f4Fdk9-sUQNNX\n\n💚新曲「VAVAVA！バーチャル..."
-            }
-        ]
+        "videos": []
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -446,29 +414,13 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch.Tokoyami Towa",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": [
-            {
-                "video_id": "_f-JcpIMr1s",
-                "title": "【メンバー限定/Memberonly】久しぶりのええすえむある。だらりだらり。【常闇トワ/ホロライブ】",
-                "date": "2026/01/07 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/_f-JcpIMr1s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAi2e5Ans-czdj83QBwzDq89oQ4eQ",
-                "description": "✼••┈┈┈┈┈┈┈┈┈┈┈┈••✼\n\n　📣お知らせ/ Notice\n\n　🆕『 シルベ 』official\n　📺動画\n　https://youtu.be/eUmwR0x55JU?si=GKqeX-wbDLwRERvY\n\n　💿️..."
-            }
-        ]
+        "videos": []
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": [
-            {
-                "video_id": "D7Av0uk7Utw",
-                "title": "【メンバー限定配信】開設5年10ヶ月目！「ダイ・ハード／ラスト・デイ / A Good Day to Die Hard」同時視聴！【角巻わため/ホロライブ４期生】",
-                "date": "2026/01/07 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/D7Av0uk7Utw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCe26CIV-GEZxM2HVcMGG3VcMU_XQ",
-                "description": "毎月８日はMember sheepの記念日です🐏💛\n（８日コラボ予定なので、今月は７日にさせていただきました）\n※配信前にメン限に切り替えるね！..."
-            }
-        ]
+        "videos": []
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
