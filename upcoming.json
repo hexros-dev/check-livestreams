@@ -112,15 +112,7 @@
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
         "channel_name": "Suisei Channel",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
-        "videos": [
-            {
-                "video_id": "2qIh_LaYQMY",
-                "title": "お年玉ルーレット凸待ち🎍【ホロライブ / 星街すいせい】",
-                "date": "2026/01/07 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/2qIh_LaYQMY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5crGVB4nk2mgkVz-PfN0ZFof-ag",
-                "description": "⇩星街すいせい たらららグッズ　販売開始！⇩\nhttps://shop.hololivepro.com/products/hoshimachisuisei_talalalamerch\n\n\n☄️Hoshimachi Suisei Live “SuperNova: REBOOT”☄️..."
-            }
-        ]
+        "videos": []
     },
     "@HoushouMarine": {
         "channel_url": "https://www.youtube.com/@HoushouMarine",
@@ -478,7 +470,15 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch.Tokoyami Towa",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "_f-JcpIMr1s",
+                "title": "【メンバー限定/Memberonly】久しぶりのええすえむある。だらりだらり。【常闇トワ/ホロライブ】",
+                "date": "2026/01/07 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/_f-JcpIMr1s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAi2e5Ans-czdj83QBwzDq89oQ4eQ",
+                "description": "✼••┈┈┈┈┈┈┈┈┈┈┈┈••✼\n\n　📣お知らせ/ Notice\n\n　🆕『 シルベ 』official\n　📺動画\n　https://youtu.be/eUmwR0x55JU?si=GKqeX-wbDLwRERvY\n\n　💿️..."
+            }
+        ]
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
