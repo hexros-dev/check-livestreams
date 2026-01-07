@@ -76,14 +76,7 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": [
-            {
-                "video_id": "umalX6CpEi8",
-                "title": "【 Cuphead 】＃２ 初見プレイで高難易度ゲームカップヘッドに挑戦してみるのら！！！【姫森ルーナ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/umalX6CpEi8/hqdefault.jpg?v=695de19d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKI_qPqz1zJStfTE2CATdhTh01XA",
-                "description": "💓ルーナ姫の公式LINEスタンプ第2弾が2026年1月4日より販売開始💓\nhttps://line.me/S/sticker/32401762\n\n本ゲームは© 2020 StudioMDHR Entertainment Inc.に確認を得た..."
-            }
-        ]
+        "videos": []
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -423,7 +416,14 @@
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
         "channel_name": "Choco Ch. 癒月ちょこ",
         "avatar_url": "https://yt3.googleusercontent.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "e2uKETzE4nY",
+                "title": "【the game of sisyphus 】深夜にこそこそもてあそばれたいと思います。 【ホロライブ/癒月ちょこ】",
+                "thumbnail": "https://i.ytimg.com/vi/e2uKETzE4nY/hqdefault.jpg?v=695e8653&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtpcs4FpSoEl4xr9uZz3GfZIM_6A",
+                "description": "ちょこの公式LINEスタンプはこちらから\nhttps://line.me/S/sticker/31677415\n\nサブ垢→https://www.youtube.com/channel/UCp3tgHXw_HI0QMk1K8qh3g\n\nOP＆ED動画：松賀りお。様@rio_..."
+            }
+        ]
     },
     "@dooby3d": {
         "channel_url": "https://www.youtube.com/@dooby3d",
