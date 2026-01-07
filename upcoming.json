@@ -178,15 +178,7 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": [
-            {
-                "video_id": "XrSgCo6oxkE",
-                "title": "【WARFRAME】WE ALL LIFT(STACK) TOGETHER!!",
-                "date": "2026/01/07 07:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/XrSgCo6oxkE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjoFwhiRnZrSLGbVbLB-6R6Mte-A",
-                "description": "/.D\n\nThumbnail art: @adenoshin1373 THANK YOU!\nhttps://x.com/adenoshin1373/status/2007368505084276937/photo/1\n====================\n✧Twitter: https://twitter.com/kosekibijou\n\n✧Hashtags: ..."
-            }
-        ]
+        "videos": []
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -282,21 +274,21 @@
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
         "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ",
-        "videos": [
-            {
-                "video_id": "2tGdpUOvDDc",
-                "title": "I was told this game is relaxing? | Agreeee",
-                "date": "2026/01/07 08:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/2tGdpUOvDDc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkolI_6N4k-dsfoQnTkYk5mSdWdg",
-                "description": "∴∴🎶*┈┈┈┈┈┈┈┈┈┈┈┈┈*🎶∴∴\n\n🐦‍⬛twitter: https://x.com/nerissa_en\n🐦‍⬛spotify: https://open.spotify.com/artist/4uzAnzFMXarRPOBAG2lIIa\n🐦‍⬛insta:..."
-            }
-        ]
+        "videos": []
     },
     "@NinomaeInanis": {
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "6F-iPleBIAM",
+                "title": "【CHAT】TAKO∞TAKOVER RELEASE PARTYYYYY!!!!!",
+                "date": "2026/01/08 07:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/6F-iPleBIAM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYf7OJS2BX0a2zV2hHdP9IjAy1VQ",
+                "description": "【Thumbnail Art】\n\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\n__________________________________________________________________________________________\n\nEndcard Art by Me!\nEndcard..."
+            }
+        ]
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -376,7 +368,15 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "yrGLY0yxA0s",
+                "title": "A Game About the Corporate Grind But On Wheels 【GET TO WORK】",
+                "date": "2026/01/08 04:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/yrGLY0yxA0s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnnlYyVHb7Mc7mM_4jrwwT0AcBPw",
+                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n===============..."
+            }
+        ]
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
@@ -406,7 +406,15 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Y1mKlzO0g-8",
+                "title": "【MEGABONK】I'M GOING BONKERS #kfp #キアライブ",
+                "date": "2026/01/08 01:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Y1mKlzO0g-8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAl3UgFpaY4cItnT0f3UFOaWmOMFw",
+                "description": "CONCERT STREAMING TICKETS: https://drawn-to-dawn.hololivepro.com/ticket\nCONCERT WEBSITE: https://drawn-to-dawn.hololivepro.com/ \n\n🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
@@ -512,7 +520,15 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "D_p6rArbp6Y",
+                "title": "【おしゃべりキング】コミュ力”あり”❣なところを見せたいと思います【風真いろは/ホロライブ】",
+                "date": "2026/01/07 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/D_p6rArbp6Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0OzUv44CcEzho1WDzoBi6FZu5kw",
+                "description": "コミュ力のかたまりでしかない。\n\nサムネイラスト：https://x.com/nut_megu/status/2002304982842843481?s=20\n\n配信タイトル：おしゃべりキング！コミュ力診断ゲ..."
+            }
+        ]
     },
     "@mikenekoko": {
         "channel_url": "https://www.youtube.com/@mikenekoko",
