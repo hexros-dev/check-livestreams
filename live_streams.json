@@ -165,7 +165,14 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "8qJsFCWrErg",
+                "title": "【世界のアソビ大全】五目並べが弱すぎる【水宮枢／ホロライブDEV_IS】",
+                "thumbnail": "https://i.ytimg.com/vi/8qJsFCWrErg/hqdefault.jpg?v=695d4adb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdN0uoIh31Aqe6Ic2jTLrlhAYCBQ",
+                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸◂┄▹◃\n\n💙メンバーシップは..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -387,14 +394,7 @@
         "channel_url": "https://www.youtube.com/@dooby3d",
         "channel_name": "dooby",
         "avatar_url": "https://yt3.googleusercontent.com/sOGyZgV9pPHQJCEvNe28NCOFC1y0KggsxUjrP5ecMAgBmdNT8p6ZNM24d_9SVgWFhBh0lKBL5Q",
-        "videos": [
-            {
-                "video_id": "8QqSEOZg9dk",
-                "title": "KIPPU vs VEGETA vs SHREK",
-                "thumbnail": "https://i.ytimg.com/vi/8QqSEOZg9dk/hqdefault.jpg?v=695d92f0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBL1kamxo7NsuoI3UkvhwzsoEEuow",
-                "description": "🤼\nhttps://store.steampowered.com/app/1468720/Ultimate_Epic_Battle_Simulator_2/"
-            }
-        ]
+        "videos": []
     },
     "@holoen_ceciliaimmergreen": {
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",

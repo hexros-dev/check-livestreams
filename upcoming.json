@@ -3,7 +3,15 @@
         "channel_url": "https://www.youtube.com/@AZKi",
         "channel_name": "AZKi Channel",
         "avatar_url": "https://yt3.googleusercontent.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "BB5vL4riy7c",
+                "title": "【利用規約に同意したい】利用規約、ちゃんと読みました（たぶん）【ホロライブ / AZKi】",
+                "date": "2026/01/07 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/BB5vL4riy7c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtv4gHzvR10yih2zm-L0OhF-iA4w",
+                "description": "2026年、同意したい\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\n配信タイトル：利用規約に同意したい\nストアページ：https://store.steampowered.com/app/3757210/_/..."
+            }
+        ]
     },
     "@AiraniIofifteen": {
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
@@ -220,15 +228,7 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": [
-            {
-                "video_id": "8qJsFCWrErg",
-                "title": "【世界のアソビ大全】五目並べが弱すぎる【水宮枢／ホロライブDEV_IS】",
-                "date": "2026/01/07 13:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/8qJsFCWrErg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdN0uoIh31Aqe6Ic2jTLrlhAYCBQ",
-                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸◂┄▹◃\n\n💙メンバーシップは..."
-            }
-        ]
+        "videos": []
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
