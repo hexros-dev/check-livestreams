@@ -261,7 +261,14 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "WqweLr6HT1o",
+                "title": "#3【Clair Obscur: Expedition 33】FIRST PLAYTHROUGH👀 6.7 HOURS IN... 【Pavolia Reine/hololiveID】",
+                "thumbnail": "https://i.ytimg.com/vi/WqweLr6HT1o/hqdefault.jpg?v=695e98ca&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcaEpsfIUrS5GyU7uQ09YJ3zWfdw",
+                "description": "REINE'S 5th ANNIVERSARY MERCH: \n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/pavoliareine_anniversary_5th \nEN: https://shop.hololivepro.com/en/products/pavoliarein..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -405,14 +412,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "V_N9TUjueNo",
-                "title": "【SUBNAUTICA】lookin at fish make me so hungry",
-                "thumbnail": "https://i.ytimg.com/vi/V_N9TUjueNo/hqdefault.jpg?v=695e3397&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGq0TQS-IzfC_EmwyJGTpD45NzNA",
-                "description": "thumbnail: https://x.com/drawgrem/status/1957112832912155064\n\nThis game is being streamed and monetized after confirming with Unknown Worlds Entertainment.\n‐‐‐‐‐‐‐‐‐‐‐‐‐..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
