@@ -3,7 +3,14 @@
         "channel_url": "https://www.youtube.com/@AZKi",
         "channel_name": "AZKi Channel",
         "avatar_url": "https://yt3.googleusercontent.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "lgdVcWZWKr0",
+                "title": "【利用規約に同意したい】同意したいだけなのに【ホロライブ / AZKi】",
+                "thumbnail": "https://i.ytimg.com/vi/lgdVcWZWKr0/hqdefault.jpg?v=695f70bc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUexipydSL82ja-MgZD-F4qAFCow",
+                "description": "2026年、同意したい\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\n配信タイトル：利用規約に同意したい\nストアページ：https://store.steampowered.com/app/3757210/_/..."
+            }
+        ]
     },
     "@AiraniIofifteen": {
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
@@ -57,14 +64,7 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": [
-            {
-                "video_id": "uWg-R02c4mM",
-                "title": "≪OFFICIAL WATCHALONG≫ DID SOMEONE SAY PHONE GAME?! w/ @KaelaKovalskia  #ホロライブドリームス情報解禁",
-                "thumbnail": "https://i.ytimg.com/vi/uWg-R02c4mM/hqdefault.jpg?v=695e5b17&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTgrZVuzPisYDHETXxodaPI2X_dg",
-                "description": "WHAT IS HOLOLIVE DREAMS?!?!?!\n\nKaela and I will be hosting a watchalong of the official stream!! \nLETS FIND OUT TOGETHER!\n\n#telebae  #hololiveenglish \n\n««≪ °◇◆◇° ≫ »»\n\n≪ NEW..."
-            }
-        ]
+        "videos": []
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -144,14 +144,7 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w",
-        "videos": [
-            {
-                "video_id": "6GvbEDWKjZ4",
-                "title": "【OFFICIAL WATCHALONG】hololive phone game?! wow what a DREAM!【#ホロライブドリームス情報解禁】",
-                "thumbnail": "https://i.ytimg.com/vi/6GvbEDWKjZ4/hqdefault.jpg?v=695f1b86&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAOkf-zAEW3_JocOKSILDJOj8LecA",
-                "description": "​@HakosBaelz & I are hosting a watchparty for the \"hololive Dreams\" official information release!!! \nLETS FIND OUT MORE 🎉 \n\np.s. i WILL be continuing my stream break until mid-end of January..."
-            }
-        ]
+        "videos": []
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
@@ -352,7 +345,14 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "I_5gnU6ZfvE",
+                "title": "【代替現実ゲーム】紙岡聖子（仮）に関する考察　【ホロライブ/白上フブキ】",
+                "thumbnail": "https://i.ytimg.com/vi/I_5gnU6ZfvE/hqdefault.jpg?v=695f572b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCeAItGnPu7ecNwotaecj_ms58oTw",
+                "description": "本作は、実在のWebサイトを調査するミステリーゲームです。\n\n配信タイトル：紙岡聖子（仮）に関する考察\n公式ページ：https://sim3.net/kamiokaseiko/..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -400,14 +400,7 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch.Tokoyami Towa",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": [
-            {
-                "video_id": "wRlRFt3lS5A",
-                "title": "【 ホロガード 】ホロメンが本物か偽物かどっちか見極めろ…⁉️【常闇トワ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/wRlRFt3lS5A/hqdefault.jpg?v=695f612f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCd71f6s9M-v6pOKpe-EiOpowIJLw",
-                "description": "本ゲームは holo Indie の承諾を得た上で配信・収益化を行なっております。\n\n✼••┈┈┈┈┈┈┈┈┈┈┈┈••✼\n\n　📣お知らせ/ Notice\n\n..."
-            }
-        ]
+        "videos": []
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
@@ -491,7 +484,14 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "z9_lXZcCzRM",
+                "title": "【ホロガード】ホロメンが偽物か本物か見極める！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
+                "thumbnail": "https://i.ytimg.com/vi/z9_lXZcCzRM/hqdefault.jpg?v=695f82df&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARrmfqNWk5HT9KUvaEgqKwyL8UiQ",
+                "description": "サムネイラスト：アカババァさん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ #ぺこら..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
