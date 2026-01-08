@@ -81,13 +81,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
         "videos": [
             {
-                "video_id": "flfKicFEA0U",
-                "title": "≪ASMR TYPING STREAM≫ I am become TTS",
-                "date": "2026/01/08 08:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/flfKicFEA0U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBmxss5hoA5fFIXr7cARCruCxv-w",
-                "description": "Erm.... this has become my norm.\n\n#telebae  #hololiveenglish \n\n««≪ °◇◆◇° ≫ »»\n\n≪ NEW ORIGINAL「狂宴-FEAST-」 ≫\nhttps://www.youtube.com/watch?v=j4-E6tEpyiU\nhttps://cover.lnk...."
-            },
-            {
                 "video_id": "uWg-R02c4mM",
                 "title": "≪OFFICIAL WATCHALONG≫ DID SOMEONE SAY PHONE GAME?! w/ @KaelaKovalskia  #ホロライブドリームス情報解禁",
                 "date": "2026/01/08 17:00:00",
@@ -200,7 +193,15 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Z75wbmjV7J4",
+                "title": "【OUTFIT REVEAL】The biboo is eepy #sleepwellbiboo",
+                "date": "2026/01/10 09:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Z75wbmjV7J4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxde5xc4eSQBBM0PSAf75ywKsmCw",
+                "description": "====================\n✧Twitter: https://twitter.com/kosekibijou\n\n✧Hashtags: \n#biboo  \nAdvent: #holoAdvent\nLive: #LIVEseki\nMemes: #LMOAI \nArt: #bijouwled \nPebble Personas: #pebblesona (Please..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -288,29 +289,13 @@
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
         "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ",
-        "videos": [
-            {
-                "video_id": "BWeaBeOGisM",
-                "title": "Let's Clean This City! | PowerWash Simulator 2",
-                "date": "2026/01/08 08:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/BWeaBeOGisM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAOzSI0xfZ4IAmjGzgimKkgmDv6oA",
-                "description": "∴∴🎶*┈┈┈┈┈┈┈┈┈┈┈┈┈*🎶∴∴\n\n🐦‍⬛twitter: https://x.com/nerissa_en\n🐦‍⬛spotify: https://open.spotify.com/artist/4uzAnzFMXarRPOBAG2lIIa\n🐦‍⬛insta:..."
-            }
-        ]
+        "videos": []
     },
     "@NinomaeInanis": {
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": [
-            {
-                "video_id": "6F-iPleBIAM",
-                "title": "【CHAT】TAKO∞TAKOVER RELEASE PARTYYYYY!!!!!",
-                "date": "2026/01/08 07:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/6F-iPleBIAM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYf7OJS2BX0a2zV2hHdP9IjAy1VQ",
-                "description": "【Thumbnail Art】\n\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\n__________________________________________________________________________________________\n\nEndcard Art by Me!\nEndcard..."
-            }
-        ]
+        "videos": []
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -516,7 +501,15 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ESXX2HVDveo",
+                "title": "【GUERILLA】playing my comfort game cause I'm sick",
+                "date": "2026/01/08 09:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ESXX2HVDveo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHxwdgfNEBmORUgIbPwde5qNXAhQ",
+                "description": "thumbnail art: https://x.com/Fongban_/status/2008378505445470311?s=20\n--------------------------\nHashtags\n📺 Livestream: #ImmerScreen \n🎨 Fanart: #Immergination\n🎻 Music: #ImmerPiece..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
