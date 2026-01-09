@@ -548,7 +548,15 @@
         "channel_url": "https://www.youtube.com/@dooby3d",
         "channel_name": "dooby",
         "avatar_url": "https://yt3.googleusercontent.com/sOGyZgV9pPHQJCEvNe28NCOFC1y0KggsxUjrP5ecMAgBmdNT8p6ZNM24d_9SVgWFhBh0lKBL5Q",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "2P48XUR7EL8",
+                "title": "we dooby gaming",
+                "date": "2026/01/10 09:05:00",
+                "thumbnail": "https://i.ytimg.com/vi/2P48XUR7EL8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA97gLjdyEvX8jC-tkh1sFJA4TFBw",
+                "description": "sleepy dooby"
+            }
+        ]
     },
     "@holoen_ceciliaimmergreen": {
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
