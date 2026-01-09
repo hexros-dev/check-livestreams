@@ -459,7 +459,15 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "e0gRddxmKuw",
+                "title": "【スマブラSP】リスナーVSフブキング一撃300％対決！！！#ホロ新春ゲーム祭2026 【ホロライブ/白上フブキ】",
+                "date": "2026/01/09 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/e0gRddxmKuw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_LYFtBwDr1vnvTvWVXQTadM4Nog",
+                "description": "#ホロ新春ゲーム祭2026　スマブラルール基準\n━━━━━━━━━━━━━━━━━━━━━━━\n💜にゃんぐこーんグッズ発売中💙\n⁺‧┈┈┈┈..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -507,6 +515,13 @@
                 "title": "【チラ見せ枠_DAY】ときのそら New Year’s Party 2026『Dreams in Motion』",
                 "date": "2026/01/10 11:30:00",
                 "thumbnail": "https://i.ytimg.com/vi/5NbNvtpj2-c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8sCOVYQrKqyvfhK1RT-Mlln0VDw",
+                "description": "ときのそら New Year’s Party 2026『Dreams in Motion』東京国際フォーラム ホールAから、チラ見せ生配信！\n●チケット購入ページはコチラ！\n配信チケット..."
+            },
+            {
+                "video_id": "ko7ypXM_-yQ",
+                "title": "【チラ見せ枠_NIGHT】ときのそら New Year’s Party 2026『Dreams in Motion』",
+                "date": "2026/01/10 16:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/ko7ypXM_-yQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCxaVZQ1NdX_wgPvXMmvyj9DcE0A",
                 "description": "ときのそら New Year’s Party 2026『Dreams in Motion』東京国際フォーラム ホールAから、チラ見せ生配信！\n●チケット購入ページはコチラ！\n配信チケット..."
             }
         ]
