@@ -155,7 +155,14 @@
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
         "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/ACubs_Mw4YtmgHDIIZvW_gZaPf_VR1wg9yffFLsq4Lrw-W7Md-0pK4Gob8OJebCYCmgrArsE",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "b0RG661b32w",
+                "title": "【スナックきわこ】きわこママですよ❤【虎金妃笑虎】",
+                "thumbnail": "https://i.ytimg.com/vi/b0RG661b32w/hqdefault.jpg?v=695fa80a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZw1-QyIjSMgUD5yBDgDqsBASOJQ",
+                "description": "※ホロライブプロダクションから未成年の視聴者の方々へのお願い\n [カバー 未成年者の方々へ]で検索してお読みいただくか、下記リンクをご確認..."
+            }
+        ]
     },
     "@KosekiBijou": {
         "channel_url": "https://www.youtube.com/@KosekiBijou",
@@ -438,14 +445,7 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
-        "videos": [
-            {
-                "video_id": "3kjfrEs8VEM",
-                "title": "【Minecraft】ゲリラ！推しべｙ・・・秘密基地を銅で飾るぞ✨【風真いろは/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/3kjfrEs8VEM/hqdefault.jpg?v=6960cec9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA28k7Wv-HospE8J4O2188nqf6wJg",
-                "description": "--------------------------------------------\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なって..."
-            }
-        ]
+        "videos": []
     },
     "@mikenekoko": {
         "channel_url": "https://www.youtube.com/@mikenekoko",
