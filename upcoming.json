@@ -23,12 +23,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
         "videos": []
     },
-    "@AmaneKanata": {
-        "channel_url": "https://www.youtube.com/@AmaneKanata",
-        "channel_name": "Kanata Ch. Kanata Amane",
-        "avatar_url": "https://yt3.googleusercontent.com/oPU9ckNcyeHD0FFsYSxkoD1mtbslSwdmMSfoCYQWphOu5e7UeCnIF-Nt0hvvF41L5Nykga07nQ",
-        "videos": []
-    },
     "@AnyaMelfissa": {
         "channel_url": "https://www.youtube.com/@AnyaMelfissa",
         "channel_name": "Anya Melfissa Ch. hololive-ID",
@@ -79,6 +73,13 @@
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
         "videos": [
+            {
+                "video_id": "D9WZ3WbmtBk",
+                "title": "【 ホロガード 】ホロメンが本物か偽物か見極めろ！！！！！【博衣こより/ホロライブ】",
+                "date": "2026/01/10 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/D9WZ3WbmtBk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQniOIZs0GZBNCYNZbW8ff-r8gjQ",
+                "description": "ホロメンへの知識が試される───！！！！！（正直自信ない）入国審査ゲーム好きだから楽しみにしてた♡\n💗もふこよ＆こより達のLINE絵文字..."
+            },
             {
                 "video_id": "NU2At9YVhGA",
                 "title": "【ドラクエ1&2リメイク】HD-2D版ドラクエⅡプレイ中！紋章あと2個！！！ #6 【博衣こより/ホロライブ】※ネタバレを含みます",
@@ -364,12 +365,6 @@
         "channel_url": "https://www.youtube.com/@SakamataChloe",
         "channel_name": "Chloe ch. 沙花叉クロヱ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/laCUmozlesp2wZd9k_DCDG_AYgQRGJm0yiL5pigqWAJE1TzYaOXQ6VcfEGacl8L-gpgR07I7HA",
-        "videos": []
-    },
-    "@SakuraMiko": {
-        "channel_url": "https://www.youtube.com/@SakuraMiko",
-        "channel_name": "Miko Ch. さくらみこ",
-        "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
         "videos": []
     },
     "@SamekoSaba": {
