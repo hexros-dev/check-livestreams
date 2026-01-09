@@ -23,6 +23,12 @@
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
         "videos": []
     },
+    "@AmaneKanata": {
+        "channel_url": "https://www.youtube.com/@AmaneKanata",
+        "channel_name": "Kanata Ch. Kanata Amane",
+        "avatar_url": "https://yt3.googleusercontent.com/oPU9ckNcyeHD0FFsYSxkoD1mtbslSwdmMSfoCYQWphOu5e7UeCnIF-Nt0hvvF41L5Nykga07nQ",
+        "videos": []
+    },
     "@AnyaMelfissa": {
         "channel_url": "https://www.youtube.com/@AnyaMelfissa",
         "channel_name": "Anya Melfissa Ch. hololive-ID",
@@ -367,6 +373,12 @@
         "avatar_url": "https://yt3.googleusercontent.com/laCUmozlesp2wZd9k_DCDG_AYgQRGJm0yiL5pigqWAJE1TzYaOXQ6VcfEGacl8L-gpgR07I7HA",
         "videos": []
     },
+    "@SakuraMiko": {
+        "channel_url": "https://www.youtube.com/@SakuraMiko",
+        "channel_name": "Miko Ch. さくらみこ",
+        "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
+        "videos": []
+    },
     "@SamekoSaba": {
         "channel_url": "https://www.youtube.com/@SamekoSaba",
         "channel_name": "saba",
@@ -437,7 +449,15 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "kVdgtFWCaIc",
+                "title": "#５【 クロノトリガー 】完全初見！最終ダンジョン!?【鷹嶺ルイ/ホロライブ】※ネタバレあり",
+                "date": "2026/01/10 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/kVdgtFWCaIc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARADUDZ6zU86T2Samql6h31c2gwg",
+                "description": "なんかマザーつよくね！？！？！？！？！？！？\n\n本動画のゲームプレイ映像は、株式会社スクウェア・エニックスの許諾を受けて使用しています..."
+            }
+        ]
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
