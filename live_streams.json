@@ -191,7 +191,14 @@
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
         "channel_name": "Moona Hoshinova hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "BexkX_dDe3E",
+                "title": "【holocafe】New Year, New Cafe【hololive | moona】",
+                "thumbnail": "https://i.ytimg.com/vi/BexkX_dDe3E/hqdefault.jpg?v=69621885&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCERb84erz8T2HZkSYCvZbiQyg3KA",
+                "description": "Streamlabs donation link here : https://streamlabs.com/moonahoshinovahololive-id/tip\nSociaBuzz donation link here : https://sociabuzz.com/moonahoshinova/tribe\n======================================..."
+            }
+        ]
     },
     "@MoriCalliope": {
         "channel_url": "https://www.youtube.com/@MoriCalliope",
@@ -484,14 +491,7 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": [
-            {
-                "video_id": "4P8ugn0n1P4",
-                "title": "【ポケモンクリスタル】今日から始める新たな冒険！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
-                "thumbnail": "https://i.ytimg.com/vi/4P8ugn0n1P4/hqdefault.jpg?v=6961503a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXk1tS5DyKcpFDrrBxgMkuiZrweA",
-                "description": "幼少期にお兄ちゃんに借りたけど最初の町から出られなくて諦めたクリスタル\n今度こそ旅立ちの時！！！！！！！！！！！！！！！！！！\n..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
