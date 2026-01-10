@@ -99,14 +99,7 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
-        "videos": [
-            {
-                "video_id": "hPWNr79aBBY",
-                "title": "【#holoindie】ホロガード、いきますっっ！！！【一条莉々華/hololive DEV_IS　ReGLOSS】",
-                "thumbnail": "https://i.ytimg.com/vi/hPWNr79aBBY/hqdefault.jpg?v=69611ba2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCskiIHRA7DWmbg-mAuUdcb-4UQQA",
-                "description": "配信タイトル：ホロガード\nストアページ：https://store.steampowered.com/app/3691000/Hologuard/\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧\n\n合言葉は「可..."
-            }
-        ]
+        "videos": []
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -258,7 +251,14 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "K1C4lNfRl7s",
+                "title": "【歌枠】深夜テンションでまったり過ごす時間【雑談】",
+                "thumbnail": "https://i.ytimg.com/vi/K1C4lNfRl7s/hqdefault.jpg?v=69624a71&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmy_UqeRYwnOtxguOIw7qDi5N9Og",
+                "description": "な～～～んかまったりしたい気分！\n\nサムネillustrator：PAISHENさん　https://x.com/INUTOBI21\n\n🎤音源お借りします🎤\nカラオケ歌っちゃ王\nhttps://www.youtube.co..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -295,13 +295,27 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Wiw0FxoB-Hs",
+                "title": "【グランツーリスモ７】#V1GP 前日の練習～～！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "thumbnail": "https://i.ytimg.com/vi/Wiw0FxoB-Hs/hqdefault.jpg?v=69623922&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcnNielgaBK8nBTV9my8gouxRVMg",
+                "description": "おちついてやる！！！じぶんにまけない！！！！！！！！\n\n\nV1 GRAND PRIXとは\n\n1/11に東京オートサロンで行われる2025 AUTOBACS JEGT 東京オートサロン大会..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "KoZqswHth5M",
+                "title": "【 縦型/歌枠】NO17💜懐かしい歌からたのしんじゃお っ🎤ろぼめろでぃ～ Midnight RBmelody  🎶 【ホロライブ/ ロボ子さん #ろぼめろでぃ】",
+                "thumbnail": "https://i.ytimg.com/vi/KoZqswHth5M/hqdefault.jpg?v=69625a65&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCHtWybn6VotOtVB6yid-5s6fyEww",
+                "description": "＃ホロライブ 　\nｘでは💬　 #ろぼめろでぃ　でポストしてってね\n\n\n【定期企画配信】 Midnight RBmelody 💗　通称　 #ろぼめろでぃ　💗\n週末の金土日..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -382,7 +396,14 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "RWbrXUfr0vs",
+                "title": "【 龍が如く0 】久々に深夜真島さんサブクエ進めます☺：Yakuza 0【鷹嶺ルイ/ホロライブ】※ネタバレあり",
+                "thumbnail": "https://i.ytimg.com/vi/RWbrXUfr0vs/hqdefault.jpg?v=69614aa7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAV94Qp8EUgvF4hzAZqbfmJqWlCg",
+                "description": "今日は真島さん！休み前にはクリアしたい…☺‼\n\nこの動画およびライブは、コンテンツ利用許諾契約に基づいて配信しています。\n©SEGA\n\n※タイト..."
+            }
+        ]
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
@@ -412,14 +433,7 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
-        "videos": [
-            {
-                "video_id": "361NF1GS5-k",
-                "title": "【Dispatch】\"Keep up\" / LAST CHAPTER?",
-                "thumbnail": "https://i.ytimg.com/vi/361NF1GS5-k/hqdefault.jpg?v=6962343e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-4DtFHZPfC4zZBcRUawQElEw7oQ",
-                "description": "#vestiazeta #hololive #vtuber #gaming #dispatch #holoid #hololiveindonesia \n\n\nGame Title: Dispatch\nStore Page : https://store.steampowered.com/app/2592160/Dispatch/\n\nThumbnail: https://x.com/kazumi..."
-            }
-        ]
+        "videos": []
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
@@ -467,7 +481,14 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "KHSGa5X-yIo",
+                "title": "【AGREEEE】 TO SKIPPA SKIPPA TERMS OF USE WHO READS THAT",
+                "thumbnail": "https://i.ytimg.com/vi/KHSGa5X-yIo/hqdefault.jpg?v=69616fbc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArZRJb5pNHnG4X0ykWns6yYXvHtA",
+                "description": "╭─⋆｡ﾟ♡ RAO ♡｡ﾟ⋆─╮\n\nMy first Original Song is OUT!\n˗ˏˋ 𝔾𝕒𝕔𝕙𝕒×𝔾𝕒𝕔𝕙𝕒 𝔸𝔻𝕍𝔼ℕ𝕋𝕌ℝ𝔼! ˎˊ˗\n🐱https://youtu.be/1BTd20qIf..."
+            }
+        ]
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
@@ -491,14 +512,7 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": [
-            {
-                "video_id": "pXoGAoK5P18",
-                "title": "【二郎】ラーメンぺこ二郎、本日開店です！！！！！！！！！！！！！【ホロライブ/兎田ぺこら】",
-                "thumbnail": "https://i.ytimg.com/vi/pXoGAoK5P18/hqdefault.jpg?v=69621c01&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzfb0xaFoieVDaupE4yy01sRuZDg",
-                "description": "怒りのぺこ二郎ラーメンを作ってやけ食いぺこ！！！！！！\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadap..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
