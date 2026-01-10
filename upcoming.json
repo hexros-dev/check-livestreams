@@ -303,7 +303,15 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "VdNJX-4fWlI",
+                "title": "＃6【魔法少女ノ魔女裁判】皆どうしちゃったの！？※ネタバレあり【尾丸ポルカ/ホロライブ】",
+                "date": "2026/01/11 20:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/VdNJX-4fWlI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNX9NTx3ixSkDLnNmBQrLKq0hkbQ",
+                "description": "「この中に、魔女になった少女がいる」\n\n高校１年生になるはずの朝、エマが目を覚ますと、そこは薄暗い檻の中。\n身に覚えもなく絶海の孤島に..."
+            }
+        ]
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
