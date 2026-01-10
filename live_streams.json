@@ -275,14 +275,7 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": [
-            {
-                "video_id": "n9tFj4r0-pk",
-                "title": "buy my hoodie",
-                "thumbnail": "https://i.ytimg.com/vi/n9tFj4r0-pk/hqdefault.jpg?v=6961d3ad&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJBaujvQE9XOZwHLdq-Ot0uXiwGw",
-                "description": "REINE'S 5th ANNIVERSARY MERCH: \n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/pavoliareine_anniversary_5th \nEN: https://shop.hololivepro.com/en/products/pavoliarein..."
-            }
-        ]
+        "videos": []
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -336,7 +329,14 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "VaeLKnqU0Pk",
+                "title": "【利用規約に同意したい】サクっと同意しちゃうぞ～！★ﾐ【白銀ノエル/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/VaeLKnqU0Pk/hqdefault.jpg?v=6960f969&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMdrEMSbik1Pp2QoVKonVV_QTj-A",
+                "description": "鬼畜ゲー？んなばかな...！\n\n配信タイトル：利用規約に同意したい\nストアページ：https://store.steampowered.com/app/3757210/_/\n\n✨🤍白銀ノエル誕生日記念..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
