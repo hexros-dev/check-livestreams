@@ -119,15 +119,7 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": [
-            {
-                "video_id": "fRCSSgChtTQ",
-                "title": "【 PLATE UP! 】ゲーム祭に向けて、練習じゃあ🔥【ホロライブ DEV_IS 響咲リオナ】",
-                "date": "2026/01/11 16:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/fRCSSgChtTQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBU82aZnmuPNO_f1MHUuUpKMi-qRA",
-                "description": "本ゲームはYogscast Games.に確認の上、配信・収益を行われています。\n--------------------------------------------\n活躍したいなり・・・\n------------------------------..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -145,7 +137,15 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "aVh-80o0uRw",
+                "title": "【 利用規約に同意したい 】RE:同意したいので同意します【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "date": "2026/01/11 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/aVh-80o0uRw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDq7Yhix6HVKa3NSElha0Wzkqfakw",
+                "description": "配信タイトル：利用規約に同意したい\nストアページ：https://store.steampowered.com/app/3757210/_/\n\nサムネイルの素敵なイラスト　かんなろくさん　https://x.c..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -524,7 +524,15 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "lRl2__WjEac",
+                "title": "【夜雑談】ドッタンバッタン最近の話【雪花ラミィ /ホロライブ】",
+                "date": "2026/01/11 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/lRl2__WjEac/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_Cqoz8eSVdTZrUWv-1_uylPl5zw",
+                "description": "サムネイラスト：ntakoさま\nhttps://x.com/ntako1225\n\n【所属会社からのお知らせ】\n現在弊社タレントに対し、配信中のチャット等によりセンシティブな発..."
+            }
+        ]
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
