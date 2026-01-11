@@ -124,7 +124,15 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Z-jlPEQ3e-Y",
+                "title": "【A Gentlemen's Dispute】Hold my Top Hat",
+                "date": "2026/01/12 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Z-jlPEQ3e-Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdOAHDQQtahk7ve7tzUHx6a0T_Cg",
+                "description": "w/ @MoriCalliope @holoen_gigimurin @HakosBaelz @KosekiBijou @ShioriNovella \n\nGame Title: A Gentlemen's Dispute\nStore Page: https://store.steampowered.com/app/2820700/A_Gentlemens_Dispute/\n..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
