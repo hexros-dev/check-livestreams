@@ -225,7 +225,14 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "e88y2dg8OWQ",
+                "title": "【Agreeee】I Agree to Disagree to Agree to Disagree to Agree to Disagree",
+                "thumbnail": "https://i.ytimg.com/vi/e88y2dg8OWQ/hqdefault.jpg?v=695cc24d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAV02w4IzX83KxC8jf3n3VW8SZELw",
+                "description": "【Thumbnail Art】\nhttps://x.com/mpien6/status/2008199435248169417\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\n_______________________________________________________________________________..."
+            }
+        ]
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -237,14 +244,7 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": [
-            {
-                "video_id": "bof3g0mAvEY",
-                "title": "【 #朝ミオ 】月曜日だよ～～～！おはみぉーん！",
-                "thumbnail": "https://i.ytimg.com/vi/bof3g0mAvEY/hqdefault.jpg?v=69637227&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSgDxRrTImF5WR02zuJhiMuJk9DA",
-                "description": "もうお正月抜けた感～～\n\n#朝ミオおたより Twitter(X)で募集中です🌟\n今回紹介するお題は、『お正月の過ごし方』です！\n\nサムネillustrator：トゥーミ..."
-            }
-        ]
+        "videos": []
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -334,14 +334,7 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": [
-            {
-                "video_id": "90z-2UPTDy4",
-                "title": "【METROID PRIME 4: BEYOND】bike acquired, red suit acquired, LETS GO ICE WORLD #kfp #キアライブ",
-                "thumbnail": "https://i.ytimg.com/vi/90z-2UPTDy4/hqdefault.jpg?v=6962dbb1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2oyGkyz1rEvhnwPUnXQfCIFmDMQ",
-                "description": "CONCERT STREAMING TICKETS: https://drawn-to-dawn.hololivepro.com/ticket\nCONCERT WEBSITE: https://drawn-to-dawn.hololivepro.com/ \n\n🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara..."
-            }
-        ]
+        "videos": []
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
