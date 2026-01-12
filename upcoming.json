@@ -152,15 +152,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": [
-            {
-                "video_id": "AsD5gs5FCiQ",
-                "title": "【 Minecraft 】ホロ鯖のNPC伝説の農婦帰還【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "date": "2026/01/12 15:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/AsD5gs5FCiQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChmdRk4Nwpo_ZsgofpdZUav7mnIA",
-                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\nサムネイルの素敵なイ..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -420,7 +412,22 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "-EqWI9K8VYk",
+                "title": "【メンバーシップ限定】休暇前のメンシ雑談🙃 【鷹嶺ルイ/ホロライブ】",
+                "date": "2026/01/12 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/-EqWI9K8VYk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5HqiqQwNsmyWjiO81VgX-mOcmgQ",
+                "description": "2月3日休暇明け\n\n🎵12/3リリース 2ndアルバム『Lapis Lazuli』🎵\n▼購入はこちら▼\nhttps://cover.lnk.to/LapisLazuli\n\nサムネ：びびび様 (@bibib_san0810)\n\n✦••┈..."
+            },
+            {
+                "video_id": "ByaIrGtp9B4",
+                "title": "【 龍が如く0 】休暇前にサブクエすべて完了させたい！！！：Yakuza 0【鷹嶺ルイ/ホロライブ】※ネタバレあり",
+                "date": "2026/01/12 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ByaIrGtp9B4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJigqIWaRGHGkttZPe7R-i7MjfWQ",
+                "description": "全部いくぞ！！！！！！！！\n\nこの動画およびライブは、コンテンツ利用許諾契約に基づいて配信しています。\n©SEGA\n\n※タイトルの『※ネタバレあ..."
+            }
+        ]
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
