@@ -349,7 +349,14 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "3CNMVHtGows",
+                "title": "【零】#03（クリアまで）和風ホラー名作に挑む！零 ～月蝕の仮面～【獅白ぼたん/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/3CNMVHtGows/hqdefault.jpg?v=6963e0fd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAN_q6jJioUoqfm4HvI7r-cMrxySA",
+                "description": "月蝕の仮面（Steam版）初プレイ！紅い蝶はプレイした事あり✨\nリメイクも出るので楽しみやで\n\n01→https://www.youtube.com/watch?v=6IUWRy8my_U\n02→https://www.you..."
+            }
+        ]
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
@@ -483,6 +490,13 @@
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "B5evRgvZE18",
+                "title": "日本事故物件監視協会（JSP）に就職しました・・・　#結城さくな生放送",
+                "thumbnail": "https://i.ytimg.com/vi/B5evRgvZE18/hqdefault.jpg?v=6964812a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARRgFxFF3C2kc5VcaBa1N4dcj7bA",
+                "description": "こわい\n\n🎀グッズ・ボイス販売はこちら🐾\nhttps://yuki-sakuna.stores.jp/\n\n🎀歌ってみた動画🐾\nhttps://youtube.com/playlist?list=PLErsMirGq93vRw-CcRaaZfR4QVxl2uBsb&si=BRmE..."
+            }
+        ]
     }
 }
