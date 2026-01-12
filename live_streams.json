@@ -290,7 +290,14 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "rgycXnLVYME",
+                "title": "【World of Horror】We Good",
+                "thumbnail": "https://i.ytimg.com/vi/rgycXnLVYME/hqdefault.jpg?v=69646c62&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPbI0r8zX5MwRQml77GagwphkzLQ",
+                "description": "This game is being streamed and monetized after confirming with Ysbryd Games.\n\n[Twitter]\nhttps://twitter.com/ourokronii\n\n----------------------------------------------------------------------------..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
