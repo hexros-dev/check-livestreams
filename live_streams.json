@@ -28,7 +28,14 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "7yrTu64Ph-c",
+                "title": "『#2026年リアルな抱負💕』 アキちょこナイトパレット第20回 ～ホロライブ深夜ラジオ～",
+                "thumbnail": "https://i.ytimg.com/vi/7yrTu64Ph-c/hqdefault.jpg?v=6965078e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUJQIg7gLJEagc5CVJKrYO8rIaaA",
+                "description": "#アキちょこナイパレ でやってほしいコーナー大募集中！\nXでタグをつけてポストしてね！\n前週→ \n次週→\n\nwith ちょこ先@YuzukiChoco \n毎週月曜 23:40~24:..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -349,14 +356,7 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": [
-            {
-                "video_id": "3CNMVHtGows",
-                "title": "【零】#03（クリアまで）和風ホラー名作に挑む！零 ～月蝕の仮面～【獅白ぼたん/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/3CNMVHtGows/hqdefault.jpg?v=6963e0fd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAN_q6jJioUoqfm4HvI7r-cMrxySA",
-                "description": "月蝕の仮面（Steam版）初プレイ！紅い蝶はプレイした事あり✨\nリメイクも出るので楽しみやで\n\n01→https://www.youtube.com/watch?v=6IUWRy8my_U\n02→https://www.you..."
-            }
-        ]
+        "videos": []
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
