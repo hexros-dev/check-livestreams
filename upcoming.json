@@ -251,7 +251,7 @@
             {
                 "video_id": "_r1eLUF_Lx4",
                 "title": "＃7【魔法少女ノ魔女裁判】疑わなくては生き残れない。※ネタバレあり【尾丸ポルカ/ホロライブ】",
-                "date": "2026/01/13 20:00:00",
+                "date": "2026/01/13 19:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/_r1eLUF_Lx4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAiaQwWmDgAOOp7WJTCUO5-8HU_fw",
                 "description": "「この中に、魔女になった少女がいる」\n\n高校１年生になるはずの朝、エマが目を覚ますと、そこは薄暗い檻の中。\n身に覚えもなく絶海の孤島に..."
             }
@@ -287,15 +287,7 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": [
-            {
-                "video_id": "RkmG1a4qpjE",
-                "title": "【Routine】Oh The Horror",
-                "date": "2026/01/13 09:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/RkmG1a4qpjE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADpehl5494vBZJGDMCLKVmJUcGpQ",
-                "description": "we are so happy u all decided to become furries with this merch 🥰\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/ourokronii_anniversary_4th\nEN: https://shop.holol..."
-            }
-        ]
+        "videos": []
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
@@ -383,7 +375,15 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "2gdR20OBViI",
+                "title": "【members】not doing what you think we will be doing",
+                "date": "2026/01/14 01:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/2gdR20OBViI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBynHQTEJbDaB4qX_K9mGMpSlSHKA",
+                "description": "🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara\n\n 🏵️[Hashtags] 🏵️\n#kfp #キアライブ#hololiveenglish #holomyth #takanashikiara \nFANART #KFPicasso\n\n＝＝＝＝＝＝＝＝..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
@@ -401,7 +401,15 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "vnhKUlyVSo4",
+                "title": "【ときのそら降臨】ホロアースを見に行っちゃうぞ！！【ときのそら/ホロライブ】",
+                "date": "2026/01/13 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/vnhKUlyVSo4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6Q5scVbxo8nTjqPmsUSavlXE2KQ",
+                "description": "ホロアース公式X\nhttps://x.com/Holoearth_JP\nホロアース公式サイト\nhttps://holoearth.com/\nホロアース インストール方法\nhttps://holoearth.com/download/\n\nホロアースの..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
