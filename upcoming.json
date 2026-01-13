@@ -137,7 +137,15 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "8GQcAFeTITg",
+                "title": "【 Minecraft 】ホロ鯖アップデート遊びつくす【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "date": "2026/01/13 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/8GQcAFeTITg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDV-5ECNGsbqn9_ReQ4kyxCk5Wcog",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\nサムネイルの素敵なイ..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -321,15 +329,7 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
-        "videos": [
-            {
-                "video_id": "xgBuP80Ezn8",
-                "title": "【VALORANT】 新シーズンやってみますか　ソロデスマッチ雑談➡ぺんぺ合流予定【ホロライブ/ロボ子さん】",
-                "date": "2026/01/13 12:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/xgBuP80Ezn8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkmreHB0fECQ1epfIkLa5G_n8Tfg",
-                "description": "＃ホロライブ 　\n＃ロボ子生放送　でポストしてくれると　ちょーーーーーうれしい！！\nゴ～スティングはだめですよ！\n\n\n本ゲームは © Riot..."
-            }
-        ]
+        "videos": []
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
