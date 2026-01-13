@@ -257,7 +257,15 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Rn-t5NlNkN8",
+                "title": "【AmiAmi】AmiAmi hololive Figure Award 2025 with @NerissaRavencroft",
+                "date": "2026/01/14 09:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Rn-t5NlNkN8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkhuLotbKp4pMgc2Keghw2M7ZZyw",
+                "description": "【Thumbnail Art】\n\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\n__________________________________________________________________________________________\n\nEndcard Art by Me!\nEndcard..."
+            }
+        ]
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -339,15 +347,7 @@
         "channel_url": "https://www.youtube.com/@SamekoSaba",
         "channel_name": "saba",
         "avatar_url": "https://yt3.googleusercontent.com/gNZv93GVlg3GAco7HTg2OXl_9s2Pm3lG6DxNfOXqPkLRNcM5BSEOAcQGpgQ8AejiEam5ElLG",
-        "videos": [
-            {
-                "video_id": "DI5boWRj_CM",
-                "title": "【KARAOKE】fih",
-                "date": "2026/01/14 05:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/DI5boWRj_CM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABgwUgqmqkJLkvSFPiuld2W7nwrw",
-                "description": "hiyaa! probably very short, but I haven't sang in a while and really want to!\n\n🐟 https://x.com/samekosaba\n🐟 thumbnail: https://x.com/Nano_0804x_x\n#samekosaba \n\n\nchat rules: please help..."
-            }
-        ]
+        "videos": []
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",

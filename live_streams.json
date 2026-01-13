@@ -298,7 +298,14 @@
         "channel_url": "https://www.youtube.com/@SamekoSaba",
         "channel_name": "saba",
         "avatar_url": "https://yt3.googleusercontent.com/gNZv93GVlg3GAco7HTg2OXl_9s2Pm3lG6DxNfOXqPkLRNcM5BSEOAcQGpgQ8AejiEam5ElLG",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "DI5boWRj_CM",
+                "title": "【KARAOKE】fih",
+                "thumbnail": "https://i.ytimg.com/vi/DI5boWRj_CM/hqdefault.jpg?v=69669236&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABgwUgqmqkJLkvSFPiuld2W7nwrw",
+                "description": "hiyaa! probably very short, but I haven't sang in a while and really want to!\n\n🐟 https://x.com/samekosaba\n🐟 thumbnail: https://x.com/Nano_0804x_x\n#samekosaba \n\n\nchat rules: please help..."
+            }
+        ]
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
@@ -334,14 +341,7 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": [
-            {
-                "video_id": "2gdR20OBViI",
-                "title": "【members】not doing what you think we will be doing",
-                "thumbnail": "https://i.ytimg.com/vi/2gdR20OBViI/hqdefault.jpg?v=6965a694&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBynHQTEJbDaB4qX_K9mGMpSlSHKA",
-                "description": "🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara\n\n 🏵️[Hashtags] 🏵️\n#kfp #キアライブ#hololiveenglish #holomyth #takanashikiara \nFANART #KFPicasso\n\n＝＝＝＝＝＝＝＝..."
-            }
-        ]
+        "videos": []
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
