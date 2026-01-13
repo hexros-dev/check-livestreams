@@ -147,7 +147,14 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "SIQ6-m1EKWQ",
+                "title": "【DARK SOULS 3】SOUL LEVEL 1 CHALLENGE - I WILL EARLY DANCER!!!!",
+                "thumbnail": "https://i.ytimg.com/vi/SIQ6-m1EKWQ/hqdefault.jpg?v=6965139b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1gIERzfKuU2Ch1nbeO-SGX9v6OA",
+                "description": "SLEEPY MERCH: ▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/kosekibijou_pebblepajamasoutfit\nEN: https://shop.hololivepro.com/en/products/kosekibijou_pebblepajamasou..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -347,14 +354,7 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": [
-            {
-                "video_id": "ByaIrGtp9B4",
-                "title": "【 龍が如く0 】休暇前にサブクエすべて完了させたい！！！：Yakuza 0【鷹嶺ルイ/ホロライブ】※ネタバレあり",
-                "thumbnail": "https://i.ytimg.com/vi/ByaIrGtp9B4/hqdefault.jpg?v=6964aaba&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJigqIWaRGHGkttZPe7R-i7MjfWQ",
-                "description": "全部いくぞ！！！！！！！！\n\nこの動画およびライブは、コンテンツ利用許諾契約に基づいて配信しています。\n©SEGA\n\n※タイトルの『※ネタバレあ..."
-            }
-        ]
+        "videos": []
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
