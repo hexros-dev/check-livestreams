@@ -273,14 +273,7 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
-        "videos": [
-            {
-                "video_id": "xgBuP80Ezn8",
-                "title": "【VALORANT】 新シーズンやってみますか　ソロデスマッチ雑談➡ぺんぺ合流予定【ホロライブ/ロボ子さん】",
-                "thumbnail": "https://i.ytimg.com/vi/xgBuP80Ezn8/hqdefault.jpg?v=6965299b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkmreHB0fECQ1epfIkLa5G_n8Tfg",
-                "description": "＃ホロライブ 　\n＃ロボ子生放送　でポストしてくれると　ちょーーーーーうれしい！！\nゴ～スティングはだめですよ！\n\n\n本ゲームは © Riot..."
-            }
-        ]
+        "videos": []
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -424,7 +417,14 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Sok_wktl33U",
+                "title": "【縦型歌枠】また収録1時間巻きでおわったござるさん🎤#shorts #歌枠 【風真いろは/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/Sok_wktl33U/hqdefault.jpg?v=69660cc6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFU9owTsKCAqeEhm7oJWw0tyNncQ",
+                "description": "*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――\n\n💚風真いろはからのおしらせ💚\n\n\n\n🎤風真いろは 新オリ曲..."
+            }
+        ]
     },
     "@mikenekoko": {
         "channel_url": "https://www.youtube.com/@mikenekoko",
