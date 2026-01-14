@@ -129,14 +129,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": [
-            {
-                "video_id": "e0cRIumXawU",
-                "title": "【 Minecraft 】全実績解除！？ぺこら先輩と！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "thumbnail": "https://i.ytimg.com/vi/e0cRIumXawU/hqdefault.jpg?v=696778f0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBY-A_4_pyhiKu8P63uHPkgj4fHbw",
-                "description": "サムネ作ってくれたよ！@usadapekora \n\nサムネイルの素敵なイラスト　苺大福さん　https://x.com/il_ichi05?s=20\n\nメンバーシップ開設しました！加入はこち..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -355,7 +348,14 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "GCLEVv1FWwk",
+                "title": "【MEGABONK】chad energy so strong even your mum cant resist #kfp #キアライブ",
+                "thumbnail": "https://i.ytimg.com/vi/GCLEVv1FWwk/hqdefault.jpg?v=69670c8c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxV6nCWHmQOomAQ8-bf0iKWdYswA",
+                "description": "CONCERT STREAMING TICKETS: https://drawn-to-dawn.hololivepro.com/ticket\nCONCERT WEBSITE: https://drawn-to-dawn.hololivepro.com/ \n\n🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
@@ -477,14 +477,7 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": [
-            {
-                "video_id": "dsHnGivjEvo",
-                "title": "【Minecraft】2人で全実績解除への道【ホロライブ/兎田ぺこら/綺々羅々ヴィヴィ】",
-                "thumbnail": "https://i.ytimg.com/vi/dsHnGivjEvo/hqdefault.jpg?v=69674195&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmzne66Va7NL0JzXQB8fefy53qpg",
-                "description": "@KikiraraVivi \n\nサムネイラスト：苺大福さん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
