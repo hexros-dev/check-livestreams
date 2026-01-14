@@ -249,15 +249,7 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": [
-            {
-                "video_id": "Rn-t5NlNkN8",
-                "title": "【AmiAmi】AmiAmi hololive Figure Award 2025 with @NerissaRavencroft",
-                "date": "2026/01/14 09:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Rn-t5NlNkN8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkhuLotbKp4pMgc2Keghw2M7ZZyw",
-                "description": "【Thumbnail Art】\n\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\n__________________________________________________________________________________________\n\nEndcard Art by Me!\nEndcard..."
-            }
-        ]
+        "videos": []
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -321,7 +313,15 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "GKEx0Uz_t3o",
+                "title": "【 #にじホロ麻雀 】ド深夜におしゃべり麻雀✨【ホロライブ/ ロボ子さん】",
+                "date": "2026/01/14 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/GKEx0Uz_t3o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzKsJbWGvqC8mj_ze7a785CwcvAw",
+                "description": "✖✖✖✖✖✖✖✖✖✖✖✖🩷✖✖✖✖✖✖✖✖✖✖✖✖\n\n【 #にじホロ麻雀 】\n@HakuiKoyori  @RindouMikoto  @Elu \n\n\n🩷直近NEWS🩷\n\n📢定期的に出てるボイス..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
