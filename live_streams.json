@@ -255,14 +255,7 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": [
-            {
-                "video_id": "i2F9CHK0CSw",
-                "title": "【Don't Scream Together】We Probably Will With @holoen_raorapanthera",
-                "thumbnail": "https://i.ytimg.com/vi/i2F9CHK0CSw/hqdefault.jpg?v=6965f830&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5z66HVynM7y_UWVzDoXGgISPB6g",
-                "description": "we are so happy u all decided to become furries with this merch 🥰\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/ourokronii_anniversary_4th\nEN: https://shop.holol..."
-            }
-        ]
+        "videos": []
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
@@ -310,7 +303,14 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "AtyGHFIbOe0",
+                "title": "【R.E.P.O.】よし、REPOをしようじゃないですか。【白上フブキ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/AtyGHFIbOe0/hqdefault.jpg?v=69674674&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMU2B__grwgQV4q-YS-IX2v4KPcA",
+                "description": "━━━━━━━━━━━━━━━━━━━━━━━\n💜にゃんぐこーんグッズ発売中💙\n⁺‧┈┈┈┈┈┈┈┈┈┈┈┈‧⁺\n✦購入はコチラ¸✧･..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
