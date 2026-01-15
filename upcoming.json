@@ -78,13 +78,6 @@
                 "date": "2026/01/16 19:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/R3e06tBi2VQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBpp5QrEhGlantS-aBLBUoOghHxHw",
                 "description": "#こよりとガンダム 遂に初見の「閃光のハサウェイ」まできたーーー！！！📺✨\n1月30日公開「機動戦士ガンダム 閃光のハサウェイ キルケーの魔..."
-            },
-            {
-                "video_id": "u9eHi7Ht9oM",
-                "title": "【CAPCOMミラー配信】バイオハザードショーケースを一緒に観よう！【博衣こより/ホロライブ】",
-                "date": "2026/01/16 04:45:00",
-                "thumbnail": "https://i.ytimg.com/vi/u9eHi7Ht9oM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAl-s2_Pb4tIytGXKeF4sy0elijdw",
-                "description": "「バイオハザードショーケース」ミラー配信をさせていただくよ～！バイオレクイエムも発売間近！楽しみだね！ ©CAPCOM\n本映像には暴力シーンや..."
             }
         ]
     },
@@ -519,15 +512,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "3aB_RFbJXgY",
-                "title": "【SUBNAUTICA】what this fih doin",
-                "date": "2026/01/16 05:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/3aB_RFbJXgY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAOMdSjs7QqboFYyh9vI4B3OFPQ6w",
-                "description": "thumbnail: https://x.com/Wisegrem01/status/2011575273381380275\n\nThis game is being streamed and monetized after confirming with Unknown Worlds Entertainment.\n‐‐‐‐‐‐‐‐‐‐‐‐‐..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
@@ -551,7 +536,15 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "wrNgPbDcmLI",
+                "title": "【Chants of Sennaar】 Becoming the world's greatest (only) translator | #2",
+                "date": "2026/01/16 06:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/wrNgPbDcmLI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDa2WURdKnao3Zdi-xQIDWuCSpVsQ",
+                "description": "ruinous door this way bozo!\n\nMerch: https://ohmonah.shop/collections/nimi-nightmare\n\n  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋\n\nKonbakuwa! I'm Nimi, the baku nurse VTuber of your nightmares~..."
+            }
+        ]
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
