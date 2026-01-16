@@ -3,15 +3,7 @@
         "channel_url": "https://www.youtube.com/@AZKi",
         "channel_name": "AZKi Channel",
         "avatar_url": "https://yt3.googleusercontent.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos",
-        "videos": [
-            {
-                "video_id": "DdcuNAx4S4I",
-                "title": "【マリオカートワールド】#ホロ新春ゲーム祭2026 チーム風！おかゆんと一緒に練習する！【ホロライブ / AZKi / 猫又おかゆ】",
-                "date": "2026/01/16 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/DdcuNAx4S4I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSAmdbk164d_nCq6fvepoFXhX98w",
-                "description": "@NekomataOkayu 先生に教えていただきます🍙\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信して..."
-            }
-        ]
+        "videos": []
     },
     "@AiraniIofifteen": {
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
@@ -346,7 +338,15 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ywaTzpY0YC0",
+                "title": "【マリオカートワールド】コースを覚えるところから・・よちよちです【ホロライブ/大神ミオ】",
+                "date": "2026/01/16 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ywaTzpY0YC0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJWG2dkgBt6uvif9yk2s2RJTcYHg",
+                "description": "#ホロ新春ゲーム祭2026 で走る予定！マリオワールド、まずはコースを覚えないとね・・\n\nサムネillustrator：おおはしこうぞうさん　https://x.com/h_kozo..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -605,7 +605,15 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ObyOjkIjzJw",
+                "title": "【配信予定】ぺこ！【ホロライブ/兎田ぺこら】",
+                "date": "2026/01/16 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ObyOjkIjzJw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbzgR83kvuaMzshKWaGWZqgRYNNw",
+                "description": "サムネイラスト：()さん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ #ぺこらいぶ..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
