@@ -395,13 +395,29 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "pkVIiaRvxrI",
+                "title": "【FREE CHAT】最強アイドル！不知火フレア特別応援会場💗【不知火フレア/ホロライブ】",
+                "date": "2026/01/20 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/pkVIiaRvxrI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtKwALF2WyT8V9SivRXlVW2tYCkA",
+                "description": "👯🔥hololive 3rd Generation Live #きゅるるん大作戦 〜最強アイドル、推すしかないでしょ〜⚔️🏴‍☠️\n2026年1月17日,18日にKアリーナ横浜にて開催！..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "JYg5PpjPjIE",
+                "title": "【応援枠】三期生ライブ！！！白銀ノエル応援会場はこちら🚩【白銀ノエル/ホロライブ】",
+                "date": "2026/01/18 21:59:00",
+                "thumbnail": "https://i.ytimg.com/vi/JYg5PpjPjIE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcG8nr30ynUAxea-RmXFu6gemAfA",
+                "description": "※ライブが終わったら閉じます！(スパチャお礼は別枠でさせてください🎉✨)\n\n👯🔥hololive 3rd Generation Live #きゅるるん大作戦 〜最強アイドル、推..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
