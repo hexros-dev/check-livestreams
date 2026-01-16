@@ -93,7 +93,14 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "zSOawecWsPw",
+                "title": "【Black Mesa】Full Life Consequences",
+                "thumbnail": "https://i.ytimg.com/vi/zSOawecWsPw/hqdefault.jpg?v=6969a0ee&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkboHflh4p1G8bV7VcYPjjpbLXKQ",
+                "description": "Definitely Black Mesa\n\nThis game is being streamed and monetized after confirming with © 2021 Crowbar Collective, LLC.\n\n#hololiveenglish  #ホロライブ \n\nStream my NEW ORIGINAL SONG NOW..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",

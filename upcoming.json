@@ -109,15 +109,7 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": [
-            {
-                "video_id": "zSOawecWsPw",
-                "title": "【Black Mesa】Full Life Consequences",
-                "date": "2026/01/16 10:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/zSOawecWsPw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkboHflh4p1G8bV7VcYPjjpbLXKQ",
-                "description": "Definitely Black Mesa\n\nThis game is being streamed and monetized after confirming with © 2021 Crowbar Collective, LLC.\n\n#hololiveenglish  #ホロライブ \n\nStream my NEW ORIGINAL SONG NOW..."
-            }
-        ]
+        "videos": []
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -161,7 +153,15 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "OsfTY0zzyb0",
+                "title": "【 テラリア/Terraria 】初めてのテラリア！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "date": "2026/01/16 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/OsfTY0zzyb0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvpslOOahvPHqJuYAte3PpT6IzRw",
+                "description": "本ゲームは ©2017 Re-Logic. に確認の上配信・収益化を行っております\n\nサムネイルの素敵なイラスト　苺大福さん　https://x.com/il_ichi05?s=20\n\nメンバーシ..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -309,7 +309,15 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "7Yt5PXPXCok",
+                "title": "＃9【魔法少女ノ魔女裁判】変化する感情と、不変の感情。※ネタバレあり【尾丸ポルカ/ホロライブ】",
+                "date": "2026/01/16 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/7Yt5PXPXCok/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDl48IAmkrRHVYSM16s2ibVeW8IeA",
+                "description": "「この中に、魔女になった少女がいる」\n\n高校１年生になるはずの朝、エマが目を覚ますと、そこは薄暗い檻の中。\n身に覚えもなく絶海の孤島に..."
+            }
+        ]
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
