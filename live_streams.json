@@ -303,14 +303,7 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": [
-            {
-                "video_id": "3lIqp8cQtpU",
-                "title": "【BRUNCH STREAM】happy new yEAR",
-                "thumbnail": "https://i.ytimg.com/vi/3lIqp8cQtpU/hqdefault.jpg?v=696b0c12&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWSDCFG9OopecMJr8jh_u4h07K8w",
-                "description": "Reine's new original song now 「Yummy Yum Yummy!」AVAILABLE on iTunes, Apple Music, Spotify etc. Click to stream!\nパヴォリア・レイネ新曲「ヤミヤムヤミ」\nhttps://cover.lnk.to/mU..."
-            }
-        ]
+        "videos": []
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -394,7 +387,14 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "IDhPxHEcSHM",
+                "title": "【Vampire Survivors】エメラルドジオラマがわたしを待ってる【ホロライブ/ときのそら】",
+                "thumbnail": "https://i.ytimg.com/vi/IDhPxHEcSHM/hqdefault.jpg?v=696b2453&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDisDwN00JsICjYT9riIvRIz8N_rg",
+                "description": "極めすぎてプライベートアカウントはせんせいがいます。\nこちらではアルカナ集めとエメラルドをします！\n\n本ゲームはponcleに確認の上配信・収..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
