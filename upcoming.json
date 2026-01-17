@@ -133,7 +133,15 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "GK5RrI1IKOU",
+                "title": "【メン限歌枠】歌ったことない好きな歌やる【儒烏風亭らでん/ReGLOSS】",
+                "date": "2026/01/17 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/GK5RrI1IKOU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbU4Rsu0s8WXTGOomR1O09jyFbLQ",
+                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\n\n\n▼儒烏風亭らでんソロ曲「落噺」楽曲配信..."
+            }
+        ]
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -184,15 +192,7 @@
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
-        "videos": [
-            {
-                "video_id": "lGr_kZmjskI",
-                "title": "【hololive 6th fes. & EXPO】応援してね!! I'LL DO MY BEST✨️ #HoloLiveFesEXPO25【Kureiji Ollie】",
-                "date": "2026/01/17 12:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/lGr_kZmjskI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBiSe7dHqBMaMCkhmNwx1NEXAsilg",
-                "description": "#OLLIEginal #Kureiji_Ollie #holoID #hololive \n【hololive 5th fes. Capture the Moment Supported By BUSHIROAD】\n公演の一部をYouTube Liveで無料配信！\n全編をご覧になりたい方は..."
-            }
-        ]
+        "videos": []
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
