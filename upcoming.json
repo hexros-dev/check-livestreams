@@ -173,7 +173,15 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "0lyCMKVtwSQ",
+                "title": "【Minecraft】深夜にまったり新要素探し…❕💙【水宮枢／ホロライブDEV_IS】",
+                "date": "2026/01/19 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/0lyCMKVtwSQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAE9CmG9kJJ07a5VeOgkDW2V-O4Yw",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\nイラスト https://x.com/miri55..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -456,15 +464,7 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": [
-            {
-                "video_id": "uo-z38gdrQw",
-                "title": "【DISPATCH】I'M BACK HELLO! Let's be a hero!",
-                "date": "2026/01/19 01:15:00",
-                "thumbnail": "https://i.ytimg.com/vi/uo-z38gdrQw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgCnBCf9tfo-mBCsHnZBuULiApDQ",
-                "description": "thumbnail art:\nhttps://x.com/zookacchi/status/2012537868296622238?s=20\nhttps://x.com/AlexuYoot/status/2012516504982700089?s=20\n\n--------------------------\nHashtags\n📺 Livestream: #ImmerScreen..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
