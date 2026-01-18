@@ -237,7 +237,14 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "w8ogzWFXSqE",
+                "title": "【 #朝ミオ 】月曜日だよ～～～！おはみぉーん！",
+                "thumbnail": "https://i.ytimg.com/vi/w8ogzWFXSqE/hqdefault.jpg?v=696cdf8c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDyrqwVcFlY2bAm8qoAYHuZSs3pKA",
+                "description": "神社仏閣いきまくりな新年でした\n\n#朝ミオおたより Twitter(X)で募集中です🌟\n今回紹介するお題は、『今年絶対食べたいもの』です！\n\nサムネillustra..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -400,14 +407,7 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": [
-            {
-                "video_id": "uo-z38gdrQw",
-                "title": "【DISPATCH】I'M BACK HELLO! Let's be a hero!",
-                "thumbnail": "https://i.ytimg.com/vi/uo-z38gdrQw/hqdefault.jpg?v=696c7327&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgCnBCf9tfo-mBCsHnZBuULiApDQ",
-                "description": "thumbnail art:\nhttps://x.com/zookacchi/status/2012537868296622238?s=20\nhttps://x.com/AlexuYoot/status/2012516504982700089?s=20\n\n--------------------------\nHashtags\n📺 Livestream: #ImmerScreen..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
