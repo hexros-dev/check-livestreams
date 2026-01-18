@@ -149,7 +149,14 @@
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
         "channel_name": "Kobo Kanaeru Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "GoRYuIcfh2s",
+                "title": "【Good Pizza, Great Pizza】WOULD YOU LIKE SOME PINEAPPLE PIZZA? 🍕",
+                "thumbnail": "https://i.ytimg.com/vi/GoRYuIcfh2s/hqdefault.jpg?v=696c8b4a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWNRBtYrN3UTGdi0_r-9jh7_69XA",
+                "description": "Bokobokobo- Kobo Kanaeru at your service! Let me be your sun to shine your day, ehe~ ;D ☔☔☔\n#OnAeru #Kobo_Kanaeru #holoID #holoID03\n\nGame Title: Good Pizza, Great Pizza - Cooking Simulator..."
+            }
+        ]
     },
     "@KoganeiNiko": {
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
@@ -484,14 +491,7 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": [
-            {
-                "video_id": "PNqxIkL3Y7Q",
-                "title": "Thank you so so so much!! 🫶【ホロライブ/兎田ぺこら】",
-                "thumbnail": "https://i.ytimg.com/vi/PNqxIkL3Y7Q/hqdefault.jpg?v=696cccb3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDn5DX4a5AC2deBNwCz6Wmcv_VZsg",
-                "description": "👯🔥hololive 3rd Generation Live #きゅるるん大作戦 〜最強アイドル、推すしかないでしょ〜⚔️🏴‍☠️\n2026年1月17日,18日にKアリーナ横浜にて開催✨..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
