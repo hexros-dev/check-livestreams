@@ -144,6 +144,13 @@
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
         "videos": [
             {
+                "video_id": "esTMy7egONc",
+                "title": "【MIMESIS】あゝ、生きてて良かったあ・・・・【ホロライブ DEV_IS 響咲リオナ】",
+                "date": "2026/01/20 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/esTMy7egONc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlbhFXwfaCOp66qkcksENWUcnhCA",
+                "description": "ぽるぽるにお誘いいただきました・・・\n一生頭が上がりません。サムネもありがとうございます✨\n@OmaruPolka \n@TodorokiHajime \n@HimemoriLuna \n================..."
+            },
+            {
                 "video_id": "njdDrhEKkO4",
                 "title": "【 利用規約に同意したい 】えー無言で同意します！！！！【ホロライブ DEV_IS 響咲リオナ】",
                 "date": "2026/01/19 17:00:00",
@@ -194,7 +201,15 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "xZbGXk9fgmE",
+                "title": "【MARIO KART WORLD】TRAINING ARC EPISODE WITH @MoriCalliope",
+                "date": "2026/01/20 07:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/xZbGXk9fgmE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9Ip9NViUAd-gUZkhmAlmrAjdf-A",
+                "description": "MATCH WITH EEPY BIBOO MERCH:\n\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/kosekibijou_pebblepajamasoutfit\nEN: https://shop.hololivepro.com/en/products/kosekibijou..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -239,6 +254,13 @@
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
         "videos": [
+            {
+                "video_id": "8Xli4rP_Rnw",
+                "title": "【Mario Kart World】TRAINING ARC!! KAZE NO YOU NI!!! #calliolive",
+                "date": "2026/01/20 07:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/8Xli4rP_Rnw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDL-4fcHo_rnssw31rixdgKAwRn5w",
+                "description": "with @KosekiBijou \n\nDISASTERPIECE New Album ON Sale!\nPre-Order:https://lnk.to/mc_dp_ec\n\n直筆サイン入り通常盤 / SIGNED BONUS EDITION (ONLY A FEW DAYS LEFT!)\n https://lnk.to/moricalliope_sh..."
+            },
             {
                 "video_id": "Nj_Zf3_uc_0",
                 "title": "【Hytale】brand new open world adventure with my favorite phoenix! #calliolive",
@@ -345,7 +367,15 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "QNs0xKeDCEA",
+                "title": "【メン限ラジオ】輪堂千速のニックナイトガレーディオ #9【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "date": "2026/01/19 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/QNs0xKeDCEA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnxclJzVPfjMA6n091r8JCo8nBwA",
+                "description": "今年最初のガレーディオ！\n\nこの配信でいただいたスーパーチャットなどは最後にお名前だけお呼びさせていただきます。\n\nBGM：トーマス大森音楽..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -475,7 +505,7 @@
                 "title": "【 大乱闘スマッシュブラザーズ SPECIAL 】#ホロ新春ゲーム祭2026 チーム風＋みんなで練習！【常闇トワ/ホロライブ】",
                 "date": "2026/01/19 17:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/XKinG1fDCpE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLByFmIxX1plXRUG07-E88bLFFfIjQ",
-                "description": "#ホロ新春ゲーム祭2026\n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n✼••┈┈┈┈┈┈┈┈┈┈┈┈••✼..."
+                "description": "#ホロ新春ゲーム祭2026\n\n参加予定！\n\n@NekomataOkayu \n@VestiaZeta \n@holoen_gigimurin \n@MoriCalliope \n@ShirakamiFubuki \n@ShioriNovella \n\nこの動画およびライブは、任天堂著作..."
             }
         ]
     },
@@ -572,14 +602,14 @@
         "videos": [
             {
                 "video_id": "BwlVfZXlNDc",
-                "title": "【Hytale】話題のマイクラ風サンドボックスの世界へ行ってみる！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
+                "title": "【Hytale】話題のマイクラ風ゲーム『Hytale』でサバイバル生活！ぺこ！【ホロライブ/兎田ぺこら】",
                 "date": "2026/01/19 19:30:00",
                 "thumbnail": "https://i.ytimg.com/vi/BwlVfZXlNDc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNGHOcQc6JSgY1Mk-cVlNb6DTPNg",
-                "description": "サムネイラスト：()さん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ #ぺこらいぶ..."
+                "description": "ぺーにゃわくわく！\n\nサムネイラスト：かんざきひろさん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekor..."
             },
             {
                 "video_id": "t6Mv3P1AsT4",
-                "title": "【#ホロライブ共通テスト】ホロライブ共通テスト2026に挑戦！ぺこ！　【ホロライブ/兎田ぺこら】",
+                "title": "【#ホロライブ共通テスト】ホロライブ共通テスト2026に挑戦！ぺこ！　【ホロライブ/兎田ぺこら】答え合わせあり",
                 "date": "2026/01/19 18:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/t6Mv3P1AsT4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8zO15qfep3gZZnPdSC3rwabBBEQ",
                 "description": "見とけって！\n\nサムネイラスト：かにかまさん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュ..."
