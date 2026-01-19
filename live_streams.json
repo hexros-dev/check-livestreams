@@ -350,14 +350,7 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": [
-            {
-                "video_id": "gIUs1gM0kj4",
-                "title": "大好きなみんなへ！重大告知もあります！！【白銀ノエル/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/gIUs1gM0kj4/hqdefault.jpg?v=696dd4c6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApA7kQBwX0LSjZxHq9pk38sRagIg",
-                "description": "#きゅるるん大作戦 のライブ感想もしつつ...重大告知もさせてください！！！\n\n#PR\n✨🤍白銀ノエル誕生日記念グッズ2025販売中🤍✨\nhttps://shop.hololiv..."
-            }
-        ]
+        "videos": []
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -381,7 +374,14 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "TLE8Wq5ixCM",
+                "title": "【対ケツ】コロコロからの挑戦者！？ケツバトラーで勝負！【轟はじめ/ゾンちゅう 】",
+                "thumbnail": "https://i.ytimg.com/vi/TLE8Wq5ixCM/hqdefault.jpg?v=696ce600&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA24idJ3JTmTKTKizrS3rEfy0LYqA",
+                "description": "対ケツ相手はこちら！👉@zonchu_official \n#コロコロばんちょー\n\n本ゲームは 面白法人カヤック様、小学館様の許諾を受けて配信、収益化を行なってお..."
+            }
+        ]
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
