@@ -244,14 +244,7 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": [
-            {
-                "video_id": "w8ogzWFXSqE",
-                "title": "【 #朝ミオ 】月曜日だよ～～～！おはみぉーん！",
-                "thumbnail": "https://i.ytimg.com/vi/w8ogzWFXSqE/hqdefault.jpg?v=696cdf8c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDyrqwVcFlY2bAm8qoAYHuZSs3pKA",
-                "description": "神社仏閣いきまくりな新年でした\n\n#朝ミオおたより Twitter(X)で募集中です🌟\n今回紹介するお題は、『今年絶対食べたいもの』です！\n\nサムネillustra..."
-            }
-        ]
+        "videos": []
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -269,7 +262,14 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Qd-H0BUp7FY",
+                "title": "【Members Only】 Movie Watchalong: The Thing (1982)",
+                "thumbnail": "https://i.ytimg.com/vi/Qd-H0BUp7FY/hqdefault.jpg?v=696cbf96&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAz4LKvNhepfFdQ-Faw-vdF3Pm0ug",
+                "description": "[Twitter]\nhttps://twitter.com/ourokronii\n\n[Thumbnail Art]\nhttps://x.com/cahryos\n----------------------------------------------------------------------------\n\n[Viewer Rules]\nThank you for watching..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
