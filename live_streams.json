@@ -57,7 +57,14 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Ggu4yIltoQY",
+                "title": "≪Taiko no Tatsujin≫ rat drum",
+                "thumbnail": "https://i.ytimg.com/vi/Ggu4yIltoQY/hqdefault.jpg?v=696e48d0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBpYYlR-7DGpZCOAN5_uI2m36JrKw",
+                "description": "I am supposed to be asleep. \nBut I just washed my hair and it needs to dry. \nAlso I need to practice.\n\n#telebae  #hololiveenglish \n\n««≪ °◇◆◇° ≫ »»\nThis livestream is produced..."
+            }
+        ]
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -484,14 +491,7 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": [
-            {
-                "video_id": "BwlVfZXlNDc",
-                "title": "【Hytale】話題のマイクラ風ゲーム『Hytale』でサバイバル生活！ぺこ！【ホロライブ/兎田ぺこら】",
-                "thumbnail": "https://i.ytimg.com/vi/BwlVfZXlNDc/hqdefault.jpg?v=696df484&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNGHOcQc6JSgY1Mk-cVlNb6DTPNg",
-                "description": "ぺーにゃわくわく！\n\nサムネイラスト：かんざきひろさん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekor..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
