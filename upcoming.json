@@ -311,15 +311,7 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": [
-            {
-                "video_id": "Xr7TgSGCCIs",
-                "title": "【Mario Kart World】Off Collab With @holoen_raorapanthera",
-                "date": "2026/01/20 09:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Xr7TgSGCCIs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDS4Bn3OtHuElItIxPNsm280E117Q",
-                "description": "we are so happy u all decided to become furries with this merch 🥰\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/ourokronii_anniversary_4th\nEN: https://shop.holol..."
-            }
-        ]
+        "videos": []
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
@@ -367,7 +359,15 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "JIHfEsGlMfw",
+                "title": "【＃４】マホロアエピローグ 異空をかける旅人|星のカービィ Wii デラックス 　【ホロライブ/白上フブキ】",
+                "date": "2026/01/20 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/JIHfEsGlMfw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmpTpEhkLYN4rQMcub58EqpNgF3Q",
+                "description": "━━━━━━━━━━━━━━━━━━━━━━━\n💜にゃんぐこーんグッズ発売中💙\n⁺‧┈┈┈┈┈┈┈┈┈┈┈┈‧⁺\n✦購入はコチラ¸✧･..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
