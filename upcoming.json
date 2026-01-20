@@ -402,7 +402,15 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "vngRSCMOUmU",
+                "title": "【Super Smash Bros. Ultimate】 Shiorin will teach me how to smash!!!  【Event #ホロ新春ゲーム祭2026】",
+                "date": "2026/01/21 09:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/vngRSCMOUmU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBv1IgEjzi77p8TDVhPFIRPLwMFDw",
+                "description": "#vestiazeta #hololive #vtuber #gaming  #holoid #hololiveindonesia #greytscaleX\nWith @ShioriNovella \n\nSuper Smash Bros. Ultimate\nNintendo properties used in this video and livestream are used..."
+            }
+        ]
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
