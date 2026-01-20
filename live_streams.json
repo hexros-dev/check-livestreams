@@ -63,14 +63,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "3ZHHhpRYu9k",
-                "title": "【 #ホロライブ共通テスト 】今年も目指せ100点！！！ホロメン関連の問題に挑戦するぞ！！！✊🔥【博衣こより/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/3ZHHhpRYu9k/hqdefault.jpg?v=696e3cd0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDK7n84OZwCG6Ms7AC3GkTKJN9iCg",
-                "description": "#ホロライブ共通テスト 今年もヤマたさんが制作してくださいました！今年が最終回とのことで、毎年ありがとうございました…！👏\nhttps://docs.goo..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -329,7 +322,14 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ehS3woF5g0o",
+                "title": "【吉野家】夢のコラボ！！！吉野家こんまっするキャンペーン✨トレーニングセンターのロケ動画も...？！【白銀ノエル/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/ehS3woF5g0o/hqdefault.jpg?v=696e8efa&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfjY-L3NCiTY1UBqEVP3lzhVZWpA",
+                "description": "吉野家 × 白銀ノエル「こんまっする！」アプリポイントキャンペーン 🐮\n\n▼ 特設サイトはこちら！\nhttps://www.yoshinoya.com/special/shirogane-noel_202601/..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
