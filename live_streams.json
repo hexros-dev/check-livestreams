@@ -63,14 +63,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "3NQ2XwJ2ayM",
-                "title": "【ダレカレ】今話題の\"絶対に泣くゲーム\"【博衣こより/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/3NQ2XwJ2ayM/hqdefault.jpg?v=697086b3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmfiElJ9CRHA8ibRiOnoahbhcMCQ",
-                "description": "噂の「とある少女の物語を追体験するゲーム」絶対に泣いてしまう・・・らしい。\n💗もふこよ＆こより達のLINE絵文字新登場！💗\nhttps://store.line.me..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -275,14 +268,7 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": [
-            {
-                "video_id": "dSAQ5Eb1smE",
-                "title": "【Agreeee】Meditation and Tuning in to Nature【Pavolia Reine/holoID gen 2】",
-                "thumbnail": "https://i.ytimg.com/vi/dSAQ5Eb1smE/hqdefault.jpg?v=69708cd5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwlw5LsCZ7zsHbfoCzJc31hIBOMQ",
-                "description": "Reine's new original song now AVAILABLE on iTunes, Apple Music, Spotify etc. starting September 10, 2025 00:00 your local time!!!\nWatch the MV:➡️https://youtu.be/NEtiag8nTUs\nGet it here:➡️h..."
-            }
-        ]
+        "videos": []
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -324,7 +310,14 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "VosMLyCxQHc",
+                "title": "【デヴィエーション・ゲーム】仲間を信じてAIと勝負！！【#ホロディヴィエーション】",
+                "thumbnail": "https://i.ytimg.com/vi/VosMLyCxQHc/hqdefault.jpg?v=69706279&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDyrEAS7NQncH7P4hWdRWagUzRQ8w",
+                "description": "#ホロディヴィエーション\n\nさくらみこ @SakuraMiko  大空スバル @OozoraSubaru 　百鬼あやめ @NakiriAyame 　大神ミオ @OokamiMio \n━━━━━━━━━━━━━━..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -367,7 +360,14 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "FwkMz5q3dIY",
+                "title": "＃７【バイオハザード HDリマスター】完全初見で挑む初代バイオの世界【轟はじめ/ReGLOSS】",
+                "thumbnail": "https://i.ytimg.com/vi/FwkMz5q3dIY/hqdefault.jpg?v=696e40f2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDrTVzAdMgcyL4hovty_-fqcDMNQQ",
+                "description": "自分....やれんのか....？？\n\nこの動画およびライブは\n株式会社カプコンの利用許諾を受けて配信しています\nバイオハザード HDリマスター\n©CAPCOM..."
+            }
+        ]
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
