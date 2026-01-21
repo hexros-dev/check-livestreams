@@ -346,7 +346,15 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "F1pAcjNzCSw",
+                "title": "【OHAPOL】＃191 1/22木曜日！眠いと思うからねむいんだ #ポルカ公演中 【尾丸ポルカ/ホロライブ】",
+                "date": "2026/01/22 04:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/F1pAcjNzCSw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_jiwC2MTeemRqsX1ZDDsk7PLvpg",
+                "description": "サムネイルありがとうございます！\nhttps://x.com/beaterIR\n\n▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄\n\nOHAPOL（おはポル）は不定期で朝6時から配信！\n主に水曜〜..."
+            }
+        ]
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
@@ -414,29 +422,13 @@
         "channel_url": "https://www.youtube.com/@SamekoSaba",
         "channel_name": "saba",
         "avatar_url": "https://yt3.googleusercontent.com/gNZv93GVlg3GAco7HTg2OXl_9s2Pm3lG6DxNfOXqPkLRNcM5BSEOAcQGpgQ8AejiEam5ElLG",
-        "videos": [
-            {
-                "video_id": "kIsRYLvylXk",
-                "title": "【 HYTALE 】we're rich!",
-                "date": "2026/01/22 04:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/kIsRYLvylXk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKNnEl1aFw4W4kkDwJM4EBFb2sjA",
-                "description": "more ore ore else, gentlemen\n\n🐟 https://x.com/samekosaba\n🐟 thumbnail: https://x.com/RikuJe\n#samekosaba \n\n\nchat rules: please help me make this a welcoming space for everyone!\n- treat..."
-            }
-        ]
+        "videos": []
     },
     "@ShioriNovella": {
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": [
-            {
-                "video_id": "6N9afVYAR98",
-                "title": "Tis' But a Scratch 【Dark Souls 2: Scholars of the First Sin】 Spoilers!",
-                "date": "2026/01/22 04:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/6N9afVYAR98/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA46Bh_NF-p6YRhLpJyYPDNjO9XdQ",
-                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n===============..."
-            }
-        ]
+        "videos": []
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
