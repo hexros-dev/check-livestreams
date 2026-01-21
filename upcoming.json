@@ -153,7 +153,15 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "wqfPCn3JVW8",
+                "title": "【Agreeee 利用規約に同意したい】I do not agree but I WILL AGREE",
+                "date": "2026/01/22 11:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/wqfPCn3JVW8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcN6nLvM8zVjarfn7BRvpufrmVVA",
+                "description": "I looked up on how to do 3x3 slide puzzles\n\nGame Title: Agreeee\nStore Page: https://store.steampowered.com/app/3757210/_/\n\n#hololiveenglish  #ホロライブ \n\nStream my NEW ORIGINAL SONG NOW..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -525,15 +533,7 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": [
-            {
-                "video_id": "HdHI3lQ9EvY",
-                "title": "【DISPATCH】SAY I'M IN ALREADY SAY IT!!! SAY IIIIIIT",
-                "date": "2026/01/22 01:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/HdHI3lQ9EvY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRdfUCwSLuFZGfuz6Y-V0gljfz1g",
-                "description": "thumbnail art:\nhttps://x.com/lamus_art/status/2013091295900619102?s=20\n--------------------------\nHashtags\n📺 Livestream: #ImmerScreen \n🎨 Fanart: #Immergination\n🎻 Music: #ImmerPiece..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
