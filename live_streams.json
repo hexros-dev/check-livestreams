@@ -129,14 +129,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": [
-            {
-                "video_id": "gqdcDmyzCxs",
-                "title": "【 Minecraft 】全実績解除！？ぺこら先輩と！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "thumbnail": "https://i.ytimg.com/vi/gqdcDmyzCxs/hqdefault.jpg?v=697220b5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6_KuoxbCksjPZpzMCPFrdpObGHw",
-                "description": "サムネイル作ってくれたよ！@usadapekora \n\nサムネイルの素敵なイラスト　ふるぱさん　https://x.com/furupa0410?s=20\n　\nメンバーシップ開設しました！加入..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -409,7 +402,14 @@
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
         "channel_name": "Choco Ch. 癒月ちょこ",
         "avatar_url": "https://yt3.googleusercontent.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "CFaCGcU5lbA",
+                "title": "【the game of sisyphus 】深夜にこそこそもてあそばれたいと思います。２ 【ホロライブ/癒月ちょこ】",
+                "thumbnail": "https://i.ytimg.com/vi/CFaCGcU5lbA/hqdefault.jpg?v=69724a6d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_njaz6JWvZsxagI3gjanrOpDaAw",
+                "description": "ちょこの公式LINEスタンプはこちらから\nhttps://line.me/S/sticker/31677415\n\nサブ垢→https://www.youtube.com/channel/UCp3tgHXw_HI0QMk1K8qh3g\n\nOP＆ED動画：松賀りお。様@rio_..."
+            }
+        ]
     },
     "@dooby3d": {
         "channel_url": "https://www.youtube.com/@dooby3d",
