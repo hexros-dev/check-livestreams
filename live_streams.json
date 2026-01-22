@@ -238,14 +238,7 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": [
-            {
-                "video_id": "X2GvkrpaUvI",
-                "title": "【OHAPOL】＃192 1/23金曜日！柄ニットから離れられねえよ～ #ポルカ公演中 【尾丸ポルカ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/X2GvkrpaUvI/hqdefault.jpg?v=69728771&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHHHIzEqPD_EEJTw58i5yqj5uw0A",
-                "description": "サムネイルありがとうございます！\nhttps://x.com/yokuto_h\n\n▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄\n\nOHAPOL（おはポル）は不定期で朝6時から配信！\n主に水曜〜..."
-            }
-        ]
+        "videos": []
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
@@ -281,7 +274,14 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "TwSuKy6uliw",
+                "title": "【雑談/CHAT】朝活～～～！おはよさせて！！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "thumbnail": "https://i.ytimg.com/vi/TwSuKy6uliw/hqdefault.jpg?v=697269cc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVsMnOBuB5QIf2e-PRcgSCGDeTaQ",
+                "description": "お休み前らすと配信だよ～～～～～；；；\n\nサムネイルイラスト：れこ/Re:coさま\nhttps://x.com/Redd__009\nありがとうございます！！！！！！\n\n\n\nFLOWGLOW..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -341,14 +341,7 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": [
-            {
-                "video_id": "RBKQWxGmGOc",
-                "title": "【ARKNIGHTS: ENDFIELD】I come prepared【RELEASE DAY】#kfp #キアライブ",
-                "thumbnail": "https://i.ytimg.com/vi/RBKQWxGmGOc/hqdefault.jpg?v=69715b4e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2-fYXg8LrhXeCjhhxucgWftwGSw",
-                "description": "CONCERT STREAMING TICKETS: https://drawn-to-dawn.hololivepro.com/ticket\nCONCERT WEBSITE: https://drawn-to-dawn.hololivepro.com/ \n\n🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara..."
-            }
-        ]
+        "videos": []
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
@@ -414,14 +407,7 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": [
-            {
-                "video_id": "py5rWfnxwbw",
-                "title": "【DISPATCH】TWILIGHT FOR GUYS? - Ragebaitcilia Immergreen",
-                "thumbnail": "https://i.ytimg.com/vi/py5rWfnxwbw/hqdefault.jpg?v=697230af&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCDG0eEVvjsGQXj31I5rNTEORzKg",
-                "description": "thumbnail art: https://x.com/IMKO_0/status/2011942366433759270?s=20\n--------------------------\nHashtags\n📺 Livestream: #ImmerScreen \n🎨 Fanart: #Immergination\n🎻 Music: #ImmerPiece\n🤡..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
@@ -433,7 +419,14 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Reof3CoVkYM",
+                "title": "【The Elder Scrolls IV: Oblivion Remastered】yayyyy obwiwiwionn",
+                "thumbnail": "https://i.ytimg.com/vi/Reof3CoVkYM/hqdefault.jpg?v=6971ea0b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBd4iTk5AGMX_rYDoNHx0615V4vaQ",
+                "description": "thumbnail: https://x.com/dvljoe13/status/2013960890706522594\n\ngame title: The Elder Scrolls IV: Oblivion Remastered\nhttps://store.steampowered.com/app/2623190/The_Elder_Scrolls_IV_Oblivion_Remaster..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
@@ -469,6 +462,13 @@
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "4FyW84UZZf8",
+                "title": "早起きしたから今日は大吉だな　#結城さくな生放送",
+                "thumbnail": "https://i.ytimg.com/vi/4FyW84UZZf8/hqdefault.jpg?v=697287ab&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4likCcMQHOk871z9ie45UKJD9QA",
+                "description": "朝早く起きたので朝活配信してみる\n\n🎀グッズ・ボイス販売はこちら🐾\nhttps://yuki-sakuna.stores.jp/\n\n🎀歌ってみた動画🐾\nhttps://youtube.com/playlist?list=PLE..."
+            }
+        ]
     }
 }
