@@ -106,7 +106,14 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "6BB6dCysqTM",
+                "title": "【#ホロライブ共通テスト】試験は得意なタイプです【一条莉々華/hololive DEV_IS　ReGLOSS】",
+                "thumbnail": "https://i.ytimg.com/vi/6BB6dCysqTM/hqdefault.jpg?v=6972241f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDP1nvKCquhJoSZ9PnJOHi8sCtN0A",
+                "description": "こちらを解かせていただきます✨\nhttps://docs.google.com/forms/d/e/1FAIpQLSdtOM1XKxSkjkcAstkvOOr9-SaZADfSoMR-vL8mrxYXbB0Esw/viewform?pli=1\n\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈..."
+            }
+        ]
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -136,7 +143,14 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "gqdcDmyzCxs",
+                "title": "【 Minecraft 】全実績解除！？ぺこら先輩と！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "thumbnail": "https://i.ytimg.com/vi/gqdcDmyzCxs/hqdefault.jpg?v=697220b5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6_KuoxbCksjPZpzMCPFrdpObGHw",
+                "description": "サムネイル作ってくれたよ！@usadapekora \n\nサムネイルの素敵なイラスト　ふるぱさん　https://x.com/furupa0410?s=20\n　\nメンバーシップ開設しました！加入..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -220,7 +234,14 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "n1RC1QFydU8",
+                "title": "【 メトロイドプライム4 】最新プライムの世界へいざ～～～✦ #03【 猫又おかゆ/ホロライブ 】",
+                "thumbnail": "https://i.ytimg.com/vi/n1RC1QFydU8/hqdefault.jpg?v=6971e612&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYtwxTd_FOneVkSQ8HG8wsbwRwGg",
+                "description": "❥・・ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ・・❥\n\nにゃんぐこーんグッズ 販売決定！\n1/26(月) 18時まで受注受付中！\n‣ ふぶにゃ：https://shop.ho..."
+            }
+        ]
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -282,7 +303,14 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "4ZxLomTx1S8",
+                "title": "#5【Hades II】Beating Up The Elderly【Pavolia Reine/hololiveID】",
+                "thumbnail": "https://i.ytimg.com/vi/4ZxLomTx1S8/hqdefault.jpg?v=697219ce&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7hjb8eS9QkjOtbKNdFi4JO96szw",
+                "description": "Reine's new original song now AVAILABLE on iTunes, Apple Music, Spotify etc. starting September 10, 2025 00:00 your local time!!!\nWatch the MV:➡️https://youtu.be/NEtiag8nTUs\nGet it here:➡️h..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -486,10 +514,10 @@
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
         "videos": [
             {
-                "video_id": "QIVIS_PLtxs",
-                "title": "【ゲーム福袋】2026新春！お正月に買っておいたゲーム福袋を開封する！ぺこ！【ホロライブ/兎田ぺこら】",
-                "thumbnail": "https://i.ytimg.com/vi/QIVIS_PLtxs/hqdefault.jpg?v=6971f075&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCqbiSe6AHuCeDAbKXM75f-LDwEag",
-                "description": "まだまだお正月ぺこだよ！？\n\nサムネイラスト：憂姫はぐれマッマ\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.co..."
+                "video_id": "GTiGR5UVJ-g",
+                "title": "【Minecraft】2人で全実績解除への道【ホロライブ/兎田ぺこら/綺々羅々ヴィヴィ】",
+                "thumbnail": "https://i.ytimg.com/vi/GTiGR5UVJ-g/hqdefault.jpg?v=69722657&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCp8NgM4i6AEuj2hXAzutyY1wdrlA",
+                "description": "@KikiraraVivi \n\nサムネイラスト：苺大福さん\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を..."
             }
         ]
     },
