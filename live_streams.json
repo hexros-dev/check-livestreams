@@ -147,7 +147,14 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "xz9TnYz75U8",
+                "title": "【ARKNIGHTS: ENDFIELD】Your cute girls. Hand them over.",
+                "thumbnail": "https://i.ytimg.com/vi/xz9TnYz75U8/hqdefault.jpg?v=697242ca&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDuYza75K-m89Ja29RFKJIAHSxLrQ",
+                "description": "MATCH WITH EEPY BIBOO MERCH:\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/kosekibijou_pebblepajamasoutfit\nEN: https://shop.hololivepro.com/en/products/kosekibijou_..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -219,7 +226,14 @@
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
         "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "u9XKLJjDB1Y",
+                "title": "REVENGE!!! LET'S AGREE TO AGREE, DO YOU AGREE? | Agreeee",
+                "thumbnail": "https://i.ytimg.com/vi/u9XKLJjDB1Y/hqdefault.jpg?v=69722b4c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXS-5Vzz64WcYNew9CBtW8A954BA",
+                "description": "∴∴🎶*┈┈┈┈┈┈┈┈┈┈┈┈┈*🎶∴∴\n\n🐦‍⬛twitter: https://x.com/nerissa_en\n🐦‍⬛spotify: https://open.spotify.com/artist/4uzAnzFMXarRPOBAG2lIIa\n🐦‍⬛insta:..."
+            }
+        ]
     },
     "@NinomaeInanis": {
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
@@ -267,14 +281,7 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": [
-            {
-                "video_id": "TwSuKy6uliw",
-                "title": "【雑談/CHAT】朝活～～～！おはよさせて！！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "thumbnail": "https://i.ytimg.com/vi/TwSuKy6uliw/hqdefault.jpg?v=697269cc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVsMnOBuB5QIf2e-PRcgSCGDeTaQ",
-                "description": "お休み前らすと配信だよ～～～～～；；；\n\nサムネイルイラスト：れこ/Re:coさま\nhttps://x.com/Redd__009\nありがとうございます！！！！！！\n\n\n\nFLOWGLOW..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -462,13 +469,6 @@
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": [
-            {
-                "video_id": "4FyW84UZZf8",
-                "title": "早起きしたから今日は大吉だな　#結城さくな生放送",
-                "thumbnail": "https://i.ytimg.com/vi/4FyW84UZZf8/hqdefault.jpg?v=697287ab&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4likCcMQHOk871z9ie45UKJD9QA",
-                "description": "朝早く起きたので朝活配信してみる\n\n🎀グッズ・ボイス販売はこちら🐾\nhttps://yuki-sakuna.stores.jp/\n\n🎀歌ってみた動画🐾\nhttps://youtube.com/playlist?list=PLE..."
-            }
-        ]
+        "videos": []
     }
 }
