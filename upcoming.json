@@ -145,15 +145,7 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": [
-            {
-                "video_id": "-loM8WEB73c",
-                "title": "【CookieRun: Kingdom】Running with the Dough #PR",
-                "date": "2026/01/23 11:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/-loM8WEB73c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBoSGzjs2_9SV13wDh2kEkOT2wweg",
-                "description": "Play CookieRun: Kingdom here!!→ https://bit.ly/IRyStocratsCRK5th\n\nLet’s celebrate 5 Years of Kingdom by trying out the game and checking out the massive Dark Enchantress update together!..."
-            }
-        ]
+        "videos": []
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -207,7 +199,15 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "3hLF9TRZ4n0",
+                "title": "【#ホロ新春ゲーム祭2026】I'M DOING MY PART!!",
+                "date": "2026/01/24 18:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/3hLF9TRZ4n0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAG78YAi2wH5Q9Snjb9ZCyUqk7WJg",
+                "description": "MATCH WITH EEPY BIBOO MERCH:\n\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/kosekibijou_pebblepajamasoutfit\nEN: https://shop.hololivepro.com/en/products/kosekibijou..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -434,15 +434,7 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": [
-            {
-                "video_id": "HOUkMMMzNZQ",
-                "title": "More Smash Practice with More Cats 【Super Smash Bros. Ultimate】",
-                "date": "2026/01/23 11:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/HOUkMMMzNZQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1nHxAFV4FzLmzWKGMcFM2alZ4sw",
-                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n===============..."
-            }
-        ]
+        "videos": []
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
