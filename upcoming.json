@@ -190,7 +190,15 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "VZYURAON7bY",
+                "title": "【#ホロ新春ゲーム祭2026】The Moon Smiles Upon Us! 月が綺麗ですね🌙",
+                "date": "2026/01/24 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/VZYURAON7bY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD74oxxUD4wHBNI0Zu_wId7rcvZAg",
+                "description": "Raw talent signing in\n\nマリオカート ワールド\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\nGolf It!\n本ゲームは Perfuse..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -298,7 +306,7 @@
             {
                 "video_id": "Uvifskow3fo",
                 "title": "【#ホロ新春ゲーム祭2026】チーム鳥！頑張るぞ✨❕【水宮枢／ホロライブDEV_IS】",
-                "date": "2026/01/24 15:00:00",
+                "date": "2026/01/24 16:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/Uvifskow3fo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwnEo9O9lkbuB8Fn9kh3IU9BpLuQ",
                 "description": "主催 : @TokoyamiTowa \n大乱闘スマッシュブラザーズ SPECIAL\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n太鼓の達人..."
             }
@@ -578,13 +586,6 @@
                 "date": "2026/01/24 16:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/F301cd486sk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCUNZUxlCToZrt19wHEvLRHOOZYQw",
                 "description": "CONCERT STREAMING TICKETS: https://drawn-to-dawn.hololivepro.com/ticket\nCONCERT WEBSITE: https://drawn-to-dawn.hololivepro.com/ \n\n🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara..."
-            },
-            {
-                "video_id": "gQw8MDsewkc",
-                "title": "【HYTALE】a tako joins the myth server 👀#kfp #キアライブ",
-                "date": "2026/01/24 01:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/gQw8MDsewkc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0wO0HSI-Q9_6_LQsJyjHfQTWe0A",
-                "description": "CONCERT STREAMING TICKETS: https://drawn-to-dawn.hololivepro.com/ticket\nCONCERT WEBSITE: https://drawn-to-dawn.hololivepro.com/ \nwith @NinomaeInanis !!\n\n🏵️[Twitter] 🏵️\nhttps://twitter.com..."
             }
         ]
     },
