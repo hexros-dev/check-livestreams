@@ -327,15 +327,7 @@
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC",
-        "videos": [
-            {
-                "video_id": "1Eh-MM26_Ok",
-                "title": "【 Hytale 】マイクラ風サンドボックスゲーム！？遊んでみる～！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-                "date": "2026/01/25 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/1Eh-MM26_Ok/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZrFzcBvIipBlz4d_YS6rG_s-k8w",
-                "description": "▽音乃瀬奏 77万人記念グッズ▽\n1月13日　21:30より販売開始！\nhttps://shop.hololivepro.com/products/otonosekanade_subscribers_770k\n\n▽✨重大告知✨ ▽\n音乃瀬奏..."
-            }
-        ]
+        "videos": []
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
@@ -395,15 +387,7 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": [
-            {
-                "video_id": "diLXbmEInOw",
-                "title": "【pop'n music Lively】一番大好きな音ゲー「ポップン」で遊ぶぞ！【不知火フレア/ホロライブ】",
-                "date": "2026/01/25 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/diLXbmEInOw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAKWUH-FY1Z_SnvAYxoibanka69g",
-                "description": "今日はコンパクトモデルで遊びます\n\n■New「Fun fair」MV公開✨\nhttps://www.youtube.com/watch?v=FdKux6g4HJ4\n\n━━━━━━━━━━━━━━━━━━━━━━━..."
-            }
-        ]
+        "videos": []
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -491,7 +475,15 @@
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
         "channel_name": "Choco Ch. 癒月ちょこ",
         "avatar_url": "https://yt3.googleusercontent.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "L4jzcG97sbg",
+                "title": "【Freetalk】ちょこめいとからのクズエピおかずに食べさせてもらいます📣 【ホロライブ/癒月ちょこ】",
+                "date": "2026/01/25 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/L4jzcG97sbg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqcKqXXhn4JeLe82wfoYOiTH_KDQ",
+                "description": "ちょこの公式LINEスタンプはこちらから\nhttps://line.me/S/sticker/31677415\n\nサブ垢→https://www.youtube.com/channel/UCp3tgHXw_HI0QMk1K8qh3g\n\nOP＆ED動画：松賀りお。様@rio_..."
+            }
+        ]
     },
     "@dooby3d": {
         "channel_url": "https://www.youtube.com/@dooby3d",
@@ -527,7 +519,15 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "xixYYhZHors",
+                "title": "風真いろはの #ねるまえらじお 📻❣ #09",
+                "date": "2026/01/25 22:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/xixYYhZHors/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6pzkwwQqf0IJ5OJgg0EEE1NArEg",
+                "description": "第6回 #ねるまえらじお 📻\n沢山のふつおたありがとうございます✨\n\nお便り募集はXまたはYoutubeコミュニティにて発信中❣\nぜひフォローやチャンネ..."
+            }
+        ]
     },
     "@mikenekoko": {
         "channel_url": "https://www.youtube.com/@mikenekoko",
@@ -551,14 +551,6 @@
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": [
-            {
-                "video_id": "crWxEn1d0zs",
-                "title": "【緊急ゲリラ】友達にホロガードもらったのでやってみる　#結城さくな生放送",
-                "date": "2026/01/25 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/crWxEn1d0zs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKiWm-ddJjTjWGZ3PavOpBVb8U6A",
-                "description": "🎀グッズ・ボイス販売はこちら🐾\nhttps://yuki-sakuna.stores.jp/\n\n🎀歌ってみた動画🐾\nhttps://youtube.com/playlist?list=PLErsMirGq93vRw-CcRaaZfR4QVxl2uBsb&si=BRmEr8erE6aR-UJ..."
-            }
-        ]
+        "videos": []
     }
 }
