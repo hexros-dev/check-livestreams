@@ -239,14 +239,7 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": [
-            {
-                "video_id": "BY_XOcPWGtk",
-                "title": "【BackSeat Drivers】CALLI, I DON'T HAVE A LICENS- ....playing with @MoriCalliope !!",
-                "thumbnail": "https://i.ytimg.com/vi/BY_XOcPWGtk/hqdefault.jpg?v=697580b6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRQi8HHBLWF5Ukn0Fii0WVyhs2MA",
-                "description": "【Thumbnail Art】\n\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\nGame title：Backseat Drivers\nStore page：https://store.steampowered.com/app/3558400/Backseat_Drivers/\n______________________..."
-            }
-        ]
+        "videos": []
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -445,7 +438,14 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "XO_GoBe800E",
+                "title": "【ELDENRING】完全初見⚔エルデの王におれはなるッ🔥04【風真いろは/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/XO_GoBe800E/hqdefault.jpg?v=6974d429&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_v9XBPwzlhLThLcoVgghzQMWjYw",
+                "description": "酔い止めのんでれっつらご～✊\n\nサムネイラスト：https://x.com/hanamori59ya/status/1587723998112395265?s=20\n本ゲームは株式会社フロム・ソフトウェアに確認を..."
+            }
+        ]
     },
     "@mikenekoko": {
         "channel_url": "https://www.youtube.com/@mikenekoko",
