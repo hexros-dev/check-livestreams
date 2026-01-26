@@ -63,14 +63,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "ksO_9gZ2rmQ",
-                "title": "【 #朝こよ 】1月最後の火曜日の朝も！朝こよ～！☀ #269 【博衣こより/hololive】",
-                "thumbnail": "https://i.ytimg.com/vi/ksO_9gZ2rmQ/hqdefault.jpg?v=6976fc40&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmak9V2iOqX5clNKdBrfIj5_da2A",
-                "description": "💗もふこよ＆こより達のLINE絵文字新登場！💗\nhttps://store.line.me/emojishop/product/692005351b274b249396cf6b/ja\n\n🎶こよのSpotifyフォローしてね！▼🎶\nhttps://open..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -238,7 +231,14 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "srP7qWXQrIg",
+                "title": "【MyVoiceZoo】動物が全部ポルカの声の動物園【尾丸ポルカ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/srP7qWXQrIg/hqdefault.jpg?v=6977ed97&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZSrX5GYHDam62yqSBKPuE2QejsQ",
+                "description": "--------------------------\n配信タイトル：MyVoiceZoo\nストアページ：https://store.steampowered.com/app/4015530/MyVoiceZoo/\n--------------------------\n\n※尾丸ポルカへ頂いたス..."
+            }
+        ]
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
@@ -443,7 +443,14 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "xkYRn2S2YGY",
+                "title": "【MINECRAFT】 Phoebe and Nimi's Adventures in Minecraft | Ep. 1",
+                "thumbnail": "https://i.ytimg.com/vi/xkYRn2S2YGY/hqdefault.jpg?v=6977d35f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzWl43a2MjdSkZU4G8txYCgL-0qg",
+                "description": "Minecraft with @feebeechanchibi !!\n\nMerch: https://ohmonah.shop/collections/nimi-nightmare\n\n  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋\n\nKonbakuwa! I'm Nimi, the baku nurse VTuber of your nightmares..."
+            }
+        ]
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
