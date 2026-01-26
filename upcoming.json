@@ -140,15 +140,7 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": [
-            {
-                "video_id": "FZTp5LrH2kM",
-                "title": "【Cast n Chill】うっふ～ん釣り雑談よ~ん♡静岡に行ってた【儒烏風亭らでん #ReGLOSS 】",
-                "date": "2026/01/26 21:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/FZTp5LrH2kM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApd1PtC4UttyLRlILA8EzXQHquxA",
-                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\n配信タイトル：Cast n Chill\nストアページ：https:..."
-            }
-        ]
+        "videos": []
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -335,7 +327,15 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ufWbX5JYKwg",
+                "title": "【Holo vs Robo】ボクの好きなタワーディフェンスゲームが！！あれ、ボクはどっちの陣営！？【ホロライブ/ ロボ子さん 】",
+                "date": "2026/01/26 22:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ufWbX5JYKwg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVamOdBEYmHOqKuKA8Ep7vYLy3jA",
+                "description": "＃ホロライブ 　\nｘでは💬　 #ロボ子生放送 　でポストしてってね\n本ゲームは holo Indie の承諾を得た上で配信・収益化を行なっております。..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -397,7 +397,15 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "asVSKUV52wE",
+                "title": "【DOOM ETERNAL】alright say it with me guys, \"DOOM? What do you mean DOOM?\" #kfp #キアライブ",
+                "date": "2026/01/27 01:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/asVSKUV52wE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDY-Oc5AKlCd27wnR9H65A7-LztUw",
+                "description": "CONCERT STREAMING TICKETS: https://drawn-to-dawn.hololivepro.com/ticket\nCONCERT WEBSITE: https://drawn-to-dawn.hololivepro.com/ \n\n🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
