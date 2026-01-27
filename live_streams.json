@@ -45,7 +45,14 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "8ye2bcQoIpI",
+                "title": "【醤油ラーメンFOREVER COLLAB with BOTAN】ぼたん先輩、美味しいラーメンの作り方を教えてぇ～！shoyu ramen with botan-senpai 🐾 【FUWAMOCO】",
+                "thumbnail": "https://i.ytimg.com/vi/8ye2bcQoIpI/hqdefault.jpg?v=697839e6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCI1cSI3lg9dJMNxSajopaieaIVkg",
+                "description": "美味しくないラーメンから守ってくれるよね、、、？bau bau... ✨️\n@ShishiroBotan \n\n🩵 FUWAMOCO 𝟮𝗻𝗱 𝗼𝗿𝗶𝗴𝗶𝗻𝗮𝗹 𝘀𝗼𝗻𝗴 \"Lifetime..."
+            }
+        ]
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -213,14 +220,7 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
-        "videos": [
-            {
-                "video_id": "s7PUbFaZ2BU",
-                "title": "【 MyVoiceZoo 】全部俺の声で動物園作ってみる😸✊🎤【 猫又おかゆ/ホロライブ 】",
-                "thumbnail": "https://i.ytimg.com/vi/s7PUbFaZ2BU/hqdefault.jpg?v=6977befb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyE0Lq1mxseWWnM9-qNGE9NiOnfA",
-                "description": "❥・・ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ・・❥\n\nにゃんぐこーんグッズ 販売決定！\n1/26(月) 18時まで受注受付中！\n‣ ふぶにゃ：https://shop.ho..."
-            }
-        ]
+        "videos": []
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
