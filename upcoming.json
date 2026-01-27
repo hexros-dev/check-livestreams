@@ -166,15 +166,7 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
-        "videos": [
-            {
-                "video_id": "4rNFpTU0k7U",
-                "title": "【定期雑談】ここ数日の記憶がないのですが！？？ #23【一条莉々華/hololive DEV_IS　ReGLOSS】",
-                "date": "2026/01/27 21:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/4rNFpTU0k7U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDMtEm7CzSZ11uWRxUkLmwKUe_y8A",
-                "description": "素敵なサムネイラスト🔽\n\nSalt-less 🌃 Vgen Comm Open\n@NNNhan_99 様\n\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧\n\n合言葉は「可愛い！ポジティブ！ジ..."
-            }
-        ]
+        "videos": []
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -371,7 +363,15 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "d2GD2woAzdc",
+                "title": "【Holo vs Robo】#2 ロボットと話し合いましょう　命がもったいないいいいいい！！【ホロライブ/ ロボ子さん 】",
+                "date": "2026/01/27 22:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/d2GD2woAzdc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWVJ17iyGJw4xczwGNcfeZoCj-Fg",
+                "description": "＃ホロライブ 　\nｘでは💬　 #ロボ子生放送 　でポストしてってね\n本ゲームは holo Indie の承諾を得た上で配信・収益化を行なっております。..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
