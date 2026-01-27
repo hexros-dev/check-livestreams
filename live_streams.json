@@ -183,7 +183,14 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "8aA0pTwqQd4",
+                "title": "【Sekiro: Shadows Die Twice】the end, probably #calliolive",
+                "thumbnail": "https://i.ytimg.com/vi/8aA0pTwqQd4/hqdefault.jpg?v=6975e9ef&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3RgKosfDKvncWtYPk2bidJsaMLw",
+                "description": "DISASTERPIECE New Album ON Sale!\nPre-Order:https://lnk.to/mc_dp_ec\n\n直筆サイン入り通常盤 / SIGNED BONUS EDITION (ONLY A FEW DAYS LEFT!)\n https://lnk.to/moricalliope_shop\n\nBGM: https://x.c..."
+            }
+        ]
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -231,14 +238,7 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": [
-            {
-                "video_id": "srP7qWXQrIg",
-                "title": "【MyVoiceZoo】動物が全部ポルカの声の動物園【尾丸ポルカ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/srP7qWXQrIg/hqdefault.jpg?v=6977ed97&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZSrX5GYHDam62yqSBKPuE2QejsQ",
-                "description": "--------------------------\n配信タイトル：MyVoiceZoo\nストアページ：https://store.steampowered.com/app/4015530/MyVoiceZoo/\n--------------------------\n\n※尾丸ポルカへ頂いたス..."
-            }
-        ]
+        "videos": []
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
