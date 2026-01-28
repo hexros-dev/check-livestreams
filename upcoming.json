@@ -406,7 +406,15 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "IMA3LJq732E",
+                "title": "【 MyVoiceZoo 】みんなで視聴者(cv.俺)動物園をつくるぞ！！！！！！！！！！【ホロライブ/さくらみこ】",
+                "date": "2026/01/28 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/IMA3LJq732E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgafw_Z7jkAN1Pd45EHMav6BlkOw",
+                "description": "一体どうなっちまうんだ\n\n🎀さくらみこ新衣装記念グッズ発売🎉\nhttps://shop.hololivepro.com/products/sakuramiko_roomwearoutfitcelebration\n🎀グッズ販売期間（受..."
+            }
+        ]
     },
     "@SamekoSaba": {
         "channel_url": "https://www.youtube.com/@SamekoSaba",
@@ -618,6 +626,14 @@
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "2kmA5_p3iYA",
+                "title": "うまそ～なモスの期間限定新作とり竜田を正直レビューする　#結城さくな生放送",
+                "date": "2026/01/28 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/2kmA5_p3iYA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBoHxYbaBrY-js7nrYhHNbLvk44iA",
+                "description": "美味いものを求めて\n\n【実食するもの】\n・ガーリックトマトのとり竜田バーガー ～国産クリームチーズ～\n・和風旨うまだれのとり竜田バーガー..."
+            }
+        ]
     }
 }
