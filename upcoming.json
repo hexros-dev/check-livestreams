@@ -185,15 +185,7 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": [
-            {
-                "video_id": "6vKhN2MVpE8",
-                "title": "【３D歌枠🎤】告知あり！の1月３D歌枠ですぜ❤【ホロライブ DEV_IS 響咲リオナ】",
-                "date": "2026/01/28 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/6vKhN2MVpE8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjoixiuw_Maq67HWC2OCHn3w_syg",
-                "description": "カラオケ音源協力：DAM 第一興商\n\n\n∴∵∴ ୨୧ ∴∵∴ ୨୧ ∴∵∴ ୨୧ ∴∵∴∴∵∴ ୨୧ ∴∵∴ ୨୧ ∴∵∴ ୨୧ ∴∵∴\n\nメンバーシップ(members..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -440,7 +432,15 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "FTWnZaZpC0U",
+                "title": "【＃１】#ホロテラリア　ほぼ初見のテラリアへレッツゴー！！ 【ホロライブ/白上フブキ】",
+                "date": "2026/01/28 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/FTWnZaZpC0U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFMrD8JgSvuQw-OoyhbExuFN-IUQ",
+                "description": "#ホロテラリア\nメンバー\n兎田ぺこら @usadapekora  宝鐘マリン @HoushouMarine 　白銀ノエル @ShiroganeNoel \n大神ミオ @OokamiMio  大空スバル @OozoraSubaru \n━━━━..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -532,7 +532,15 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "_nMDPpvX5PE",
+                "title": "【Wuthering Waves】Uwuwawa First Play!",
+                "date": "2026/01/28 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/_nMDPpvX5PE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBX-D_RRMOV_vMBIsZhoJc1Eu6xTw",
+                "description": "#vestiazeta #hololive #vtuber #gaming #wutheringwaves #holoid #hololiveindonesia \n\nGame Title: Wuthering Waves\nDownload: https://wutheringwaves.kurogames.com/jp/\n\n-----\nVestia Zeta's  2nd Original..."
+            }
+        ]
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
