@@ -63,13 +63,27 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "dAMpaU5d8Gg",
+                "title": "【スーパーマリオギャラクシー2】完全初見！へたっぴマリギャラ2！映画に向けてやってみよ～～～！ #1 【博衣こより/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/dAMpaU5d8Gg/hqdefault.jpg?v=69788cdd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyeYv8ajMIaKeRYI_egPh8Vhe2Yg",
+                "description": "ひさびさのへたっぴマリオだ～～～！！🎮✨4/24公開の「ザ・スーパーマリオギャラクシー・ムービー」をもっと楽しむためにやってみよう～～～..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "t63T01dESfc",
+                "title": "【 デジモン 】ウォーグレイモンのプラモデルを作るのら！！！Make a plastic model of WarGreymon【姫森ルーナ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/t63T01dESfc/hqdefault.jpg?v=6978545e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBd6TXeTLPMvXw0fsr7Vm_lCRSQuQ",
+                "description": "サムネイラスト\n　しいたけさん　https://twitter.com/siitake_hat\n\nFigure-rise Standard ウォーグレイモン\nhttps://www.bandaispirits.co.jp/products/search/detail.php?prd_id=457310..."
+            }
+        ]
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -448,6 +462,13 @@
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "2kmA5_p3iYA",
+                "title": "うまそ～なモスの期間限定新作とり竜田を正直レビューする　#結城さくな生放送",
+                "thumbnail": "https://i.ytimg.com/vi/2kmA5_p3iYA/hqdefault.jpg?v=6979baf6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBoHxYbaBrY-js7nrYhHNbLvk44iA",
+                "description": "美味いものを求めて\n\n【実食するもの】\n・ガーリックトマトのとり竜田バーガー ～国産クリームチーズ～\n・和風旨うまだれのとり竜田バーガー..."
+            }
+        ]
     }
 }
