@@ -159,15 +159,7 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": [
-            {
-                "video_id": "GK2YLZExE4c",
-                "title": "【Dead Space 3】Taking back Ellie this time for sure w/ Biboo",
-                "date": "2026/01/28 09:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/GK2YLZExE4c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZxgST6bTIJYBspkWfH-pjIGdx5A",
-                "description": "with @KosekiBijou \n\nThis game is being streamed and monetized after receiving prior consent from © 2020 Electronic Arts Inc.\n\n#hololiveenglish  #ホロライブ \n\nSTREAM MY NEW ORIGINAL SONG..."
-            }
-        ]
+        "videos": []
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -229,15 +221,7 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": [
-            {
-                "video_id": "fz9gU5lyLW4",
-                "title": "【DEAD SPACE 3】THE BROS ARE BACK IN SPACE",
-                "date": "2026/01/28 09:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/fz9gU5lyLW4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBB0TzNS3iqA9aDMlLGlvhtOxT3xw",
-                "description": "MATCH WITH EEPY BIBOO MERCH:\n\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/kosekibijou_pebblepajamasoutfit\nEN: https://shop.hololivepro.com/en/products/kosekibijou..."
-            }
-        ]
+        "videos": []
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -273,15 +257,7 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": [
-            {
-                "video_id": "KCDnFUTR36U",
-                "title": "【3D KARAOKE】singing party...featuring Niko and Riona!! #calliolive",
-                "date": "2026/01/28 09:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/KCDnFUTR36U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXTu0lWs24h7D922IrIG_CLopmBg",
-                "description": "2026.02.06. Mori Calliope NEW ALBUM「DISASTERPIECE」\nPre -Order: https://lnk.to/mc_dp_ec\nPre Add: https://lnk.to/mc_dsp\n\nLINE Stickers: https://line.me/S/sticker/32114569\n\nBGM: https://x.com/BigR..."
-            }
-        ]
+        "videos": []
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -410,7 +386,15 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "PzHN73RQPQs",
+                "title": "Hyped-Up Block Building Game of 2026 【Hytale】",
+                "date": "2026/01/29 09:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/PzHN73RQPQs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDU1Rslg5EE8z_ESzcNW-ICMimh_Q",
+                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n===============..."
+            }
+        ]
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
@@ -440,7 +424,15 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "LWAzgRJ5KDQ",
+                "title": "【DOOM ETERNAL】alright say it with me guys, \"DOOM? What do you mean DOOM?\" #kfp #キアライブ",
+                "date": "2026/01/29 01:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/LWAzgRJ5KDQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAiLyT3-3FRoposb7VvKCvndWGvQA",
+                "description": "CONCERT STREAMING TICKETS: https://drawn-to-dawn.hololivepro.com/ticket\nCONCERT WEBSITE: https://drawn-to-dawn.hololivepro.com/ \n\n🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
