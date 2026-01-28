@@ -398,14 +398,7 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": [
-            {
-                "video_id": "BMg2T_otuic",
-                "title": "【？？がつくった映画館】どんな映画も見れる映画館vsポップコーンを食べに来た獅白ぼたん【獅白ぼたん/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/BMg2T_otuic/hqdefault.jpg?v=697994ec&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCrV6JcYPjvbeQVrfTA67i_r1ANEg",
-                "description": "ここはどんな映画でも観ることができるおかしな映画館。ここで俺はとある映画を観た。\nそれは、一人の男子高校生\"桜井聡太\"が※※※※※※ま..."
-            }
-        ]
+        "videos": []
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
@@ -429,7 +422,14 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "5G8e4dIUaTU",
+                "title": "【スイカゲーム ぷらねっと】今度はぷらねっと！？【ホロライブ/ときのそら】",
+                "thumbnail": "https://i.ytimg.com/vi/5G8e4dIUaTU/hqdefault.jpg?v=697a1523&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCIOhZejoHQV1wQrwxm9AtLDNu0CA",
+                "description": "新しいスイカゲームだ！！\n遊んでみよう♪\n\n配信タイトル：スイカゲーム ぷらねっと\n公式サイト：https://suikagame.jp/planet/\n©︎ 2025 Aladdin X Inc...."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
@@ -447,14 +447,7 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
-        "videos": [
-            {
-                "video_id": "_nMDPpvX5PE",
-                "title": "【Wuthering Waves】Uwuwawa First Play!",
-                "thumbnail": "https://i.ytimg.com/vi/_nMDPpvX5PE/hqdefault.jpg?v=6979c9b9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBX-D_RRMOV_vMBIsZhoJc1Eu6xTw",
-                "description": "#vestiazeta #hololive #vtuber #gaming #wutheringwaves #holoid #hololiveindonesia \n\nGame Title: Wuthering Waves\nDownload: https://wutheringwaves.kurogames.com/jp/\n\n-----\nVestia Zeta's  2nd Original..."
-            }
-        ]
+        "videos": []
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
