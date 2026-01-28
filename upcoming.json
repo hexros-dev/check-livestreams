@@ -157,15 +157,7 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
-        "videos": [
-            {
-                "video_id": "-iaU8rHoxFU",
-                "title": "【#遊戯王マスターデュエルパーク】タッグイベントに向けて、初挑戦✨【一条莉々華/hololive DEV_IS　ReGLOSS】",
-                "date": "2026/01/28 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/-iaU8rHoxFU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQRdTZSxdQDyrSD-awuc1KkSO37A",
-                "description": "✨今日やること✨\n-デッキを組む\n-チュートリアルをプレイする\n\nYu-Gi-Oh! Master Duel\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧\n\n合言葉は「可愛..."
-            }
-        ]
+        "videos": []
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -421,7 +413,15 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "RPFnGIGXNzY",
+                "title": "【Cast n Chill】だーりん！自給自足よ🎣【不知火フレア/ホロライブ】",
+                "date": "2026/01/28 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/RPFnGIGXNzY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1w2au_Fzl5-Do47tTbNy9ehydng",
+                "description": "■New「Fun fair」MV公開✨\nhttps://www.youtube.com/watch?v=FdKux6g4HJ4\n\n━━━━━━━━━━━━━━━━━━━━━━━\n■Newシングル「架空と本当」MV公開中..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -483,15 +483,7 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
-        "videos": [
-            {
-                "video_id": "_nMDPpvX5PE",
-                "title": "【Wuthering Waves】Uwuwawa First Play!",
-                "date": "2026/01/28 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/_nMDPpvX5PE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBX-D_RRMOV_vMBIsZhoJc1Eu6xTw",
-                "description": "#vestiazeta #hololive #vtuber #gaming #wutheringwaves #holoid #hololiveindonesia \n\nGame Title: Wuthering Waves\nDownload: https://wutheringwaves.kurogames.com/jp/\n\n-----\nVestia Zeta's  2nd Original..."
-            }
-        ]
+        "videos": []
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
