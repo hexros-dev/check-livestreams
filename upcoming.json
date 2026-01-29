@@ -236,7 +236,15 @@
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "zkj6N52EE5A",
+                "title": "【MyVoiceZoo】 YOU SEE, I *AM* THE ANIMAL- 【Kureiji Ollie】",
+                "date": "2026/01/29 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/zkj6N52EE5A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsq6aif4EEy1T1HnVg_9OX-c3M-Q",
+                "description": "❥・・───༅༚˳ . ୨୧ . ˳༚༅༚─── ・・❥\n\n#OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n────୨｡ ₊°༺❤︎༻°₊ ｡ৎ────\n\n【MyVoiceZoo..."
+            }
+        ]
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
@@ -447,7 +455,15 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "fnCiHp4MP_M",
+                "title": "【＃２】#ホロテラリア　ボス大敗からの…ファーム！！！！ 【ホロライブ/白上フブキ】",
+                "date": "2026/01/29 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/fnCiHp4MP_M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZZxpFx9R4YfsC1476D8EsOcc9HQ",
+                "description": "#ホロテラリア\nメンバー\n兎田ぺこら @usadapekora  宝鐘マリン @HoushouMarine 　白銀ノエル @ShiroganeNoel \n大神ミオ @OokamiMio  大空スバル @OozoraSubaru \n━━━━..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -459,15 +475,7 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": [
-            {
-                "video_id": "0fYTHyXTVC0",
-                "title": "【#ホロテラリア】タイムカードﾋﾟｯ！愉快な仲間たちとテラリアはじめる太郎！【白銀ノエル/ホロライブ】",
-                "date": "2026/01/29 15:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/0fYTHyXTVC0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBEoYFY-v9NXFO_-b8N8GcMxvAw9A",
-                "description": "🎵愉快な仲間たち🎵\n@usadapekora 大型アプデ嬉しいナ！誘ってくれてありがとう～！！\n@ShirakamiFubuki 永遠に冒険→お宝ガチャ→冒険を繰り広げそう..."
-            }
-        ]
+        "videos": []
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
