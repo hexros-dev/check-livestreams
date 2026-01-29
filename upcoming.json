@@ -19,17 +19,19 @@
         "avatar_url": "https://yt3.googleusercontent.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc",
         "videos": []
     },
-    "@AkaiHaato": {
-        "channel_url": "https://www.youtube.com/@AkaiHaato",
-        "channel_name": "HAACHAMA Ch 赤井はあと",
-        "avatar_url": "https://yt3.googleusercontent.com/ecW_DT7IKBcfKJ1qioYiyU_Iq6EB4_bCZpaG4srWPkEZRsIAiYguEvh7_nELEJqPnbjAktVj6Q",
-        "videos": []
-    },
     "@AkiRosenthal": {
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "nX--ZEdZ0Iw",
+                "title": "【Arknights: エンドフィールド】正式リリースきた！β版からどう進化したの？！初見プレイ！【アキロゼ/ホロライブ】",
+                "date": "2026/01/29 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/nX--ZEdZ0Iw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2iMn5JFFP-F07TDFg2EpRK-Rm8A",
+                "description": "🍎アキロゼ広告衣装スポンサー募集はじめました🍎\n▼応募フォーム\nhttps://forms.gle/CHEv9Td8irUvjuQi9\n\n広告衣装ってなに？紹介ページはこちら▼..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -121,15 +123,7 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": [
-            {
-                "video_id": "TS-X2U03RIY",
-                "title": "【 チケット当選祈願歌枠 】B'zのチケットが当たりますように！なのら！！！✊(・o・🍬)🎶KARAOKE【姫森ルーナ/ホロライブ】",
-                "date": "2026/01/29 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/TS-X2U03RIY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCptC_xXL15RpFSa1n-wsuzY80JcQ",
-                "description": "サムネイラスト\n　MERUさん　https://twitter.com/meru_corone\n\n💓ルーナ姫の公式LINEスタンプ第2弾が2026年1月4日より販売開始💓\nhttps://line.me/S/sticker/32401762..."
-            }
-        ]
+        "videos": []
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -173,11 +167,11 @@
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
         "videos": [
             {
-                "video_id": "bpodf_Wbjgw",
-                "title": "【7 Days to Die】七日目までいってみるどおおお🔥【ホロライブ DEV_IS 響咲リオナ】",
-                "date": "2026/01/29 20:10:00",
-                "thumbnail": "https://i.ytimg.com/vi/bpodf_Wbjgw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9Hu_JaHZObetg5siBmpWew2O9rQ",
-                "description": "配信タイトル：7 Days to Die\nhttps://store.steampowered.com/app/25...\n本ゲームは THE FUN PIMPS ©2017 の確認を得た上で配信・収益化を行なっております。\n\nサムネ..."
+                "video_id": "1LtXKt0Vul0",
+                "title": "【リオナとランチ番外編】リオナとnosh❤お弁当もりもり食べるぞっ🎵【ホロライブ DEV_IS 響咲リオナ】",
+                "date": "2026/01/31 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/1LtXKt0Vul0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOHDiflupfB1jOIj8CWAWt8xUUww",
+                "description": "🎤nosh×Riona Ch. 響咲リオナ - FLOW GLOWの特別コラボクーポンはこちら👑\nhttps://nosh.jp/landing/hololive/IsakiRiona?utm_source=Youtuber&utm_medium=PR&utm_campaign=IsakiRiona&u..."
             }
         ]
     },
@@ -266,13 +260,6 @@
                 "date": "2026/01/30 08:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/BMKtiMlpW8w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCCwz54rEf5XfRMMQGEt0hVy_nGgQ",
                 "description": "guests: @holoen_gigimurin and @NerissaRavencroft \nDISASTERPIECE New Album ON Sale!\nPre-Order:https://lnk.to/mc_dp_ec\n\n直筆サイン入り通常盤 / SIGNED BONUS EDITION (ONLY A FEW DAYS..."
-            },
-            {
-                "video_id": "n16krIRy0vY",
-                "title": "【Dinkum】happy farming life with my happy farming wife...raora?! #calliolive",
-                "date": "2026/01/29 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/n16krIRy0vY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1EW8g6l2hlg9KZHlkSIjSril5NQ",
-                "description": "featuring @holoen_raorapanthera \n\nDISASTERPIECE New Album ON Sale!\nPre-Order:https://lnk.to/mc_dp_ec\n\nLINE Stickers: https://line.me/S/sticker/32114569\n\nBGM: https://x.com/BigRicePiano\nhttps://x.co..."
             }
         ]
     },
@@ -304,15 +291,7 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
-        "videos": [
-            {
-                "video_id": "ZS63TAMx-Lg",
-                "title": "【 #神岡家 】神岡家の気まぐれにゃじお 第54回👻🍙 ゲスト : 百鬼あやめ😈【 猫又おかゆ/椎名唯華 】",
-                "date": "2026/01/29 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/ZS63TAMx-Lg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4sp4lYfathUVfl4ag-1PnGJl3WQ",
-                "description": "👻椎名さん @ShiinaYuika  😈あやめちゃん @NakiriAyame \n❥・・ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ・・❥\n\n❥・・MUSIC・・❥\n2ndアルバム『ぺるそ..."
-            }
-        ]
+        "videos": []
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -390,7 +369,15 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ZfV1KWDKFCY",
+                "title": "【Holo vs Robo】DOLLHOUSE WHERE EVERYONE LOVES EACH OTHER PROJECT【Pavolia Reine/holoID gen 2】",
+                "date": "2026/01/29 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ZfV1KWDKFCY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBslDvqLDknsLICt3kDVQw6Sdhl0g",
+                "description": "Reine's new original song now AVAILABLE on iTunes, Apple Music, Spotify etc. starting September 10, 2025 00:00 your local time!!!\nWatch the MV:➡️https://youtu.be/NEtiag8nTUs\nGet it here:➡️h..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -414,15 +401,7 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": [
-            {
-                "video_id": "HE322pp9O74",
-                "title": "【都市伝説.exe 】都市伝説なんて本当にあるわけ・・・・ないよな？？？？？？？？【ホロライブ/さくらみこ】",
-                "date": "2026/01/29 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/HE322pp9O74/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-kO2989aSgIyPfnZS80Ncc5H-NA",
-                "description": "🎀さくらみこ新衣装記念グッズ発売🎉\nhttps://shop.hololivepro.com/products/sakuramiko_roomwearoutfitcelebration\n🎀グッズ販売期間（受注販売）\n2025年12月25日(木)..."
-            }
-        ]
+        "videos": []
     },
     "@SamekoSaba": {
         "channel_url": "https://www.youtube.com/@SamekoSaba",
@@ -454,15 +433,7 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": [
-            {
-                "video_id": "NReD448Vqw8",
-                "title": "【Cast n Chill】今夜もチル釣りtime🎣【不知火フレア/ホロライブ】",
-                "date": "2026/01/29 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/NReD448Vqw8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBcU2IxWGvNisoYYiXAIiL7ZpfSVg",
-                "description": "■New「Fun fair」MV公開✨\nhttps://www.youtube.com/watch?v=FdKux6g4HJ4\n\n━━━━━━━━━━━━━━━━━━━━━━━\n■Newシングル「架空と本当」MV公開中..."
-            }
-        ]
+        "videos": []
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -484,7 +455,7 @@
             {
                 "video_id": "sK9tuQHfyj8",
                 "title": "【THE WITCHER 3】may i offer you a gwent in these trying times #kfp #キアライブ",
-                "date": "2026/01/29 23:30:00",
+                "date": "2026/01/30 00:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/sK9tuQHfyj8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDi4q-jiwF5X-YDnPav4UlMsY56mA",
                 "description": "gwent? https://www.noloadinggames.com/?ref=kiara\n\nCONCERT STREAMING TICKETS: https://drawn-to-dawn.hololivepro.com/ticket\nCONCERT WEBSITE: https://drawn-to-dawn.hololivepro.com/ \n\n🏵️[Twitter]..."
             }
@@ -518,15 +489,7 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": [
-            {
-                "video_id": "STw0erZTYy4",
-                "title": "【 MyVoiceZoo 】全部自分の声！わためモノマネうまい動物園、開園！！！【角巻わため/ホロライブ４期生】",
-                "date": "2026/01/29 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/STw0erZTYy4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD07uzyClWdT-hQLRMSkGmTEQ4J4A",
-                "description": "うちの子たちはなんて鳴くかな？\nタグ：#ドドドライブ \n\n配信タイトル：MyVoiceZoo\nストアページ：https://store.steampowered.com/app/4015530/MyVoiceZoo/\n\n🐏角巻..."
-            }
-        ]
+        "videos": []
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -574,7 +537,15 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "OdXAl9PaYYc",
+                "title": "【GREMBERS】sleepily settin up this PC",
+                "date": "2026/01/29 23:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/OdXAl9PaYYc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQZ-nd8ROqUzb10On9LaQcLciiMQ",
+                "description": "ggst+1 !!! sry had a long day today and head feelin not so good so wanna make sure im a little rested and OK!!\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐  ⸜(｡˃ ᵕ ˂ )⸝♡ credits..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
