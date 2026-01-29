@@ -262,20 +262,20 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": [
-            {
-                "video_id": "ddTZjenjNuo",
-                "title": "【Arknights: Endfield】LET'S GO",
-                "thumbnail": "https://i.ytimg.com/vi/ddTZjenjNuo/hqdefault.jpg?v=697a6e29&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzCIZB0OEzkSTUF60suVxvKK7ymw",
-                "description": "Game title: Arknights: Endfield\nStore page: https://endfield.gryphline.com/en-us\n\n[Twitter]\nhttps://twitter.com/ourokronii\n\n[Thumbnail Art]\nhttps://x.com/koizumi_arata\n\n----------------------------..."
-            }
-        ]
+        "videos": []
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "3z7fptRnbGQ",
+                "title": "#4【Clair Obscur: Expedition 33】BACK TO THE GRIND... 【Pavolia Reine/hololiveID】",
+                "thumbnail": "https://i.ytimg.com/vi/3z7fptRnbGQ/hqdefault.jpg?v=697af48f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBC7lzNL0MSqlBHPmGB5BpMWqv2mw",
+                "description": "Reine's new original song now AVAILABLE on iTunes, Apple Music, Spotify etc. starting September 10, 2025 00:00 your local time!!!\nWatch the MV:➡️https://youtu.be/NEtiag8nTUs\nGet it here:➡️h..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
