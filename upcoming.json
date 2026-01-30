@@ -178,13 +178,6 @@
                 "date": "2026/01/31 10:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/1LtXKt0Vul0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOHDiflupfB1jOIj8CWAWt8xUUww",
                 "description": "🎤nosh×Riona Ch. 響咲リオナ - FLOW GLOWの特別コラボクーポンはこちら👑\nhttps://nosh.jp/landing/hololive/IsakiRiona?utm_source=Youtuber&utm_medium=PR&utm_campaign=IsakiRiona&u..."
-            },
-            {
-                "video_id": "eSgNGInGla4",
-                "title": "【7 Days to Die】今日がほんとの７日目です！！（笑）❤【ホロライブ DEV_IS 響咲リオナ】",
-                "date": "2026/01/30 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/eSgNGInGla4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBB4H7KzyIFddu-ZLhc8wDPc9yV6Q",
-                "description": "🆕響咲連合グッズ発売中✨❤\n■グッズ販売期間（受注販売）\n2026年1月28日(水)19時45分 ～ 2026年3月2日(月) 18時00分　\n☟\nhttps://shop.hololivepro.com/products/..."
             }
         ]
     },
@@ -421,7 +414,15 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "8SMZxeMSCnA",
+                "title": "【告知】ついにのものを重大告知するにぇええええええええええええ‼🌸【ホロライブ/さくらみこ】",
+                "date": "2026/01/30 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/8SMZxeMSCnA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6JnxS0b4d9LL2zr60mgu281VSsw",
+                "description": "告知するにぇ‼\n\n⪩⪨　お知らせ/ɪɴғᴏ\n￣￣￣￣￣￣￣￣￣￣￣￣￣\n　🌸さくらみこ1st Live \"flower fantasista!\" \n　　  Blu-ray 受注受付開始🎉予約..."
+            }
+        ]
     },
     "@SamekoSaba": {
         "channel_url": "https://www.youtube.com/@SamekoSaba",
@@ -467,13 +468,36 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "AjnWAtFI64g",
+                "title": "【メン限】白銀愛好会のみんなとまったりするの巻🍀【白銀ノエル/ホロライブ】",
+                "date": "2026/01/30 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/AjnWAtFI64g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEIOyf51JW4FUPmwbIBxCAKLKcUg",
+                "description": "配信開始5分前にメンバー限定になります🌸\n\n💚新曲「VAVAVA！バーチャル大分」MV公開中🌏\nhttps://youtu.be/k6V5yGjakC8\n\n✥-----------------------------------------..."
+            },
+            {
+                "video_id": "CmcU5eJ91tQ",
+                "title": "【仁王2】約5年ぶりに仁王の世界へ！！！脳筋女騎士の新たな旅！【白銀ノエル/ホロライブ】",
+                "date": "2026/01/31 09:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/CmcU5eJ91tQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwQrnaPEuZ7f1rwhgcARzb73S-8w",
+                "description": "前作の仁王はクリア済！仁王3に向けて仁王2を遊んでいく！\n前作の再生リスト→ https://youtube.com/playlist?list=PLsAgfBTGY4i2teU7n3Xu7h5XeNziMg-ZM&si=ZGWz2fRBdDbu46H8..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "d96RM9iv_Xs",
+                "title": "【 重大告知 】でっけぇオフイベ情報解禁【獅白ぼたん/ホロライブ】",
+                "date": "2026/02/01 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/d96RM9iv_Xs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQO73u_u_rXOo4tH1HXm4WLY1Uwg",
+                "description": "でっかいよ\n\n#hololive #ホロライブ #獅白杯\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n🔸お知らせ/ɪɴғᴏ\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n🍖モン..."
+            }
+        ]
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
@@ -629,10 +653,10 @@
             },
             {
                 "video_id": "n8cJt0d4Uz8",
-                "title": "【配信予定】教えて 教えてよ その仕組みを【ホロライブ/兎田ぺこら】",
+                "title": "【料理】夜ご飯に激ウマ『もんじゃ焼き』を作って食べる！ぺこ！【ホロライブ/兎田ぺこら】",
                 "date": "2026/01/30 18:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/n8cJt0d4Uz8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNNJNAzZ30rZ0wYtd9mLd1-JtulA",
-                "description": "サムネイラスト：()さん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ #ぺこらいぶ..."
+                "description": "Delicious Japanese food!! Got it !?\n\nサムネイラスト：アカババァさん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usada..."
             }
         ]
     },
