@@ -407,7 +407,14 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "1fR8zn4sslY",
+                "title": "【DOODLING AND HANDCAM!】Let's draw some otomos PLUS signed raffle!",
+                "thumbnail": "https://i.ytimg.com/vi/1fR8zn4sslY/hqdefault.jpg?v=697ca667&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRSeyGZyeNkRXBY4-F7PFmTSooVA",
+                "description": "Segments of this stream are sponsored by Pardo’s Shop.\nToday I’m taking another close look at my Limited Stigma collaboration — a project that means a lot to\nme and that many of you have..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
