@@ -118,14 +118,7 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": [
-            {
-                "video_id": "eSgNGInGla4",
-                "title": "【7 Days to Die】今日がほんとの７日目です！！（笑）❤【ホロライブ DEV_IS 響咲リオナ】",
-                "thumbnail": "https://i.ytimg.com/vi/eSgNGInGla4/hqdefault.jpg?v=697b9c10&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBB4H7KzyIFddu-ZLhc8wDPc9yV6Q",
-                "description": "🆕響咲連合グッズ発売中✨❤\n■グッズ販売期間（受注販売）\n2026年1月28日(水)19時45分 ～ 2026年3月2日(月) 18時00分　\n☟\nhttps://shop.hololivepro.com/products/..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -299,7 +292,14 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "8SMZxeMSCnA",
+                "title": "【告知】ついにのものを重大告知するにぇええええええええええええ‼🌸【ホロライブ/さくらみこ】",
+                "thumbnail": "https://i.ytimg.com/vi/8SMZxeMSCnA/hqdefault.jpg?v=697c73d1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6JnxS0b4d9LL2zr60mgu281VSsw",
+                "description": "告知するにぇ‼\n\n⪩⪨　お知らせ/ɪɴғᴏ\n￣￣￣￣￣￣￣￣￣￣￣￣￣\n　🌸さくらみこ1st Live \"flower fantasista!\" \n　　  Blu-ray 受注受付開始🎉予約..."
+            }
+        ]
     },
     "@SamekoSaba": {
         "channel_url": "https://www.youtube.com/@SamekoSaba",
