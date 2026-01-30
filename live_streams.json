@@ -412,7 +412,14 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "jYhF6d5b84c",
+                "title": "【MENTAL MONSTERS】HOP ON ROBLOX SO I CAN CHASE YOU AROUND!! #ad",
+                "thumbnail": "https://i.ytimg.com/vi/jYhF6d5b84c/hqdefault.jpg?v=697c9de6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQYcWG_A3i8ZhEsBPwx4yjjKrPgg",
+                "description": "MENTAL MONSTERS [奇異怪獸] is an indie asymmetric survival horror game developed by Copedman from Pangu by Kenal . Players take on roles of either Humans or Monsters in a thrilling \"Run..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
