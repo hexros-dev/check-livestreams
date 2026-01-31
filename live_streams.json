@@ -113,20 +113,20 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "GuDqpist5Bg",
+                "title": "【STREET FIGHTER 6】みんなで目指せ！マスターへの道！！powered by VICTRIX Part.3【一条莉々華/hololive DEV_IS ReGLOSS】",
+                "thumbnail": "https://i.ytimg.com/vi/GuDqpist5Bg/hqdefault.jpg?v=697dba52&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnSIu-sTX_3MQJIkiXt0m9n-xj0w",
+                "description": "第一目標、ダイヤ２！！！\n\nこの動画およびライブは株式会社カプコンの利用許諾を受けて配信しています『ストリートファイター6』\n©CAPCOM..."
+            }
+        ]
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": [
-            {
-                "video_id": "b6wZpSmZg-0",
-                "title": "【】あけおめジャンプキング！？～復帰への道～",
-                "thumbnail": "https://i.ytimg.com/vi/b6wZpSmZg-0/hqdefault.jpg?v=697c46f9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDg3iU2bKKXN7OAuaa4Q8r_U5oblg",
-                "description": "Play Game : Jump King  ( steam )\nタグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nころねTwitter▶https://twitter.com/inugamikoro..."
-            }
-        ]
+        "videos": []
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
@@ -150,7 +150,14 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "7S65lhxeHdE",
+                "title": "【マリオメーカー２】先輩ホロメンが作ったコースに初挑戦！！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "thumbnail": "https://i.ytimg.com/vi/7S65lhxeHdE/hqdefault.jpg?v=697dcd6a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBy6JwgLbTgMJ0WqHv6Lq2V9hfSww",
+                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\nメンバーシップ開設しました！加入はこちらから💕https://www.youtube...."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -277,14 +284,7 @@
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC",
-        "videos": [
-            {
-                "video_id": "usor-4Aaoe8",
-                "title": "【 龍が如く0 】完全初見！ヤクザ奏だおらぁ！！ #01 【音乃瀬奏】#hololiveDEV_IS #ReGLOSS　※ネタバレあり",
-                "thumbnail": "https://i.ytimg.com/vi/usor-4Aaoe8/hqdefault.jpg?v=697ce2a5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWz9hI13zuqV0oBI9J6R-tuKEUZg",
-                "description": "▽音乃瀬奏 77万人記念グッズ▽\n1月13日　21:30より販売開始！\nhttps://shop.hololivepro.com/products/otonosekanade_subscribers_770k\n\n▽✨重大告知✨ ▽\n音乃瀬奏..."
-            }
-        ]
+        "videos": []
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
@@ -357,14 +357,7 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": [
-            {
-                "video_id": "CmcU5eJ91tQ",
-                "title": "【仁王2】約5年ぶりに仁王の世界へ！！！脳筋女騎士の新たな旅！【白銀ノエル/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/CmcU5eJ91tQ/hqdefault.jpg?v=697c7196&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwQrnaPEuZ7f1rwhgcARzb73S-8w",
-                "description": "前作の仁王はクリア済！仁王3に向けて仁王2を遊んでいく！\n前作の再生リスト→ https://youtube.com/playlist?list=PLsAgfBTGY4i2teU7n3Xu7h5XeNziMg-ZM&si=ZGWz2fRBdDbu46H8..."
-            }
-        ]
+        "videos": []
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -466,7 +459,14 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "g5baMHkfELs",
+                "title": "【ELDENRING】完全初見⚔エルデの王におれはなるッ🔥05【風真いろは/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/g5baMHkfELs/hqdefault.jpg?v=697d9c7f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClKiPG1c6b0zDsitpjYQbt-Zj3tA",
+                "description": "まほうしょうじょ！？\n\nサムネイラスト：https://x.com/hanamori59ya/status/1587723998112395265?s=20\n本ゲームは株式会社フロム・ソフトウェアに確認を得た上、..."
+            }
+        ]
     },
     "@mikenekoko": {
         "channel_url": "https://www.youtube.com/@mikenekoko",
