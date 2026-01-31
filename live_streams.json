@@ -266,14 +266,7 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": [
-            {
-                "video_id": "BYjTImZWJSY",
-                "title": "【#尾丸ポルカ生誕祭2026】昨日の感動を振り返るぞおおおおおおおおお【尾丸ポルカ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/BYjTImZWJSY/hqdefault.jpg?v=697d4a05&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTd8dRuIaLQ_llMozgLilHxrO6CQ",
-                "description": "尾丸ポルカ誕生日記念2026グッズ販売開始🥳\nhttps://shop.hololivepro.com/products/omarupolka_birthday_2026\n\n今年も盛り上がっていｋｚ！！！\n\nライブゲスト..."
-            }
-        ]
+        "videos": []
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
@@ -429,7 +422,14 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "U4PwG0T6hko",
+                "title": "【Vampire Survivors】深夜のまったり配信【ホロライブ/ときのそら】",
+                "thumbnail": "https://i.ytimg.com/vi/U4PwG0T6hko/hqdefault.jpg?v=697e0d72&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2Bz6Ay3k-oAP_nvNBFVpT23MBqA",
+                "description": "このゲームってまったりなの？というあなた。\nまったりです！！！\n\n本ゲームはponcleに確認の上配信・収益化を行なっております\n\n★★★★★★★..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
@@ -514,7 +514,7 @@
             {
                 "video_id": "WHxEwlhqx5c",
                 "title": "【MIMESIS】TESTING CONNECTION IF I LAG I END STREAM",
-                "thumbnail": "https://i.ytimg.com/vi/WHxEwlhqx5c/hqdefault.jpg?v=5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDIEb5FyTrTc8MtbGqF39FLUFqMqA",
+                "thumbnail": "https://i.ytimg.com/vi/WHxEwlhqx5c/hqdefault.jpg?v=b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDIEb5FyTrTc8MtbGqF39FLUFqMqA",
                 "description": "Game Title: MIMESIS\nStore Page: https://store.steampowered.com/app/2827200/MIMESIS/\n\n\n【Debut Celebration Merch】\n▼Official Online Shop▼\nJP：https://shop.hololivepro.com/products/hololiveen_..."
             }
         ]

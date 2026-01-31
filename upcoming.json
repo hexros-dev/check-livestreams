@@ -138,7 +138,15 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "xRtKhlj0U7E",
+                "title": "【STREET FIGHTER 6】ダイヤ２いくぞおお！みんなで目指せ！マスターへの道！powered by VICTRIX Part.4【一条莉々華/hololive DEV_IS ReGLOSS】",
+                "date": "2026/02/01 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/xRtKhlj0U7E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBe5scvRGuGJ1LWWMJE88UR7VWnQQ",
+                "description": "第一目標、ダイヤ２！！！\n\nこの動画およびライブは株式会社カプコンの利用許諾を受けて配信しています『ストリートファイター6』\n©CAPCOM..."
+            }
+        ]
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -432,15 +440,7 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": [
-            {
-                "video_id": "U4PwG0T6hko",
-                "title": "【Vampire Survivors】深夜のまったり配信【ホロライブ/ときのそら】",
-                "date": "2026/01/31 21:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/U4PwG0T6hko/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2Bz6Ay3k-oAP_nvNBFVpT23MBqA",
-                "description": "このゲームってまったりなの？というあなた。\nまったりです！！！\n\n本ゲームはponcleに確認の上配信・収益化を行なっております\n\n★★★★★★★..."
-            }
-        ]
+        "videos": []
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
