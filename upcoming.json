@@ -323,6 +323,13 @@
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
         "videos": [
             {
+                "video_id": "X54N1n1PiV0",
+                "title": "【メンバーシップ限定】耳元でささやく、ひそひそ朗読",
+                "date": "2026/01/31 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/X54N1n1PiV0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChoMId9O73cu18jd6G40OsM-pBtw",
+                "description": "青空文庫から、一冊読みたいと思います📚\n\nサムネillustrator：たこたこﾁｬﾝさん　https://x.com/takotako_1006\n✣✣–––––––..."
+            },
+            {
                 "video_id": "gDQ45CAkOuw",
                 "title": "【 #ホロテラリア 】まだ見ぬ地下へ、レッツゴー！【ホロライブ/大神ミオ】",
                 "date": "2026/01/31 15:00:00",
@@ -395,7 +402,15 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "w0s54Wo9dxw",
+                "title": "【＃３】#ホロテラリア　そうだ、釣りをしよう。 【ホロライブ/白上フブキ】",
+                "date": "2026/01/31 15:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/w0s54Wo9dxw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmgS75fz7xpcdCYoraRGKHZldHJQ",
+                "description": "#ホロテラリア\nメンバー\n兎田ぺこら @usadapekora  宝鐘マリン @HoushouMarine 　白銀ノエル @ShiroganeNoel \n大神ミオ @OokamiMio  大空スバル @OozoraSubaru \n━━━━..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
