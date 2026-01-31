@@ -45,14 +45,7 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": [
-            {
-                "video_id": "yAmjEO-_Wtc",
-                "title": "【3D VARIETY SHOW 生誕バラエティ】FUWAMOCO wacha wacha birthday game show 🎂🐾 【#FWMCbday26】",
-                "thumbnail": "https://i.ytimg.com/vi/yAmjEO-_Wtc/hqdefault.jpg?v=696c7348&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHjDkRVC7zyvYaNgrERckLgS_GeA",
-                "description": "a variety of silliness to start out our 2 PART birthday party✨ \n生誕祭のDAY 1はわちゃわちゃバラエティー！just what surprises are waiting...?\n𝗗𝗔𝗬 𝟮 𝟯𝗗 𝗖𝗢..."
-            }
-        ]
+        "videos": []
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -70,7 +63,14 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "xwDMhgwaMYQ",
+                "title": "【ホロダンジョン】新作ローグライク！クリア後ダンジョン初見いくぞ！！！～博衣こよりとホロウライブ in ホンシャタワー～【博衣こより/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/xwDMhgwaMYQ/hqdefault.jpg?v=697dd023&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzDVXWugNVa-JWaEge7pAtBXCUWA",
+                "description": "1月30日にアーリーアクセスが開始された #holoindie ゲーム「ホロダンジョン 博衣こよりとホロウライブ in ホンシャタワー」本格的ローグライクで楽..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -150,14 +150,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": [
-            {
-                "video_id": "7S65lhxeHdE",
-                "title": "【マリオメーカー２】先輩ホロメンが作ったコースに初挑戦！！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "thumbnail": "https://i.ytimg.com/vi/7S65lhxeHdE/hqdefault.jpg?v=697dcd6a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBy6JwgLbTgMJ0WqHv6Lq2V9hfSww",
-                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\nメンバーシップ開設しました！加入はこちらから💕https://www.youtube...."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -241,7 +234,14 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "7YhSSeHjLKQ",
+                "title": "【 🔵ロックマンX6 】完全初見でれっつご～～～～！#01【 猫又おかゆ/ホロライブ 】",
+                "thumbnail": "https://i.ytimg.com/vi/7YhSSeHjLKQ/hqdefault.jpg?v=697b79cd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_MtXeG5uhkhEnZwLc1Ux3V0BJ5g",
+                "description": "❥・・ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ・・❥\nボイス参加してます！✦\n『ラプラス・ダークネスの欲望ASMR～誘惑監獄編～』\n‣ https://shop...."
+            }
+        ]
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -271,13 +271,27 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "44YWMS-gb1Y",
+                "title": "【#3】テラリアやるしゅばああああああああああああああああああああああああああああああ！！！！：Terraria ＃ホロテラリア【ホロライブ/大空スバル】",
+                "thumbnail": "https://i.ytimg.com/vi/44YWMS-gb1Y/hqdefault.jpg?v=697deeef&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgV4TRGameCuYRHbinNUh8oWDHBw",
+                "description": "本ゲームは ©2017 Re-Logic. に確認の上配信・収益化を行っております\n@usadapekora \n@ShirakamiFubuki \n@OokamiMio \n@HoushouMarine \n@ShiroganeNoel \n\n🐣おやくそく/Rule🐣..."
+            }
+        ]
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "zi60qBQOoxQ",
+                "title": "【 縦型歌枠 】777,777人目指して歌おうかなって【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+                "thumbnail": "https://i.ytimg.com/vi/zi60qBQOoxQ/hqdefault.jpg?v=697dde6c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDWXvHuLgEM_6fattG55KotZdyMg",
+                "description": "▽音乃瀬奏 77万人記念グッズ▽\n1月13日　21:30より販売開始！\nhttps://shop.hololivepro.com/products/otonosekanade_subscribers_770k\n\n▽✨重大告知✨ ▽\n音乃瀬奏..."
+            }
+        ]
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
@@ -313,14 +327,7 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": [
-            {
-                "video_id": "flJm1zdFjHo",
-                "title": "【 手描き切り抜き鑑賞 】手描き切り抜きを観るにぇ～～～～～～～～‼💞🎬【ホロライブ/さくらみこ】",
-                "thumbnail": "https://i.ytimg.com/vi/flJm1zdFjHo/hqdefault.jpg?v=697dd602&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxLrz1n8v8_uv_tqgFCbbPpk34Mg",
-                "description": "🌸さくらみこ初絵本『みこぴーと おおきな さくらのき』\n（さくらみこ／作・絵）3月5日(木)発売‼\n1月31日(土)より全国の書店・ネット書店で順次..."
-            }
-        ]
+        "videos": []
     },
     "@SamekoSaba": {
         "channel_url": "https://www.youtube.com/@SamekoSaba",
@@ -338,14 +345,7 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": [
-            {
-                "video_id": "w0s54Wo9dxw",
-                "title": "【＃３】#ホロテラリア　そうだ、釣りをしよう。 【ホロライブ/白上フブキ】",
-                "thumbnail": "https://i.ytimg.com/vi/w0s54Wo9dxw/hqdefault.jpg?v=697dae7d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmgS75fz7xpcdCYoraRGKHZldHJQ",
-                "description": "#ホロテラリア\nメンバー\n兎田ぺこら @usadapekora  宝鐘マリン @HoushouMarine 　白銀ノエル @ShiroganeNoel \n大神ミオ @OokamiMio  大空スバル @OozoraSubaru \n━━━━..."
-            }
-        ]
+        "videos": []
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
