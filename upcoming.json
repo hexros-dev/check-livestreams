@@ -364,7 +364,15 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "JJJ5jnfI_lA",
+                "title": "【Members Only】 Mage Arena",
+                "date": "2026/02/01 09:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/JJJ5jnfI_lA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCh0tO_mTOFmjt3lNzbSjkfnkU9Rw",
+                "description": "[Twitter]\nhttps://twitter.com/ourokronii\n\n[Thumbnail Art]\nhttps://x.com/Zero_Er0\n\n----------------------------------------------------------------------------\n\n[Viewer Rules]\nThank you for..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
@@ -538,15 +546,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "byY5oqNpPMQ",
-                "title": "【ARKNIGHTS: ENDFIELD】Gigi Murin wants to PULL FOR CUTE CHARACTERS!!!",
-                "date": "2026/02/01 05:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/byY5oqNpPMQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8HrSdPHTUijYrE_sRohPC92tL-A",
-                "description": "sry guys what if i want to sleep in for 15 more minutes\n\n【Debut Celebration Merch】\n▼Official Online Shop▼\nJP：https://shop.hololivepro.com/products/hololiveen_justice_debut\nEN：https://sh..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
