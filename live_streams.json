@@ -113,14 +113,7 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
-        "videos": [
-            {
-                "video_id": "GuDqpist5Bg",
-                "title": "【STREET FIGHTER 6】みんなで目指せ！マスターへの道！！powered by VICTRIX Part.3【一条莉々華/hololive DEV_IS ReGLOSS】",
-                "thumbnail": "https://i.ytimg.com/vi/GuDqpist5Bg/hqdefault.jpg?v=697dba52&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnSIu-sTX_3MQJIkiXt0m9n-xj0w",
-                "description": "第一目標、ダイヤ２！！！\n\nこの動画およびライブは株式会社カプコンの利用許諾を受けて配信しています『ストリートファイター6』\n©CAPCOM..."
-            }
-        ]
+        "videos": []
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -286,7 +279,14 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "0Sxn9CdY5vY",
+                "title": "【メンバーシップ限定】耳元でひそひそ朗読ASMR",
+                "thumbnail": "https://i.ytimg.com/vi/0Sxn9CdY5vY/hqdefault.jpg?v=697e0807&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDvNAiAsoH8wQkPhsYpKFe7ZuDESA",
+                "description": "青空文庫から、「銀河鉄道の夜」を読む予定です🌌\n\nサムネillustrator：たこたこﾁｬﾝさん　https://x.com/takotako_1006\n✣✣–––––..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -317,7 +317,14 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "yGlXki-mU5Q",
+                "title": "#7【Ace Attorney Investigations 2】let me make waiting room (SPOILERS!)【Pavolia Reine/holoID gen 2】",
+                "thumbnail": "https://i.ytimg.com/vi/yGlXki-mU5Q/hqdefault.jpg?v=697e0261&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCUupxGUln7zSnoD1fA2zp3jQzWTQ",
+                "description": "Reine's new original song now AVAILABLE on iTunes, Apple Music, Spotify etc. starting September 10, 2025 00:00 your local time!!!\nWatch the MV:➡️https://youtu.be/NEtiag8nTUs\nGet it here:➡️h..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -372,7 +379,14 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "GlzpugmzlY8",
+                "title": "【歌枠/縦型】声出し兼ねて～アニソン中心に！いろいろ歌う🎤  #shorts【不知火フレア/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/GlzpugmzlY8/hqdefault.jpg?v=697e0e16&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnN9AIPim5f7uISMtCrXh_lxxCxg",
+                "description": "■New「Fun fair」MV公開✨\nhttps://www.youtube.com/watch?v=FdKux6g4HJ4\n\n━━━━━━━━━━━━━━━━━━━━━━━\n■Newシングル「架空と本当」MV公開中..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -470,25 +484,53 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "1zggtsYuymU",
+                "title": "【MIMESIS】mimics",
+                "thumbnail": "https://i.ytimg.com/vi/1zggtsYuymU/hqdefault.jpg?v=697de4c9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnkyG1a-hmf5EVMWyyyiN1q8hxaw",
+                "description": "--------------------------\nHashtags\n📺 Livestream: #ImmerScreen \n🎨 Fanart: #Immergination\n🎻 Music: #ImmerPiece\n🤡 Memes: #ImmerMemes \n--------------------------\n\n\n------------------------..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "9d354Nu-awM",
+                "title": "【MIMESIS】 Justice Jams!  Hey! I'm the one who does impressions! The frig?! ~! 💄🐱👧🍵",
+                "thumbnail": "https://i.ytimg.com/vi/9d354Nu-awM/hqdefault.jpg?v=697c358a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCiPWTcH-qZZvQ61HQbOW2BlpDC6g",
+                "description": "Voices? ... doppelgangers ... this'll be interesting. \n\n* Game Title: MIMESIS\n* Store Page:https://store.steampowered.com/app/2827200/MIMESIS/\n\n* Thumbnail: https://x.com/gantochiR_Vtu/status/19879..."
+            }
+        ]
     },
     "@holoen_gigimurin": {
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "WHxEwlhqx5c",
+                "title": "【MIMESIS】TESTING CONNECTION IF I LAG I END STREAM",
+                "thumbnail": "https://i.ytimg.com/vi/WHxEwlhqx5c/hqdefault.jpg?v=5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDIEb5FyTrTc8MtbGqF39FLUFqMqA",
+                "description": "Game Title: MIMESIS\nStore Page: https://store.steampowered.com/app/2827200/MIMESIS/\n\n\n【Debut Celebration Merch】\n▼Official Online Shop▼\nJP：https://shop.hololivepro.com/products/hololiveen_..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "9PqKKpm5tSM",
+                "title": "【MIMESIS】WHO IS THE IMPOSTER?? w/ JUSTICE!",
+                "thumbnail": "https://i.ytimg.com/vi/9PqKKpm5tSM/hqdefault.jpg?v=697d603f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBD8yAnFPtRM7oe5juHqLRdET9Iog",
+                "description": "╭─⋆｡ﾟ♡ RAO ♡｡ﾟ⋆─╮\n\nMy first Original Song is OUT!\n˗ˏˋ 𝔾𝕒𝕔𝕙𝕒×𝔾𝕒𝕔𝕙𝕒 𝔸𝔻𝕍𝔼ℕ𝕋𝕌ℝ𝔼! ˎˊ˗\n🐱https://youtu.be/1BTd20qIf..."
+            }
+        ]
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
