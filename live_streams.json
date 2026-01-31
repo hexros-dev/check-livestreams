@@ -329,7 +329,14 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "LQj5Y6t6gNI",
+                "title": "【ASMR】溺愛お姉さんのASMR💜  マッサージ/炭酸/ウィスパー￤ARCHIVEはメン限【ホロライブ/ ロボ子さん】",
+                "thumbnail": "https://i.ytimg.com/vi/LQj5Y6t6gNI/hqdefault.jpg?v=697dd37f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA14TeziFyssKkIghmKb_wX65ZfwA",
+                "description": "#hololive 　#asmr \n\nアーカイブはメンバー限定です\nこの枠のスパちゃ、めんばーお礼は配信の最後によまれます\nASMRのときだけスパチャひらく予定で..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -359,14 +366,7 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": [
-            {
-                "video_id": "xAACb0WU2lI",
-                "title": "【月末定期】#フブキングダム総会 2026.01  MEMBERSHIP ONLY【ホロライブ/白上フブキ】",
-                "thumbnail": "https://i.ytimg.com/vi/xAACb0WU2lI/hqdefault.jpg?v=697df43c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD04hRW1PcdC6glCfKv3lGwa5WQ6A",
-                "description": "#フブキングダム総会\nカフェへの参加方法はこちらをご確認ください\n◯狐での参加      !join Fox\n◯ゲーム説明書\n　▶ https://docs.google.com/document/u/1/d/e/..."
-            }
-        ]
+        "videos": []
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -514,7 +514,7 @@
             {
                 "video_id": "WHxEwlhqx5c",
                 "title": "【MIMESIS】TESTING CONNECTION IF I LAG I END STREAM",
-                "thumbnail": "https://i.ytimg.com/vi/WHxEwlhqx5c/hqdefault.jpg?v=b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDIEb5FyTrTc8MtbGqF39FLUFqMqA",
+                "thumbnail": "https://i.ytimg.com/vi/WHxEwlhqx5c/hqdefault.jpg?v=11&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDIEb5FyTrTc8MtbGqF39FLUFqMqA",
                 "description": "Game Title: MIMESIS\nStore Page: https://store.steampowered.com/app/2827200/MIMESIS/\n\n\n【Debut Celebration Merch】\n▼Official Online Shop▼\nJP：https://shop.hololivepro.com/products/hololiveen_..."
             }
         ]
