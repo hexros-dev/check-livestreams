@@ -124,7 +124,15 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "4__3dh2J0eg",
+                "title": "【ゲリラ歌枠 / KARAOKE】なんか歌いたくなった♪ Casual Guerilla Karaoke!",
+                "date": "2026/02/01 21:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/4__3dh2J0eg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmFX_0VTGoHYeiCwDcRjNFNvmHfg",
+                "description": "Sudden la di da\n#hololiveenglish  #ホロライブ \n\nSTREAM MY NEW ORIGINAL SONG Escalate! \nhttps://www.youtube.com/watch?v=i2sw2i6_XDk\n\nStream my NEW EP YaBAI NOW!!\nhttps://cover.lnk.to/39qmMB..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -482,15 +490,7 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": [
-            {
-                "video_id": "d1lFJ9UwC5A",
-                "title": "I just want to yap for an hour",
-                "date": "2026/02/01 21:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/d1lFJ9UwC5A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMvowKXa9j5YZysgFL13XbAAvaiA",
-                "description": "╭─⋆｡ﾟ♡ RAO ♡｡ﾟ⋆─╮\n\nMy first Original Song is OUT!\n˗ˏˋ 𝔾𝕒𝕔𝕙𝕒×𝔾𝕒𝕔𝕙𝕒 𝔸𝔻𝕍𝔼ℕ𝕋𝕌ℝ𝔼! ˎˊ˗\n🐱https://youtu.be/1BTd20qIf..."
-            }
-        ]
+        "videos": []
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
