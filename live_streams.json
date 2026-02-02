@@ -45,14 +45,7 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": [
-            {
-                "video_id": "3Wn_ut55zaU",
-                "title": "【FUWAMOCO 3D BIRTHDAY LIVE AFTERPARTY】wacha wacha big day behind-the-scenes chatting 🐾 #FWMCbday26",
-                "thumbnail": "https://i.ytimg.com/vi/3Wn_ut55zaU/hqdefault.jpg?v=697e99fd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWY1hDgOkM-oQKyOdyCE4JRtOPRA",
-                "description": "no one can stop us from extra birthday fun!! let's celebrate the rest of our birthday time together ✨\nlovely illustration by @_hinatahirune 💓\n\n🩵🩷𝗙𝗨𝗪𝗔𝗠𝗢𝗖𝗢..."
-            }
-        ]
+        "videos": []
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -70,13 +63,27 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "LhEYb0iOHFw",
+                "title": "【nosh案件】辛いもの苦手による「辛さレベル」調査！！！🌶🌶🌶【博衣こより/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/LhEYb0iOHFw/hqdefault.jpg?v=697f27fd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnBujbviQDZYxPGfb6FYsGR4lzRw",
+                "description": "🧪nosh×Koyori ch. 博衣こより - holoX -第二弾 の特別コラボクーポンはこちら🧪\nhttps://nosh.jp/landing/hololive/HakuiKoyori?utm_source=Youtuber&utm_medium=PR&utm_campaign=Ha..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "at5RyShudJI",
+                "title": "【 カプとれ 】モンハンワイルズ×ホロライブ第1弾のぽりゅをGETするのら！！！【姫森ルーナ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/at5RyShudJI/hqdefault.jpg?v=6980428b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnS4xWjA23GibFoglmzX4FCRvKSg",
+                "description": "サムネイラスト\n　ヤマサん　https://twitter.com/yamasan_ossan\n\n💓ルーナ姫の公式LINEスタンプ第2弾が2026年1月4日より販売開始💓\nhttps://line.me/S/sticker/3240176..."
+            }
+        ]
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -88,14 +95,7 @@
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
         "channel_name": "Suisei Channel",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
-        "videos": [
-            {
-                "video_id": "1dTqw5AF12Y",
-                "title": "【雑談】近況はなしゅ【ホロライブ / 星街すいせい】",
-                "thumbnail": "https://i.ytimg.com/vi/1dTqw5AF12Y/hqdefault.jpg?v=69805d87&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqDV9_DNdSv8LJ90URAU5fRTR_Hg",
-                "description": "☄️Hoshimachi Suisei Live “SuperNova: REBOOT”☄️\n2026年2月21日(土)にKアリーナ横浜にて開催！\nhttps://supernova.hololivepro.com\n\n🎫現地・配信チケットはこちら..."
-            }
-        ]
+        "videos": []
     },
     "@HoushouMarine": {
         "channel_url": "https://www.youtube.com/@HoushouMarine",
@@ -113,7 +113,14 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "CuJ9kD-QFhw",
+                "title": "【#遊戯王マスターデュエルパーク】タッグイベントまで、あと少し！デッキ理解度を高めたい✨【一条莉々華/hololive DEV_IS　ReGLOSS】",
+                "thumbnail": "https://i.ytimg.com/vi/CuJ9kD-QFhw/hqdefault.jpg?v=69804948&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzB7SDAn3vttO6-5YWwsMd4a1MWA",
+                "description": "✨今日やること✨\n-閃刀姫のストーリーを見る！\n-つよいSOLOの相手に勝つ！\n\nYu-Gi-Oh! Master Duel\n\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧..."
+            }
+        ]
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -227,7 +234,14 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "LQVtR2_Da30",
+                "title": "【 🥐🥐🥐 】戌神ころね限定凸待ち会場【 猫又おかゆ/ホロライブ 】",
+                "thumbnail": "https://i.ytimg.com/vi/LQVtR2_Da30/hqdefault.jpg?v=69805444&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5ZrppcGTgVGhdYYGZKHpQqD7d4g",
+                "description": "何人来てくれるカナ？ @InugamiKorone \n❥・・ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ・・❥\nボイス参加してます！✦\n『ラプラス・ダークネスの欲..."
+            }
+        ]
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -365,7 +379,14 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch.Tokoyami Towa",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "pgVGh2_vKek",
+                "title": "【 リトルナイトメア２】ネタバレ有‼️1と3をやったので、2を知る必要がある。【 常闇トワ / ホロライブ 】",
+                "thumbnail": "https://i.ytimg.com/vi/pgVGh2_vKek/hqdefault.jpg?v=69801909&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCg_jeSBQbXvl29h1CxW6oJZopurw",
+                "description": "このゲーム実況は「バンダイナムコエンターテインメント ゲーム実況ポリシー」に基づき制作・配信されています。\nhttps://www.bandainamcoent.co.jp/info/v..."
+            }
+        ]
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
