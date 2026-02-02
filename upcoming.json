@@ -21,15 +21,7 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": [
-            {
-                "video_id": "L0yfTwNqqnA",
-                "title": "『#バレンタインにもらってうれしいもの  💕』 アキちょこナイトパレット第23回 ～ホロライブ深夜ラジオ～",
-                "date": "2026/02/02 21:40:00",
-                "thumbnail": "https://i.ytimg.com/vi/L0yfTwNqqnA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBRN5igokxyJgjeZnu8NBrEZSImQ",
-                "description": "#アキちょこナイパレ でやってほしいコーナー大募集中！\nXでタグをつけてポストしてね！\n前週→ \n次週→\n\nwith ちょこ先@YuzukiChoco \n毎週月曜 23:40~24:..."
-            }
-        ]
+        "videos": []
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -486,7 +478,15 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ItY9K6SsGnc",
+                "title": "【TO THE MOON】I WANNA FEEEEEEL",
+                "date": "2026/02/03 01:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ItY9K6SsGnc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4sQem5_ArV2AX30j-WyjhYWKetw",
+                "description": "--------------------------\nHashtags\n📺 Livestream: #ImmerScreen \n🎨 Fanart: #Immergination\n🎻 Music: #ImmerPiece\n🤡 Memes: #ImmerMemes \n--------------------------\n\n\n------------------------..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
@@ -513,7 +513,15 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "W_GVdRAmaIk",
+                "title": "【MYVOICEZOO】i am the whole entire zoo",
+                "date": "2026/02/03 05:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/W_GVdRAmaIk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQ6X7_QzqzNXEmpdZ_YGqx1vAW4w",
+                "description": "thumbnail: https://x.com/BlaParky/status/2015451324243124510\n\nGame title：MyVoiceZoo\nStore page：https://store.steampowered.com/app/4015530/MyVoiceZoo/\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
