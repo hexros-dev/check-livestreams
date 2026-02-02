@@ -119,7 +119,15 @@
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
         "channel_name": "Suisei Channel",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "1dTqw5AF12Y",
+                "title": "【雑談】近況はなしゅ【ホロライブ / 星街すいせい】",
+                "date": "2026/02/02 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/1dTqw5AF12Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqDV9_DNdSv8LJ90URAU5fRTR_Hg",
+                "description": "本配信 : https://www.youtube.com/live/4L-Ixbhkosw\n\n☄️Hoshimachi Suisei Live “SuperNova: REBOOT”☄️\n2026年2月21日(土)にKアリーナ横浜にて開催！\nhttps://supernova.hololiv..."
+            }
+        ]
     },
     "@HoushouMarine": {
         "channel_url": "https://www.youtube.com/@HoushouMarine",
@@ -179,15 +187,7 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": [
-            {
-                "video_id": "Jx6RpoMWH4c",
-                "title": "【#らでんのラジオ 】第35回！ふつおた、大人になれない僕らのほか【儒烏風亭らでん #ReGLOSS 】",
-                "date": "2026/02/02 15:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Jx6RpoMWH4c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClWFEh6rpRqgRaEfcTE9gS34lDGQ",
-                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\n\nらでんのラジオとは…？\n毎週水曜日（仮）23..."
-            }
-        ]
+        "videos": []
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
