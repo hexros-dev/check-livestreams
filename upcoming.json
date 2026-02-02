@@ -119,15 +119,7 @@
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
         "channel_name": "Suisei Channel",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
-        "videos": [
-            {
-                "video_id": "1dTqw5AF12Y",
-                "title": "【雑談】近況はなしゅ【ホロライブ / 星街すいせい】",
-                "date": "2026/02/02 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/1dTqw5AF12Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqDV9_DNdSv8LJ90URAU5fRTR_Hg",
-                "description": "本配信 : https://www.youtube.com/live/4L-Ixbhkosw\n\n☄️Hoshimachi Suisei Live “SuperNova: REBOOT”☄️\n2026年2月21日(土)にKアリーナ横浜にて開催！\nhttps://supernova.hololiv..."
-            }
-        ]
+        "videos": []
     },
     "@HoushouMarine": {
         "channel_url": "https://www.youtube.com/@HoushouMarine",
@@ -470,7 +462,15 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "4j9JSlrJ6Hk",
+                "title": "【あつまれ  どうぶつの森】Switch2Editionがきたぞ～！！【ホロライブ/ときのそら】",
+                "date": "2026/02/02 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/4j9JSlrJ6Hk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxRDVobYGfJ_XbPIxKUliFYRXeVw",
+                "description": "わーい！！\n待ってた！待ってたよ～！！！\n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n★★★★★★★★★★..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
@@ -496,7 +496,15 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "1IhQ9adCR-w",
+                "title": "【Holo vs Robo】New update!?",
+                "date": "2026/02/02 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/1IhQ9adCR-w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6HStATkWR4K8AT0LGZfkE4mw05Q",
+                "description": "#vestiazeta #hololive #vtuber #gaming #holovsrobo #holoid #hololiveindonesia \n\nHolo vs Robo\nストアページ：https://store.steampowered.com/app/4053520/Holo_vs_Robo/\n\nThumbnail: https://x.com/Y..."
+            }
+        ]
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
