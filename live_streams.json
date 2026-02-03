@@ -400,14 +400,7 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": [
-            {
-                "video_id": "mkA1QLk7lhM",
-                "title": "【TWELVE MINUTES】I can count to 12",
-                "thumbnail": "https://i.ytimg.com/vi/mkA1QLk7lhM/hqdefault.jpg?v=6981daf0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDt2gEUqd95a4J3cqatD4xs9QEb6Q",
-                "description": "--------------------------\nHashtags\n📺 Livestream: #ImmerScreen \n🎨 Fanart: #Immergination\n🎻 Music: #ImmerPiece\n🤡 Memes: #ImmerMemes \n--------------------------\n\n\n------------------------..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
@@ -419,7 +412,14 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "16vKtmrUe3E",
+                "title": "【SQUIRREL WITH A GUN】the only thing scarier than a squirrel with a gun is gigi murin with one",
+                "thumbnail": "https://i.ytimg.com/vi/16vKtmrUe3E/hqdefault.jpg?v=69821e86&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACsq-JNqFP-sBgBKTTOi3Nj4kDbg",
+                "description": "im justice im allowed\n\nthumbnail: https://x.com/rotten_squ1d/status/1840965276742889810\n\nThis game is being streamed and monetized after confirming with Maximum Entertainment.\n‐‐‐‐‐‐‐..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
