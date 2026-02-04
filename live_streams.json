@@ -193,14 +193,7 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": [
-            {
-                "video_id": "4hW7wZxt61M",
-                "title": "【学園アイドルマスター】みちなるひろがる広との運命🎶 ガチャ❕ :ネタバレあり【水宮枢／ホロライブDEV_IS】",
-                "thumbnail": "https://i.ytimg.com/vi/4hW7wZxt61M/hqdefault.jpg?v=69824a1a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmKxMeVGON9MFpRVGH1P09htovQw",
-                "description": "このゲーム実況は「バンダイナムコエンターテインメント ゲーム実況ポリシー」に基づき制作・配信されています。\nhttps://www.bandainamcoent.co.jp/info/v..."
-            }
-        ]
+        "videos": []
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -285,7 +278,14 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "v-Y9kqrXCoc",
+                "title": "【#6】テラリアやるしゅばああああああああああああああああああああああああああああああ！！！！：Terraria ＃ホロテラリア【ホロライブ/大空スバル】",
+                "thumbnail": "https://i.ytimg.com/vi/v-Y9kqrXCoc/hqdefault.jpg?v=698329cd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJ4404b4kq8DSFWtgaAc4GbuXUuQ",
+                "description": "本ゲームは ©2017 Re-Logic. に確認の上配信・収益化を行っております\n@usadapekora \n@ShirakamiFubuki \n@OokamiMio \n@HoushouMarine \n@ShiroganeNoel \n\n🐣おやくそく/Rule🐣..."
+            }
+        ]
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -352,7 +352,14 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "qUpVUfAZElo",
+                "title": "【＃６】#ホロテラリア　ひかりのソウルを求めて。 【ホロライブ/白上フブキ】",
+                "thumbnail": "https://i.ytimg.com/vi/qUpVUfAZElo/hqdefault.jpg?v=6982fe6d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDiO_5LxmAJ4gHkReJlSMHRKAMRLA",
+                "description": "#ホロテラリア\nメンバー\n兎田ぺこら @usadapekora  宝鐘マリン @HoushouMarine 　白銀ノエル @ShiroganeNoel \n大神ミオ @OokamiMio  大空スバル @OozoraSubaru \n━━━━..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -377,7 +384,14 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "yjUDlvhKi4Q",
+                "title": "【Dead Rising 2】ゾンビ無双再び！ギャンブルリゾートで3日間を生き残れ！ーデッドライジング2【獅白ぼたん/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/yjUDlvhKi4Q/hqdefault.jpg?v=69820992&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3e3Zce1lIyw7B5Rlo_42P8x16EQ",
+                "description": "今回は主人公チャックさんと一緒にゾンビと冬を過ごそう🍾🪓\n\nこの動画およびライブは株式会社カプコンの利用許諾を受けて配信しています..."
+            }
+        ]
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
@@ -407,14 +421,7 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch.Tokoyami Towa",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": [
-            {
-                "video_id": "Ncb2cvN-3CU",
-                "title": "【 リトルナイトメア２】ネタバレ有‼️キーマウの力を見せつけるその2【 常闇トワ / ホロライブ 】",
-                "thumbnail": "https://i.ytimg.com/vi/Ncb2cvN-3CU/hqdefault.jpg?v=6982b846&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtLy47sSPE8TUvWPFZsSmdQJMKaw",
-                "description": "このゲーム実況は「バンダイナムコエンターテインメント ゲーム実況ポリシー」に基づき制作・配信されています。\nhttps://www.bandainamcoent.co.jp/info/v..."
-            }
-        ]
+        "videos": []
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
@@ -498,7 +505,14 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "qP6wAdYRqrs",
+                "title": "【＃ホロテラリア】テラリア始めます！！！！！！Day6 ぺこ！【ホロライブ/兎田ぺこら】",
+                "thumbnail": "https://i.ytimg.com/vi/qP6wAdYRqrs/hqdefault.jpg?v=6982cc16&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0x09Pe0Dv8CsC9NDubm1uIzx6TQ",
+                "description": "イカれたメンバー\n@ShirakamiFubuki \n@OokamiMio \n@OozoraSubaru \n@usadapekora \n@ShiroganeNoel \n@HoushouMarine \n\nサムネイラスト◆フカヒレ さん\n\n⋈ －－－－－－－－－－..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
