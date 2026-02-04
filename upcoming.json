@@ -175,15 +175,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": [
-            {
-                "video_id": "BH-76AuLpx0",
-                "title": "【 Minecraft 】RE：オウムガイのダイヤ装備ほしい！！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "date": "2026/02/04 15:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/BH-76AuLpx0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOcGAbATpKo91mseSngxJpoOnP3Q",
-                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n\nサムネイルの素敵なイ..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -464,7 +456,15 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "qUpVUfAZElo",
+                "title": "【＃６】#ホロテラリア　ひかりのソウルを求めて。 【ホロライブ/白上フブキ】",
+                "date": "2026/02/04 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/qUpVUfAZElo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDiO_5LxmAJ4gHkReJlSMHRKAMRLA",
+                "description": "#ホロテラリア\nメンバー\n兎田ぺこら @usadapekora  宝鐘マリン @HoushouMarine 　白銀ノエル @ShiroganeNoel \n大神ミオ @OokamiMio  大空スバル @OozoraSubaru \n━━━━..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
