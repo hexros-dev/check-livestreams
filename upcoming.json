@@ -317,7 +317,15 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "H0_IcNuYRCQ",
+                "title": "【MyVoiceZoo】That's Not Very Meowmeow Of You",
+                "date": "2026/02/05 06:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/H0_IcNuYRCQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCIU-5QkrGo2chqpS_w-Sn4ppF_Bg",
+                "description": "【Thumbnail Art】\nhttps://x.com/mpien6/status/2017999994457047290\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\nGame title: Arknights: Endfield\nStore page: https://endfield.gryphline.com/en-u..."
+            }
+        ]
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
