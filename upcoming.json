@@ -237,15 +237,7 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": [
-            {
-                "video_id": "hRTgJbVkXj4",
-                "title": "【MUSIC TALK】Talking about Music with Nerissa and Lotus Juice!  #calliolive",
-                "date": "2026/02/05 10:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/hRTgJbVkXj4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAP6iHBOZA87SP6c58VGuvyTn3ttg",
-                "description": "DISASTERPIECE New Album ON Sale!\nPre-Order: https://lnk.to/mc_dp_ec\n\nLINE Stickers: https://line.me/S/sticker/32114569\n\nfeaturing @NerissaRavencroft my co-host!!\n\nBGM: https://x.com/BigRicePiano..."
-            }
-        ]
+        "videos": []
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -361,7 +353,15 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "WyGNG3Q4HNM",
+                "title": "Reine is Learning Bahasa Sunda with Iofi-sensei!!!",
+                "date": "2026/02/05 11:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/WyGNG3Q4HNM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDK6tO5endNl94l8yTh0HMzDHq1Sg",
+                "description": "Reine's new original song now AVAILABLE on iTunes, Apple Music, Spotify etc. starting September 10, 2025 00:00 your local time!!!\nWatch the MV:➡️https://youtu.be/NEtiag8nTUs\nGet it here:➡️h..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
