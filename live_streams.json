@@ -3,20 +3,20 @@
         "channel_url": "https://www.youtube.com/@AZKi",
         "channel_name": "AZKi Channel",
         "avatar_url": "https://yt3.googleusercontent.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Tx6xrAxSM7o",
+                "title": "【凸待ち】#あずいろ食堂 開店！おでん凸待ち🍢オフコラボ【ホロライブ / AZKi / 風真いろは / FUWAMOCO】",
+                "thumbnail": "https://i.ytimg.com/vi/Tx6xrAxSM7o/hqdefault.jpg?v=69841afd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAiJyIRku6MLrfNgzTxe9s9v9NiMA",
+                "description": "​@kazamairoha  あずいろ食堂、料理長🍪\n@FUWAMOCOch お給仕してくれます💕\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\nサムネ作成：花春 様\nhttps://x.com/KaSyun02..."
+            }
+        ]
     },
     "@AiraniIofifteen": {
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
         "channel_name": "Airani Iofifteen Channel hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc",
-        "videos": [
-            {
-                "video_id": "mnKvmSzgGUg",
-                "title": "【Honor of Kings】Aku Anomali【IOFI / HOLOLIVE】",
-                "thumbnail": "https://i.ytimg.com/vi/mnKvmSzgGUg/hqdefault.jpg?v=69855672&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAS8d6QSfScBWTFbJ_m-JdGK5MGzQ",
-                "description": "#ioLyfe #Airani_Iofifteen #hololive #holoID #HonorofKings #HonorofKingsIndonesia #CobaAjaDulu #MOBAFOREVERYONE\n\nThis video and livestream are being streamed and monetized with permission and..."
-            }
-        ]
+        "videos": []
     },
     "@AkaiHaato": {
         "channel_url": "https://www.youtube.com/@AkaiHaato",
@@ -270,7 +270,14 @@
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "pLCVLrEm7cs",
+                "title": "【 ダレカレ 】 絶対に泣けると噂のゲームを遊んでみる！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS　※ネタバレあり",
+                "thumbnail": "https://i.ytimg.com/vi/pLCVLrEm7cs/hqdefault.jpg?v=69858bf1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAiLg7wN_JSigkYDhq9wxnzgIWQJQ",
+                "description": "▽音乃瀬奏 77万人記念グッズ▽\n1月13日　21:30より販売開始！\nhttps://shop.hololivepro.com/products/otonosekanade_subscribers_770k\n\n▽✨重大告知✨ ▽\n音乃瀬奏..."
+            }
+        ]
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
@@ -306,7 +313,14 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "t5k2P4XWZdA",
+                "title": "【 #みこち鯛焼き】情報解禁&告知🎉今年も鯛焼きのお知らせだああああああああにぇ！！🐟【ホロライブ/さくらみこ】",
+                "thumbnail": "https://i.ytimg.com/vi/t5k2P4XWZdA/hqdefault.jpg?v=6985b199&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZSUPNvOg1lBSAvdIk8ZYyD-DIOA",
+                "description": "⪩⪨　お知らせ/ɪɴғᴏ\n￣￣￣￣￣￣￣￣￣￣￣￣￣\n　🌸さくらみこ1st Live \"flower fantasista!\" \n　　  Blu-ray 受注受付開始🎉予約 6/2まで✅\n　..."
+            }
+        ]
     },
     "@SamekoSaba": {
         "channel_url": "https://www.youtube.com/@SamekoSaba",
@@ -324,14 +338,7 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": [
-            {
-                "video_id": "cUFsy_hOQrw",
-                "title": "【#Olive】フブころでコラボキャンペーンを大紹介！！ためになること盛りだくさん！【白上フブキ/戌神ころね/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/cUFsy_hOQrw/hqdefault.jpg?v=697eeadf&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBEmAzPhDONDQJhUvLBWt4uiErp4g",
-                "description": "戌神ころね @InugamiKorone \n\n▶キャンペーンはコチラ\n　https://www.smbc.co.jp/kojin/olive/special/campaign/collab/hololive202602/?aff=CP04619_o_snsOTH_CT50720_img&utm_source=sns&utm_..."
-            }
-        ]
+        "videos": []
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -391,14 +398,7 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
-        "videos": [
-            {
-                "video_id": "3k9MeyLQ2sw",
-                "title": "【HoloType: Treasure Zombie Island】RIP KEYBOARD KUN",
-                "thumbnail": "https://i.ytimg.com/vi/3k9MeyLQ2sw/hqdefault.jpg?v=6985a575&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvYHhLmB8c7PS7mCYfSfP8fb09EA",
-                "description": "#vestiazeta #hololive #vtuber #gaming #holotype #holoid #hololiveindonesia \n\nGame title: HoloType: Treasure Zombie Island\nStore page: https://store.steampowered.com/app/4195460/HoloType_Treasure_Zo..."
-            }
-        ]
+        "videos": []
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
