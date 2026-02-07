@@ -79,21 +79,21 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "-vx9Yc09uW0",
+                "title": "≪HOLO EN + JP GARTIC PHONE≫ Just a stream full of Passion.",
+                "date": "2026/02/08 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/-vx9Yc09uW0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsuh-6C2N703Xi9pm-jSjNeRFNBw",
+                "description": "This is gonna be funnnnnn\nw/ @SakuraMiko @TokoyamiTowa @TakaneLui @IchijouRirika @IRyS @holoen_ceciliaimmergreen @holoen_gigimurin \n\nThumbnail Design: HoloCrumb (https://x.com/notcrumvbs) ..."
+            }
+        ]
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "ZyQ1aTo_PPs",
-                "title": "【ドラゴンクエストVII Reimagined】DQ7初見！ドラクエ7リイマジンド冒険の旅へいざいかん！！✨ #2 【博衣こより/ホロライブ】※ネタバレを含みます",
-                "date": "2026/02/07 09:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/ZyQ1aTo_PPs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJPWruLQt3nzCsJNbRpdnG2rmLpA",
-                "description": "体験版の続きからやってくよ～！実はドラクエ7だけプレイしておらず初見です！これでドラクエナンバリング全網羅になる！どきどき！\n💗もふ..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -214,7 +214,15 @@
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "aRAGrCR-6l4",
+                "title": "【Monster Hunter Stories 3: Twisted Reflection】 RIDING ON MONSTERS!! #sponsored  【Kureiji Ollie】",
+                "date": "2026/02/09 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/aRAGrCR-6l4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0dT_mM-p6vv-kVeXoh9OL8iUm8A",
+                "description": "❥・・───༅༚˳ . ୨୧ . ˳༚༅༚─── ・・❥\n\nTake your first steps into Monster Hunter Stories 3: Twisted Reflection with the free demo,\navailable today on Nintendo..."
+            }
+        ]
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
@@ -406,7 +414,15 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "vknIHaaCD5w",
+                "title": "ITS FREE TALK TIME!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+                "date": "2026/02/07 11:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/vknIHaaCD5w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxv6k1khIR4VeecCSqjlhXUX9vIQ",
+                "description": "Reine's new original song now AVAILABLE on iTunes, Apple Music, Spotify etc. starting September 10, 2025 00:00 your local time!!!\nWatch the MV:➡️https://youtu.be/NEtiag8nTUs\nGet it here:➡️h..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -450,15 +466,7 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": [
-            {
-                "video_id": "WA1DXJzCwVo",
-                "title": "Insomniac Hours with Shiori~n! 【OUTFIT DEBUT】& MAJOR ANNOUNCEMENTS! (重大告知あり）#SleepyShio",
-                "date": "2026/02/07 09:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/WA1DXJzCwVo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsxgqWi5iYNkfl1r7VNUn2jcCMjg",
-                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #Dankvella\n===============..."
-            }
-        ]
+        "videos": []
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
@@ -532,15 +540,7 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": [
-            {
-                "video_id": "G0CK0_5RzIs",
-                "title": "【 METAL GEAR SOLID Δ: SNAKE EATER 】帰ってきたぞ！果たしてステルスはできるのか⁉【鷹嶺ルイ/ホロライブ】",
-                "date": "2026/02/07 10:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/G0CK0_5RzIs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCCQaZ2p4mi6yEBC0xWXUJMQrUo8A",
-                "description": "久々の メタルギア ソリッド Δ やるぞ～✨\n\n本動画およびライブ配信は、株式会社コナミデジタルエンタテインメントが提供したゲームソフトで許..."
-            }
-        ]
+        "videos": []
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
@@ -609,7 +609,15 @@
         "channel_url": "https://www.youtube.com/@dooby3d",
         "channel_name": "dooby",
         "avatar_url": "https://yt3.googleusercontent.com/sOGyZgV9pPHQJCEvNe28NCOFC1y0KggsxUjrP5ecMAgBmdNT8p6ZNM24d_9SVgWFhBh0lKBL5Q",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "pTVE1oYPeDk",
+                "title": "we dooby streamin",
+                "date": "2026/02/07 11:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/pTVE1oYPeDk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtSXpOAE_2RSQIxNtyE9iTaZvt4g",
+                "description": "hmmm whata do"
+            }
+        ]
     },
     "@holoen_ceciliaimmergreen": {
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
@@ -675,11 +683,11 @@
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
         "videos": [
             {
-                "video_id": "YhxuxElEiFI",
-                "title": "#4【FF9】完全初見でファイナルファンタジーⅨを始める！ FINAL FANTASY Ⅸ ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意",
-                "date": "2026/02/07 10:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/YhxuxElEiFI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLC13sxVb3MWcO6lWVOfwBV7sIsQ",
-                "description": "今週も楽しみ過ぎる\n\nサムネイラスト：憂姫はぐれマッマ\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekor..."
+                "video_id": "-5MPShQuDHY",
+                "title": "【＃ホロテラリア】テラリア始めます！！！！！！Day7 ぺこ！【ホロライブ/兎田ぺこら】",
+                "date": "2026/02/07 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/-5MPShQuDHY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDY0rBREwxQn90D8PDTRDnlZEkIww",
+                "description": "イカれたメンバー\n@ShirakamiFubuki \n@OokamiMio \n@OozoraSubaru \n@usadapekora \n@ShiroganeNoel \n@HoushouMarine \n\nサムネイラスト◆フカヒレ さん\n\n⋈ －－－－－－－－－－..."
             }
         ]
     },
