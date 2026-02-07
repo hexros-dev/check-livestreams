@@ -213,7 +213,14 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "NU6xNSKOj9c",
+                "title": "【 復活！！！！ 】1ヵ月ぶりに帰ってきました！ただいま💛【 桃鈴ねね / hololive 】",
+                "thumbnail": "https://i.ytimg.com/vi/NU6xNSKOj9c/hqdefault.jpg?v=6986106a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPwtxlSLUCjkyEr0EFUZmOGdA2Iw",
+                "description": "みんな待っててくれてありがとね～～～～！！！！！！！！！！！！！！！！！！！！！！！！！！！！\n⸜♡⸝MemberShipに入ったらもっとねねを知..."
+            }
+        ]
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
@@ -398,14 +405,7 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": [
-            {
-                "video_id": "q8ow2eICDvM",
-                "title": "【スト6】#獅白杯オフライン に向けてグッズ情報＆追加情報＆出演者情報などのお知らせ！【獅白ぼたん/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/q8ow2eICDvM/hqdefault.jpg?v=6985e87d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAq1U-qNzwehCx7-ONPR5OmRcBRhQ",
-                "description": "🔸『獅白杯 - オフライン -』について\n獅白ぼたん主催『獅白杯』が初のオフラインイベント開催決定！\n『獅白杯 - オフライン -』は2Daysで行われ..."
-            }
-        ]
+        "videos": []
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
