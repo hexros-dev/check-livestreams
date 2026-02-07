@@ -343,7 +343,14 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "C8EZHQ_WwA8",
+                "title": "【#ホロテラリア】ハードモード突入！！！タイムカードﾋﾟｯ！愉快な仲間たちとテラリアはじめる太郎！【白銀ノエル/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/C8EZHQ_WwA8/hqdefault.jpg?v=698615d9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBf5W3NaoAeiMjiRTAu4WmORGH3Tg",
+                "description": "🎵愉快な仲間たち🎵\n@usadapekora 大型アプデ嬉しいナ！誘ってくれてありがとう～！！\n@ShirakamiFubuki 永遠に冒険→お宝ガチャ→冒険を繰り広げそう..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -361,14 +368,7 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": [
-            {
-                "video_id": "G0CK0_5RzIs",
-                "title": "【 METAL GEAR SOLID Δ: SNAKE EATER 】帰ってきたぞ！果たしてステルスはできるのか⁉【鷹嶺ルイ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/G0CK0_5RzIs/hqdefault.jpg?v=69861763&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCCQaZ2p4mi6yEBC0xWXUJMQrUo8A",
-                "description": "久々の メタルギア ソリッド Δ やるぞ～✨\n\n本動画およびライブ配信は、株式会社コナミデジタルエンタテインメントが提供したゲームソフトで許..."
-            }
-        ]
+        "videos": []
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
