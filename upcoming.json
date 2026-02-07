@@ -146,13 +146,29 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "axwAF-rfy2I",
+                "title": "【#遊戯王マスターデュエルパーク】イベント本戦✨ミラー＆対戦！withりおーな【一条莉々華/hololive DEV_IS　ReGLOSS】",
+                "date": "2026/02/07 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/axwAF-rfy2I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_NCnVy7IBmx6PEg2VDPDGXrC7FQ",
+                "description": "✨今日やること✨\n-めいっぱい楽しむ！\n\nYu-Gi-Oh! Master Duel\n\n素敵なサムネイラスト🔽\nヤマダ様\n@nou__74\n\n本配信はこちら🔽\nhttps://www.openrec.tv/live/em8xvwn..."
+            }
+        ]
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "cB4yPA_3iws",
+                "title": "【ド★初見】スーパーマリオギャラクシー遊ぶ！",
+                "date": "2026/02/07 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/cB4yPA_3iws/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4vN8LiN1EOu7KtTlKu9-XjtECIA",
+                "description": "Play Game : Super Mario Galaxy ( switch )\nタグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nころねTwitter▶https://twitter.com/in..."
+            }
+        ]
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
@@ -210,6 +226,13 @@
         "avatar_url": "https://yt3.googleusercontent.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
         "videos": [
             {
+                "video_id": "F4-cIH22Fws",
+                "title": "【ZOMILY - Freetalk】  😳😳 【Kureiji Ollie】",
+                "date": "2026/02/07 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/F4-cIH22Fws/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCokFfRrbfPP20c90S6dr2PwRIQGg",
+                "description": "❥・・───༅༚˳ . ୨୧ . ˳༚༅༚─── ・・❥\n\n #OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n────୨｡ ₊°༺❤︎༻°₊ ｡ৎ────\n\n This is..."
+            },
+            {
                 "video_id": "aRAGrCR-6l4",
                 "title": "【Monster Hunter Stories 3: Twisted Reflection】 RIDING ON MONSTERS!! #sponsored  【Kureiji Ollie】",
                 "date": "2026/02/09 20:00:00",
@@ -228,15 +251,7 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": [
-            {
-                "video_id": "r3a05zH84h4",
-                "title": "【FF10】初めてのファイナルファンタジー💙完全初見 :ネタバレあり【水宮枢／ホロライブDEV_IS】",
-                "date": "2026/02/07 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/r3a05zH84h4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAasCNy8vpvklxtQ4rRh36A2r3b2Q",
-                "description": "本動画のゲームプレイ映像は、株式会社スクウェア・エニックスの許諾を受けて使用しています。\n© 2001, 2003, 2019 SQUARE ENIX CO., LTD. All Rights Reserved...."
-            }
-        ]
+        "videos": []
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -417,7 +432,15 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "4xN6zpBKIkg",
+                "title": "【バイオハザードre4】はじめてのバイオハザードre4やるにぇえええええええ！！！※未成年視聴注意【ホロライブ/さくらみこ】",
+                "date": "2026/02/07 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/4xN6zpBKIkg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDIGQrWwTMTHtmBObVykzKq4kvoWg",
+                "description": "新作来る前に！！！！！やるぞ！！！！！！！\n\n⪩⪨　お知らせ/ɪɴғᴏ\n￣￣￣￣￣￣￣￣￣￣￣￣￣\n　🌸さくらみこ1st Live \"flower fantasista!\"..."
+            }
+        ]
     },
     "@SamekoSaba": {
         "channel_url": "https://www.youtube.com/@SamekoSaba",
