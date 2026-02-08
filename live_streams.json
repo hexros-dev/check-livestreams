@@ -9,7 +9,14 @@
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
         "channel_name": "Airani Iofifteen Channel hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "zpuQhM-YDj4",
+                "title": "WE TALK!",
+                "thumbnail": "https://i.ytimg.com/vi/zpuQhM-YDj4/hqdefault.jpg?v=6988792d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZG957v7EN_KGCZ7naLdLwLY-pyg",
+                "description": "#ioLyfe #Airani_Iofifteen #hololive #holoID \n\n【Support & Jajanin IOFI】🎨\nIndonesia : https://sociabuzz.com/airaniiofifteen/tribe\nOverseas : https://streamlabs.com/airaniiofifteenchannelhololi..."
+            }
+        ]
     },
     "@AkaiHaato": {
         "channel_url": "https://www.youtube.com/@AkaiHaato",
@@ -70,13 +77,27 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "duzSkAk86fM",
+                "title": "【Membership Only】日曜日＆平日お休み前の！まったり寝る前メン限雑談～～～～～～(ᐡ  - ᴥ -  ᐡ)【博衣こより/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/duzSkAk86fM/hqdefault.jpg?v=69887139&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDW_dfy6u1uB43pso94pmJJBTlw9A",
+                "description": "明日から平日お休み入るので、メン限でまったりおしゃべりしよ～～～～～～～～(ᐡ  - ᴥ -  ᐡ)💗\n【大切なお約束！！！】\n⚠メンバー限定で発..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "hyytrl4ityU",
+                "title": "やれやれなのらね(・o・🍬)【姫森ルーナ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/hyytrl4ityU/hqdefault.jpg?v=69875ac9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDK-csF0lMd2jFnJuvEuXEqiUvBvw",
+                "description": "サムネイラスト\n　昼野いすさん　https://twitter.com/tree_isu\n\n雑談 - Free Talk - 再生リスト\nhttps://www.youtube.com/playlist?list=PL6gUpTCMieF4Yyd0SjmUr7OjjyS9lVW6U\n\n▷=======..."
+            }
+        ]
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -94,14 +115,7 @@
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk",
-        "videos": [
-            {
-                "video_id": "Qmbubo9yX8w",
-                "title": "【＃ホロテラリア】ホロメンとゆく！どんどんみんな強くなるTerraria【ホロライブ/宝鐘マリン】",
-                "thumbnail": "https://i.ytimg.com/vi/Qmbubo9yX8w/hqdefault.jpg?v=69882601&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBohq-EAuGZgwKybAoBcoKMCEWnYQ",
-                "description": "@ShirakamiFubuki \n@OozoraSubaru \n@OokamiMio \n@usadapekora \n@ShiroganeNoel \n本ゲームは ©2017 Re-Logic. に確認の上配信・収益化を行っております\n｡.｡:+* ﾟ ゜ﾟ *+:｡...."
-            }
-        ]
+        "videos": []
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
@@ -126,13 +140,27 @@
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "aKFyZQP7HhM",
+                "title": "【Bits & Bops】リズムゲーやる♩",
+                "thumbnail": "https://i.ytimg.com/vi/aKFyZQP7HhM/hqdefault.jpg?v=69885c4c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8cMMs5bMzj7USxWCkS-z0Z1tEnw",
+                "description": "Play Game : Bits & Bops ( steam )\nタグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nころねTwitter▶https://twitter.com/inugamikor..."
+            }
+        ]
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "zEZNsYyqWc0",
+                "title": "【深夜歌枠🎤】ゆったりまったりの夜をリオナと過ごしましょう✨【ホロライブ DEV_IS 響咲リオナ】",
+                "thumbnail": "https://i.ytimg.com/vi/zEZNsYyqWc0/hqdefault.jpg?v=6988762e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxMd-B5a71eAa-b5oTUg_pUTpPtA",
+                "description": "提供：XING INC.\n※JOYSOUND音源を使用しているため、本動画のカラオケ音源利用部分の切り抜き・転載はご遠慮ください。\nこの配信・動画では「カラ..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -204,14 +232,7 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": [
-            {
-                "video_id": "ergH82qca-Y",
-                "title": "【SPcollect】best smelling tierlist EVER?! with @NinomaeInanis  #holo_MEMORIES #ad",
-                "thumbnail": "https://i.ytimg.com/vi/ergH82qca-Y/hqdefault.jpg?v=698736e2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJBm1M3hXigv9-VJYLSVDVDhSUyA",
-                "description": "Sponsor: SPcollect\n✨タレントプロデュースフレグランスミスト企画「MEMORIES」受注販売中！\nThe Fragrance Mist Project \"MEMORIES\" is available for pre-order!\n\n■販売期..."
-            }
-        ]
+        "videos": []
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -273,7 +294,14 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "HmHcMkIthbw",
+                "title": "【鳴潮】エイメスちゃんの専用武器が欲しいガチャねえ～【尾丸ポルカ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/HmHcMkIthbw/hqdefault.jpg?v=6988847d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATKC-NnibFExm2UD-Ixdf_BiRTdw",
+                "description": "出るまで出すガチャよ～\n\n---------------------\n\n※尾丸ポルカへ頂いたスパチャは、基本的に毎週木曜日19時から「ポルカの伝説」にて、動画の最後に..."
+            }
+        ]
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
@@ -372,7 +400,14 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "92ysnBuo_-4",
+                "title": "【ホロガード】ホロメンのことどれくらい知ってる？【不知火フレア/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/92ysnBuo_-4/hqdefault.jpg?v=69887b53&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-mvp1wR0EuVDomlrYE-aY7c2Czw",
+                "description": "■New「Fun fair」MV公開✨\nhttps://www.youtube.com/watch?v=FdKux6g4HJ4\n\n━━━━━━━━━━━━━━━━━━━━━━━\n■Newシングル「架空と本当」MV公開中..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -441,7 +476,14 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "tMyMCZu_fCk",
+                "title": "【メンバー限定配信】開設5年11ヶ月目！「超かぐや姫！ / Cosmic Princess Kaguya!」同時視聴！【角巻わため/ホロライブ４期生】",
+                "thumbnail": "https://i.ytimg.com/vi/tMyMCZu_fCk/hqdefault.jpg?v=6987bd87&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0ljk5S903NnQo2I5hH6yb9fwrAg",
+                "description": "めちゃくちゃ鼻声なうで声聞きづらかったらごめんね...！\n毎月８日はMember sheepの記念日です🐏💛\n※配信前にメン限に切り替えます！\nタグ：#ド..."
+            }
+        ]
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -539,13 +581,6 @@
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": [
-            {
-                "video_id": "hIMxzRIbZHI",
-                "title": "【メン限】咳がとまらない病み上がり病人　#結城さくな生放送",
-                "thumbnail": "https://i.ytimg.com/vi/hIMxzRIbZHI/hqdefault.jpg?v=69886e28&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAaZBtIOwEmLFjKffzLcOcuTKdmOQ",
-                "description": "🎀グッズ・ボイス販売はこちら🐾\nhttps://yuki-sakuna.stores.jp/\n\n🎀歌ってみた動画🐾\nhttps://youtube.com/playlist?list=PLErsMirGq93vRw-CcRaaZfR4QVxl2uBsb&si=BRmEr8erE6aR-UJ..."
-            }
-        ]
+        "videos": []
     }
 }
