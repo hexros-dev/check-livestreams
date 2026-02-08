@@ -28,14 +28,7 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": [
-            {
-                "video_id": "HHrbZjPO56o",
-                "title": "【Delta Force】本番！！！がっぽり稼ぐぞ！！！！【アキロゼ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/HHrbZjPO56o/hqdefault.jpg?v=69878ada&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA002aEqKarVeUtpx0KxR9tvNO5WA",
-                "description": "本配信 https://www.twitch.tv/shomaru7\n\n🍎アキロゼ広告衣装スポンサー募集はじめました🍎\n▼応募フォーム\nhttps://forms.gle/CHEv9Td8irUvjuQi9\n\n広告衣装ってなに..."
-            }
-        ]
+        "videos": []
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -166,7 +159,14 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "XHg56HHisCc",
+                "title": "【紹介】静岡県を知るパート②！！！ #静岡の魅力だよらでんちゃん【儒烏風亭らでん #ReGLOSS 】",
+                "thumbnail": "https://i.ytimg.com/vi/XHg56HHisCc/hqdefault.jpg?v=6988767d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCuCAYRFxAFElBQ1pSED2HriPpWmw",
+                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\n静岡県立美術館音声ガイド実装を記念して、..."
+            }
+        ]
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -178,7 +178,14 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "T8F62pPGCas",
+                "title": "【メンバー限定シップ】リリイベありがと！みんなに会えて幸せだった話【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "thumbnail": "https://i.ytimg.com/vi/T8F62pPGCas/hqdefault.jpg?v=6988921e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC62RHcm8K42cCRk3oR2wd4fnh-JA",
+                "description": "サムネイルの素敵なイラスト　苺大福さん　https://x.com/il_ichi05?s=20\n\nメンバーシップ開設しました！加入はこちらから💕https://www.youtube.com/channel/UCGzT..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -214,7 +221,14 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "G3L4L471Q-8",
+                "title": "【雑談／freetalk】リリイベや最近の話…⸜❄️⸝【水宮枢／ホロライブDEV_IS】",
+                "thumbnail": "https://i.ytimg.com/vi/G3L4L471Q-8/hqdefault.jpg?v=69889236&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1Y21K8Xc6qcveCjhRTDo-yClevg",
+                "description": "イラストhttps://x.com/moriiochan?s=21&t=CbrrjZRpYKuQt6jP6ruZBg\n▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸◂┄▹◃\n\n💙メンバーシップはこちらから ⬇️\nClick here..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -445,14 +459,7 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": [
-            {
-                "video_id": "8UHgbewz54Y",
-                "title": "【 METAL GEAR SOLID Δ: SNAKE EATER 】で、味は？【鷹嶺ルイ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/8UHgbewz54Y/hqdefault.jpg?v=6987e79c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCb7HifU5PyurEPOkycfm03iPXbpA",
-                "description": "へび食べたことある人いる？\n\n本動画およびライブ配信は、株式会社コナミデジタルエンタテインメントが提供したゲームソフトで許諾を受けてプ..."
-            }
-        ]
+        "videos": []
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
@@ -464,7 +471,14 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "jqGcYdtgzZ8",
+                "title": "【歌枠】続きで夜も歌います！！【ホロライブ/ときのそら】",
+                "thumbnail": "https://i.ytimg.com/vi/jqGcYdtgzZ8/hqdefault.jpg?v=6988904a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUjmUwD-vNaPY4Q6fefTi0sc-_kg",
+                "description": "作業おわりました！！\n\n～サムネイラスト～\nあかに様\nhttps://x.com/akakaknr\n\n\n歌っちゃ王様\nhttps://www.youtube.com/channel/UC1tk9F5-MGXEq4LWnjmrtpA\n\nORYO様\nTwitter:https:..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
