@@ -357,7 +357,15 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "9RMa2bVxcKc",
+                "title": "【Yu-Gi-Oh Master Duel】New Duelist Enters The Ring 😎 #sponsored",
+                "date": "2026/02/10 09:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/9RMa2bVxcKc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2VaiwHf4UmgB3vmLirnbCI1iakw",
+                "description": "🎮 Play Now!\nSteam - https://store.steampowered.com/app/1449850/YuGiOh_Master_Duel/\nYu-Gi-Oh Master Duel - https://x.com/YGOMasterDuel \n\nSupport my team with this hashtag! #TeamIPMasquerena..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
