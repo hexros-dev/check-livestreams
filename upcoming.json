@@ -153,15 +153,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": [
-            {
-                "video_id": "r1eoW5dbTS0",
-                "title": "【 都市伝説.exe 】怖くないもん・・・！！！！！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "date": "2026/02/10 16:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/r1eoW5dbTS0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAg8gAsEHmuGECm0AVg51Vaqsx03Q",
-                "description": "サムネイルの素敵なイラスト　工藤 改さん　https://x.com/aiueobaio5?s=20\n\nメンバーシップ開設しました！加入はこちらから💕https://www.youtube.com/channel/UCG..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -233,7 +225,15 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Z67VzP38au0",
+                "title": "【 MyVoiceZoo 】全部ねねの声の動物園、その名もももすZOO...w【 桃鈴ねね / hololive 】",
+                "date": "2026/02/10 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Z67VzP38au0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQvh8rjkAAdazegFo_PvDWscseEA",
+                "description": "まじで初見なのでよろしくおねがいしまーーーーーーーーーーーーーーーす！！！！！！！\n⸜♡⸝MemberShipに入ったらもっとねねを知れるﾖ..."
+            }
+        ]
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
@@ -401,15 +401,7 @@
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC",
-        "videos": [
-            {
-                "video_id": "U88a7-zviII",
-                "title": "【 MyVoiceZoo 】 奏の声で動物園を作ってみる！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS　※ネタバレあり",
-                "date": "2026/02/10 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/U88a7-zviII/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCx62hKU4XbPm-0vBWvtT4P4-tnbQ",
-                "description": "▽音乃瀬奏 77万人記念グッズ▽\n1月13日　21:30より販売開始！\nhttps://shop.hololivepro.com/products/otonosekanade_subscribers_770k\n\n▽✨重大告知✨ ▽\n音乃瀬奏..."
-            }
-        ]
+        "videos": []
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
@@ -567,7 +559,15 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "L23qksldJM4",
+                "title": "【メンバー限定】お屋敷に帰省してました！【雪花ラミィ /ホロライブ】",
+                "date": "2026/02/10 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/L23qksldJM4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCE8kDNybW4UbmGI3_dCIy6zRhKuQ",
+                "description": "※22時になったらメンバー限定配信に切り替わります\n　At22:00 p.m., the distribution will switch to members-only distribution.\n　メン限で話した内容は内緒でお願..."
+            }
+        ]
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
@@ -672,6 +672,13 @@
                 "date": "2026/02/11 18:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/RStda1RVSx8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVSroLYQVfcyeea8gnTWIhGhx0gw",
                 "description": "19or20時開始\n\nイカれたメンバー\n@ShirakamiFubuki \n@OokamiMio \n@OozoraSubaru \n@usadapekora \n@ShiroganeNoel \n@HoushouMarine \n\nサムネイラスト◆フカヒレ さん\n\n⋈ －－－－..."
+            },
+            {
+                "video_id": "xefXcdg28x0",
+                "title": "【配信予定】側にいるだけで その目に見つめられるだけで【ホロライブ/兎田ぺこら】",
+                "date": "2026/02/10 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/xefXcdg28x0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBn50oKgh6h8uPVSihuUt5c7BsInQ",
+                "description": "サムネイラスト：()さん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ #ぺこらいぶ..."
             }
         ]
     },
