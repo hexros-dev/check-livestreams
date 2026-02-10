@@ -245,7 +245,14 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "9Fqw_0FJA4Y",
+                "title": "【東京新聞杯&きさらぎ賞】競馬配信🔰リベンジだ！平日ってなんかどきどきする【尾丸ポルカ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/9Fqw_0FJA4Y/hqdefault.jpg?v=698a7a23&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-4S7DVLWZ4XR7rX6xlCApOklBTQ",
+                "description": "狙え的中🎯👊\n\n\n※尾丸ポルカへ頂いたスパチャは、基本的に毎週木曜日19時から「ポルカの伝説」にて、動画の最後に名前を載せさせていただい..."
+            }
+        ]
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
@@ -269,14 +276,7 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": [
-            {
-                "video_id": "9RMa2bVxcKc",
-                "title": "【Yu-Gi-Oh! MASTER DUEL】New Duelist Enters The Ring 😎 #sponsored",
-                "thumbnail": "https://i.ytimg.com/vi/9RMa2bVxcKc/hqdefault.jpg?v=698983c6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2VaiwHf4UmgB3vmLirnbCI1iakw",
-                "description": "ℹ️ Follow Yu-Gi-Oh! MASTER DUEL: https://x.com/YGOMasterDuel \n🎮 Play Yu-Gi-Oh! MASTER DUEL: https://store.steampowered.com/app/1449850/YuGiOh_Master_Duel/\n\nSupport my team with this..."
-            }
-        ]
+        "videos": []
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
