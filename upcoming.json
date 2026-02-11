@@ -3,15 +3,7 @@
         "channel_url": "https://www.youtube.com/@AZKi",
         "channel_name": "AZKi Channel",
         "avatar_url": "https://yt3.googleusercontent.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos",
-        "videos": [
-            {
-                "video_id": "H15lML6xUIY",
-                "title": "【Detroit: Become Human】#2 完全初見！超名作ゲーム、デトロイト！選択が未来を変える物語―【ホロライブ / AZKi】",
-                "date": "2026/02/11 11:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/H15lML6xUIY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6eBwupQYyvoMXBg6yNGs6y_BvzA",
-                "description": "ずっとやりたかったゲームやるぞー！\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\n配信タイトル：Detroit: Become Human\nストアページ：https://store.steampowered.com/ap..."
-            }
-        ]
+        "videos": []
     },
     "@AiraniIofifteen": {
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
@@ -111,7 +103,15 @@
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "3ECbgGfiPh4",
+                "title": "【＃ホロテラリア】ホロメンとゆく！ついに最終回Terraria【ホロライブ/宝鐘マリン】",
+                "date": "2026/02/11 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/3ECbgGfiPh4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZkFtZYFXtafdBzz1-zrLrkEkBcQ",
+                "description": "@ShirakamiFubuki \n@OozoraSubaru \n@OokamiMio \n@usadapekora \n@ShiroganeNoel \n本ゲームは ©2017 Re-Logic. に確認の上配信・収益化を行っております\n｡.｡:+* ﾟ ゜ﾟ *+:｡...."
+            }
+        ]
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
@@ -155,7 +155,29 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "4eXqbW4NKt8",
+                "title": "【Agreeee】imagine RTA-ing a comfy rage game",
+                "date": "2026/02/13 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/4eXqbW4NKt8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUOhfW__V69KLtBEFOFdKhHICVAA",
+                "description": "【Donasi lokal】Traktir yang pahit-pahit kini sangat EZGGWP!~\nLink: https://sociabuzz.com/kaelakovalskia/tribe\n\n#Kaelaif #KaelaKovalskia #holoID #hololive #hololiveID \n∘₊✧──────..."
+            },
+            {
+                "video_id": "sC00lbXsafM",
+                "title": "【HoloType: Treasure Zombie Island】imagine typing, btw cool new working outfit bro",
+                "date": "2026/02/12 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/sC00lbXsafM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcbdxnhqUHVIDbc1FBLhP9XS2s9A",
+                "description": "【Donasi lokal】Traktir yang pahit-pahit kini sangat EZGGWP!~\nLink: https://sociabuzz.com/kaelakovalskia/tribe\n\n#Kaelaif #KaelaKovalskia #holoID #hololive #hololiveID \n∘₊✧──────..."
+            },
+            {
+                "video_id": "sOPvoCz77q8",
+                "title": "【HANDCAM】imagine testing a comeback stream with opening packs",
+                "date": "2026/02/11 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/sOPvoCz77q8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0fbIWK0kYBhkjq-wlF91JvTjZWA",
+                "description": "【Donasi lokal】Traktir yang pahit-pahit kini sangat EZGGWP!~\nLink: https://sociabuzz.com/kaelakovalskia/tribe\n\n#Kaelaif #KaelaKovalskia #holoID #hololive #hololiveID \n∘₊✧──────..."
+            }
+        ]
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
@@ -363,15 +385,7 @@
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC",
-        "videos": [
-            {
-                "video_id": "qF7kD6MbBdk",
-                "title": "【 縦型歌枠 】お昼ののんびり歌枠🎵【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-                "date": "2026/02/11 12:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/qF7kD6MbBdk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzIS82CDgyo8rZMRUaDMv5vhoGQw",
-                "description": "▽音乃瀬奏 77万人記念グッズ▽\n1月13日　21:30より販売開始！\nhttps://shop.hololivepro.com/products/otonosekanade_subscribers_770k\n\n▽✨重大告知✨ ▽\n音乃瀬奏..."
-            }
-        ]
+        "videos": []
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
@@ -451,15 +465,7 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": [
-            {
-                "video_id": "lM-_hYzdgWg",
-                "title": "【スト6】#ワルキューレ杯 ミラー配信 / with ガチくん【獅白ぼたん/ホロライブ】",
-                "date": "2026/02/11 11:45:00",
-                "thumbnail": "https://i.ytimg.com/vi/lM-_hYzdgWg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8SDqO-mk8C85QB2CbxhUs-qgZHg",
-                "description": "第3回ワルキューレ杯in沖縄 をガチくんと一緒にウォッチパーティさせていただきます🌺\n公式X：https://x.com/valkyrie_cup\n\nガチくん：https://x.com/gachikun04..."
-            }
-        ]
+        "videos": []
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
@@ -471,7 +477,15 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "gf_skOpqmSc",
+                "title": "【 雑談 】ルイ＆はじめ＆千速でNYに行ってきた！！！【ホロライブ】",
+                "date": "2026/02/11 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/gf_skOpqmSc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEYmOIiT1HB-9dDiyHl-G1UfalGw",
+                "description": "NYのお話するよ✨\n\n@TodorokiHajime \n@RindoChihaya \n\nサムネ：トゥーミ先生\n\n※このチャンネルの切り抜きをyoutube以外のSNSに投稿することを禁止です。..."
+            }
+        ]
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
@@ -483,15 +497,7 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": [
-            {
-                "video_id": "vURyYS4jKB8",
-                "title": "【ネタバレあり】ゼルダ無双 封印戦記～5～【ホロライブ/ときのそら】",
-                "date": "2026/02/11 11:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/vURyYS4jKB8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTVHQx_O079cq2CE0dYw0W1JUdYg",
-                "description": "今日も元気に配信します！！\nやたああああああ！！！\n\n本ゲームはコーエーテクモゲームスの確認を得た上で配信を行なっております。\n©コーエ..."
-            }
-        ]
+        "videos": []
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
