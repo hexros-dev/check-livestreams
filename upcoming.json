@@ -65,7 +65,15 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "jmEH-6NxnwA",
+                "title": "≪Keep Talking and Nobody Explodes≫ Korean Challenge w/ Miori Celery",
+                "date": "2026/02/12 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/jmEH-6NxnwA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDE_xv-wV7NFa5XHuJSKEd_FYIr8A",
+                "description": "...살려 좀 w/ @MioriCelesta \n\n#telebae #febaerary  #hololiveenglish \n\n««≪ °◇◆◇° ≫ »»\nThis game is being streamed and monetized after confirming with Steel Crate Games ©2019..."
+            }
+        ]
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -153,13 +161,6 @@
                 "date": "2026/02/12 21:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/sC00lbXsafM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcbdxnhqUHVIDbc1FBLhP9XS2s9A",
                 "description": "【Donasi lokal】Traktir yang pahit-pahit kini sangat EZGGWP!~\nLink: https://sociabuzz.com/kaelakovalskia/tribe\n\n#Kaelaif #KaelaKovalskia #holoID #hololive #hololiveID \n∘₊✧──────..."
-            },
-            {
-                "video_id": "sOPvoCz77q8",
-                "title": "【HANDCAM】imagine testing a comeback stream with opening packs",
-                "date": "2026/02/11 21:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/sOPvoCz77q8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0fbIWK0kYBhkjq-wlF91JvTjZWA",
-                "description": "【Donasi lokal】Traktir yang pahit-pahit kini sangat EZGGWP!~\nLink: https://sociabuzz.com/kaelakovalskia/tribe\n\n#Kaelaif #KaelaKovalskia #holoID #hololive #hololiveID \n∘₊✧──────..."
             }
         ]
     },
@@ -174,6 +175,13 @@
         "channel_name": "Kobo Kanaeru Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B",
         "videos": [
+            {
+                "video_id": "aKSlPyEtKY4",
+                "title": "【UMIGARI】GOING TO THE 4TH AREA NOW!!!",
+                "date": "2026/02/11 22:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/aKSlPyEtKY4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmFlQqf70v_N0Sh-fzeIXbO02vtw",
+                "description": "Bokobokobo- Kobo Kanaeru at your service! Let me be your sun to shine your day, ehe~ ;D ☔☔☔\n#OnAeru #Kobo_Kanaeru #holoID #holoID03\n\nThis game is being streamed and monetized with permission..."
+            },
             {
                 "video_id": "yxnWDRS6wTI",
                 "title": "【Sea of Remnants】COBA MEMBAJAK LAUT DI GAME INI!!",
@@ -199,15 +207,7 @@
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
-        "videos": [
-            {
-                "video_id": "_RocrudV7As",
-                "title": "【UMIGARI | ウミガリ】 SELL FISH  【Kureiji Ollie】",
-                "date": "2026/02/11 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/_RocrudV7As/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDrHwEHsjrlrB9SZDgfiTBbSjNlvQ",
-                "description": "❥・・───༅༚˳ . ୨୧ . ˳༚༅༚─── ・・❥\n\n#OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n────୨｡ ₊°༺❤︎༻°₊ ｡ৎ────\n\n本ゲームは..."
-            }
-        ]
+        "videos": []
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
@@ -390,15 +390,7 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": [
-            {
-                "video_id": "oUxkUkSITLY",
-                "title": "#2 UMIGARI | ウミガリ - NO MORE FLYING FISH",
-                "date": "2026/02/11 21:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/oUxkUkSITLY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBax7YyLSNnlNaeC_tc1dw5pJYLwA",
-                "description": "Reine's new original song now AVAILABLE on iTunes, Apple Music, Spotify etc. starting September 10, 2025 00:00 your local time!!!\nWatch the MV:➡️https://youtu.be/NEtiag8nTUs\nGet it here:➡️h..."
-            }
-        ]
+        "videos": []
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -446,15 +438,7 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": [
-            {
-                "video_id": "Lz28FPGwGOs",
-                "title": "【pop'n music Lively】フレポルオフ！音ゲー「ポップン」を語りながら遊ぶぞっ【不知火フレア/ホロライブ】",
-                "date": "2026/02/11 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Lz28FPGwGOs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACK9RD1grY11Ha5NKu7Nm1ZqxtyA",
-                "description": "@OmaruPolka  ポルさん\n今日は↓のコンパクトモデルで遊びます\nhttps://www.konamistyle.jp/products/detail.php?product_id=111099\n\n■New「Fun fair」MV公開✨\nhttps://www.youtub..."
-            }
-        ]
+        "videos": []
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -518,15 +502,7 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": [
-            {
-                "video_id": "0I1Mbrs3hBg",
-                "title": "【 Minecraft 】風邪から復活したので、ゾンビオウムガイください！！！【角巻わため/ホロライブ４期生】",
-                "date": "2026/02/11 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/0I1Mbrs3hBg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBspmHgPL7J5mxpGaO6ysOdVxn7WA",
-                "description": "まだ少し鼻声だけど、とても元気です！\nタグ：#ドドドライブ \n\n配信タイトル：Minecraft\nストアページ：https://www.minecraft.net/ja-jp\n本ゲームは Mojang..."
-            }
-        ]
+        "videos": []
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -577,21 +553,21 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "S7orQua5JMA",
+                "title": "【MEMBER STREAM】Crazy, Stupid, Love WATCHALONG!",
+                "date": "2026/02/12 05:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/S7orQua5JMA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCuK1WjfJrkzVEF9fSsJDhaGsj5TA",
+                "description": "art: https://x.com/dani_kichi/status/2021310346573607119?s=20\n--------------------------\nHashtags\n📺 Livestream: #ImmerScreen \n🎨 Fanart: #Immergination\n🎻 Music: #ImmerPiece\n🤡 Memes:..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48",
-        "videos": [
-            {
-                "video_id": "RXNzYh2Q6H0",
-                "title": "【R.E.P.O】 Ramen Every Possible Occasion 🍜 ~! 💄🎼🗿🩵🩷🐾🐱",
-                "date": "2026/02/11 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/RXNzYh2Q6H0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2XtX9RULF428BwbRVxZscpd0BWg",
-                "description": "Enjoying my acronyms? \n\n* 配信タイトル：R.E.P.O.\nストアページ：https://store.steampowered.com/app/3241660/REPO/\n* Game title: R.E.P.O\nStore page: https://store.steampowered.com/app/32..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_gigimurin": {
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
