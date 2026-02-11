@@ -52,14 +52,7 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": [
-            {
-                "video_id": "eanRyxbToiQ",
-                "title": "【SUPERCHAT READING】comfy chatting about anything that comes to mind 🐾 #sponsored 【FUWAMOCO】",
-                "thumbnail": "https://i.ytimg.com/vi/eanRyxbToiQ/hqdefault.jpg?v=6988d696&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCaWjfta6ySsZeJ7xiOh61ABK_mtg",
-                "description": "This stream is sponsored by OTAKU.\nhttps://otaku.shop/collections/hololive\nwe love times like this together ✨️\nlovely illustration by @wugedou579 💓\n\n🩵 FUWAMOCO 𝟮𝗻𝗱 𝗼𝗿𝗶..."
-            }
-        ]
+        "videos": []
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -168,14 +161,7 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": [
-            {
-                "video_id": "esXQLWz8_B0",
-                "title": "【BAYONETTA】THE ORIGINAL SLAY QUEEN",
-                "thumbnail": "https://i.ytimg.com/vi/esXQLWz8_B0/hqdefault.jpg?v=698bbd4b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASFKZhj0a68Dm4XlDzAQ7eVNlXkQ",
-                "description": "MATCH WITH EEPY BIBOO MERCH:\n\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/kosekibijou_pebblepajamasoutfit\nEN: https://shop.hololivepro.com/en/products/kosekibijou..."
-            }
-        ]
+        "videos": []
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -295,7 +281,14 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "T_5_QXs3AZ0",
+                "title": "【DARK SOULS REMASTERED】#3 山羊頭のデモーン！！！！※ネタバレ注意【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "thumbnail": "https://i.ytimg.com/vi/T_5_QXs3AZ0/hqdefault.jpg?v=698c26f6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbKnWzZ51D7mS2FhBQpVjF1xU54g",
+                "description": "5年ぶり…？のダクソいくぞ！！！！！！！！\nたぶんほぼ初見と同じです！！！！！\n\n本ゲームは株式会社フロム・ソフトウェアに確認を得た上、..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -343,7 +336,14 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "2N9oQPjUWiA",
+                "title": "【#ホロテラリア】最終回ということで早出太郎ッッ！！遊びつくしたい🔥タイムカードﾋﾟｯ！愉快な仲間たちとテラリアはじめる太郎！【白銀ノエル/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/2N9oQPjUWiA/hqdefault.jpg?v=698b5c54&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCV2FgdfOUJXyeZon7MbK0PsTWRiQ",
+                "description": "🎵愉快な仲間たち🎵\n@usadapekora 大型アプデ嬉しいナ！誘ってくれてありがとう～！！\n@ShirakamiFubuki 永遠に冒険→お宝ガチャ→冒険を繰り広げそう..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -380,14 +380,7 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": [
-            {
-                "video_id": "vURyYS4jKB8",
-                "title": "【ネタバレあり】ゼルダ無双 封印戦記～5～【ホロライブ/ときのそら】",
-                "thumbnail": "https://i.ytimg.com/vi/vURyYS4jKB8/hqdefault.jpg?v=698bfaf6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTVHQx_O079cq2CE0dYw0W1JUdYg",
-                "description": "今日も元気に配信します！！\nやたああああああ！！！\n\n本ゲームはコーエーテクモゲームスの確認を得た上で配信を行なっております。\n©コーエ..."
-            }
-        ]
+        "videos": []
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
