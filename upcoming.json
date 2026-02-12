@@ -210,15 +210,7 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": [
-            {
-                "video_id": "yXRG79Dqkbk",
-                "title": "【BAYONETTA】BIBOONETTA",
-                "date": "2026/02/12 07:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/yXRG79Dqkbk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5TkefOedXo4DZMubFBwoqbJdX1Q",
-                "description": "MATCH WITH EEPY BIBOO MERCH:\n\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/kosekibijou_pebblepajamasoutfit\nEN: https://shop.hololivepro.com/en/products/kosekibijou..."
-            }
-        ]
+        "videos": []
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -291,13 +283,6 @@
                 "date": "2026/02/13 10:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/IPcHZNDKLUY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBA7BVX-uo8gVvlnSOPo6RbKnMrgA",
                 "description": "holy youtuber thumbnail jesus\n\nDISASTERPIECE New Album ON Sale!\nStreaming: https://lnk.to/mc_dsp\nCD and Merch: https://lnk.to/mc_dp_ec\n\nLINE Stickers: https://line.me/S/sticker/32114569\n\nBGM:..."
-            },
-            {
-                "video_id": "J7AxA-xu7BM",
-                "title": "【NEW 3D Face Tracking!】showing off a little, plus album talk before an announcement?! #calliolive",
-                "date": "2026/02/12 08:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/J7AxA-xu7BM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwgJUC1jmdZptz-A8ZzxF3ZPaNWA",
-                "description": "DISASTERPIECE New Album ON Sale!\nStreaming: https://lnk.to/mc_dsp\nCD and Merch: https://lnk.to/mc_dp_ec\n\nLINE Stickers: https://line.me/S/sticker/32114569\n\nBGM: https://x.com/BigRicePiano\nhttps://x..."
             },
             {
                 "video_id": "UrS8riGW6RM",
@@ -466,7 +451,15 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "J315mjbkn3I",
+                "title": "*Gasps* Couldn't Possibly Be Bloodborne 【State of Play Watchalong】",
+                "date": "2026/02/13 05:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/J315mjbkn3I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKUbIs-EBgXsp7QLl9fjZfbD3Y6Q",
+                "description": "Watchalong Links: \nJP: https://www.youtube.com/live/bGdFBim7nYY?si=96-AVUCrziUxlwm6\nEN: https://www.youtube.com/live/P0e5YEXtZu0?si=N-s0EmhTwUNIbTQI\n\nHashtags!\n📺 Live Tag: #ShiorinOnAir..."
+            }
+        ]
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
