@@ -131,13 +131,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
         "videos": [
             {
-                "video_id": "VsdkW9SerW0",
-                "title": "【クリア後】スーパーマリオギャラクシー、スター☆全部集めたい！！",
-                "date": "2026/02/14 12:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/VsdkW9SerW0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTnM1y6KA8qByNQvq-8q4dXtcbGg",
-                "description": "Play Game : Super Mario Galaxy ( switch )\nタグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nころねTwitter▶https://twitter.com/in..."
-            },
-            {
                 "video_id": "bVaqryDybUM",
                 "title": "【Memberships only】ハッピーバレンタイン♡寝る前のASMR（鼻声Ver.）",
                 "date": "2026/02/14 20:00:00",
@@ -368,20 +361,21 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "45wDiHCMz5M",
+                "title": "【マリオカートワールド】１位を取りたい！！！取れなかったらどーすんの？！【ホロライブ/大神ミオ】",
+                "date": "2026/02/14 15:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/45wDiHCMz5M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAL_V35RqUk9l40r_1S4rGKqt4YIA",
+                "description": "視聴者参加型予定です🌟\n\nサムネillustrator：atarimeさん　https://x.com/mudai_50\n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信してい..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
         "videos": [
-            {
-                "video_id": "e0un0bFnXvQ",
-                "title": "【#生スバル】ウマ娘 プリティーダービーやるしゅばああああああああああああああああああああああああああああああ！！！！！！！！：Umamusume: Pretty Derby【ホロライブ/大空スバル】",
-                "date": "2026/02/14 11:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/e0un0bFnXvQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQjM3Tij7GgRCz1jyYNj4Y6uFH7A",
-                "description": "本ゲームは株式会社Cygamesの配信ガイドラインに則って配信・収益化を行なっております。\nhttps://umamusume.jp/news/detail.php?id=107\n\n🐣おやくそく/Rule🐣..."
-            },
             {
                 "video_id": "xRNap7Nf0f0",
                 "title": "【】【ホロライブ/大空スバル】",
@@ -407,15 +401,7 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": [
-            {
-                "video_id": "BFIicKJeS6o",
-                "title": "(KEYBOARD ASMR) Silent Stream. I will be writing Valentines random holoID fanfic (WORK STREAM)",
-                "date": "2026/02/14 11:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/BFIicKJeS6o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWwoaAX_OLY_qSNBBDb3AyrdD6LQ",
-                "description": "Reine's new original song now AVAILABLE on iTunes, Apple Music, Spotify etc. starting September 10, 2025 00:00 your local time!!!\nWatch the MV:➡️https://youtu.be/NEtiag8nTUs\nGet it here:➡️h..."
-            }
-        ]
+        "videos": []
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -543,13 +529,29 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch.Tokoyami Towa",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ecy7-Hw4X5I",
+                "title": "【 STREET FIGHTER 6 】れんしゅう～～～～～～～～～～～～【常闇トワ/ホロライブ】",
+                "date": "2026/02/14 12:15:00",
+                "thumbnail": "https://i.ytimg.com/vi/ecy7-Hw4X5I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvoV-1K64JdbQItj4l2PfW95cYuA",
+                "description": "素敵なイラスト：https://x.com/na_mtk5/status/2013542622267322435\n\n\nこの動画およびライブは株式会社カプコンの利用許諾を受けて配信しています『ストリー..."
+            }
+        ]
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "7wQKhCC4fHo",
+                "title": "【歌枠】第１３２回！Valentine's わためぇ Night Fever!! Singing Stream🍫🎤【角巻わため/ホロライブ４期生】",
+                "date": "2026/02/14 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/7wQKhCC4fHo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9bYZyUAmm6nqoTiwcDNLa4F_1fQ",
+                "description": "ちょっと鼻声かもだけど、愛を込めて歌います💛\n#ドドドライブ \n\n🐏わためぇの『-Art Selection-』発売中🎉\nhttps://shop.hololivepro.com/products/tsunomakiwatame..."
+            }
+        ]
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -586,7 +588,7 @@
                 "title": "【重大告知あり】新３Dお披露目?！癒月ちょこ生誕祭2026🎂 【ホロライブ/癒月ちょこ】",
                 "date": "2026/02/14 18:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/_1PGuuEP7ps/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2fEcbddzgmbGi0ZGbXE6bafLROw",
-                "description": "ちょこの公式LINEスタンプはこちらから\nhttps://line.me/S/sticker/31677415\n\nサブ垢→https://www.youtube.com/channel/UCp3tgHXw_HI0QMk1K8qh3g\n\nOP＆ED動画：松賀りお。様@rio_..."
+                "description": "今日はちょこの誕生日🎂\nということで素敵な方々と一緒に\n生誕ライブやらせていただきます！\n\n素敵なゲスト様\n白銀ノエル　@ShiroganeNoel \n雪花ラ..."
             }
         ]
     },
@@ -672,15 +674,7 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": [
-            {
-                "video_id": "PdsDnkkXDBE",
-                "title": "#6【FF9】完全初見でファイナルファンタジーⅨを始める！ FINAL FANTASY Ⅸ ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意",
-                "date": "2026/02/14 11:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/PdsDnkkXDBE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-tPbbjx97BwO-BGwdHIHvIconjQ",
-                "description": "今週も楽しみ過ぎる\n\nサムネイラスト：憂姫はぐれマッマ\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekor..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
