@@ -57,20 +57,20 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": [
-            {
-                "video_id": "mQbU8cbxpiI",
-                "title": "≪HANDCAM STREAM≫ Making Valentine's Day Chocolates for Absolutely NO ONE!!",
-                "thumbnail": "https://i.ytimg.com/vi/mQbU8cbxpiI/hqdefault.jpg?v=698f17e8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSnrXep1FJHIfrTt19nf398v9ncA",
-                "description": "jk will probs give to like holo members or something idk\n\nThumbnail Art: https://x.com/Cafelittle_1st/status/2022244887094251634\n\n#telebae #febaerary  #hololiveenglish \n\n««≪ °◇◆◇°..."
-            }
-        ]
+        "videos": []
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "yVgMIRzkROQ",
+                "title": "【ドラゴンクエストVII Reimagined】DQ7初見！ドラクエ7リイマジンド！転職できるようになったぞ！✨ #4 【博衣こより/ホロライブ】※ネタバレを含みます",
+                "thumbnail": "https://i.ytimg.com/vi/yVgMIRzkROQ/hqdefault.jpg?v=698e2942&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0aqbF8Lc8p68HYNP2-Lky-hqTXA",
+                "description": "実はドラクエ7だけプレイしておらず初見です！これでドラクエナンバリング全網羅になる！どきどき！（サムネから彼が消えたのはFAの配置によ..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -161,20 +161,20 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": [
-            {
-                "video_id": "s9UMtLT4Rrw",
-                "title": "【MEMBER'S VRCHAT】CUTE YAPPING IN VR (AND OUTFIT PREVIEW)",
-                "thumbnail": "https://i.ytimg.com/vi/s9UMtLT4Rrw/hqdefault.jpg?v=698f7475&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARxdk7NWDFqB_6b_byXxFeXhwbFw",
-                "description": "MATCH WITH EEPY BIBOO MERCH:\n\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/kosekibijou_pebblepajamasoutfit\nEN: https://shop.hololivepro.com/en/products/kosekibijou..."
-            }
-        ]
+        "videos": []
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "7bgE6E0bK0Y",
+                "title": "【READING YOUR CONFESSIONS - holoQ】 OH?? A LOVE LETTER?? 💌 【Kureiji Ollie】",
+                "thumbnail": "https://i.ytimg.com/vi/7bgE6E0bK0Y/hqdefault.jpg?v=698f079d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXtxnO_3HkkiEhF7SErGCD7tTCbw",
+                "description": "❥・・───༅༚˳ . ୨୧ . ˳༚༅༚─── ・・❥\n\n#OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n────୨｡ ₊°༺❤︎༻°₊ ｡ৎ────\n\n Did you miss..."
+            }
+        ]
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
@@ -204,7 +204,14 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "IH26Xs5byEk",
+                "title": "【UNARCHIVED KARAOKE】how many love songs do I even know #calliolive",
+                "thumbnail": "https://i.ytimg.com/vi/IH26Xs5byEk/hqdefault.jpg?v=6989f827&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCF29FEBZllaWrYAaqIdt5NS840iw",
+                "description": "DISASTERPIECE New Album ON Sale!\nStreaming: https://lnk.to/mc_dsp\nCD and Merch: https://lnk.to/mc_dp_ec\n\nLINE Stickers: https://line.me/S/sticker/32114569\n\nBGM: https://x.com/BigRicePiano\nhttps://x..."
+            }
+        ]
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -253,14 +260,7 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": [
-            {
-                "video_id": "mNa1d09YKsE",
-                "title": "【DRAWING】WAHt Does Smol Ina Dream Of On Valentine's Day?",
-                "thumbnail": "https://i.ytimg.com/vi/mNa1d09YKsE/hqdefault.jpg?v=698f566e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcTRBHh1nL3YDeMc5c7kAY_8WZkA",
-                "description": "【Thumbnail Art】\n\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\n__________________________________________________________________________________________\n\nEndcard Art by Me!\nEndcard..."
-            }
-        ]
+        "videos": []
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -278,14 +278,7 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": [
-            {
-                "video_id": "tpJgtsKdKr0",
-                "title": "【#生スバル】ハッピーバレンタイン！おはすば！：FREE TALK【ホロライブ/大空スバル】",
-                "thumbnail": "https://i.ytimg.com/vi/tpJgtsKdKr0/hqdefault.jpg?v=698efb98&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2eTWT4W8a1sH8DGLfFI4PhlFEeA",
-                "description": "★サムネ…ｳﾕﾁｬﾝ.com： https://x.com/uyucomxx\n★イラスト…https://x.com/lipnocoa/status/2018248273937453327?s=20\n\n🐣おやくそく/Rule🐣\n・待機所でお喋りしない..."
-            }
-        ]
+        "videos": []
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -339,7 +332,14 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "f-eBy7EYYo0",
+                "title": "Running from Monsters with @VestiaZeta  【REANIMAL】",
+                "thumbnail": "https://i.ytimg.com/vi/f-eBy7EYYo0/hqdefault.jpg?v=698cd692&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAsHC3r9sT8wShqZtBukpFvWeNVyQ",
+                "description": "Hashtags!\n📺 Live Tag: #ShiorinOnAir  \n🎨 Fanart: #ShiorinSketch \n✏️ VTuber Assets: #ShioAssets\n📚 Fanfics: #ShiorinStories\n🎹 Music: #ShiorinTunes\n🎪Memes: #dankvella \n\n=============..."
+            }
+        ]
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
@@ -405,7 +405,14 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Kh9BIFGkgDc",
+                "title": "【REANIMAL】Eating monsters with Shiorin!",
+                "thumbnail": "https://i.ytimg.com/vi/Kh9BIFGkgDc/hqdefault.jpg?v=698f496c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3d5q8SZ2pL7wjToSP8sW4n7-C8w",
+                "description": "#vestiazeta #hololive #vtuber #gaming #reanimal #holoid #hololiveindonesia \n\nREANIMAL is out now on PC and consoles!\nGame Title: REANIMAL\nStore Page: https://store.steampowered.com/app/2129530/REAN..."
+            }
+        ]
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
