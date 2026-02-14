@@ -245,14 +245,7 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": [
-            {
-                "video_id": "ZFr13Nsm4FQ",
-                "title": "ウマ娘を育成するスバルを見守る会【尾丸ポルカ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/ZFr13Nsm4FQ/hqdefault.jpg?v=69901654&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9kOgRKUEzl5r4xQ8-lJLEwEaj4g",
-                "description": "本配信\nhttps://www.youtube.com/watch?v=e0un0bFnXvQ\n※こちらへの鳩はあり、あちらには飛ばさないでください\n\n本ゲームは株式会社Cygamesの配信ガイドライン..."
-            }
-        ]
+        "videos": []
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
@@ -271,14 +264,7 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": [
-            {
-                "video_id": "e0un0bFnXvQ",
-                "title": "【#生スバル】ウマ娘 プリティーダービーやるしゅばああああああああああああああああああああああああああああああ！！！！！！！！：Umamusume: Pretty Derby【ホロライブ/大空スバル】",
-                "thumbnail": "https://i.ytimg.com/vi/e0un0bFnXvQ/hqdefault.jpg?v=698f5138&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQjM3Tij7GgRCz1jyYNj4Y6uFH7A",
-                "description": "本ゲームは株式会社Cygamesの配信ガイドラインに則って配信・収益化を行なっております。\nhttps://umamusume.jp/news/detail.php?id=107\n\n🐣おやくそく/Rule🐣..."
-            }
-        ]
+        "videos": []
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -338,7 +324,14 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "B7KfIjoolBo",
+                "title": "【Bits & Bops】海外で噂の軽快なリズムゲーム！…この感じ知ってる！？！？？【ホロライブ/白上フブキ】",
+                "thumbnail": "https://i.ytimg.com/vi/B7KfIjoolBo/hqdefault.jpg?v=69901aa6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAd-OY-1blbAW-BioZXN-ka__hObw",
+                "description": "✦小説『FBKINGDOM STORY』\nフブキングダム、それは、夢が叶う魔法の王国。\n▷https://www.youtube.com/@ShirakamiFubuki/posts\n\n✨️NEW✨️オリジナル楽曲『冥界Hal..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -350,13 +343,27 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "wUWM81nUh9o",
+                "title": "【歌枠】Happy Valentine💖久々の歌枠するよ～✨【白銀ノエル/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/wUWM81nUh9o/hqdefault.jpg?v=698fb658&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGILYKyNez7dWL5z1g2sWFBqunVw",
+                "description": "このあとメン限でASMRもあるよ💖\n\n💚新曲「VAVAVA！バーチャル大分」MV公開中🌏\nhttps://youtu.be/k6V5yGjakC8\n\n✥--------------------------------------------------------..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "sSIvwmMzXQw",
+                "title": "【ホロガード】ディーフェンス！ディーフェンス！－ホロメンの偽物を見破ろう【獅白ぼたん/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/sSIvwmMzXQw/hqdefault.jpg?v=698fc8b2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxkFpyhgNfWoQU635upZfHtab7SQ",
+                "description": "ホロライブタレントの入館審査ゲーム。ホロメンが偽物か本物か見破ろう！\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n🔸新着情報/New!\n┈┈┈┈┈┈..."
+            }
+        ]
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
@@ -452,7 +459,14 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "yfs5yKF3H5Q",
+                "title": "【バレンタイン】貰い手募集❣手作りお菓子即売会🍪【風真いろは/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/yfs5yKF3H5Q/hqdefault.jpg?v=698e9e81&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDv99fnGHubEz5Hts_a97NoEzp6lw",
+                "description": "ホロメン・風真いろはとかかわりのある活動者さん\nまじでだれでもOK\nおかしの引き取り手募集してます。\n\n*⇔*――*⇔*――*⇔*――*⇔*――*⇔*―..."
+            }
+        ]
     },
     "@mikenekoko": {
         "channel_url": "https://www.youtube.com/@mikenekoko",
@@ -470,14 +484,7 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": [
-            {
-                "video_id": "PdsDnkkXDBE",
-                "title": "#6【FF9】完全初見でファイナルファンタジーⅨを始める！ FINAL FANTASY Ⅸ ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意",
-                "thumbnail": "https://i.ytimg.com/vi/PdsDnkkXDBE/hqdefault.jpg?v=698f565e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-tPbbjx97BwO-BGwdHIHvIconjQ",
-                "description": "今週も楽しみ過ぎる\n\nサムネイラスト：憂姫はぐれマッマ\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekor..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
