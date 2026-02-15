@@ -149,15 +149,7 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": [
-            {
-                "video_id": "6tH0Vww-x2U",
-                "title": "【帰国雑談】15歳に間違えられたので今なら何でも許せる【儒烏風亭らでん #ReGLOSS 】",
-                "date": "2026/02/15 21:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/6tH0Vww-x2U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC716XyJlttY-FZZfBOdJlZQOv1Nw",
-                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\nモルディブ行ってました\n\n音声ガイド情報..."
-            }
-        ]
+        "videos": []
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -425,7 +417,15 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "AYmU8FKEPYU",
+                "title": "【Vampire Survivors】ちょこっとだけ・・・少しだけだから・・・！【ホロライブ/ときのそら】",
+                "date": "2026/02/15 21:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/AYmU8FKEPYU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDquhWdj7CrWXbFQlvnk1qvXiarLg",
+                "description": "遊ばせて・・・！！\n\n本ゲームはponcleに確認の上配信・収益化を行なっております\n★★★★★★★★★★★★★★★★★★★★★★\n\n2026年1月10日(..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
