@@ -21,7 +21,15 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "_tBlI-l8WLk",
+                "title": "【 3DLIVE 】#アキロゼ生誕祭2026 ーLife is GAMEー【ホロライブ/アキ・ローゼンタール】",
+                "date": "2026/02/17 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/_tBlI-l8WLk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvf1rbFqvuWD01wJ46gtkQx0i66w",
+                "description": "今年も誕生日を一緒に迎えてくれてありがとう！！\n#アキロゼ生誕祭2026 でいっぱい呟いて盛り上げてね！\n🎂メンバー限定After Live🎂\n\n🎂21:30..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -186,13 +194,6 @@
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
         "videos": [
-            {
-                "video_id": "OwIqXMRcAV0",
-                "title": "【ZOMILY - FREETALK】 HOW WAS YOUR VALENTINES~? 【Kureiji Ollie】",
-                "date": "2026/02/15 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/OwIqXMRcAV0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADuQHe6wx-S7PN_w28Kk85CI8C5A",
-                "description": "❥・・───༅༚˳ . ୨୧ . ˳༚༅༚─── ・・❥\n\n #OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n────୨｡ ₊°༺❤︎༻°₊ ｡ৎ────\n\n This is..."
-            },
             {
                 "video_id": "XHzlvzwjb7Q",
                 "title": "【VRChat】 SHIORI'S HOLDING A WINTER PARTY?? COUNT ME IN❄️ 【Kureiji Ollie】",
@@ -436,15 +437,7 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": [
-            {
-                "video_id": "rUYcdnJI06c",
-                "title": "【 Pokémon LEGENDS Z-A 】異次元ミアレをなんとかしなくては...！！ #6【角巻わため/ホロライブ４期生】",
-                "date": "2026/02/15 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/rUYcdnJI06c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCLHTbqArDFEtK_ut7cgVPkxpZtxA",
-                "description": "物語的に結構佳境なのか...？！\nタグ：#ドドドライブ \n\n配信タイトル：Pokémon LEGENDS Z-A\nストアページ：https://store-jp.nintendo.com/item/software/D70010000094233..."
-            }
-        ]
+        "videos": []
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
