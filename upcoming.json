@@ -113,15 +113,7 @@
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": [
-            {
-                "video_id": "MgtPcl3Rw58",
-                "title": "【クリア後】スーパーマリオギャラクシー、スター☆全部集めたい！！パート２",
-                "date": "2026/02/15 12:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/MgtPcl3Rw58/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1g3ZvPPpA1hqrGMcyKO6wMfUn6w",
-                "description": "Play Game : Super Mario Galaxy ( switch )\nタグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nころねTwitter▶https://twitter.com/in..."
-            }
-        ]
+        "videos": []
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
@@ -218,7 +210,15 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "bVQvdU_npWE",
+                "title": "【 雑談 】美容院に行ったので髪型が２つも増えました！お披露目✨【 桃鈴ねね / hololive 】",
+                "date": "2026/02/15 15:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/bVQvdU_npWE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTvZLI8jkq04er-SgOLpkmaiHHVQ",
+                "description": "もーっとかわいくなっちゃってるわ～～～～～～～～～～あと銀魂の話させて！！！！！！\n⸜♡⸝MemberShipに入ったらもっとねねを知れるﾖ..."
+            }
+        ]
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
@@ -249,7 +249,7 @@
             {
                 "video_id": "OfV_L2IwTWk",
                 "title": "【#AnotherMoonDay】MoonUtau Radio!【Moona Hoshinova】",
-                "date": "2026/02/15 13:00:00",
+                "date": "2026/02/15 14:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/OfV_L2IwTWk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJtSkQaX7GD3LFl2HGGDJi6qvugw",
                 "description": "Streamlabs donation link here : https://streamlabs.com/moonahoshinovahololive-id/tip\nSociaBuzz donation link here : https://sociabuzz.com/moonahoshinova/tribe\n======================================..."
             }
@@ -341,15 +341,7 @@
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC",
-        "videos": [
-            {
-                "video_id": "95F42ig-SCE",
-                "title": "【 龍が如く0 】完全初見！ヤクザ奏だおらぁ！！ #05 【音乃瀬奏】#hololiveDEV_IS #ReGLOSS　※ネタバレあり",
-                "date": "2026/02/15 12:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/95F42ig-SCE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxBWkZ_Dn2idcDb2_eDRNMQ61-pw",
-                "description": "▽音乃瀬奏 77万人記念グッズ▽\n1月13日　21:30より販売開始！\nhttps://shop.hololivepro.com/products/otonosekanade_subscribers_770k\n\n▽✨重大告知✨ ▽\n音乃瀬奏..."
-            }
-        ]
+        "videos": []
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
@@ -465,21 +457,21 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": [
-            {
-                "video_id": "9n84oWv02ZA",
-                "title": "【 共同通信杯＆京都記念 】久々の日本競馬だあああああああああああ✨【鷹嶺ルイ/ホロライブ】",
-                "date": "2026/02/15 12:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/9n84oWv02ZA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1z57pAY2Xfq9yeojeEsyMuaTCfw",
-                "description": "京都記念：15:30発走 京都競馬場 芝2200m\n共同通信杯：15:45発走 東京競馬場 芝1800m\n\n【2026年競馬配信（海外・地方競馬と合同）】\nブラック企業時代に..."
-            }
-        ]
+        "videos": []
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "pYaG_ONYDQw",
+                "title": "【Bits & Bops】リズムゲームでぶんぶんぶーんっ！【轟はじめ/ReGLOSS】",
+                "date": "2026/02/15 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/pYaG_ONYDQw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnK9nvfZiwWL0NeYPMw5LOulk-FQ",
+                "description": "⚡轟はじめグッズ はじめの日記念2026⚡\n■販売ページURL\nhttps://shop.hololivepro.com/products...\n■グッズ販売期間（受注販売）\n2026年1月11日(日) 20時00分..."
+            }
+        ]
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
@@ -566,13 +558,6 @@
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
         "videos": [
-            {
-                "video_id": "bwCJkpMpjsU",
-                "title": "【ELDENRING】完全初見⚔エルデの王におれはなるッ🔥08【風真いろは/ホロライブ】",
-                "date": "2026/02/15 12:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/bwCJkpMpjsU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNCdC0p7rRtz74QvhOel1S6rHF3A",
-                "description": "コメント欄はスーパーチャットOFF設定の関係で配信当日までOFFにしてあります。\n\n\nサムネイラスト：https://x.com/hanamori59ya/status/1587723998112395265?s=20..."
-            },
             {
                 "video_id": "nEy-Y4eq70A",
                 "title": "風真いろはの #ねるまえらじお 📻❣ #10",
