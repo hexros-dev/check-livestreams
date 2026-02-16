@@ -65,15 +65,7 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": [
-            {
-                "video_id": "pTVormaWYcA",
-                "title": "≪SELF 3D KARAOKE≫ Her name is Hakos Baelz",
-                "date": "2026/02/16 10:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/pTVormaWYcA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBkDdQtwgUMwN1v8cgOgE3iUkkczg",
-                "description": "Even alone she shall sing. \n#telebae #febaerary  #hololiveenglish \n««≪ °◇◆◇° ≫ »»\n\n≪ NEW ORIGINAL「狂宴-FEAST-」 ≫\nhttps://www.youtube.com/watch?v=j4-E6tEpyiU\nhttps://cover...."
-            }
-        ]
+        "videos": []
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -318,6 +310,12 @@
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
         "videos": []
     },
+    "@RindoChihaya": {
+        "channel_url": "https://www.youtube.com/@RindoChihaya",
+        "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+        "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
+        "videos": []
+    },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
@@ -346,7 +344,15 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ClhG7Ogpuas",
+                "title": "Speed Studying Despite Knowing We're COOKED 【GeoGuessr】",
+                "date": "2026/02/17 04:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ClhG7Ogpuas/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApgsdYE8a7yGuYk3E3_HslqKQwlg",
+                "description": "My first original song 「Monsters and Men」OUT NOW!\n🎧Listen to it here: https://cover.lnk.to/Y6ZMPF\n📹Music Video here: https://www.youtube.com/watch?v=NX1ZCKJ67dc\n==========================..."
+            }
+        ]
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
