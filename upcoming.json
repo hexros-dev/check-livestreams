@@ -162,15 +162,7 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w",
-        "videos": [
-            {
-                "video_id": "_MgTqgLcny4",
-                "title": "【Log Riders】gotta keep rollin bro",
-                "date": "2026/02/16 14:15:00",
-                "thumbnail": "https://i.ytimg.com/vi/_MgTqgLcny4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDoessIRoE4pYpATE4s6XHR3IBm5A",
-                "description": "playing with @ONShannon_ \n∘₊✧──────✧₊∘∘₊✧──────✧₊∘∘₊✧──────✧₊∘∘₊✧──────✧₊∘\n【Donasi lokal】Traktir..."
-            }
-        ]
+        "videos": []
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
@@ -241,7 +233,15 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "byECqTTZBbQ",
+                "title": "【 ホロガード 】え！待ってホロにわかだったらどうしようｗ汗汗【 桃鈴ねね / hololive 】",
+                "date": "2026/02/16 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/byECqTTZBbQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlqzLZV1Gr7ZBytc8Yr2zr9Vxw9A",
+                "description": "いやもう6年いるんすよ？？？？？？？？？？？？？？？\n⸜♡⸝MemberShipに入ったらもっとねねを知れるﾖ\nhttps://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqIL..."
+            }
+        ]
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
@@ -334,6 +334,13 @@
         "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ",
         "videos": [
+            {
+                "video_id": "DjnKLcPf564",
+                "title": "PAJAMA OUTFIT DEBUT | #NighttimePrincess",
+                "date": "2026/02/21 09:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/DjnKLcPf564/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB195DO4bWTS_RdTOfV-r_BZPLIAQ",
+                "description": "∴∴🎶*┈┈┈┈┈┈┈┈┈┈┈┈┈*🎶∴∴\n\n🐦‍⬛twitter: https://x.com/nerissa_en\n🐦‍⬛spotify: https://open.spotify.com/artist/4uzAnzFMXarRPOBAG2lIIa\n🐦‍⬛insta:..."
+            },
             {
                 "video_id": "eEXFoqy2WwI",
                 "title": "I wanna join your game campaigns 🎲| Dice Designing #sponsored",
