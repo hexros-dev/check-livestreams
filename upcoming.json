@@ -153,7 +153,15 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "qFyShCjtZcM",
+                "title": "【 バイオハザードRE2 ※Z Version 】初見！クレア編いくぞおおお！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "date": "2026/02/16 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/qFyShCjtZcM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgGky6qHqU9KBXaoWU8cOd8-Bt6Q",
+                "description": "※グロテスクな表現が含まれますのでご注意ください。未成年の方は本配信をご覧いただけません。\n\nこの動画およびライブは株式会社カプコンの..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -222,7 +230,43 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "38ce5A5f9Fo",
+                "title": "【3D Karaoke】Singing For a Cause!!!!!! #calliolive #GOLIVEforLOVE",
+                "date": "2026/02/18 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/38ce5A5f9Fo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYKt5F66r6cDwRTmFVcS1qSjVXXA",
+                "description": "Donate here: https://tilt.fyi/FdKDlimQdf\n\nCampaign Link: https://tilt.fyi/F6C8dm8dKA\n\nAll proceeds go to Best Friends Animal Society!\nTo learn more about their mission, check out the link below...."
+            },
+            {
+                "video_id": "LEfOzL_DU6w",
+                "title": "【Animal Shelter 2】aminals #calliolive #GOLIVEforLOVE",
+                "date": "2026/02/18 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/LEfOzL_DU6w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBoopztuGoMyISydABjSrCfizf1nQ",
+                "description": "Donate here: https://tilt.fyi/FdKDlimQdf\n\nCampaign Link: https://tilt.fyi/F6C8dm8dKA\n\nAll proceeds go to Best Friends Animal Society!\nTo learn more about their mission, check out the link below...."
+            },
+            {
+                "video_id": "iFgiMrUilPQ",
+                "title": "【UNARCHIVED KARAOKE RE-RUNS】mori radio running into the night! #calliolive #GOLIVEforLOVE",
+                "date": "2026/02/17 22:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/iFgiMrUilPQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdON5KCeJaDDKsXFWv1gaGAnxVrw",
+                "description": "Donate here: https://tilt.fyi/FdKDlimQdf\n\nCampaign Link: https://tilt.fyi/F6C8dm8dKA\n\nAll proceeds go to Best Friends Animal Society!\nTo learn more about their mission, check out the link below...."
+            },
+            {
+                "video_id": "nmvl0uZpR_4",
+                "title": "【3D Karaoke UNARCHIVED】STILL Singing For a Cause, and LEAVING NO RECORD. #calliolive #GOLIVEforLOVE",
+                "date": "2026/02/18 11:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/nmvl0uZpR_4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5z83SXUQFJIoZDHWS7_MDGoDNkA",
+                "description": "Donate here: https://tilt.fyi/FdKDlimQdf\n\nCampaign Link: https://tilt.fyi/F6C8dm8dKA\n\nAll proceeds go to Best Friends Animal Society!\nTo learn more about their mission, check out the link below...."
+            },
+            {
+                "video_id": "phsKZTwPSRk",
+                "title": "【GO LIVE for LOVE!】HoloEN Charity Drive Opening Ceremony!!! #calliolive #GOLIVEforLOVE",
+                "date": "2026/02/17 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/phsKZTwPSRk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUYbH_9IV3hwTn-GlIxN9z5lUvLA",
+                "description": "Donate here: https://tilt.fyi/FdKDlimQdf\n\nCampaign Link: https://tilt.fyi/F6C8dm8dKA\n\nAll proceeds go to Best Friends Animal Society!\nTo learn more about their mission, check out the link below...."
+            }
+        ]
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -512,7 +556,7 @@
                 "title": "【777Real】念願の『SLOT 魔法少女まどか☆マギカ』 初挑戦！ぺこ！【ホロライブ／兎田ぺこら】",
                 "date": "2026/02/16 18:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/zkkKey1qRfg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqOjCjv-m7hnzDkEcqoPASebtpiQ",
-                "description": "サムネイラスト：憂姫はぐれマッマ\n\n©Magica Quartet／Aniplex・Madoka Partners・MBS　©UNIVERSAL ENTERTAINMENT\n\n⋈ －－－－－－－－－－－－－－－－－－－－－..."
+                "description": "スマホで無料で遊べる！新時代のパチンコ・パチスロアプリ『777Real』\nhttps://www.777real.net/\n©Magica Quartet/Aniplex,Madoka Project ©UNIVERSAL ENTERTAINMENT\n\nサムネ..."
             }
         ]
     },
