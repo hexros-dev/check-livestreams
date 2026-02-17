@@ -45,7 +45,14 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "q3BAykS5Pdk",
+                "title": "【HITMAN】saving the world for our fluffy best friends 🐾 #GOLIVEforLOVE 【FUWAWA SOLO】",
+                "thumbnail": "https://i.ytimg.com/vi/q3BAykS5Pdk/hqdefault.jpg?v=6993ae0a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRWwEkDs_84f2Gxx0LKXLf_MdXTA",
+                "description": "get ready for some fluffiness in support of our animal best friends ✨️\nlovely illustration by @Maru_ccy 💕\n—————————\n🐶 Donate here: https://tilt.fyi/FdKDlimQdf\nCampaign..."
+            }
+        ]
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -405,14 +412,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "C95nRnWsBo0",
-                "title": "【GO LIVE for LOVE!】ASMR OF EVERYTHING IN MY BAG!!! FOR THE ANIMALS!!",
-                "thumbnail": "https://i.ytimg.com/vi/C95nRnWsBo0/hqdefault.jpg?v=69932c88&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbcXWe8gnXAyaBsDBHvOjJ5JI-0Q",
-                "description": "—————————\n—————————\nwho let gigi loud murin have the asmr mic\n\nDonate here: https://tilt.fyi/FdKDlimQdf\n\nCampaign Link: https://tilt.fyi/F6C8dm8dKA\n\nAll..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
