@@ -45,14 +45,7 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": [
-            {
-                "video_id": "q3BAykS5Pdk",
-                "title": "【HITMAN】saving the world for our fluffy best friends 🐾 #GOLIVEforLOVE 【FUWAWA SOLO】",
-                "thumbnail": "https://i.ytimg.com/vi/q3BAykS5Pdk/hqdefault.jpg?v=6993ae0a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRWwEkDs_84f2Gxx0LKXLf_MdXTA",
-                "description": "get ready for some fluffiness in support of our animal best friends ✨️\nlovely illustration by @Maru_ccy 💕\n—————————\n🐶 Donate here: https://tilt.fyi/FdKDlimQdf\nCampaign..."
-            }
-        ]
+        "videos": []
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -154,7 +147,14 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "17PFTNoO_RE",
+                "title": "【GO LIVE for LOVE!】BLINDFOLDED GAMING: MARIO 64 【IN 3D WITH @holoen_ceciliaimmergreen 】",
+                "thumbnail": "https://i.ytimg.com/vi/17PFTNoO_RE/hqdefault.jpg?v=6993bc2c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGXgSJgp2Aik_1CGqdHrGEs2cxfw",
+                "description": "Donate here: https://tilt.fyi/FdKDlimQdf\n\nCampaign Link: https://tilt.fyi/F6C8dm8dKA\n\nAll proceeds go to Best Friends Animal Society!\nTo learn more about their mission, check out the link below...."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
