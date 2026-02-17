@@ -102,13 +102,6 @@
                 "date": "2026/02/18 16:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/V0Fu6TkyUTE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9fxKHS2Js5COjn6zcfJZjpZRmxA",
                 "description": "Donate here: https://tilt.fyi/FdKDlimQdf\n\nCampaign Link: https://tilt.fyi/F6C8dm8dKA\n\nAll proceeds go to Best Friends Animal Society!\nTo learn more about their mission, check out the link below...."
-            },
-            {
-                "video_id": "oPOBYMu2zk8",
-                "title": "≪UNARCHIVED KARAOKE≫ oh sh*t ... a rat #GOLIVEforLOVE",
-                "date": "2026/02/17 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/oPOBYMu2zk8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4XK7Y3c4ryYZDz94ZdRgTEWQpsw",
-                "description": "Donate here: https://tilt.fyi/FdKDlimQdf\n\nCampaign Link: https://tilt.fyi/F6C8dm8dKA\n\nAll proceeds go to Best Friends Animal Society!\nTo learn more about their mission, check out the link below...."
             }
         ]
     },
@@ -377,7 +370,15 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "LATpQAnbEh0",
+                "title": "【GO LIVE for LOVE!】FOR LOVE!!!! WE DRAW!!!!! #GOLIVEforLOVE",
+                "date": "2026/02/18 12:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/LATpQAnbEh0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBA-u_7HLejVly6P_lvNT6DKTXB4Q",
+                "description": "Donate here: https://tilt.fyi/FdKDlimQdf\n\nCampaign Link: https://tilt.fyi/F6C8dm8dKA\n\nAll proceeds go to Best Friends Animal Society!\nTo learn more about their mission, check out the link below...."
+            }
+        ]
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -575,15 +576,7 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": [
-            {
-                "video_id": "mVdMg5fREXY",
-                "title": "【#nosh】ラミィのお気に入りを決めるよ！ナッシュ勝手にランキング！！【雪花ラミィ /ホロライブ】",
-                "date": "2026/02/17 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/mVdMg5fREXY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDrvu_TdJV20bM_JH5oSje9wPRaYQ",
-                "description": "⛄️nosh×Lamy Ch. 雪花ラミィの特別コラボクーポンはこちら⛄️\nhttps://nosh.jp/landing/hololive/YukihanaLamy?utm_source=Youtuber&utm_medium=PR&utm_campaign=YukihanaLamy2&utm_c..."
-            }
-        ]
+        "videos": []
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
