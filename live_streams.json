@@ -64,14 +64,7 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": [
-            {
-                "video_id": "UUzySt5uMTw",
-                "title": "≪I dont Fall≫ If I fall, I donate. #GOLIVEforLOVE",
-                "thumbnail": "https://i.ytimg.com/vi/UUzySt5uMTw/hqdefault.jpg?v=6992bd21&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNNNIOKO_BW6sWPVGcJ1Ood6ZwIg",
-                "description": "Donate here: https://tilt.fyi/FdKDlimQdf\n\nCampaign Link: https://tilt.fyi/F6C8dm8dKA\n\nAll proceeds go to Best Friends Animal Society!\nTo learn more about their mission, check out the link below...."
-            }
-        ]
+        "videos": []
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -225,7 +218,14 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "iFgiMrUilPQ",
+                "title": "【UNARCHIVED KARAOKE RE-RUNS】mori radio running into the night! #calliolive #GOLIVEforLOVE",
+                "thumbnail": "https://i.ytimg.com/vi/iFgiMrUilPQ/hqdefault.jpg?v=6992a5f1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdON5KCeJaDDKsXFWv1gaGAnxVrw",
+                "description": "Donate here: https://tilt.fyi/FdKDlimQdf\n\nCampaign Link: https://tilt.fyi/F6C8dm8dKA\n\nAll proceeds go to Best Friends Animal Society!\nTo learn more about their mission, check out the link below...."
+            }
+        ]
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -280,14 +280,7 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": [
-            {
-                "video_id": "3WWG7371jVM",
-                "title": "【ホロガード】祝ねぽらぼ実装！ニセモノを見つけろてホロメンを守護れ！【尾丸ポルカ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/3WWG7371jVM/hqdefault.jpg?v=6994470d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVYkEbxHqhnI5MwSrRNnQ-FbLVow",
-                "description": "あなたはホロライブ事務所の新人守衛です。\nそれはタレントのプライバシーを守るとても大切な仕事。\nニセモノ、偽造書類、嘘八百の取り調べ─..."
-            }
-        ]
+        "videos": []
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
@@ -433,14 +426,7 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
-        "videos": [
-            {
-                "video_id": "RC2UAiRSynA",
-                "title": "【Fortnite】LOOK AT MY NEW DRIP!!!! NYEHEHE",
-                "thumbnail": "https://i.ytimg.com/vi/RC2UAiRSynA/hqdefault.jpg?v=699423bd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDwhpPgPECWKdlf8rHo0zvCUBsmA",
-                "description": "#vestiazeta #hololive #vtuber #gaming #fortnite #holoid #hololiveindonesia \n\nThis video has received permission from Epic Games Inc. to be streamed. \n© 2020, Epic Games, Inc. Epic, Epic Games,..."
-            }
-        ]
+        "videos": []
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
