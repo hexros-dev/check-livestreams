@@ -297,7 +297,14 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "h3-50N7Q-rE",
+                "title": "Animal Sandwich Making Handcam 【CHARITY EVENT】",
+                "thumbnail": "https://i.ytimg.com/vi/h3-50N7Q-rE/hqdefault.jpg?v=6993bf2f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZzYEP3jVRHlsqinTF7MpVIL6znA",
+                "description": "Donate here: https://tilt.fyi/FdKDlimQdf\n\nCampaign Link: https://tilt.fyi/F6C8dm8dKA\n\nAll proceeds go to Best Friends Animal Society!\nTo learn more about their mission, check out the link below...."
+            }
+        ]
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
@@ -400,14 +407,7 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": [
-            {
-                "video_id": "q8Wnq1PLPng",
-                "title": "JUMP KING but you get to sabotage me for charity【GO LIVE FOR LOVE】",
-                "thumbnail": "https://i.ytimg.com/vi/q8Wnq1PLPng/hqdefault.jpg?v=6994a1c3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTy_RE5vXlQSN2EBc9maxHV0BOZw",
-                "description": "Donate here: https://tilt.fyi/FdKDlimQdf\n\nCampaign Link: https://tilt.fyi/F6C8dm8dKA\n\nAll proceeds go to Best Friends Animal Society!\nTo learn more about their mission, check out the link below...."
-            }
-        ]
+        "videos": []
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
