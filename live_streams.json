@@ -219,7 +219,14 @@
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
         "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "cg3ANNo-bVA",
+                "title": "uwu | GO LIVE for LOVE! #GOLIVEforLOVE",
+                "thumbnail": "https://i.ytimg.com/vi/cg3ANNo-bVA/hqdefault.jpg?v=699485f6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDm2YnBjJCqjfwcrrkj9Y4UEmN1aw",
+                "description": "Donate here: https://tilt.fyi/FdKDlimQdf\n\nCampaign Link: https://tilt.fyi/F6C8dm8dKA\n\nAll proceeds go to Best Friends Animal Society!\nTo learn more about their mission, check out the link below...."
+            }
+        ]
     },
     "@NinomaeInanis": {
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
@@ -412,14 +419,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "D7VPDjhIpp8",
-                "title": "【GO LIVE for LOVE!】EVERY 50$ A GREM GETS ADDED TO THE STACK!",
-                "thumbnail": "https://i.ytimg.com/vi/D7VPDjhIpp8/hqdefault.jpg?v=699488a7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCasDXnSUHb6OrzKLaZizlc2LlLmQ",
-                "description": "—————————\n—————————\nlet's see how long this grem stack gets\n\n+1 GREM FOR EVERY $50 CUMULATIVE (not individual donation)\n100$ INDIVIDUAL DONATIONS I WILL..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
