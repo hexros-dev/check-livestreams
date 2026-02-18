@@ -511,7 +511,15 @@
         "channel_url": "https://www.youtube.com/@dooby3d",
         "channel_name": "dooby",
         "avatar_url": "https://yt3.googleusercontent.com/sOGyZgV9pPHQJCEvNe28NCOFC1y0KggsxUjrP5ecMAgBmdNT8p6ZNM24d_9SVgWFhBh0lKBL5Q",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "UH3pioyD71s",
+                "title": "this game is still in alpha?",
+                "date": "2026/02/19 09:05:00",
+                "thumbnail": "https://i.ytimg.com/vi/UH3pioyD71s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCubq4Frbwf0soCE3umm5ZWf8_lXw",
+                "description": "trying out all the new stuff! \n(me sick in the head): wish I was playing hots...\nsearching for artist credit gomene"
+            }
+        ]
     },
     "@holoen_ceciliaimmergreen": {
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
