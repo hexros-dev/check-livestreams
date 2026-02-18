@@ -105,14 +105,7 @@
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": [
-            {
-                "video_id": "E-DTBgZA-X8",
-                "title": "チル釣り♩",
-                "thumbnail": "https://i.ytimg.com/vi/E-DTBgZA-X8/hqdefault.jpg?v=6995acb9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClc7p61VSiMcOicL1coLA20C_Wsg",
-                "description": "Play Game : Cast n Chill ( steam )\nタグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nころねTwitter▶https://twitter.com/inugamiko..."
-            }
-        ]
+        "videos": []
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
@@ -161,7 +154,14 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "NjQ3jRN5VtQ",
+                "title": "【GO LIVE for LOVE!】I play Super Mario Bros by reading chat only #GOLIVEforLOVE",
+                "thumbnail": "https://i.ytimg.com/vi/NjQ3jRN5VtQ/hqdefault.jpg?v=69958fa6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsMrqkbKp-8r-94nkogZDiZpoKLQ",
+                "description": "Donate here: https://tilt.fyi/FdKDlimQdf\n\nCampaign Link: https://tilt.fyi/F6C8dm8dKA\n\nAll proceeds go to Best Friends Animal Society!\nTo learn more about their mission, check out the link below...."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -421,14 +421,7 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": [
-            {
-                "video_id": "xs32yiaj8AI",
-                "title": "FORCING EVIL GREMLIN TO PLAY EVIL GAME【GO LIVE FOR LOVE】CCGG off-collab!",
-                "thumbnail": "https://i.ytimg.com/vi/xs32yiaj8AI/hqdefault.jpg?v=6995c256&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlvFalxLkK_48SLOBmKxAx9U32lg",
-                "description": "Donate here: https://tilt.fyi/FdKDlimQdf\n\nCampaign Link: https://tilt.fyi/F6C8dm8dKA\n\nAll proceeds go to Best Friends Animal Society!\nTo learn more about their mission, check out the link below...."
-            }
-        ]
+        "videos": []
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
