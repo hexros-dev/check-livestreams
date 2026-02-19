@@ -261,7 +261,14 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "cI1rCp0oWSU",
+                "title": "#7【Clair Obscur: Expedition 33】(still ACT2) OKAY FINALLY MAIN STORY  【Pavolia Reine/hololiveID】",
+                "thumbnail": "https://i.ytimg.com/vi/cI1rCp0oWSU/hqdefault.jpg?v=69968248&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNDV2eplx_wNUbXm-lVrBjjP4wlQ",
+                "description": "REINE'S 5th ANNIVERSARY MERCH: \n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/pavoliareine_anniversary_5th \nEN: https://shop.hololivepro.com/en/products/pavoliarein..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -394,14 +401,7 @@
         "channel_url": "https://www.youtube.com/@dooby3d",
         "channel_name": "dooby",
         "avatar_url": "https://yt3.googleusercontent.com/sOGyZgV9pPHQJCEvNe28NCOFC1y0KggsxUjrP5ecMAgBmdNT8p6ZNM24d_9SVgWFhBh0lKBL5Q",
-        "videos": [
-            {
-                "video_id": "UH3pioyD71s",
-                "title": "this game is still in alpha?",
-                "thumbnail": "https://i.ytimg.com/vi/UH3pioyD71s/hqdefault.jpg?v=6996369e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCubq4Frbwf0soCE3umm5ZWf8_lXw",
-                "description": "trying out all the new stuff! \n(me sick in the head): wish I was playing hots...\nthank you to  ~ Xoanco/@xoan91218 for the thumbnail art :D"
-            }
-        ]
+        "videos": []
     },
     "@holoen_ceciliaimmergreen": {
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
