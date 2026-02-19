@@ -436,7 +436,15 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "CR_BNhYyiNc",
+                "title": "【3D COLLAB】special meeting with IRISÉ !! #kfp #キアライブ",
+                "date": "2026/02/20 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/CR_BNhYyiNc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnB8F-3xoA5Q2st8ag1nF9nJZDRw",
+                "description": "@irise_theofficial !!! they are so entertaining, lets meet them together!!\n\n🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara\n\n 🏵️[Hashtags] 🏵️\n#kfp #キアライブ#hololiveeng..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
@@ -583,13 +591,6 @@
                 "date": "2026/02/21 06:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/k7pbquT0cMs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAp1isdrlDyauWNXU81TVYQ0HEudA",
                 "description": "My 3D Live Concert is finally here aaaa!! Please come watch me and my guests sing and dance and celebrate! Plus new outfit reveal!\n\n☁  Thumbnail Art  ☁\nhttps://x.com/HAPPYONGDAL\nThank you..."
-            },
-            {
-                "video_id": "p_aKZ7mQ2W8",
-                "title": "【Mewgenics】 New roguelike from the creator of The Binding of Isaac!",
-                "date": "2026/02/20 06:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/p_aKZ7mQ2W8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5hFWDGiogQ_-H-AzGJsHlCy7yxw",
-                "description": "It's a bad day to be a cat lover\n\nMerch: https://ohmonah.shop/collections/nimi-nightmare\n\n  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋\n\nKonbakuwa! I'm Nimi, the baku nurse VTuber of your nightmares~..."
             }
         ]
     },
