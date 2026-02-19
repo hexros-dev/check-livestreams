@@ -141,7 +141,14 @@
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
         "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/ACubs_Mw4YtmgHDIIZvW_gZaPf_VR1wg9yffFLsq4Lrw-W7Md-0pK4Gob8OJebCYCmgrArsE",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "DZRMGSJPxRU",
+                "title": "【緊急／Minecraft】ほんとにもうやめてくださいクリーパーさん【虎金妃笑虎】",
+                "thumbnail": "https://i.ytimg.com/vi/DZRMGSJPxRU/hqdefault.jpg?v=6996bd53&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFExMbHrnWYc0IiiDM_5mRmGhoLw",
+                "description": "本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・収益化を行なっております\n￣￣￣￣￣￣￣￣￣￣￣..."
+            }
+        ]
     },
     "@KosekiBijou": {
         "channel_url": "https://www.youtube.com/@KosekiBijou",
@@ -370,14 +377,7 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
-        "videos": [
-            {
-                "video_id": "1U48vRYaYY4",
-                "title": "building/making something new!",
-                "thumbnail": "https://i.ytimg.com/vi/1U48vRYaYY4/hqdefault.jpg?v=69967c3c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqBtrr6-_g6hd3ACVGqcfpNycFNg",
-                "description": "-----\nVestia Zeta's  2nd Original Song  ▶  [ Break It Down ]\n\nAll platform▶️ https://cover.lnk.to/jF9WTL\nMV ▶️  https://youtu.be/q4CY4XY-06Q?si=sae5T91RB7WrM4hl\n\n-----\nhttps://sociabuzz.c..."
-            }
-        ]
+        "videos": []
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
