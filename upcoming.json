@@ -80,7 +80,15 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "akuooSVS_oY",
+                "title": "≪Devil May Cry 3≫ CHAOS WARM WELCOME?!.... First Playthrough! #3",
+                "date": "2026/02/21 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/akuooSVS_oY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmjs0uvcvgp5mSCcxI8ihvsf_OfQ",
+                "description": "Chaos you say....\n\nThumbnail Art: https://x.com/Mikururun/status/2018585322703958281/photo/1\n\n#telebae #febaerary #hololiveenglish \n\n««≪ °◇◆◇° ≫ »»\nThis video and livestream..."
+            }
+        ]
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -164,15 +172,7 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": [
-            {
-                "video_id": "ki7VuUm4KEw",
-                "title": "【同時視聴】ジョジョの奇妙な冒険ストーンオーシャン（6部）同時視聴の会ッ！！⑨【儒烏風亭らでん #ReGLOSS 】",
-                "date": "2026/02/20 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/ki7VuUm4KEw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-MY5FEQ7ZeDSM9tdMZoU0I5p25A",
-                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\n同時視聴するアニメ\nジョジョの奇妙な冒険..."
-            }
-        ]
+        "videos": []
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -228,15 +228,7 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": [
-            {
-                "video_id": "sLx2IsKMBvA",
-                "title": "【Bits & Bops】深夜にリズムゲームでChill【水宮枢／ホロライブDEV_IS】",
-                "date": "2026/02/20 21:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/sLx2IsKMBvA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsoJCUu61Xe1PSdmUdp8iLSGfKFA",
-                "description": "素敵なイラスト⬇️\nhttps://x.com/_imarirami/status/2023647852237648215?s=46&t=CbrrjZRpYKuQt6jP6ruZBg\n配信タイトル：ビッツ＆ボップス\nストアページ：https://store.steamp..."
-            }
-        ]
+        "videos": []
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -248,7 +240,15 @@
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
         "channel_name": "Moona Hoshinova hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Y8AcM4kAYhM",
+                "title": "【Membership】i'm actually doing a homework rn...【Moona Hoshinova】",
+                "date": "2026/02/20 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Y8AcM4kAYhM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjnoYvQdVlw6da77EABYqbIavdtA",
+                "description": "Streamlabs donation link here : https://streamlabs.com/moonahoshinovahololive-id/tip\nSociaBuzz donation link here : https://sociabuzz.com/moonahoshinova/tribe\n======================================..."
+            }
+        ]
     },
     "@MoriCalliope": {
         "channel_url": "https://www.youtube.com/@MoriCalliope",
@@ -339,13 +339,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
         "videos": [
             {
-                "video_id": "LToIjVT8pAE",
-                "title": "【#生スバル】劇場版 機動戦士ガンダムIII めぐりあい宇宙編しゅばああああああああ！！！！：MOBILE SUIT GUNDAM Ⅱ: Soldiers of Sorrow【ホロライブ/大空スバル】",
-                "date": "2026/02/20 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/LToIjVT8pAE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIbrJooQIR1PJ5QEOwgPv5asmGJg",
-                "description": "①本配信は、株式会社 創通、株式会社バンダイナムコフィルムワークスの許諾を得ております。\n②本配信は、PRを含みます\n③本配信での見解は、..."
-            },
-            {
                 "video_id": "d5b8cuI1GC8",
                 "title": "【#3】ウマ娘 プリティーダービーやるしゅばああああああああああああああああああああああああああああああ！！！！！！！！：Umamusume: Pretty Derby【ホロライブ/大空スバル】",
                 "date": "2026/02/21 11:00:00",
@@ -383,7 +376,15 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "k1mQzmZEpes",
+                "title": "【ハサウェイ同時視聴】ハサウェイみるぞ～～～～～～！！！！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "date": "2026/02/21 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/k1mQzmZEpes/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJ-hFwbS6dzdd9V4HEyAzxamzCgA",
+                "description": "アマプラでみるよん～～！\nこれを見て劇場にキルケ―の魔女を見に行こう！！！！\n\n\n・本配信は、株式会社 創通、株式会社バンダイナムコフィル..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -455,15 +456,7 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": [
-            {
-                "video_id": "riD52XruxaE",
-                "title": "【MyVoiceZoo】ばんちょーどうぶつ園【轟はじめ/ReGLOSS】",
-                "date": "2026/02/20 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/riD52XruxaE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBftmkkuhNoVNjM2Doshbmf-UKPNg",
-                "description": "⚡轟はじめグッズ はじめの日記念2026⚡\n■販売ページURL\nhttps://shop.hololivepro.com/products...\n■グッズ販売期間（受注販売）\n2026年1月11日(日) 20時00分..."
-            }
-        ]
+        "videos": []
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
@@ -539,15 +532,7 @@
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48",
-        "videos": [
-            {
-                "video_id": "bsq8YT5CbvI",
-                "title": "【GEOGUESSR】 Training For Battle HUZZAH ~! 💄👧🍵",
-                "date": "2026/02/20 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/bsq8YT5CbvI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAep1p5RGm-otL14IYctBWDaBDslg",
-                "description": "VALENTINES MERCH! \n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/elizabethrosebloodflame_valentinesdatemerch\nEN: https://shop.hololivepro.com/en/products/elizabethr..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_gigimurin": {
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
@@ -619,14 +604,6 @@
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": [
-            {
-                "video_id": "dhbsIrWVrB8",
-                "title": "【桃鉄２】桃鉄女子会【結城さくな/夜乃くろむ/魔界ノりりむ/神楽めあ】",
-                "date": "2026/02/20 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/dhbsIrWVrB8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAH2luhVGN0PSMZ4WE1QrnwrT45cg",
-                "description": "@KaguraMea @YanoKuromu @MakainoRirimu \n\n🎀グッズ・ボイス販売はこちら🐾\nhttps://yuki-sakuna.stores.jp/\n\n🎀歌ってみた動画🐾\nhttps://youtube.com/playlist?list=PLErsMirGq93v..."
-            }
-        ]
+        "videos": []
     }
 }
