@@ -9,15 +9,7 @@
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
         "channel_name": "Airani Iofifteen Channel hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc",
-        "videos": [
-            {
-                "video_id": "jtkx5u3isyI",
-                "title": "【Arknights Endfield】AKU = PABRIK, PABRIK = AKU【iofi / ホロライブID】",
-                "date": "2026/02/20 22:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/jtkx5u3isyI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6UOAKAwk6hZ_xUxrI83D30vtJoQ",
-                "description": "#ioLyfe #Airani_Iofifteen #hololive #holoID #arknights #arknightsendfield \n\nhttps://endfield.gryphline.com/en-us/protocol/terms_of_service\nno need to indicate any official perms by Hypergryph..."
-            }
-        ]
+        "videos": []
     },
     "@AkaiHaato": {
         "channel_url": "https://www.youtube.com/@AkaiHaato",
@@ -160,7 +152,15 @@
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "IzpKPfyZBXI",
+                "title": "【ド★初見】ピクミン２遊ぶ！",
+                "date": "2026/02/21 11:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/IzpKPfyZBXI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_lXeI06fGzotss4jS1REFr52Hog",
+                "description": "Play Game : Pikmin 2 ( switch )\nタグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nころねTwitter▶https://twitter.com/inugamikoron..."
+            }
+        ]
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
@@ -190,7 +190,15 @@
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
         "channel_name": "Kobo Kanaeru Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "UvnEEDdMT0o",
+                "title": "【HoloType: Treasure Zombie Island】Quick Typing!",
+                "date": "2026/02/21 03:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/UvnEEDdMT0o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCAi6IFpcHjv_ODxGohW7jJ_XRvNw",
+                "description": "Bokobokobo- Kobo Kanaeru at your service! Let me be your sun to shine your day, ehe~ ;D ☔☔☔\n#OnAeru #Kobo_Kanaeru #holoID #holoid03 \n\n==================================\nDONASI LOKAL GUYS!..."
+            }
+        ]
     },
     "@KoganeiNiko": {
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
