@@ -45,7 +45,14 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "VRJuc9xnXQ8",
+                "title": "【WE'RE BACK CHATTING】💓💓 【MEMBERS ONLY】",
+                "thumbnail": "https://i.ytimg.com/vi/VRJuc9xnXQ8/hqdefault.jpg?v=699576dd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgEg1BGRogp6y7nklMcyN2g8PoEQ",
+                "description": "this will be a rather short stream ✨️\nlovely illustration by @A_LoneKM9581 💕\nThis stream will become MEMBERS ONLY shortly before starting!\n\n🩵🩷𝗙𝗨𝗪𝗔𝗠𝗢𝗖𝗢 𝟮𝟬..."
+            }
+        ]
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -70,7 +77,14 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "iOT0O_dPeA8",
+                "title": "【ドラゴンクエストVII Reimagined】DQ7初見！ドラクエ7リイマジンド！マーディラスの次へ！✨ #6 【博衣こより/ホロライブ】※ネタバレを含みます",
+                "thumbnail": "https://i.ytimg.com/vi/iOT0O_dPeA8/hqdefault.jpg?v=69975303&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqb-KX-k-XpzSAH-CyRksIhnFE7w",
+                "description": "実はドラクエ7だけプレイしておらず初見です！これでドラクエナンバリング全網羅になる！どきどき！\n💗もふこよ＆こより達のLINE絵文字新登場..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -148,13 +162,27 @@
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
         "channel_name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/ACubs_Mw4YtmgHDIIZvW_gZaPf_VR1wg9yffFLsq4Lrw-W7Md-0pK4Gob8OJebCYCmgrArsE",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "uYgANF5XJmE",
+                "title": "【 #リオニコワンブロックマイクラ DAY1】デカすぎてリオナを弾き飛ばしてしまいそうだ…【虎金妃笑虎】",
+                "thumbnail": "https://i.ytimg.com/vi/uYgANF5XJmE/hqdefault.jpg?v=69984a14&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9Pv3HHsNwHqJ7hyKoFVIhUs7MPQ",
+                "description": "サムネイルのイラスト✨\nhttps://x.com/cocoakochan/status/2018635643832906128?s=20\n\n【MOD】\nOneBlock Map by IJAMinecraft: https://ijaminecraft.com/map/oneblock/\nYouTube: https://www.yo..."
+            }
+        ]
     },
     "@KosekiBijou": {
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ZUim_-vVge0",
+                "title": "【Yu-Gi-Oh! MASTER DUEL】I BELIEVE IN THE HEART OF THE CARDS #yugiohmasterduel #sponsored",
+                "thumbnail": "https://i.ytimg.com/vi/ZUim_-vVge0/hqdefault.jpg?v=6998db0d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAuT5xe3K4hHvS61k7IeQ3SD1cYvg",
+                "description": "Follow Yu-Gi-Oh! MASTER DUEL: https://x.com/YGOMasterDuel \nPlay Yu-Gi-Oh! MASTER DUEL: https://store.steampowered.com/app/1449850/YuGiOh_Master_Duel/\nSupport my team with this hashtag! #TeamIPMasqu..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -264,14 +292,7 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": [
-            {
-                "video_id": "p3Qr1t38DnM",
-                "title": "【#生スバル】おはすば！：FREE TALK【ホロライブ/大空スバル】",
-                "thumbnail": "https://i.ytimg.com/vi/p3Qr1t38DnM/hqdefault.jpg?v=6998a783&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQgJEZF9HWv5vBofPLQhNahUbcIg",
-                "description": "★サムネ…ｳﾕﾁｬﾝ.com： https://x.com/uyucomxx\n★イラスト…https://x.com/MauveSR/status/2017206347797033068?s=20\n\n🐣おやくそく/Rule🐣\n・待機所でお喋りしない..."
-            }
-        ]
+        "videos": []
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -463,7 +484,14 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "hqcn7p-rgvs",
+                "title": "#8【FF9】完全初見でファイナルファンタジーⅨを始める！ FINAL FANTASY Ⅸ ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意",
+                "thumbnail": "https://i.ytimg.com/vi/hqcn7p-rgvs/hqdefault.jpg?v=69986c47&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBAnsLOm7SzqXapZiENbXNOAc51_Q",
+                "description": "今週も楽しみ過ぎる\n\nサムネイラスト：憂姫はぐれマッマ\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekor..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
