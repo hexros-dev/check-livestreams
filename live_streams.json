@@ -70,14 +70,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "iOT0O_dPeA8",
-                "title": "【ドラゴンクエストVII Reimagined】DQ7初見！ドラクエ7リイマジンド！マーディラスの次へ！✨ #6 【博衣こより/ホロライブ】※ネタバレを含みます",
-                "thumbnail": "https://i.ytimg.com/vi/iOT0O_dPeA8/hqdefault.jpg?v=69975303&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqb-KX-k-XpzSAH-CyRksIhnFE7w",
-                "description": "実はドラクエ7だけプレイしておらず初見です！これでドラクエナンバリング全網羅になる！どきどき！\n💗もふこよ＆こより達のLINE絵文字新登場..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -102,7 +95,14 @@
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
         "channel_name": "Suisei Channel",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "MX4G_JcdZPo",
+                "title": "【チラ見せ】Hoshimachi Suisei Live \"SuperNova: REBOOT\"",
+                "thumbnail": "https://i.ytimg.com/vi/MX4G_JcdZPo/hqdefault.jpg?v=69918e15&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDj6yuuwIv7LzAhhptDPmLmBCg8PQ",
+                "description": "2026年2月21日（土） Hoshimachi Suisei Live \"SuperNova: REBOOT\" 開催！\n公演の一部をYouTube Liveで無料配信！\n\n▼公式ハッシュタグ\n#かけめぐるほしまち再..."
+            }
+        ]
     },
     "@HoushouMarine": {
         "channel_url": "https://www.youtube.com/@HoushouMarine",
@@ -271,14 +271,7 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": [
-            {
-                "video_id": "d5b8cuI1GC8",
-                "title": "【#3】ウマ娘 プリティーダービーやるしゅばああああああああああああああああああああああああああああああ！！！！！！！！：Umamusume: Pretty Derby【ホロライブ/大空スバル】",
-                "thumbnail": "https://i.ytimg.com/vi/d5b8cuI1GC8/hqdefault.jpg?v=6998503c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9_y0mDFxNr4EBOX9G4V152TgFSg",
-                "description": "本ゲームは株式会社Cygamesの配信ガイドラインに則って配信・収益化を行なっております。\nhttps://umamusume.jp/news/detail.php?id=107\n\n🐣おやくそく/Rule🐣..."
-            }
-        ]
+        "videos": []
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",

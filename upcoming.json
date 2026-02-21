@@ -73,6 +73,13 @@
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
         "videos": [
             {
+                "video_id": "8UGGcirlgH8",
+                "title": "【ドラゴンクエストVII Reimagined】DQ7初見！難易度いばらでドラクエ7リイマジンド！聖風の谷の先へ！✨ #7 【博衣こより/ホロライブ】※ネタバレを含みます",
+                "date": "2026/02/22 09:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/8UGGcirlgH8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPhS4ACcGgF4M6k9Oa3kBK2o3BQQ",
+                "description": "実はドラクエ7だけプレイしておらず初見です！これでドラクエナンバリング全網羅になる！どきどき！敵の強さは「いばら」でやってます！..."
+            },
+            {
                 "video_id": "g9cOPINQpf8",
                 "title": "【ロックマン2】コメ指示アリ⁉おかゆ先輩がマネするこよりのモノマネ(ラジコンこよりモード)をしながらクリア目指したら上手い説！！こよーーーーーーーッ！！！！！【博衣こより/ホロライブ】",
                 "date": "2026/02/21 17:00:00",
@@ -97,15 +104,7 @@
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
         "channel_name": "Suisei Channel",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
-        "videos": [
-            {
-                "video_id": "MX4G_JcdZPo",
-                "title": "【チラ見せ】Hoshimachi Suisei Live \"SuperNova: REBOOT\"",
-                "date": "2026/02/21 15:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/MX4G_JcdZPo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDj6yuuwIv7LzAhhptDPmLmBCg8PQ",
-                "description": "2026年2月21日（土） Hoshimachi Suisei Live \"SuperNova: REBOOT\" 開催！\n公演の一部をYouTube Liveで無料配信！\n\n▼公式ハッシュタグ\n#かけめぐるほしまち再..."
-            }
-        ]
+        "videos": []
     },
     "@HoushouMarine": {
         "channel_url": "https://www.youtube.com/@HoushouMarine",
@@ -149,13 +148,29 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "KLgyNbSU1PQ",
+                "title": "【雑談】話し亭【儒烏風亭らでん #ReGLOSS 】",
+                "date": "2026/02/21 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/KLgyNbSU1PQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnUDMqdK57bqHb6xOY0OeNRRYKVQ",
+                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\nグッズ販売中！\nhttps://shop.hololivepro.com/products/j..."
+            }
+        ]
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "hjkrcrrPAwU",
+                "title": "【Prison Escape Simulator: Dig Out】run",
+                "date": "2026/02/21 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/hjkrcrrPAwU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDv5ySTH9I5irO6u0d-1OVo5i1D1A",
+                "description": "【Donasi lokal】Traktir yang pahit-pahit kini sangat EZGGWP!~\nLink: https://sociabuzz.com/kaelakovalskia/tribe\n\n#Kaelaif #KaelaKovalskia #holoID #hololive #hololiveID \n∘₊✧──────..."
+            }
+        ]
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
