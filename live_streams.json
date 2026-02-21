@@ -364,14 +364,7 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": [
-            {
-                "video_id": "EyNZK2cpJeY",
-                "title": "【雑談＆お礼】謎解き企画を終えてのんびりする枠🍵🍡【角巻わため/ホロライブ４期生】",
-                "thumbnail": "https://i.ytimg.com/vi/EyNZK2cpJeY/hqdefault.jpg?v=699936a8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBAai8nednkDz2lHgbByxfSG8R8QQ",
-                "description": "ふぅ\nタグ：#ドドドライブ\n\n🐏わためぇの『-Art Selection-』発売中🎉\nhttps://shop.hololivepro.com/products/tsunomakiwatame_artselection?_pos=2&_sid=b92039ffb&_ss=r\n\n🐏ホロ..."
-            }
-        ]
+        "videos": []
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -401,7 +394,14 @@
         "channel_url": "https://www.youtube.com/@dooby3d",
         "channel_name": "dooby",
         "avatar_url": "https://yt3.googleusercontent.com/sOGyZgV9pPHQJCEvNe28NCOFC1y0KggsxUjrP5ecMAgBmdNT8p6ZNM24d_9SVgWFhBh0lKBL5Q",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Wgqqv0i3HdQ",
+                "title": "【MEMBERS】doobin' time",
+                "thumbnail": "https://i.ytimg.com/vi/Wgqqv0i3HdQ/hqdefault.jpg?v=6999296a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-xmTcQLvQo6cVKRvVeZPvVzE7yw",
+                "description": "hallo\nTY THUMNAIL ART ~ https://x.com/kneepaw_/status/2021969040286347402?s=20"
+            }
+        ]
     },
     "@holoen_ceciliaimmergreen": {
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
