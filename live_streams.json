@@ -143,14 +143,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": [
-            {
-                "video_id": "xA0qu0yX160",
-                "title": "【Poppy Playtime５】最新作！危険なおもちゃ工場からの脱出！？【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "thumbnail": "https://i.ytimg.com/vi/xA0qu0yX160/hqdefault.jpg?v=69998685&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2-NhA3iOLNGQkFhZ_ZgogMy8yrg",
-                "description": "本ゲームはMob Entertainmentの著作物の利用許諾を受けて配信・収益化しています。\nPoppy Playtime日本公式サイト：https://www.infolens.com/PoppyPlaytimeJP/\nPoppy..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -355,7 +348,14 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "RdLvMgbDy8c",
+                "title": "【members】Zootopia 2 Watchalong !!!!!!",
+                "thumbnail": "https://i.ytimg.com/vi/RdLvMgbDy8c/hqdefault.jpg?v=6999ab31&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPqvXCPja1ae1jfyymHpFXThnlGw",
+                "description": "🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara\n\n 🏵️[Hashtags] 🏵️\n#kfp #キアライブ#hololiveenglish #holomyth #takanashikiara \nFANART #KFPicasso\n\n＝＝＝＝＝＝＝＝..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
