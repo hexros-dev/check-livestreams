@@ -387,14 +387,7 @@
         "channel_url": "https://www.youtube.com/@dooby3d",
         "channel_name": "dooby",
         "avatar_url": "https://yt3.googleusercontent.com/sOGyZgV9pPHQJCEvNe28NCOFC1y0KggsxUjrP5ecMAgBmdNT8p6ZNM24d_9SVgWFhBh0lKBL5Q",
-        "videos": [
-            {
-                "video_id": "Wgqqv0i3HdQ",
-                "title": "【MEMBERS】doobin' time",
-                "thumbnail": "https://i.ytimg.com/vi/Wgqqv0i3HdQ/hqdefault.jpg?v=6999296a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-xmTcQLvQo6cVKRvVeZPvVzE7yw",
-                "description": "hallo\nTY THUMNAIL ART ~ https://x.com/kneepaw_/status/2021969040286347402?s=20"
-            }
-        ]
+        "videos": []
     },
     "@holoen_ceciliaimmergreen": {
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
@@ -436,7 +429,14 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "MmTCAtWKDMw",
+                "title": "yapping about my concert!",
+                "thumbnail": "https://i.ytimg.com/vi/MmTCAtWKDMw/hqdefault.jpg?v=699a2911&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAm_6OF7Gd9I3feXOgoq_0ugM7LVA",
+                "description": "thank you 🥺\n\n☁  Thumbnail Art  ☁\nhttps://x.com/kokomiin/status/2025284388125397104\nThank you so much!!\n\nMerch: https://ohmonah.shop/collections/nimi-nightmare\n\n  ‧₊ ˚  ⊹ ࣭ ⭑..."
+            }
+        ]
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
