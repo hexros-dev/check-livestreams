@@ -9,15 +9,7 @@
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
         "channel_name": "Airani Iofifteen Channel hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc",
-        "videos": [
-            {
-                "video_id": "VUgEB0hl9RI",
-                "title": "【Story of Seasons】FRIENDS OF MINERAL TOWN! ...spoiler?【IOFI / HOLOLIVE】",
-                "date": "2026/02/22 22:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/VUgEB0hl9RI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC43iD7F8N_XbinhDo7VdSfj-evgA",
-                "description": "#ioLyfe #Airani_Iofifteen #hololive #holoid \n\n※この動画は権利元の許諾を受けて配信しています。\nThis game is being streamed and monetized after confirmation with rightsholder..."
-            }
-        ]
+        "videos": []
     },
     "@AkaiHaato": {
         "channel_url": "https://www.youtube.com/@AkaiHaato",
@@ -387,7 +379,15 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "w4dgql_5Rzk",
+                "title": "🌸さくらみこFreeChat＆最新情報🌸",
+                "date": "2026/03/05 21:55:00",
+                "thumbnail": "https://i.ytimg.com/vi/w4dgql_5Rzk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBaBjog5Nmj3ZcyhrATaZWL8-NFDw",
+                "description": "🎀さくらみこ新衣装記念グッズ発売🎉\nhttps://shop.hololivepro.com/products/sakuramiko_roomwearoutfitcelebration\n🎀グッズ販売期間（受注販売）\n2025年12月25日(木)..."
+            }
+        ]
     },
     "@SamekoSaba": {
         "channel_url": "https://www.youtube.com/@SamekoSaba",
@@ -481,15 +481,7 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
-        "videos": [
-            {
-                "video_id": "0fZgls2fF3o",
-                "title": "【Mewgenics】🐈 Cat conquer!",
-                "date": "2026/02/22 22:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/0fZgls2fF3o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdZU-hLwyuYvv8HbMWzC3zZ2_Qeg",
-                "description": "#vestiazeta #hololive #vtuber #gaming #mewgenics #holoid #hololiveindonesia \n\nGame Title: Mewgenics\nStore Page: https://store.steampowered.com/app/686060/Mewgenics/\n\nThumbnail: https://x.com/theGil..."
-            }
-        ]
+        "videos": []
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
