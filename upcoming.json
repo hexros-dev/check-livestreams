@@ -322,7 +322,15 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "dDo7ON7BCQg",
+                "title": "【 #朝ミオ 】月曜日の朝～！おはみぉーん！！！",
+                "date": "2026/02/23 05:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/dDo7ON7BCQg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCoys7CyNvv3SLCMzGyNOo3F54MUA",
+                "description": "ちょっとお休みしてました！\n\n#朝ミオおたより Twitter(X)で募集中です🌟\n今回紹介するお題は、『自分の機嫌の取り方』です！\n\nサムネillustrator：い..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -411,13 +419,6 @@
                 "date": "2026/02/22 20:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/Gx3XJh_SzfE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCig5GFvadStnS7sIC9foY1hpiRSg",
                 "description": "✦小説『FBKINGDOM STORY』\nフブキングダム、それは、夢が叶う魔法の王国。\n▷https://www.youtube.com/@ShirakamiFubuki/posts\n\n✨️NEW✨️オリジナル楽曲『冥界Hal..."
-            },
-            {
-                "video_id": "xDvQ6TAzEAk",
-                "title": "【#ホワイトブリニャン】緊急FaNMTG♥監獄サインチェキ会と２２の質問【ホロライブ/白上フブキ】",
-                "date": "2026/02/22 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/xDvQ6TAzEAk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOyjWXXOyUYx4UKwOAyon6UvFO0w",
-                "description": "✦小説『FBKINGDOM STORY』\nフブキングダム、それは、夢が叶う魔法の王国。\n▷https://www.youtube.com/@ShirakamiFubuki/posts\n\n✨️NEW✨️オリジナル楽曲『冥界Hal..."
             }
         ]
     },
@@ -439,15 +440,7 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": [
-            {
-                "video_id": "tQwv41x7c9k",
-                "title": "【マシュマロ】1時間以内？！初めての100本ノック！心を鬼にしてさばきますッ！【白銀ノエル/ホロライブ】",
-                "date": "2026/02/22 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/tQwv41x7c9k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxcRR3FAzDjZc-xIOQnPMK8pzxJw",
-                "description": "マシュマロ募集中！→ https://marshmallow-qa.com/shiroganenoel?t=TzyElm&utm_medium=url_text&utm_source=promotion\n\nこのあとイタズラーニャMV公開！\nhttps://youtu.be/QjkiIMRW07w..."
-            }
-        ]
+        "videos": []
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
