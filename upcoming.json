@@ -95,7 +95,22 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "i_lU5fr2sXI",
+                "title": "≪Suika Game Planet≫ relaxing the soul for 2 hours",
+                "date": "2026/02/24 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/i_lU5fr2sXI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtPjyKiloeKprrWUbVGxtareL_Pg",
+                "description": "i genuinely need something to just soothe the soul please send help\n\n#telebae #febaerary  #hololiveenglish \n\n««≪ °◇◆◇° ≫ »»\nGame Title: Suika Game Planet\nOfficial Site: https://suik..."
+            },
+            {
+                "video_id": "khQRCrrtVjA",
+                "title": "≪ReCOLOR 3D Live≫ Hakos Baelz Birthday Live 2026 + NEW 3D OUTFIT! #ReCOLOR3D",
+                "date": "2026/02/28 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/khQRCrrtVjA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbR0vqIiiEQfAtb6TPpg_4Xj7X_w",
+                "description": "DA RAT DID SOME COOKING!\nHakos Baelz 2026 Birthday Extravaganza! \n\nFeaturing:\n....NEW 3D OUTFIT?!\n.... MANY GUESTS!!\n... NEW ORIGINAL SONG?\n\n\n...Get Hyped!!\n««≪ °◇◆◇° ≫ »»\nRequest..."
+            }
+        ]
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -367,15 +382,7 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": [
-            {
-                "video_id": "Mr-1TeFr2YU",
-                "title": "【メンバー限定】しゃべったりちょっと歌ったり【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "date": "2026/02/23 19:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/Mr-1TeFr2YU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBa_dHphaP93hXIDWPYJA0n1AzRoA",
-                "description": "本日いただいたスーパーチャットはお名前だけ読ませていただきます🙏🙇‍♀️\nニックネームつける配信は25日にやろうと思っています！！！！..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
