@@ -63,14 +63,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "SuQ2I6d8d1c",
-                "title": "【 #朝こよ 】2月最後の火曜日の朝も！朝こよ～！☀ #273 【博衣こより/hololive】",
-                "thumbnail": "https://i.ytimg.com/vi/SuQ2I6d8d1c/hqdefault.jpg?v=699b31e2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLqM8FO36u_Wg74bt8vIEBI9dGUg",
-                "description": "💗もふこよ＆こより達のLINE絵文字新登場！💗\nhttps://store.line.me/emojishop/product/692005351b274b249396cf6b/ja\n\n🎶こよのSpotifyフォローしてね！▼🎶\nhttps://open..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -160,20 +153,20 @@
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Ywlu0OyRo2E",
+                "title": "【#DistrictV】 Part 3: DEAR MERCIFUL HEAVENS, PLEASE BLESS OUR CHARIOTS 【Kureiji Ollie】",
+                "thumbnail": "https://i.ytimg.com/vi/Ywlu0OyRo2E/hqdefault.jpg?v=699c4dd8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-jLbR4P15wpXLHiT5YzeyaJ58aA",
+                "description": "❥・・───༅༚˳ . ୨୧ . ˳༚༅༚─── ・・❥\n\n#OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n────୨｡ ₊°༺❤︎༻°₊ ｡ৎ────\n\n Watch my..."
+            }
+        ]
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
         "channel_name": "Laplus ch. ラプラス・ダークネス - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/6Y5lj4DhikLBo0UqIZ1dT3-D3aYXVPbxUgNTyYiyE_Se8AVxkGAn05D3oc1y3whpzDu-CzEQ",
-        "videos": [
-            {
-                "video_id": "3ZH90yi8O00",
-                "title": "【歌枠】karaoke！朝です！おはよ！【ラプラス・ダークネス/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/3ZH90yi8O00/hqdefault.jpg?v=699cc2c0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFXB5G2F3n8ur9Wb9m2KW1cgFnQQ",
-                "description": "✒https://x.com/_sawamaru_/status/2022321989210550272?s=20\n﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏\n\nエデンの星に住む人間達諸君！🛸💜\n吾輩は holoX 総帥..."
-            }
-        ]
+        "videos": []
     },
     "@MizumiyaSu": {
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
@@ -443,7 +436,14 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "xN1dx1nI5S0",
+                "title": "【MINECRAFT】 Phoebe and Nimi's Adventures in Minecraft | Ep. 4 (SEASON FINALE)",
+                "thumbnail": "https://i.ytimg.com/vi/xN1dx1nI5S0/hqdefault.jpg?v=699cb593&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDeE_fUM4-wXJphyCoXmNZE66g1ag",
+                "description": "Minecraft with @feebeechanchibi !!\n\n☁  Thumbnail Art  ☁\nhttps://x.com/Spiderccino/status/2023895238323122496\nThank you so much!!\n\nMerch: https://ohmonah.shop/collections/nimi-nightmare..."
+            }
+        ]
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
