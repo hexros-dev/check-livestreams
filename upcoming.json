@@ -102,13 +102,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
         "videos": [
             {
-                "video_id": "SuQ2I6d8d1c",
-                "title": "【 #朝こよ 】2月最後の火曜日の朝も！朝こよ～！☀ #273 【博衣こより/hololive】",
-                "date": "2026/02/24 05:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/SuQ2I6d8d1c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLqM8FO36u_Wg74bt8vIEBI9dGUg",
-                "description": "💗もふこよ＆こより達のLINE絵文字新登場！💗\nhttps://store.line.me/emojishop/product/692005351b274b249396cf6b/ja\n\n🎶こよのSpotifyフォローしてね！▼🎶\nhttps://open..."
-            },
-            {
                 "video_id": "yUFSe9naFkM",
                 "title": "【Biohazard 6】レクイエム直前‼バイオ6完全初見でジェイク編やってみる！！！ #2 【博衣こより/ホロライブ】",
                 "date": "2026/02/24 17:00:00",
@@ -197,7 +190,15 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "UwJmCn2W-os",
+                "title": "【 スーパーマリオワールド 】完全初見！人生初スーパーマリオワールド！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "date": "2026/02/24 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/UwJmCn2W-os/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKpJccrg1I7y428Kr7QXJky4mAsQ",
+                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\nサムネイルの素敵なイラスト　ちゃぼさん　https://x.com/x_xhauntedx_x?s=..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -434,7 +435,15 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "epedA6vTsa4",
+                "title": "In the Shadow Realm to Learn Yu-Gi-Oh 【Yu-Gi-Oh! Master Duel】 #ad",
+                "date": "2026/02/25 04:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/epedA6vTsa4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAn87CUZlSrP53BagWRZIDjSniviQ",
+                "description": "My first original song 「Monsters and Men」OUT NOW!\n🎧Listen to it here: https://cover.lnk.to/Y6ZMPF\n📹Music Video here: https://www.youtube.com/watch?v=NX1ZCKJ67dc\n==========================..."
+            }
+        ]
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
