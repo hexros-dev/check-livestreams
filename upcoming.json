@@ -214,15 +214,7 @@
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
-        "videos": [
-            {
-                "video_id": "iCejctvITlw",
-                "title": "【#DistrictV】 Part 2: THIS MECHANIC BLESSES CARS 【Kureiji Ollie】",
-                "date": "2026/02/23 08:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/iCejctvITlw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDKFhSgYDnYIKjEN6vHqBIwCQXlw",
-                "description": "❥・・───༅༚˳ . ୨୧ . ˳༚༅༚─── ・・❥\n\n#OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n────୨｡ ₊°༺❤︎༻°₊ ｡ৎ────\n\n Watch my..."
-            }
-        ]
+        "videos": []
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
@@ -326,7 +318,15 @@
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
         "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "JLSsYLMcnhE",
+                "title": "Late night practice 💙 | Yu-Gi-Oh! MASTER DUEL #sponsored",
+                "date": "2026/02/24 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/JLSsYLMcnhE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCMFHFzhLoIyO5_Ww3dkcfaWl22Yw",
+                "description": "Follow Yu-Gi-Oh! MASTER DUEL: https://x.com/YGOMasterDuel \nPlay Yu-Gi-Oh! MASTER DUEL: https://store.steampowered.com/app/1449850/YuGiOh_Master_Duel/\nSupport my team with the hashtag #TeamSPLittleK..."
+            }
+        ]
     },
     "@NinomaeInanis": {
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
@@ -453,13 +453,6 @@
                 "date": "2026/02/23 20:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/7-C2mDJz69M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcznfS4zZzboqPZQ4YXvlwl9JF4w",
                 "description": "※配信直前にメンバー限定に変更します！\n\nVRChatの承諾を得た上で配信・収益化を行なっております。\nホームページはこちら https://hello.vrchat.com/..."
-            },
-            {
-                "video_id": "aIi1h6-GhuI",
-                "title": "【朝活】久しぶりの縦型歌枠でキミを起こしちゃう💡【白銀ノエル/ホロライブ】",
-                "date": "2026/02/23 07:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/aIi1h6-GhuI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVxRYG-qx40rJi2btkLdHIOm_Y5w",
-                "description": "💗「イタズラーニャ」MV公開中🐈\nhttps://youtu.be/QjkiIMRW07w\n\n提供：XING INC.\n※JOYSOUND音源を使用しているため、本動画のカラオケ音源利用部分の切り抜..."
             }
         ]
     },
