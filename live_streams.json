@@ -45,14 +45,7 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": [
-            {
-                "video_id": "U7eJ0PS853U",
-                "title": "【Yu-Gi-Oh! MASTER DUEL】yummy yummy yummy 🐾 #TeamSPLittleKnight #sponsored 【FUWAMOCO】",
-                "thumbnail": "https://i.ytimg.com/vi/U7eJ0PS853U/hqdefault.jpg?v=6999999e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPKuWscfAmn_ZlCZr6YI6O-9fiEA",
-                "description": "Are you ready to Duel? 🐾✨️ \nSupport Team S:P Little Knight by using our hashtag #TeamSPLittleKnight and joining our tournament on February 21st!\nPlease help us with our training to send..."
-            }
-        ]
+        "videos": []
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -64,14 +57,7 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": [
-            {
-                "video_id": "Iun6s5B9JwM",
-                "title": "≪Telephone Game: Music Challenge!≫ Holo EN x Holo JP w/ Special ANNOUNCEMENT! #holoTelephone",
-                "thumbnail": "https://i.ytimg.com/vi/Iun6s5B9JwM/hqdefault.jpg?v=699aa0c7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPNfsut7XVNGKM6wL9VBe-96W8Xw",
-                "description": "Here we go again!! \nFeaturing: @ShirakamiFubuki @OokamiMio @TokoyamiTowa @KosekiBijou @holoen_ceciliaimmergreen @holoen_gigimurin \n\nThumbnail: HoloCrumb (https://x.com/notcrumvbs) \n\n#telebae..."
-            }
-        ]
+        "videos": []
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -126,13 +112,27 @@
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Jisp0NhdX-E",
+                "title": "【クリア後】ピクミン２のお宝コンプリート目指す！！",
+                "thumbnail": "https://i.ytimg.com/vi/Jisp0NhdX-E/hqdefault.jpg?v=699b15e6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmMvCPbkFmrkChO2-8aGAzQ4IjsQ",
+                "description": "Play Game : Pikmin 2 ( switch )\nタグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nころねTwitter▶https://twitter.com/inugamikoron..."
+            }
+        ]
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "daTNXs6s5p4",
+                "title": "【BLEACH Rebirth of Souls】完全初見！ネットミームを勉強したいリオナさん❤【ホロライブ DEV_IS 響咲リオナ】",
+                "thumbnail": "https://i.ytimg.com/vi/daTNXs6s5p4/hqdefault.jpg?v=699afa2a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATHFnXJX2eqZk5mFyPxYFyxARpbg",
+                "description": "🆕響咲連合グッズ発売中✨❤\n■グッズ販売期間（受注販売）\n2026年1月28日(水)19時45分 ～ 2026年3月2日(月) 18時00分　\n☟\nhttps://shop.hololivepro.com/products/..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -284,7 +284,14 @@
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Dk08Fu0kyjQ",
+                "title": "【 龍が如く0 】完全初見！ヤクザ奏だおらぁ！！ #07 【音乃瀬奏】#hololiveDEV_IS #ReGLOSS　※ネタバレあり",
+                "thumbnail": "https://i.ytimg.com/vi/Dk08Fu0kyjQ/hqdefault.jpg?v=699af92e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD77x5yvX9AxWoBRTzol2Dz5H5Lhg",
+                "description": "▽✨重大告知✨ ▽\n音乃瀬奏 1stオリジナル曲「GREATEST」\n4/20(日) 24：00（4/21  0：00）リリース開始！\nhttps://cover.lnk.to/4rvCRp\n\n୨୧♪:*:･･:*:･♪･:*:･..."
+            }
+        ]
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
@@ -459,7 +466,14 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "xiwSYC4hewo",
+                "title": "【ELDENRING】完全初見⚔エルデの王におれはなるッ🔥10【風真いろは/ホロライブ】※本配信はゲームのネタバレを含みます",
+                "thumbnail": "https://i.ytimg.com/vi/xiwSYC4hewo/hqdefault.jpg?v=699ac13c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyGbEgZCU8fO8TcXxjAmYeegKVhw",
+                "description": "マレニアさん\nおまえを\nぜったいに\nたおす\n\nサムネイラスト：https://x.com/hanamori59ya/status/1587723998112395265?s=20\n本ゲームは株式会社フロム・ソフトウェ..."
+            }
+        ]
     },
     "@mikenekoko": {
         "channel_url": "https://www.youtube.com/@mikenekoko",
