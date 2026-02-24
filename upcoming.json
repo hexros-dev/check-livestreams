@@ -157,7 +157,15 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "6cORJ6gKAhA",
+                "title": "【BLEACH Rebirth of Souls】完全初見！脳破壊しまくリオーナ・・今回はどうなるの！？【ホロライブ DEV_IS 響咲リオナ】",
+                "date": "2026/02/25 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/6cORJ6gKAhA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBpYFi4bZVJ3XSV9aai7R30Hy9a7w",
+                "description": "🆕響咲連合グッズ発売中✨❤\n■グッズ販売期間（受注販売）\n2026年1月28日(水)19時45分 ～ 2026年3月2日(月) 18時00分　\n☟\nhttps://shop.hololivepro.com/products/..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -332,6 +340,12 @@
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
         "videos": []
     },
+    "@OozoraSubaru": {
+        "channel_url": "https://www.youtube.com/@OozoraSubaru",
+        "channel_name": "Subaru Ch. 大空スバル",
+        "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
+        "videos": []
+    },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -348,15 +362,7 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": [
-            {
-                "video_id": "3wZyONXKm1I",
-                "title": "#9【Pokemon Legends: Z-A】MEZASE RANK A PART 2【Pavolia Reine/hololiveID】",
-                "date": "2026/02/25 00:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/3wZyONXKm1I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARMUl5xU5VfkA-JC2-vYk4efVvoQ",
-                "description": "Reine's new original song now AVAILABLE on iTunes, Apple Music, Spotify etc. starting September 10, 2025 00:00 your local time!!!\nWatch the MV:➡️https://youtu.be/NEtiag8nTUs\nGet it here:➡️h..."
-            }
-        ]
+        "videos": []
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",

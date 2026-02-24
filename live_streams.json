@@ -28,14 +28,7 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": [
-            {
-                "video_id": "znwEi2BnKeA",
-                "title": "【GTA5│NEW TOWN】Day5 終わり際の楽しみ散歩【アキロゼ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/znwEi2BnKeA/hqdefault.jpg?v=699db606&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1kYW3lFuKLc6ITDTDWt75pPzgbg",
-                "description": "🍎アキロゼ広告衣装スポンサー募集はじめました🍎\n▼応募フォーム\nhttps://forms.gle/CHEv9Td8irUvjuQi9\n\n広告衣装ってなに？紹介ページはこちら▼..."
-            }
-        ]
+        "videos": []
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -267,6 +260,12 @@
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
         "videos": []
     },
+    "@OozoraSubaru": {
+        "channel_url": "https://www.youtube.com/@OozoraSubaru",
+        "channel_name": "Subaru Ch. 大空スバル",
+        "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
+        "videos": []
+    },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -283,7 +282,14 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "3wZyONXKm1I",
+                "title": "#9【Pokemon Legends: Z-A】MEZASE RANK A PART 2【Pavolia Reine/hololiveID】",
+                "thumbnail": "https://i.ytimg.com/vi/3wZyONXKm1I/hqdefault.jpg?v=699d8fbe&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARMUl5xU5VfkA-JC2-vYk4efVvoQ",
+                "description": "Reine's new original song now AVAILABLE on iTunes, Apple Music, Spotify etc. starting September 10, 2025 00:00 your local time!!!\nWatch the MV:➡️https://youtu.be/NEtiag8nTUs\nGet it here:➡️h..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -379,14 +385,7 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": [
-            {
-                "video_id": "yKTQkjAtbsg",
-                "title": "【雑談＆お礼】早起き終わったので夜更かしをする！！！【角巻わため/ホロライブ４期生】",
-                "thumbnail": "https://i.ytimg.com/vi/yKTQkjAtbsg/hqdefault.jpg?v=699d5eae&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBacf255eyaeWjb49d8tsyB0JT_hg",
-                "description": "お礼しながらお話🍀\nタグ：#ドドドライブ\n\n🐏わためぇの『-Art Selection-』発売中🎉\nhttps://shop.hololivepro.com/products/tsunomakiwatame_artselection?_pos=2&_sid=b9203..."
-            }
-        ]
+        "videos": []
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
