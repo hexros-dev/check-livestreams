@@ -236,13 +236,6 @@
                 "description": "本動画のゲームプレイ映像は、株式会社スクウェア・エニックスの許諾を受けて使用しています。\n© 2001, 2003, 2019 SQUARE ENIX CO., LTD. All Rights Reserved...."
             },
             {
-                "video_id": "IjroxUYyqZ0",
-                "title": "【Chained Together】レイネ先輩と鎖⛓️♡【水宮枢／ホロライブDEV_IS】",
-                "date": "2026/02/24 10:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/IjroxUYyqZ0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtFQyHPetEE3nZFYVNOsaMvrrKMQ",
-                "description": "本ゲームは Anegar Games に確認の上配信・収益化を行なっております。\n@PavoliaReine \n\n▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸◂┄▹◃\n\n💙メンバーシップ..."
-            },
-            {
                 "video_id": "YlAgHJ9VhEE",
                 "title": "【初対談】しぐれういさんと初コラボ ！#すううい【水宮枢／ホロライブDEV_IS】",
                 "date": "2026/02/24 20:00:00",
@@ -412,7 +405,15 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "epedA6vTsa4",
+                "title": "In the Shadow Realm to Learn Yu-Gi-Oh 【Yu-Gi-Oh! Master Duel】 #ad",
+                "date": "2026/02/25 04:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/epedA6vTsa4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAn87CUZlSrP53BagWRZIDjSniviQ",
+                "description": "My first original song 「Monsters and Men」OUT NOW!\n🎧Listen to it here: https://cover.lnk.to/Y6ZMPF\n📹Music Video here: https://www.youtube.com/watch?v=NX1ZCKJ67dc\n==========================..."
+            }
+        ]
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
