@@ -21,15 +21,7 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": [
-            {
-                "video_id": "znwEi2BnKeA",
-                "title": "【GTA5│NEW TOWN】Day5 終わり際の楽しみ散歩【アキロゼ/ホロライブ】",
-                "date": "2026/02/24 23:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/znwEi2BnKeA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1kYW3lFuKLc6ITDTDWt75pPzgbg",
-                "description": "🍎アキロゼ広告衣装スポンサー募集はじめました🍎\n▼応募フォーム\nhttps://forms.gle/CHEv9Td8irUvjuQi9\n\n広告衣装ってなに？紹介ページはこちら▼..."
-            }
-        ]
+        "videos": []
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -197,7 +189,15 @@
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
         "channel_name": "Kobo Kanaeru Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "8R9obGjFSwU",
+                "title": "【HELLMART】SIAPA YANG MAU BELANJA DI TOKO BEGINIAN ??",
+                "date": "2026/02/25 02:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/8R9obGjFSwU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_iY5UscemkPQ7n3mDVgMuaMKU7Q",
+                "description": "Bokobokobo- Kobo Kanaeru at your service! Let me be your sun to shine your day, ehe~ ;D ☔☔☔\n#OnAeru #Kobo_Kanaeru #holoID #holoID03\n\nGame Title: HELLMART\nStore Page: https://store.steampowere..."
+            }
+        ]
     },
     "@KoganeiNiko": {
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
@@ -330,12 +330,6 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": []
-    },
-    "@OozoraSubaru": {
-        "channel_url": "https://www.youtube.com/@OozoraSubaru",
-        "channel_name": "Subaru Ch. 大空スバル",
-        "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
         "videos": []
     },
     "@OtonoseKanade": {
