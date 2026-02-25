@@ -165,7 +165,15 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "F3KMzBINUYw",
+                "title": "【#らでんのラジオ 】第36回！ジョジョっぽい例え選手権ほか【儒烏風亭らでん #ReGLOSS 】",
+                "date": "2026/02/25 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/F3KMzBINUYw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUpVkByh_sfZUkyASBwopx68BnMg",
+                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\n\nらでんのラジオとは…？\n毎週水曜日（仮）23..."
+            }
+        ]
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -177,15 +185,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": [
-            {
-                "video_id": "Uy22CYhdhx4",
-                "title": "【 スーパーマリオブラザーズ3 】完全初見！人生初スーパーマリオブラザーズ3！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "date": "2026/02/25 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Uy22CYhdhx4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQJxdyADbtNHH9LfYdOPgpM5oocQ",
-                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\nサムネイルの素敵なイラスト　ちゃぼさん　https://x.com/x_xhauntedx_x?s=..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -469,15 +469,7 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": [
-            {
-                "video_id": "RpU4ODi-_VA",
-                "title": "【ARKNIGHTS: ENDFIELD】YVONNU KIBONNU #kfp #キアライブ",
-                "date": "2026/02/25 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/RpU4ODi-_VA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8aAeDdYxJpUmZVTpU_gIu7kjSVQ",
-                "description": "CONCERT STREAMING TICKETS: https://drawn-to-dawn.hololivepro.com/ticket\nCONCERT WEBSITE: https://drawn-to-dawn.hololivepro.com/ \n\n🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara..."
-            }
-        ]
+        "videos": []
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
