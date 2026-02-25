@@ -139,20 +139,20 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": [
-            {
-                "video_id": "6cORJ6gKAhA",
-                "title": "【BLEACH Rebirth of Souls】完全初見！脳破壊しまくリオーナ・・今回はどうなるの！？【ホロライブ DEV_IS 響咲リオナ】",
-                "thumbnail": "https://i.ytimg.com/vi/6cORJ6gKAhA/hqdefault.jpg?v=699dd9ac&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBpYFi4bZVJ3XSV9aai7R30Hy9a7w",
-                "description": "🆕響咲連合グッズ発売中✨❤\n■グッズ販売期間（受注販売）\n2026年1月28日(水)19時45分 ～ 2026年3月2日(月) 18時00分　\n☟\nhttps://shop.hololivepro.com/products/..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "F3KMzBINUYw",
+                "title": "【#らでんのラジオ 】第36回！ジョジョっぽい例え選手権ほか【儒烏風亭らでん #ReGLOSS 】",
+                "thumbnail": "https://i.ytimg.com/vi/F3KMzBINUYw/hqdefault.jpg?v=699ec28e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUpVkByh_sfZUkyASBwopx68BnMg",
+                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\n\nらでんのラジオとは…？\n毎週水曜日（仮）23..."
+            }
+        ]
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -164,14 +164,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": [
-            {
-                "video_id": "Uy22CYhdhx4",
-                "title": "【 スーパーマリオブラザーズ3 】完全初見！人生初スーパーマリオブラザーズ3！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "thumbnail": "https://i.ytimg.com/vi/Uy22CYhdhx4/hqdefault.jpg?v=699dc2f4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQJxdyADbtNHH9LfYdOPgpM5oocQ",
-                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\nサムネイルの素敵なイラスト　ちゃぼさん　https://x.com/x_xhauntedx_x?s=..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -207,7 +200,14 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "F-XFng-B_hg",
+                "title": "【FF10】初めてのファイナルファンタジー💙完全初見 :ネタバレあり【水宮枢／ホロライブDEV_IS】",
+                "thumbnail": "https://i.ytimg.com/vi/F-XFng-B_hg/hqdefault.jpg?v=6998a011&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFq53a0JoKPZ5pmZJwLqM80WQ3kg",
+                "description": "本動画のゲームプレイ映像は、株式会社スクウェア・エニックスの許諾を受けて使用しています。\n© 2001, 2003, 2019 SQUARE ENIX CO., LTD. All Rights Reserved...."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -316,7 +316,14 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "QS9gxzTA2kI",
+                "title": "【メンバー限定】ニックネームつける～～～～！！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "thumbnail": "https://i.ytimg.com/vi/QS9gxzTA2kI/hqdefault.jpg?v=699ef4c5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-xe4hPyh-gJPj3melUk7UDu0SYw",
+                "description": "本日の進行\n・以前にいただいたスーパーチャットでお名前を付けることができなかった方からつけていきます！\n（該当される方はコミュニティ投..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -365,7 +372,14 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "V7EutORtQog",
+                "title": "【ツーポイントミュージアム】まったり深夜に博物館！DLC「ズージアム」作る！【不知火フレア/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/V7EutORtQog/hqdefault.jpg?v=699ee32f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDuXsiJfacfzeieG8URvZhsb-qf9Q",
+                "description": "■New「Fun fair」MV公開✨\nhttps://www.youtube.com/watch?v=FdKux6g4HJ4\n\n━━━━━━━━━━━━━━━━━━━━━━━\n■Newシングル「架空と本当」MV公開中..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -377,27 +391,13 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": [
-            {
-                "video_id": "PiANsN8j2Ic",
-                "title": "【Goat Simulator 3】地味にやりこみ要素が豊富なオープンワールドヤギゲー ＃02【獅白ぼたん/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/PiANsN8j2Ic/hqdefault.jpg?v=699e7734&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7InlbAnxr1KWVctjOvdoxT9YK7Q",
-                "description": "続きのヤギ！\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n🔸新着情報/New!\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n🦁『獅白杯』ついにオフライン開催..."
-            }
-        ]
+        "videos": []
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": [
-            {
-                "video_id": "RpU4ODi-_VA",
-                "title": "【ARKNIGHTS: ENDFIELD】YVONNU KIBONNU #kfp #キアライブ",
-                "thumbnail": "https://i.ytimg.com/vi/RpU4ODi-_VA/hqdefault.jpg?v=699e4754&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8aAeDdYxJpUmZVTpU_gIu7kjSVQ",
-                "description": "CONCERT STREAMING TICKETS: https://drawn-to-dawn.hololivepro.com/ticket\nCONCERT WEBSITE: https://drawn-to-dawn.hololivepro.com/ \n\n🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara..."
-            }
-        ]
+        "videos": []
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
@@ -415,7 +415,14 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "85krWosuHfE",
+                "title": "【ホロガード】ドキドキ審査クイズゲーム！わたし詳しくなります！【ホロライブ/ときのそら】",
+                "thumbnail": "https://i.ytimg.com/vi/85krWosuHfE/hqdefault.jpg?v=699efbbf&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUwmNOwgzKVIuWuZQ6WtPyhHllGA",
+                "description": "やっぱりね！\nみんなの詳しい情報をね、知っていかないとね！！\n守ります。わたし。\n\n配信タイトル：ホロガード\nストアページ：https://store.steampo..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
@@ -427,7 +434,14 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "PY1HDAbDLWA",
+                "title": "【 Pokémon LEGENDS Z-A 】ついにアンシャちゃんの願いを叶えます...！！ #7【角巻わため/ホロライブ４期生】",
+                "thumbnail": "https://i.ytimg.com/vi/PY1HDAbDLWA/hqdefault.jpg?v=699e9d5e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmeK90unaLhy2EK5ORYhVg3SnOpg",
+                "description": "最終回かもしれない？\nタグ：#ドドドライブ \n\n配信タイトル：Pokémon LEGENDS Z-A\nストアページ：https://store-jp.nintendo.com/item/software/D70010000094233\n\n🐏わた..."
+            }
+        ]
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -452,7 +466,14 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "6e7BvkPfex4",
+                "title": "【メンバー限定】お屋敷に帰省してました！（2回目）【雪花ラミィ /ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/6e7BvkPfex4/hqdefault.jpg?v=699ee4f3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9qo4UjpyPVno89sMbbln-M7aKoQ",
+                "description": "※22時になったらメンバー限定配信に切り替わります\n　At22:00 p.m., the distribution will switch to members-only distribution.\n　メン限で話した内容は内緒でお願..."
+            }
+        ]
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
