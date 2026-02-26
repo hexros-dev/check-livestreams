@@ -304,14 +304,7 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": [
-            {
-                "video_id": "H0r1mgaMrok",
-                "title": "2nd Day of Training! CHAT, HELP ME!!! 【Yu-Gi-Oh! MASTER DUEL】 #sponsored",
-                "thumbnail": "https://i.ytimg.com/vi/H0r1mgaMrok/hqdefault.jpg?v=699e793a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmWI5mTfc9EbYwfrgwUhrFjPCWvw",
-                "description": "My first original song 「Monsters and Men」OUT NOW!\n🎧Listen to it here: https://cover.lnk.to/Y6ZMPF\n📹Music Video here: https://www.youtube.com/watch?v=NX1ZCKJ67dc\n==========================..."
-            }
-        ]
+        "videos": []
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
@@ -365,7 +358,14 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch.Tokoyami Towa",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "BXuq5FHiq8g",
+                "title": "【 REANIMAL 】#2 ｜弟よおおおおおおおお OH MY BROTHER w/HakosBaelz【常闇トワ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/BXuq5FHiq8g/hqdefault.jpg?v=699ef96a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCLjsOz601JGxwGlY5wipDGXGtUjA",
+                "description": "@HakosBaelz \n@TokoyamiTowa \n\n配信タイトル：REANIMAL\nストアページ：https://store.steampowered.com/app/2129530/REANIMAL/\n✼••┈┈┈┈┈┈┈┈┈┈┈┈••✼\n..."
+            }
+        ]
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
@@ -443,14 +443,7 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": [
-            {
-                "video_id": "5f7a3jhwNBg",
-                "title": "【Random Wii Games】 Spin the wheel → play the game!",
-                "thumbnail": "https://i.ytimg.com/vi/5f7a3jhwNBg/hqdefault.jpg?v=699f6a4c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFiMVjyDXEkohF9oRO0HXbIbl0_Q",
-                "description": "Working through my Wii collection!\n\nMerch: https://ohmonah.shop/collections/nimi-nightmare\n\n  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋\n\nKonbakuwa! I'm Nimi, the baku nurse VTuber of your nightmares..."
-            }
-        ]
+        "videos": []
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
