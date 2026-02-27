@@ -21,7 +21,14 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "71k4I--PeEY",
+                "title": "【GTA5│NEW TOWN】Day6ド深夜お散歩【アキロゼ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/71k4I--PeEY/hqdefault.jpg?v=69a1b7cd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCeM3YabRiA9YH2Aoie7sCyF7eXzw",
+                "description": "📰最新NEWS🌟\n🎂アキロゼ生誕祭2026記念グッズ発売中！3/16まで🎂\nhttps://shop.hololivepro.com/products/akirosenthal_birthday_2026\n\n🎧24:00  アキ・ローゼンタール..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -105,14 +112,7 @@
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": [
-            {
-                "video_id": "--qXOn18fc8",
-                "title": "【雑談】2026/02/27 みんなのビタミンはころねのもの♩",
-                "thumbnail": "https://i.ytimg.com/vi/--qXOn18fc8/hqdefault.jpg?v=69a181aa&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWoYNrJu08y_Sk8tHSyRFjZ66qYA",
-                "description": "タグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nころねTwitter▶https://twitter.com/inugamikorone\n\n-----------------------------..."
-            }
-        ]
+        "videos": []
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
@@ -288,14 +288,7 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": [
-            {
-                "video_id": "l4yS4l5FLSA",
-                "title": "【劇場版Zガンダム同時視聴】劇場版のZガンダムみるぞ～～！2作連続！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "thumbnail": "https://i.ytimg.com/vi/l4yS4l5FLSA/hqdefault.jpg?v=69a090d7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpei9ISI4jC4oOpPQc78bM35Q6_g",
-                "description": "TV版途中だけどみんなとみたいから劇場版一緒に見よう～～～！！！！\n引き続きTV版も見てくね～～～！\n\n・本配信は、株式会社 創通、株式会社バ..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
