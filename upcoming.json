@@ -213,15 +213,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": [
-            {
-                "video_id": "NTA80XsMuD0",
-                "title": "【 バイオハザード レクイエム 】最新作！Biohazard Requiem※ネタバレ注意【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "date": "2026/02/27 16:15:00",
-                "thumbnail": "https://i.ytimg.com/vi/NTA80XsMuD0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3jcj3eu-XBuPbTQVbIFSPUhDkEg",
-                "description": "この動画およびライブは株式会社カプコンの利用許諾を受けて配信しています\n※グロテスクな表現が含まれますのでご注意ください。未成年の方..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -337,7 +329,15 @@
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "64xQe_fs3Mo",
+                "title": "【鳴潮】絶対にストーリーを進めたいまつりvs進めさせない神のオープンワールド【ホロライブ/夏色まつり】",
+                "date": "2026/02/28 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/64xQe_fs3Mo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOddPcVe-sjV1CQdPipC6LDHs6Uw",
+                "description": "...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\n\n素敵なサムネイル→熊野ぽく様\n@kumano_poku\n\n\n...｡oо○**○оo｡...｡oо○**..."
+            }
+        ]
     },
     "@NekomataOkayu": {
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
@@ -623,18 +623,25 @@
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
         "videos": [
             {
-                "video_id": "dZ_Sy85QN0I",
-                "title": "【ついに発売】バイオハザード レクイエム / Resident Evil Requiem ぺこ！【ホロライブ/兎田ぺこら】ネタバレ注意",
+                "video_id": "0Y9mbqOTnvw",
+                "title": "【マリオテニス】Sランクを狙え！！！！！！！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
                 "date": "2026/02/27 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/dZ_Sy85QN0I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkci4g9GqL7OhgYUng4ei0Y9pAmA",
-                "description": "ついにきｔらあああああああああああああああああああああああああああ！！！\n\nサムネイラスト：スコッティさん\n\n⋈ －－－－－－－－－－－－..."
+                "thumbnail": "https://i.ytimg.com/vi/0Y9mbqOTnvw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmVFj6vyPttVm2cXouTN9djQINSw",
+                "description": "いっぞ！！！！！！！！！！！！！！！！！！！！！！！！！！！\n\n配信者さん等に当たってもぺこらだよ～、○○してたよ～などコメントするの..."
             },
             {
-                "video_id": "pvHjvOLwLFI",
-                "title": "【アレジオン】くしゃみ止め隊！兎に角常にわたしON！ぺこ！   【ホロライブ/百鬼あやめ/兎田ぺこら/常闇トワ】",
-                "date": "2026/02/27 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/pvHjvOLwLFI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtNC-cs8w8dAGlo6g5GHjt2S8nyQ",
-                "description": "\" 提供：エスエス製薬株式会社\n\nアレジオン×ホロライブ コラボ企画\n「24時間兎に角常にわたしオン！花粉の季節はアレジオン！」キャンペーン実..."
+                "video_id": "DkCHi2GkjXw",
+                "title": "【同時視聴】新作くるか!?『Pokémon Presents 2026.2.27』みんなで観よう！ぺこ！【ホロライブ/兎田ぺこら】",
+                "date": "2026/02/27 20:45:00",
+                "thumbnail": "https://i.ytimg.com/vi/DkCHi2GkjXw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTT03kr5oOSA_Yvllw4F23LLTgKQ",
+                "description": "本配信はこちら🌟\nhttps://www.youtube.com/watch?v=Czgxqsf4_xk\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora..."
+            },
+            {
+                "video_id": "dZ_Sy85QN0I",
+                "title": "【ついに発売】バイオハザード レクイエム / Resident Evil Requiem ぺこ！【ホロライブ/兎田ぺこら】ネタバレ注意",
+                "date": "2026/03/01 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/dZ_Sy85QN0I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkci4g9GqL7OhgYUng4ei0Y9pAmA",
+                "description": "ついにきｔらあああああああああああああああああああああああああああ！！！\n\nサムネイラスト：スコッティさん\n\n⋈ －－－－－－－－－－－－..."
             }
         ]
     },
