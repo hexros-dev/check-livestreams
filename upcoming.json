@@ -345,15 +345,7 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": [
-            {
-                "video_id": "ST4lPxyOLxQ",
-                "title": "【ラジオ】輪堂千速のニックナイトガレーディオ 番外編【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "date": "2026/02/28 21:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/ST4lPxyOLxQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVcp94fhdidgadlG0_XyZamlh3gQ",
-                "description": "この配信でいただいたスーパーチャットなどは最後にお名前だけお呼びさせていただきます。\n\nBGM：トーマス大森音楽工房\nhttps://youtube.com/@FM_ThomasOo..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -397,15 +389,7 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": [
-            {
-                "video_id": "rAlIOXN8si8",
-                "title": "【メン限】月末定期ASMR 2026.02【白上フブキ/ホロライブ】",
-                "date": "2026/02/28 21:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/rAlIOXN8si8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDIYG938qVmPLNHyvnb1uGdYoTZ1Q",
-                "description": "✨️NEW✨️\n◤　Vivid Stampede!!!! 　◢\n白上フブキ🌽不知火フレア🔥角巻わため🐏尾丸ポルカ🎪\n４人の馬鹿騒ぎガールズバンド楽曲!!!!🎵\n▷配信：..."
-            }
-        ]
+        "videos": []
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -417,7 +401,15 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "TmJGsPZLil4",
+                "title": "【朝活雑談】わんちょむ無事手術成功＆退院しました！＋ゆるゆるホロメントークなど！【白銀ノエル/ホロライブ】",
+                "date": "2026/03/01 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/TmJGsPZLil4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDlX-TGK3pnow5o3t3W0cmBB-gQHg",
+                "description": "💗「イタズラーニャ」MV公開中🐈\nhttps://youtu.be/QjkiIMRW07w\n\n💚新曲「VAVAVA！バーチャル大分」MV公開中🌏\nhttps://youtu.be/k6V5yGjakC8\n\n✥-------------------------..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
