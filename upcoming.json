@@ -152,7 +152,15 @@
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "pROmRP6LFeE",
+                "title": "【案件】ホロメンと荒野いこうや！ころね支店【視聴者参加型あり】",
+                "date": "2026/03/01 16:50:00",
+                "thumbnail": "https://i.ytimg.com/vi/pROmRP6LFeE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQif5RmctBEc7-VnjknXWlPTwuFw",
+                "description": "「荒野行動」ダウンロードはこちら👇\nhttps://knivesout.onelink.me/fi9O/u9l312cy\n\n\n#荒野行動 × #ホロライブ 3月1日からコラボスタート\nガチャ最大50連！ボイ..."
+            }
+        ]
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
@@ -362,15 +370,7 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": [
-            {
-                "video_id": "HgQ8TUBQue0",
-                "title": "REINE PLAYS RESIDENT EVIL REQUIEM AGAIN (SPOILER ALERT)",
-                "date": "2026/03/01 00:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/HgQ8TUBQue0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDM8uJGM2XcohKs7nd8kuxX5WOwKQ",
-                "description": "This video and livestream are being streamed with permission and under license by CAPCOM CO., LTD.\n※Please note that this video contains grotesque language. Minors are not allowed to view..."
-            }
-        ]
+        "videos": []
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -612,6 +612,14 @@
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "9kxjOiQgZhY",
+                "title": "【朝活】花粉やばすぎないか・・・・・？　#結城さくな生放送 #さくもに",
+                "date": "2026/03/01 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/9kxjOiQgZhY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCGXFHSujMxIqS5kvNvICGpIWFz7w",
+                "description": "🎀グッズ・ボイス販売はこちら🐾\nhttps://yuki-sakuna.stores.jp/\n\n🎀歌ってみた動画🐾\nhttps://youtube.com/playlist?list=PLErsMirGq93vRw-CcRaaZfR4QVxl2uBsb&si=BRmEr8erE6aR-UJ..."
+            }
+        ]
     }
 }

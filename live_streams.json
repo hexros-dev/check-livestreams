@@ -130,14 +130,7 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w",
-        "videos": [
-            {
-                "video_id": "ZyteTdYXyig",
-                "title": "Isekat:CrushedbyaComputerMyBelovedKittenisTransportedtoaFantasyWorldwhereitsTypingSkillsSavetheKingd",
-                "thumbnail": "https://i.ytimg.com/vi/ZyteTdYXyig/hqdefault.jpg?v=69a1edfc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFyw5zkV30NJgec2kd3V1NdESx_Q",
-                "description": "【Donasi lokal】Traktir yang pahit-pahit kini sangat EZGGWP!~\nLink: https://sociabuzz.com/kaelakovalskia/tribe\n\n#Kaelaif #KaelaKovalskia #holoID #hololive #hololiveID \n∘₊✧──────..."
-            }
-        ]
+        "videos": []
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
@@ -296,7 +289,14 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "HgQ8TUBQue0",
+                "title": "REINE PLAYS RESIDENT EVIL REQUIEM AGAIN (SPOILER ALERT)",
+                "thumbnail": "https://i.ytimg.com/vi/HgQ8TUBQue0/hqdefault.jpg?v=69a2fe36&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDM8uJGM2XcohKs7nd8kuxX5WOwKQ",
+                "description": "This video and livestream are being streamed with permission and under license by CAPCOM CO., LTD.\n※Please note that this video contains grotesque language. Minors are not allowed to view..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -476,13 +476,6 @@
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": [
-            {
-                "video_id": "Ds6b7EvUea0",
-                "title": "【Minecraft】４んだら即終了ハードコアマイクラ２日目　#結城さくな生放送",
-                "thumbnail": "https://i.ytimg.com/vi/Ds6b7EvUea0/hqdefault.jpg?v=69a2cdc2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSpBhn3KlwlM5kgxPC31BZVJAyGQ",
-                "description": "🎀グッズ・ボイス販売はこちら🐾\nhttps://yuki-sakuna.stores.jp/\n\n🎀歌ってみた動画🐾\nhttps://youtube.com/playlist?list=PLErsMirGq93vRw-CcRaaZfR4QVxl2uBsb&si=BRmEr8erE6aR-UJ..."
-            }
-        ]
+        "videos": []
     }
 }
