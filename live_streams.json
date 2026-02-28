@@ -57,14 +57,7 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": [
-            {
-                "video_id": "khQRCrrtVjA",
-                "title": "≪ReCOLOR 3D LIVE≫ Hakos Baelz Birthday Live 2026 + NEW 3D OUTFIT! #ReCOLOR3D",
-                "thumbnail": "https://i.ytimg.com/vi/khQRCrrtVjA/hqdefault.jpg?v=699c3fd6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbR0vqIiiEQfAtb6TPpg_4Xj7X_w",
-                "description": "DA RAT DID SOME COOKING!\nHakos Baelz 2026 Birthday Extravaganza! \n\nFeaturing:\n....NEW 3D OUTFIT?!\n.... MANY GUESTS!!\n... NEW ORIGINAL SONG?\n\n\n...Get Hyped!!\n««≪ °◇◆◇° ≫ »»\nRequest..."
-            }
-        ]
+        "videos": []
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -282,7 +275,14 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "3fMa3bNGgZI",
+                "title": "【BRUNCH STREAM】I released a new cover!!!!",
+                "thumbnail": "https://i.ytimg.com/vi/3fMa3bNGgZI/hqdefault.jpg?v=69a2656e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDrMb9-BMNFrE8-lCKpN9LosC11ag",
+                "description": "Reine's new original song now 「Yummy Yum Yummy!」AVAILABLE on iTunes, Apple Music, Spotify etc. Click to stream!\nパヴォリア・レイネ新曲「ヤミヤムヤミ」\nhttps://cover.lnk.to/mU..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -355,13 +355,27 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Z5tnfsw04Nw",
+                "title": "【THE WITCHER 3】Witching hours in Japan 🎩🪄 #kfp #キアライブ",
+                "thumbnail": "https://i.ytimg.com/vi/Z5tnfsw04Nw/hqdefault.jpg?v=69a1a3aa&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlU2okmHzO7FefxUupronN4xFjJg",
+                "description": "gwent? https://www.noloadinggames.com/?ref=kiara\n\nCONCERT STREAMING TICKETS: https://drawn-to-dawn.hololivepro.com/ticket\nCONCERT WEBSITE: https://drawn-to-dawn.hololivepro.com/ \n\n🏵️[Twitter]..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "-42zIcXTT_g",
+                "title": "【 METAL GEAR SOLID Δ: SNAKE EATER 】次の強敵ザ・フューリーとは・・・⁉【鷹嶺ルイ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/-42zIcXTT_g/hqdefault.jpg?v=69a1c580&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnOczWfTIbp2aScJDMFrADms3i0w",
+                "description": "久々のメタルギア・・・！楽しみにしてたぞ！\n\n本動画およびライブ配信は、株式会社コナミデジタルエンタテインメントが提供したゲームソフト..."
+            }
+        ]
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
