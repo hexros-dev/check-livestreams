@@ -220,7 +220,14 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "54MJhdogNII",
+                "title": "【 #桃鈴ねね誕生日ライブ2026 】今年もみんなと迎えたい！お誕生日！！！【 桃鈴ねね / hololive 】",
+                "thumbnail": "https://i.ytimg.com/vi/54MJhdogNII/hqdefault.jpg?v=69a4034e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD962QNc39P8rFXuTaxNN3yDeNf3g",
+                "description": "今年こそやってのける、カウントダウンを！！！！！！！！！！！！！！！\n⸜♡⸝MemberShipに入ったらもっとねねを知れるﾖ\nhttps://www.youtube.com/chann..."
+            }
+        ]
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
@@ -409,14 +416,7 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": [
-            {
-                "video_id": "XAJaRqzXT6Q",
-                "title": "＃4【BIOHAZARD RE:2】初見で挑むバイオハザードRE:2【轟はじめ/ReGLOSS】",
-                "thumbnail": "https://i.ytimg.com/vi/XAJaRqzXT6Q/hqdefault.jpg?v=69a2fee1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASXm0qbvBkqh77dqVB30FlidKW9g",
-                "description": "やれんのか自分？\n素敵なサムネお写真：スコッティ様（@Sco_ttie）\n\nバイオハザード０HDリマスター実況はこちら↓\nhttps://www.youtube.com/live/tVVU5SzTU7o?si=..."
-            }
-        ]
+        "videos": []
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
