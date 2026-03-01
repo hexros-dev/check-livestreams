@@ -57,20 +57,20 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": [
-            {
-                "video_id": "mmam7YL-foU",
-                "title": "≪MEMBERS ONLY≫ ello there",
-                "thumbnail": "https://i.ytimg.com/vi/mmam7YL-foU/hqdefault.jpg?v=69a2e60c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-Mf5FkVBqvK7jXrXhoTE4qyp9HQ",
-                "description": "SO MUCH TO YAP ABOUT!\nNEW OUTFIT TALKS, LIVE TALKS, SNAKE EYES TALKS, ALL THE TALKS!\n\nExclusive photo time with my Rat Pack!\n\n#telebae #febaerary  #hololiveenglish \n\n««≪ °◇◆◇° ≫..."
-            }
-        ]
+        "videos": []
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "RgfDKXhh_nM",
+                "title": "【ドラゴンクエストVII Reimagined】クリアまでいくぞ‼DQ7初見！難易度いばらでドラクエ7リイマジンド！ストーリー最終回✨ #9 【博衣こより/ホロライブ】※ネタバレを含みます",
+                "thumbnail": "https://i.ytimg.com/vi/RgfDKXhh_nM/hqdefault.jpg?v=69a2e40b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqfmQZ6ctT2QesPsl8kTTTkDpUBg",
+                "description": "実はドラクエ7だけプレイしておらず初見です！これでドラクエナンバリング全網羅になる！どきどき！敵の強さは「いばら」でやってます！..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -100,7 +100,14 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "qw9voY9R5CM",
+                "title": "【Black Mesa】IM DONE WITH THIS FACILITY MR FREEMAN",
+                "thumbnail": "https://i.ytimg.com/vi/qw9voY9R5CM/hqdefault.jpg?v=69a30389&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPkjHJ4TYjM8NHB9MoL3hR6XO0rQ",
+                "description": "Should be? finale? actually idk\nThis game is being streamed and monetized after confirming with © 2021 Crowbar Collective, LLC.\n\n#hololiveenglish  #ホロライブ \n\nStream my NEW ORIGINAL..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -257,7 +264,14 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "KXcfTUA2EiU",
+                "title": "【#4】ウマ娘 プリティーダービーやるしゅばああああああああああああああああああああああああああああああ！！！！！！！！：Umamusume: Pretty Derby【ホロライブ/大空スバル】",
+                "thumbnail": "https://i.ytimg.com/vi/KXcfTUA2EiU/hqdefault.jpg?v=69a1dbbb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQQFGDncGTAPaqhjIYRlNq6Bbt0Q",
+                "description": "本ゲームは株式会社Cygamesの配信ガイドラインに則って配信・収益化を行なっております。\nhttps://umamusume.jp/news/detail.php?id=107\n\n🐣おやくそく/Rule🐣..."
+            }
+        ]
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -329,14 +343,7 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": [
-            {
-                "video_id": "TmJGsPZLil4",
-                "title": "【朝活雑談】わんちょむ無事手術成功＆退院しました！＋ゆるゆるホロメントークなど！【白銀ノエル/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/TmJGsPZLil4/hqdefault.jpg?v=69a2ee7c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDlX-TGK3pnow5o3t3W0cmBB-gQHg",
-                "description": "💗「イタズラーニャ」MV公開中🐈\nhttps://youtu.be/QjkiIMRW07w\n\n💚新曲「VAVAVA！バーチャル大分」MV公開中🌏\nhttps://youtu.be/k6V5yGjakC8\n\n✥-------------------------..."
-            }
-        ]
+        "videos": []
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -373,7 +380,14 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "GOfc_uYyqK0",
+                "title": "【ネタバレあり】ゼルダ無双 封印戦記～６～【ホロライブ/ときのそら】",
+                "thumbnail": "https://i.ytimg.com/vi/GOfc_uYyqK0/hqdefault.jpg?v=69a39d3b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCfOmn_x3WyBIVFd_zR4JcFuz4gQ",
+                "description": "今日で終わるかはわからないけど、それなりに進むとは思う！！\n楽しもう♪\n\n本ゲームはコーエーテクモゲームスの確認を得た上で配信を行なっ..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
@@ -457,14 +471,7 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": [
-            {
-                "video_id": "mWpbcgmu31I",
-                "title": "【Resident Evil Requiem】 Nurse Nimi Vs. New Resident Evil Game!!",
-                "thumbnail": "https://i.ytimg.com/vi/mWpbcgmu31I/hqdefault.jpg?v=69a35602&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAOipXlv0GNHmaAc305TCCFg4juMg",
-                "description": "YIPPEE NEW RESIDENT EVIL\n\nMerch: https://ohmonah.shop/collections/nimi-nightmare\n\n  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋\n\nKonbakuwa! I'm Nimi, the baku nurse VTuber of your nightmares~..."
-            }
-        ]
+        "videos": []
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
@@ -476,13 +483,6 @@
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": [
-            {
-                "video_id": "9kxjOiQgZhY",
-                "title": "【朝活】花粉やばすぎないか・・・・・？　#結城さくな生放送 #さくもに",
-                "thumbnail": "https://i.ytimg.com/vi/9kxjOiQgZhY/hqdefault.jpg?v=69a322ec&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCGXFHSujMxIqS5kvNvICGpIWFz7w",
-                "description": "🎀グッズ・ボイス販売はこちら🐾\nhttps://yuki-sakuna.stores.jp/\n\n🎀歌ってみた動画🐾\nhttps://youtube.com/playlist?list=PLErsMirGq93vRw-CcRaaZfR4QVxl2uBsb&si=BRmEr8erE6aR-UJ..."
-            }
-        ]
+        "videos": []
     }
 }
