@@ -165,14 +165,7 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": [
-            {
-                "video_id": "-hR5hGYhlVg",
-                "title": "【龍が如く極2】完全初見❕帰ってきたぞこの街に…！！※ネタバレあり【水宮枢／ホロライブDEV_IS】",
-                "thumbnail": "https://i.ytimg.com/vi/-hR5hGYhlVg/hqdefault.jpg?v=69a497cd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2Gnnl0kv0mVsjT2kMnCEX2uA3rA",
-                "description": "この動画およびライブは、コンテンツ利用許諾契約に基づいて配信しています。\n©SEGA\n▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸◂┄▹◃\n\n💙メンバーシ..."
-            }
-        ]
+        "videos": []
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -268,7 +261,14 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "dVtYoAbXk3g",
+                "title": "REINE PLAYS RESIDENT EVIL REQUIEM AGAIN TONIGHT (SPOILER ALERT)",
+                "thumbnail": "https://i.ytimg.com/vi/dVtYoAbXk3g/hqdefault.jpg?v=69a5a76b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCLr8_t1eV_T75bsX8xokRk8ezxEQ",
+                "description": "This video and livestream are being streamed with permission and under license by CAPCOM CO., LTD.\n※Please note that this video contains grotesque language. Minors are not allowed to view..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",

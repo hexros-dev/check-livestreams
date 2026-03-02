@@ -348,21 +348,21 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": [
-            {
-                "video_id": "dVtYoAbXk3g",
-                "title": "REINE PLAYS RESIDENT EVIL REQUIEM AGAIN TONIGHT (SPOILER ALERT)",
-                "date": "2026/03/03 00:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/dVtYoAbXk3g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCLr8_t1eV_T75bsX8xokRk8ezxEQ",
-                "description": "This video and livestream are being streamed with permission and under license by CAPCOM CO., LTD.\n※Please note that this video contains grotesque language. Minors are not allowed to view..."
-            }
-        ]
+        "videos": []
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ESfJ2-vgif8",
+                "title": "【DARK SOULS REMASTERED】#5 いざアノールロンドへ！！！！！！！！※ネタバレ注意【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "date": "2026/03/03 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ESfJ2-vgif8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDR36XztVUhphVPdgj_GxdGwRmMqQ",
+                "description": "5年ぶり…？のダクソいくぞ！！！！！！！！\nたぶんほぼ初見と同じです！！！！！\n\n本ゲームは株式会社フロム・ソフトウェアに確認を得た上、..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -387,6 +387,13 @@
                 "date": "2026/03/05 19:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/B3OxuRMofcM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbTVet-U4dvqQuMfpPJwUCCULfqg",
                 "description": "編集中！\n\n⪩⪨　お知らせ/ɪɴғᴏ\n￣￣￣￣￣￣￣￣￣￣￣￣￣\n　🌸さくらみこ1st Live \"flower fantasista!\" \n　　  Blu-ray 受注受付開始🎉予約 6/2まで✅..."
+            },
+            {
+                "video_id": "qcE7wpVRhG8",
+                "title": "【#そらみこ】おしえて！そら先生✨そらみこ数学教室‼ そら先生に教わるにぇ～～～～～‼【ホロライブ/さくらみこ/ときのそら】",
+                "date": "2026/03/03 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/qcE7wpVRhG8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzU8EmOCPKycXU1xI7yy1bKLuFtA",
+                "description": "そら先生🐻💿@TokinoSora \n\n⪩⪨　お知らせ/ɪɴғᴏ\n￣￣￣￣￣￣￣￣￣￣￣￣￣\n　🌸さくらみこ1st Live \"flower fantasista!\" \n　　  Blu-ray 受注受付開始🎉..."
             },
             {
                 "video_id": "w4dgql_5Rzk",
@@ -467,7 +474,15 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "GGTJO0oYvNA",
+                "title": "【 Pokémon LEGENDS Z-A 】これが本当の最終回！ポケモン交換しよう！！！【角巻わため/ホロライブ４期生】",
+                "date": "2026/03/03 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/GGTJO0oYvNA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYzQG1rhujlbXAl_dIxh7CjzypOw",
+                "description": "長い旅路で出会ったポケモンたちをfor you...\nタグ：#ドドドライブ \n\n配信タイトル：Pokémon LEGENDS Z-A\nストアページ：https://store-jp.nintendo.com/item/software/..."
+            }
+        ]
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -560,6 +575,13 @@
                 "date": "2026/03/05 18:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/DP9yK-VTEaA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBP0Kgv4eggvaU8taSXXdVzii7l0g",
                 "description": "19~22話最後まで視聴予定！ガンダムめっちゃ好きになってしまった\n\nサムネイラスト：みなづき。【お仕事募集中】さん\n\n⋈ －－－－－－－－－－..."
+            },
+            {
+                "video_id": "U3RTcrTgQv4",
+                "title": "#3【ついに発売】バイオハザード レクイエム / Resident Evil Requiem ぺこ！【ホロライブ/兎田ぺこら】ネタバレ注意",
+                "date": "2026/03/03 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/U3RTcrTgQv4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChbSPNbQ2qqVs7Hq_-hA3vRWH3Ig",
+                "description": "ラクーンシティきｔらああああああああああああああああああああああ！！！\n\nサムネイラスト：スコッティさん\n\n⋈ －－－－－－－－－－－－－..."
             }
         ]
     },
