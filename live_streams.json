@@ -147,20 +147,20 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Jm23DacTvow",
+                "title": "【Five Nights at Freddy's 2 OFF COLLAB】We heard there's a hot chick. WITH @holoen_gigimurin",
+                "thumbnail": "https://i.ytimg.com/vi/Jm23DacTvow/hqdefault.jpg?v=69a3a67e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDptC6KG84v2Y7Xq2tBdrB0UN7ebg",
+                "description": "Thumbnail Art:@keenbiscuit THANK YOU!\nhttps://x.com/keenbiscuit/status/1982978199362367861/photo/1\n\nThis game is being streamed and monetized after confirming with the rights holder.\n==============..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
-        "videos": [
-            {
-                "video_id": "_xSTPYIGdbs",
-                "title": "【#DistrictV】 Part 6: CAR SHOWCASE EVENT!! 【Kureiji Ollie】",
-                "thumbnail": "https://i.ytimg.com/vi/_xSTPYIGdbs/hqdefault.jpg?v=69a46b06&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGofqoo7cXOvjFSrgXSJek4qlF3A",
-                "description": "❥・・───༅༚˳ . ୨୧ . ˳༚༅༚─── ・・❥\n\n#OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n────୨｡ ₊°༺❤︎༻°₊ ｡ৎ────\n\n Watch my..."
-            }
-        ]
+        "videos": []
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
@@ -233,14 +233,7 @@
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
         "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ",
-        "videos": [
-            {
-                "video_id": "ccPhJehepsc",
-                "title": "Ope! It's EXPO week! | Members-Only",
-                "thumbnail": "https://i.ytimg.com/vi/ccPhJehepsc/hqdefault.jpg?v=69a3f865&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQNgTVb4nBCIl0hAIUyPXBZV59CA",
-                "description": "∴∴🎶*┈┈┈┈┈┈┈┈┈┈┈┈┈*🎶∴∴\n\n🐦‍⬛twitter: https://twitter.com/nerissa_en\n🐦‍⬛spotify: https://open.spotify.com/artist/4uzAnzFMXarRPOBAG2lIIa\n🐦‍⬛..."
-            }
-        ]
+        "videos": []
     },
     "@NinomaeInanis": {
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
@@ -294,7 +287,14 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "lHPc7cc3lK8",
+                "title": "【ホロのスイカ】昼活☀ちょこ先生よりスイカ育てられるかなチャレンジ【ホロライブ/ ロボ子さん 】",
+                "thumbnail": "https://i.ytimg.com/vi/lHPc7cc3lK8/hqdefault.jpg?v=69a4e158&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAGtMjWtsbNlwIFB5eNwvHS8FcH5Q",
+                "description": "＃ホロライブ 　\nｘでは💬　 #ロボ子生放送　でポストしてってね\n\"本ゲームはTKGamesに確認の上配信・収益化を行なっております。\nhttps://tkgames.jp/h..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -450,14 +450,7 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": [
-            {
-                "video_id": "T1bW6jO09Vk",
-                "title": "【DOTA 2】 The road to immortal starts with a single win WITH @grapechann",
-                "thumbnail": "https://i.ytimg.com/vi/T1bW6jO09Vk/hqdefault.jpg?v=69a49e92&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkStYkk2WYKZOxZCiYgMDWHdA_XQ",
-                "description": "sweaty sunday!!\n\nMerch: https://ohmonah.shop/collections/nimi-nightmare\n\n  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋\n\nKonbakuwa! I'm Nimi, the baku nurse VTuber of your nightmares~\n#VTuber #nimi..."
-            }
-        ]
+        "videos": []
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
