@@ -359,7 +359,15 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "6GZ5XGzRY-g",
+                "title": "【Schedule & Chat】Weekly Kroniicles ⏳",
+                "date": "2026/03/15 05:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/6GZ5XGzRY-g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJ9HiSdS8ubUJJOxWc6l6O0XkV-A",
+                "description": "「蒼天に燃ゆ / Souten ni Moyu」\nStreaming: https://cover.lnk.to/xNwoVN\n\n[Twitter]\nhttps://twitter.com/ourokronii\n\n[Thumbnail Art]\nhttps://x.com/Da_MOONG_50\n\n---------------------------------..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
