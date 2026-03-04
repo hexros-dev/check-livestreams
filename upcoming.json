@@ -117,15 +117,7 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": [
-            {
-                "video_id": "31LwFVCrMxA",
-                "title": "【3D KARAOKE / 3D歌枠】Self Booth 3D Pre-BDay Karaoke with A BIG ANNOUNCEMENT! ☆彡重大告知あり！",
-                "date": "2026/03/04 11:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/31LwFVCrMxA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLOCp7HVvcGweNO0QAM3-6lZJJ1A",
-                "description": "提供：XING INC.\n※JOYSOUND音源を使用しているため、本動画のカラオケ音源利用部分の切り抜き・転載はご遠慮ください。\n\n#hololiveenglish    #ホロライブ..."
-            }
-        ]
+        "videos": []
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -213,7 +205,15 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "yxaHAfAFkEo",
+                "title": "【FF10】初めてのファイナルファンタジー💙完全初見 :ネタバレあり【水宮枢／ホロライブDEV_IS】",
+                "date": "2026/03/04 20:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/yxaHAfAFkEo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxsMbWIPMmLvTbPtMXYLcleLWCgA",
+                "description": "本動画のゲームプレイ映像は、株式会社スクウェア・エニックスの許諾を受けて使用しています。\n© 2001, 2003, 2019 SQUARE ENIX CO., LTD. All Rights Reserved...."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -554,7 +554,15 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "L0JXOu1AUt4",
+                "title": "【Pokémon Pokopia】I HAVE BORN FOR THIS GAME!",
+                "date": "2026/03/05 07:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/L0JXOu1AUt4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDe8s01GKeU54j6Xu0TjaVfemmcKw",
+                "description": "💝 Sweet-but-Deadly Valentine's Merch is out now!!! 💝\nーーーーーーーーー\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/raorapanthera_sweetbutdeadlyval..."
+            }
+        ]
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",

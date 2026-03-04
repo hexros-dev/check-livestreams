@@ -93,7 +93,14 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "31LwFVCrMxA",
+                "title": "【3D KARAOKE / 3D歌枠】Self Booth 3D Pre-BDay Karaoke with A BIG ANNOUNCEMENT! ☆彡重大告知あり！",
+                "thumbnail": "https://i.ytimg.com/vi/31LwFVCrMxA/hqdefault.jpg?v=69a0665e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLOCp7HVvcGweNO0QAM3-6lZJJ1A",
+                "description": "提供：XING INC.\n※JOYSOUND音源を使用しているため、本動画のカラオケ音源利用部分の切り抜き・転載はご遠慮ください。\n\n#hololiveenglish    #ホロライブ..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
