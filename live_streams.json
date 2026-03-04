@@ -129,7 +129,14 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "LaBplP-8feA",
+                "title": "【 スーパーマリオブラザーズ3 】完全初見！人生初スーパーマリオブラザーズ3！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "thumbnail": "https://i.ytimg.com/vi/LaBplP-8feA/hqdefault.jpg?v=69a745e7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_DC6ECSozmwjigHm12VaBObCpuA",
+                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\nサムネイルの素敵なイラスト　ちゃぼさん　https://x.com/x_xhauntedx_x?s=..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -273,14 +280,7 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
-        "videos": [
-            {
-                "video_id": "5KwEcnH7zbs",
-                "title": "【雑談】FES＆EXPOが近づいてるけどみんな準備はできてる！？雑談【ホロライブ/ ロボ子さん 】",
-                "thumbnail": "https://i.ytimg.com/vi/5KwEcnH7zbs/hqdefault.jpg?v=69a7d478&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDc4GNv0B4QP6jRuJRl3hU18S-ESw",
-                "description": "＃ホロライブ 　\nｘでは💬　 #ロボ子生放送　でポストしてってね\n\n\n【歌枠用コピペ】\n\n💜⚡💜⚡💜⚡💜⚡💜⚡\n💗⚡💗⚡💗⚡💗⚡💗⚡..."
-            }
-        ]
+        "videos": []
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -340,7 +340,14 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "yLDl6KbM5ts",
+                "title": "【日本事故物件監視協会２(JSP2) 】1回やったんだから1人でも余裕だよね？【鷹嶺ルイ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/yLDl6KbM5ts/hqdefault.jpg?v=69a7a577&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkbqFkkGH3kNX5i_gt6oBJUzm54g",
+                "description": "きっと1回やったから大丈夫。\n\n配信タイトル：日本事故物件監視協会2 -Japan Stigmatized Property-\nストアページ：https://store.steampowered.com/app/4193270/2_Japan_S..."
+            }
+        ]
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",

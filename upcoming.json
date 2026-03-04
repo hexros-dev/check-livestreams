@@ -177,15 +177,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": [
-            {
-                "video_id": "LaBplP-8feA",
-                "title": "【 スーパーマリオブラザーズ3 】完全初見！人生初スーパーマリオブラザーズ3！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "date": "2026/03/04 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/LaBplP-8feA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_DC6ECSozmwjigHm12VaBObCpuA",
-                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\nサムネイルの素敵なイラスト　ちゃぼさん　https://x.com/x_xhauntedx_x?s=..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -465,7 +457,15 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "HVXpBDt4TAE",
+                "title": "#06【仁王2】秀吉爆誕！！！！！脳筋女騎士の新たな旅！【白銀ノエル/ホロライブ】",
+                "date": "2026/03/04 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/HVXpBDt4TAE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJAWm_3-MBXlEV4qb0Ic42OVGw1w",
+                "description": "前作の仁王はクリア済！仁王3に向けて仁王2を遊んでいく！\n前作の再生リスト→ https://youtube.com/playlist?list=PLsAgfBTGY4i2teU7n3Xu7h5XeNziMg-ZM&si=ZGWz2fRBdDbu46H8..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -491,15 +491,7 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": [
-            {
-                "video_id": "yLDl6KbM5ts",
-                "title": "【日本事故物件監視協会２(JSP2) 】1回やったんだから1人でも余裕だよね？【鷹嶺ルイ/ホロライブ】",
-                "date": "2026/03/04 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/yLDl6KbM5ts/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkbqFkkGH3kNX5i_gt6oBJUzm54g",
-                "description": "きっと1回やったから大丈夫。\n\n配信タイトル：日本事故物件監視協会2 -Japan Stigmatized Property-\nストアページ：https://store.steampowered.com/app/4193270/2_Japan_S..."
-            }
-        ]
+        "videos": []
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
