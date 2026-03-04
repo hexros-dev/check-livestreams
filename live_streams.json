@@ -183,14 +183,7 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": [
-            {
-                "video_id": "OM5vwjTjFTM",
-                "title": "【Resident Evil Requiem】the evil that is resident (part 2) SPOILERS #calliolive",
-                "thumbnail": "https://i.ytimg.com/vi/OM5vwjTjFTM/hqdefault.jpg?v=69a69e11&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfrzaI-HzEKrHy4-aHYTQU3DabQQ",
-                "description": "DISASTERPIECE New Album ON Sale!\nStreaming: https://lnk.to/mc_dsp\nCD and Merch: https://lnk.to/mc_dp_ec\n\nLINE Stickers: https://line.me/S/sticker/32114569\n\nThis video and livestream are being..."
-            }
-        ]
+        "videos": []
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -280,7 +273,14 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "5KwEcnH7zbs",
+                "title": "【雑談】FES＆EXPOが近づいてるけどみんな準備はできてる！？雑談【ホロライブ/ ロボ子さん 】",
+                "thumbnail": "https://i.ytimg.com/vi/5KwEcnH7zbs/hqdefault.jpg?v=69a7d478&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDc4GNv0B4QP6jRuJRl3hU18S-ESw",
+                "description": "＃ホロライブ 　\nｘでは💬　 #ロボ子生放送　でポストしてってね\n\n\n【歌枠用コピペ】\n\n💜⚡💜⚡💜⚡💜⚡💜⚡\n💗⚡💗⚡💗⚡💗⚡💗⚡..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
