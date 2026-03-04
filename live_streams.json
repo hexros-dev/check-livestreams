@@ -119,19 +119,40 @@
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Z-92jCgBZEs",
+                "title": "おひさしR.E.P.O",
+                "thumbnail": "https://i.ytimg.com/vi/Z-92jCgBZEs/hqdefault.jpg?v=69a81ac7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2YNUP-uds_gwKTDFXMSBGKmtNzg",
+                "description": "Play Game : R.E.P.O ( steam )\nタグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nころねTwitter▶https://twitter.com/inugamikorone..."
+            }
+        ]
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "V6pNZoisP70",
+                "title": "【メンバーシップ配信】メン限！フェス前にメンバーさんとゆっくり話したい！【ホロライブ DEV_IS 響咲リオナ】",
+                "thumbnail": "https://i.ytimg.com/vi/V6pNZoisP70/hqdefault.jpg?v=69a82aa4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAk3g6OVLLgnU1jGBtHzXT44tL8Hw",
+                "description": "サムネイラスト　haidolloさん (@ haidollo)にお借りしました！ありがとうございます✨\n\n\n∴∵∴ ୨୧ ∴∵∴ ୨୧ ∴∵∴ ୨୧ ∴∵∴∴∵∴ ୨୧..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "fKPsCch3nII",
+                "title": "【スパチャ読み】その①生誕のときのスパチャ読み！【儒烏風亭らでん #ReGLOSS 】",
+                "thumbnail": "https://i.ytimg.com/vi/fKPsCch3nII/hqdefault.jpg?v=69a82a5f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCGc7LrpVBrC_I0R_HTmf61JENiJw",
+                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\n\n▼儒烏風亭らでんソロ曲「落噺」楽曲配信（..."
+            }
+        ]
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -143,14 +164,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": [
-            {
-                "video_id": "LaBplP-8feA",
-                "title": "【 スーパーマリオブラザーズ3 】完全初見！人生初スーパーマリオブラザーズ3！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "thumbnail": "https://i.ytimg.com/vi/LaBplP-8feA/hqdefault.jpg?v=69a745e7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_DC6ECSozmwjigHm12VaBObCpuA",
-                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\nサムネイルの素敵なイラスト　ちゃぼさん　https://x.com/x_xhauntedx_x?s=..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -186,7 +200,14 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "yxaHAfAFkEo",
+                "title": "【FF10】初めてのファイナルファンタジー💙完全初見 :ネタバレあり【水宮枢／ホロライブDEV_IS】",
+                "thumbnail": "https://i.ytimg.com/vi/yxaHAfAFkEo/hqdefault.jpg?v=69a7bcda&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxsMbWIPMmLvTbPtMXYLcleLWCgA",
+                "description": "本動画のゲームプレイ映像は、株式会社スクウェア・エニックスの許諾を受けて使用しています。\n© 2001, 2003, 2019 SQUARE ENIX CO., LTD. All Rights Reserved...."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -241,14 +262,7 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
-        "videos": [
-            {
-                "video_id": "dr3HSpeHSEo",
-                "title": "【 🟢ポケモン/エメラルド 】人生縛りでエメラルドｵｵｵｵｵッ🔥✦ #09【 猫又おかゆ/ホロライブ 】",
-                "thumbnail": "https://i.ytimg.com/vi/dr3HSpeHSEo/hqdefault.jpg?v=69a734fa&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFJ2At4hrOqimuig-Ch72j6vGR1Q",
-                "description": "✅ルール\n・HPが0になったポケモンはボックスに移動させて使用できない❕\n・離脱したポケモンと同じ種類のポケモンは、再度捕まえても使用でき..."
-            }
-        ]
+        "videos": []
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -278,13 +292,27 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "zenEFuveHbw",
+                "title": "【#6】スーパーマリオワールドやるしゅばああああああああああああああああああああああああああああああああ！！！！！！！：Super Mario World【ホロライブ/大空スバル】",
+                "thumbnail": "https://i.ytimg.com/vi/zenEFuveHbw/hqdefault.jpg?v=69a6fcfb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBquihq6l6ngLsej79TICeoQd5t0A",
+                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントする..."
+            }
+        ]
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "fO2ejfMaS4Q",
+                "title": "【 縦型歌枠 】REC帰りののんびり歌枠【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+                "thumbnail": "https://i.ytimg.com/vi/fO2ejfMaS4Q/hqdefault.jpg?v=69a82048&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBpH0VUTBYw2Iiw7Jj_O29P6nfcw",
+                "description": "▽音乃瀬奏 77万人記念グッズ▽\n1月13日　21:30より販売開始！\nhttps://shop.hololivepro.com/products/otonosekanade_subscribers_770k\n\n▽✨重大告知✨ ▽\n音乃瀬奏..."
+            }
+        ]
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
@@ -358,26 +386,33 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "6bN_tKi_wzQ",
+                "title": "【Fes前装備チェック】エルフレの装備を見～せて！【不知火フレア/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/6bN_tKi_wzQ/hqdefault.jpg?v=69a80eae&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYqquSwNeJZQAUngdvoC21PL5aYA",
+                "description": "■New「Fun fair」MV公開✨\nhttps://www.youtube.com/watch?v=FdKux6g4HJ4\n\n━━━━━━━━━━━━━━━━━━━━━━━\n■Newシングル「架空と本当」MV公開中..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "HVXpBDt4TAE",
+                "title": "#06【仁王2】秀吉爆誕！！！！！脳筋女騎士の新たな旅！【白銀ノエル/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/HVXpBDt4TAE/hqdefault.jpg?v=69a7f510&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJAWm_3-MBXlEV4qb0Ic42OVGw1w",
+                "description": "前作の仁王はクリア済！仁王3に向けて仁王2を遊んでいく！\n前作の再生リスト→ https://youtube.com/playlist?list=PLsAgfBTGY4i2teU7n3Xu7h5XeNziMg-ZM&si=ZGWz2fRBdDbu46H8..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": [
-            {
-                "video_id": "4FsMJPlUGNg",
-                "title": "【バイオハザード レクイエム ＃03 】生者に恐怖を。屍者に鎮魂（レクイエム）を。ししろんに銃を ――。⚠️ネタバレ注意【獅白ぼたん/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/4FsMJPlUGNg/hqdefault.jpg?v=69a700e9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBkRvuTMCgF9f3-JrT9_0KgcOQzQ",
-                "description": "いくぞおおおおおお\n1回目→ https://www.youtube.com/watch?v=itw32TAjXSU\n2回目→https://www.youtube.com/watch?v=MRlfL9gdNlk\n3回目（ラスト）はここ\n\nこの動画およびライ..."
-            }
-        ]
+        "videos": []
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
@@ -401,7 +436,14 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "MSMWL_WUFqw",
+                "title": "【Vampire Survivors】ちょこっとだけ・・・少しだけだから・・・！【ホロライブ/ときのそら】",
+                "thumbnail": "https://i.ytimg.com/vi/MSMWL_WUFqw/hqdefault.jpg?v=69a8286d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqXuV_h4Nn6MaNLsA8_2QiVF6k1Q",
+                "description": "遊ばせて・・・！！\n\n本ゲームはponcleに確認の上配信・収益化を行なっております\n★★★★★★★★★★★★★★★★★★★★★★\n\n2026年1月10日(..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
