@@ -392,7 +392,15 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "9MJe79tQi3o",
+                "title": "【雑談/CHAT】EXPOまえにはなそう！！！！！！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "date": "2026/03/05 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/9MJe79tQi3o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4A9zHepFXAR4H5yeLr346dhMg-A",
+                "description": "🎧ニックの日記念グッズ販売開始！\n\n🔗https://shop.hololivepro.com/products/rindochihaya_nicdaymerch\n\n🔵深井涼介先生描き下ろし\n「ラバーマット&カードスリー..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -490,7 +498,22 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "NSKv84Uq_vs",
+                "title": "【SUPPORT CHAT】wawa on stage warming up for drawn to dawn lol jk #kfp #キアライブ",
+                "date": "2026/03/08 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/NSKv84Uq_vs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDIlCjVAuJjpKunYWMvx4UyGj9ajg",
+                "description": "CONCERT STREAMING TICKETS: https://drawn-to-dawn.hololivepro.com/ticket\nCONCERT WEBSITE: https://drawn-to-dawn.hololivepro.com/ \n\n🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara..."
+            },
+            {
+                "video_id": "XX3toTL6ihs",
+                "title": "【PRE STAGE 2】KARAOKE with maybe supportive jumpscares #kfp #キアライブ  (archived)",
+                "date": "2026/03/06 19:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/XX3toTL6ihs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBs_NqoHDLu0l7xX9z3IjSCphcK4A",
+                "description": "CONCERT STREAMING TICKETS: https://drawn-to-dawn.hololivepro.com/ticket\nCONCERT WEBSITE: https://drawn-to-dawn.hololivepro.com/ \n\n🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
