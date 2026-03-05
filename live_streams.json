@@ -63,14 +63,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "YZlJMQTXHEU",
-                "title": "【ぽこ あ ポケモン】０時から最速プレイ！！！楽しみすぎる遊ばせてください！！！！！【博衣こより/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/YZlJMQTXHEU/hqdefault.jpg?v=69a6feb1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAG7_lgi2GLJyh75e5DPUE6AsZ8xw",
-                "description": "ぽこ あ ポケモンの世界に住みたい。fesEXPOはじまる前のギリギリの今日遊ばせてください！！！！！！！！\n💗もふこよ＆こより達のLINE絵文字新..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -118,7 +111,14 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "0B6-vBHx9P4",
+                "title": "【定期配信＃２３】木曜のお昼の１２時はリオナとランチ❤【ホロライブ DEV_IS 響咲リオナ】#リオナとランチ",
+                "thumbnail": "https://i.ytimg.com/vi/0B6-vBHx9P4/hqdefault.jpg?v=69a8681f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8PuG3_8ZJDVw815tmSN-1kuekIA",
+                "description": "♡...本日のスパーチャットはお名前読み上げのみになります！！\n\nサムネイラスト　あやめなこさん @ joumoku\nサムネロゴ　ロオウズさん @ roooose25..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -226,27 +226,13 @@
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
         "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ",
-        "videos": [
-            {
-                "video_id": "Co_SBrM-oK0",
-                "title": "BIG NEWS! + Answering YOUR questions! | Fan Q&A",
-                "thumbnail": "https://i.ytimg.com/vi/Co_SBrM-oK0/hqdefault.jpg?v=69a5008e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1bnk4CYMAae5oA2paAJs9jzZ3Ow",
-                "description": "∴∴🎶*┈┈┈┈┈┈┈┈┈┈┈┈┈*🎶∴∴\n\n🐦‍⬛twitter: https://x.com/nerissa_en\n🐦‍⬛spotify: https://open.spotify.com/artist/4uzAnzFMXarRPOBAG2lIIa\n🐦‍⬛insta:..."
-            }
-        ]
+        "videos": []
     },
     "@NinomaeInanis": {
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": [
-            {
-                "video_id": "oi2JZeAD1Jk",
-                "title": "【CHAT】Pre-FES Chatting!!!!!",
-                "thumbnail": "https://i.ytimg.com/vi/oi2JZeAD1Jk/hqdefault.jpg?v=69a8bbdc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzCn4yDUFRTPoW8QYmEHy9EJvkSQ",
-                "description": "【Thumbnail Art】\n\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\n__________________________________________________________________________________________\n\nEndcard Art by Me!\nEndcard..."
-            }
-        ]
+        "videos": []
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -282,7 +268,14 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "YUdmPHEXeNw",
+                "title": "【Members Only】doing homework while mchan watches me (help)",
+                "thumbnail": "https://i.ytimg.com/vi/YUdmPHEXeNw/hqdefault.jpg?v=69a8e7f5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAM_nZzZfXW_XuzlJ4MQ3mFW8msIw",
+                "description": "Reine's new original song now 「Yummy Yum Yummy!」AVAILABLE on iTunes, Apple Music, Spotify etc. Click to stream!\nパヴォリア・レイネ新曲「ヤミヤムヤミ」\nhttps://cover.lnk.to/mU..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -439,14 +432,7 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": [
-            {
-                "video_id": "L0JXOu1AUt4",
-                "title": "【Pokémon Pokopia】I WAS BORN FOR THIS GAME!",
-                "thumbnail": "https://i.ytimg.com/vi/L0JXOu1AUt4/hqdefault.jpg?v=69a7aa31&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDe8s01GKeU54j6Xu0TjaVfemmcKw",
-                "description": "💝 Sweet-but-Deadly Valentine's Merch is out now!!! 💝\nーーーーーーーーー\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/raorapanthera_sweetbutdeadlyval..."
-            }
-        ]
+        "videos": []
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
@@ -464,14 +450,7 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": [
-            {
-                "video_id": "R4GVbmTgbGo",
-                "title": "【Resident Evil Requiem】 These residents are evil for real | #3",
-                "thumbnail": "https://i.ytimg.com/vi/R4GVbmTgbGo/hqdefault.jpg?v=69a8a1b9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDC9SSeda44VcvnyldD3TkeARjsuw",
-                "description": "But not me. I'm a good resident.\n\n☁  Thumbnail Art  ☁\nhttps://x.com/yodogama/status/2024986670836097161\nThank you so much!!\n\nMerch: https://ohmonah.shop/collections/nimi-nightmare\n\n  ‧₊..."
-            }
-        ]
+        "videos": []
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
