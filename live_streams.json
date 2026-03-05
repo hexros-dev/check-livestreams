@@ -63,20 +63,20 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "bcfhrZRSzUY",
+                "title": "【推し活装備】fesEXPO直前‼みんなの推し活装備紹介しつつ気合い入れるよ～！(ᐡ-᷅ ·̫ -᷄ᐡ)✨【博衣こより/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/bcfhrZRSzUY/hqdefault.jpg?v=69a98925&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC27Mt4xs80KNnzknMVzhjdFgVhwQ",
+                "description": "遂に明日からは #hololivefesEXPO26 ❣こよは3/6(金)18:30～のSTAGE1に出演します！EXPOも色々参戦してるよー❣３日間一緒に楽しもうっ🥰\n💗もふこよ＆こ..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": [
-            {
-                "video_id": "-p6X4R7n_fg",
-                "title": "【 俺の料理｜PS版 】こりは⋯一体どんなゲームなのら？！PS1のレトロゲームで遊ぶのら！！！【姫森ルーナ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/-p6X4R7n_fg/hqdefault.jpg?v=69a85add&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUfqNRDgV4zE4n1PI6Nu7pxmZ7UQ",
-                "description": "サムネイラスト\n　水宝乃みりりさん　https://twitter.com/miho_miri\n\n俺の料理再生リスト\nhttps://www.youtube.com/playlist?list=PL6gUpTCMieF6ev63K_yeX8kCruFYeuwfu\n\n俺の料理..."
-            }
-        ]
+        "videos": []
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -130,14 +130,7 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w",
-        "videos": [
-            {
-                "video_id": "i2O3IGcKGO0",
-                "title": "【Phasmophobia】if we guess the ghost wrong, the stream ends.【with Kaeluarga】",
-                "thumbnail": "https://i.ytimg.com/vi/i2O3IGcKGO0/hqdefault.jpg?v=69a8961e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDG8XJfr-2iedaUMWOX-tvn-bqqfg",
-                "description": "【Donasi lokal】Traktir yang pahit-pahit kini sangat EZGGWP!~\nLink: https://sociabuzz.com/kaelakovalskia/tribe\n\n#Kaelaif #KaelaKovalskia #holoID #hololive #hololiveID \n∘₊✧──────..."
-            }
-        ]
+        "videos": []
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
@@ -185,7 +178,14 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "FXMBk99dkIU",
+                "title": "【 雑談 】#ねねちみてみて をみてみてする【 桃鈴ねね / hololive 】",
+                "thumbnail": "https://i.ytimg.com/vi/FXMBk99dkIU/hqdefault.jpg?v=69a98f7f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCqffP60cwuXzu3gxmYxzNs0wc_Kg",
+                "description": "スーパーゲリラ！\n⸜♡⸝MemberShipに入ったらもっとねねを知れるﾖ\nhttps://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA/join\n\n⸜♡⸝各音楽サイトにてオリジ..."
+            }
+        ]
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
@@ -396,7 +396,14 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "nW_Z5BRPQyE",
+                "title": "【hololive 7th fes. Ridin' on Dreams】前日だ～！！！みんな楽しんでいこう！！【雪花ラミィ /ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/nW_Z5BRPQyE/hqdefault.jpg?v=69a989f9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBX3oLrv_dKAm_zKzfBk35--daP-g",
+                "description": "復刻グッズ\n販売期間　2/26（木）22:00～3/30（月）18:00\n販売URL　https://shop.hololivepro.com/products/yukihanalamy_rereleasededitionmerch\n\n【所属会社からのお知らせ】..."
+            }
+        ]
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
