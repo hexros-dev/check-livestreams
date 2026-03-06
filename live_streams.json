@@ -1,10 +1,4 @@
 {
-    "@AZKi": {
-        "channel_url": "https://www.youtube.com/@AZKi",
-        "channel_name": "AZKi Channel",
-        "avatar_url": "https://yt3.googleusercontent.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos",
-        "videos": []
-    },
     "@AiraniIofifteen": {
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
         "channel_name": "Airani Iofifteen Channel hololive-ID",
@@ -165,7 +159,14 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "kUpdvUCs96Y",
+                "title": "【同時視聴】hololive SUPER EXPO 2026 / 7th fes🩵STAGE 1【水宮枢／ホロライブDEV_IS】",
+                "thumbnail": "https://i.ytimg.com/vi/kUpdvUCs96Y/hqdefault.jpg?v=69a87a10&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQmFRxoplilra3N6uCt5SkZRlQQA",
+                "description": "▼特設サイト（EXPO・fes.共通）\nhttps://hololivesuperexpo.hololivepro.com/2026/\n\n▼hololive 7th fes.配信チケット\n日本 :https://hololivesuperexpo.hololivepro.com/2026/ticket/..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
