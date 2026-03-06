@@ -63,13 +63,27 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "dNfJdi5e34k",
+                "title": "【応援枠＆打ち上げ会場】hololive SUPER EXPO 2026 ＆ hololive 7th fes.「STAGE1」観ててねっっっ♡【博衣こより/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/dNfJdi5e34k/hqdefault.jpg?v=69a98bb6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1eAulv3TUQBOUbgOBR7lLhPMPQw",
+                "description": "助手くん用応援席だよ～～～❣そのまま3/6(金)当日の打ち上げ枠になるよ～～～～～～！！！\nhololive SUPER EXPO 2026」＆「hololive 7th fes.」\n特設サイト..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "CAdAmSEs4m4",
+                "title": "【 7th fes.EXPO 】メンバー限定でルーナイト達の心構えについて教示するのら！！！【姫森ルーナ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/CAdAmSEs4m4/hqdefault.jpg?v=69a9cfe7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCoNrc_ncYw5D21rQ80qeoqe4GOQQ",
+                "description": "サムネイラスト\n　ばんりさん　https://twitter.com/bnr_banri\n\n「hololive 7th fes. Ridin' on Dreams」\n2026年3月6日～8日の3日間開催\nhttps://hololivesuperexpo.hololivepro.com/2..."
+            }
+        ]
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -243,14 +257,7 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": [
-            {
-                "video_id": "1d85hWzmO1w",
-                "title": "【#生スバル】直前！スバ友決起集会～！：Let's take a look at everyone's equipment!【ホロライブ/大空スバル】",
-                "thumbnail": "https://i.ytimg.com/vi/1d85hWzmO1w/hqdefault.jpg?v=69a9d947&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtAQiDKrdhYqDHpgdEzCizpLJ7-w",
-                "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n\n🔽楽曲各..."
-            }
-        ]
+        "videos": []
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -455,13 +462,6 @@
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": [
-            {
-                "video_id": "8rRoO8-r_4s",
-                "title": "【Minecraft】４んだら即終了ハードコアマイクラ３日目　#結城さくな生放送",
-                "thumbnail": "https://i.ytimg.com/vi/8rRoO8-r_4s/hqdefault.jpg?v=69aa94ac&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCY8aD6SYipz-dT_nZ7Z8mOvd6aDA",
-                "description": "🎀グッズ・ボイス販売はこちら🐾\nhttps://yuki-sakuna.stores.jp/\n\n🎀歌ってみた動画🐾\nhttps://youtube.com/playlist?list=PLErsMirGq93vRw-CcRaaZfR4QVxl2uBsb&si=BRmEr8erE6aR-UJ..."
-            }
-        ]
+        "videos": []
     }
 }
