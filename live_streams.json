@@ -165,14 +165,7 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": [
-            {
-                "video_id": "kUpdvUCs96Y",
-                "title": "【同時視聴】hololive SUPER EXPO 2026 / 7th fes🩵STAGE 1【水宮枢／ホロライブDEV_IS】",
-                "thumbnail": "https://i.ytimg.com/vi/kUpdvUCs96Y/hqdefault.jpg?v=69a87a10&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQmFRxoplilra3N6uCt5SkZRlQQA",
-                "description": "▼特設サイト（EXPO・fes.共通）\nhttps://hololivesuperexpo.hololivepro.com/2026/\n\n▼hololive 7th fes.配信チケット\n日本 :https://hololivesuperexpo.hololivepro.com/2026/ticket/..."
-            }
-        ]
+        "videos": []
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -250,7 +243,14 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "1d85hWzmO1w",
+                "title": "【#生スバル】直前！スバ友決起集会～！：Let's take a look at everyone's equipment!【ホロライブ/大空スバル】",
+                "thumbnail": "https://i.ytimg.com/vi/1d85hWzmO1w/hqdefault.jpg?v=69a9d947&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtAQiDKrdhYqDHpgdEzCizpLJ7-w",
+                "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n\n🔽楽曲各..."
+            }
+        ]
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -334,7 +334,14 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "XX3toTL6ihs",
+                "title": "【PRE STAGE 2】KARAOKE with maybe supportive jumpscares #kfp #キアライブ  (archived)",
+                "thumbnail": "https://i.ytimg.com/vi/XX3toTL6ihs/hqdefault.jpg?v=69a92b13&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBs_NqoHDLu0l7xX9z3IjSCphcK4A",
+                "description": "CONCERT STREAMING TICKETS: https://drawn-to-dawn.hololivepro.com/ticket\nCONCERT WEBSITE: https://drawn-to-dawn.hololivepro.com/ \n\n🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
