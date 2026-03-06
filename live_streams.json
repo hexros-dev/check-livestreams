@@ -76,14 +76,7 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": [
-            {
-                "video_id": "CAdAmSEs4m4",
-                "title": "【 7th fes.EXPO 】メンバー限定でルーナイト達の心構えについて教示するのら！！！【姫森ルーナ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/CAdAmSEs4m4/hqdefault.jpg?v=69a9cfe7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCoNrc_ncYw5D21rQ80qeoqe4GOQQ",
-                "description": "サムネイラスト\n　ばんりさん　https://twitter.com/bnr_banri\n\n「hololive 7th fes. Ridin' on Dreams」\n2026年3月6日～8日の3日間開催\nhttps://hololivesuperexpo.hololivepro.com/2..."
-            }
-        ]
+        "videos": []
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -341,20 +334,20 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": [
-            {
-                "video_id": "XX3toTL6ihs",
-                "title": "【PRE STAGE 2】KARAOKE with maybe supportive jumpscares #kfp #キアライブ  (archived)",
-                "thumbnail": "https://i.ytimg.com/vi/XX3toTL6ihs/hqdefault.jpg?v=69a92b13&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBs_NqoHDLu0l7xX9z3IjSCphcK4A",
-                "description": "CONCERT STREAMING TICKETS: https://drawn-to-dawn.hololivepro.com/ticket\nCONCERT WEBSITE: https://drawn-to-dawn.hololivepro.com/ \n\n🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara..."
-            }
-        ]
+        "videos": []
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "eTeIIYiuFis",
+                "title": "【 STAGE1振り返り 】ただいまあああああああああああ！【鷹嶺ルイ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/eTeIIYiuFis/hqdefault.jpg?v=69aad5ce&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBA3SOOtp15DMIzKbUU5emwiUEyHA",
+                "description": "打ち上げもする！！！！！！！！！\n\nhololive SUPER EXPO 2026」＆「hololive 7th fes.」\n特設サイト https://hololivesuperexpo.hololivepro.com/2026/\nfes.配信チケット..."
+            }
+        ]
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
