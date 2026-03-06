@@ -433,13 +433,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
         "videos": [
             {
-                "video_id": "bOOn8b_Rcrk",
-                "title": "【雑談/CHAT】DAY2 初めてのFesだぞ！！！！！！！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】#FG初Fes朝活リレー",
-                "date": "2026/03/07 04:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/bOOn8b_Rcrk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5veYJWoT1oVBE0cQteEwsqXVrmA",
-                "description": "🎧ニックの日記念グッズ販売開始！\n\n🔗https://shop.hololivepro.com/products/rindochihaya_nicdaymerch\n\n🔵深井涼介先生描き下ろし\n「ラバーマット&カードスリー..."
-            },
-            {
                 "video_id": "lndLHqM80Q0",
                 "title": "【7th fes.EXPO】DAY2 STAGE３ 応援枠【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
                 "date": "2026/03/07 20:00:00",
@@ -688,7 +681,15 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "a-0hb9tznCg",
+                "title": "【HORSEY GAME】 The Ultimate Horse Racing Cinematic Experience",
+                "date": "2026/03/07 06:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/a-0hb9tznCg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCeUQzH1RcLSsm38s_mBSW4x_rgHw",
+                "description": "what have they done to my umadachis\n\n☁  Thumbnail Art  ☁\nhttps://x.com/NicoNicoplasma/status/2025215438792147011\nThank you so much!!\n\nMerch: https://ohmonah.shop/collections/nimi-nightmare..."
+            }
+        ]
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
