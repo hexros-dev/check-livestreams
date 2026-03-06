@@ -63,14 +63,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "dNfJdi5e34k",
-                "title": "【応援枠＆打ち上げ会場】hololive SUPER EXPO 2026 ＆ hololive 7th fes.「STAGE1」観ててねっっっ♡【博衣こより/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/dNfJdi5e34k/hqdefault.jpg?v=69a98bb6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1eAulv3TUQBOUbgOBR7lLhPMPQw",
-                "description": "助手くん用応援席だよ～～～❣そのまま3/6(金)当日の打ち上げ枠になるよ～～～～～～！！！\nhololive SUPER EXPO 2026」＆「hololive 7th fes.」\n特設サイト..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -340,14 +333,7 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": [
-            {
-                "video_id": "eTeIIYiuFis",
-                "title": "【 STAGE1振り返り 】ただいまあああああああああああ！【鷹嶺ルイ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/eTeIIYiuFis/hqdefault.jpg?v=69aad5ce&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBA3SOOtp15DMIzKbUU5emwiUEyHA",
-                "description": "打ち上げもする！！！！！！！！！\n\nhololive SUPER EXPO 2026」＆「hololive 7th fes.」\n特設サイト https://hololivesuperexpo.hololivepro.com/2026/\nfes.配信チケット..."
-            }
-        ]
+        "videos": []
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
@@ -377,7 +363,14 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "d3sdD8uNCsY",
+                "title": "【#hololivefesEXPO26】STAGE 1 free talk!",
+                "thumbnail": "https://i.ytimg.com/vi/d3sdD8uNCsY/hqdefault.jpg?v=69a91694&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwp9buRYIxz_EWzb8hgqS468UWAQ",
+                "description": "hololive 7th fes. Ridin’ on Dreams【SPWN】\nAll ticket: https://hololivesuperexpo.hololivepro.com/2026/ticket/\nOnline ticket: https://spwn.jp/events/evt_26030601-jphololive7thfes?utm_source=cove..."
+            }
+        ]
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
