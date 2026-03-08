@@ -63,14 +63,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "mijmQrFUYLs",
-                "title": "【WBC同時視聴】日本 VS オーストラリアを一緒に応援しよう！│2026 World Baseball Classic #WBC2026 【博衣こより/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/mijmQrFUYLs/hqdefault.jpg?v=69aba750&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsY_ob6QVAmoAnMYkDsNxegmQPpA",
-                "description": "#WBC 同時視聴ができることになりました！！！嬉しい！！！(半年前くらいからお願いしてたんだよー😭💗)日本戦一緒に応援しよう！！！オース..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -88,14 +81,7 @@
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
         "channel_name": "Suisei Channel",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
-        "videos": [
-            {
-                "video_id": "3GUq5ukIsIQ",
-                "title": "7th fesお疲れ様でした!! アフタートーク🎤✨【ホロライブ / 星街すいせい】",
-                "thumbnail": "https://i.ytimg.com/vi/3GUq5ukIsIQ/hqdefault.jpg?v=69ad5ce5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3WO1Dg-Y5LHhd98cGRgiJ3HrN6w",
-                "description": "2026年2月21日（土） Hoshimachi Suisei Live \"SuperNova: REBOOT\" 開催！\n\n◆アーカイブチケット/ARCHIVE TICKETS\n日本：https://supernova.hololivepro.com/tickets/\nOverseas：https:/..."
-            }
-        ]
+        "videos": []
     },
     "@HoushouMarine": {
         "channel_url": "https://www.youtube.com/@HoushouMarine",
@@ -167,7 +153,14 @@
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Ob_TaDPh1RI",
+                "title": "【#hololivefesEXPO2026 - AFTER TALK】 BIG OTSU EVERYONE‼️💕 【Kureiji Ollie】",
+                "thumbnail": "https://i.ytimg.com/vi/Ob_TaDPh1RI/hqdefault.jpg?v=69ad699a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD061xJMAikRKTvCX74y3lxumd9kQ",
+                "description": "❥・・───༅༚˳ . ୨୧ . ˳༚༅༚─── ・・❥\n\n#hololivefesEXPO2026 #OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n────୨｡ ₊°༺❤︎༻°₊ ｡ৎ───..."
+            }
+        ]
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
@@ -179,7 +172,14 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "fVMN9oAXUhk",
+                "title": "【応援会場／freechat】hololive SUPER EXPO 2026 / 7th fes. Ridin' on Dreams 💙STAGE 3【水宮枢／ホロライブDEV_IS】",
+                "thumbnail": "https://i.ytimg.com/vi/fVMN9oAXUhk/hqdefault.jpg?v=69a87f37&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtkde7F8JgaLmwbcPE9NrwgKu6Aw",
+                "description": "#枢発見 でfesやExpoのことポストしてね…💬💙\n❕こちらの枠は振り返り配信になるのでこの枠でお写真等紹介させて頂く場合があります…！！..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -271,14 +271,7 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": [
-            {
-                "video_id": "OeIty84t3_k",
-                "title": "【#生スバル】7th Fes＆エキスポありがとうございました！大感想会～！！！！！！【ホロライブ/大空スバル】",
-                "thumbnail": "https://i.ytimg.com/vi/OeIty84t3_k/hqdefault.jpg?v=69ac286a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-aN6V20D7VovEVxdeXxnpTwpWEg",
-                "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n\n🔽楽曲各..."
-            }
-        ]
+        "videos": []
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -352,7 +345,14 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "UNn-jx_kPm8",
+                "title": "【応援枠】hololive SUPER EXPO 2026＆hololive 7th fes.お疲れ様でした！",
+                "thumbnail": "https://i.ytimg.com/vi/UNn-jx_kPm8/hqdefault.jpg?v=69ad26b4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADYoXMd-5PlkQ_Urep-PFvifK_IA",
+                "description": "hololive SUPER EXPO 2026」＆「hololive 7th fes.」\n🔽特設サイト\nhttps://hololivesuperexpo.hololivepro.com/2026/\n🔽fes.配信チケット\nhttps://hololivesuperexpo.hololivepro.com/2026/t..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -376,14 +376,7 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": [
-            {
-                "video_id": "NSKv84Uq_vs",
-                "title": "【AFTER TALK】THATS A WRAP!!!!! #kfp #キアライブ",
-                "thumbnail": "https://i.ytimg.com/vi/NSKv84Uq_vs/hqdefault.jpg?v=69acf682&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDIlCjVAuJjpKunYWMvx4UyGj9ajg",
-                "description": "CONCERT STREAMING TICKETS: https://drawn-to-dawn.hololivepro.com/ticket\nCONCERT WEBSITE: https://drawn-to-dawn.hololivepro.com/ \n\n🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara..."
-            }
-        ]
+        "videos": []
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
@@ -414,13 +407,27 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch.Tokoyami Towa",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "04oGr2tbKbo",
+                "title": "【 hololive 7th fes.＆EXPO 】応援会場 ＆ 感想会✨️ #Towavel をみる🎀🦩 【 常闇トワ / ホロライブ 】",
+                "thumbnail": "https://i.ytimg.com/vi/04oGr2tbKbo/hqdefault.jpg?v=69abc66d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4N-b03ySN8klfCMgywWF-CJUQ1A",
+                "description": "#towavel  にスクショやらEXPOの画像やらを待っているｿﾞ‼️\n\n　#hololivefesEXPO26_DAY3\n\n　hololive STAGE4\n　　2026年3月8日（日）\n　　11:30 OPEN / 13:00 START..."
+            }
+        ]
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "O3rCEIPTcgQ",
+                "title": "【 hololive 7th fes.＆EXPO応援会場 】わためぇが最高に楽しんで帰ってくる場所！【角巻わため/ホロライブ４期生】",
+                "thumbnail": "https://i.ytimg.com/vi/O3rCEIPTcgQ/hqdefault.jpg?v=69a993a2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBs7iVqV3lksT53NsVQLkjQeGLyvA",
+                "description": "#わためぇこれみて でfes&EXPOのことたくさんポストしてねー！\n※配信で紹介させていただく場合があります！\nわためいとも最高に楽しもうね🎶..."
+            }
+        ]
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -438,7 +445,14 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "-LAYdS1j-oA",
+                "title": "【hololive 7th fes. Ridin' on Dreams】お疲れ様晩酌！！【雪花ラミィ /ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/-LAYdS1j-oA/hqdefault.jpg?v=69ad4897&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLgrW9Up-A7j4nfi__gIF-mAga4g",
+                "description": "復刻グッズ\n販売期間　2/26（木）22:00～3/30（月）18:00\n販売URL　https://shop.hololivepro.com/products/yukihanalamy_rereleasededitionmerch\n\n【所属会社からのお知らせ】..."
+            }
+        ]
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
@@ -505,7 +519,14 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "apwfffh40Yw",
+                "title": "【ぽこ あ ポケモン】ポケモンたちと新生活始めます！ぺこ！【ホロライブ/兎田ぺこら】",
+                "thumbnail": "https://i.ytimg.com/vi/apwfffh40Yw/hqdefault.jpg?v=69ad697a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_LFYEOaL1wnLiLUq-gojiwxAniA",
+                "description": "わくわく\n\nサムネイラスト：ぽるこJ@イラストお仕事募集中さん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/us..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
