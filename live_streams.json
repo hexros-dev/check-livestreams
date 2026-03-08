@@ -315,7 +315,14 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "UOO3SYBQimU",
+                "title": "【さんま増刊号】10時のEXPOステージ同時視聴からの7th fes.振り返り感想会だ～💪🌞【白銀ノエル/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/UOO3SYBQimU/hqdefault.jpg?v=69ac3159&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfKN7wUO6zgSjuSyXnff3Rv44Afg",
+                "description": "最初の1時間はEXPO同時視聴！そのあとは団長と振り返り感想会しよう～！！\n※映像＆音声は出せないので各自ホロライブ公式chと二窓してね！..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -441,6 +448,13 @@
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "b2ZIMlr9s2w",
+                "title": "【朝活】アルミホイルを巻いたら世界が平和に　#結城さくな生放送 #さくもに",
+                "thumbnail": "https://i.ytimg.com/vi/b2ZIMlr9s2w/hqdefault.jpg?v=69ac4b3c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBL_Y1UH4QvEJ13rRA4YiWgOZI5zQ",
+                "description": "🎀グッズ・ボイス販売はこちら🐾\nhttps://yuki-sakuna.stores.jp/\n\n🎀歌ってみた動画🐾\nhttps://youtube.com/playlist?list=PLErsMirGq93vRw-CcRaaZfR4QVxl2uBsb&si=BRmEr8erE6aR-UJ..."
+            }
+        ]
     }
 }
