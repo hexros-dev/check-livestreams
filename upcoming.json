@@ -213,7 +213,15 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "fqgXFbAz5yE",
+                "title": "【同時視聴】hololive SUPEREXPO2026 / 7th fes🩵STAGE 2【水宮枢／ホロライブDEV_IS】",
+                "date": "2026/03/09 20:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/fqgXFbAz5yE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFcfOSci-nX15oMJjGinNBtQCuFQ",
+                "description": "▼特設サイト（EXPO・fes.共通）\nhttps://hololivesuperexpo.hololivepro.com/2026/\n\n▼hololive 7th fes.配信チケット\n日本 :https://hololivesuperexpo.hololivepro.com/2026/ticket/..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -561,15 +569,7 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
-        "videos": [
-            {
-                "video_id": "aKGG7VUjD5I",
-                "title": "風真いろはの #ねるまえらじお 📻❣ #12",
-                "date": "2026/03/08 22:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/aKGG7VUjD5I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDrt0mIrR6Kq84PDaIL9e8q97NYNw",
-                "description": "第11回 #ねるまえらじお 📻\n沢山のふつおたありがとうございます✨\n\nお便り募集はXまたはYoutubeコミュニティにて発信中❣\nぜひフォローやチャン..."
-            }
-        ]
+        "videos": []
     },
     "@mikenekoko": {
         "channel_url": "https://www.youtube.com/@mikenekoko",
