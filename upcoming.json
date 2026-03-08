@@ -325,15 +325,7 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": [
-            {
-                "video_id": "6XTjo2uE-D4",
-                "title": "【#朝ミオ 】おはみぉーん！EXPOお疲れ様でした！な朝～",
-                "date": "2026/03/09 05:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/6XTjo2uE-D4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBf6fxCKlA7fOlKn0tf3_eIPPxA5A",
-                "description": "お疲れ様でした～！！！\n\n#朝ミオおたより Twitter(X)で募集中です🌟\n今回紹介するお題は、『EXPO写真2026』です！\n\nサムネillustrator：PAISHENさん..."
-            }
-        ]
+        "videos": []
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -441,7 +433,15 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "zM1crYF93qY",
+                "title": "【零 ～紅い蝶～ REMAKE】体験版プレイ🦋和風ホラーの名作リメイク！【獅白ぼたん/ホロライブ】",
+                "date": "2026/03/09 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/zM1crYF93qY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQ5mXS2XPcvE5bbR1n77pjY5eTtQ",
+                "description": "過去作はプレイ経験あり（が、かなり昔なので内容はけっこう忘れてる）\n新鮮な気持ちで体験版あそんでいくぞい～！\n\n配信タイトル：零 ～紅い..."
+            }
+        ]
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
