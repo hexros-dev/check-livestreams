@@ -185,13 +185,29 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "KpzL1Ix2cJ8",
+                "title": "【マリオテニスフィーバー】初めてのマリオテニス！🔥【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "date": "2026/03/09 16:10:00",
+                "thumbnail": "https://i.ytimg.com/vi/KpzL1Ix2cJ8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTgmmCurt22dlzAIWlzpYVXsK3oQ",
+                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\nサムネイルの素敵なイラスト　ちゃんまろるさん　https://x.com/chanmar..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
         "channel_name": "Kobo Kanaeru Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "5yofVkOxMT4",
+                "title": "【#hololivefesEXPO2026 POST TALK】FES AND EXPO OTSUKAREEE !!!",
+                "date": "2026/03/09 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/5yofVkOxMT4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMNd76nyVsq0ZyX8mO79-S9rTVMQ",
+                "description": "Bokobokobo- Kobo Kanaeru at your service! Let me be your sun to shine your day, ehe~ ;D ☔☔☔\n#OnAeru #Kobo_Kanaeru #holoID #holoid03 #onaeru #hololivefesEXPO2026\n\nStreaming Ticket 🎟..."
+            }
+        ]
     },
     "@KoganeiNiko": {
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
@@ -499,15 +515,7 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
-        "videos": [
-            {
-                "video_id": "fmzgyxsCYs0",
-                "title": "【OFF COLLAB - Let's try Matcha!】Tasting a lot of matcha w/ ID girls! 【Handcam】",
-                "date": "2026/03/09 10:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/fmzgyxsCYs0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCW0-s2LIkuoR1ez1_3-a3amMy9SA",
-                "description": "#vestiazeta #hololive #vtuber #holoid #hololiveindonesia \n\nDisclaimer: We're not professionals in anything Matcha \n\nWith @KureijiOllie @AiraniIofifteen @KoboKanaeru @ayundarisu \n\n-----\nVestia..."
-            }
-        ]
+        "videos": []
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
