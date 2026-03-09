@@ -52,7 +52,14 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Grtnnh46AtI",
+                "title": "【FUWAMOCO MORNING】episode 179 🐾 #FWMCMORNING",
+                "thumbnail": "https://i.ytimg.com/vi/Grtnnh46AtI/hqdefault.jpg?v=69a8d134&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlFwOcZ6h5xuLO43tw3QmMlXpRng",
+                "description": "we're back to start the day off on the right paw with you ✨️\nlovely illustration by @0831312312nzop 💕\njingle by @Sarina_A_Elysia ♪\n\n🩵 FUWAMOCO 𝟮𝗻𝗱 𝗼𝗿𝗶𝗴𝗶𝗻𝗮..."
+            }
+        ]
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -83,14 +90,7 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": [
-            {
-                "video_id": "Tdlo2bINf14",
-                "title": "【 Bits & Bops 】可愛い音ゲー「ビッツ＆ボップス」で遊ぶのら！！！🎵【姫森ルーナ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/Tdlo2bINf14/hqdefault.jpg?v=69ae436b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1ESD0EqZM-LVmGnT9lcWwyBblXQ",
-                "description": "ぽりゅに勧められたゲームなのら～(・o・🍬)\n\nビッツ＆ボップス再生リスト\nhttps://www.youtube.com/playlist?list=PL6gUpTCMieF5uL755wcp3rmh6OIfih3xK\n\nビッツ＆ボッ..."
-            }
-        ]
+        "videos": []
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -146,20 +146,20 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "yxudPJJmSiY",
+                "title": "【縦型歌枠】ゲリラ深夜歌枠です。寝る前にどうですか？【ホロライブ DEV_IS 響咲リオナ】",
+                "thumbnail": "https://i.ytimg.com/vi/yxudPJJmSiY/hqdefault.jpg?v=69aede5c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1HELa9BQkWeaz1EidhoLmi9Domw",
+                "description": "提供：XING INC.\n※JOYSOUND音源を使用しているため、本動画のカラオケ音源利用部分の切り抜き・転載はご遠慮ください。\n\n∴∵∴ ୨୧ ∴∵∴ ୨୧..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": [
-            {
-                "video_id": "eCX8WxbIWg0",
-                "title": "【雑談】でかめの忘れ物した人によるEXPO＆FESお疲れ様でした会【儒烏風亭らでん #ReGLOSS 】",
-                "thumbnail": "https://i.ytimg.com/vi/eCX8WxbIWg0/hqdefault.jpg?v=69aec01b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDS1SJQS-Gsc1zSTKY_5d4dM-4A-g",
-                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\n\n音声ガイド情報\n【提供期間】\n2026年1月20日(..."
-            }
-        ]
+        "videos": []
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -251,14 +251,7 @@
         "channel_url": "https://www.youtube.com/@NakiriAyame",
         "channel_name": "Nakiri Ayame Ch. 百鬼あやめ",
         "avatar_url": "https://yt3.googleusercontent.com/3CeLWGYb6cLUywTJzNt-UpITviNxeGNvtjhIqbV-AIybCqCoFw9onWtg91bjwpqvfEP9mfqIR4Q",
-        "videos": [
-            {
-                "video_id": "U41oC6fXQ2M",
-                "title": "【マリオテニスフィーバー】このゲームってどどどどうやるんですか？汗【百鬼あやめ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/U41oC6fXQ2M/hqdefault.jpg?v=69aea9c8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0P68pi1PQ0zjUb86fsAvgZVajPA",
-                "description": "- - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - -ഒ˖°\n\n\n※この動画およびライブは、任天堂著作物の利用許諾を受けて配..."
-            }
-        ]
+        "videos": []
     },
     "@NanashiMumei": {
         "channel_url": "https://www.youtube.com/@NanashiMumei",
@@ -343,14 +336,7 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
-        "videos": [
-            {
-                "video_id": "tsDSyQ9RQhw",
-                "title": "【お披露目＆逆凸】８周年記念凸待ち✨メロいボクの新装備も登場ですか！？？ #８周年のロボ子さん 【ホロライブ/ ロボ子さん 】",
-                "thumbnail": "https://i.ytimg.com/vi/tsDSyQ9RQhw/hqdefault.jpg?v=69ae92b6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBc5gFxUxUCP1dmxRO-KGiepROuAg",
-                "description": "＃ホロライブ 　\nｘでは💬　 #８周年のロボ子さん でポストしてってね\n\n💝ロボ子さん 活動8周年記念グッズ販売開始\n\n■販売ページURL\nhttps://shop.ho..."
-            }
-        ]
+        "videos": []
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -364,10 +350,10 @@
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
         "videos": [
             {
-                "video_id": "8CbyJebeQTw",
-                "title": "【ポケモンファイアレッド】はじめての人生縛りでゆく生き残りをかけた ファイアレッドの旅～みこちと人生縛り伝説～【ホロライブ/さくらみこ】",
-                "thumbnail": "https://i.ytimg.com/vi/8CbyJebeQTw/hqdefault.jpg?v=69aea12f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAeW2DSPJKaDAEY3PX_XsKZr1vvCw",
-                "description": "はじめていくぞおおおおおおおおおお！🔥\n【ルール】\n・ひんしになったら使用不可！（同種族×）\n・ポケモンには必ずなまえをつける\n・セーブ..."
+                "video_id": "-IroUWmemE4",
+                "title": "【ぽこあポケモン】深夜のみこ あ ポケモン生活１日目【ホロライブ/さくらみこ】",
+                "thumbnail": "https://i.ytimg.com/vi/-IroUWmemE4/hqdefault.jpg?v=69aededd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCL-HE84uLSSw1euTVI3VgdccdDug",
+                "description": "今夜から深夜まったりぽこあ生活するにぇ！！🌃\n\n⪩⪨　お知らせ/ɪɴғᴏ\n￣￣￣￣￣￣￣￣￣￣￣￣￣\n　🌸さくらみこ1st Live \"flower fantasista!\"..."
             }
         ]
     },
@@ -393,14 +379,7 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": [
-            {
-                "video_id": "7-iiEUVmXes",
-                "title": "【歌枠/縦型】39の日だからボカロ曲縛りで歌う！  #shorts【不知火フレア/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/7-iiEUVmXes/hqdefault.jpg?v=69aead57&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDY4wGGWAErTpa0wNGoXNwDnUREtQ",
-                "description": "■New「Fun fair」MV公開✨\nhttps://www.youtube.com/watch?v=FdKux6g4HJ4\n\n━━━━━━━━━━━━━━━━━━━━━━━\n■Newシングル「架空と本当」MV公開中..."
-            }
-        ]
+        "videos": []
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -450,7 +429,14 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "fG3xAa6WrzI",
+                "title": "【雑談】まったりおしゃべりしよう【ホロライブ/ときのそら】",
+                "thumbnail": "https://i.ytimg.com/vi/fG3xAa6WrzI/hqdefault.jpg?v=69aed41d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYKKgFxUVyG-rlArHHwCYLsPRG8A",
+                "description": "夜も深いですね～。\n\n～サムネイラスト～\n弥栄瑞花様\nhttps://x.com/yasaka_zuika99\n\n～素材提供～\n眼鏡：Moro様\nいまここぬんぬん：DS様\n\n✨お知らせ✨..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
@@ -487,14 +473,7 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": [
-            {
-                "video_id": "tAO2d32GrJc",
-                "title": "【メンバー限定同時視聴】ポルカもおすすめの『ドールハウス』見るよ！！【 雪花ラミィ /ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/tAO2d32GrJc/hqdefault.jpg?v=69aea420&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBc9AduBFvI6U-XBCNgP0we_FM-bg",
-                "description": "22時になったらメンバー限定配信に切り替わります。\n\nAmazonプライムの『ドールハウス（レンタル500円）』\n1時間49分の映画を同時視聴します！..."
-            }
-        ]
+        "videos": []
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
