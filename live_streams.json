@@ -70,14 +70,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "c2xOudISAso",
-                "title": "【WBC同時視聴】プレイボールコール担当する日本VSチェコを一緒に応援しよう！│2026 World Baseball Classic #WBC2026 #こよりとWBC 【博衣こより/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/c2xOudISAso/hqdefault.jpg?v=69afa288&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtkTYVOgLuxjkteCpt1iaVVFS0uA",
-                "description": "#こよりとWBC でポスト❣⚾✨ なんと本日のプレイボールコールを担当させていただきます。\n#WBC 同時視聴させていただける喜び！感謝！！(半年前..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -152,7 +145,14 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "qv40_p0yWSM",
+                "title": "【ぽこあポケモン】タテモン、チェックだぜ！その①【儒烏風亭らでん #ReGLOSS 】",
+                "thumbnail": "https://i.ytimg.com/vi/qv40_p0yWSM/hqdefault.jpg?v=69aff922&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOi31mXiRthIYMSG4TQRmsU2atKw",
+                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\nswith2を購入したのでさっそく建物をチェック..."
+            }
+        ]
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -200,7 +200,14 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "XqJqHjkjUIs",
+                "title": "【龍が如く極2】完全初見❕帰ってきたぞこの街に…！！※ネタバレあり【水宮枢／ホロライブDEV_IS】",
+                "thumbnail": "https://i.ytimg.com/vi/XqJqHjkjUIs/hqdefault.jpg?v=69a69276&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhgut4P4bDFR4rZ5Fxo9Y5pkMdhw",
+                "description": "この動画およびライブは、コンテンツ利用許諾契約に基づいて配信しています。\n©SEGA\n▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸◂┄▹◃\n\n💙メンバーシ..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -278,14 +285,7 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": [
-            {
-                "video_id": "TGMhdl2mMfk",
-                "title": "【#生スバル】マリオテニスフィーバー！！！！！熱血！！！！！猫又塾しゅばああああああああああああああああああああ！！！！！：Mario Tennis Fever【ホロライブ/大空スバル】",
-                "thumbnail": "https://i.ytimg.com/vi/TGMhdl2mMfk/hqdefault.jpg?v=69affc7b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOGLOsnmY_T2KuWye3FOPNvJIqfg",
-                "description": "@NekomataOkayu \n🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid..."
-            }
-        ]
+        "videos": []
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -358,20 +358,20 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Pu6cP5fkzOw",
+                "title": "【雑談】最近あったこととか思い出しながら【不知火フレア/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/Pu6cP5fkzOw/hqdefault.jpg?v=69b01158&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUiBIEgcF0R3nf0fEKxfPNr2b3pg",
+                "description": "■New「Fun fair」MV公開✨\nhttps://www.youtube.com/watch?v=FdKux6g4HJ4\n\n━━━━━━━━━━━━━━━━━━━━━━━\n■Newシングル「架空と本当」MV公開中..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": [
-            {
-                "video_id": "-rxkYVwwoDU",
-                "title": "【マリオテニス フィーバー】人生初のマリオテニス！大会に向けて練習だ🎾🔥【白銀ノエル/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/-rxkYVwwoDU/hqdefault.jpg?v=69af3095&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB7aOLTpwPxQl6SJKIX-AQ9h-Al3w",
-                "description": "だんちょのたまさばきを見よッ！\n\n💗「イタズラーニャ」MV公開中🐈\nhttps://youtu.be/QjkiIMRW07w\n\n💚新曲「VAVAVA！バーチャル大分」MV公開中🌏\nhttps://you..."
-            }
-        ]
+        "videos": []
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -413,7 +413,14 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "vtW-jQGbrK8",
+                "title": "【メンバー限定配信】開設6周年！7年目STARTだ！「ヴァイオレット・エヴァーガーデン / Violet Evergarden」同時視聴！【角巻わため/ホロライブ４期生】",
+                "thumbnail": "https://i.ytimg.com/vi/vtW-jQGbrK8/hqdefault.jpg?v=69af3dd2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEBba83KHe-F_lk26UZ1jps_BZ9g",
+                "description": "1話～6話まで観よう👀✨\n毎月８日はMember sheepの記念日です🐏\n（今月はサニーシープ爆誕に合わせて、10日にさせていただきました！）\n※配信前..."
+            }
+        ]
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -491,7 +498,14 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "S-L5B2WHs54",
+                "title": "【ぽこ あ ポケモン】ポケモンたちと新生活始めます！！！ぺこ！【ホロライブ/兎田ぺこら】",
+                "thumbnail": "https://i.ytimg.com/vi/S-L5B2WHs54/hqdefault.jpg?v=69afea68&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9IU_YjqQgs-EJAMbAJOZEc3jg2A",
+                "description": "ポケモン達待っててね！！！！！！！\n\nサムネイラスト：ぽるこJ@イラストお仕事募集中さん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
