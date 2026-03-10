@@ -101,14 +101,7 @@
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk",
-        "videos": [
-            {
-                "video_id": "GWZrQZ6leZI",
-                "title": "【マリオテニスフィーバー】船長大会に出るってマジ？ぺこらコーチ、略してペコーチを添えて──【ホロライブ/宝鐘マリン】",
-                "thumbnail": "https://i.ytimg.com/vi/GWZrQZ6leZI/hqdefault.jpg?v=69aff06b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDWo_IlxQ1m7QwD4SyvUQtg3ciWQ",
-                "description": "@usadapekora \nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n｡.｡:+* ﾟ ゜ﾟ *+:｡.｡:+* ﾟ ゜ﾟ *+:｡.｡.｡:+*ﾟ..."
-            }
-        ]
+        "videos": []
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
@@ -401,7 +394,14 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "WbkzK2kkM-g",
+                "title": "【マリオテニス フィーバー】今日からはじめるテニス生活！【ホロライブ/ときのそら】",
+                "thumbnail": "https://i.ytimg.com/vi/WbkzK2kkM-g/hqdefault.jpg?v=69b01bb2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyuKw53HRPx9l2SyjE-Su2No9Q8g",
+                "description": "まったり練習していこうと思う！\nどのモードでやろうかな？\nドキドキ！！\n\n\n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信し..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
@@ -474,7 +474,14 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "MT8eHLMn2uw",
+                "title": "【LET'S CHAT!】CHATTINI, I MADE IT!!! 🩷 Let's talk about my first Fes!!!",
+                "thumbnail": "https://i.ytimg.com/vi/MT8eHLMn2uw/hqdefault.jpg?v=69af8de1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARZ3uqSokEaFmZYMr232QcnBDH_g",
+                "description": "💝 Sweet-but-Deadly Valentine's Merch is out now!!! 💝\nーーーーーーーーー\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/raorapanthera_sweetbutdeadlyval..."
+            }
+        ]
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
