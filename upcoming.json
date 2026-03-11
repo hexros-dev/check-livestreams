@@ -75,15 +75,7 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": [
-            {
-                "video_id": "v6aPqNfzl5I",
-                "title": "【FUWAMOCO MORNING】episode 180 🐾 #FWMCMORNING",
-                "date": "2026/03/11 22:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/v6aPqNfzl5I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBun7OjobwR9PFgnon75sddtZrXSA",
-                "description": "big news big news big news are you ready ✨️\nlovely illustration by @_hinatahirune 💕\njingle by @Sarina_A_Elysia ♪\n\n🩵 FUWAMOCO 𝟮𝗻𝗱 𝗼𝗿𝗶𝗴𝗶𝗻𝗮𝗹 𝘀𝗼𝗻..."
-            }
-        ]
+        "videos": []
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -217,7 +209,15 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "HThed1I-z_g",
+                "title": "【Pokémon Pokopia】Ready to be either very comfy or very overstimulated. Or both",
+                "date": "2026/03/12 06:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/HThed1I-z_g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcYCgz1V5dDWig1lUDerv4-JjcRQ",
+                "description": "Thumbnail Art: @h0_pj THANK YOU!\nhttps://x.com/h0_pj/status/2028830447795646799/photo/1\n\n====================\n✧Twitter: https://twitter.com/kosekibijou\n\n✧Hashtags: \n#biboo  \nAdvent: #holoAdvent..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -384,7 +384,15 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "1voEsSu78tw",
+                "title": "【歌枠】深夜のちるわく【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "date": "2026/03/11 22:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/1voEsSu78tw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPx94gFvzUzZQVDuJ6MBPSzaRJcA",
+                "description": "ひさびさに～～\n\nサムネイルイラスト：sumomoさま\nhttps://x.com/rhfmrh987\nありがとうございます！\n\nFLOWGLOW 1st Album『FLOW GLOW』\n2026.1.21 リリース\n🔽予約は..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -402,15 +410,7 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": [
-            {
-                "video_id": "-JnzMueUxsk",
-                "title": "【ぽこあポケモン】深夜のみこ あ ポケモン生活２日目【ホロライブ/さくらみこ】",
-                "date": "2026/03/11 21:45:00",
-                "thumbnail": "https://i.ytimg.com/vi/-JnzMueUxsk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmICvLPVxFBRN1mpielCkDSLregQ",
-                "description": "ぽこあぽこあ・・・・・・・癒しのぽこあ・・・・・・・・\n\n⪩⪨　お知らせ/ɪɴғᴏ\n￣￣￣￣￣￣￣￣￣￣￣￣￣\n　🌸さくらみこ1st Live \"flower..."
-            }
-        ]
+        "videos": []
     },
     "@SamekoSaba": {
         "channel_url": "https://www.youtube.com/@SamekoSaba",
