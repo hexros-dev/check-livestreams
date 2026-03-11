@@ -261,7 +261,14 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "4-whTiXC5_Y",
+                "title": "【Overwatch】 OTSU FES but ive been having ow withdrawal【Pavolia Reine/holoID 2nd gen】",
+                "thumbnail": "https://i.ytimg.com/vi/4-whTiXC5_Y/hqdefault.jpg?v=69b0b6d0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4uODOoH3uT4lHHMawM1tPLRBIzA",
+                "description": "Game Title: Overwatch 2\nThis stream has been approved by Blizzard Entertainment.\nThe views, information, or opinions expressed during the stream do not represent those of Blizzard Entertainment...."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
