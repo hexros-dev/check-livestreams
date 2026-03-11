@@ -174,14 +174,7 @@
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
-        "videos": [
-            {
-                "video_id": "A0O74wai60k",
-                "title": "【#hololivefesEXPO2026 - AFTER TALK】 MORE STORIES!! -will read donos from last stream 【Kureiji Ollie】",
-                "thumbnail": "https://i.ytimg.com/vi/A0O74wai60k/hqdefault.jpg?v=69b16e24&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCucBLKuy87Fll8FhPv_r-toO9KsQ",
-                "description": "❥・・───༅༚˳ . ୨୧ . ˳༚༅༚─── ・・❥\n\n#hololivefesEXPO2026 #OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n────୨｡ ₊°༺❤︎༻°₊ ｡ৎ───..."
-            }
-        ]
+        "videos": []
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
@@ -283,7 +276,14 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "4RmFQEwHQKM",
+                "title": "【gogh: Focus with Your Avatar】Working Until I Eat Hotpot",
+                "thumbnail": "https://i.ytimg.com/vi/4RmFQEwHQKM/hqdefault.jpg?v=69b1984b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBJPRj_edvkxM3pkdIQhxroCIQvQ",
+                "description": "Game title：gogh: Focus with Your Avatar\nStore page：https://store.steampowered.com/app/3213850/gogh_Focus_with_Your_Avatar/\n\n[Twitter]\nhttps://twitter.com/ourokronii\n\n---------------------------..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
@@ -388,14 +388,7 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": [
-            {
-                "video_id": "R--3miguZ3Y",
-                "title": "【ぽこ あ ポケモン】ポケモンたちと過ごす時間がやってきた！【轟はじめ/ReGLOSS】",
-                "thumbnail": "https://i.ytimg.com/vi/R--3miguZ3Y/hqdefault.jpg?v=69b12fb4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGvqJFG-7A8QKdHNezNoRMwFsHeQ",
-                "description": "素敵なサムネお写真：一ノ樹兵　ツワムン様（@tsuwamun_）\n\n配信タイトル：ぽこ あ ポケモン\n公式ページ：https://www.pocoapokemon.jp/ja/\n￣￣￣￣￣￣￣￣..."
-            }
-        ]
+        "videos": []
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
