@@ -204,7 +204,7 @@
             {
                 "video_id": "IdbOB8PPdGY",
                 "title": "【#学術V登山隊】マダミス狂気山脈 【登山家：儒烏風亭らでん視点】",
-                "date": "2026/03/12 16:30:00",
+                "date": "2026/03/12 17:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/IdbOB8PPdGY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDboYM-aYu5xNp7G5XuLujA8WF8nw",
                 "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\n南極最奥部に発見された新たなる世界最高峰..."
             }
@@ -470,7 +470,15 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "NWx2USEOm3g",
+                "title": "【マリオテニスフィーバー】大会に向けて練習するゾ！！！初めてなんですけど～～！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "date": "2026/03/12 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/NWx2USEOm3g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDc5o54EZxhkpLxw2Dlq1LfBMdO_Q",
+                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\nはじめてのマリテ二・・・！頑張るぞ！！！！\n\nサムネイルイラス..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -570,15 +578,7 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch.Tokoyami Towa",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": [
-            {
-                "video_id": "fBNg0R9SepU",
-                "title": "【 ぽこ あ ポケモン 】#4 ｜ イベントもやりつつ、ストーリーをみつつ…‼️【常闇トワ / ホロライブ】",
-                "date": "2026/03/12 15:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/fBNg0R9SepU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvVv5K8dMl2U_IVVoLJhP8eVPtWw",
-                "description": "配信タイトル：ぽこ あ ポケモン\n公式ページ：https://www.pocoapokemon.jp/ja/\n\n✼••┈┈┈┈┈┈┈┈┈┈┈┈••✼\n\n　📣お知らせ/ Notice\n\n　🆕『..."
-            }
-        ]
+        "videos": []
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
