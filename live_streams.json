@@ -275,7 +275,14 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "w5s03TRdXpM",
+                "title": "【Telling Lies】 Let's be honest?【Pavolia Reine/holoID 2nd gen】",
+                "thumbnail": "https://i.ytimg.com/vi/w5s03TRdXpM/hqdefault.jpg?v=69b2c5ef&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKR9XzajotWjzhCPUA90e2_5Q0Sg",
+                "description": "本ゲームは Annapurna Interactive の確認を得た上で配信・収益化を行なっております\n\nPerhatian! Sang putri merak yang tertiup angin, aku Pavolia Reine dari hololive..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -299,14 +306,7 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": [
-            {
-                "video_id": "AyCs-vFQh84",
-                "title": "#4【ポケモンファイアレッド】はじめての人生縛りでゆく生き残りをかけた ファイアレッドの旅～みこちと人生縛り伝説～【ホロライブ/さくらみこ】",
-                "thumbnail": "https://i.ytimg.com/vi/AyCs-vFQh84/hqdefault.jpg?v=69b2a45a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABCvKlaK6fXgRrja8Is0sPWN0Gbw",
-                "description": "現在までの犠牲者の会：あちゅどん(ヒトカゲ)/シンジ(ポッポ)/インキー(マンキー)/イワテケン(イシツブテ)/クサカレタ＆タンシバw(ナゾノクサ)..."
-            }
-        ]
+        "videos": []
     },
     "@SamekoSaba": {
         "channel_url": "https://www.youtube.com/@SamekoSaba",
