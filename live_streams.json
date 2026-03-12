@@ -57,14 +57,7 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": [
-            {
-                "video_id": "QhzxL8EI09U",
-                "title": "≪Mario Tennis Fever≫ PRACTICE TIME!",
-                "thumbnail": "https://i.ytimg.com/vi/QhzxL8EI09U/hqdefault.jpg?v=69b14409&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDIzj4uKpGH5m3BYxZ70D_VzMH6jQ",
-                "description": "FIRST TIME TRYING THIS GAME RIGHT BEFORE THE TOURNAMENT HAHAHA \ntrust. \n\nThumbnail Art: https://x.com/nyangnyang3580/status/2031314977311826392/video/1\n\n#telebae #hololiveenglish \n\n««≪..."
-            }
-        ]
+        "videos": []
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -100,7 +93,14 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "y4grKAzoPfA",
+                "title": "【Mario Tennis FEVER】Learning how to Tennis 101【Practice Stream】",
+                "thumbnail": "https://i.ytimg.com/vi/y4grKAzoPfA/hqdefault.jpg?v=69b1320d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2CF-TCyxzBBjpzkqD2wa5Ml9Vbw",
+                "description": "Needa practice\n\nNintendo properties used in this video and livestream are used with permission and under license by Nintendo Co., Ltd.\n\n#hololiveenglish    #ホロライブ \n\nSTREAM MY NEW..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
