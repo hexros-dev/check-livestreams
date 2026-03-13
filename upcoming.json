@@ -53,15 +53,7 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": [
-            {
-                "video_id": "JDEYnEb6A08",
-                "title": "【MARIO TENNIS FEVER】hand-eye coordination? time to declare us the winners 🐾【FUWAMOCO】",
-                "date": "2026/03/13 10:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/JDEYnEb6A08/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUMPSNDBNcUcOXOCQBLLpJgOj3PA",
-                "description": "training for pekora-senpai's big event ✨️\nlovely illustration by @D____H98 💓\n\n🩵 FUWAMOCO 𝟮𝗻𝗱 𝗼𝗿𝗶𝗴𝗶𝗻𝗮𝗹 𝘀𝗼𝗻𝗴 \"Lifetime Showtime\" 🩷\n✨️WATC..."
-            }
-        ]
+        "videos": []
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -184,7 +176,15 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "D4GlXk5Tihw",
+                "title": "【 3Dでダンス 】踊って暴れて仲良くなりたい！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "date": "2026/03/13 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/D4GlXk5Tihw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCIJasHv5VgOAKLzPHhhGOxEkY_Ig",
+                "description": "ばんちょー！@TodorokiHajime \n\nこの動画およびライブは、コンテンツ利用許諾契約に基づいて配信しています。\n『サンバDEアミーゴ：パーティーセン..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -228,13 +228,29 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "RS0qhTuerlY",
+                "title": "【ウマ娘プリティーダービー】完全初見#1 新人トレーナになる【水宮枢／ホロライブDEV_IS】",
+                "date": "2026/03/13 20:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/RS0qhTuerlY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANAVYpqK5loBnzLowV3sIFFSOlgg",
+                "description": "💙50万人記念グッズ (3月16日まで！)\nhttps://shop.hololivepro.com/products/mizumiyasu_subscribers_500k\n\n本ゲームは株式会社Cygamesの配信ガイドラインに則って配信..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ng8NsKCqotY",
+                "title": "Philips Evniaモニターを使って『龍が如く 極３ / 龍が如く３外伝 Dark Ties』を遊ぶ！！モニターレビューは初めてだ！！正直レビューしていくで【 桃鈴ねね / hololive 】",
+                "date": "2026/03/13 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ng8NsKCqotY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1BBAR5ko05XKImNT4suXdDHi50w",
+                "description": "プロモーション ：Philips Evnia\n▼Philips Evina 34M2C3500L/11製品ページ\nhttps://www.philips.co.jp/c-p/34M2C3500L_11/curved-fast-va-gaming-monitor-wqhd-gaming-monitor\n\n▼公式X..."
+            }
+        ]
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
@@ -458,7 +474,15 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "AhZQ52uVwmE",
+                "title": "My Plane Was Isekai'd Into a New World 【Monster Hunter Stories 3】 #ad",
+                "date": "2026/03/14 03:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/AhZQ52uVwmE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5b2HvaKZMcL8qqb6LinW5d8_heA",
+                "description": "Check out the game with my link!\nhttps://bit.ly/ShioriMHS3\n\nMy first original song 「Monsters and Men」OUT NOW!\n🎧Listen to it here: https://cover.lnk.to/Y6ZMPF\n📹Music Video here: https://ww..."
+            }
+        ]
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
@@ -512,15 +536,7 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch.Tokoyami Towa",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": [
-            {
-                "video_id": "BDoQM_xG1Yg",
-                "title": "【 ぽこ あ ポケモン 】#5 ｜ 気持ちがいい街を目指して【常闇トワ / ホロライブ】",
-                "date": "2026/03/13 08:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/BDoQM_xG1Yg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC105fIprxmfIB2YUac_HYflO2nMg",
-                "description": "配信タイトル：ぽこ あ ポケモン\n公式ページ：https://www.pocoapokemon.jp/ja/\n\n✼••┈┈┈┈┈┈┈┈┈┈┈┈••✼\n\n　📣お知らせ/ Notice\n\n　🆕『..."
-            }
-        ]
+        "videos": []
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
