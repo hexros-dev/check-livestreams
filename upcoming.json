@@ -353,7 +353,15 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ym7-lD9b9d8",
+                "title": "【競馬/勉強会】金鯱賞の前にお勉強だ！！！！！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "date": "2026/03/15 11:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ym7-lD9b9d8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKC8EUWBmLBMRAJIre1-QLR2NhLA",
+                "description": "収支＋めざす！！！！！！！！\n\n15:40 出走\n\nサムネイルイラスト：藤堂 真樹さま\nhttps://x.com/Todomaki41\nありがとうございます！\n\n\n🎧ニックの日記念グ..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -538,15 +546,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "2wnQRhoU6kc",
-                "title": "【GREMBERS】archived holosong karaoke casual short thumbnail unrelated",
-                "date": "2026/03/15 04:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/2wnQRhoU6kc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBkwoUEim2oR-Mdcewlt-yxyKgbLw",
-                "description": "if im 5 minutes late everythings normal \nif im 30 minutes late it means im asleep\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
