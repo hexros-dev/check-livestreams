@@ -102,14 +102,7 @@
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
         "channel_name": "Suisei Channel",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
-        "videos": [
-            {
-                "video_id": "sUindapbZck",
-                "title": "【ぽこ あ ポケモン】はまりすぎてクリアしてしまったのですが見てください。【ホロライブ / 星街すいせい】",
-                "thumbnail": "https://i.ytimg.com/vi/sUindapbZck/hqdefault.jpg?v=69b531f5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBgwB803EqmJZAHyAtlDyAtrL9UqQ",
-                "description": "2026年2月21日（土） Hoshimachi Suisei Live \"SuperNova: REBOOT\" 開催！\n\n◆アーカイブチケット/ARCHIVE TICKETS\n日本：https://supernova.hololivepro.com/tickets/\nOverseas：https:/..."
-            }
-        ]
+        "videos": []
     },
     "@HoushouMarine": {
         "channel_url": "https://www.youtube.com/@HoushouMarine",
@@ -127,7 +120,14 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "u2fXY6S8hUE",
+                "title": "【死んだら終了】ハードコアマイクラでネザーに下見に行く会ブレイズ編【一条莉々華/hololive DEV_IS　ReGLOSS】",
+                "thumbnail": "https://i.ytimg.com/vi/u2fXY6S8hUE/hqdefault.jpg?v=69b42452&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAt61ADg8lzD9qDA_I_31gAy-LvAQ",
+                "description": "ちゃんと現世に帰れるか不安になってきました。\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・..."
+            }
+        ]
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -152,7 +152,14 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "pCEZ4QXnrDc",
+                "title": "【メン限】らでんの出張美術教室！inメン限教室※幕張の再演をします！【儒烏風亭らでん/ReGLOSS】",
+                "thumbnail": "https://i.ytimg.com/vi/pCEZ4QXnrDc/hqdefault.jpg?v=69b53b68&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgnaAm1lZnIsqjkX0MHYr79acx7A",
+                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\n\n\n▼儒烏風亭らでんソロ曲「落噺」楽曲配信..."
+            }
+        ]
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -218,7 +225,14 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "37-BQIYgEnk",
+                "title": "【member's only】playing something new...the start of a series, even?! #calliolive",
+                "thumbnail": "https://i.ytimg.com/vi/37-BQIYgEnk/hqdefault.jpg?v=69b53825&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMsYdQuJT6x7Cvn0d-zzrzNSdodA",
+                "description": "DISASTERPIECE New Album ON Sale!\nStreaming: https://lnk.to/mc_dsp\nCD and Merch: https://lnk.to/mc_dp_ec\n\nLINE Stickers: https://line.me/S/sticker/32114569\n\nBGM: https://x.com/BigRicePiano\nhttps://x..."
+            }
+        ]
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -255,7 +269,14 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ONxKY-KHq2c",
+                "title": "【 マリオテニス 】れんしゅうあるのみだよねェ～～【 猫又おかゆ/ホロライブ 】",
+                "thumbnail": "https://i.ytimg.com/vi/ONxKY-KHq2c/hqdefault.jpg?v=69b460e7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvqm8slyavpEeV6EMgZ7g5o3cwOw",
+                "description": "❥・・ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ・・❥\n\n🍙生誕グッズ2026🍙\n3/23(月) 18時まで受注受付中！\n‣ https://shop.hololivepro.com/products/nekomataoka..."
+            }
+        ]
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -322,7 +343,14 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "-eTdQuZGODk",
+                "title": "【料理/カメラ有】いろは…ボク一人でクッキー作れるもん！！！！！ホワイトデー編【ホロライブ/ ロボ子さん 】",
+                "thumbnail": "https://i.ytimg.com/vi/-eTdQuZGODk/hqdefault.jpg?v=69b4b3ca&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCO7zeL92KNTXUaohmz3-9Ad03dw",
+                "description": "＃ホロライブ 　\nｘでは💬　 #ロボ子生放送 でポストしてってね\n\n💜ござる先生に教えてもらった時の配信↓\nhttps://www.youtube.com/watch?v=YrS6AbQSiD4&t=155..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -361,10 +389,10 @@
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
         "videos": [
             {
-                "video_id": "8MDlT-1PjAY",
-                "title": "【R.E.P.O.】英語を喋ったら即終了REPO　めざせLEVEL５　【白上フブキ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/8MDlT-1PjAY/hqdefault.jpg?v=69b50084&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBy9IZzrbz0OdcqK1HKPoty_Ez02A",
-                "description": "━━━━━━━━━━━━━━━━━━━━━━━\n✦小説『FBKINGDOM STORY』\nフブキングダム、それは、夢が叶う魔法の王国。\n▷https://www.youtube.com/@S..."
+                "video_id": "NiEBZWEAQqo",
+                "title": "【マリオテニスフィーバー】こそれん【白上フブキ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/NiEBZWEAQqo/hqdefault.jpg?v=69b55074&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAeOG4Nfz52jbzOwnNfoOPsGwCy0Q",
+                "description": "✦小説『FBKINGDOM STORY』\nフブキングダム、それは、夢が叶う魔法の王国。\n▷https://www.youtube.com/@ShirakamiFubuki/posts\n\n『I Can't Wait 』(cover)\n▷https://youtu.be/Q..."
             }
         ]
     },
@@ -372,13 +400,27 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "m5tCLPiFKLY",
+                "title": "【スプラトゥーン3/サーモンラン】お久二人で仲良くビッグラン🐟【不知火フレア/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/m5tCLPiFKLY/hqdefault.jpg?v=69b550b2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCrPaVM0Y4p3PhJWNoH8eSBuktv1w",
+                "description": "@IRyS    永遠のイカ友\n\n■Newシングル「架空と本当」MV公開中✨\nhttps://www.youtube.com/watch?v=1DBMg1dqfhM\n💿各種音楽サービス配信版 配信中✨\nhttps://cover.lnk.t..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "k39JkJwR4F0",
+                "title": "【同時視聴】劇場版 機動戦士ガンダム 一緒に観ようッ！！【白銀ノエル/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/k39JkJwR4F0/hqdefault.jpg?v=69b4c108&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFwMsZoKyqCwkMwamE2fGLqqzBaQ",
+                "description": "どこでみようか悩みちゅ！ミラーではないので各自準備お願いしまっする💪\n※続きの二部作は後日みるよ～！！！\n\n・本配信は、株式会社 創通、..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -402,7 +444,14 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "LP1zXaWGzxk",
+                "title": "＃３【ぽこ あ ポケモン】新しいポケモンとの出会いと再会♪【轟はじめ/ReGLOSS】",
+                "thumbnail": "https://i.ytimg.com/vi/LP1zXaWGzxk/hqdefault.jpg?v=69b54030&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDT8ACp4834AW90-E7h44L_1iBlqg",
+                "description": "素敵なサムネお写真：よく響くギロ様（@giro9192）\n\n配信タイトル：ぽこ あ ポケモン\n公式ページ：https://www.pocoapokemon.jp/ja/\n￣￣￣￣￣￣￣￣￣￣￣..."
+            }
+        ]
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
@@ -438,14 +487,7 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": [
-            {
-                "video_id": "HOI03J67R5Q",
-                "title": "【#まがまがーず】久々にアソビ大全で戦いますか！！【雪花ラミィ・桃鈴ねね /ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/HOI03J67R5Q/hqdefault.jpg?v=69b52e45&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3dFZHCj-dVjaetNKX-sdIhpGdnQ",
-                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n桃鈴さん@MomosuzuNene \n\n復刻グッズ\n販売期間　2/26（木）22:00～3/30（月..."
-            }
-        ]
+        "videos": []
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
@@ -487,14 +529,7 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
-        "videos": [
-            {
-                "video_id": "WVz5OPvWBic",
-                "title": "【マリオテニスフィーバー】とりあえず3カップ全部たおしてきた🎾【風真いろは/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/WVz5OPvWBic/hqdefault.jpg?v=69b4c860&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6xIaVyGHVgKVnJiki-fIgxyVLlA",
-                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n\n*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*..."
-            }
-        ]
+        "videos": []
     },
     "@mikenekoko": {
         "channel_url": "https://www.youtube.com/@mikenekoko",
