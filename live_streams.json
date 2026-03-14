@@ -70,20 +70,20 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "0EONIWgeqoI",
+                "title": "【誕生日カウントダウン】3/15は #博衣こより生誕祭2026 🎂一緒に迎えてほしい！1年後の自分への手紙も書く＆読むよ～！【博衣こより/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/0EONIWgeqoI/hqdefault.jpg?v=69b40a48&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBX8NSH3o26oD2wshm_ZMYUa3UysA",
+                "description": "3/15の主役は、こよだーーーーーーーーーッッッ！！！✨ #博衣こより生誕祭2026 でポストしていっぱいお祝いしてね❣\n当日19時からは重大告知アリ..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": [
-            {
-                "video_id": "r2Asan6aFPE",
-                "title": "【 ダブルキャスト｜PS版 】レトロゲーム『やるドラ』シリーズの1作目で遊ぶのら！！！＃２ 最終回【姫森ルーナ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/r2Asan6aFPE/hqdefault.jpg?v=69b42a45&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDq5FokRZrjiprUBWbjW1O7E1vqDA",
-                "description": "ダブルキャスト再生リスト\nhttps://www.youtube.com/playlist?list=PL6gUpTCMieF6oDMxt6s078lNEfCS7E9Tj\n\nダブルキャスト\n\n▷==================================◁\n\n🍖ホロライブ×..."
-            }
-        ]
+        "videos": []
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -113,14 +113,7 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
-        "videos": [
-            {
-                "video_id": "u2fXY6S8hUE",
-                "title": "【死んだら終了】ハードコアマイクラでネザーに下見に行く会ブレイズ編【一条莉々華/hololive DEV_IS　ReGLOSS】",
-                "thumbnail": "https://i.ytimg.com/vi/u2fXY6S8hUE/hqdefault.jpg?v=69b42452&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAt61ADg8lzD9qDA_I_31gAy-LvAQ",
-                "description": "ちゃんと現世に帰れるか不安になってきました。\n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配信・..."
-            }
-        ]
+        "videos": []
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -317,7 +310,14 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "A0ywRASGBls",
+                "title": "【Mario Tennis Fever】erm... (PRACTICE STREAM)【Pavolia Reine/holoID 2nd gen】",
+                "thumbnail": "https://i.ytimg.com/vi/A0ywRASGBls/hqdefault.jpg?v=69b5656a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0ujKVrqBY-huh5jD5yejIatvL2A",
+                "description": "Reine's new original song now AVAILABLE on iTunes, Apple Music, Spotify etc. starting September 10, 2025 00:00 your local time!!!\nWatch the MV:➡️https://youtu.be/NEtiag8nTUs\nGet it here:➡️h..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -329,14 +329,7 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
-        "videos": [
-            {
-                "video_id": "-eTdQuZGODk",
-                "title": "【料理/カメラ有】いろは…ボク一人でクッキー作れるもん！！！！！ホワイトデー編【ホロライブ/ ロボ子さん 】",
-                "thumbnail": "https://i.ytimg.com/vi/-eTdQuZGODk/hqdefault.jpg?v=69b4b3ca&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCO7zeL92KNTXUaohmz3-9Ad03dw",
-                "description": "＃ホロライブ 　\nｘでは💬　 #ロボ子生放送 でポストしてってね\n\n💜ござる先生に教えてもらった時の配信↓\nhttps://www.youtube.com/watch?v=YrS6AbQSiD4&t=155..."
-            }
-        ]
+        "videos": []
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -350,10 +343,10 @@
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
         "videos": [
             {
-                "video_id": "oYaZpmSWoGo",
-                "title": "#5【ポケモンファイアレッド】はじめての人生縛りでゆく生き残りをかけた ファイアレッドの旅～みこちと人生縛り伝説～【ホロライブ/さくらみこ】",
-                "thumbnail": "https://i.ytimg.com/vi/oYaZpmSWoGo/hqdefault.jpg?v=69b5276d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAz_9kwSDYmmUww6A0KU2vvfrC8rw",
-                "description": "現在までの犠牲者の会：あちゅどん(ヒトカゲ)/シンジ(ポッポ)/インキー(マンキー)/イワテケン(イシツブテ)/クサカレタ＆タンシバw(ナゾノクサ)..."
+                "video_id": "wP9w-hWScFE",
+                "title": "【ぽこあポケモン】深夜のみこ あ ポケモン生活３日目【ホロライブ/さくらみこ】",
+                "thumbnail": "https://i.ytimg.com/vi/wP9w-hWScFE/hqdefault.jpg?v=69b573cf&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPYbqfGBEe2f34xuoOxo6Vwp-e2w",
+                "description": "裏ですすめたりしたので色々みせたりあたらしい場所いく！！！！\n\n⪩⪨　お知らせ/ɪɴғᴏ\n￣￣￣￣￣￣￣￣￣￣￣￣￣\n　🌸さくらみこ1st..."
             }
         ]
     },
@@ -436,7 +429,14 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "nvMQdkifIEU",
+                "title": "【マリオテニス フィーバー】今日も楽しく練習だ！【ホロライブ/ときのそら】",
+                "thumbnail": "https://i.ytimg.com/vi/nvMQdkifIEU/hqdefault.jpg?v=69b56a4f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbrmbE9ZToMhR9BHvfPddJGnG8iQ",
+                "description": "練習していこうと思う！\n楽しむぞ～！！\n\n～サムネイラスト～\n星クズの夜様：https://x.com/hoshikuzu_yoru\n\nこの動画およびライブは、任天堂著作物の利..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
