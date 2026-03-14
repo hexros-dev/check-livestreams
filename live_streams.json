@@ -304,7 +304,14 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "8WTZrreQ420",
+                "title": "Future Games Show: Spring Showcase | VOD Watch",
+                "thumbnail": "https://i.ytimg.com/vi/8WTZrreQ420/hqdefault.jpg?v=69b4a88f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDw98pMD5FM9TJZsTLyR0tQ1cl9MA",
+                "description": "VOD Link, but I'll show it on the stream anyway!\nhttps://www.youtube.com/live/iJQzdmAWyR4?si=WVUC5-ao_q2sBMs4\n\nMy first original song 「Monsters and Men」OUT NOW!\n🎧Listen to it here: https://c..."
+            }
+        ]
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",

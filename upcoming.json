@@ -258,7 +258,15 @@
         "channel_url": "https://www.youtube.com/@NakiriAyame",
         "channel_name": "Nakiri Ayame Ch. 百鬼あやめ",
         "avatar_url": "https://yt3.googleusercontent.com/3CeLWGYb6cLUywTJzNt-UpITviNxeGNvtjhIqbV-AIybCqCoFw9onWtg91bjwpqvfEP9mfqIR4Q",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Oi4HHboBJrw",
+                "title": "【#ホロマリオテニス大会 】勝つぞ勝つぞ勝つぞ勝つぞ勝つぞ勝つぞ勝つぞ【百鬼あやめ/ホロライブ】",
+                "date": "2026/03/15 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Oi4HHboBJrw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5Q59O54R3HFzomZ-qE0TH7i1LsA",
+                "description": "- - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - -ഒ˖°\n\n\n※この動画およびライブは、任天堂著作物の利用許諾を受けて配..."
+            }
+        ]
     },
     "@NanashiMumei": {
         "channel_url": "https://www.youtube.com/@NanashiMumei",
@@ -341,10 +349,10 @@
         "videos": [
             {
                 "video_id": "SH7mDTslg3w",
-                "title": "【】【ホロライブ/大空スバル】",
+                "title": "【#6】ウマ娘 プリティーダービーやるしゅばああああああああああああああああああああああああああああああ！！！！！！！！：Umamusume: Pretty Derby【ホロライブ/大空スバル】",
                 "date": "2026/03/15 11:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/SH7mDTslg3w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQwIHzo8G4VKGbDhgXxhKdEgDBRg",
-                "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n\n🔽楽曲各..."
+                "description": "本ゲームは株式会社Cygamesの配信ガイドラインに則って配信・収益化を行なっております。\nhttps://umamusume.jp/news/detail?id=107\n\n🐣おやくそく/Rule🐣..."
             },
             {
                 "video_id": "UNhJTlf1tC0",
@@ -415,15 +423,7 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": [
-            {
-                "video_id": "8WTZrreQ420",
-                "title": "Future Games Show: Spring Showcase | VOD Watch",
-                "date": "2026/03/15 03:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/8WTZrreQ420/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDw98pMD5FM9TJZsTLyR0tQ1cl9MA",
-                "description": "VOD Link, but I'll show it on the stream anyway!\nhttps://www.youtube.com/live/iJQzdmAWyR4?si=WVUC5-ao_q2sBMs4\n\nMy first original song 「Monsters and Men」OUT NOW!\n🎧Listen to it here: https://c..."
-            }
-        ]
+        "videos": []
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
@@ -497,6 +497,13 @@
                 "date": "2026/03/15 07:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/9yUk1moxVGE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQlcl9e8da3bMTbFEVrAoGvfmUMQ",
                 "description": "関係性オタクにたまらない作品なんだ・・・\n\nこのゲーム実況は「バンダイナムコエンターテインメント ゲーム実況ポリシー」に基づき制作・配..."
+            },
+            {
+                "video_id": "cJusSkPAk4U",
+                "title": "【 金鯱賞＆スプリングS 】連続的中を切らさず今週もいきたい・・・！【鷹嶺ルイ/ホロライブ】",
+                "date": "2026/03/15 12:15:00",
+                "thumbnail": "https://i.ytimg.com/vi/cJusSkPAk4U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJaGLg4XCkgW7qQXN_PNry3JoA3A",
+                "description": "金鯱賞：15:15発走 中京競馬場 芝2000m\nスプリングS：15:45発走 中山競馬場 芝1800m\n\n【2026年競馬配信（海外・地方競馬と合同）】\nブラック企業時代に..."
             }
         ]
     },
