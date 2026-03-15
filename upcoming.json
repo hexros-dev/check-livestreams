@@ -45,15 +45,7 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": [
-            {
-                "video_id": "3Nje9S63jio",
-                "title": "【MARIO TENNIS FEVER #ホロマリオテニス大会】新パジャマ衣装でPOWER UP✨️ tennis matches are always won in pjs 🐾【FUWAMOCO】",
-                "date": "2026/03/15 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/3Nje9S63jio/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDyfBy8oZbfCtwWRZid1Qczqo7Gvw",
-                "description": "もしかして才能あるかも～？✨️ pajamas are the trick to winning!! 🐾\nlovely illustration by @homprin 💓\n\n🌙🎀𝗙𝗨𝗪𝗔𝗠𝗢𝗖𝗢 𝟮𝟬𝟮𝟲 𝗡𝗘𝗪..."
-            }
-        ]
+        "videos": []
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -301,7 +293,7 @@
         "videos": [
             {
                 "video_id": "UNhJTlf1tC0",
-                "title": "【】マリテニ大会本番【ホロライブ/大空スバル】",
+                "title": "【#ホロマリオテニス大会】マリテニ大会本番！！！！優勝目指してがんばるしゅばあああああああああああああああああああ！！！！！！【ホロライブ/大空スバル】",
                 "date": "2026/03/15 19:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/UNhJTlf1tC0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDuGt6UE5D7IY_lUpbZbMEvhEHk7g",
                 "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n\n🔽楽曲各..."
@@ -502,7 +494,15 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "zM6_c1NX6pY",
+                "title": "【メンバー限定】NODOGASAGASA【雪花ラミィ /ホロライブ】",
+                "date": "2026/03/15 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/zM6_c1NX6pY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAY77flRnSN0Znkr1hV5V5d7hqOfA",
+                "description": "※22時になったらメンバー限定配信に切り替わります\n　At22:00 p.m., the distribution will switch to members-only distribution.\n　メン限で話した内容は内緒でお願..."
+            }
+        ]
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
