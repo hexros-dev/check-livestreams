@@ -282,7 +282,15 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "4LUlcWn9DPc",
+                "title": "【】ご褒美ぽこあ【ホロライブ/大空スバル】",
+                "date": "2026/03/17 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/4LUlcWn9DPc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2lFiI6iokbKPdI59PdNOMB-Exrg",
+                "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n\n🔽楽曲各..."
+            }
+        ]
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -472,15 +480,7 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
-        "videos": [
-            {
-                "video_id": "b5xA5I1zoJk",
-                "title": "風真いろはの #ねるまえらじお 📻❣ #13",
-                "date": "2026/03/15 22:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/b5xA5I1zoJk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlxYvSqjtN28JnKEJPaBmfRtHuPA",
-                "description": "第13回 #ねるまえらじお 📻\n沢山のふつおたありがとうございます✨\n\nお便り募集はXまたはYoutubeコミュニティにて発信中❣\nぜひフォローやチャン..."
-            }
-        ]
+        "videos": []
     },
     "@mikenekoko": {
         "channel_url": "https://www.youtube.com/@mikenekoko",
