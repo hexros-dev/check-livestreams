@@ -45,7 +45,14 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "MgQH_AWIE6Y",
+                "title": "【PAJAMA OUTFIT REVEAL】sleepy nighty night pajama time 🐾 #FWMCpajamas【ANNOUNCEMENT 発表あり】",
+                "thumbnail": "https://i.ytimg.com/vi/MgQH_AWIE6Y/hqdefault.jpg?v=69b4aaf3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZPn9LRsKAkEeL08p71XhUs0kUWw",
+                "description": "time to show you... our pajamas?! ✨ + announcements!!\ndon't look too much, okay?! bau bau... ⤵️⤵️\n\n🩵 FUWAMOCO 𝟮𝗻𝗱 𝗼𝗿𝗶𝗴𝗶𝗻𝗮𝗹 𝘀𝗼𝗻𝗴 \"Lifetime..."
+            }
+        ]
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -57,13 +64,27 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "jsLmD_znyU8",
+                "title": "≪Pokémon Pokopia≫ OUR VILLAGE EXPANDS! #2",
+                "thumbnail": "https://i.ytimg.com/vi/jsLmD_znyU8/hqdefault.jpg?v=69b55b36&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0whSySWeLWqLhY6VxtyzZEIEeEg",
+                "description": "more chillaxing\n\nThumbnail Art: https://x.com/gummy_candy_93/status/2031619980547236092/photo/1\n\n#telebae #hololiveenglish \n\n««≪ °◇◆◇° ≫ »»\nHakos Baelz 「ReCOLOR」 Birthday..."
+            }
+        ]
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "SbOPW5l0U_k",
+                "title": "【WBC同時視聴】準々決勝！日本VSベネズエラを一緒に応援しよう！│2026 World Baseball Classic #WBC2026 #こよりとWBC 【博衣こより/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/SbOPW5l0U_k/hqdefault.jpg?v=69b419ee&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAaqCBo0c1NdrU7n7MMuSLpwr60Hw",
+                "description": "#こよりとWBC でポスト❣⚾✨ ここからは負けたら終わりな準々決勝です・・・！！\n#WBC 同時視聴させていただける喜び！感謝！！(半年前くらいか..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -135,14 +156,7 @@
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
         "channel_name": "Kobo Kanaeru Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B",
-        "videos": [
-            {
-                "video_id": "71KBs47MMNw",
-                "title": "【Resident Evil 4】Chapter 5 - Chapter 6",
-                "thumbnail": "https://i.ytimg.com/vi/71KBs47MMNw/hqdefault.jpg?v=69b5cf3c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1I6I7AGXLQTxN_hlU_etPUTJAPQ",
-                "description": "Bokobokobo- Kobo Kanaeru at your service! Let me be your sun to shine your day, ehe~ ;D ☔☔☔\n#OnAeru #Kobo_Kanaeru #holoID #holoID03\n\nThis video and livestream are being streamed with..."
-            }
-        ]
+        "videos": []
     },
     "@KoganeiNiko": {
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
@@ -190,7 +204,14 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "38pU4lr61uc",
+                "title": "【member's only concert】it's march! what am I singing!! ...no really what am i singing #calliolive",
+                "thumbnail": "https://i.ytimg.com/vi/38pU4lr61uc/hqdefault.jpg?v=69b535b5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC7KB5C21owlfLxKnfVs8pxmcGOsQ",
+                "description": "DISASTERPIECE New Album ON Sale!\nStreaming: https://lnk.to/mc_dsp\nCD and Merch: https://lnk.to/mc_dp_ec\n\nLINE Stickers: https://line.me/S/sticker/32114569\n\nBGM: https://x.com/BigRicePiano\nhttps://x..."
+            }
+        ]
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -322,7 +343,14 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "5YURFz9vj2s",
+                "title": "【朝活雑談】ホロメンとごはんいったり！先週プライベートトークできなかった分いっぱい話したい🎵【白銀ノエル/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/5YURFz9vj2s/hqdefault.jpg?v=69b5823c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCUAEUIxM4bu4nf0zaGQcNSHynN7w",
+                "description": "PCの調子が悪かったらごめん！！！！！(昨日の同時視聴オフライン祭だった💦)\n\n💗「イタズラーニャ」MV公開中🐈\nhttps://youtu.be/QjkiIMRW07w\n\n💚新曲..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -340,7 +368,14 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "9yUk1moxVGE",
+                "title": "【 ドラゴンボールZ KAKAROT 】完全初見！ピッコロさん好きすぎて滅！！！！！【鷹嶺ルイ/ホロライブ】※ネタバレあり",
+                "thumbnail": "https://i.ytimg.com/vi/9yUk1moxVGE/hqdefault.jpg?v=69b51970&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQlcl9e8da3bMTbFEVrAoGvfmUMQ",
+                "description": "関係性オタクにたまらない作品なんだ・・・\n\nこのゲーム実況は「バンダイナムコエンターテインメント ゲーム実況ポリシー」に基づき制作・配..."
+            }
+        ]
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
@@ -448,6 +483,13 @@
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "lwRuCb2dUZU",
+                "title": "【朝活】毎年胃腸炎になってる気がするんだけど抗体どこいった　#結城さくな生放送 #さくもに",
+                "thumbnail": "https://i.ytimg.com/vi/lwRuCb2dUZU/hqdefault.jpg?v=69b55928&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDZMNyh0DqBheypHsqnOT13fBNWg",
+                "description": "🎀グッズ・ボイス販売はこちら🐾\nhttps://yuki-sakuna.stores.jp/\n\n🎀歌ってみた動画🐾\nhttps://youtube.com/playlist?list=PLErsMirGq93vRw-CcRaaZfR4QVxl2uBsb&si=BRmEr8erE6aR-UJ..."
+            }
+        ]
     }
 }
