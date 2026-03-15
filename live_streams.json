@@ -100,14 +100,7 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": [
-            {
-                "video_id": "ElDmvy04IyQ",
-                "title": "【Mario Tennis FEVER】LAST MINUTE TRAINING☆彡ラスト練習！【Practice Stream】",
-                "thumbnail": "https://i.ytimg.com/vi/ElDmvy04IyQ/hqdefault.jpg?v=69b5b868&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZ7Sxoi0TDp-PratAu78jL5_obbA",
-                "description": "Gotta get as good as possible before tournament!\n\nNintendo properties used in this video and livestream are used with permission and under license by Nintendo Co., Ltd.\n\n#hololiveenglish  ..."
-            }
-        ]
+        "videos": []
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -150,7 +143,14 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Sm2zmkSytaY",
+                "title": "【マリオテニスフィーバー】大会直前！最後の練習🔥【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "thumbnail": "https://i.ytimg.com/vi/Sm2zmkSytaY/hqdefault.jpg?v=69b635de&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5I8i1F2unGqFIvnzfqCPgNgWzFw",
+                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\nサムネイルの素敵なイラスト　ちゃんまろるさん　https://x.com/chanmar..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -174,7 +174,14 @@
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "WV5A13Bh41U",
+                "title": "【KARAOKE】 GONNA SING UNTIL WE SING 1.4M!!! 【Kureiji Ollie】",
+                "thumbnail": "https://i.ytimg.com/vi/WV5A13Bh41U/hqdefault.jpg?v=69b64ecb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDV9WDu8TVw-aJ-3ICqTWpnh6prgw",
+                "description": "❥・・───༅༚˳ . ୨୧ . ˳༚༅༚─── ・・❥\n\n #OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n────୨｡ ₊°༺❤︎༻°₊ ｡ৎ────\n\n Did you..."
+            }
+        ]
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
@@ -264,14 +271,7 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": [
-            {
-                "video_id": "SH7mDTslg3w",
-                "title": "【#6】ウマ娘 プリティーダービーやるしゅばああああああああああああああああああああああああああああああ！！！！！！！！：Umamusume: Pretty Derby【ホロライブ/大空スバル】",
-                "thumbnail": "https://i.ytimg.com/vi/SH7mDTslg3w/hqdefault.jpg?v=69b5bde3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQwIHzo8G4VKGbDhgXxhKdEgDBRg",
-                "description": "本ゲームは株式会社Cygamesの配信ガイドラインに則って配信・収益化を行なっております。\nhttps://umamusume.jp/news/detail?id=107\n\n🐣おやくそく/Rule🐣..."
-            }
-        ]
+        "videos": []
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -295,7 +295,14 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "_fcFqCQt0Rc",
+                "title": "【マリオテニスフィーバー】直前練習～～～！がんばれ！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "thumbnail": "https://i.ytimg.com/vi/_fcFqCQt0Rc/hqdefault.jpg?v=69b666e7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9U6r8kmNICGcgjB74Qi2f6l2ikg",
+                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\nはじめてのマリテ二・・・！頑張るぞ！！！！\n\nサムネイルイラス..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -350,7 +357,14 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "jS7LJlOrCPc",
+                "title": "【マリオテニス フィーバー】大会直前！！アカデミー卒業が負けるわけがない【白銀ノエル/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/jS7LJlOrCPc/hqdefault.jpg?v=69b63613&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC56LyzeaZlYY0-GUj1aXspDfGUPQ",
+                "description": "だよな！\n\n💗「イタズラーニャ」MV公開中🐈\nhttps://youtu.be/QjkiIMRW07w\n\n💚新曲「VAVAVA！バーチャル大分」MV公開中🌏\nhttps://youtu.be/k6V5yGjakC8\n\nこの動画..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -477,14 +491,7 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": [
-            {
-                "video_id": "WSEjdBmzxbA",
-                "title": "【ロマサガ2】シリーズ初見！『ロマンシング サガ2 リベンジオブザセブン』やる！ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意",
-                "thumbnail": "https://i.ytimg.com/vi/WSEjdBmzxbA/hqdefault.jpg?v=69b54228&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAGKdPvyviZS-23LVbDus1168N4sg",
-                "description": "ﾋﾟｺｰﾝ!!が忘れられない\n\nサムネイラスト：憂姫はぐれマッマ\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
