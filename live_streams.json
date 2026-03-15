@@ -261,7 +261,14 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "jG6a4qK6iWQ",
+                "title": "REINE FINALLY PLAYS FATAL FRAME II: Crimson Butterfly REMAKE (SPOILER ALERT)",
+                "thumbnail": "https://i.ytimg.com/vi/jG6a4qK6iWQ/hqdefault.jpg?v=69b6bf77&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBouSpLA5mzq-vSfYlB4jS27w2pSw",
+                "description": "Reine's new original song now AVAILABLE on iTunes, Apple Music, Spotify etc. starting September 10, 2025 00:00 your local time!!!\nWatch the MV:➡️https://youtu.be/NEtiag8nTUs\nGet it here:➡️h..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -425,14 +432,7 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": [
-            {
-                "video_id": "g_r3bZCcahw",
-                "title": "【Pokémon Pokopia】RAO IS BACK into the POKEMON WORLD!【Raora Panthera】",
-                "thumbnail": "https://i.ytimg.com/vi/g_r3bZCcahw/hqdefault.jpg?v=69b64c39&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBpuhSLDCRNBFE1Xs-JUFWnWa8DYQ",
-                "description": "💝 Sweet-but-Deadly Valentine's Merch is out now!!! 💝\nーーーーーーーーー\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/raorapanthera_sweetbutdeadlyval..."
-            }
-        ]
+        "videos": []
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
