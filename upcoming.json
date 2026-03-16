@@ -437,7 +437,15 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "GpS0taYwkbo",
+                "title": "【ARKNIGHTS: ENDFIELD】NEW STORY UPDATE ✨ #kfp #キアライブ",
+                "date": "2026/03/18 01:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/GpS0taYwkbo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBeWNOPUUhuK4febIT4mfRuWLkAQ",
+                "description": "Arknights: Endfield is available on PlayStation®5! Download the game now: https://store.playstation.com/concept/10009205/ \n\n\n#PR #PlayStation5 #ps5 #ps5games #arknightsendfield \n\nCONCERT STREAMING..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
