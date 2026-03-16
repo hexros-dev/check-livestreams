@@ -116,7 +116,15 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "g0tzNtxrkic",
+                "title": "【Resident Evil Requiem】LET ME BE LEON (SPOILERS AHEAD)",
+                "date": "2026/03/17 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/g0tzNtxrkic/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDehnajUpGjxmUcFRDKB4ooyqf-_A",
+                "description": "I might be scared again\n\nThis video and livestream are being streamed with permission and under license by CAPCOM CO., LTD.\n※Please note that this video contains grotesque language. Minors..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
