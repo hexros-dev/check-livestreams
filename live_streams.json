@@ -9,14 +9,7 @@
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
         "channel_name": "Airani Iofifteen Channel hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc",
-        "videos": [
-            {
-                "video_id": "vhQSwHJsvME",
-                "title": "【Stardew Valley】#4 Mencari Nafkah Lagi【iofi / ホロライブID】",
-                "thumbnail": "https://i.ytimg.com/vi/vhQSwHJsvME/hqdefault.jpg?v=69b798d5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBd_-Rk87iwUC1cS2jeWu8B8fcKSA",
-                "description": "#ioLyfe #Airani_Iofifteen #hololive #holoID \n\nWith: @ayundarisu \nThis game is distributed and monetized after obtaining confirmation from the rights holder.\n\n【Support & Jajanin IOFI】🎨..."
-            }
-        ]
+        "videos": []
     },
     "@AkaiHaato": {
         "channel_url": "https://www.youtube.com/@AkaiHaato",
@@ -95,7 +88,14 @@
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
         "channel_name": "Suisei Channel",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "rmZIQK5YOnY",
+                "title": "【Poppy Playtime - Chapter 5】おまえ、見覚えがあるぞ。。。【ホロライブ / 星街すいせい】",
+                "thumbnail": "https://i.ytimg.com/vi/rmZIQK5YOnY/hqdefault.jpg?v=69b7b960&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCuwEZQFTSMq9CfpkRoWUlsvrqI_g",
+                "description": "2026年2月21日（土） Hoshimachi Suisei Live \"SuperNova: REBOOT\" 開催！\n\n◆アーカイブチケット/ARCHIVE TICKETS\n日本：https://supernova.hololivepro.com/tickets/\nOverseas：https:/..."
+            }
+        ]
     },
     "@HoushouMarine": {
         "channel_url": "https://www.youtube.com/@HoushouMarine",
@@ -143,14 +143,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": [
-            {
-                "video_id": "4ecKH71LPKg",
-                "title": "【 縦型歌枠/KARAOKE 】60万人耐久！！【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "thumbnail": "https://i.ytimg.com/vi/4ecKH71LPKg/hqdefault.jpg?v=69b789b9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCHiegp1XAI4DZu4uVP3-TQ2hZpgA",
-                "description": "メンバーシップ開設しました！加入はこちらから💕https://www.youtube.com/channel/UCGzTVXqMQHa4AgJVJIVvtDQ/join\n\n📢iOS ユーザーの皆様へ / for iOS(iPHONE, iPAD)..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -343,20 +336,20 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": [
-            {
-                "video_id": "Vc6i952DRkk",
-                "title": "【マリオテニス フィーバー】打ち上げランクマ🎾現在A＋...S帯を目指したっていい...！！！【白銀ノエル/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/Vc6i952DRkk/hqdefault.jpg?v=69b7a1cc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCEQOSqTihIyktkpl-iIhR00Xwxw",
-                "description": "ここまできたらS(-)って文字をみてみたい！(流石にキツイか？！)\n\n💗「イタズラーニャ」MV公開中🐈\nhttps://youtu.be/QjkiIMRW07w\n\n💚新曲「VAVAVA！バーチ..."
-            }
-        ]
+        "videos": []
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "TeLzKmSIUWs",
+                "title": "【スト6】#獅白杯オフライン 公募トーナメント選手紹介＆トーナメント発表！【獅白ぼたん/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/TeLzKmSIUWs/hqdefault.jpg?v=69b54fd0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9TEQRdo3jAkFwgf_RaWLLixkVoQ",
+                "description": "🔸『獅白杯 - オフライン -』について\n獅白ぼたん主催『獅白杯』が初のオフラインイベント開催決定！\n『獅白杯 - オフライン -』は2Daysで行われ..."
+            }
+        ]
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
