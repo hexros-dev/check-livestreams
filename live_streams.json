@@ -63,14 +63,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "ANRzaW_g4iY",
-                "title": "【対談コラボ】#ディスコードショッキング ～今月のゲスト：司賀りこ様～【博衣こより/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/ANRzaW_g4iY/hqdefault.jpg?v=69b80fcc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBcRITYvCQrQx3R7g2Ow8GEGBKqIQ",
-                "description": "#ディスコードショッキング でポスト❣ ゲストの紹介でゲストを繋いでいく企画を月イチで開催中！(ゲストはホロライブ外の女性で繋いでいく予..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -235,20 +228,20 @@
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
-        "videos": [
-            {
-                "video_id": "LAHdt80AmFk",
-                "title": "【バイオハザードレクイエム】ミリしら考察「ギデオンはグレースの父なのかな？」＃3【ネタバレあり】",
-                "thumbnail": "https://i.ytimg.com/vi/LAHdt80AmFk/hqdefault.jpg?v=69b83310&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPuGzjYO-xjIuYQtujaZTP9YxONw",
-                "description": "...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\nバイオハザードシリーズなにもしらない・・・！！？？\n初挑戦します✨..."
-            }
-        ]
+        "videos": []
     },
     "@NekomataOkayu": {
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "roWAHaXgTJk",
+                "title": "【 🔵ホラゲー 】ウミガリ｜海へ行こうじゃないか【 猫又おかゆ/ホロライブ 】",
+                "thumbnail": "https://i.ytimg.com/vi/roWAHaXgTJk/hqdefault.jpg?v=69b81456&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKWxjvQxs5tw8Nm-IKAlUWlX4w8w",
+                "description": "❥・・ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ・・❥\n\n🍙生誕グッズ2026🍙\n3/23(月) 18時まで受注受付中！\n‣ https://shop.hololivepro.com/products/nekomataoka..."
+            }
+        ]
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -309,7 +302,14 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "mJ4-M27BI8k",
+                "title": "【マリオテニスフィーバー】アカデミー卒業してきました！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "thumbnail": "https://i.ytimg.com/vi/mJ4-M27BI8k/hqdefault.jpg?v=69b92f0a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMxhkNaSxhEeNzOPhiSd7MjfEw8Q",
+                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\nサムネイルイラスト：工藤 改さま\nhttps://x.com/aiueobaio5\nありがとうご..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -431,14 +431,7 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": [
-            {
-                "video_id": "G7stlHG5lQ0",
-                "title": "【ぽこ あ ポケモン】ゆるゆるなぽこあ生活スタート【雪花ラミィ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/G7stlHG5lQ0/hqdefault.jpg?v=69b8f46d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsDF3Mp7w2XB8Hdj39hOe_8ShowQ",
-                "description": "配信タイトル：ぽこ あ ポケモン\n公式ページ：https://www.pocoapokemon.jp/ja/\n\nサムネイルイラスト：さば味噌さま\nhttps://x.com/sabamiso8318\n\n復刻グッズ..."
-            }
-        ]
+        "videos": []
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
@@ -480,14 +473,7 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
-        "videos": [
-            {
-                "video_id": "YWihbxWgLfc",
-                "title": "【JSP2】告知あり💡オフコラボで #あずいろ で1時間チャレンジ🔥【風真いろは/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/YWihbxWgLfc/hqdefault.jpg?v=69b8c473&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJvfxjKkmcvB67dIF-FsinXZb5gw",
-                "description": "こわいのですがそれは。\n\n\nいっしょにやる人\n@AZKi \n配信タイトル：日本事故物件監視協会2 Japan Stigmatized Property\nhttps://store.steampowered.com/app/4193270/2_Japa..."
-            }
-        ]
+        "videos": []
     },
     "@mikenekoko": {
         "channel_url": "https://www.youtube.com/@mikenekoko",
