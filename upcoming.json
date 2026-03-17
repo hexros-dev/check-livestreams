@@ -123,15 +123,7 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": [
-            {
-                "video_id": "MwiO5lCEFS0",
-                "title": "【Resident Evil Requiem】IT'S FEVER (Leon) TIME! (SPOILERS AHEAD)",
-                "date": "2026/03/18 10:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/MwiO5lCEFS0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5JK7bxbli2GD0rPvf9qvDFpYxSA",
-                "description": "I can't wait to throw an axe at everything\n\nThis video and livestream are being streamed with permission and under license by CAPCOM CO., LTD.\n※Please note that this video contains grotesque..."
-            }
-        ]
+        "videos": []
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -486,7 +478,15 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "CkqeMyopcKM",
+                "title": "【 REANIMAL 】リトルナイトメア I & II 開発チーム新作！フレわたで協力プレイ！ 前編【角巻わため/ホロライブ４期生】",
+                "date": "2026/03/18 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/CkqeMyopcKM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXfgcBqNrOMAY44tPIKyaT9wM8Og",
+                "description": "怪物だらけの地獄の島から逃げろおおおお！\nタグ：#フレわた\n\n一緒に脱出しようね！\n@ShiranuiFlare \n\n配信タイトル：REANIMAL\nストアページ：https://store..."
+            }
+        ]
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
