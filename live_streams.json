@@ -125,7 +125,14 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "1U5kZHtV1dw",
+                "title": "【歌枠】歌枠やるよん【ホロライブ DEV_IS 響咲リオナ】",
+                "thumbnail": "https://i.ytimg.com/vi/1U5kZHtV1dw/hqdefault.jpg?v=69b8fe45&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCCRNM0bLGaOxJ9FjJItujKJMUucA",
+                "description": "提供：XING INC.\n※JOYSOUND音源を使用しているため、本動画のカラオケ音源利用部分の切り抜き・転載はご遠慮ください。\n\nサムネイラスト　pan田さん..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -161,14 +168,7 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": [
-            {
-                "video_id": "UuSZnK80PRk",
-                "title": "【Arknights: Endfield】The cute girl calls to me...one Tangtang pls.",
-                "thumbnail": "https://i.ytimg.com/vi/UuSZnK80PRk/hqdefault.jpg?v=69b80869&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCuN-pLZk0jr54lAwiXwH3zsj7sSA",
-                "description": "Arknights: Endfield is available on PlayStation®5! Download the game now: https://store.playstation.com/ja-jp/concept/10009205/\n\n#PR #PlayStation5 #ps5 #ps5games #arknightsendfield \n\n=============..."
-            }
-        ]
+        "videos": []
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
