@@ -434,15 +434,7 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": [
-            {
-                "video_id": "vx82lMnP7rg",
-                "title": "I Burnt My Food Before Opening This Stream Room【Resident Evil Requiem】Spoilers Ahead",
-                "date": "2026/03/19 03:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/vx82lMnP7rg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQGFSZS1sBPC7XFC_Vm6I_jpifxg",
-                "description": "This stream is not suitable for minors.\n\nMy first original song 「Monsters and Men」OUT NOW!\n🎧Listen to it here: https://cover.lnk.to/Y6ZMPF\n📹Music Video here: https://www.youtube.com/watch..."
-            }
-        ]
+        "videos": []
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
@@ -454,7 +446,15 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "5kmty-W6pnU",
+                "title": "#02【 REANIMAL 】リトルナイトメア I & II 開発チーム新作！フレわたで協力プレイ！ 後編【不知火フレア/ホロライブ】",
+                "date": "2026/03/19 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/5kmty-W6pnU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmUGkVr5wKI0b6XeyJuSJVXdO0Ew",
+                "description": "@TsunomakiWatame わためぇ\n#01 https://www.youtube.com/watch?v=CkqeMyopcKM\n\n■New「Fun fair」MV公開✨\nhttps://www.youtube.com/watch?v=FdKux6g4HJ4\n\n━━━━━━━━━━━━━..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
