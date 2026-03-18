@@ -21,14 +21,7 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": [
-            {
-                "video_id": "kADU-VikHcY",
-                "title": "【Marathon】3人で新作FPS「Marathon」やってみるよ！w.常闇トワ/ラプラス・ダークネス【ホロライブ/アキロゼ】",
-                "thumbnail": "https://i.ytimg.com/vi/kADU-VikHcY/hqdefault.jpg?v=69ba67f6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTNwhvtDvdYCbkmX2KyJfIme62BA",
-                "description": "提供：ソニー・インタラクティブエンタテインメント\n‎© 2026 Bungie, Inc.\nBungie and Marathon are registered trademarks of Bungie Inc. in the United States and other..."
-            }
-        ]
+        "videos": []
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -76,7 +69,14 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "OEHPZ8kNRg4",
+                "title": "【 お喋り 】メンバー限定なのら(・o・🍬)【姫森ルーナ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/OEHPZ8kNRg4/hqdefault.jpg?v=69baa0d9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCqS0qc_zHNUGdZ36rdc326p2cAJQ",
+                "description": "サムネイラスト\n　よはさん　https://twitter.com/naota0048\n\n▷==================================◁\n\n🍖ホロライブ×モンハンワイルズコラボ開催🍖\nhttps://www.capcom...."
+            }
+        ]
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -94,14 +94,7 @@
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk",
-        "videos": [
-            {
-                "video_id": "m4WVslAL2Nk",
-                "title": "【同時視聴】超かぐや姫！をいっしょに観ませんか？【ホロライブ/宝鐘マリン】",
-                "thumbnail": "https://i.ytimg.com/vi/m4WVslAL2Nk/hqdefault.jpg?v=69ba6fdb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5FYMXWLtix9lhSc-K-m7kuSnt8A",
-                "description": "超かぐや姫！ネットフリックスで観ます！\nhttps://www.netflix.com/title/81756595\n\n｡.｡:+* ﾟ ゜ﾟ *+:｡.｡:+* ﾟ ゜ﾟ *+:｡.｡.｡:+*ﾟ ゜ﾟ *+:｡.｡:+*ﾟ..."
-            }
-        ]
+        "videos": []
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
@@ -126,13 +119,27 @@
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "i3gUj7KvH80",
+                "title": "【ポケモン】初☆ぽこあ！",
+                "thumbnail": "https://i.ytimg.com/vi/i3gUj7KvH80/hqdefault.jpg?v=69baa031&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSb7B2MibHdYxgMCtFo283k86Igg",
+                "description": "Play Game : ぽこ あ ポケモン ( switch2 )\nタグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nころねTwitter▶https://twitter...."
+            }
+        ]
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "u9-6gLLXq2g",
+                "title": "【 Cast n Chill 】久しぶりに、リオナとゆっくりチルしませんかっ？？？【ホロライブ DEV_IS 響咲リオナ】",
+                "thumbnail": "https://i.ytimg.com/vi/u9-6gLLXq2g/hqdefault.jpg?v=69ba3a53&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpKAvq9XEEJZnbj6oxb7zWWXlysg",
+                "description": "配信タイトル：Cast n Chill\nストアページ：https://store.steampowered.com/app/3483740/Cast_n_Chill/\n--------------------------------------------\nゆっくり過ごそうねえ\n---------..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -151,7 +158,14 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "bRFQT0akoIU",
+                "title": "【Crime Simulator】sneaky? no.",
+                "thumbnail": "https://i.ytimg.com/vi/bRFQT0akoIU/hqdefault.jpg?v=69baa6f0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBH72_EVMzX1wQfZpYvRbQF4hTXJQ",
+                "description": "playing with @ONShannon_ @PiaMeraleo-JKT48V \n∘₊✧──────✧₊∘∘₊✧──────✧₊∘∘₊✧──────✧₊∘∘₊✧──────✧₊∘..."
+            }
+        ]
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
@@ -194,20 +208,20 @@
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
         "channel_name": "Laplus ch. ラプラス・ダークネス - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/6Y5lj4DhikLBo0UqIZ1dT3-D3aYXVPbxUgNTyYiyE_Se8AVxkGAn05D3oc1y3whpzDu-CzEQ",
-        "videos": [
-            {
-                "video_id": "jhZ83gcD64g",
-                "title": "【Marathon】3人で新作FPS「Marathon」やってみる！【ラプラス・ダークネス/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/jhZ83gcD64g/hqdefault.jpg?v=69ba6018&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDC568u-diDtAky9TDrTg6KOJW1IA",
-                "description": "提供：ソニー・インタラクティブエンタテインメント\n‎© 2026 Bungie, Inc.\nBungie and Marathon are registered trademarks of Bungie Inc. in the United States and other..."
-            }
-        ]
+        "videos": []
     },
     "@MizumiyaSu": {
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "YF_rnjykdaw",
+                "title": "【メン限】OFFのテンションで作業したり話したり【水宮枢／ホロライブDEV_IS】",
+                "thumbnail": "https://i.ytimg.com/vi/YF_rnjykdaw/hqdefault.jpg?v=69ba9fc3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDy6sBUvMskTa6t4hJHE-l3D-6YLw",
+                "description": "▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸◂┄▹◃\n\n💙メンバーシップはこちらから ⬇️\nClick here for membership\nhttps://www.youtube.com/channel/UCjk2nKmHzgH5Xy-C5qYRd5A/j..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -237,14 +251,7 @@
         "channel_url": "https://www.youtube.com/@NakiriAyame",
         "channel_name": "Nakiri Ayame Ch. 百鬼あやめ",
         "avatar_url": "https://yt3.googleusercontent.com/3CeLWGYb6cLUywTJzNt-UpITviNxeGNvtjhIqbV-AIybCqCoFw9onWtg91bjwpqvfEP9mfqIR4Q",
-        "videos": [
-            {
-                "video_id": "4tjcBCqoLkE",
-                "title": "【 七つの大罪：Origin 】七つの大罪ゲームきちゃああああああああ【百鬼あやめ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/4tjcBCqoLkE/hqdefault.jpg?v=69ba2929&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_sk15OX3EDevRvkpYnZTK_2WoOg",
-                "description": "- - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - -ഒ˖°\n\n『七つの大罪：Origin』3月24日正式リリース！\n3月17日からPlayStation®5..."
-            }
-        ]
+        "videos": []
     },
     "@NanashiMumei": {
         "channel_url": "https://www.youtube.com/@NanashiMumei",
@@ -329,14 +336,7 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
-        "videos": [
-            {
-                "video_id": "Zcw32fcyips",
-                "title": "【ホロガード】えええ！？？偽物！？ホロメンが偽物か本物か高性能に見極めてやる！！【ホロライブ/ ロボ子さん 】",
-                "thumbnail": "https://i.ytimg.com/vi/Zcw32fcyips/hqdefault.jpg?v=69ba8355&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3zWPgW5dNxlJ3E9ZAep9L8NRThg",
-                "description": "＃ホロライブ 　\nｘでは💬　 #ロボ子生放送 でポストしてってね\n本ゲームは holo Indie の承諾を得た上で配信・収益化を行なっております。\n..."
-            }
-        ]
+        "videos": []
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -366,14 +366,7 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": [
-            {
-                "video_id": "FUdb1fAm-iE",
-                "title": "【ポケモンファイアレッド】　FR版ポケットモンスターゴールドコイキング　準備編　#金コイフブさん【白上フブキ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/FUdb1fAm-iE/hqdefault.jpg?v=69ba7bf8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNDq4mM9DOuiCLk0DOw-zH5q7lNg",
-                "description": "✦小説『FBKINGDOM STORY』\nフブキングダム、それは、夢が叶う魔法の王国。\n▷https://www.youtube.com/@ShirakamiFubuki/posts\n\n『I Can't Wait 』(cover)\n▷https://youtu.be/Q..."
-            }
-        ]
+        "videos": []
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -421,20 +414,20 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch.Tokoyami Towa",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": [
-            {
-                "video_id": "xNSMFkt--EE",
-                "title": "【 Marathon 】新作FPS「Marathon」やる🔥 w/アキロゼ、ラプラス【常闇トワ視点/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/xNSMFkt--EE/hqdefault.jpg?v=69ba3121&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUhoWkU8sX-Aug-du9AQ6XCbKnog",
-                "description": "提供：ソニー・インタラクティブエンタテインメント\n‎© 2026 Bungie, Inc.\nBungie and Marathon are registered trademarks of Bungie Inc. in the United States and other..."
-            }
-        ]
+        "videos": []
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "CkqeMyopcKM",
+                "title": "【 REANIMAL 】リトルナイトメア I & II 開発チーム新作！フレわたで協力プレイ！ 前編【角巻わため/ホロライブ４期生】",
+                "thumbnail": "https://i.ytimg.com/vi/CkqeMyopcKM/hqdefault.jpg?v=69b9e2bf&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXfgcBqNrOMAY44tPIKyaT9wM8Og",
+                "description": "怪物だらけの地獄の島から逃げろおおおお！\nタグ：#フレわた\n\n一緒に脱出しようね！\n@ShiranuiFlare \n\n配信タイトル：REANIMAL\nストアページ：https://store..."
+            }
+        ]
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -495,7 +488,14 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "_TEme0cP_hE",
+                "title": "【MEWGENICS】we play with cute little cats right???... RIGHT??",
+                "thumbnail": "https://i.ytimg.com/vi/_TEme0cP_hE/hqdefault.jpg?v=69b9eca3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8JntBUlZsySMtP3oECm3uUfoVRw",
+                "description": "╭─⋆｡ﾟ♡ RAO ♡｡ﾟ⋆─╮\n\nMy first Original Song is OUT!\n˗ˏˋ 𝔾𝕒𝕔𝕙𝕒×𝔾𝕒𝕔𝕙𝕒 𝔸𝔻𝕍𝔼ℕ𝕋𝕌ℝ𝔼! ˎˊ˗\n🐱https://youtu.be/1BTd20qIf..."
+            }
+        ]
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
