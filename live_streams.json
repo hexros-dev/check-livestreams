@@ -45,14 +45,7 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": [
-            {
-                "video_id": "ysiP3psRI5I",
-                "title": "【FORTNITE】suisei-senpai is about to get silly in these paws bibbidi bobbidi bau bau🐾【FUWAMOCO】",
-                "thumbnail": "https://i.ytimg.com/vi/ysiP3psRI5I/hqdefault.jpg?v=69b90308&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGExtePQEruJCUwYyYAHNKpHn9Rw",
-                "description": "finally... we will play fortnite, this time with a suisei buff✨️\n@NerissaRavencroft \n\n🌙🎀𝗙𝗨𝗪𝗔𝗠𝗢𝗖𝗢 𝟮𝟬𝟮𝟲 𝗡𝗘𝗪 𝗢𝗨𝗧𝗙𝗜𝗧 𝗠𝗘..."
-            }
-        ]
+        "videos": []
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -275,14 +268,7 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": [
-            {
-                "video_id": "OWJAysd-Nks",
-                "title": "【Overwatch】 sleepywatch【Pavolia Reine/holoID 2nd gen】",
-                "thumbnail": "https://i.ytimg.com/vi/OWJAysd-Nks/hqdefault.jpg?v=69ba09f8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDx236gf02QMa1mKqd20sckcHXHxQ",
-                "description": "Game Title: Overwatch 2\nThis stream has been approved by Blizzard Entertainment.\nThe views, information, or opinions expressed during the stream do not represent those of Blizzard Entertainment...."
-            }
-        ]
+        "videos": []
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -396,7 +382,14 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Gnw7keaZAB8",
+                "title": "【ぽこ あ ポケモン】#02 今日もまったりぽこあ【雪花ラミィ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/Gnw7keaZAB8/hqdefault.jpg?v=69ba367d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJD_hpzelvWreKvr-X_CxAiw49sw",
+                "description": "配信タイトル：ぽこ あ ポケモン\n公式ページ：https://www.pocoapokemon.jp/ja/\n\nサムネイルイラスト：まこちゃさま\nhttps://x.com/makocha_0\n\n復刻グッズ\n販売期..."
+            }
+        ]
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
