@@ -93,14 +93,7 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": [
-            {
-                "video_id": "MwiO5lCEFS0",
-                "title": "【Resident Evil Requiem】IT'S FEVER (Leon) TIME! (SPOILERS AHEAD)",
-                "thumbnail": "https://i.ytimg.com/vi/MwiO5lCEFS0/hqdefault.jpg?v=69b98c0f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5JK7bxbli2GD0rPvf9qvDFpYxSA",
-                "description": "I can't wait to throw an axe at everything\n\nThis video and livestream are being streamed with permission and under license by CAPCOM CO., LTD.\n※Please note that this video contains grotesque..."
-            }
-        ]
+        "videos": []
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -178,7 +171,14 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "uiDdOueaSl8",
+                "title": "【ぽこ あ ポケモン】いろはちゃんが虫めっちゃいるって教えてくれた！【 桃鈴ねね / hololive 】",
+                "thumbnail": "https://i.ytimg.com/vi/uiDdOueaSl8/hqdefault.jpg?v=69ba5108&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDh97Erxpxm3W8SqpxnD7ghTdnRGw",
+                "description": "虫どこ～～～～～～～～～～～～～～～💛\n⸜♡⸝MemberShipに入ったらもっとねねを知れるﾖ\nhttps://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA/join\n\n⸜♡⸝..."
+            }
+        ]
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
