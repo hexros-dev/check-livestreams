@@ -281,14 +281,7 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": [
-            {
-                "video_id": "9smBsufq6Qs",
-                "title": "【メン限】のんびり【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "thumbnail": "https://i.ytimg.com/vi/9smBsufq6Qs/hqdefault.jpg?v=69bc0c75&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFQIB_bgaGvuDxuXtrYxTTR7NR9g",
-                "description": "FLOWGLOW 1st Album『FLOW GLOW』\n2026.1.21 リリース\n🔽予約はこちらから🔽\nhttps://shop.hololivepro.com/products/hololivedevisflowglow_1stalbum_flowglow_limited\n情報まとめ..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -355,7 +348,14 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Db2tXiPhoP0",
+                "title": "【Blue Protocol: Star Resonance】back for a NEW LAND... THE STARLAND! BIG SURPRISE?!!?!! #ad",
+                "thumbnail": "https://i.ytimg.com/vi/Db2tXiPhoP0/hqdefault.jpg?v=69bb288a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9KeZz1BG-UIJPA-rMJnGFRPNV8A",
+                "description": "Blue Protocol: Star Resonance\nhttps://bpsr.onelink.me/Ijsy/9d8zdbro\n\nWEB：https://www.playbpsr.com/\nX：@Blue Protocol: Star Resonance\n\n#BlueProtocolStarResonance #StarResonance #BPSR #sponsored..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
