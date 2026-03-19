@@ -111,7 +111,14 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "x3uf68BYevw",
+                "title": "【定期配信＃２５】木曜のお昼の１２時はリオナとランチ❤【ホロライブ DEV_IS 響咲リオナ】#リオナとランチ",
+                "thumbnail": "https://i.ytimg.com/vi/x3uf68BYevw/hqdefault.jpg?v=69bad183&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUYM2Lw5zX0CcHvZWvEwBbHAYWwA",
+                "description": "♡...本日のスパーチャットはお名前読み上げのみになります！！\n\nサムネイラスト　フクノハラさん @ Gnwd8uV\nサムネロゴ　ロオウズさん @ roooose25..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -419,14 +426,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "1g5iPlzFlVY",
-                "title": "【PARANORMASIGHT:The Mermaid's Curse】mermaid audio book diaries (SPOILERS)",
-                "thumbnail": "https://i.ytimg.com/vi/1g5iPlzFlVY/hqdefault.jpg?v=69ba325f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhx0wJN1NzcmapVeEALoiE-ujn1w",
-                "description": "The gameplay footage in this video is used with permission from Square Enix Co., Ltd.\n © SQUARE ENIX\nAll company, product, and system names are the trademark/registered trademarks of the respectiv..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",

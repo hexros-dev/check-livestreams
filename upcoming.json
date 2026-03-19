@@ -148,13 +148,6 @@
                 "date": "2026/03/19 16:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/tVW9fz36RLk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCD3m-q_H-ak2TWF2rYhYKM2fnbGg",
                 "description": "本ゲームは Kinetic Games の確認を得た上で配信・収益化を行なっております\nゲームURL：\nhttps://store.steampowered.com/app/739630/Phasmophobia/\n\n∴∵∴ ୨୧..."
-            },
-            {
-                "video_id": "x3uf68BYevw",
-                "title": "【定期配信＃２５】木曜のお昼の１２時はリオナとランチ❤【ホロライブ DEV_IS 響咲リオナ】#リオナとランチ",
-                "date": "2026/03/19 10:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/x3uf68BYevw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUYM2Lw5zX0CcHvZWvEwBbHAYWwA",
-                "description": "♡...本日のスパーチャットはお名前読み上げのみになります！！\n\nサムネイラスト　フクノハラさん @ Gnwd8uV\nサムネロゴ　ロオウズさん @ roooose25..."
             }
         ]
     },
@@ -380,13 +373,29 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "I-prYGFrg8M",
+                "title": "【#ホロNEXT】PC免許！？枢ちゃんとPCのお勉強だ～！！！ゲームで実技も！？【水宮枢 輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "date": "2026/03/19 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/I-prYGFrg8M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfN6ZackZ_WOEoIMoSLHJy7jp--A",
+                "description": "提供：マウスコンピューター\n\n💙おすすめモデルまとめ！配信を記念した特設ページはこちら🔧\nhttps://www.mouse-jp.co.jp/store/e/ea1022700/?utm_source=hololive&..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "SHlRF4ZGTFk",
+                "title": "【オフコラボ】＃ちょろぼ のお悩み相談室✨【ホロライブ/ ロボ子さん・癒月ちょこ 】",
+                "date": "2026/03/19 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/SHlRF4ZGTFk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRMEp5IHuoP2y9gdIo8rrBI7zHvQ",
+                "description": "＃ホロライブ 　\nｘでは💬　 #ちょろぼ でポストしてってね\n\n💝ここで君のお悩みを募集中！\nhttps://marshmallow-qa.com/robocosan?t=f7lghm&utm_medium=twitter&utm_s..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
