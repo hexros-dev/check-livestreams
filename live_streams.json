@@ -479,7 +479,14 @@
         "channel_url": "https://www.youtube.com/@mikenekoko",
         "channel_name": "みけねこch",
         "avatar_url": "https://yt3.googleusercontent.com/_bT74ettx8Ei9p0zHrSbKdAe1oyaCAbbbXa9teIsxgOtlPl2RADYotJ_kGKwHsNdtWh8D2Hu",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "TWoW_AhS4nI",
+                "title": "【MIMESIS】四人で初見ミメシスやるぞい！！【くるる/幕末志士・坂本/バトラ/みけねこ】",
+                "thumbnail": "https://i.ytimg.com/vi/TWoW_AhS4nI/hqdefault.jpg?v=69bbb89a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPE9UrMDnjaV3VlJ7DSY3QgxLbIw",
+                "description": "みんなの視点👀\n\nバトラ\nhttps://www.twitch.tv/batora324\n\n坂本　\nhttps://www.youtube.com/@%E5%B9%95%E6%9C%AB%E5%BF%97%E5%A3%AB%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB\n\nくるる..."
+            }
+        ]
     },
     "@niminightmare": {
         "channel_url": "https://www.youtube.com/@niminightmare",

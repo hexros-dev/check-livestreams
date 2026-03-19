@@ -288,7 +288,15 @@
         "channel_url": "https://www.youtube.com/@NakiriAyame",
         "channel_name": "Nakiri Ayame Ch. 百鬼あやめ",
         "avatar_url": "https://yt3.googleusercontent.com/3CeLWGYb6cLUywTJzNt-UpITviNxeGNvtjhIqbV-AIybCqCoFw9onWtg91bjwpqvfEP9mfqIR4Q",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "JqaYwRmGKHQ",
+                "title": "【誰かの心霊写真】ちゃんとしゃべって百鬼さん（？）【百鬼あやめ/ホロライブ】",
+                "date": "2026/03/19 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/JqaYwRmGKHQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAff3LaZEnxtKtlc8qrtNtuOGUnYw",
+                "description": "- - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - -ഒ˖°\n\n\n通訳：@ShirakamiFubuki \n配信タイトル：誰かの心霊写真\nストアページ..."
+            }
+        ]
     },
     "@NanashiMumei": {
         "channel_url": "https://www.youtube.com/@NanashiMumei",
@@ -414,7 +422,7 @@
             {
                 "video_id": "SHlRF4ZGTFk",
                 "title": "【オフコラボ】＃ちょろぼ のお悩み相談室✨【ホロライブ/ ロボ子さん・癒月ちょこ 】",
-                "date": "2026/03/19 20:00:00",
+                "date": "2026/03/19 19:30:00",
                 "thumbnail": "https://i.ytimg.com/vi/SHlRF4ZGTFk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRMEp5IHuoP2y9gdIo8rrBI7zHvQ",
                 "description": "＃ホロライブ 　\nｘでは💬　 #ちょろぼ でポストしてってね\n\n@YuzukiChoco \n\n\n💝ここで君のお悩みを募集中！\nhttps://marshmallow-qa.com/robocosan?t=f7lghm&utm_medi..."
             }
@@ -616,15 +624,7 @@
         "channel_url": "https://www.youtube.com/@mikenekoko",
         "channel_name": "みけねこch",
         "avatar_url": "https://yt3.googleusercontent.com/_bT74ettx8Ei9p0zHrSbKdAe1oyaCAbbbXa9teIsxgOtlPl2RADYotJ_kGKwHsNdtWh8D2Hu",
-        "videos": [
-            {
-                "video_id": "TWoW_AhS4nI",
-                "title": "【MIMESIS】四人で初見ミメシスやるぞい！！【くるる/幕末志士・坂本/バトラ/みけねこ】",
-                "date": "2026/03/19 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/TWoW_AhS4nI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPE9UrMDnjaV3VlJ7DSY3QgxLbIw",
-                "description": "みんなの視点👀\n\nバトラ\nhttps://www.twitch.tv/batora324\n\n坂本　\nhttps://www.youtube.com/@%E5%B9%95%E6%9C%AB%E5%BF%97%E5%A3%AB%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB\n\nくるる..."
-            }
-        ]
+        "videos": []
     },
     "@niminightmare": {
         "channel_url": "https://www.youtube.com/@niminightmare",
