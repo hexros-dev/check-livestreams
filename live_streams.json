@@ -107,14 +107,7 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": [
-            {
-                "video_id": "qGKtvn8JZtY",
-                "title": "【Resident Evil Requiem】I'll miss Leon's one-liners (SPOILERS AHEAD)",
-                "thumbnail": "https://i.ytimg.com/vi/qGKtvn8JZtY/hqdefault.jpg?v=69bc4c8c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXoJitwAOo4gJdUR7pGJ4u_kwqzA",
-                "description": "Back in the RPD oh good memories, probably FINALE\n\nThis video and livestream are being streamed with permission and under license by CAPCOM CO., LTD.\n※Please note that this video contains..."
-            }
-        ]
+        "videos": []
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -459,7 +452,14 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Pr8kDxM-ew0",
+                "title": "【ぽこあポケモン】効率マンによる💡一生できるらしいポケモンゲーム🌳DAY2【風真いろは/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/Pr8kDxM-ew0/hqdefault.jpg?v=69b4ca32&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDS6AG1hr6tkVldPCw4yy9OmKdzYg",
+                "description": "サムネイラスト：https://x.com/Duckmang_/status/2030994765442080950?s=20\n\n\n配信タイトル：ぽこ あ ポケモン\n公式ページ：https://www.pocoapokemon.jp/ja/\n\n\n*⇔*――*⇔*..."
+            }
+        ]
     },
     "@mikenekoko": {
         "channel_url": "https://www.youtube.com/@mikenekoko",
@@ -477,19 +477,19 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "5nINkCXo7rQ",
+                "title": "【紅の砂漠】ぺこヴィヴィ初案件！期待の超大作ゲームで遊んでみる！【ホロライブ/兎田ぺこら/綺々羅々ヴィヴィ】",
+                "thumbnail": "https://i.ytimg.com/vi/5nINkCXo7rQ/hqdefault.jpg?v=69bc19b6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAh3XZoaxmY6xEqtfqdQYaUnnzMrg",
+                "description": "DLはこちら▶https://tinyurl.com/PekoraVivi\n＃紅の砂漠、#PR、#PearlAbyss\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usad..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": [
-            {
-                "video_id": "I2CxdmZZkIM",
-                "title": "【ぽこ あ ポケモン】はじめてのぽこあやってみるぞ！！！#結城さくな生放送",
-                "thumbnail": "https://i.ytimg.com/vi/I2CxdmZZkIM/hqdefault.jpg?v=69bc2deb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCaNCVK_UODV7rb9wKr40d6hPHbA",
-                "description": "🎀グッズ・ボイス販売はこちら🐾\nhttps://yuki-sakuna.stores.jp/\n\n🎀歌ってみた動画🐾\nhttps://youtube.com/playlist?list=PLErsMirGq93vRw-CcRaaZfR4QVxl2uBsb&si=BRmEr8erE6aR-UJ..."
-            }
-        ]
+        "videos": []
     }
 }
