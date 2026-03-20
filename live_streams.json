@@ -190,7 +190,14 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "vnOCQGx7BYI",
+                "title": "【Monster Hunter Stories 3】monsters!! hunting!! stories!! announcement?! #calliolive #ad",
+                "thumbnail": "https://i.ytimg.com/vi/vnOCQGx7BYI/hqdefault.jpg?v=69bc0ca8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBx0puO1_md0YsPzj6WPHauqc12-A",
+                "description": "Get the game now!! https://bit.ly/CalliMHS3\nThis stream is sponsored by Capcom USA\n\n#mhstories3 #monsterhunter #sponsored \n\nRequest from hololive Productions to underage viewers\nPlease search..."
+            }
+        ]
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -304,14 +311,7 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": [
-            {
-                "video_id": "XpigU2tlA58",
-                "title": "Dreamland Game Board Cleanup【Members Only】",
-                "thumbnail": "https://i.ytimg.com/vi/XpigU2tlA58/hqdefault.jpg?v=69bb4b19&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2Wqf7pIEj5na_RcLIim2ClWH3jw",
-                "description": "My first original song 「Monsters and Men」OUT NOW!\n🎧Listen to it here: https://cover.lnk.to/Y6ZMPF\n📹Music Video here: https://www.youtube.com/watch?v=NX1ZCKJ67dc\n==========================..."
-            }
-        ]
+        "videos": []
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
