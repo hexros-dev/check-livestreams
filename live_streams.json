@@ -76,7 +76,14 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "orfLAQUXejQ",
+                "title": "【 エレクトーン 】２ヶ月ぶりに演奏するのら！！！🎹🎶 Playing the Electone【姫森ルーナ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/orfLAQUXejQ/hqdefault.jpg?v=69bc30a2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_0s18QUQPZN4FgFks7XoeWyWO-g",
+                "description": "サムネイラスト\n　ぴんくさん　https://twitter.com/pinksan32\n\nエレクトーン演奏再生リスト\nhttps://www.youtube.com/playlist?list=PL6gUpTCMieF4AIOivtfh-akjOBcKy7gV_\n\n▷======..."
+            }
+        ]
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -282,14 +289,7 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": [
-            {
-                "video_id": "aq0mHIfqSp0",
-                "title": "【Overwatch】 sleepywatch　２【Pavolia Reine/holoID 2nd gen】",
-                "thumbnail": "https://i.ytimg.com/vi/aq0mHIfqSp0/hqdefault.jpg?v=69bca92c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJIBlw3dFvUPe7DN68oiuq7pt7jQ",
-                "description": "Game Title: Overwatch 2\nThis stream has been approved by Blizzard Entertainment.\nThe views, information, or opinions expressed during the stream do not represent those of Blizzard Entertainment...."
-            }
-        ]
+        "videos": []
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
