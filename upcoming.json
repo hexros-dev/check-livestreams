@@ -98,7 +98,7 @@
             {
                 "video_id": "KkrF3hPvC2A",
                 "title": "【DIGIMONCON2026 公認ミラー配信】デジモンのファン向けイベントを一緒に観よう！【博衣こより/ホロライブ】",
-                "date": "2026/03/22 07:15:00",
+                "date": "2026/03/22 07:25:00",
                 "thumbnail": "https://i.ytimg.com/vi/KkrF3hPvC2A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCSQEfSfIwfAB6GwpYcC8GUm-i5w",
                 "description": "​@DIGIMONofficialJP さんで行なわれる #DIGIMONCON 2026をミラー配信させていただきます！(この配信で本配信の映像・音声も観られます！）\n当ミラー配信..."
             },
@@ -280,7 +280,15 @@
         "channel_url": "https://www.youtube.com/@NakiriAyame",
         "channel_name": "Nakiri Ayame Ch. 百鬼あやめ",
         "avatar_url": "https://yt3.googleusercontent.com/3CeLWGYb6cLUywTJzNt-UpITviNxeGNvtjhIqbV-AIybCqCoFw9onWtg91bjwpqvfEP9mfqIR4Q",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "lV5pwvzvcO0",
+                "title": "【朝活】とり戻せ健康界隈！まぼろしの朝活【百鬼あやめ/ホロライブ】",
+                "date": "2026/03/22 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/lV5pwvzvcO0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDySgklofJ1jjCDo9QNSpbrIc-vSg",
+                "description": "- - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - -ഒ˖°\n　　\n\n　　🍜ホロライブ カップ麺3分ボイスリターンズ⌛\n　..."
+            }
+        ]
     },
     "@NanashiMumei": {
         "channel_url": "https://www.youtube.com/@NanashiMumei",
@@ -327,6 +335,13 @@
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
         "videos": [
+            {
+                "video_id": "1GOTBGcf03U",
+                "title": "【MEMBERS】【Work With Inya】Much Homework Such Grind (Chatting In Text)【NO MIC】",
+                "date": "2026/03/22 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/1GOTBGcf03U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADVFUU5e5sQZid6V-s7fOIeD7kww",
+                "description": "【Thumbnail Art】\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\nGame title：gogh: Focus with Your Avatar\nStore page：https://store.steampowered.com/app/3213850/gogh_Focus_with_Your_Avatar/..."
+            },
             {
                 "video_id": "jx1XvONd2uo",
                 "title": "【Drawn to Dawn】#Ready4TakoTori Winners!!! + More News About Drawn to Dawn?! #TakoTori1stConcert",
@@ -634,6 +649,14 @@
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "anCmzzpETxs",
+                "title": "【朝活】正直朝早起きするのきついよねって話する？てか早起きじゃなくて遅寝だよね？#結城さくな生放送",
+                "date": "2026/03/22 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/anCmzzpETxs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKJYyGQwnj-2Z6Nz199pfX1mY7Fw",
+                "description": "🎀グッズ・ボイス販売はこちら🐾\nhttps://yuki-sakuna.stores.jp/\n\n🎀歌ってみた動画🐾\nhttps://youtube.com/playlist?list=PLErsMirGq93vRw-CcRaaZfR4QVxl2uBsb&si=BRmEr8erE6aR-UJ..."
+            }
+        ]
     }
 }
