@@ -364,13 +364,6 @@
                 "date": "2026/03/22 08:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/1GOTBGcf03U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADVFUU5e5sQZid6V-s7fOIeD7kww",
                 "description": "【Thumbnail Art】\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\nGame title：gogh: Focus with Your Avatar\nStore page：https://store.steampowered.com/app/3213850/gogh_Focus_with_Your_Avatar/..."
-            },
-            {
-                "video_id": "jx1XvONd2uo",
-                "title": "【Drawn to Dawn】#Ready4TakoTori Winners!!! + More News About Drawn to Dawn?! #TakoTori1stConcert",
-                "date": "2026/03/22 06:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/jx1XvONd2uo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_Z_e4d4OeBZAkgBvUSWAbeGodaw",
-                "description": "March 27th and 28th, 2026 (PDT)\n🐔Takanashi Kiara / Ninomae Ina’nis 1st Concert \"Drawn to Dawn\"🐙\nto be held at the Wiltern in Los Angeles!\n\n◆2nd Round of Concert Merch\nhttps://shop.hololiv..."
             }
         ]
     },
@@ -557,7 +550,15 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Kt0Mxg5SpPo",
+                "title": "【 ぽこ あ ポケモン 】今夜はパーリィナイ？！！！#4【角巻わため/ホロライブ４期生】",
+                "date": "2026/03/22 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Kt0Mxg5SpPo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB87NbjJkGk_3FozRPr0abSCCXQCg",
+                "description": "今日は、あの先にも行ってみたい！\nタグ：#ドドドライブ \n\n配信タイトル：ぽこ あ ポケモン\n公式ページ：https://www.pocoapokemon.jp/ja/\n\n🐏もっとクセ..."
+            }
+        ]
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
