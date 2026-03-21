@@ -57,14 +57,7 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": [
-            {
-                "video_id": "blBhDU8fspo",
-                "title": "≪Yakuza 6≫ WHY IS THERE A BABY?...First Playthrough #1【SPOILER WARNING】",
-                "thumbnail": "https://i.ytimg.com/vi/blBhDU8fspo/hqdefault.jpg?v=69bd16ca&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9MxOv9RZU0CqpWdlrTZ2zfi4njA",
-                "description": "WE ARE SO BACK!!\n\nThumbnail Art: https://x.com/hetianming11093/status/2034564116380356996\n\n#telebae #hololiveenglish \n\n««≪ °◇◆◇° ≫ »»\nHakos Baelz 「ReCOLOR」 Birthday Merch..."
-            }
-        ]
+        "videos": []
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -149,7 +142,14 @@
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
         "channel_name": "Kobo Kanaeru Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "V3d8slAj750",
+                "title": "【Resident Evil Requiem】Gotta think faster! ⚠️SPOILER ALERT⚠️",
+                "thumbnail": "https://i.ytimg.com/vi/V3d8slAj750/hqdefault.jpg?v=69be3850&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApLuS16gP30VrTZXftkKL2KAr6jw",
+                "description": "Bokobokobo- Kobo Kanaeru at your service! Let me be your sun to shine your day, ehe~ ;D ☔☔☔\n#OnAeru #Kobo_Kanaeru #holoID #holoID03\n\nThis video and livestream are being streamed with..."
+            }
+        ]
     },
     "@KoganeiNiko": {
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
@@ -185,6 +185,12 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
+        "videos": []
+    },
+    "@MoonaHoshinova": {
+        "channel_url": "https://www.youtube.com/@MoonaHoshinova",
+        "channel_name": "Moona Hoshinova hololive-ID",
+        "avatar_url": "https://yt3.googleusercontent.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3",
         "videos": []
     },
     "@MoriCalliope": {
