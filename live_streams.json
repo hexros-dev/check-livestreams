@@ -45,7 +45,14 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "T8tS4g4wXRY",
+                "title": "【漢字でGO！】四文字熟語？！にほんごってむずかしいいい～！！おしえてください 🐾【FUWAMOCO】",
+                "thumbnail": "https://i.ytimg.com/vi/T8tS4g4wXRY/hqdefault.jpg?v=69bcbb8f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRaZfYlI4I0guZibeY09bD-xLY1w",
+                "description": "一緒に覚えましょう✨️ let's learn lots!!\nlovely illustration by @keenbiscuit 💕\n\n🌙🎀𝗙𝗨𝗪𝗔𝗠𝗢𝗖𝗢 𝟮𝟬𝟮𝟲 𝗡𝗘𝗪 𝗢𝗨𝗧𝗙𝗜𝗧..."
+            }
+        ]
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -354,14 +361,7 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": [
-            {
-                "video_id": "_Xlqcg1WdMk",
-                "title": "【 ドラゴンボールZ KAKAROT 】完全初見！ベジータを止めなくっちゃ・・・【鷹嶺ルイ/ホロライブ】※ネタバレあり",
-                "thumbnail": "https://i.ytimg.com/vi/_Xlqcg1WdMk/hqdefault.jpg?v=69bd1664&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvCILqOZ3O-62FyMInuvW4z3fMOA",
-                "description": "すごく楽しみにしてました！！！！！\n\nこのゲーム実況は「バンダイナムコエンターテインメント ゲーム実況ポリシー」に基づき制作・配信され..."
-            }
-        ]
+        "videos": []
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
