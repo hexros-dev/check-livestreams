@@ -134,13 +134,6 @@
                 "date": "2026/03/22 18:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/Jz2xEfAjC8Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4rUCNXvWBGPBZ_06tM6B1d4mVLA",
                 "description": "2026年2月21日（土） Hoshimachi Suisei Live \"SuperNova: REBOOT\" 開催！\n\n◆アーカイブチケット/ARCHIVE TICKETS\n日本：https://supernova.hololivepro.com/tickets/\nOverseas：https:/..."
-            },
-            {
-                "video_id": "jVogB33eEEA",
-                "title": "【生誕カウントダウン】みんなでカウントダウンしよ‼ もう18.8歳かあ～～【ホロライブ / 星街すいせい】",
-                "date": "2026/03/21 21:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/jVogB33eEEA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCz2NfQN8q1ujAEDv7wT6TJ-2w4cA",
-                "description": "2026年2月21日（土） Hoshimachi Suisei Live \"SuperNova: REBOOT\" 開催！\n\n◆アーカイブチケット/ARCHIVE TICKETS\n日本：https://supernova.hololivepro.com/tickets/\nOverseas：https:/..."
             }
         ]
     },
@@ -242,15 +235,7 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": [
-            {
-                "video_id": "9j6HaJ6LQVI",
-                "title": "【龍が如く極2】完全初見❕帰ってきたぞこの街に…！！※ネタバレあり【水宮枢／ホロライブDEV_IS】",
-                "date": "2026/03/21 21:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/9j6HaJ6LQVI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzmpsp8YNJCzhSJjEypYhTeHd_sw",
-                "description": "この動画およびライブは、コンテンツ利用許諾契約に基づいて配信しています。\n©SEGA\n▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸◂┄▹◃\n\n💙メンバーシ..."
-            }
-        ]
+        "videos": []
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -501,7 +486,15 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "AvKPrmiBqU8",
+                "title": "【Free Talk/雑談】eepy zeta 💤",
+                "date": "2026/03/21 22:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/AvKPrmiBqU8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBoH35uODbFvKaKL11lxv5mvn2GA",
+                "description": "#vestiazeta #hololive #vtuber #chating #holoid #hololiveindonesia \n\n\nThumbnail art: https://x.com/fuse_u40\n\n-----\nVestia Zeta's  2nd Original Song  ▶  [ Break It Down ]\n\nAll platform▶️..."
+            }
+        ]
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
