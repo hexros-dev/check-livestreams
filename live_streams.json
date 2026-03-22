@@ -77,14 +77,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "KkrF3hPvC2A",
-                "title": "【DIGIMONCON2026 公認ミラー配信】デジモンのファン向けイベントを一緒に観よう！【博衣こより/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/KkrF3hPvC2A/hqdefault.jpg?v=69bd8db9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCSQEfSfIwfAB6GwpYcC8GUm-i5w",
-                "description": "​@DIGIMONofficialJP さんで行なわれる #DIGIMONCON 2026をミラー配信させていただきます！(この配信で本配信の映像・音声も観られます！）\n当ミラー配信..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -278,7 +271,14 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ZYMdjOOBUSs",
+                "title": "【#生スバル】LOST JUDGMENT：裁かれざる記憶【※ネタバレあり】",
+                "thumbnail": "https://i.ytimg.com/vi/ZYMdjOOBUSs/hqdefault.jpg?v=69bebc10&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6sjAe9nxS5FTGuVVeeFRpUvLKJQ",
+                "description": "この動画およびライブは、コンテンツ利用許諾契約に基づいて配信しています。\n©SEGA\n\n🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメン..."
+            }
+        ]
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -370,10 +370,10 @@
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
         "videos": [
             {
-                "video_id": "mwhdsn0MX6c",
-                "title": "【 ドラゴンボールZ KAKAROT 】完全初見！早起きするためにオラに元気をわけてくれ！【鷹嶺ルイ/ホロライブ】※ネタバレあり",
-                "thumbnail": "https://i.ytimg.com/vi/mwhdsn0MX6c/hqdefault.jpg?v=69bd1f80&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAblbC5rezlFyrJc02hoNcchOzmbw",
-                "description": "早起きするぞ。\n\nこのゲーム実況は「バンダイナムコエンターテインメント ゲーム実況ポリシー」に基づき制作・配信されています。\nhttps://www.band..."
+                "video_id": "xIAjLLOk478",
+                "title": "【 愛知杯＆阪神大賞典 】連続的中記録更新なるか⁉【鷹嶺ルイ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/xIAjLLOk478/hqdefault.jpg?v=69bd202c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBp1Qlz7Youw_eMqSnvjQFgAj7PhQ",
+                "description": "愛知杯：15:15発走 中京競馬場 芝1400m\n阪神大賞典：15:45発走 阪神競馬場 芝3000m\n\n【2026年競馬配信（海外・地方競馬と合同）】\nブラック企業時代に作..."
             }
         ]
     },
@@ -466,7 +466,14 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "waTViJID6UI",
+                "title": "【ELDENRING】完全初見⚔DLCの世界にこんにちは✋【風真いろは/ホロライブ】※本配信はゲームのネタバレを含みます",
+                "thumbnail": "https://i.ytimg.com/vi/waTViJID6UI/hqdefault.jpg?v=69bed525&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBaiF1oIXKBBbxFDXo0uoF4oGMPCA",
+                "description": "サムネイラスト：https://x.com/curry_and_rice4/status/1862829731609268506?s=20\n本ゲームは株式会社フロム・ソフトウェアに確認を得た上、「動画・画像の投稿に..."
+            }
+        ]
     },
     "@mikenekoko": {
         "channel_url": "https://www.youtube.com/@mikenekoko",
