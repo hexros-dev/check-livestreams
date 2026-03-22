@@ -327,15 +327,7 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": [
-            {
-                "video_id": "1GOTBGcf03U",
-                "title": "【MEMBERS】【Work With Inya】Much Homework Such Grind (Chatting In Text)【NO MIC】",
-                "date": "2026/03/22 14:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/1GOTBGcf03U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADVFUU5e5sQZid6V-s7fOIeD7kww",
-                "description": "【Thumbnail Art】\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\nGame title：gogh: Focus with Your Avatar\nStore page：https://store.steampowered.com/app/3213850/gogh_Focus_with_Your_Avatar/..."
-            }
-        ]
+        "videos": []
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -540,7 +532,15 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "HphKzQgi9NM",
+                "title": "【ぽこ あ ポケモン】#04 カビゴンを叩き起こすわよ【雪花ラミィ/ホロライブ】",
+                "date": "2026/03/22 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/HphKzQgi9NM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCt9q9tt00eoMT2R8UatqJGId7Jqw",
+                "description": "配信タイトル：ぽこ あ ポケモン\n公式ページ：https://www.pocoapokemon.jp/ja/\n\nサムネイルイラスト：ツーチャンス羽田さま\nhttps://x.com/1_chance_no1\n\n復刻グッ..."
+            }
+        ]
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",

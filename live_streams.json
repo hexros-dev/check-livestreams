@@ -253,7 +253,14 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "1GOTBGcf03U",
+                "title": "【MEMBERS】【Work With Inya】Much Homework Such Grind (Chatting In Text)【NO MIC】",
+                "thumbnail": "https://i.ytimg.com/vi/1GOTBGcf03U/hqdefault.jpg?v=69bed163&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADVFUU5e5sQZid6V-s7fOIeD7kww",
+                "description": "【Thumbnail Art】\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\nGame title：gogh: Focus with Your Avatar\nStore page：https://store.steampowered.com/app/3213850/gogh_Focus_with_Your_Avatar/..."
+            }
+        ]
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -375,14 +382,7 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": [
-            {
-                "video_id": "xIAjLLOk478",
-                "title": "【 愛知杯＆阪神大賞典 】連続的中記録更新なるか⁉【鷹嶺ルイ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/xIAjLLOk478/hqdefault.jpg?v=69bd202c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBp1Qlz7Youw_eMqSnvjQFgAj7PhQ",
-                "description": "愛知杯：15:15発走 中京競馬場 芝1400m\n阪神大賞典：15:45発走 阪神競馬場 芝3000m\n\n【2026年競馬配信（海外・地方競馬と合同）】\nブラック企業時代に作..."
-            }
-        ]
+        "videos": []
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
