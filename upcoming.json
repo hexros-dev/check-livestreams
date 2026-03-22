@@ -250,7 +250,15 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "NlbsevjA6Ic",
+                "title": "【はねホロ】2時間でどこまで行けるかな…？！【水宮枢／ホロライブDEV_IS】",
+                "date": "2026/03/23 20:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/NlbsevjA6Ic/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsSsGLLomqooiSK9z-IYKjsHi1rg",
+                "description": "イラスト https://x.com/chegucgd?s=21&t=CbrrjZRpYKuQt6jP6ruZBg\n配信タイトル：はねホロ！\nストアページ：https://store.steampowered.com/app/2971290/HANEHOLO/\n▹◃┄▸◂┄..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -541,15 +549,7 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": [
-            {
-                "video_id": "Pa6IOPmlTbo",
-                "title": "【MEMBERS WATCHALONG】INDIANA JONES and the Raiders of the Lost Ark!!!",
-                "date": "2026/03/23 04:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Pa6IOPmlTbo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDae4-1yjCCZ9Stx-jSwQREt1lrqw",
-                "description": "--------------------------\nHashtags\n📺 Livestream: #ImmerScreen \n🎨 Fanart: #Immergination\n🎻 Music: #ImmerPiece\n🤡 Memes: #ImmerMemes \n--------------------------\n\n\n------------------------..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
