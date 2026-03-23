@@ -112,7 +112,15 @@
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
         "channel_name": "Suisei Channel",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "yDKzhigmlDI",
+                "title": "【雑談】StudioSTELLARの星街すいせいです☄☄☄",
+                "date": "2026/03/23 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/yDKzhigmlDI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhZ1Nm5bh9R_tuWG1BBGGdMd4bGA",
+                "description": "◆ HOSHIMACHI SUISEI ARENA TOUR 2026 \nOnce Upon a Stellar\n\n09.08 (火) /09 (水) 横浜・Kアリーナ横浜\n10.21 (水) 神戸・GLION ARENA KOBE\n11.07 (土) 愛知・IGアリーナ\n11.12..."
+            }
+        ]
     },
     "@HoushouMarine": {
         "channel_url": "https://www.youtube.com/@HoushouMarine",
@@ -124,15 +132,7 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": [
-            {
-                "video_id": "Wef4VaKnZxI",
-                "title": "【BDay Live Aftertalk】Let's chat about Racing Towards Hope and stuff :D",
-                "date": "2026/03/23 10:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/Wef4VaKnZxI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWiva9UMe2XlI6tyl-Kvhzpm_Maw",
-                "description": "WOOHOO\n\nSolo live confirmed for October 6 at SGC HALL ARIAKE, Japan! More details soon!\n10月6日、SGC HALL 有明でソロライブ開催決定！ 詳細は後ほど！\n\n【Birthday Celebration..."
-            }
-        ]
+        "videos": []
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -413,7 +413,15 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "cqbT37ovcMs",
+                "title": "Being Hot & Attractive Leon S. Kennedy 【Resident Evil Requiem】Spoilers Ahead",
+                "date": "2026/03/24 03:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/cqbT37ovcMs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPiP4xboDB4W5ll_tmsjBBMLMgMg",
+                "description": "This stream is not suitable for minors.\n\nMy first original song 「Monsters and Men」OUT NOW!\n🎧Listen to it here: https://cover.lnk.to/Y6ZMPF\n📹Music Video here: https://www.youtube.com/watch..."
+            }
+        ]
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
@@ -496,6 +504,13 @@
                 "date": "2026/03/23 21:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/fJt-9qHoXew/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCrrLVKJ2J9Xd0xpyh998PtPvFJEA",
                 "description": "みんなの応援があるからこそ夢を追い続けられてるよ！\nタグ：#ドドドライブ\n\n🐏もっとクセつよシステムボイス 販売中📢\nhttps://shop.hololivepro.com/p..."
+            },
+            {
+                "video_id": "lpJqL9PXvx8",
+                "title": "【 三ツ星ファーム 】ずっと食べてみたかったので嬉しい！食レポがんばりますっ！【角巻わため/ホロライブ４期生】",
+                "date": "2026/03/23 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/lpJqL9PXvx8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAaKwAYKdVHPV7umwAT7Zujo0k0lQ",
+                "description": "以前からミオしゃに三ツ星ファームはいいぞと聞いていたので、ずっと気になってた！\nついに実食する時がきたぞお！！！\n\n提供：三ツ星ファー..."
             }
         ]
     },
