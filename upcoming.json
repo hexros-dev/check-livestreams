@@ -215,7 +215,15 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "YvZIMCh4AgU",
+                "title": "【Pokémon Pokopia】Let's get LEGENDARY",
+                "date": "2026/03/24 06:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/YvZIMCh4AgU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANsA-BsNszfz1pEeeWmATLE22wcQ",
+                "description": "Thumbnail Art :@FALLMARCHTHANK YOU!\nhttps://x.com/FALLMARCH/status/2034500552441397252\n\n====================\n✧Twitter: https://twitter.com/kosekibijou\n\n✧Hashtags: \n#biboo  \nAdvent: #holoAdvent..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -427,15 +435,7 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": [
-            {
-                "video_id": "cqbT37ovcMs",
-                "title": "Being Hot & Attractive Leon S. Kennedy 【Resident Evil Requiem】Spoilers Ahead",
-                "date": "2026/03/24 03:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/cqbT37ovcMs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPiP4xboDB4W5ll_tmsjBBMLMgMg",
-                "description": "This stream is not suitable for minors.\n\nMy first original song 「Monsters and Men」OUT NOW!\n🎧Listen to it here: https://cover.lnk.to/Y6ZMPF\n📹Music Video here: https://www.youtube.com/watch..."
-            }
-        ]
+        "videos": []
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
