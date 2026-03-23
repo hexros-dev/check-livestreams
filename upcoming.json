@@ -208,15 +208,7 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": [
-            {
-                "video_id": "YvZIMCh4AgU",
-                "title": "【Pokémon Pokopia】Let's get LEGENDARY",
-                "date": "2026/03/24 06:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/YvZIMCh4AgU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANsA-BsNszfz1pEeeWmATLE22wcQ",
-                "description": "Thumbnail Art :@FALLMARCHTHANK YOU!\nhttps://x.com/FALLMARCH/status/2034500552441397252\n\n====================\n✧Twitter: https://twitter.com/kosekibijou\n\n✧Hashtags: \n#biboo  \nAdvent: #holoAdvent..."
-            }
-        ]
+        "videos": []
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -504,7 +496,15 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "y5BRs0juWJk",
+                "title": "【 ぽこ あ ポケモン 】今日こそ絶対にパーリィをする！絶対にだ！！！#5【角巻わため/ホロライブ４期生】",
+                "date": "2026/03/24 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/y5BRs0juWJk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvrhz-ErF1ns1YUKWvIOgEaIsCkw",
+                "description": "ストーリー進めるぞー！\nタグ：#ドドドライブ \n\n配信タイトル：ぽこ あ ポケモン\n公式ページ：https://www.pocoapokemon.jp/ja/\n\n🐏もっとクセつよシステ..."
+            }
+        ]
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
