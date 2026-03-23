@@ -165,14 +165,7 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": [
-            {
-                "video_id": "NlbsevjA6Ic",
-                "title": "【はねホロ】2時間でどこまで行けるかな…？！【水宮枢／ホロライブDEV_IS】",
-                "thumbnail": "https://i.ytimg.com/vi/NlbsevjA6Ic/hqdefault.jpg?v=69c05a9b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsSsGLLomqooiSK9z-IYKjsHi1rg",
-                "description": "イラスト https://x.com/chegucgd?s=21&t=CbrrjZRpYKuQt6jP6ruZBg\n配信タイトル：はねホロ！\nストアページ：https://store.steampowered.com/app/2971290/HANEHOLO/\n▹◃┄▸◂┄..."
-            }
-        ]
+        "videos": []
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -334,7 +327,14 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "kmuznz35KDY",
+                "title": "【POKOPIA】AH FINALLY WHY AM I ALWAYS LATE TO THINGS #kfp #キアライブ",
+                "thumbnail": "https://i.ytimg.com/vi/kmuznz35KDY/hqdefault.jpg?v=69c13cd7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNHGIZWgdEdQLJ9tYoUfd-Cnex6Q",
+                "description": "CONCERT STREAMING TICKETS: https://drawn-to-dawn.hololivepro.com/ticket\nCONCERT WEBSITE: https://drawn-to-dawn.hololivepro.com/ \n\n🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
