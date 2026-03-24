@@ -111,7 +111,15 @@
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "uspWPfPeWh4",
+                "title": "【同時視聴】いっしょにホラー『サユリ』を観ましょう【ホロライブ/宝鐘マリン】",
+                "date": "2026/03/24 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/uspWPfPeWh4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWuWN30y1lr5SDa14j2jdcT9hAlg",
+                "description": "ネットフリックス\nhttps://www.netflix.com/search?q=%E3%82%B5%E3%83%A6%E3%83%AA&jbv=82667067\n\nアマゾン\nhttps://www.amazon.co.jp/gp/video/detail/B0F5BWYD57/ref=atv_dp_share_cu_r\n\n｡.｡:+..."
+            }
+        ]
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
@@ -354,13 +362,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
         "videos": [
             {
-                "video_id": "5WNIRKtEPAU",
-                "title": "【】【ホロライブ/大空スバル】",
-                "date": "2026/03/24 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/5WNIRKtEPAU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDBHL7pGF3tU7GIgo0vKUsSc8J1A",
-                "description": "@NekomataOkayu \n🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid..."
-            },
-            {
                 "video_id": "kMP-6kFVgA8",
                 "title": "【】【ホロライブ/大空スバル】",
                 "date": "2026/03/25 19:00:00",
@@ -562,15 +563,7 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": [
-            {
-                "video_id": "Zi8R63ee0Fs",
-                "title": "【ラミこよ】オフコラボ晩酌！！コンビ名決めるぞ～！！【雪花ラミィ・博衣こより/ホロライブ】",
-                "date": "2026/03/24 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Zi8R63ee0Fs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAS-pZHsa6pfS_vnJFJhlxuTB6Mmg",
-                "description": "こよちゃん@HakuiKoyori \n\nサムネイルイラスト：麦うさぎさま\nhttps://x.com/Siriusagimugi\n\n復刻グッズ\n販売期間　2/26（木）22:00～3/30（月）18:00\n販売URL..."
-            }
-        ]
+        "videos": []
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
