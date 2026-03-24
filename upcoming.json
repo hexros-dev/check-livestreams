@@ -132,15 +132,7 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": [
-            {
-                "video_id": "cuZ2YdVtQic",
-                "title": "【Monster Hunter Stories 3】Going through the Stories! also with Exciting News! #sponsored",
-                "date": "2026/03/24 10:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/cuZ2YdVtQic/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKLXUIrmkN4h3MMHMVLFt_6-R6VA",
-                "description": "Buy the game here!! https://bit.ly/IRySMHS3\nMONSTER HUNTER YAY\n\nThank you so much for the sponsor Capcom USA!!\n\n#mhstories3 #monsterhunter #sponsored \n\n---------\n\nSolo live confirmed for October..."
-            }
-        ]
+        "videos": []
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -379,15 +371,7 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": [
-            {
-                "video_id": "hlDe1B07yF4",
-                "title": "【Dispatch】Aw Man | #2",
-                "date": "2026/03/24 10:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/hlDe1B07yF4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBdk0XtHyYrYiancs-XPNYNFJh8Q",
-                "description": "Game Title: Dispatch\nStore Page : https://store.steampowered.com/app/2592160/Dispatch/\n\n[Twitter]\nhttps://twitter.com/ourokronii\n\n[Thumbnail Art]\nhttps://x.com/Kukie_nyan\n\n-------------------------..."
-            }
-        ]
+        "videos": []
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
@@ -475,6 +459,13 @@
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
         "videos": [
             {
+                "video_id": "aV0bXWJ8AsM",
+                "title": "【 #ホロライブランド 】お知らせあり！なにやら例の奴等が公認キャラクターになりたいそうです。【鷹嶺ルイ/ホロライブ】",
+                "date": "2026/03/24 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/aV0bXWJ8AsM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYlxvTnxATVx29Ot37UD3E8c1fVA",
+                "description": "お騒がせの奴等がやってくる。\n\n@ShirakamiFubuki \n@IsakiRiona \n\n本ゲームは Mojang に確認を得た上、Terms and Conditions (https://account.mojang.com/terms) に基づいて配..."
+            },
+            {
                 "video_id": "opAtcx6GIKc",
                 "title": "🥀2ndアルバム『Lapis Lazuli』発売中🥀",
                 "date": "2026/03/30 22:00:00",
@@ -561,7 +552,15 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ft8ut2rw0c0",
+                "title": "【PARANORMASIGHT:The Mermaid's Curse】I WILL SOLVE THE CURSE TODAY!!! (SPOILERS)",
+                "date": "2026/03/25 04:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ft8ut2rw0c0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpwHpJouh46My8fSrtrhONIRBSEQ",
+                "description": "thumbnail: https://x.com/Yourbirdbird/status/2036166204847771847\n\nThe gameplay footage in this video is used with permission from Square Enix Co., Ltd.\n © SQUARE ENIX\nAll company, product,..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
