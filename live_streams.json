@@ -45,7 +45,14 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "IO6yuu0FysM",
+                "title": "【#holoAdvent PAJAMA PARTY ASMR COLLAB】sleepover ASMR experiment + big announcement?! 🐾 【FUWAMOCO】",
+                "thumbnail": "https://i.ytimg.com/vi/IO6yuu0FysM/hqdefault.jpg?v=69bf3057&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwFawXujSpG5gh0p7HxVHPRw_DVg",
+                "description": "whoever thought of giving Advent an ASMR mic should be frightened ✨️\nlovely illustration by @jura_oekaki3 💕\n@ShioriNovella @KosekiBijou @NerissaRavencroft \n\n🌙🎀𝗙𝗨𝗪𝗔𝗠𝗢..."
+            }
+        ]
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -225,14 +232,7 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": [
-            {
-                "video_id": "vFTyWOJQ-hc",
-                "title": "【Pokémon Pokopia】Short Pokopia Stream!!!!",
-                "thumbnail": "https://i.ytimg.com/vi/vFTyWOJQ-hc/hqdefault.jpg?v=69c2cf59&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQ1y6nvedUgmRdlW7MhspPoLX1YQ",
-                "description": "【Thumbnail Art】\nhttps://x.com/laaaw444/status/2032498104969359677\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\nGame Title: Pokémon™ Pokopia\nOfficial Page: https://pokopia.pokemon.com/en..."
-            }
-        ]
+        "videos": []
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -412,14 +412,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "ft8ut2rw0c0",
-                "title": "【PARANORMASIGHT:The Mermaid's Curse】I WILL SOLVE THE CURSE TODAY!!! (SPOILERS)",
-                "thumbnail": "https://i.ytimg.com/vi/ft8ut2rw0c0/hqdefault.jpg?v=69c208f4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpwHpJouh46My8fSrtrhONIRBSEQ",
-                "description": "thumbnail: https://x.com/Yourbirdbird/status/2036166204847771847\n\nThe gameplay footage in this video is used with permission from Square Enix Co., Ltd.\n © SQUARE ENIX\nAll company, product,..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
