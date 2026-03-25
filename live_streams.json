@@ -45,14 +45,7 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": [
-            {
-                "video_id": "IO6yuu0FysM",
-                "title": "【#holoAdvent PAJAMA PARTY ASMR COLLAB】sleepover ASMR experiment + big announcement?! 🐾 【FUWAMOCO】",
-                "thumbnail": "https://i.ytimg.com/vi/IO6yuu0FysM/hqdefault.jpg?v=69bf3057&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwFawXujSpG5gh0p7HxVHPRw_DVg",
-                "description": "whoever thought of giving Advent an ASMR mic should be frightened ✨️\nlovely illustration by @jura_oekaki3 💕\n@ShioriNovella @KosekiBijou @NerissaRavencroft \n\n🌙🎀𝗙𝗨𝗪𝗔𝗠𝗢..."
-            }
-        ]
+        "videos": []
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -262,7 +255,14 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "tdLRQtJ3kkY",
+                "title": "【Superchat Catchup】B-Day Supas ✨",
+                "thumbnail": "https://i.ytimg.com/vi/tdLRQtJ3kkY/hqdefault.jpg?v=69c347c1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-JIgf1JxjTJTHWW6cYsrFB_wafA",
+                "description": "🎶💿 *Ouro Kronii’s FIRST EP [Way 2 U] LP + CD Pre-Order Release*\nJP: https://shop.hololivepro.com/products/ourokronii_1step_way2u \nEN: https://shop.hololivepro.com/en/products/ourokronii_1st..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
