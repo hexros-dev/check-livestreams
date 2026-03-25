@@ -3,7 +3,14 @@
         "channel_url": "https://www.youtube.com/@AZKi",
         "channel_name": "AZKi Channel",
         "avatar_url": "https://yt3.googleusercontent.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "NqB_nuPTubw",
+                "title": "【重大報告】一日小豆警察署長 ＆ 香川県警察 交通規制アンバサダー に就任しました！ 【ホロライブ / AZKi】",
+                "thumbnail": "https://i.ytimg.com/vi/NqB_nuPTubw/hqdefault.jpg?v=69c3561b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYKMJIBqATk7K-aGwd5lcZxdEuvQ",
+                "description": "⚒️#AZKi × 香川県警察 からのお知らせ⚒️\n\nこの度AZKiは、\n✅ 香川県警察 交通規制アンバサダー\n✅ 小豆署 1日警察署長\nに就任いたしました。..."
+            }
+        ]
     },
     "@AiraniIofifteen": {
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
@@ -63,7 +70,14 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "cgOE2TwE2QM",
+                "title": "【ぽこ あ ポケモン】みんなの街訪問！すげーーーの見せてくれ～～～！！✨【博衣こより/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/cgOE2TwE2QM/hqdefault.jpg?v=69c371e8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgjwvaTOvcmKQEE8TQWuPyuAP56Q",
+                "description": "ストーリークリアしたのでみんなの島に遊びに行っちゃうよ～～！！できたら！すごい作りこんでる街を見たいです！\n💗もふこよ＆こより達のLIN..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -310,13 +324,27 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "T7CVM_l-VN8",
+                "title": "【お絵かき】みんなも描こう！のびのびお絵かき雑談【白上フブキ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/T7CVM_l-VN8/hqdefault.jpg?v=69c3865d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAW6GCUjmslsTbCHHJDy31pNepvQg",
+                "description": "⏬️ホロライブ関連のイラストのみ⏬️\n絵チャ部屋▷https://draw.kuku.lu/room/?hash=270057837\n━━━━━━━━━━━━━━━━━━━━━━━\n\nいろは..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "faJGYd2siw4",
+                "title": "【七つの大罪：Origin】七大の新作ゲームがリリース！遊ぶぞ！【不知火フレア/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/faJGYd2siw4/hqdefault.jpg?v=69c2bf05&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTMn0uTQoClF_PtuAY7VMYVgLaZg",
+                "description": "『七つの大罪：Origin』3月24日正式リリース！\n対象プラットフォーム：PlayStation®5 , STEAM , iOS , Android\n\n▼今すぐダウンロード！\nhttps://7origin.onelink.me/tV..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -431,14 +459,7 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
-        "videos": [
-            {
-                "video_id": "08fCJE2GAaw",
-                "title": "【ついにきた】かわいい！でかい！最強ぽこべぇ来る🍃【風真いろは/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/08fCJE2GAaw/hqdefault.jpg?v=69c35750&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-Vm1Osy9_IBKOI57fR2n_wYeIiQ",
-                "description": "提供：フリュー株式会社\n▼ご予約はこちらから\nhttps://furyu-hm.com/products/fnx-75tsazo5\n2026年5月18日までの期間中の予約をお忘れなく✅\n\n▼#FNEX フィギュ..."
-            }
-        ]
+        "videos": []
     },
     "@mikenekoko": {
         "channel_url": "https://www.youtube.com/@mikenekoko",
