@@ -3,15 +3,7 @@
         "channel_url": "https://www.youtube.com/@AZKi",
         "channel_name": "AZKi Channel",
         "avatar_url": "https://yt3.googleusercontent.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos",
-        "videos": [
-            {
-                "video_id": "zPrT9DMEsRc",
-                "title": "【GeoGuessr】香川県MAPでうどん屋出たら即終了 #2【ホロライブ / AZKi】",
-                "date": "2026/03/26 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/zPrT9DMEsRc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8cuoeosLd2S1CEQNmHFQimtHv-w",
-                "description": "ニュースで取り上げていただきましたこの企画をやる時――\n\n前回プレイ #1\nhttps://youtube.com/live/m3WGVnpTNog\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\nサムネ..."
-            }
-        ]
+        "videos": []
     },
     "@AiraniIofifteen": {
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
@@ -101,7 +93,15 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "E_kqRQqoPf4",
+                "title": "【 Coloso 】姫が新しい名画を描いちゃう？！クーポンプレゼントもあるのら！！！ 【姫森ルーナ/ホロライブ】",
+                "date": "2026/03/27 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/E_kqRQqoPf4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSSucQziZC6a-CNsXKotfdkUgYcQ",
+                "description": "#Coloso #ヒデ #hidechannel #PR\n\n提供：株式会社Day1company\n\n本イベントの特設ページはこちら\nhttps://bit.ly/4rY5w6B\n\n〈今回紹介された講座に使用できる11,000円..."
+            }
+        ]
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -137,15 +137,7 @@
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": [
-            {
-                "video_id": "SrvTEnESv7k",
-                "title": "超話題作ゲーム『ゼットンの1兆度ホームラン競争』、遊ぶぞ！",
-                "date": "2026/03/26 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/SrvTEnESv7k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBy9xCP8eCEOFeCD9BlslSOM3MFyg",
-                "description": "Play Game : ゼットンの1兆度ホームラン競争 ( PC )\nタグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nころねTwitter▶h..."
-            }
-        ]
+        "videos": []
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
@@ -177,7 +169,15 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "J6fTfIoHmbM",
+                "title": "【告知あり！】初めての逆凸…！緊張しています！！！！！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "date": "2026/03/27 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/J6fTfIoHmbM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJGxjVDotaMC5Z83m6KVleHNc0Bw",
+                "description": "メンバーシップ開設しました！加入はこちらから💕https://www.youtube.com/channel/UCGzTVXqMQHa4AgJVJIVvtDQ/join\n\n📢iOS ユーザーの皆様へ / for iOS(iPHONE, iPAD)..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -250,13 +250,6 @@
                 "date": "2026/03/27 21:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/2turSLqo8jU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPqg4KWwbFttB7fCBcRbA018xfpA",
                 "description": "▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸◂┄▹◃\n\n💙メンバーシップはこちらから ⬇️\nClick here for membership\nhttps://www.youtube.com/channel/UCjk2nKmHzgH5Xy-C5qYRd5A/j..."
-            },
-            {
-                "video_id": "6d6n38fKO8Y",
-                "title": "【パラソーシャル】ホラー苦手が行く【水宮枢／ホロライブDEV_IS】",
-                "date": "2026/03/26 20:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/6d6n38fKO8Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBshPFdQNq3E2ZGE3nzzRS7yAkxBQ",
-                "description": "本ゲームは © Chilla's Art, LLC® 2023 の承諾を得た上で配信・収益化を行なっております\n\n＜ゲームURL＞\nhttps://store.steampowered.com/app/2314720/Chillas_Art_Parasoci..."
             }
         ]
     },
@@ -290,6 +283,13 @@
                 "date": "2026/03/28 09:30:00",
                 "thumbnail": "https://i.ytimg.com/vi/XQwX8Heu0qA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCOWf69XsGsMVHbK9nNlSSZVDfWSQ",
                 "description": "streaming tickets: https://spwn.jp/events/evt_26032802-engkiarainanis1st?utm_source=cover&utm_medium=website&utm_campaign=engkiarainanis1st_top \n\nstreaming plus: https://eplus.jp/sf/detail/44398300..."
+            },
+            {
+                "video_id": "wrhpygMP4VQ",
+                "title": "【member's only】late night chatting after everything!! #calliolive",
+                "date": "2026/03/27 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/wrhpygMP4VQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZEodN6xrzZsIcjOVrrMBnCIsXig",
+                "description": "DISASTERPIECE New Album ON Sale!\nStreaming: https://lnk.to/mc_dsp\nCD and Merch: https://lnk.to/mc_dp_ec\n\nLINE Stickers: https://line.me/S/sticker/32114569\n\nBGM: https://x.com/BigRicePiano\nhttps://x..."
             }
         ]
     },
@@ -459,13 +459,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
         "videos": [
             {
-                "video_id": "YIwgfu5_EKo",
-                "title": "【 同時視聴/Watchalong 】『ハリーポッターと死の秘宝Part2』視聴会。未履修おかゆにハリポタを布教！【 #ホロハリポタ布教部 /ホロライブ】",
-                "date": "2026/03/26 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/YIwgfu5_EKo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClTm3mEgm9SqKd2VvyoUXaGfTvsA",
-                "description": "ハリポタのファン、フブさんとルイが未履修のおかゆしゃっちょに布教するパーツ８！！！\nサムネは本家リスペクトです！\n\n🎦一緒にみるメンバ..."
-            },
-            {
                 "video_id": "opAtcx6GIKc",
                 "title": "🥀2ndアルバム『Lapis Lazuli』発売中🥀",
                 "date": "2026/03/30 22:00:00",
@@ -514,15 +507,7 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": [
-            {
-                "video_id": "8MPgWNDQwGA",
-                "title": "【メンバー限定】最近のお話しとか色々！【雪花ラミィ /ホロライブ】",
-                "date": "2026/03/26 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/8MPgWNDQwGA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBA0Dc84wd5_qyMtVpPhNbfifkhRA",
-                "description": "※22時になったらメンバー限定配信に切り替わります\n　At22:00 p.m., the distribution will switch to members-only distribution.\n　メン限で話した内容は内緒でお願..."
-            }
-        ]
+        "videos": []
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
@@ -540,7 +525,15 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "0ylsQ79Mx1Q",
+                "title": "【ELDEN RING】The thumbnail is a lie",
+                "date": "2026/03/27 03:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/0ylsQ79Mx1Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9Mx9m9rWcv70Oc2t26raRCiYjYw",
+                "description": "it's been so long since I last played that it's basically like my first time playing\n\nCHECK OUT OUR SUPER CUTE SPRING MERCH!!!!!!!!\n🌸✨https://shop.hololivepro.com/en/products/hololiveen_spring..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
