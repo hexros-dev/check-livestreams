@@ -73,7 +73,15 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "nRyZK4046as",
+                "title": "≪DRAWN TO DAWN≫ DAY 2 WATCH PARTY!!! #takatori #drawntodawn",
+                "date": "2026/03/29 09:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/nRyZK4046as/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAuFcFgZSpIeWF2smh_YN54h0LS7g",
+                "description": "GET YOUR STREAM TICKETS HERE!\nhttps://drawn-to-dawn.hololivepro.com/ticket/\n\noFFICIAL SITE!\nhttps://drawn-to-dawn.hololivepro.com/\n\n#telebae #hololiveenglish \n\n««≪ °◇◆◇° ≫ »»..."
+            }
+        ]
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -151,7 +159,15 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Npskx8dtl0s",
+                "title": "【テストプレイをサボりすぎたＲＰＧ】完全初見！！フルボイス超大作だとオ！自認させてええええ【ホロライブ DEV_IS 響咲リオナ】",
+                "date": "2026/03/26 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Npskx8dtl0s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAinPauc0k4uKu0EHAk4i3h3KrMzQ",
+                "description": "サムネイラスト　時暮さん(@ Sig_Guitar)さんにお借りしました！素敵なイラストありがとうございます！\n\n\n配信タイトル：テストプレイをサボりすぎ..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -409,15 +425,7 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": [
-            {
-                "video_id": "z4wxlkccQZs",
-                "title": "【 #みっこよ 】オフコラボで晩酌対談するにぇ～～～～～～～‼🍶🌸🧪【ホロライブ/さくらみこ/博衣こより】",
-                "date": "2026/03/26 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/z4wxlkccQZs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDEhXI2EprMORpMKlHXKYc3I_Xuw",
-                "description": "@HakuiKoyori \n\n🌸さくらみこ誕生日記念グッズ2026はこちらから！🌸\n https://shop.hololivepro.com/products/sakuramiko_birthday_2026\n🌸新曲⚡『ファッションビート..."
-            }
-        ]
+        "videos": []
     },
     "@SamekoSaba": {
         "channel_url": "https://www.youtube.com/@SamekoSaba",
@@ -435,15 +443,7 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": [
-            {
-                "video_id": "LomtRbRTknc",
-                "title": "【Phasmophobia】特定失敗で即終了幽霊調査！アピールしてください。【白上フブキ/ホロライブ】",
-                "date": "2026/03/26 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/LomtRbRTknc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYCiK7WHh9pJ0IuiMKoMy5Z16Txg",
-                "description": "━━━━━━━━━━━━━━━━━━━━━━━\nいろはにほへっとあやふぶみ \n🌸新曲『色は匂えども』\n▷配信：https://cover.lnk.to/Boog1O\n ▷MV：ht..."
-            }
-        ]
+        "videos": []
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -629,13 +629,6 @@
                 "date": "2026/03/26 19:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/viFUXhlkwQA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCHtxgv7JNIySf1HArdEZbXGqrDiA",
                 "description": "早く観たいっちゃ！！\n\nサムネイラスト：vinhnyuさん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\n  / usadapekora  \n\nハッシュタグ..."
-            },
-            {
-                "video_id": "zjXKLTeTaXU",
-                "title": "【NELL】ぺこヴィヴィお泊り女子会【ホロライブ/兎田ぺこら/綺々羅々ヴィヴィ】",
-                "date": "2026/03/26 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/zjXKLTeTaXU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANMVOv2XpAtKcJ14qubJ2-DKdK2w",
-                "description": "\"▽NELL（ネル）マットレス \nhttps://nell.life/lp/promotion/pekovivi?route=pekovivi\n\nNELL全商品が15%OFFとなる「新生活応援SALE」を開催中！\n * ModelHは対象外\n\n開催期..."
             }
         ]
     },
