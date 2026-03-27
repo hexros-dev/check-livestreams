@@ -142,14 +142,7 @@
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
         "channel_name": "Kobo Kanaeru Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B",
-        "videos": [
-            {
-                "video_id": "fOl4gYT-dfw",
-                "title": "【Kobo 4th Anniversary】Princess? Mage? Knight? #Kobo4thAnniversary",
-                "thumbnail": "https://i.ytimg.com/vi/fOl4gYT-dfw/hqdefault.jpg?v=69bad01b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_YPy1JCaTiiWdDExCKhLjFmDyIg",
-                "description": "Bokobokobo- Kobo Kanaeru at your service! Let me be your sun to shine your day, ehe~ ;D ☔☔☔\n#OnAeru #Kobo_Kanaeru #holoID #holoid03 #Kobo4thAnniversary\n\n==================================..."
-            }
-        ]
+        "videos": []
     },
     "@KoganeiNiko": {
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
@@ -197,7 +190,14 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "wrhpygMP4VQ",
+                "title": "【member's only】late night chatting after everything!! #calliolive",
+                "thumbnail": "https://i.ytimg.com/vi/wrhpygMP4VQ/hqdefault.jpg?v=69c53b06&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZEodN6xrzZsIcjOVrrMBnCIsXig",
+                "description": "DISASTERPIECE New Album ON Sale!\nStreaming: https://lnk.to/mc_dsp\nCD and Merch: https://lnk.to/mc_dp_ec\n\nLINE Stickers: https://line.me/S/sticker/32114569\n\nBGM: https://x.com/BigRicePiano\nhttps://x..."
+            }
+        ]
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -209,7 +209,14 @@
         "channel_url": "https://www.youtube.com/@NakiriAyame",
         "channel_name": "Nakiri Ayame Ch. 百鬼あやめ",
         "avatar_url": "https://yt3.googleusercontent.com/3CeLWGYb6cLUywTJzNt-UpITviNxeGNvtjhIqbV-AIybCqCoFw9onWtg91bjwpqvfEP9mfqIR4Q",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "_WtnFRQMdv0",
+                "title": "【メン限】ゆるゆるメン限雑談 membership only【百鬼あやめ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/_WtnFRQMdv0/hqdefault.jpg?v=69c66495&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCu0Vc_qq4xlGHfdXUXl6-e0n7PQ",
+                "description": "- - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - -ഒ˖°\n　　\n\n　　🍜ホロライブ カップ麺3分ボイスリターンズ⌛\n　..."
+            }
+        ]
     },
     "@NanashiMumei": {
         "channel_url": "https://www.youtube.com/@NanashiMumei",
@@ -227,14 +234,7 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
-        "videos": [
-            {
-                "video_id": "Ej7oAf4QzbY",
-                "title": "【 nosh 】食べ比べ🍱猫又的ランキング🔍✦【 猫又おかゆ/ホロライブ 】",
-                "thumbnail": "https://i.ytimg.com/vi/Ej7oAf4QzbY/hqdefault.jpg?v=69c51c20&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA88ENKd0KT0_laUSdhXDYRLSdaSw",
-                "description": "🍙nosh×Okayu Ch. 猫又おかゆ第二弾の特別コラボクーポン🍙\n\n🔰初回購入の方はこちら\nhttps://nosh.jp/landing/hololive/NekomataOkayu?utm_source=Youtuber&utm_medium=PR&u..."
-            }
-        ]
+        "videos": []
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -258,13 +258,27 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "VX1baL6_voU",
+                "title": "【メンバーシップ限定】耳元で雑談するASMRだよ～～",
+                "thumbnail": "https://i.ytimg.com/vi/VX1baL6_voU/hqdefault.jpg?v=69c66288&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD02sZWpxmgwwhK-1rohqTNWqbJuw",
+                "description": "２月分のメンバーシップ限定配信です🌟\n\nサムネillustrator：Deaverさん　https://x.com/Deaver0501\n✣✣––––––––––..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "onQhWFc-sCk",
+                "title": "【#3】ジョジョ第５部同時視聴みるしゅばあああああああああああああああああああああ！！！！：JoJo's Bizarre Adventure: Golden Wind【ホロライブ/大空スバル】",
+                "thumbnail": "https://i.ytimg.com/vi/onQhWFc-sCk/hqdefault.jpg?v=69c67c15&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDP6cYaMPAnjoBfIGROJDlEgFuLzA",
+                "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n\n🔽楽曲各..."
+            }
+        ]
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -313,7 +327,14 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "V9WkstP2q3o",
+                "title": "最終回？【ポケモンファイアレッド】四天王戦！はじめての人生縛りでゆく生き残りをかけた ファイアレッドの旅～みこちと人生縛り伝説～【ホロライブ/さくらみこ】",
+                "thumbnail": "https://i.ytimg.com/vi/V9WkstP2q3o/hqdefault.jpg?v=69c65bb2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOrA1mjH4LIucZdqqGcAHvEBH8lA",
+                "description": "現在までの犠牲者の会：あちゅどん(ヒトカゲ)/シンジ(ポッポ)/インキー(マンキー)/イワテケン(イシツブテ)/クサカレタ＆タンシバw(ナゾノクサ)/シ..."
+            }
+        ]
     },
     "@SamekoSaba": {
         "channel_url": "https://www.youtube.com/@SamekoSaba",
@@ -350,27 +371,13 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": [
-            {
-                "video_id": "1R8KIazRg7k",
-                "title": "【紅の砂漠】超絶グラフィック＆大迫力アクション！早速プレイしてみるッ！【白銀ノエル/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/1R8KIazRg7k/hqdefault.jpg?v=69c5bdb2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0LynQ7mfqKAxQXq4iGzncOqEf5A",
-                "description": "巷で話題の「紅の砂漠」！！！ホロメンでリレー中！だんちょは4日目だよ～！！\n🌟DLはこちら！→https://tinyurl.com/noelch-CD \n＃紅の砂漠 #PR #PearlAbyss..."
-            }
-        ]
+        "videos": []
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": [
-            {
-                "video_id": "mcw2qC4z_PU",
-                "title": "【ボーダーランズ4】DLCでもヒャッハーするぞい！Borderlands 4【獅白ぼたん/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/mcw2qC4z_PU/hqdefault.jpg?v=69c55f29&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyc2s-T4zbl_Ujwu25Aw3d1nBX5Q",
-                "description": "DLCで新キャラもくるぽい？！\n\n提供：2K/テイクツー・インタラクティブ・ジャパン\n『ボーダーランズ4』 ストーリーパック第1弾　「マッド・エリ..."
-            }
-        ]
+        "videos": []
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
@@ -406,7 +413,14 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "O5TWLv9b-Gc",
+                "title": "【 マリオテニス フィーバー 】今夜は、わためぇテニスフィーバー！！🎾【角巻わため/ホロライブ４期生】",
+                "thumbnail": "https://i.ytimg.com/vi/O5TWLv9b-Gc/hqdefault.jpg?v=69c62da3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOsCOBmL5vya5lo6YlOZTW-oCjSQ",
+                "description": "初テニス！いくぞ！\nタグ：#ドドドライブ \n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n🐏もっとクセつよシス..."
+            }
+        ]
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -497,13 +511,6 @@
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": [
-            {
-                "video_id": "eJxaZXdi-LQ",
-                "title": "【The 18th Attic】自分のコラボイヤホンでホラゲーをやったら怖くない説　#結城さくな生放送",
-                "thumbnail": "https://i.ytimg.com/vi/eJxaZXdi-LQ/hqdefault.jpg?v=69c502c9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAO4GI2-DaUacp-8MZE_74kfPXCeA",
-                "description": "提供：オンキヨー株式会社\n\n「ボイス入りワイヤレスイヤホン」販売を開始！\n本体には録り下ろしボイス、パッケージに撮り下ろしビジュアルを..."
-            }
-        ]
+        "videos": []
     }
 }
