@@ -387,7 +387,14 @@
         "channel_url": "https://www.youtube.com/@dooby3d",
         "channel_name": "dooby",
         "avatar_url": "https://yt3.googleusercontent.com/sOGyZgV9pPHQJCEvNe28NCOFC1y0KggsxUjrP5ecMAgBmdNT8p6ZNM24d_9SVgWFhBh0lKBL5Q",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "iRlEVLePRDs",
+                "title": "dooby dooby dooba 🎶",
+                "thumbnail": "https://i.ytimg.com/vi/iRlEVLePRDs/hqdefault.jpg?v=69c6ec31&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_mPb8941K7-g0pH0rswH9X1u88A",
+                "description": "karaoke stream!\nsuper cute art!!! tysm~ ❤︎ https://x.com/shachimu/status/2020726557988593746?s=20"
+            }
+        ]
     },
     "@holoen_ceciliaimmergreen": {
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
@@ -412,14 +419,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "pb9QptwPMEo",
-                "title": "【The Elder Scrolls IV: Oblivion Remastered】grug is back",
-                "thumbnail": "https://i.ytimg.com/vi/pb9QptwPMEo/hqdefault.jpg?v=69c62db4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfyieoDKJV4WwoyTLX9oec9QmoVQ",
-                "description": "thumbnail: https://x.com/uranus_4921/status/2036980321561051416\n\ngame title: The Elder Scrolls IV: Oblivion Remastered\nhttps://store.steampowered.com/app/2623190/The_Elder_Scrolls_IV_Oblivion_Remas..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
