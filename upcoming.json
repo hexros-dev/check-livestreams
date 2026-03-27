@@ -500,7 +500,15 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "KVJFel4YBqM",
+                "title": "【Free Preview】Takanashi Kiara / Ninomae Ina'nis 1st Concert \"Drawn to Dawn\"【DAY1】",
+                "date": "2026/03/28 09:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/KVJFel4YBqM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAmtMgQQVeeLfCefo20RFRYQnOQA",
+                "description": "Enjoy a free preview of Takanashi Kiara / Ninomae Ina'nis 1st Concert \"Drawn to Dawn\" Day 1!\nJoin us for the full concert with a streaming ticket!\n\n▼Hashtag\n#TakoTori1stConcert\n\n◆Streaming..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
