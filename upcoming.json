@@ -462,15 +462,7 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
-        "videos": [
-            {
-                "video_id": "5BLqmzg_lMY",
-                "title": "【都市伝説.exe 】都市伝説って迷信でしょ～怖くないよ～ん・・・！？？ｔｇ４ｒｓだｓ【ホロライブ/ ロボ子さん 】",
-                "date": "2026/03/27 15:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/5BLqmzg_lMY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBrv_Z-IFPEEaxmotH3Y0oHWTRpMg",
-                "description": "＃ホロライブ 　\nｘでは💬　 #ロボ子生放送 でポストしてってね\n配信タイトル：都市伝説.exe\n　ストアページ：https://store.steampowered.com/app/4173550/exe/..."
-            }
-        ]
+        "videos": []
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -594,7 +586,15 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "O5TWLv9b-Gc",
+                "title": "【 マリオテニス フィーバー 】今夜は、わためぇテニスフィーバー！！🎾【角巻わため/ホロライブ４期生】",
+                "date": "2026/03/27 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/O5TWLv9b-Gc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOsCOBmL5vya5lo6YlOZTW-oCjSQ",
+                "description": "初テニス！いくぞ！\nタグ：#ドドドライブ \n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n🐏もっとクセつよシス..."
+            }
+        ]
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -642,7 +642,15 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "pb9QptwPMEo",
+                "title": "【The Elder Scrolls IV: Oblivion Remastered】grug is back",
+                "date": "2026/03/28 04:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/pb9QptwPMEo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfyieoDKJV4WwoyTLX9oec9QmoVQ",
+                "description": "thumbnail: https://x.com/uranus_4921/status/2036980321561051416\n\ngame title: The Elder Scrolls IV: Oblivion Remastered\nhttps://store.steampowered.com/app/2623190/The_Elder_Scrolls_IV_Oblivion_Remas..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
