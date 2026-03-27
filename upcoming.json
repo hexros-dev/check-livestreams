@@ -179,7 +179,7 @@
         "videos": [
             {
                 "video_id": "J6fTfIoHmbM",
-                "title": "【告知あり！】初めての逆凸待ち…！緊張しています！！！！！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "title": "【 告知あり！】初めての逆凸待ち…！緊張しています！！！！！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
                 "date": "2026/03/27 17:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/J6fTfIoHmbM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJGxjVDotaMC5Z83m6KVleHNc0Bw",
                 "description": "メンバーシップ開設しました！加入はこちらから💕https://www.youtube.com/channel/UCGzTVXqMQHa4AgJVJIVvtDQ/join\n\n📢iOS ユーザーの皆様へ / for iOS(iPHONE, iPAD)..."
@@ -448,13 +448,29 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "WsrmRIeB1lY",
+                "title": "よていち【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "date": "2026/03/27 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/WsrmRIeB1lY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAC-xTxb7-jq5sWzbQkGCfG5AFIdQ",
+                "description": "▼メンバーシップ加入はこちらから！\nhttps://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig/join\n\nFLOWGLOW 1st Album『FLOW GLOW』\n2026.1.21 リリース\n🔽予約はこちらか..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "5BLqmzg_lMY",
+                "title": "【都市伝説.exe 】都市伝説って迷信でしょ～怖くないよ～ん・・・！？？ｔｇ４ｒｓだｓ【ホロライブ/ ロボ子さん 】",
+                "date": "2026/03/27 15:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/5BLqmzg_lMY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBrv_Z-IFPEEaxmotH3Y0oHWTRpMg",
+                "description": "＃ホロライブ 　\nｘでは💬　 #ロボ子生放送 でポストしてってね\n配信タイトル：都市伝説.exe\n　ストアページ：https://store.steampowered.com/app/4173550/exe/..."
+            }
+        ]
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -525,13 +541,6 @@
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
         "videos": [
-            {
-                "video_id": "6-so_H-s_JE",
-                "title": "【TakoTori】the day before the concert!!!!! omg #kfp #DrawntoDawn #TakoTori1stConcert",
-                "date": "2026/03/27 09:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/6-so_H-s_JE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCp3JzMqHbhTse51f0rHd7Au0YR2g",
-                "description": "@NinomaeInanis \n\nCONCERT STREAMING TICKETS: https://drawn-to-dawn.hololivepro.com/ticket\nCONCERT WEBSITE: https://drawn-to-dawn.hololivepro.com/ \n\n🏵️[Twitter] 🏵️\nhttps://twitter.com/takan..."
-            },
             {
                 "video_id": "KVJFel4YBqM",
                 "title": "【Free Preview】Takanashi Kiara / Ninomae Ina'nis 1st Concert \"Drawn to Dawn\"【DAY1】",
@@ -625,15 +634,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "Io47l0uQwAI",
-                "title": "【StarSavior】i am easily swayed by girls in bunny suits #ad #sponsored",
-                "date": "2026/03/27 10:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Io47l0uQwAI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlDzMWBtM0aPUN1w83KSRxmC4rxw",
-                "description": "Thank you, Studiobside, for sponsoring this stream!\n\nStarSavior : Guide your Star-kissed Saviors.\n\nPlay StarSavior NOW: https://starsavior.com/intro\n\nOfficial X (Previously Twitter): https://x.com/..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
@@ -663,7 +664,15 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Nfxwl1Etsbo",
+                "title": "【ロマサガ2】シリーズ初見！『ロマンシング サガ2 リベンジオブザセブン』やる！ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意",
+                "date": "2026/03/28 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Nfxwl1Etsbo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkdw-FgFcPBGEioONPksE-ySxNIA",
+                "description": "早くやらせてくれ！\n\nサムネイラスト：憂姫はぐれマッマ\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekor..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",

@@ -147,14 +147,7 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": [
-            {
-                "video_id": "H97FChSbAo4",
-                "title": "【Slay the Spire 2】I'M CURIOUS",
-                "thumbnail": "https://i.ytimg.com/vi/H97FChSbAo4/hqdefault.jpg?v=69c588b1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZHzoEdXN1ekAfWGbz7vueImyHzQ",
-                "description": "Thumbnail Art :@nabe_otome THANK YOU!\nhttps://x.com/nabe_otome/status/2036340730990567904/photo/1\n\n====================\n✧Twitter: https://twitter.com/kosekibijou\n\n✧Hashtags: \n#biboo  \nAdvent:..."
-            }
-        ]
+        "videos": []
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -262,7 +255,14 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "55w_9z5cWio",
+                "title": "【My Card Is Better Than Your Card!】YUH HUH",
+                "thumbnail": "https://i.ytimg.com/vi/55w_9z5cWio/hqdefault.jpg?v=69c5f9e3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAW_uWfUaHavaX4wRCJqMe2NU_uFA",
+                "description": "Goddess Kronii's 2026 Birthday Merchandise Available Below (Available from 12:10JST):\n🩵🩵 Illustrated by Wada Mama 🩵🩵\n▼hololive production OFFICIAL SHOP \nJP: https://shop.hololivepro.c..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
@@ -419,7 +419,14 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Io47l0uQwAI",
+                "title": "【StarSavior】i am easily swayed by girls in bunny suits #ad #sponsored",
+                "thumbnail": "https://i.ytimg.com/vi/Io47l0uQwAI/hqdefault.jpg?v=69c4b021&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlDzMWBtM0aPUN1w83KSRxmC4rxw",
+                "description": "Thank you, Studiobside, for sponsoring this stream!\n\nStarSavior : Guide your Star-kissed Saviors.\n\nPlay StarSavior NOW: https://starsavior.com/intro\n\nOfficial X (Previously Twitter): https://x.com/..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
