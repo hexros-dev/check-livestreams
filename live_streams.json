@@ -156,7 +156,14 @@
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
         "channel_name": "Kobo Kanaeru Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "REijJizYO7I",
+                "title": "【Kobolonimbus】Playing the guitar again!",
+                "thumbnail": "https://i.ytimg.com/vi/REijJizYO7I/hqdefault.jpg?v=69c7bd50&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmgUOy3Ig1HX-Wa_vekxtRFlBPSg",
+                "description": "Bokobokobo- Kobo Kanaeru at your service! Let me be your sun to shine your day, ehe~ ;D ☔☔☔\n#OnAeru #Kobo_Kanaeru #holoID #holoID03\n\n==================================\nDONASI LOKAL GUYS!..."
+            }
+        ]
     },
     "@KoganeiNiko": {
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
@@ -303,7 +310,14 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "rTbOHSBuExA",
+                "title": "#9【Ace Attorney Investigations 2】It's Been TOO LONG... (SPOILERS!)【Pavolia Reine/holoID gen 2】",
+                "thumbnail": "https://i.ytimg.com/vi/rTbOHSBuExA/hqdefault.jpg?v=69c7d123&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzfjSSS209xUyQ_1A_kltGDpzKcA",
+                "description": "Reine's new original song now AVAILABLE on iTunes, Apple Music, Spotify etc. starting September 10, 2025 00:00 your local time!!!\nWatch the MV:➡️https://youtu.be/NEtiag8nTUs\nGet it here:➡️h..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -327,14 +341,7 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": [
-            {
-                "video_id": "liIDTvctGWc",
-                "title": "【 タイマン企画 】みこに勝たないと出られない部屋にぇ！ゲスト：赤見かるび🥩【ホロライブ/さくらみこ/赤見かるび】",
-                "thumbnail": "https://i.ytimg.com/vi/liIDTvctGWc/hqdefault.jpg?v=69c79cac&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMnUu7-ZMJHzYcgn8x5KgdJ07GXw",
-                "description": "GUEST：赤見かるび @AkamiKarubi \nこの部屋は･･ゲストをご招待して、最終的にゲーム勝負をして『負けたら』出られない\n親睦を深めるトーク＆ゲー..."
-            }
-        ]
+        "videos": []
     },
     "@SamekoSaba": {
         "channel_url": "https://www.youtube.com/@SamekoSaba",
