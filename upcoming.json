@@ -224,7 +224,15 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "deOhEmGPTgY",
+                "title": "【Super Mario 64】I SEE NOW",
+                "date": "2026/03/29 06:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/deOhEmGPTgY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWp4hzGLChy2JM3Q86GoSI0KG6KA",
+                "description": "ovo\n\n\nNintendo properties used in this video and livestream are used with permission and under license by Nintendo Co., Ltd.\n\n====================\n✧Twitter: https://twitter.com/kosekibijou..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
