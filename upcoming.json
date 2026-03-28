@@ -306,7 +306,15 @@
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "N0uQS-ETTcY",
+                "title": "【伝書鳩】鳩が集まる配信【ホロライブ/夏色まつり】",
+                "date": "2026/03/28 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/N0uQS-ETTcY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAM4t7qcYg124klNlM6z8rAA4Iglw",
+                "description": "...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\n\nルール\n※普段の配信、他のメンバーへの鳩行為は禁止\n※この枠のみ伝..."
+            }
+        ]
     },
     "@NekomataOkayu": {
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
@@ -367,13 +375,6 @@
                 "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n\n🔽楽曲各..."
             },
             {
-                "video_id": "SDxxtZsNn2s",
-                "title": "【#2】LOST JUDGMENT：裁かれざる記憶【※ネタバレあり】",
-                "date": "2026/03/28 11:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/SDxxtZsNn2s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCUWo8A54SXaOTfbpNooqhKya123Q",
-                "description": "この動画およびライブは、コンテンツ利用許諾契約に基づいて配信しています。\n©SEGA\n\n🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメン..."
-            },
-            {
                 "video_id": "ZwJ1_ZNApbA",
                 "title": "【】7周年ライブ振り返り配信【ホロライブ/大空スバル】",
                 "date": "2026/03/30 18:00:00",
@@ -398,29 +399,13 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": [
-            {
-                "video_id": "RRkl5PgnLSU",
-                "title": "【Brunch Stream】BACK FROM PEAFOWL BUSINESS LET'S GOOO TIME FOR STORIES",
-                "date": "2026/03/28 12:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/RRkl5PgnLSU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRkoCjxr-emkXMFxwCKxUoUUPdaw",
-                "description": "Reine's new original song now 「Yummy Yum Yummy!」AVAILABLE on iTunes, Apple Music, Spotify etc. Click to stream!\nパヴォリア・レイネ新曲「ヤミヤムヤミ」\nhttps://cover.lnk.to/mU..."
-            }
-        ]
+        "videos": []
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": [
-            {
-                "video_id": "1qnyylQ7opI",
-                "title": "【F1同時視聴】日本GP予選 【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "date": "2026/03/28 12:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/1qnyylQ7opI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB12LJhsZlIm1QkyJMTLyLGcf8t5A",
-                "description": "F1みるぞ！！！！！！！！！！！！！！！！！！！！\nFODで見れます！！！\n\n15:00 予選スタート\n\nサムネイルイラスト：Hiroshika・ヒロシカさま\nhttps://x..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
