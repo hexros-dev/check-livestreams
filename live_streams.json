@@ -393,7 +393,14 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "zS9RVahPuEM",
+                "title": "【Marvel’s Spider-Man】I'm gonna put some dirt in your eye",
+                "thumbnail": "https://i.ytimg.com/vi/zS9RVahPuEM/hqdefault.jpg?v=69c96d1e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCHXOifNkhpmnvgesX7DwJqaVUQow",
+                "description": "spider \n--------------------------\nHashtags\n📺 Livestream: #ImmerScreen \n🎨 Fanart: #Immergination\n🎻 Music: #ImmerPiece\n🤡 Memes: #ImmerMemes \n--------------------------\n\n\n----------------..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
@@ -411,14 +418,7 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": [
-            {
-                "video_id": "ad7ou8035ts",
-                "title": "【Arknights: Endfield】TRYING ENDFIELD ON MY PS5 + ROSSI COME HOME!!!",
-                "thumbnail": "https://i.ytimg.com/vi/ad7ou8035ts/hqdefault.jpg?v=69c6cb1e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0unWuPRH4gnTbiKCWg-p6gGU5Cw",
-                "description": "Arknights: Endfield is available on PlayStation®5! Download the game now: https://store.playstation.com/concept/10009205/ \n\nGame title: Arknights: Endfield\nStore page: https://endfield.gryphline.c..."
-            }
-        ]
+        "videos": []
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
