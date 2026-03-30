@@ -69,14 +69,7 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": [
-            {
-                "video_id": "tepFlrRPqnI",
-                "title": "【 鳴潮 】初めての鳴潮で遊んでみるのら！！！第2章 ＃７【姫森ルーナ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/tepFlrRPqnI/hqdefault.jpg?v=69c96d2f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwKF29XFPM1yc9YcHdNm7OnptAWA",
-                "description": "第2章第5幕から(・o・🍬)\n\n鳴潮再生リスト\nhttps://www.youtube.com/playlist?list=PL6gUpTCMieF5tt-S0Yty858pGwr-JUz_0\n\n鳴潮\nhttps://wutheringwaves.kurogames.com/jp/\n\n▷==============..."
-            }
-        ]
+        "videos": []
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -100,14 +93,7 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": [
-            {
-                "video_id": "-xo_dQeEPmk",
-                "title": "【Members Only・メン限】BDay Live WATCHALONG!!! 一緒に生誕ライブ見よう！",
-                "thumbnail": "https://i.ytimg.com/vi/-xo_dQeEPmk/hqdefault.jpg?v=69c97337&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBU_QEOA_hytqgXpaWGEoWUxP7sOQ",
-                "description": "My race queen outfit also got some adjustments in expression! \n\nSolo live confirmed for October 6 at SGC HALL ARIAKE, Japan! More details soon!\n10月6日、SGC HALL 有明でソロライブ開催..."
-            }
-        ]
+        "videos": []
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -150,20 +136,20 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": [
-            {
-                "video_id": "CFFG4yTWePc",
-                "title": "【 Detroit: Become Human 】超名作！選択が未来を変える！デトロイトビカムヒューマン【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "thumbnail": "https://i.ytimg.com/vi/CFFG4yTWePc/hqdefault.jpg?v=69ca0e46&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBT4qyOvGqWxkst6mA_psVTVHS-Nw",
-                "description": "配信タイトル：Detroit: Become Human\nストアページ：https://store.steampowered.com/app/1222140/Detroit_Become_Human/\n\n■綺々羅々ヴィヴィ 50万人記念グッズ\n■販売URL..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
         "channel_name": "Kobo Kanaeru Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "yPj5M50wmT4",
+                "title": "【FREE TALK + Dono Reading】Holoh3ro 4th anniversary OTSU !!",
+                "thumbnail": "https://i.ytimg.com/vi/yPj5M50wmT4/hqdefault.jpg?v=69c96fe0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzStQqrlCmwbsomn5sSJ4URBJQZg",
+                "description": "Bokobokobo- Kobo Kanaeru at your service! Let me be your sun to shine your day, ehe~ ;D ☔☔☔\n#OnAeru #Kobo_Kanaeru #holoID #holoid03 #Kobo4thAnniversary\n\n==================================..."
+            }
+        ]
     },
     "@KoganeiNiko": {
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
@@ -483,13 +469,6 @@
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": [
-            {
-                "video_id": "3ZqHh3vL_5I",
-                "title": "【R.E.P.O.】陽キャ曰く、友達の友達は友達。らしい。【赤見かるび/白波らむね/神楽めあ】",
-                "thumbnail": "https://i.ytimg.com/vi/3ZqHh3vL_5I/hqdefault.jpg?v=69ca454e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBcUF8MZrFoZ1nRciap39yYkCPP9Q",
-                "description": "@KaguraMea @shiranamiramune @AkamiKarubi \n\n🎀グッズ・ボイス販売はこちら🐾\nhttps://yuki-sakuna.stores.jp/\n\n🎀歌ってみた動画🐾\nhttps://youtube.com/playlist?list=PLErsMirGq..."
-            }
-        ]
+        "videos": []
     }
 }
