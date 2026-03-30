@@ -63,13 +63,27 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "QfkLFb7w1vI",
+                "title": "【 #博衣こより生誕Live2026 】生誕Live＆新オリ曲裏話～～～！セトリやゲストのお話、アニメMV設定資料などっ✨【博衣こより/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/QfkLFb7w1vI/hqdefault.jpg?v=69c96936&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEJkXcKGWER-mfp3FV7UHIQdgOEw",
+                "description": "🎂博衣こより生誕グッズ2026発売中！(5/7まで)➡ https://shop.hololivepro.com/products/hakuikoyori_birthday_2026\n#博衣こより生誕Live2026 観てくれてありがとう！こ..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "tepFlrRPqnI",
+                "title": "【 鳴潮 】初めての鳴潮で遊んでみるのら！！！第2章 ＃７【姫森ルーナ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/tepFlrRPqnI/hqdefault.jpg?v=69c96d2f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwKF29XFPM1yc9YcHdNm7OnptAWA",
+                "description": "第2章第5幕から(・o・🍬)\n\n鳴潮再生リスト\nhttps://www.youtube.com/playlist?list=PL6gUpTCMieF5tt-S0Yty858pGwr-JUz_0\n\n鳴潮\nhttps://wutheringwaves.kurogames.com/jp/\n\n▷==============..."
+            }
+        ]
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -93,14 +107,7 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": [
-            {
-                "video_id": "7doioKjtLRI",
-                "title": "【Pokémon Pokopia】I'm FINALLY A DITTO",
-                "thumbnail": "https://i.ytimg.com/vi/7doioKjtLRI/hqdefault.jpg?v=69c972b9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOYchYgqQPcH3hgaRx0gsu-uWYGw",
-                "description": "I love ditto\n\nGame Title: Pokémon™ Pokopia\nOfficial Page: https://pokopia.pokemon.com/en-us/\n\nSolo live confirmed for October 6 at SGC HALL ARIAKE, Japan! More details soon!\n10月6日、SGC..."
-            }
-        ]
+        "videos": []
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -118,7 +125,14 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "9_-JwXshO8Y",
+                "title": "【３D歌枠🎤】３月のソロセルフブース３Ｄ歌枠です❤【ホロライブ DEV_IS 響咲リオナ】",
+                "thumbnail": "https://i.ytimg.com/vi/9_-JwXshO8Y/hqdefault.jpg?v=69c947cd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmBh-c6tsaZrBGygyfP2AZUAhzCQ",
+                "description": "カラオケ音源協力：DAM 第一興商\n\n久しぶりに歌うぞい🎤👑\nサムネイラスト　ゅんーLyunさん(@ ll_yun_ll)素敵なイラストありがとうございます♡..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -178,7 +192,14 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "4r5HnH_ni1M",
+                "title": "【ぽこ あ ポケモン】スバル先輩がぽこあすれば何でも解決できるって言ってたｗ【 桃鈴ねね / hololive 】",
+                "thumbnail": "https://i.ytimg.com/vi/4r5HnH_ni1M/hqdefault.jpg?v=69ca1aa3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNpkNTfDmi9D1hAAGokz1Hf0weag",
+                "description": "いろはちゃんめっちゃ効率厨になってたｗ\n▼アルバム『Peachful Story』の販売URLはこちら\n通常盤: https://shop.hololivepro.com/products/momosuzunene_1stalbum_peachful..."
+            }
+        ]
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
@@ -244,7 +265,14 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "dZ19bb455MI",
+                "title": "【 BIOHAZARD RE:2 】本当に怖いバイオハザード２【 ４ 】",
+                "thumbnail": "https://i.ytimg.com/vi/dZ19bb455MI/hqdefault.jpg?v=69ca07c4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBD8Yj10XPSTWXywVa2RU5mSM1-Q",
+                "description": "本当にプレイヤーが怖がっています。絶叫注意\n\nサムネillustrator：PAISHENさん　https://x.com/INUTOBI21\n\nこの動画およびライブは株式会社カプコンの利用..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -316,7 +344,14 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "EJSa08CjFRg",
+                "title": "【七つの大罪：Origin】先日遊んだ七大の新作ゲームの続きをやってみるぞー！【不知火フレア/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/EJSa08CjFRg/hqdefault.jpg?v=69c96483&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCUnbu1ModLHrQFwpwmU4G97YLVtA",
+                "description": "『七つの大罪：Origin』3月24日正式リリース！\n対象プラットフォーム：PlayStation®5 , STEAM , iOS , Android\n\n▼今すぐダウンロード！\nhttps://7origin.onelink.me/tV..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -424,7 +459,14 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "YnnfxfTNivg",
+                "title": "【ぽこあポケモン】効率マンによる💡一生できるらしいポケモンゲーム🌳DAY3【風真いろは/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/YnnfxfTNivg/hqdefault.jpg?v=69ca03c0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkysIx_MFlJZC3920u9R4hiF6cNg",
+                "description": "ちゃんと屋根つけました。\n\nサムネイラスト：https://x.com/Duckmang_/status/2030994765442080950?s=20\n\n\n配信タイトル：ぽこ あ ポケモン\n公式ページ：https://www.po..."
+            }
+        ]
     },
     "@mikenekoko": {
         "channel_url": "https://www.youtube.com/@mikenekoko",
