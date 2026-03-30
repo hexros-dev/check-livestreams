@@ -107,7 +107,14 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "-xo_dQeEPmk",
+                "title": "【Members Only・メン限】BDay Live WATCHALONG!!! 一緒に生誕ライブ見よう！",
+                "thumbnail": "https://i.ytimg.com/vi/-xo_dQeEPmk/hqdefault.jpg?v=69c97337&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBU_QEOA_hytqgXpaWGEoWUxP7sOQ",
+                "description": "My race queen outfit also got some adjustments in expression! \n\nSolo live confirmed for October 6 at SGC HALL ARIAKE, Japan! More details soon!\n10月6日、SGC HALL 有明でソロライブ開催..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -138,7 +145,14 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "chtU-0JTipU",
+                "title": "【雑談】ただいまということは帰ってきたということです【儒烏風亭らでん #ReGLOSS 】",
+                "thumbnail": "https://i.ytimg.com/vi/chtU-0JTipU/hqdefault.jpg?v=69ca5479&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAEJtquik3OT5YewIj6ljeHinaWaA",
+                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\n\nOP曲：儒烏風亭らでん『出囃子ジャポニズム..."
+            }
+        ]
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -199,14 +213,7 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": [
-            {
-                "video_id": "4r5HnH_ni1M",
-                "title": "【ぽこ あ ポケモン】スバル先輩がぽこあすれば何でも解決できるって言ってたｗ【 桃鈴ねね / hololive 】",
-                "thumbnail": "https://i.ytimg.com/vi/4r5HnH_ni1M/hqdefault.jpg?v=69ca1aa3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNpkNTfDmi9D1hAAGokz1Hf0weag",
-                "description": "いろはちゃんめっちゃ効率厨になってたｗ\n▼アルバム『Peachful Story』の販売URLはこちら\n通常盤: https://shop.hololivepro.com/products/momosuzunene_1stalbum_peachful..."
-            }
-        ]
+        "videos": []
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
@@ -278,7 +285,14 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ZwJ1_ZNApbA",
+                "title": "【#生スバル】7周年ライブ振り返り配信しゅばああああああああああああああああああああああああ！！！！：7th Anniversary Live Recap Chat【ホロライブ/大空スバル】",
+                "thumbnail": "https://i.ytimg.com/vi/ZwJ1_ZNApbA/hqdefault.jpg?v=69c95e46&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD69k5vfecEdXWqwKQ_-kMK9HDETQ",
+                "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n\n🔽楽曲各..."
+            }
+        ]
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -338,33 +352,26 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "b-zNuA6JFTc",
+                "title": "【アークナイツエンドフィールド 】ロッシたん実装が来たのでお迎えするしかない【白上フブキ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/b-zNuA6JFTc/hqdefault.jpg?v=69ca1f96&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVyIHfFzLflAsSwelkDIpoMYEACw",
+                "description": "━━━━━━━━━━━━━━━━━━━━━━━\nいろはにほへっとあやふぶみ \n🌸新曲『色は匂えども』\n▷配信：https://cover.lnk.to/Boog1O\n ▷MV：ht..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": [
-            {
-                "video_id": "EJSa08CjFRg",
-                "title": "【七つの大罪：Origin】先日遊んだ七大の新作ゲームの続きをやってみるぞー！【不知火フレア/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/EJSa08CjFRg/hqdefault.jpg?v=69c96483&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCUnbu1ModLHrQFwpwmU4G97YLVtA",
-                "description": "『七つの大罪：Origin』3月24日正式リリース！\n対象プラットフォーム：PlayStation®5 , STEAM , iOS , Android\n\n▼今すぐダウンロード！\nhttps://7origin.onelink.me/tV..."
-            }
-        ]
+        "videos": []
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": [
-            {
-                "video_id": "ibXLsZLP3qw",
-                "title": "【活動6年半の新人Vtuber(※)】リスナーさんいっぱいきてくれるかな...ﾄﾞｷﾄﾞｷ...【白銀ノエル/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/ibXLsZLP3qw/hqdefault.jpg?v=69ca5d77&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTsnqnx0v0oP6Nygkjdty5mTr4uw",
-                "description": "※現在YouTubeの表示がバグってるみたいなのでそれに乗じて初心にかえろうの企画です\n\n💚新曲「VAVAVA！バーチャル大分」MV公開中🌏\nhttps://youtu.be/k..."
-            }
-        ]
+        "videos": []
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -388,7 +395,14 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "M0aUQt8-1XE",
+                "title": "【メン限】カラオケの二次会おしゃべり【轟はじめ/ReGLOSS】",
+                "thumbnail": "https://i.ytimg.com/vi/M0aUQt8-1XE/hqdefault.jpg?v=69ca568e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFi29jQE-cqFJYOuQzpP45QqgPaA",
+                "description": "素敵なサムネお写真：Nyan🐾様（@Nyan_nekoma）\n\n\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n✨オリジナル曲宣伝✨\nNEW！！🏀【Original】Dunk/轟はじめ..."
+            }
+        ]
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
@@ -406,7 +420,14 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "m3eM3CTxUbk",
+                "title": "【 ぽこ あ ポケモン 】ついにメインストーリークリアか？！#7【角巻わため/ホロライブ４期生】",
+                "thumbnail": "https://i.ytimg.com/vi/m3eM3CTxUbk/hqdefault.jpg?v=69c96ae8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPpJy4RqaFOiBjoSW0Xy6i5JUT1Q",
+                "description": "まだクリアしてないミッションもやりつつ！\nタグ：#ドドドライブ \n\n配信タイトル：ぽこ あ ポケモン\n公式ページ：https://www.pocoapokemon.jp/ja/\n\n🐏も..."
+            }
+        ]
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -424,7 +445,14 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "HcZ0nZ379W0",
+                "title": "【ぽこ あ ポケモン】#05 夜のまったりご褒美ぽこあ♡【雪花ラミィ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/HcZ0nZ379W0/hqdefault.jpg?v=69ca4d48&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3yjTQZxls5FaNSsnz5VvsHoXt1A",
+                "description": "配信タイトル：ぽこ あ ポケモン\n公式ページ：https://www.pocoapokemon.jp/ja/\n\nサムネイルイラスト：ぽるこJさま\nhttps://x.com/Porco_JJ\n\n【所属会社からのお知..."
+            }
+        ]
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
@@ -491,12 +519,26 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "RR5gHcH_qcw",
+                "title": "【協力求む！】視聴者さんが300人超えるまでがんばる配信【ホロライブ/兎田ぺこら】",
+                "thumbnail": "https://i.ytimg.com/vi/RR5gHcH_qcw/hqdefault.jpg?v=69ca7252&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDc-M0rqiiBnxXA91hWNnz9b4C45w",
+                "description": "最大24時まで\n\nサムネイラスト：ねこやまさん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュ..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "3ZqHh3vL_5I",
+                "title": "【R.E.P.O.】陽キャ曰く、友達の友達は友達。らしい。【赤見かるび/白波らむね/神楽めあ】",
+                "thumbnail": "https://i.ytimg.com/vi/3ZqHh3vL_5I/hqdefault.jpg?v=69ca454e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBcUF8MZrFoZ1nRciap39yYkCPP9Q",
+                "description": "@KaguraMea @shiranamiramune @AkamiKarubi \n\n🎀グッズ・ボイス販売はこちら🐾\nhttps://yuki-sakuna.stores.jp/\n\n🎀歌ってみた動画🐾\nhttps://youtube.com/playlist?list=PLErsMirGq..."
+            }
+        ]
     }
 }

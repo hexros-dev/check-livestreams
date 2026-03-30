@@ -117,21 +117,21 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": [
-            {
-                "video_id": "-xo_dQeEPmk",
-                "title": "【Members Only・メン限】BDay Live WATCHALONG!!! 一緒に生誕ライブ見よう！",
-                "date": "2026/03/30 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/-xo_dQeEPmk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBU_QEOA_hytqgXpaWGEoWUxP7sOQ",
-                "description": "My race queen outfit also got some adjustments in expression! \n\nSolo live confirmed for October 6 at SGC HALL ARIAKE, Japan! More details soon!\n10月6日、SGC HALL 有明でソロライブ開催..."
-            }
-        ]
+        "videos": []
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "V5Jc46iMxW4",
+                "title": "【定期雑談】 た～だいま～の波動！今日もお疲れ様委員会！！！！！！！！！#29一条莉々華/hololive DEV_IS　ReGLOSS】",
+                "date": "2026/03/30 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/V5Jc46iMxW4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAd-KPZcxyQrao5QRnKA1kNdHtSWg",
+                "description": "もう3月終わるじゃんんん！！！！！！！\n\n素敵なサムネイラスト🔽\nみやび@4月以降納期お仕事募集中様\n@miyabeeya\n\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈..."
+            }
+        ]
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -156,13 +156,6 @@
                 "date": "2026/04/01 21:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/bTU0lA9rbuE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwwmEnCyPvGfpQTkAIaq8or6Cbjw",
                 "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\n概要欄後ほど更新\n\n\nOP曲：儒烏風亭らでん『..."
-            },
-            {
-                "video_id": "chtU-0JTipU",
-                "title": "【雑談】ただいまということは帰ってきたということです【儒烏風亭らでん #ReGLOSS 】",
-                "date": "2026/03/30 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/chtU-0JTipU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAEJtquik3OT5YewIj6ljeHinaWaA",
-                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\n\nOP曲：儒烏風亭らでん『出囃子ジャポニズム..."
             }
         ]
     },
@@ -336,15 +329,7 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": [
-            {
-                "video_id": "ZwJ1_ZNApbA",
-                "title": "【】7周年ライブ振り返り配信【ホロライブ/大空スバル】",
-                "date": "2026/03/30 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/ZwJ1_ZNApbA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD69k5vfecEdXWqwKQ_-kMK9HDETQ",
-                "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n\n🔽楽曲各..."
-            }
-        ]
+        "videos": []
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -412,15 +397,7 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": [
-            {
-                "video_id": "b-zNuA6JFTc",
-                "title": "【アークナイツエンドフィールド 】ロッシたん実装が来たのでお迎えするしかない【白上フブキ/ホロライブ】",
-                "date": "2026/03/30 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/b-zNuA6JFTc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVyIHfFzLflAsSwelkDIpoMYEACw",
-                "description": "━━━━━━━━━━━━━━━━━━━━━━━\nいろはにほへっとあやふぶみ \n🌸新曲『色は匂えども』\n▷配信：https://cover.lnk.to/Boog1O\n ▷MV：ht..."
-            }
-        ]
+        "videos": []
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -464,22 +441,7 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": [
-            {
-                "video_id": "M0aUQt8-1XE",
-                "title": "【メン限】カラオケの二次会おしゃべり【轟はじめ/ReGLOSS】",
-                "date": "2026/03/30 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/M0aUQt8-1XE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFi29jQE-cqFJYOuQzpP45QqgPaA",
-                "description": "素敵なサムネお写真：Nyan🐾様（@Nyan_nekoma）\n\n\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n✨オリジナル曲宣伝✨\nNEW！！🏀【Original】Dunk/轟はじめ..."
-            },
-            {
-                "video_id": "h4SZDhJtTW4",
-                "title": "【歌枠】うたううううう♪【轟はじめ/ReGLOSS】",
-                "date": "2026/03/30 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/h4SZDhJtTW4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyvY8Otj-m2ELbnV2egj8mkt5Zvw",
-                "description": "素敵なサムネお写真：KEMARI様（@marimo_ke）\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n✨オリジナル曲宣伝✨\nNEW！！🏀【Original】Dunk/轟はじめ🏀..."
-            }
-        ]
+        "videos": []
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
@@ -505,15 +467,7 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": [
-            {
-                "video_id": "m3eM3CTxUbk",
-                "title": "【 ぽこ あ ポケモン 】ついにメインストーリークリアか？！#7【角巻わため/ホロライブ４期生】",
-                "date": "2026/03/30 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/m3eM3CTxUbk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPpJy4RqaFOiBjoSW0Xy6i5JUT1Q",
-                "description": "まだクリアしてないミッションもやりつつ！\nタグ：#ドドドライブ \n\n配信タイトル：ぽこ あ ポケモン\n公式ページ：https://www.pocoapokemon.jp/ja/\n\n🐏も..."
-            }
-        ]
+        "videos": []
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -531,15 +485,7 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": [
-            {
-                "video_id": "HcZ0nZ379W0",
-                "title": "【ぽこ あ ポケモン】#05 夜のまったりご褒美ぽこあ♡【雪花ラミィ/ホロライブ】",
-                "date": "2026/03/30 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/HcZ0nZ379W0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3yjTQZxls5FaNSsnz5VvsHoXt1A",
-                "description": "配信タイトル：ぽこ あ ポケモン\n公式ページ：https://www.pocoapokemon.jp/ja/\n\nサムネイルイラスト：ぽるこJさま\nhttps://x.com/Porco_JJ\n\n【所属会社からのお知..."
-            }
-        ]
+        "videos": []
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
@@ -599,28 +545,12 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": [
-            {
-                "video_id": "RR5gHcH_qcw",
-                "title": "【配信予定】どうやら今夜もまだまだ【ホロライブ/兎田ぺこら】",
-                "date": "2026/03/30 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/RR5gHcH_qcw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDc-M0rqiiBnxXA91hWNnz9b4C45w",
-                "description": "サムネイラスト：()さん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ #ぺこらいぶ..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": [
-            {
-                "video_id": "3ZqHh3vL_5I",
-                "title": "【R.E.P.O.】陽キャ曰く、友達の友達は友達。らしい。【赤見かるび/白波らむね/神楽めあ】",
-                "date": "2026/03/30 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/3ZqHh3vL_5I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBcUF8MZrFoZ1nRciap39yYkCPP9Q",
-                "description": "@KaguraMea @shiranamiramune @AkamiKarubi \n\n🎀グッズ・ボイス販売はこちら🐾\nhttps://yuki-sakuna.stores.jp/\n\n🎀歌ってみた動画🐾\nhttps://youtube.com/playlist?list=PLErsMirGq..."
-            }
-        ]
+        "videos": []
     }
 }
