@@ -65,7 +65,15 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "RrBczB3iCYc",
+                "title": "what the thumbnail says",
+                "date": "2026/04/01 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/RrBczB3iCYc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAGdosYhHPfCzWbN_OWZP1WH91L5g",
+                "description": "yis\n««≪ °◇◆◇° ≫ »»\n\n≪ NEW ORIGINAL「SNAKE EYES」 ≫\nhttps://youtu.be/X0-JkBCAc5E\nhttps://cover.lnk.to/5kLEPE\n\nNEW MV 【プロポーズ / propose】: https://youtu.be/Zy-aj5xyF..."
+            }
+        ]
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
@@ -144,7 +152,15 @@
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "59nbUZZsIsk",
+                "title": "ぽこぽこぽこあよていち",
+                "date": "2026/03/30 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/59nbUZZsIsk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCS7N-vGDMlpBh0rEXqe2zT6dlmTA",
+                "description": "Play Game :  (  )\nタグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nころねTwitter▶https://twitter.com/inugamikorone\n\n-----------..."
+            }
+        ]
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
@@ -475,7 +491,7 @@
             {
                 "video_id": "2KhanpxNNaA",
                 "title": "【ぽこ あ ポケモン】前回からまったく進歩のない未発展ぽこあ～！！！【白銀ノエル/ホロライブ】",
-                "date": "2026/03/30 15:00:00",
+                "date": "2026/03/31 15:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/2KhanpxNNaA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_dP6nQpd60NnRxxWEF2CjychFaw",
                 "description": "ゆるくいきましょ！\n※本日いただいたスパチャは次回のぽこあ配信でお礼させてください🌸\n\n配信タイトル：ぽこ あ ポケモン\n公式ページ：https:/..."
             }
@@ -645,6 +661,14 @@
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "3ZqHh3vL_5I",
+                "title": "【R.E.P.O.】陽キャ曰く、友達の友達は友達。【赤見かるび/白波らむね/神楽めあ】",
+                "date": "2026/03/30 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/3ZqHh3vL_5I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBcUF8MZrFoZ1nRciap39yYkCPP9Q",
+                "description": "@KaguraMea @shiranamiramune @AkamiKarubi \n\n🎀グッズ・ボイス販売はこちら🐾\nhttps://yuki-sakuna.stores.jp/\n\n🎀歌ってみた動画🐾\nhttps://youtube.com/playlist?list=PLErsMirGq..."
+            }
+        ]
     }
 }
