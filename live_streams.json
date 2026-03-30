@@ -400,14 +400,7 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": [
-            {
-                "video_id": "RUO0Erw7HKU",
-                "title": "【CookieRun: OvenSmash】MHHH COOKIES with @holoen_gigimurin ! #PR",
-                "thumbnail": "https://i.ytimg.com/vi/RUO0Erw7HKU/hqdefault.jpg?v=69ca95c7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvsVWFIOPNug6cK53_VFwOBYCXHA",
-                "description": "https://bit.ly/CeciliaImmergreen1 check out the game!!!\n#PR   #cookierunovensmash  \n\nhehe cookies\n--------------------------\nHashtags\n📺 Livestream: #ImmerScreen \n🎨 Fanart: #Immergination..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
@@ -419,7 +412,14 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "5FNo2XpzDBo",
+                "title": "【CookieRun: OvenSmash】I'M FIGHTING THESE COOKIES!!!! #ad",
+                "thumbnail": "https://i.ytimg.com/vi/5FNo2XpzDBo/hqdefault.jpg?v=69ca33b8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAOOZvMm1cZanzBuSo9WPxwlJfIag",
+                "description": "NEW COOKIERUN GAME!!!!\nPlay CookieRun:OvenSmash using my link :3\nhttps://bit.ly/GigiMurin1\n\n#CookieRunOvenSmash, #CookieRun, #sponsored \n\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐  ⸜(｡˃..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
