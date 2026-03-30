@@ -63,7 +63,14 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "el1bia7RR2o",
+                "title": "【 #朝こよ 】新3Dモデルになったよー！3月ラストの火曜日の朝も朝こよ～！☀ #278 【博衣こより/hololive】",
+                "thumbnail": "https://i.ytimg.com/vi/el1bia7RR2o/hqdefault.jpg?v=69ca032a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcWLX7oXb6Qq1aPY6VZbxn1lT1mQ",
+                "description": "🎂博衣こより生誕グッズ2026発売中！(5/7まで)➡ https://shop.hololivepro.com/products/hakuikoyori_birthday_2026\n\n💗LINEスタンプ＆絵文字発売中📱💗\n👇🆕もふこ..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -412,14 +419,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "5FNo2XpzDBo",
-                "title": "【CookieRun: OvenSmash】I'M FIGHTING THESE COOKIES!!!! #ad",
-                "thumbnail": "https://i.ytimg.com/vi/5FNo2XpzDBo/hqdefault.jpg?v=69ca33b8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAOOZvMm1cZanzBuSo9WPxwlJfIag",
-                "description": "NEW COOKIERUN GAME!!!!\nPlay CookieRun:OvenSmash using my link :3\nhttps://bit.ly/GigiMurin1\n\n#CookieRunOvenSmash, #CookieRun, #sponsored \n\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐  ⸜(｡˃..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
