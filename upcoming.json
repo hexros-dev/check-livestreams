@@ -217,7 +217,15 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "nSwuuHpGLAs",
+                "title": "【Super Mario 64】MARIOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+                "date": "2026/04/01 09:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/nSwuuHpGLAs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB7DLsLIJkqC8qbGY7bPgeG2P34TA",
+                "description": "ovo\n\n\nNintendo properties used in this video and livestream are used with permission and under license by Nintendo Co., Ltd.\n\n====================\n✧Twitter: https://twitter.com/kosekibijou..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -560,15 +568,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "jpUKhoZErdU",
-                "title": "【UNARCHIVED】karaokeeeeeee",
-                "date": "2026/04/01 04:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/jpUKhoZErdU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjlRV39H-EU_4Lm5YahLg3h2Gmlg",
-                "description": "comfyyyyyyyyyyyy short(ish)?(?) but vibes\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
