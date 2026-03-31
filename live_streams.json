@@ -226,14 +226,7 @@
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
         "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ",
-        "videos": [
-            {
-                "video_id": "mw9XEGHxD6A",
-                "title": "I'm awake! Let's do some light exercises!",
-                "thumbnail": "https://i.ytimg.com/vi/mw9XEGHxD6A/hqdefault.jpg?v=69cb1ddc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWQNdTPrv_AgLuyTSig6jPcjzSGw",
-                "description": "∴∴🎶*┈┈┈┈┈┈┈┈┈┈┈┈┈*🎶∴∴\n\n🐦‍⬛twitter: https://x.com/nerissa_en\n🐦‍⬛spotify: https://open.spotify.com/artist/4uzAnzFMXarRPOBAG2lIIa\n🐦‍⬛insta:..."
-            }
-        ]
+        "videos": []
     },
     "@NinomaeInanis": {
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
@@ -275,7 +268,14 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ilMbLBI_sWo",
+                "title": "【Slay the Spire 2】Let's Try Other Characters【Pavolia Reine/holoID 2nd gen】",
+                "thumbnail": "https://i.ytimg.com/vi/ilMbLBI_sWo/hqdefault.jpg?v=69cb2eec&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBN6-pqS7kRlDXj7k0onmsGWBUULw",
+                "description": "Game Title：Slay the Spire 2\nStore Page：https://store.steampowered.com/app/2868840/Slay_the_Spire_2/\n\nPerhatian! Sang putri merak yang tertiup angin, aku Pavolia Reine dari hololive ID!#Pavolive..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
