@@ -106,14 +106,7 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
-        "videos": [
-            {
-                "video_id": "wQrihll2lN0",
-                "title": "【トモコレシリーズ初プレイ】トモダチコレクションわくわく生活の体験版でホロメンを産もう【一条莉々華/hololive DEV_IS　ReGLOSS】",
-                "thumbnail": "https://i.ytimg.com/vi/wQrihll2lN0/hqdefault.jpg?v=69cb96e8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZfQyzkSPxu1TE2IhfXgw2YVmjkw",
-                "description": "マジでやったことない！！！！！\n超楽しみ～～～！！！！！！！！！\n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信していま..."
-            }
-        ]
+        "videos": []
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -131,7 +124,14 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Fm69J2EkgDk",
+                "title": "【ぽこあポケモン】おや、カビゴンの様子が……！その⑤【儒烏風亭らでん #ReGLOSS 】",
+                "thumbnail": "https://i.ytimg.com/vi/Fm69J2EkgDk/hqdefault.jpg?v=69cbaf63&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsE-HbihfAa_7Gdth-JFMm0FzD_Q",
+                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\nswith2を購入したのでさっそく建物をチェック..."
+            }
+        ]
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -179,7 +179,14 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "RsAwvEnzmv0",
+                "title": "【ウマ娘プリティーダービー】完全初見#7 新人トレーナ✨️ デジちゃん育成【水宮枢／ホロライブDEV_IS】",
+                "thumbnail": "https://i.ytimg.com/vi/RsAwvEnzmv0/hqdefault.jpg?v=69cac1e1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxNVFXRGster1MYiJWtbagp-kYsQ",
+                "description": "本ゲームは株式会社Cygamesの配信ガイドラインに則って配信・収益化を行なっております。\nhttps://umamusume.jp/news/detail.php?id=107\n\n▹◃┄▸◂┄▹◃┄▸..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -289,20 +296,20 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "lmkXQiqvGdE",
+                "title": "【Members Only】I want to watch a 3 hour video about an old game with you guys",
+                "thumbnail": "https://i.ytimg.com/vi/lmkXQiqvGdE/hqdefault.jpg?v=69cbd240&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgEeuC7LefyTC9ZTFfWr7aS9n7OA",
+                "description": "Reine's new original song now 「Yummy Yum Yummy!」AVAILABLE on iTunes, Apple Music, Spotify etc. Click to stream!\nパヴォリア・レイネ新曲「ヤミヤムヤミ」\nhttps://cover.lnk.to/mU..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": [
-            {
-                "video_id": "2Og46Fhc3Wc",
-                "title": "【R.E.P.O.】V1GP青チームでお宝集めする！【歌衣メイカ・鈴木聖弥・天硝路ろまん・輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "thumbnail": "https://i.ytimg.com/vi/2Og46Fhc3Wc/hqdefault.jpg?v=69cb2f89&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlF1ve-pqF7CBu1skYFVU28UvIuQ",
-                "description": "時間あいちゃったんですが打ち上げだよ～～！\n\n@UTAIMEIKA \n@RomanTenshoji \n@zeta_suzuki \n@ZETA_MIYAZONO コーチおやすみ😢\n\n\n\n\nFLOWGLOW 1st Album『FLOW GLOW』\n2026.1.21..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -320,14 +327,7 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": [
-            {
-                "video_id": "nLqDnhEp75Q",
-                "title": "🩵偽フワワ公開オーディション会場🩷【#偽フワワオーディション】",
-                "thumbnail": "https://i.ytimg.com/vi/nLqDnhEp75Q/hqdefault.jpg?v=69cb7e90&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBA7lh8cnyz6bShMZxmajnZQWeDtA",
-                "description": "さみしくないからねﾓｺﾞﾁｬﾝ･･･ 🐾\n審査員 @FUWAMOCOch @TakaneLui 主催 @SakuraMiko \nオーディション参加者 @ShirakamiFubuki @OmaruPolka @OozoraSubaru @Tsunomaki..."
-            }
-        ]
+        "videos": []
     },
     "@SamekoSaba": {
         "channel_url": "https://www.youtube.com/@SamekoSaba",
@@ -347,10 +347,10 @@
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
         "videos": [
             {
-                "video_id": "j4535kOJgLg",
-                "title": "【運ゲー】第四回　サイコロ９個ゾロ目出す２時間配信。【白上フブキ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/j4535kOJgLg/hqdefault.jpg?v=69cb8aca&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCukCEqsgjZqw5Ou5T_zm1koGyYVQ",
-                "description": "━━━━━━━━━━━━━━━━━━━━━━━\nいろはにほへっとあやふぶみ \n🌸新曲『色は匂えども』\n▷配信：https://cover.lnk.to/Boog1O\n ▷MV：ht..."
+                "video_id": "PJnBNhLZ4Gw",
+                "title": "【メン限 】月末定期台詞会　2026.03　#フブキングダム総会【白上フブキ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/PJnBNhLZ4Gw/hqdefault.jpg?v=69cb9313&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCoFp_MfVmwfMMAsb8_jdYJU9V8cQ",
+                "description": "#フブキングダム総会\n━━━━━━━━━━━━━━━━━━━━━━━\nいろはにほへっとあやふぶみ \n🌸新曲『色は匂えども』\n▷配信：https://co..."
             }
         ]
     },
@@ -364,14 +364,7 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": [
-            {
-                "video_id": "TOR-nC0W-NQ",
-                "title": "【同時視聴】劇場版 機動戦士ガンダムⅡ 哀・戦士編 一緒に観ようッ！！【白銀ノエル/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/TOR-nC0W-NQ/hqdefault.jpg?v=69cafb4e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRcNBdhDTQULrNXG5gBmt5RiN6tQ",
-                "description": "だんちょはネットフリックスで見るよ！ミラーではないので各自準備お願いしまっする💪\n※同時視聴の性質上ちょいぐるったりカクカクしてもと..."
-            }
-        ]
+        "videos": []
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -389,7 +382,14 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "u4XrqbftA4Q",
+                "title": "【メンバーシップ限定】いろいろはなそうぜ～～～～～～！！！！！ 【鷹嶺ルイ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/u4XrqbftA4Q/hqdefault.jpg?v=69cb93e2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAEo7yx4ORJL5vXq7lt7QcC87RjuA",
+                "description": "はなそ☺\n\nサムネ：李太様（@lita_illust）\n\n\n※このチャンネルの切り抜き動画をyoutube以外のSNSに投稿することを禁止です。\n（文字起こしもNG）..."
+            }
+        ]
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
@@ -413,7 +413,14 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "RneoZ81oyqU",
+                "title": "【 ぽこ あ ポケモン 】今日こそメインストーリークリアかあああ？！！#8【角巻わため/ホロライブ４期生】",
+                "thumbnail": "https://i.ytimg.com/vi/RneoZ81oyqU/hqdefault.jpg?v=69caede4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFNLbdZN-vWniwc14VG2_DcwNK_A",
+                "description": "でも、急ぎ過ぎずまったり遊びます✨\nタグ：#ドドドライブ \n\n配信タイトル：ぽこ あ ポケモン\n公式ページ：https://www.pocoapokemon.jp/ja/\n\n🐏もっとク..."
+            }
+        ]
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -491,14 +498,7 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": [
-            {
-                "video_id": "2QtT5NJ5sU8",
-                "title": "【初見】友達が少ないウサギの『トモダチコレクション わくわく生活』はじめてのわくわく体験版！ぺこ！【ホロライブ/兎田ぺこら】",
-                "thumbnail": "https://i.ytimg.com/vi/2QtT5NJ5sU8/hqdefault.jpg?v=69cb95dc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5ytebMSqxStdFLGGo-hUCVR46Ug",
-                "description": "神ゲーといいつつ遊ぶの初めて！\n\nサムネイラスト：アカババァさん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
