@@ -153,7 +153,15 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "b1HFNo5M7R4",
+                "title": "【MegaMan Star Force Legacy Collection】The STAR FORCE be with my MEGAMAN #ad",
+                "date": "2026/04/02 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/b1HFNo5M7R4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDclQsGjiXK-nrfeqB8NEGkYV07aA",
+                "description": "Check out the Star Force Legacy Collection HERE: https://bit.ly/StarforceIRyS\n\nThis stream is sponsored by Capcom USA.\n\n＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
