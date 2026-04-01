@@ -87,20 +87,21 @@
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "X2MB59maVX4",
+                "title": "≪Yakuza 6≫ Power of Grand Daddy...First Playthrough #4【SPOILER WARNING】",
+                "date": "2026/04/02 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/X2MB59maVX4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFgku9CqcZ0ro4ofDD2g291bbsXQ",
+                "description": "In the face of all mafia groups across the world, one grandfather stands alone.\n\nThumbnail Art: https://x.com/newda_AL/status/2030976898788962434\n\n#telebae #hololiveenglish \n\n««≪ °◇◆◇°..."
+            }
+        ]
     },
     "@HakuiKoyori": {
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
         "videos": [
-            {
-                "video_id": "YUVNyKC4TYY",
-                "title": "【 #もふこよ3Dお披露目 】もふこよ初配信！？？？3Dお披露目ーーーーこょっ！！！【宝鐘マリン・クマリン・博衣こより・もふこよ/ホロライブ】",
-                "date": "2026/04/01 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/YUVNyKC4TYY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgQKWpcva6fb7qxmvuZHcggJH1Kg",
-                "description": "VRC慣れてる@HoushouMarine 神と、もふこよのお友達のクマリンちゃんにサポートいただきます🏴‍☠️🧸感謝!!!✨ \n※この配信のSuperchat御礼は、のち..."
-            },
             {
                 "video_id": "olP0abbkI1c",
                 "title": "【アークナイツ：エンドフィールド】最推しロッシたんを絶対にガチャでGETするゾ！！！！！！🔥【博衣こより/ホロライブ】",
@@ -144,13 +145,29 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Fw9dmVHDCf8",
+                "title": "【エイプリルフール企画】せいそちゃんとお歌【一条莉々華/hololive DEV_IS　ReGLOSS】",
+                "date": "2026/04/01 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Fw9dmVHDCf8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfutZ9PGhKmFY88T1cZ8FIVwHTwQ",
+                "description": "エイプリルフール企画フォント配布\n（莉々華の直筆 左手ダイイングメッセージフォント）\nhttps://t.co/zifVl89vYK\n（再配布、改変、自作発言、その他..."
+            }
+        ]
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Y7JmirRm0Js",
+                "title": "【チル枠予定地】すし？つり？【22時か23時】",
+                "date": "2026/04/01 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Y7JmirRm0Js/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGA7zxdl7TjFNJRiSalL-qm7y8og",
+                "description": "Play Game :  (  )\nタグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nころねTwitter▶https://twitter.com/inugamikorone\n\n-----------..."
+            }
+        ]
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
@@ -372,15 +389,7 @@
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC",
-        "videos": [
-            {
-                "video_id": "2GJR0pqQsGU",
-                "title": "なんかおかしい・・・【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-                "date": "2026/04/01 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/2GJR0pqQsGU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUffevfIrV9akf9JHxyyFkYEURdQ",
-                "description": "▽✨重大告知✨ ▽\n音乃瀬奏 1stオリジナル曲「GREATEST」\n4/20(日) 24：00（4/21  0：00）リリース開始！\nhttps://cover.lnk.to/4rvCRp\n\n୨୧♪:*:･･:*:･♪･:*:･..."
-            }
-        ]
+        "videos": []
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
@@ -578,6 +587,13 @@
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
         "videos": [
             {
+                "video_id": "dqOYl6hzZe0",
+                "title": "1 hour of silence broken up by \"GI~MURIN\" while watching paint dry",
+                "date": "2026/04/02 04:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/dqOYl6hzZe0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKJJYudPQJjDAolh5dCyhhgp8snQ",
+                "description": "title\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n【Debut..."
+            },
+            {
                 "video_id": "vg3ALK8uYIg",
                 "title": "24 HR GREMKISSING BOOTH",
                 "date": "2026/04/02 14:00:00",
@@ -624,7 +640,7 @@
                 "title": "初めまして💓みけねこは引退、これからは姉が活動します！",
                 "date": "2026/04/01 17:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/zJtkcw39eEw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDrTnJHyWclY1yuFD_7TnURhfO3uw",
-                "description": "『みけねこ』4周年記念スイーツ販売💓かわいくておいしい！\nhttps://cake.jp/entertainment/artist-talent/mikeneko/\n\n#みけねこ #新人vtuber \n\nお誕生日グッズ💓販..."
+                "description": "姉ねこボイス💓4月５日まで\nhttps://mikenekoko.booth.pm/items/8152354\n\n『みけねこ』4周年記念スイーツ販売💓かわいくておいしい！\nhttps://cake.jp/entertainment/a..."
             }
         ]
     },
