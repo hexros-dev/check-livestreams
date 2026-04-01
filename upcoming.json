@@ -249,7 +249,22 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "VPk302n8sNA",
+                "title": "【わかる！学べる！小学校教科書テスト】さすがに任せて✋【水宮枢／ホロライブDEV_IS】",
+                "date": "2026/04/03 14:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/VPk302n8sNA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCH97qYuw0VMYRL5j-7ORp_N46zrQ",
+                "description": "本ゲームは株式会社 TTの許諾を受けて配信・収益化を行っております\nイラスト https://x.com/nishiao_art/status/2039290502957408699?s=46&t=CbrrjZRpYKuQt6jP6ruZBg..."
+            },
+            {
+                "video_id": "XkAlhVQgnvE",
+                "title": "【ウマ娘プリティーダービー】完全初見#８ 新人トレーナ✨️ デジちゃん育成【水宮枢／ホロライブDEV_IS】",
+                "date": "2026/04/02 20:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/XkAlhVQgnvE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGB_uzJ4SsDKG9v99nwDCs1-jEBA",
+                "description": "本ゲームは株式会社Cygamesの配信ガイドラインに則って配信・収益化を行なっております。\nhttps://umamusume.jp/news/detail.php?id=107\nイラストhttps://x.com/marie..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -400,7 +415,15 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "voey5N87zM0",
+                "title": "【Superchat Catchup】Reading Reading Yay",
+                "date": "2026/04/02 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/voey5N87zM0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvcu8dsP_42KXVFxAma25S8CwQ6w",
+                "description": "🎶💿 *Ouro Kronii’s FIRST EP [Way 2 U] LP + CD Pre-Order Release*\nJP: https://shop.hololivepro.com/products/ourokronii_1step_way2u \nEN: https://shop.hololivepro.com/en/products/ourokronii_1st..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
@@ -554,15 +577,7 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": [
-            {
-                "video_id": "FlKsC8mIgmU",
-                "title": "【NIER:AUTOMATA】Playing with Updatilia [SPOILERS]",
-                "date": "2026/04/02 02:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/FlKsC8mIgmU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAi4pl4do2UlV7frruPYgGyXXecZw",
-                "description": "Updatilia\n--------------------------\nHashtags\n📺 Livestream: #ImmerScreen \n🎨 Fanart: #Immergination\n🎻 Music: #ImmerPiece\n🤡 Memes: #ImmerMemes \n--------------------------\n\n\n--------------..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
