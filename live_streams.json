@@ -334,7 +334,14 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "JJaZ7uuyosM",
+                "title": "【3D】NEW MODEL, After Talk, Polaroids! #kfp",
+                "thumbnail": "https://i.ytimg.com/vi/JJaZ7uuyosM/hqdefault.jpg?v=69ccfa6b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAZEJKIsHNNxPuX5Gfv18qXBqhjQ",
+                "description": "missed the concert? Check it here: https://drawn-to-dawn.hololivepro.com/ticket\n\n🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara\n\n 🏵️[Hashtags] 🏵️\n#kfp #キアライブ#hololi..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
