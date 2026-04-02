@@ -345,7 +345,15 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "u67gZhtXN3w",
+                "title": "【Pokémon Pokopia】Need Some Pokopia In My Life....",
+                "date": "2026/04/03 07:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/u67gZhtXN3w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtbmww2OHqEvM-L37-vF3_fylcuA",
+                "description": "【Thumbnail Art】\nhttps://x.com/laaaw444/status/2032498104969359677\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\nGame Title: Pokémon™ Pokopia\nOfficial Page: https://pokopia.pokemon.com/en..."
+            }
+        ]
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
