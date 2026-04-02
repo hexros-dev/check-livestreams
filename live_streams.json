@@ -274,14 +274,7 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": [
-            {
-                "video_id": "qcsyG8_lQXA",
-                "title": "【メン限】スタンプつくろうよ～～！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "thumbnail": "https://i.ytimg.com/vi/qcsyG8_lQXA/hqdefault.jpg?v=69ce5791&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOzHG2KUfXp6i5w3wT7Dp1yX55tA",
-                "description": "大変お待たせしましたわ！！！！！！！！！！\n\nサムネイルイラスト：4byss|ω' ) (あびす)さま\nhttps://x.com/R_dehido9630\nありがとうございます！\n\nFLOWGLOW..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -360,6 +353,12 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
+        "videos": []
+    },
+    "@TokinoSora": {
+        "channel_url": "https://www.youtube.com/@TokinoSora",
+        "channel_name": "SoraCh. ときのそらチャンネル",
+        "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
         "videos": []
     },
     "@TokoyamiTowa": {
