@@ -123,14 +123,7 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w",
-        "videos": [
-            {
-                "video_id": "TZfEwBqrqzY",
-                "title": "【BakeryDiary】YOU GOT BREAD! I GOT BREAD! EVERYONE GOT THE BREAD! 🍞",
-                "thumbnail": "https://i.ytimg.com/vi/TZfEwBqrqzY/hqdefault.jpg?v=69ce3aa3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnmbdfEF_eMIDdst6x3RIRJUauBQ",
-                "description": "【Donasi lokal】Traktir yang pahit-pahit kini sangat EZGGWP!~\nLink: https://sociabuzz.com/kaelakovalskia/tribe\n\n#Kaelaif #KaelaKovalskia #holoID #hololive #hololiveID \n∘₊✧──────..."
-            }
-        ]
+        "videos": []
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
@@ -304,7 +297,14 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "pBJFZ0QrvvU",
+                "title": "Taking Pictures Until We Cry 【The Star Named EOS】",
+                "thumbnail": "https://i.ytimg.com/vi/pBJFZ0QrvvU/hqdefault.jpg?v=69cde090&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBovLxarSpw2y5L6Psy7OmvuztsNg",
+                "description": "My first original song 「Monsters and Men」OUT NOW!\n🎧Listen to it here: https://cover.lnk.to/Y6ZMPF\n📹Music Video here: https://www.youtube.com/watch?v=NX1ZCKJ67dc\n==========================..."
+            }
+        ]
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
@@ -334,14 +334,7 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": [
-            {
-                "video_id": "m160q0-KlWI",
-                "title": "【ARKNIGHTS: ENDFIELD】rolling for Rossi and finishing the story! ✨ #kfp #キアライブ",
-                "thumbnail": "https://i.ytimg.com/vi/m160q0-KlWI/hqdefault.jpg?v=69cdbc3a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC81dXg79FVLfw8f2CCVXgZnxHoUQ",
-                "description": "VOGELFREI 2nd Round Preorder!  https://shop.hololivepro.com/products/takanashikiara_2ndalbum_vogelfrei_secondaryorder\nCONCERT STREAMING TICKETS: https://drawn-to-dawn.hololivepro.com/ticket..."
-            }
-        ]
+        "videos": []
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
