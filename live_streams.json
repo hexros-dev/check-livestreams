@@ -178,7 +178,14 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "PgOXnBEQMWw",
+                "title": "【 トモダチコレクション 】ホロメンと推しと新生活する！！！！！【 桃鈴ねね / hololive 】",
+                "thumbnail": "https://i.ytimg.com/vi/PgOXnBEQMWw/hqdefault.jpg?v=69ce0caf&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1DqHIhXE86kJspzRLGZ49jRsQuA",
+                "description": "▼アルバム『Peachful Story』の販売URLはこちら\n通常盤: https://shop.hololivepro.com/products/momosuzunene_1stalbum_peachfulstory_regular\n完全生産限定盤: https://shop.hololive..."
+            }
+        ]
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
@@ -262,20 +269,20 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": [
-            {
-                "video_id": "voey5N87zM0",
-                "title": "【Superchat Catchup】Reading Reading Yay",
-                "thumbnail": "https://i.ytimg.com/vi/voey5N87zM0/hqdefault.jpg?v=69cd7a20&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvcu8dsP_42KXVFxAma25S8CwQ6w",
-                "description": "🎶💿 *Ouro Kronii’s FIRST EP [Way 2 U] LP + CD Pre-Order Release*\nJP: https://shop.hololivepro.com/products/ourokronii_1step_way2u \nEN: https://shop.hololivepro.com/en/products/ourokronii_1st..."
-            }
-        ]
+        "videos": []
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "PxWKuaOEUu0",
+                "title": "【Overwatch】Trying out the APRIL FOOLS MODE【Pavolia Reine/holoID 2nd gen】",
+                "thumbnail": "https://i.ytimg.com/vi/PxWKuaOEUu0/hqdefault.jpg?v=69cdc036&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRXrh22z0KK88jmkGxEBNgxKlqcw",
+                "description": "Game Title: Overwatch 2\nThis stream has been approved by Blizzard Entertainment.\nThe views, information, or opinions expressed during the stream do not represent those of Blizzard Entertainment...."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
