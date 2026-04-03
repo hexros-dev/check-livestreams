@@ -474,7 +474,15 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "hjda5swaO0o",
+                "title": "【Warframe】まだ忍者なら無料なんですか？（数年ぶりのプレイ）【獅白ぼたん/ホロライブ】",
+                "date": "2026/04/04 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/hjda5swaO0o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfSFtYYIWJEK1jq12_181q2wHZDQ",
+                "description": "復帰勢なので教えろください！！\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n🔸新着情報/New!\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n🦁『獅白杯』つ..."
+            }
+        ]
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
@@ -580,15 +588,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "YSpAbEJlwFE",
-                "title": "【REANIMAL】ULTRA ORANGE WILL LIGHT THE WAY!!",
-                "date": "2026/04/04 02:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/YSpAbEJlwFE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJJEyMBVIsc9Bd2y87M6KZz_uEpQ",
-                "description": "@TakanashiKiara \n\nthumbnail: https://x.com/blueplankton/status/1858116856617513049\n\n配信タイトル：REANIMAL\nストアページ：https://store.steampowered.com/app/2129530/REANIMAL/\n..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",

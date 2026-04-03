@@ -405,7 +405,14 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "YSpAbEJlwFE",
+                "title": "【REANIMAL】ULTRA ORANGE WILL LIGHT THE WAY!!",
+                "thumbnail": "https://i.ytimg.com/vi/YSpAbEJlwFE/hqdefault.jpg?v=69cf5bce&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJJEyMBVIsc9Bd2y87M6KZz_uEpQ",
+                "description": "@TakanashiKiara \n\nthumbnail: https://x.com/blueplankton/status/1858116856617513049\n\n配信タイトル：REANIMAL\nストアページ：https://store.steampowered.com/app/2129530/REANIMAL/\n..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
