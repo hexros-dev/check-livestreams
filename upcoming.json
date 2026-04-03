@@ -21,15 +21,7 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": [
-            {
-                "video_id": "rA3aDJygwH4",
-                "title": "【すーぱーゲリラ雑談】ただいま復活！顔面の様子が？？？【ホロライブ/アキロゼ】",
-                "date": "2026/04/03 21:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/rA3aDJygwH4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCs5AZA0aLL9cTCqUAnM7pos0a1pw",
-                "description": "▼人間は弱いTシャツの販売URL\nhttps://www.amazon.co.jp/dp/B0GRVR7TWT\n\n開催中イベント詳細はコチラをcheck\nアキ・ローゼンタール生誕祭2026 アンコール..."
-            }
-        ]
+        "videos": []
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -184,7 +176,15 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ldIcKMFslgs",
+                "title": "【Rope-Kun Adventure】rope here rope there rope everywhere",
+                "date": "2026/04/04 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ldIcKMFslgs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCMvQfP4qOZBQPsIOV_7EWsePnzpA",
+                "description": "【Donasi lokal】Traktir yang pahit-pahit kini sangat EZGGWP!~\nLink: https://sociabuzz.com/kaelakovalskia/tribe\n\n#Kaelaif #KaelaKovalskia #holoID #hololive #hololiveID \n∘₊✧──────..."
+            }
+        ]
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
