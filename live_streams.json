@@ -120,14 +120,7 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
-        "videos": [
-            {
-                "video_id": "pTR5mNxylpI",
-                "title": "【トモコレシリーズ初プレイ】第二、第三の犠牲者が今日決まる…！？―――【一条莉々華/hololive DEV_IS　ReGLOSS】",
-                "thumbnail": "https://i.ytimg.com/vi/pTR5mNxylpI/hqdefault.jpg?v=69d0ee31&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBd8X0ASmwM5_vbt6A0k9EryOADag",
-                "description": "スバル先輩ちょっと更新しました✌\n可愛くなったかなあ？？？？\n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。..."
-            }
-        ]
+        "videos": []
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -165,7 +158,14 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ldIcKMFslgs",
+                "title": "【Rope-Kun Adventure】rope here rope there rope everywhere",
+                "thumbnail": "https://i.ytimg.com/vi/ldIcKMFslgs/hqdefault.jpg?v=69ce3377&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCMvQfP4qOZBQPsIOV_7EWsePnzpA",
+                "description": "【Donasi lokal】Traktir yang pahit-pahit kini sangat EZGGWP!~\nLink: https://sociabuzz.com/kaelakovalskia/tribe\n\n#Kaelaif #KaelaKovalskia #holoID #hololive #hololiveID \n∘₊✧──────..."
+            }
+        ]
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
@@ -480,14 +480,7 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": [
-            {
-                "video_id": "2l46stTCvSY",
-                "title": "【雑談】え、1か月ぶりの雑談ですってぇ！？【雪花ラミィ /ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/2l46stTCvSY/hqdefault.jpg?v=69d0feff&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3GKcD4TBAH3KtwAnrIiGeS51Arg",
-                "description": "サムネイルのイラスト：青里みんとさま\nhttps://x.com/mito_sooooosu\n\n【所属会社からのお知らせ】\n現在弊社タレントに対し、配信中のチャット等により..."
-            }
-        ]
+        "videos": []
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
