@@ -258,14 +258,7 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": [
-            {
-                "video_id": "32k211wh45k",
-                "title": "【歌枠】春の歌🌸たくさん歌いたい、久しぶりの歌枠【 ホロライブ / 大神ミオ 】",
-                "thumbnail": "https://i.ytimg.com/vi/32k211wh45k/hqdefault.jpg?v=69d0b412&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqJx1eNZEPkH8Z-C-TJjmW4pXcbA",
-                "description": "もう春ですか・・🌸\nちょっとずつ声は出していたものの、歌枠となるとどれくらい歌えるのか・・\n\nサムネillustrator：Deaverさん　https://x.com/Deaver050..."
-            }
-        ]
+        "videos": []
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -295,7 +288,14 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "1B9eJQ4sygw",
+                "title": "【DARK SOULS REMASTERED】#7 ニトに会いに行くぞ！！！！※ネタバレ注意【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "thumbnail": "https://i.ytimg.com/vi/1B9eJQ4sygw/hqdefault.jpg?v=69d0006d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdh4QOusAO8-BPLo6VW-4o0W6eDQ",
+                "description": "5年ぶり…？のダクソいくぞ！！！！！！！！\nたぶんほぼ初見と同じです！！！！！\n\n本ゲームは株式会社フロム・ソフトウェアに確認を得た上、..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
