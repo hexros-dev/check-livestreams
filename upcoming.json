@@ -270,7 +270,15 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "7JUXdpTNMdQ",
+                "title": "big thank you!",
+                "date": "2026/04/05 11:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/7JUXdpTNMdQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAs3WeoISEwjsPU1SrvzeSDGrodTA",
+                "description": "DARK FANTASY BIRTHDAY GOODS!\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/moricalliope_birthday_2026\nEN: https://shop.hololivepro.com/en/products/moricalliope_birt..."
+            }
+        ]
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -563,15 +571,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "xfd9Bw1nIsU",
-                "title": "【GREMBERS WATCHALONG】The Good Place S1 EP8-13",
-                "date": "2026/04/05 04:01:07",
-                "thumbnail": "https://i.ytimg.com/vi/xfd9Bw1nIsU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6MfFLMlZ9ZsRO409XuseArUskvQ",
-                "description": "more gremstackin todayyyyyy yayy\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
