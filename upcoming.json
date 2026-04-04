@@ -244,7 +244,15 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "fLNvemQtynQ",
+                "title": "【ウマ娘プリティーダービー】season２完全初見アニメ同時視聴💙#１【水宮枢／ホロライブDEV_IS】",
+                "date": "2026/04/05 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/fLNvemQtynQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCts-i0Uzc-hiE9V0CEzMF7nyXDEg",
+                "description": "Illust https://x.com/ikmkmki/status/2036788097573327212?s=46&t=CbrrjZRpYKuQt6jP6ruZBg\n▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸◂┄▹◃\n\n💙メンバーシップはこちらから..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -262,7 +270,15 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "7JUXdpTNMdQ",
+                "title": "big thank you!",
+                "date": "2026/04/05 11:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/7JUXdpTNMdQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAs3WeoISEwjsPU1SrvzeSDGrodTA",
+                "description": "DARK FANTASY BIRTHDAY GOODS!\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/moricalliope_birthday_2026\nEN: https://shop.hololivepro.com/en/products/moricalliope_birt..."
+            }
+        ]
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -416,15 +432,7 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": [
-            {
-                "video_id": "HwwnkPK7zAk",
-                "title": "I'm the Bad Cop to the Good Cop (That's You) 【L.A. Noire】",
-                "date": "2026/04/05 03:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/HwwnkPK7zAk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnvv125J_1bH-CLbCnyueKWPflZw",
-                "description": "My first original song 「Monsters and Men」OUT NOW!\n🎧Listen to it here: https://cover.lnk.to/Y6ZMPF\n📹Music Video here: https://www.youtube.com/watch?v=NX1ZCKJ67dc\n==========================..."
-            }
-        ]
+        "videos": []
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
@@ -623,6 +631,14 @@
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Ndlo93lI0xI",
+                "title": "おはよ～ねむ～い",
+                "date": "2026/04/05 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Ndlo93lI0xI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtMwn3Jz6DmwOlu6vVuaOSKaNqqA",
+                "description": "🎀グッズ・ボイス販売はこちら🐾\nhttps://yuki-sakuna.stores.jp/\n\n🎀歌ってみた動画🐾\nhttps://youtube.com/playlist?list=PLErsMirGq93vRw-CcRaaZfR4QVxl2uBsb&si=BRmEr8erE6aR-UJ..."
+            }
+        ]
     }
 }
