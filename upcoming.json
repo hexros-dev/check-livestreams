@@ -63,29 +63,13 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "_VAvn2VJ63A",
-                "title": "【 #朝こよ 】4月最初の火曜日の朝も朝こよ～！☀ #279 【博衣こより/hololive】",
-                "date": "2026/04/07 05:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/_VAvn2VJ63A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDMEM07VGQMmbod7Hu0zUBHHZVBIw",
-                "description": "🎂博衣こより生誕グッズ2026発売中！(5/7まで)➡ https://shop.hololivepro.com/products/hakuikoyori_birthday_2026\n\n💗LINEスタンプ＆絵文字発売中📱💗\n👇🆕もふこ..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": [
-            {
-                "video_id": "4Kw0ge8S164",
-                "title": "【 鳴潮 】初めての鳴潮で遊んでみるのら！！！第2章 ＃８【姫森ルーナ/ホロライブ】",
-                "date": "2026/04/06 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/4Kw0ge8S164/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCryUR4siMk1tguGsQFzCDCFwDVOA",
-                "description": "第2章第7幕から(・o・🍬)\n\n鳴潮再生リスト\nhttps://www.youtube.com/playlist?list=PL6gUpTCMieF5tt-S0Yty858pGwr-JUz_0\n\n鳴潮\nhttps://wutheringwaves.kurogames.com/jp/\n\n▷==============..."
-            }
-        ]
+        "videos": []
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -323,7 +307,15 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "nnq08dQb7H4",
+                "title": "【DARK SOULS REMASTERED】#9 DLCエリア攻略！！！※ネタバレ注意【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "date": "2026/04/06 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/nnq08dQb7H4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCiDt9vToJ5g0WWklLidm5GVXp8g",
+                "description": "5年ぶり…？のダクソいくぞ！！！！！！！！\nたぶんほぼ初見と同じです！！！！！\n\n本ゲームは株式会社フロム・ソフトウェアに確認を得た上、..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
