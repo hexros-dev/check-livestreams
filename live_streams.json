@@ -341,7 +341,14 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "yYS0viqotcM",
+                "title": "【HOLO EN/ID HYTALE】a server just for us!!! Lets start with the basics! #kfp",
+                "thumbnail": "https://i.ytimg.com/vi/yYS0viqotcM/hqdefault.jpg?v=69d1cec5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbPFPJ8JLLt5pm8Gge9UuvRAhsiA",
+                "description": "VOGELFREI 2nd Round Preorder!  https://shop.hololivepro.com/products/takanashikiara_2ndalbum_vogelfrei_secondaryorder\nCONCERT STREAMING TICKETS: https://drawn-to-dawn.hololivepro.com/ticket..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
@@ -371,14 +378,7 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": [
-            {
-                "video_id": "0Z7zDeKQ49M",
-                "title": "【 クロノ・トリガー 】完全初見！ついに名作に触れるひつじ... #2【角巻わため/ホロライブ４期生】※ネタバレあり",
-                "thumbnail": "https://i.ytimg.com/vi/0Z7zDeKQ49M/hqdefault.jpg?v=69d18c79&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDMdENDouIaDV5b0tzU5M7v2nnMBg",
-                "description": "いつも何かを探してキョロキョロしてる主人公わためが不審者すぎる件...！\nタグ：#ドドドライブ \n\n本動画のゲームプレイ映像は、株式会社スクウ..."
-            }
-        ]
+        "videos": []
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
