@@ -226,15 +226,7 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": [
-            {
-                "video_id": "zHWz2lSYD7M",
-                "title": "【 歌枠 】今年入って最初の歌枠っぽい！！！！！！！【 桃鈴ねね / hololive 】",
-                "date": "2026/04/05 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/zHWz2lSYD7M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArUk-L5RvzJvEv0-zj-Sb2BSgaLg",
-                "description": "▼アルバム『Peachful Story』の販売URLはこちら\n通常盤: https://shop.hololivepro.com/products/momosuzunene_1stalbum_peachfulstory_regular\n完全生産限定盤: https://shop.hololive..."
-            }
-        ]
+        "videos": []
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
@@ -460,7 +452,15 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "0Z7zDeKQ49M",
+                "title": "【 クロノ・トリガー 】完全初見！ついに名作に触れるひつじ... #2【角巻わため/ホロライブ４期生】※ネタバレあり",
+                "date": "2026/04/05 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/0Z7zDeKQ49M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDMdENDouIaDV5b0tzU5M7v2nnMBg",
+                "description": "いつも何かを探してキョロキョロしてる主人公わためが不審者すぎる件...！\nタグ：#ドドドライブ \n\n本動画のゲームプレイ映像は、株式会社スクウ..."
+            }
+        ]
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -484,7 +484,15 @@
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
         "channel_name": "Choco Ch. 癒月ちょこ",
         "avatar_url": "https://yt3.googleusercontent.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "o-YNh1QFhmo",
+                "title": "【Freetalk】深夜のゲリラ雑談📣 【ホロライブ/癒月ちょこ】",
+                "date": "2026/04/05 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/o-YNh1QFhmo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCUcl56U1YgyYHg6zYFQt1o8_qarg",
+                "description": "ちょこの公式LINEスタンプはこちらから\nhttps://line.me/S/sticker/31677415\n\nサブ垢→https://www.youtube.com/channel/UCp3tgHXw_HI0QMk1K8qh3gQ\n\nOP＆ED動画：松賀りお。様@rio..."
+            }
+        ]
     },
     "@dooby3d": {
         "channel_url": "https://www.youtube.com/@dooby3d",

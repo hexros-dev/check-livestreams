@@ -185,7 +185,14 @@
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
         "channel_name": "Nene Ch.桃鈴ねね",
         "avatar_url": "https://yt3.googleusercontent.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "zHWz2lSYD7M",
+                "title": "【 歌枠 】今年入って最初の歌枠っぽい！！！！！！！【 桃鈴ねね / hololive 】",
+                "thumbnail": "https://i.ytimg.com/vi/zHWz2lSYD7M/hqdefault.jpg?v=69d248e4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArUk-L5RvzJvEv0-zj-Sb2BSgaLg",
+                "description": "▼アルバム『Peachful Story』の販売URLはこちら\n通常盤: https://shop.hololivepro.com/products/momosuzunene_1stalbum_peachfulstory_regular\n完全生産限定盤: https://shop.hololive..."
+            }
+        ]
     },
     "@MoonaHoshinova": {
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
@@ -410,14 +417,7 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": [
-            {
-                "video_id": "7TkqjhY6ZDA",
-                "title": "【ぽこ あ ポケモン】#06 今日は何する？のんびりぽこあ！【雪花ラミィ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/7TkqjhY6ZDA/hqdefault.jpg?v=69d21aa8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMs1GZAjvghBMKfdTByTLf36ahig",
-                "description": "配信タイトル：ぽこ あ ポケモン\n公式ページ：https://www.pocoapokemon.jp/ja/\n\nサムネイルイラスト：ゆきはねさま\nhttps://x.com/YukihaneWamy2nd\n\n【所属会社から..."
-            }
-        ]
+        "videos": []
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
