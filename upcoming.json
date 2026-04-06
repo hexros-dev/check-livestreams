@@ -21,7 +21,15 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "XbQVZcWRoxM",
+                "title": "『 #知り合いから友達になる基準 』 #アキちょこナイパレ 第30回 ～ホロライブ深夜ラジオ～",
+                "date": "2026/04/13 21:40:00",
+                "thumbnail": "https://i.ytimg.com/vi/XbQVZcWRoxM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAf2bOx-2qTKo8lrLiQbar_s9e51w",
+                "description": "📰最新NEWS🌟\n🎧アキ・ローゼンタール6thオリジナル楽曲リリース開始！\n『モノポリー』https://cover.lnk.to/bF9eML\n\n🍎アキロゼ広告衣装スポンサー募..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -72,6 +80,13 @@
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
         "videos": [
+            {
+                "video_id": "A9RMloA_LVo",
+                "title": "【はいしんよていち】こよーーーーーーーーーー！！！！！！【博衣こより/ホロライブ】",
+                "date": "2026/04/07 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/A9RMloA_LVo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBaeN_N7wca6YlYBdXxw29-NT4LBQ",
+                "description": "🎂博衣こより生誕グッズ2026発売中！(5/7まで)➡ https://shop.hololivepro.com/products/hakuikoyori_birthday_2026\n\n💗LINEスタンプ＆絵文字発売中📱💗\n👇🆕もふこ..."
+            },
             {
                 "video_id": "_VAvn2VJ63A",
                 "title": "【 #朝こよ 】4月最初の火曜日の朝も朝こよ～！☀ #279 【博衣こより/hololive】",
@@ -290,7 +305,15 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "xvdF_609r1U",
+                "title": "【】【ホロライブ/大空スバル】",
+                "date": "2026/04/08 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/xvdF_609r1U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfgFJ0gmiBFHGpPDYIwBe-PwHtOw",
+                "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n\n🔽楽曲各..."
+            }
+        ]
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -314,7 +337,15 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Ek9Uf2ZhZn8",
+                "title": "【DARK SOULS REMASTERED】#10 　絵画世界、そして火を継ぎに　※ネタバレ注意【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "date": "2026/04/07 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Ek9Uf2ZhZn8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6Hju2Kc0_fTae3Bj4qqy4M939Lg",
+                "description": "遂に最終回\nちょっと間開いてしまったけど進めてみると本当にあっという間で\n忘れてることの方が多かったけど新しいストーリーもあったり気づ..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -426,29 +457,7 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
-        "videos": [
-            {
-                "video_id": "1luFhQTaLx0",
-                "title": "【Pokopia】rise and shine!",
-                "date": "2026/04/09 06:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/1luFhQTaLx0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnEivV2o4iNMuoM_d6KomBuiJxeg",
-                "description": "#vestiazeta #hololive #vtuber #gaming #pokopia #pokemon  #holoid #hololiveindonesia \n\n配信タイトル：ぽこ あ ポケモン\n公式ページ：https://www.pocoapokemon.jp/ja/\n\nThumbnail..."
-            },
-            {
-                "video_id": "BcwHPa911LY",
-                "title": "【Fortnite】me and my girls against the world (not bots)",
-                "date": "2026/04/07 08:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/BcwHPa911LY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDY7rR6Pmuyls2P_FFjpkviyYhNA",
-                "description": "#vestiazeta #hololive #vtuber #gaming #fortnite #holoid #hololiveindonesia \n\nThis video has received permission from Epic Games Inc. to be streamed. \n© 2020, Epic Games, Inc. Epic, Epic Games,..."
-            },
-            {
-                "video_id": "qGETG1PVFAc",
-                "title": "【Slay The Spire 2】FIRST PLAY!",
-                "date": "2026/04/08 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/qGETG1PVFAc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBahdjFsuc6PmnVVUo0T5Sef6GSFQ",
-                "description": "#vestiazeta #hololive #vtuber #gaming #slaythespire2   #holoid #hololiveindonesia \n\nGame Title：Slay the Spire 2\nStore Page：https://store.steampowered.com/app/2868840/Slay_the_Spire_2/\n..."
-            }
-        ]
+        "videos": []
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
