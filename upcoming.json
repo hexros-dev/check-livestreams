@@ -212,7 +212,15 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "EkRR6dvT3WE",
+                "title": "【BLEACH Rebirth of Souls】完全初見 どんな話なんだ…！#3【水宮枢／ホロライブDEV_IS】",
+                "date": "2026/04/07 20:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/EkRR6dvT3WE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWu3FA4bYNHEJH2a1sCpvy8gBtcg",
+                "description": "このゲーム実況は「バンダイナムコエンターテインメント ゲーム実況ポリシー」に基づき制作・配信されています。\nhttps://www.bandainamcoent.co.jp/info/v..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -339,6 +347,13 @@
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
         "videos": [
             {
+                "video_id": "-lnP-5Ob8pI",
+                "title": "【雑談/chat】おはなししようよ【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "date": "2026/04/08 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/-lnP-5Ob8pI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCIJhgqlCG0XjQg3ZhBSyuQCsDMQA",
+                "description": "サムネイルイラスト：上尾アイさま\nhttps://x.com/u_e_o_o\nありがとうございます！\n\n\n\n\nFLOWGLOW 1st Album『FLOW GLOW』\n2026.1.21 リリース\n🔽予約はこちらから..."
+            },
+            {
                 "video_id": "Ek9Uf2ZhZn8",
                 "title": "【DARK SOULS REMASTERED】#10 　絵画世界、そして火を継ぎに　※ネタバレ注意【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
                 "date": "2026/04/07 17:00:00",
@@ -457,7 +472,29 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "1luFhQTaLx0",
+                "title": "【Pokopia】rise and shine!",
+                "date": "2026/04/09 06:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/1luFhQTaLx0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnEivV2o4iNMuoM_d6KomBuiJxeg",
+                "description": "#vestiazeta #hololive #vtuber #gaming #pokopia #pokemon  #holoid #hololiveindonesia \n\n配信タイトル：ぽこ あ ポケモン\n公式ページ：https://www.pocoapokemon.jp/ja/\n\nThumbnail..."
+            },
+            {
+                "video_id": "BcwHPa911LY",
+                "title": "【Fortnite】me and my girls against the world (not bots)",
+                "date": "2026/04/07 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/BcwHPa911LY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDY7rR6Pmuyls2P_FFjpkviyYhNA",
+                "description": "#vestiazeta #hololive #vtuber #gaming #fortnite #holoid #hololiveindonesia \n\nThis video has received permission from Epic Games Inc. to be streamed. \n© 2020, Epic Games, Inc. Epic, Epic Games,..."
+            },
+            {
+                "video_id": "qGETG1PVFAc",
+                "title": "【Slay The Spire 2】FIRST PLAY!",
+                "date": "2026/04/08 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/qGETG1PVFAc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBahdjFsuc6PmnVVUo0T5Sef6GSFQ",
+                "description": "#vestiazeta #hololive #vtuber #gaming #slaythespire2   #holoid #hololiveindonesia \n\nGame Title：Slay the Spire 2\nStore Page：https://store.steampowered.com/app/2868840/Slay_the_Spire_2/\n..."
+            }
+        ]
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
