@@ -63,14 +63,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "A9RMloA_LVo",
-                "title": "【料理/カメラ有】はじめてのスパイスから作る本格カレー作り！～オリチャーを添えて～【博衣こより/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/A9RMloA_LVo/hqdefault.jpg?v=69d4a440&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBaeN_N7wca6YlYBdXxw29-NT4LBQ",
-                "description": "今日カレー作ろ～って急に思いたったらココイチさんコラボ発表されて運命的過ぎて草🍁働けるように精一杯頑張って作ります！！！🍛✨..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -364,7 +357,14 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "VkCaEK4zpeg",
+                "title": "【同時視聴】機動戦士ガンダムIII めぐりあい宇宙編 一緒に観ようッ！！【白銀ノエル/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/VkCaEK4zpeg/hqdefault.jpg?v=69d47dfe&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzVXbRWFWrl7kgQ2GGpTBjiC5-tw",
+                "description": "だんちょはネットフリックスで見るよ！ミラーではないので各自準備お願いしまっする💪\n※同時視聴の性質上ちょいぐるったりカクカクしてもと..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
