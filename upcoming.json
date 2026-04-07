@@ -111,6 +111,13 @@
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
         "videos": [
             {
+                "video_id": "YQeIi1uTT-A",
+                "title": "【Resident Evil 6】Leon be Chico Guapo w/ @kosekibijou",
+                "date": "2026/04/08 09:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/YQeIi1uTT-A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAy--lyzAxh5nNgFoPGlBnknMBzbA",
+                "description": "Yes \n \nThis video and livestream are being streamed with permission and under license by CAPCOM CO., LTD.\nResident Evil 6\n©CAPCOM CO., LTD. ALL RIGHTS RESERVED.\n\nSolo live confirmed for October..."
+            },
+            {
                 "video_id": "YgRGMmcfHO8",
                 "title": "【FREE CHAT】HiRyS!",
                 "date": "2026/04/14 10:00:00",
@@ -306,15 +313,7 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": [
-            {
-                "video_id": "xvdF_609r1U",
-                "title": "【】【ホロライブ/大空スバル】",
-                "date": "2026/04/08 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/xvdF_609r1U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfgFJ0gmiBFHGpPDYIwBe-PwHtOw",
-                "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n\n🔽楽曲各..."
-            }
-        ]
+        "videos": []
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -413,15 +412,7 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": [
-            {
-                "video_id": "r9FHcPUBh4U",
-                "title": "【REANIMAL】#2 to the end with @holoen_gigimurin !!! #kfp",
-                "date": "2026/04/08 01:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/r9FHcPUBh4U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEm8H5nInA589tj1O0YNbI1QYIyg",
-                "description": "VOGELFREI 2nd Round Preorder!  https://shop.hololivepro.com/products/takanashikiara_2ndalbum_vogelfrei_secondaryorder\nCONCERT STREAMING TICKETS: https://drawn-to-dawn.hololivepro.com/ticket..."
-            }
-        ]
+        "videos": []
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
@@ -507,7 +498,15 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "pzpzaOhv8hE",
+                "title": "【HYTALE】my first steps into this new TIME LIMITED world!!",
+                "date": "2026/04/08 04:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/pzpzaOhv8hE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQ-BuN3liZD8D0WcwnA4Qm6QHdWg",
+                "description": "Game title：Hytale\nOfficial site：https://hytale.com/\n\nthumbnail: https://x.com/Oasis_Mii/status/2041159055008280934\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
