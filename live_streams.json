@@ -327,7 +327,14 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "6qG5QNiAIZw",
+                "title": "【FRIENDS】reading sweet entries from all HoloEN & Some ID & JP members in my book! #kfp #キアライブ",
+                "thumbnail": "https://i.ytimg.com/vi/6qG5QNiAIZw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqHQzcO0bxE55e77cpSRj0hQAwCw",
+                "description": "VOGELFREI 2nd Round Preorder!  https://shop.hololivepro.com/products/takanashikiara_2ndalbum_vogelfrei_secondaryorder\nCONCERT STREAMING TICKETS: https://drawn-to-dawn.hololivepro.com/ticket..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
@@ -364,14 +371,7 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": [
-            {
-                "video_id": "hr-YPNS0-qg",
-                "title": "【メンバー限定配信】開設6年1ヶ月目！「ヴァイオレット・エヴァーガーデン：スペシャル＆外伝 / Violet Evergarden」同時視聴！【角巻わため/ホロライブ４期生】",
-                "thumbnail": "https://i.ytimg.com/vi/hr-YPNS0-qg/hqdefault.jpg?v=69d5600c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACMmIpW3QHjRuTAwVptjdCDIc-Lw",
-                "description": "毎月８日はMember sheepの記念日です🐏💛\n※配信前にメン限に切り替えるね！\nタグ：#ドドドライブ\n\nNetflix\nヴァイオレット・エヴァーガーデン：ス..."
-            }
-        ]
+        "videos": []
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -407,7 +407,14 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "YlWTSIIsPdE",
+                "title": "【MEMBERS】Random yapping and cooking noises the stream (audio only 👂)",
+                "thumbnail": "https://i.ytimg.com/vi/YlWTSIIsPdE/hqdefault.jpg?v=69d674ac&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmjGbXRKSkzgz_y24RS63bMJv01Q",
+                "description": "there will be no visuals 🧍‍♂️\n\nthumbnail art: https://x.com/padiberhoodie/status/2041757900352450752?s=20\n--------------------------\nHashtags\n📺 Livestream: #ImmerScreen \n🎨 Fanart:..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
