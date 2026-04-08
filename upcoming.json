@@ -391,15 +391,7 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": [
-            {
-                "video_id": "EubV8gs75Q0",
-                "title": "There's a Big Cole in My Phelps 【L.A. Noire】",
-                "date": "2026/04/09 03:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/EubV8gs75Q0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDW-CohDaPasoEOVVekSTw7-0B_lQ",
-                "description": "My first original song 「Monsters and Men」OUT NOW!\n🎧Listen to it here: https://cover.lnk.to/Y6ZMPF\n📹Music Video here: https://www.youtube.com/watch?v=NX1ZCKJ67dc\n==========================..."
-            }
-        ]
+        "videos": []
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
@@ -547,7 +539,15 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "XOITY3dOgJA",
+                "title": "【Heavy Rain】 \"Accidentally\" ruining lives and failing QTEs in Heavy Rain",
+                "date": "2026/04/09 05:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/XOITY3dOgJA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACZu6hbblYf62LA9mH4ED6_vuQGA",
+                "description": "It's movie game night!\n\n☁  Thumbnail Art  ☁\nhttps://x.com/CeeBryy/status/2040222284695080972\nThank you so much!!\n\nMerch: https://ohmonah.shop/collections/nimi-nightmare\n\n  ‧₊ ˚  ⊹..."
+            }
+        ]
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
