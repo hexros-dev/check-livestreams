@@ -338,7 +338,7 @@
             {
                 "video_id": "6qG5QNiAIZw",
                 "title": "【FRIENDS】reading sweet entries from all HoloEN & Some ID & JP members in my book! #kfp #キアライブ",
-                "thumbnail": "https://i.ytimg.com/vi/6qG5QNiAIZw/hqdefault.jpg?v=a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqHQzcO0bxE55e77cpSRj0hQAwCw",
+                "thumbnail": "https://i.ytimg.com/vi/6qG5QNiAIZw/hqdefault.jpg?v=16&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqHQzcO0bxE55e77cpSRj0hQAwCw",
                 "description": "VOGELFREI 2nd Round Preorder!  https://shop.hololivepro.com/products/takanashikiara_2ndalbum_vogelfrei_secondaryorder\nCONCERT STREAMING TICKETS: https://drawn-to-dawn.hololivepro.com/ticket..."
             }
         ]
@@ -347,14 +347,7 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": [
-            {
-                "video_id": "DWOmx8DOj9E",
-                "title": "【 Poppy Playtime 5 】こわい・・・でもストーリーは気になるのでやります・・・【鷹嶺ルイ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/DWOmx8DOj9E/hqdefault.jpg?v=69d613a5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVwPZMKA8q4Ny-qGjYJOlYh2_K0Q",
-                "description": "久々のポピーだ・・・\n\n\n本ゲームはMob Entertainmentの著作物の利用許諾を受けて配信・収益化しています。\nPoppy Playtime日本公式サイト：https://www.infole..."
-            }
-        ]
+        "videos": []
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
@@ -433,7 +426,14 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "NqPQBSCzVbw",
+                "title": "【The Elder Scrolls IV: Oblivion Remastered】grug demands everyone DANCE!!!!!!!",
+                "thumbnail": "https://i.ytimg.com/vi/NqPQBSCzVbw/hqdefault.jpg?v=69d62b44&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATnRg9GU85WVMPnQgKRuZ8bZMRBQ",
+                "description": "thumbnail: https://x.com/ibunniez_/status/2041738846283690281\n\ngame title: The Elder Scrolls IV: Oblivion Remastered\nhttps://store.steampowered.com/app/2623190/The_Elder_Scrolls_IV_Oblivion_Remaste..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
