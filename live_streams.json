@@ -33,14 +33,7 @@
         "channel_url": "https://www.youtube.com/@AnyaMelfissa",
         "channel_name": "Anya Melfissa Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz",
-        "videos": [
-            {
-                "video_id": "a7X2MKuKZnw",
-                "title": "【Hytale】Playing Hytale for the First Time in the EN x ID Server!【hololive ID | Anya Melfissa】",
-                "thumbnail": "https://i.ytimg.com/vi/a7X2MKuKZnw/hqdefault.jpg?v=69d7abda&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCclAC1u8ojfn60CO_aJSDyQ8f68A",
-                "description": "Support me here/ドネーション↓\nStreamlabs: https://streamlabs.com/anyamelfissachhololive-id/tip\nSociaBuzz(Local Donation): https://sociabuzz.com/anyamelfissa/tribe \n\n--\nGame title：Hytale..."
-            }
-        ]
+        "videos": []
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -245,7 +238,14 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "BYeitxJ6LDE",
+                "title": "【OHAPOL】#197 4/10金曜日！華金の朝です新シーズン #ポルカ公演中 【尾丸ポルカ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/BYeitxJ6LDE/hqdefault.jpg?v=69d82c04&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCp17oFb3RdQLUYY9lha8iC23JQPw",
+                "description": "サムネイルありがとうございます！\nhttps://x.com/KanzakiIra0430\n\n▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄\n\nOHAPOL（おはポル）は不定期で朝6時から配信！\n主に水..."
+            }
+        ]
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
@@ -341,14 +341,7 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": [
-            {
-                "video_id": "UuX7GWGN98E",
-                "title": "【HOLO EN/ID HYTALE】i am not hiding anyone in my basement #kfp",
-                "thumbnail": "https://i.ytimg.com/vi/UuX7GWGN98E/hqdefault.jpg?v=69d79c97&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqTYAGMaVfXB-3OtsgTeTrdFi80A",
-                "description": "VOGELFREI 2nd Round Preorder!  https://shop.hololivepro.com/products/takanashikiara_2ndalbum_vogelfrei_secondaryorder\nCONCERT STREAMING TICKETS: https://drawn-to-dawn.hololivepro.com/ticket..."
-            }
-        ]
+        "videos": []
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
