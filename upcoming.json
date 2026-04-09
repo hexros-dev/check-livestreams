@@ -160,7 +160,15 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "rNew0DeUBIU",
+                "title": "【 バイオハザードRE4 】初めてのバイオハザードRE4に挑戦！！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "date": "2026/04/09 19:40:00",
+                "thumbnail": "https://i.ytimg.com/vi/rNew0DeUBIU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgfLlGpvkYrYL1xSff0gMoofbu0A",
+                "description": "■綺々羅々ヴィヴィ 50万人記念グッズ\n■販売URL\nhttps://shop.hololivepro.com/products/kikiraravivi_subscribers_500k\n【販売期間】\n販売開始：2026年3月27日(金)..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -260,7 +268,15 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "b7DBD1coWD0",
+                "title": "【 スーパーマリオブラザーズ2 】久しぶりにマリオやる～～～🍄✦#02【 猫又おかゆ/ホロライブ 】",
+                "date": "2026/04/09 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/b7DBD1coWD0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnjj4MnSwRrvLqKZzhuKqyVz__9g",
+                "description": "4面からすた～とです🍄✦\n❥・・ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ・・❥\n🍙にゃんぐこーん オリジナル楽曲🌽\n『けもももももも！』..."
+            }
+        ]
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -330,22 +346,7 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": [
-            {
-                "video_id": "7K3Dm1JR0-U",
-                "title": "【ポケモン/リーフグリーン】#1 パラスと一緒に初見ポケモン！！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "date": "2026/04/15 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/7K3Dm1JR0-U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6jS1Qx2wXlyZT9UIguKGY9IFgfQ",
-                "description": "ぽこあより先にパラスと旅に出ることになりました\nまずはパラスを探しに行くぞ！！！\n\n配信タイトル：ポケットモンスター リーフグリーン..."
-            },
-            {
-                "video_id": "P063IS2EFrs",
-                "title": "【メン限】よていち【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "date": "2026/04/09 20:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/P063IS2EFrs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBrDBNzbjzqmzsk3iYv16LME2k-oA",
-                "description": "公式配信帰ってきたらやるよん～～\nスタンプの時のスパチャ読みしようとおもってます\n\n▼メンバーシップ加入はこちらから！\nhttps://www.youtube.com/c..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
