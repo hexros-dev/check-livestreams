@@ -3,14 +3,7 @@
         "channel_url": "https://www.youtube.com/@AZKi",
         "channel_name": "AZKi Channel",
         "avatar_url": "https://yt3.googleusercontent.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos",
-        "videos": [
-            {
-                "video_id": "9nNuEZK5q-k",
-                "title": "【ぽこ あ ポケモン】はじめてのぽこポケ⚡️#3【ホロライブ / AZKi】",
-                "thumbnail": "https://i.ytimg.com/vi/9nNuEZK5q-k/hqdefault.jpg?v=69d77176&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjhu6iMU36l3ZPB1c3FpXTpBx9xg",
-                "description": "ついにポケモンやる！\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\nサムネイラスト：ぐーやん 様\nhttps://x.com/mogumogu89\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈..."
-            }
-        ]
+        "videos": []
     },
     "@AiraniIofifteen": {
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
@@ -154,7 +147,14 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "o2M_hKgXLIw",
+                "title": "【HYTALE 】Late night (for Biboo) gaming will she eepy",
+                "thumbnail": "https://i.ytimg.com/vi/o2M_hKgXLIw/hqdefault.jpg?v=69d792b6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmt5OOe8cJ_vymasgw0EJx5ruMLg",
+                "description": "Thumbnail Art :@PhdPigeon THANK YOU!\nhttps://x.com/PhdPigeon/status/2019967442781630699/photo/1\n====================\n✧Twitter: https://twitter.com/kosekibijou\n\n✧Hashtags: \n#biboo  \nAdvent:..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -311,7 +311,14 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "j4ls74iK-f8",
+                "title": "Tally Ho with Tea & Crumpets! 【Hytale】",
+                "thumbnail": "https://i.ytimg.com/vi/j4ls74iK-f8/hqdefault.jpg?v=69d6f569&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKq4tnXz1iS_CoH8_5Mb8SLGyLSQ",
+                "description": "My first original song 「Monsters and Men」OUT NOW!\n🎧Listen to it here: https://cover.lnk.to/Y6ZMPF\n📹Music Video here: https://www.youtube.com/watch?v=NX1ZCKJ67dc\n\n=========================..."
+            }
+        ]
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
@@ -341,7 +348,14 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "UuX7GWGN98E",
+                "title": "【HOLO EN/ID HYTALE】i am not hiding anyone in my basement #kfp",
+                "thumbnail": "https://i.ytimg.com/vi/UuX7GWGN98E/hqdefault.jpg?v=69d79c97&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqTYAGMaVfXB-3OtsgTeTrdFi80A",
+                "description": "VOGELFREI 2nd Round Preorder!  https://shop.hololivepro.com/products/takanashikiara_2ndalbum_vogelfrei_secondaryorder\nCONCERT STREAMING TICKETS: https://drawn-to-dawn.hololivepro.com/ticket..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
