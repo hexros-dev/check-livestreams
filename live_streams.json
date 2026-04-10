@@ -93,7 +93,14 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Xs5u8ujjFcs",
+                "title": "【Pokémon Pokopia】GO GREEN (restoring habitats)",
+                "thumbnail": "https://i.ytimg.com/vi/Xs5u8ujjFcs/hqdefault.jpg?v=69d7fa1f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhTKhz17zhZ357_g-bhK2yj-vcng",
+                "description": "I swear my logo placement this time isn't on purpose pinky promise\n\nGame Title: Pokémon™ Pokopia\nOfficial Page: https://pokopia.pokemon.com/en-us/\n\nSolo live confirmed for October 6 at SGC..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -268,14 +275,7 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": [
-            {
-                "video_id": "vjQqjTFAB4U",
-                "title": "【Overwatch】hmmm",
-                "thumbnail": "https://i.ytimg.com/vi/vjQqjTFAB4U/hqdefault.jpg?v=69d84295&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcUP2wOvVkS1CZDw41GLETOrLATg",
-                "description": "Reine's new original song now 「Yummy Yum Yummy!」AVAILABLE on iTunes, Apple Music, Spotify etc. Click to stream!\nパヴォリア・レイネ新曲「ヤミヤムヤミ」\nhttps://cover.lnk.to/mU..."
-            }
-        ]
+        "videos": []
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -420,27 +420,13 @@
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48",
-        "videos": [
-            {
-                "video_id": "YnSQiI-RBDg",
-                "title": "【FORTNITE】JUSTICE drops from ABOVE ... below ~! 💄👧🍵🐱",
-                "thumbnail": "https://i.ytimg.com/vi/YnSQiI-RBDg/hqdefault.jpg?v=69d83476&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqNBOa0eNRpbe3EEXvoGdqJ1PHLQ",
-                "description": "Justice Jams pew pew innit \n\nThis video has received permission from Epic Games Inc. to be streamed. \n© 2020, Epic Games, Inc. Epic, Epic Games, the Epic Games logo, Fortnite, the Fortnite..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_gigimurin": {
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "__ucQDQ4xJQ",
-                "title": "JUSTICE COLLAB!!!!!!",
-                "thumbnail": "https://i.ytimg.com/vi/__ucQDQ4xJQ/hqdefault.jpg?v=69d82bdc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArvp_UxU4-ZsNMEVl67I7UqUj6Jw",
-                "description": "i messed up by being illiterate...this might be fortnite :[[[[[\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
