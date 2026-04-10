@@ -106,14 +106,7 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
-        "videos": [
-            {
-                "video_id": "pcohfqPXaPk",
-                "title": "【メンバー限定】このままだと流行に乗れない、マズイ【一条莉々華/hololive DEV_IS　ReGLOSS】",
-                "thumbnail": "https://i.ytimg.com/vi/pcohfqPXaPk/hqdefault.jpg?v=69d8b622&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBk_VTbk_kGRKysao7A5HiSAAaXiA",
-                "description": "楽しいカラオケの時間🎵🎵だよ～～🎵\n\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧\n\n合言葉は「可愛い！ポジティブ！ジーニアス！」\n..."
-            }
-        ]
+        "videos": []
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -131,7 +124,14 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "dIRLEtPFpJs",
+                "title": "【同時視聴】ジョジョの奇妙な冒険ストーンオーシャン（6部）同時視聴の会ッ！！⑪【儒烏風亭らでん #ReGLOSS 】",
+                "thumbnail": "https://i.ytimg.com/vi/dIRLEtPFpJs/hqdefault.jpg?v=69d8ccc6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDx4iptz5xeFqgKQqFQX0mEzQD-mQ",
+                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\n同時視聴するアニメ\nジョジョの奇妙な冒険..."
+            }
+        ]
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -282,7 +282,14 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Ia3bCIDgQcM",
+                "title": "【Overwatch】hmmm but at night",
+                "thumbnail": "https://i.ytimg.com/vi/Ia3bCIDgQcM/hqdefault.jpg?v=69d8e60a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSJZo37l0P5ealO-ZNZ2xRmz1K5Q",
+                "description": "Reine's new original song now 「Yummy Yum Yummy!」AVAILABLE on iTunes, Apple Music, Spotify etc. Click to stream!\nパヴォリア・レイネ新曲「ヤミヤムヤミ」\nhttps://cover.lnk.to/mU..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -290,10 +297,10 @@
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
         "videos": [
             {
-                "video_id": "JAVrBt6lU40",
-                "title": "【メン限】スパチャ読みの続き！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "thumbnail": "https://i.ytimg.com/vi/JAVrBt6lU40/hqdefault.jpg?v=69d88280&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqXU-Gszj8Lp0nzXtthIVJWQ_6Ig",
-                "description": "公式配信帰ってきたらやるよん～～\nスタンプの時のスパチャ読みしようとおもってます\n\n▼メンバーシップ加入はこちらから！\nhttps://www.youtube.com/c..."
+                "video_id": "Ltp3FWiCIco",
+                "title": "【機動戦士ガンダム THE ORIGIN】初めてのオリジン！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "thumbnail": "https://i.ytimg.com/vi/Ltp3FWiCIco/hqdefault.jpg?v=69d882c8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjAf-meuJstdi3dHMrph3LApIXGA",
+                "description": "・本配信は、株式会社 創通、株式会社バンダイナムコフィルムワークスの許諾を得ております。\n・本配信は、PRを含みます\n・本配信での見解は、..."
             }
         ]
     },
@@ -463,14 +470,7 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": [
-            {
-                "video_id": "slpNSg4ewdU",
-                "title": "【いえのあじ】今年一怖いと噂のホラーゲーム。ぺこ！【ホロライブ/兎田ぺこら】",
-                "thumbnail": "https://i.ytimg.com/vi/slpNSg4ewdU/hqdefault.jpg?v=69d8bd8d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_jwlGeUBsmzUMXtfgQx3-vSJiTg",
-                "description": "久々単発ホラー\n\nサムネイラスト：アカババァさん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
