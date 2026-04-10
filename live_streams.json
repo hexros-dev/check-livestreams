@@ -93,14 +93,7 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": [
-            {
-                "video_id": "Xs5u8ujjFcs",
-                "title": "【Pokémon Pokopia】GO GREEN (restoring habitats)",
-                "thumbnail": "https://i.ytimg.com/vi/Xs5u8ujjFcs/hqdefault.jpg?v=69d7fa1f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhTKhz17zhZ357_g-bhK2yj-vcng",
-                "description": "I swear my logo placement this time isn't on purpose pinky promise\n\nGame Title: Pokémon™ Pokopia\nOfficial Page: https://pokopia.pokemon.com/en-us/\n\nSolo live confirmed for October 6 at SGC..."
-            }
-        ]
+        "videos": []
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -136,7 +129,14 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "qcLkT_cek7Y",
+                "title": "【 スーパーマリオワールド 】完全初見！初めてのマリオワールドに挑戦！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "thumbnail": "https://i.ytimg.com/vi/qcLkT_cek7Y/hqdefault.jpg?v=69d7e93b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYvDM4KJgYGLNMEiMMfkczAPj_Zg",
+                "description": "■綺々羅々ヴィヴィ 50万人記念グッズ\n■販売URL\nhttps://shop.hololivepro.com/products/kikiraravivi_subscribers_500k\n【販売期間】\n販売開始：2026年3月27日(金)..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -280,14 +280,7 @@
         "channel_url": "https://www.youtube.com/@Robocosan",
         "channel_name": "Roboco Ch. - ロボ子",
         "avatar_url": "https://yt3.googleusercontent.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg",
-        "videos": [
-            {
-                "video_id": "-DCl364Qfws",
-                "title": "【 縦型/歌枠】NO23.今日はダウナーろぼちゃんでし🌸🎤ろぼめろでぃ～ RBmelody  🎶 【ホロライブ/ ロボ子さん #ろぼめろでぃ】",
-                "thumbnail": "https://i.ytimg.com/vi/-DCl364Qfws/hqdefault.jpg?v=69d8ac9c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-1Z7oeYC0HdC3qDm49konUi1XcA",
-                "description": "＃ホロライブ 　\nｘでは💬　 #ろぼめろでぃ　でポストしてってね\n\n\n【定期企画配信】 Midnight RBmelody 💗　通称　 #ろぼめろでぃ　💗\n週末の金土日..."
-            }
-        ]
+        "videos": []
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
