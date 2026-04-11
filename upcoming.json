@@ -213,15 +213,7 @@
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
         "channel_name": "Kobo Kanaeru Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B",
-        "videos": [
-            {
-                "video_id": "0apVCi-IB8Y",
-                "title": "【Watchalong | LCS】LET'S GO!! Which team should i cheer?? #LCSCostream",
-                "date": "2026/04/12 06:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/0apVCi-IB8Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCUKWeJufSNTqM_AMPN3tOnYZVV2Q",
-                "description": "Bokobokobo- Kobo Kanaeru at your service! Let me be your sun to shine your day, ehe~ ;D ☔☔☔\n#OnAeru #Kobo_Kanaeru #holoID #holoid03 #LCSCostream\n\n==================================\nDONASI..."
-            }
-        ]
+        "videos": []
     },
     "@KoganeiNiko": {
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
@@ -447,15 +439,7 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": [
-            {
-                "video_id": "u7ftEZF9hL0",
-                "title": "Leaving the Kitchen to Adventure Outdoors 【Hytale】",
-                "date": "2026/04/12 08:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/u7ftEZF9hL0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtb2an9ThvWo3Yqy4PQMH88xwjbQ",
-                "description": "My first original song 「Monsters and Men」OUT NOW!\n🎧Listen to it here: https://cover.lnk.to/Y6ZMPF\n📹Music Video here: https://www.youtube.com/watch?v=NX1ZCKJ67dc\n\n=========================..."
-            }
-        ]
+        "videos": []
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
@@ -508,7 +492,15 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "OcULALBAXRA",
+                "title": "【ARKNIGHTS: ENDFIELD】ROSSI story with ROSSI VOICE ACTRESS Giada Sabellico as my guest! #kfp #キアライブ",
+                "date": "2026/04/13 01:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/OcULALBAXRA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnxZLaP1d3fGt5xPuIx-rgDj6_Pw",
+                "description": "VOGELFREI 2nd Round Preorder!  https://shop.hololivepro.com/products/takanashikiara_2ndalbum_vogelfrei_secondaryorder\nCONCERT STREAMING TICKETS: https://drawn-to-dawn.hololivepro.com/ticket..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
