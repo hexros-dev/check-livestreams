@@ -146,7 +146,15 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "5ix379uODQ4",
+                "title": "【仮サムネ ポケモンチャンピオンズ】ポケモンパンから出たポケモンだけでマスターを目指せるのか！？【一条莉々華/hololive DEV_IS ReGLOSS】",
+                "date": "2026/04/12 11:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/5ix379uODQ4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBR1OLPgC7Kr4xuKSdKtnw2dQwb7w",
+                "description": "ポケモンパンをリアルタイムに食べる\nその時にでたポケモン（とその進化系やリージョン違い）のみ使用可\nこれでどこまでいけるのか楽しんでみ..."
+            }
+        ]
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -290,15 +298,7 @@
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
         "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ",
-        "videos": [
-            {
-                "video_id": "LThI6EKfAMs",
-                "title": "FIRST TIME IN THE GALAXY | Super Mario Galaxy",
-                "date": "2026/04/12 08:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/LThI6EKfAMs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUKNmRqvzX3Jp6oQkwxQ3hP76yWg",
-                "description": "∴∴🎶*┈┈┈┈┈┈┈┈┈┈┈┈┈*🎶∴∴\n\n🐦‍⬛twitter: https://x.com/nerissa_en\n🐦‍⬛spotify: https://open.spotify.com/artist/4uzAnzFMXarRPOBAG2lIIa\n🐦‍⬛insta:..."
-            }
-        ]
+        "videos": []
     },
     "@NinomaeInanis": {
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
