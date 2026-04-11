@@ -290,14 +290,7 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": [
-            {
-                "video_id": "sHIbWMa0PRk",
-                "title": "【Shashingo: Learn Japanese with Photography】Konnichiwagwan",
-                "thumbnail": "https://i.ytimg.com/vi/sHIbWMa0PRk/hqdefault.jpg?v=69d9b660&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPiVAZBkmw3BC_S_dXo6uYIqwYtg",
-                "description": "Goddess Kronii's 2026 Birthday Merchandise Available Below (Available from 12:10 JST):\n🩵🩵 Illustrated by Wada Mama 🩵🩵\n▼hololive production OFFICIAL SHOP \nJP: https://shop.hololivepro...."
-            }
-        ]
+        "videos": []
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
@@ -389,7 +382,14 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "igEMlPCLXxc",
+                "title": "【 ドラゴンボールZ KAKAROT 】完全初見！クリア後のサブクエとDLC『TRUNKS 希望の戦士』【鷹嶺ルイ/ホロライブ】※ネタバレあり",
+                "thumbnail": "https://i.ytimg.com/vi/igEMlPCLXxc/hqdefault.jpg?v=69d9309b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDouqOymzSvgQwEdkIeiQO-vTnUSw",
+                "description": "なんかトランクスの顔険しくない⁉どういうこと!?\n\nこのゲーム実況は「バンダイナムコエンターテインメント ゲーム実況ポリシー」に基づき制作..."
+            }
+        ]
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
