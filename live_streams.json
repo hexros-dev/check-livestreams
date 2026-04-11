@@ -101,7 +101,14 @@
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "E8P7wKZnKrA",
+                "title": "【歌枠】最近仕事でしか歌ってない女の趣味のカラオケ【ホロライブ/宝鐘マリン】",
+                "thumbnail": "https://i.ytimg.com/vi/E8P7wKZnKrA/hqdefault.jpg?v=69da1ddd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5bfnVfG77l4RfbVp19MVRStJOtA",
+                "description": "サムネイラスト…あかさあい\n\nこのライブに用いている一部の音源は、株式会社エクシングより提供されています。\n\n・一味の有志の方の製作カラ..."
+            }
+        ]
     },
     "@IRyS": {
         "channel_url": "https://www.youtube.com/@IRyS",
@@ -193,14 +200,7 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": [
-            {
-                "video_id": "0vPn1FjnyP0",
-                "title": "【雑談／Fleetalk】最近の話とか一緒にはなそ〜❕💙【水宮枢／ホロライブDEV_IS】",
-                "thumbnail": "https://i.ytimg.com/vi/0vPn1FjnyP0/hqdefault.jpg?v=69da002b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBk4VMXfz5HmVgRqbhM6PSC61txkQ",
-                "description": "https://x.com/nanainori15/status/2032728474323218627?s=46&t=CbrrjZRpYKuQt6jP6ruZBg\n▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸◂┄▹◃\n\n💙メンバーシップはこちらから..."
-            }
-        ]
+        "videos": []
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -248,7 +248,14 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Ypb_44BHY9w",
+                "title": "【 FF7 】完全初見🔥星の未来をかけて頑張ります！#01【 猫又おかゆ/ホロライブ 】",
+                "thumbnail": "https://i.ytimg.com/vi/Ypb_44BHY9w/hqdefault.jpg?v=69d7c4db&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJ2m9CgXvQscMAdy1MEAqgiewNTA",
+                "description": "インターナショナル版を遊んでいきます！\n❥・・ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ・・❥\n🍙にゃんぐこーん オリジナル楽曲🌽\n『けもも..."
+            }
+        ]
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -483,6 +490,13 @@
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "2MN2AUb2AiM",
+                "title": "【ポケモンチャンピオンズ】５億年ぶりのポケモンバトルで無双する（したい）！！！！！！！！！#結城さくな生放送",
+                "thumbnail": "https://i.ytimg.com/vi/2MN2AUb2AiM/hqdefault.jpg?v=69d9b4de&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7f7TytWh-ZafHj5v4pWFRvciv9A",
+                "description": "🎀グッズ・ボイス販売はこちら🐾\nhttps://yuki-sakuna.stores.jp/\n\n🎀歌ってみた動画🐾\nhttps://youtube.com/playlist?list=PLErsMirGq93vRw-CcRaaZfR4QVxl2uBsb&si=BRmEr8erE6aR-UJ..."
+            }
+        ]
     }
 }
