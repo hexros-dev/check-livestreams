@@ -3,13 +3,27 @@
         "channel_url": "https://www.youtube.com/@AZKi",
         "channel_name": "AZKi Channel",
         "avatar_url": "https://yt3.googleusercontent.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "vGpfslCTTfU",
+                "title": "【ぽこ あ ポケモン】はじめてのぽこポケ⚡️#5【ホロライブ / AZKi】",
+                "thumbnail": "https://i.ytimg.com/vi/vGpfslCTTfU/hqdefault.jpg?v=69db7554&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCm09F7-L--CFIwr6o_A45jv5kWXw",
+                "description": "ついにポケモンやる！\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\nサムネイラスト：ぐーやん 様\nhttps://x.com/mogumogu89\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈..."
+            }
+        ]
     },
     "@AiraniIofifteen": {
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
         "channel_name": "Airani Iofifteen Channel hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "HudEQr8fSAk",
+                "title": "#happyio6 Suntik GWS Buat Kalian Semua 💉🧪【IOFI / HOLOLIVE】",
+                "thumbnail": "https://i.ytimg.com/vi/HudEQr8fSAk/hqdefault.jpg?v=69d891d2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCi2p0kGqr-TcCLYpeSh5t41DkZYA",
+                "description": "#ioLyfe #Airani_Iofifteen #hololive #holoid \n\n【Support & Jajanin IOFI】🎨\nIndonesia : https://sociabuzz.com/airaniiofifteen/tribe\nOverseas : https://streamlabs.com/airaniiofifteenchannelhololi..."
+            }
+        ]
     },
     "@AkaiHaato": {
         "channel_url": "https://www.youtube.com/@AkaiHaato",
@@ -83,14 +97,7 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": [
-            {
-                "video_id": "qkXQIweJ3mg",
-                "title": "勝てばよかろうなのだァァァァッ！！(・o・🍬)【姫森ルーナ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/qkXQIweJ3mg/hqdefault.jpg?v=69da8e2e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD46x7mH3dk-Ab2G34temvZVcBR6A",
-                "description": "サムネイラスト\n　ほにゃららんさん　https://twitter.com/korondekoron26\n\n雑談 - Free Talk - 再生リスト\nhttps://www.youtube.com/playlist?list=PL6gUpTCMieF4Yyd0SjmUr7OjjyS9lVW6U..."
-            }
-        ]
+        "videos": []
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -202,7 +209,14 @@
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "XLNPute1l28",
+                "title": "【ZOMILY - FREETALK】 LOBSTER 【Kureiji Ollie】",
+                "thumbnail": "https://i.ytimg.com/vi/XLNPute1l28/hqdefault.jpg?v=69db333d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDn8vncvAG028rV9QjuI8PYD6WymQ",
+                "description": "❥・・───༅༚˳ . ୨୧ . ˳༚༅༚─── ・・❥\n\n #OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n────୨｡ ₊°༺❤︎༻°₊ ｡ৎ────\n\n This is..."
+            }
+        ]
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
@@ -214,7 +228,14 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "3Ejc2ZJfw_U",
+                "title": "【ウマ娘プリティーダービー】完全初見#10 新人トレーナ✨️ アニバ編【水宮枢／ホロライブDEV_IS】",
+                "thumbnail": "https://i.ytimg.com/vi/3Ejc2ZJfw_U/hqdefault.jpg?v=69d53f05&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8MfXOk_qWTwgYPwjQEmRCdw6A_w",
+                "description": "本ゲームは株式会社Cygamesの配信ガイドラインに則って配信・収益化を行なっております。\nhttps://umamusume.jp/news/detail.php?id=107\n\n▹◃┄▸◂┄▹◃┄▸..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -262,14 +283,7 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
-        "videos": [
-            {
-                "video_id": "WGGg2lBCmMQ",
-                "title": "【 FF7 】完全初見🔥星の未来をかけて頑張ります！#02【 猫又おかゆ/ホロライブ 】",
-                "thumbnail": "https://i.ytimg.com/vi/WGGg2lBCmMQ/hqdefault.jpg?v=69da655f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBobYQcCJGW2SgJ1fNTGQSaFZ_XIg",
-                "description": "インターナショナル版を遊んでいきます！\n❥・・ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ・・❥\n🍙にゃんぐこーん オリジナル楽曲🌽\n『けもも..."
-            }
-        ]
+        "videos": []
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -378,7 +392,14 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "4Dr0bWuE7wQ",
+                "title": "【ASMR】病み上がり彼女による脳みそトロふわ安眠ASMR💊【白銀ノエル/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/4Dr0bWuE7wQ/hqdefault.jpg?v=69da6d5c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKNC0GYoSE_nzZWs8_Hj8hn-YQ4Q",
+                "description": "ASMRは全て広告OFFにしてるので安心してねんねしてね🎶\n※この配信はNOメン限なので誰でも視聴できます！\nもし少しでも良いと思ったらチャンネ..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -420,7 +441,14 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "YFcQZtZbDUk",
+                "title": "【 クロノ・トリガー 】完全初見！ついに名作に触れるひつじ... #5【角巻わため/ホロライブ４期生】※ネタバレあり",
+                "thumbnail": "https://i.ytimg.com/vi/YFcQZtZbDUk/hqdefault.jpg?v=69da828e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRzWLRECArUFx7MT_iG0flhrrrFA",
+                "description": "サンダーは天、わため おぼえた！\nタグ：#ドドドライブ \n\n本動画のゲームプレイ映像は、株式会社スクウェア・エニックスの許諾を受けて使用し..."
+            }
+        ]
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -438,7 +466,14 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ARtXjP-tF-Q",
+                "title": "【メンバー限定】暖かい通り越して熱【雪花ラミィ /ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/ARtXjP-tF-Q/hqdefault.jpg?v=69db8fb5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDehMHpCvshAHiH4vWyPMxZpf508w",
+                "description": "※22時になったらメンバー限定配信に切り替わります\n　At22:00 p.m., the distribution will switch to members-only distribution.\n　メン限で話した内容は内緒でお願..."
+            }
+        ]
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
@@ -474,7 +509,14 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "-fETKJ94CgU",
+                "title": "【HELLMART】why am i doing this to myself???",
+                "thumbnail": "https://i.ytimg.com/vi/-fETKJ94CgU/hqdefault.jpg?v=69da8bc9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcoHdX6ihj8TwEhyqVL73GdPaOkA",
+                "description": "╭─⋆｡ﾟ♡ RAO ♡｡ﾟ⋆─╮\n\nMy first Original Song is OUT!\n˗ˏˋ 𝔾𝕒𝕔𝕙𝕒×𝔾𝕒𝕔𝕙𝕒 𝔸𝔻𝕍𝔼ℕ𝕋𝕌ℝ𝔼! ˎˊ˗\n🐱https://youtu.be/1BTd20qIf..."
+            }
+        ]
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
