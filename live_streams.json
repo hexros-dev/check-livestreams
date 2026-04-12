@@ -127,14 +127,7 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
-        "videos": [
-            {
-                "video_id": "5ix379uODQ4",
-                "title": "【ポケモンチャンピオンズ】ポケモンパンから出たポケモンだけでランクマッチどこまでいけるんですか！？【一条莉々華/hololive DEV_IS ReGLOSS】",
-                "thumbnail": "https://i.ytimg.com/vi/5ix379uODQ4/hqdefault.jpg?v=69daf2ec&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBR1OLPgC7Kr4xuKSdKtnw2dQwb7w",
-                "description": "ポケモンパンをリアルタイムに食べる\nその時にでたポケモン（とその進化系やリージョン違い）のみ使用可\nこれでどこまでいけるのか楽しんでみ..."
-            }
-        ]
+        "videos": []
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -146,13 +139,27 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "dvC1sNJksUc",
+                "title": "【ドラゴンボールZ KAKAROT】完全初見！配信予定【ホロライブ DEV_IS 響咲リオナ】※ネタバレあり",
+                "thumbnail": "https://i.ytimg.com/vi/dvC1sNJksUc/hqdefault.jpg?v=69db58d4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCngld0uWGL50KQQM6OMOpxVOkqXg",
+                "description": "サムネイラスト　えむかたさがり(@ sagarimigikata)さん\nにお借りしました！素敵なイラストありがとうございます！\n\n\nこのゲーム実況は「バンダイナ..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "klKVb_xPukI",
+                "title": "【メン限】久しぶりなSMAP縛り歌枠【儒烏風亭らでん/ReGLOSS】",
+                "thumbnail": "https://i.ytimg.com/vi/klKVb_xPukI/hqdefault.jpg?v=69db6ca3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbTBpoMnn98UQl1am7MXzx4vhgkg",
+                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\n提供：XING INC.\n※JOYSOUND音源を使用しているた..."
+            }
+        ]
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -352,7 +359,14 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "928H4Il7o2Q",
+                "title": "【ポケモンファイアレッド】　FR版ポケットモンスターゴールドコイキング　購入編　#金コイフブさん【白上フブキ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/928H4Il7o2Q/hqdefault.jpg?v=69db326a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBpg42ZYK9-yL1CVIsv3jqPYdkFLQ",
+                "description": "#金コイフブさん \n\n✨️NEW✨️\n🌽🍙にゃんぐこーん  オリジナル楽曲\n『けもももももも!』\n⭐️配信：https://cover.lnk.to/mpERIk\n━━━━━━━━━━..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -370,14 +384,7 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": [
-            {
-                "video_id": "8sP4QUeTYyU",
-                "title": "【#獅白杯オフライン / Day2】獅白杯オフライン〜東西対抗戦〜 STREET FIGHTER 6【獅白ぼたん/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/8sP4QUeTYyU/hqdefault.jpg?v=69d7cc75&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7wCscnM69rsv0NQ-rMUKDEBuStA",
-                "description": "Day1 獅白杯4thはこちら→https://www.youtube.com/watch?v=v4pbZIm9LwA\n\n🔸#獅白杯オフライン について\n獅白ぼたん主催『獅白杯』が初のオフラインイベント開..."
-            }
-        ]
+        "videos": []
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
