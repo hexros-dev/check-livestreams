@@ -21,15 +21,7 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": [
-            {
-                "video_id": "XbQVZcWRoxM",
-                "title": "『 #知り合いから友達になる基準 』 #アキちょこナイパレ 第30回 ～ホロライブ深夜ラジオ～",
-                "date": "2026/04/13 21:40:00",
-                "thumbnail": "https://i.ytimg.com/vi/XbQVZcWRoxM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAf2bOx-2qTKo8lrLiQbar_s9e51w",
-                "description": "📰最新NEWS🌟\n🎧アキ・ローゼンタール6thオリジナル楽曲リリース開始！\n『モノポリー』https://cover.lnk.to/bF9eML\n\n🍎アキロゼ広告衣装スポンサー募..."
-            }
-        ]
+        "videos": []
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -117,7 +109,15 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "YgRGMmcfHO8",
+                "title": "【FREE CHAT】HiRyS!",
+                "date": "2026/04/14 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/YgRGMmcfHO8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCu08lLOoXHgMGX50HfLuVsfnY1dw",
+                "description": "Birthday Celebration 2026 NOW AVAILABLE\n\n▼hololive production OFFICIAL SHOP \n・JP: https://shop.hololivepro.com/products/irys_birthday_2026\n ・EN: https://shop.hololivepro.com/en/products/irys_..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -514,7 +514,15 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "YBxObHkYqgU",
+                "title": "【HYTALE】showing ouro kronii my hole",
+                "date": "2026/04/14 05:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/YBxObHkYqgU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPzvsUAsg6TOQoo_Ssc8QNnSD4Nw",
+                "description": "rolling the dice on how many hole jokes i can make before i get killed\n\nthumbnail: https://x.com/jazzberrysoju/status/2034724254655103155\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
