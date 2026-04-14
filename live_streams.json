@@ -3,7 +3,14 @@
         "channel_url": "https://www.youtube.com/@AZKi",
         "channel_name": "AZKi Channel",
         "avatar_url": "https://yt3.googleusercontent.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "nsDa5z52IwQ",
+                "title": "【ぽこ あ ポケモン】はじめてのぽこポケ⚡️#6【ホロライブ / AZKi】",
+                "thumbnail": "https://i.ytimg.com/vi/nsDa5z52IwQ/hqdefault.jpg?v=69ddff51&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6nCVCPZYltNktoVP-avT1psz8Ow",
+                "description": "まったりいそがしスローライフ\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\nサムネイラスト：おうや 様\nhttps://x.com/holouya\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈..."
+            }
+        ]
     },
     "@AiraniIofifteen": {
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
@@ -70,14 +77,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "KTBgDS0J84g",
-                "title": "【料理枠カメラ有】人生初！無水カレーを本格オリジナルスパイスで作ってみる！！！🍛✨～オリチャーを添えて～【博衣こより/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/KTBgDS0J84g/hqdefault.jpg?v=69ddda9b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAVYG4__6OnIQvPsR3jCfB4YLirtQ",
-                "description": "前回（ https://youtube.com/live/A9RMloA_LVo ）初めての本格スパイスカレーを作ったこより！コメントで教わった「無水カレー」なるものに挑戦してみる..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -132,13 +132,27 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "djcdtlW3N34",
+                "title": "【#突発ホロREPO】参加させてくださああああああああああああああい【ホロライブ DEV_IS 響咲リオナ】",
+                "thumbnail": "https://i.ytimg.com/vi/djcdtlW3N34/hqdefault.jpg?v=69de26be&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDoHkX7Tqxvi_CmtZ83aFqDpuygw",
+                "description": "配信タイトル：R.E.P.O.\nストアページ：https://store.steampowered.com/app/3241660/REPO/\n‪@ShirakamiFubuki @HoshimachiSuisei    ‪@TokoyamiTowa  　\n∴∵∴ ୨୧ ∴∵∴..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "nQNdYKp1Vss",
+                "title": "【ぽこあポケモン】温泉街進捗＆新エリアへ！その⑧【儒烏風亭らでん #ReGLOSS 】",
+                "thumbnail": "https://i.ytimg.com/vi/nQNdYKp1Vss/hqdefault.jpg?v=69dded71&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAd6vIkMwzluBkzxkjPFtb1FixgsQ",
+                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\nswith2を購入したのでさっそく建物をチェック..."
+            }
+        ]
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -278,7 +292,14 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "_N9ME8Zc1t4",
+                "title": "【#2】バイオハザードRe3やるしゅばあああああああああああああああああああああああああああああああ！！！！！！！：Resident Evil 3【ホロライブ/大空スバル】",
+                "thumbnail": "https://i.ytimg.com/vi/_N9ME8Zc1t4/hqdefault.jpg?v=69ddca5b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_ubw70gqA3XA4Z30VkqSbp4EhKw",
+                "description": "※グロテスクな表現が含まれますのでご注意ください。未成年の方は本配信をご覧いただけません。\nこの動画およびライブは株式会社カプコンの..."
+            }
+        ]
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -302,7 +323,14 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "o8nP6eHTtwE",
+                "title": "【Euro Truck Simulator 2】むごんどらいぶ【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "thumbnail": "https://i.ytimg.com/vi/o8nP6eHTtwE/hqdefault.jpg?v=69de2c61&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCaZvAcmZvHUi4mkbAk08qC7doDpg",
+                "description": "本ゲームは SCS Software に確認を得た上、SCS Software s.r.o. - VIDEO GAME CONTENT SHARING & MONETIZATION LICENCE (https://www.scssoft.com/video_sharing_licence.pdf) に基づいて配..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -338,7 +366,14 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "mkNXU0VQD-c",
+                "title": "【R.E.P.O.】#突発ホロREPO　で集まった者達【白上フブキ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/mkNXU0VQD-c/hqdefault.jpg?v=69de270b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVz_dNlndEy2DBgfWFDDuAOtu09g",
+                "description": "星街すいせい @HoshimachiSuisei  常闇トワ @TokoyamiTowa 　響咲リオナ @IsakiRiona \n━━━━━━━━━━━━━━━━━━━━━━━\n✨️NEW✨️\n🌽🍙にゃ..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -350,14 +385,7 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": [
-            {
-                "video_id": "VAZRZXAlAKQ",
-                "title": "【テレビ大分】地元からのお仕事！？うおーッ、頑張ります！【白銀ノエル/ホロライブ】【白銀ノエル/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/VAZRZXAlAKQ/hqdefault.jpg?v=69dd517a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9YKLczk7g2cbZTOWBGgRSnVnXqA",
-                "description": "提供：テレビ大分\n\nテレビ大分主催「ジゴロック2026 supported by ニカソー」\nイベントの詳細やチケットの購入はこちら！\nhttps://jigorock.com/_2026/\n..."
-            }
-        ]
+        "videos": []
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -381,7 +409,14 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "xlbF79T-EYc",
+                "title": "＃６【ぽこ あポケモン】4つ目の街~！！どんなとこ！？【轟はじめ/ReGLOSS】",
+                "thumbnail": "https://i.ytimg.com/vi/xlbF79T-EYc/hqdefault.jpg?v=69de0360&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfj7ez5VzpPzQeVMyubPkMKojOrQ",
+                "description": "素敵なサムネお写真：志ノハラ様（@shino_s01）\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n✨オリジナル曲宣伝✨\nNEW！！🏀【Original】Dunk/轟はじめ..."
+            }
+        ]
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
@@ -405,7 +440,14 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "eLhgWe1FJXQ",
+                "title": "【SPLIT FICTION】with kobobo",
+                "thumbnail": "https://i.ytimg.com/vi/eLhgWe1FJXQ/hqdefault.jpg?v=69ddcb05&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdefk9lLedrcfXaU3AQNnSED42Ew",
+                "description": "#vestiazeta #hololive #vtuber #gaming #splitfiction #holoid #hololiveindonesia \nwith @KoboKanaeru \n\nGame Title：Split Fiction\nStore Page：https://store.steampowered.com/app/2001120/Split_Fiction/..."
+            }
+        ]
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
@@ -417,7 +459,14 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "8EOR_-Y1GtA",
+                "title": "【雑談】多分こよりカレーで満足してるであろうラミィの夜雑談【雪花ラミィ /ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/8EOR_-Y1GtA/hqdefault.jpg?v=69de14fb&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAehmgYWzgc9f2P6M3XdpNUk_RxiA",
+                "description": "サムネイルのイラスト：Mikadoさま\nhttps://x.com/Emperor_vl\n\n【所属会社からのお知らせ】\n現在弊社タレントに対し、配信中のチャット等によりセンシテ..."
+            }
+        ]
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
@@ -477,7 +526,14 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "kNX7vh93XS4",
+                "title": "【！？】三期生が主役のソウルライク『HOLO-KINGDOM』やってみる！ぺこ！【ホロライブ/兎田ぺこら】",
+                "thumbnail": "https://i.ytimg.com/vi/kNX7vh93XS4/hqdefault.jpg?v=69de1fa3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAglhYUEzppRpKCkjuxDdQodEAHVQ",
+                "description": "体験版はマリンで遊べるらしい(^^)/\n\nサムネイラスト：かにかまさん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter...."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
