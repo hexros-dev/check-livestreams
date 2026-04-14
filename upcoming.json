@@ -89,7 +89,15 @@
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
         "channel_name": "Suisei Channel",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "HpP6KdeJx7E",
+                "title": "【歌枠 / 告知アリ】久しぶりのホロオリ曲縛り‼ 【星街すいせい】",
+                "date": "2026/04/14 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/HpP6KdeJx7E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDST1TJb2ueT7X-cvPkGfLFl-kQeA",
+                "description": "◆ HOSHIMACHI SUISEI ARENA TOUR 2026 \nOnce Upon a Stellar\n\n09.08 (火) /09 (水) 横浜・Kアリーナ横浜\n10.21 (水) 神戸・GLION ARENA KOBE\n11.07 (土) 愛知・IGアリーナ\n11.12..."
+            }
+        ]
     },
     "@HoushouMarine": {
         "channel_url": "https://www.youtube.com/@HoushouMarine",
@@ -101,15 +109,7 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": [
-            {
-                "video_id": "YgRGMmcfHO8",
-                "title": "【FREE CHAT】HiRyS!",
-                "date": "2026/04/14 10:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/YgRGMmcfHO8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCu08lLOoXHgMGX50HfLuVsfnY1dw",
-                "description": "Birthday Celebration 2026 NOW AVAILABLE\n\n▼hololive production OFFICIAL SHOP \n・JP: https://shop.hololivepro.com/products/irys_birthday_2026\n ・EN: https://shop.hololivepro.com/en/products/irys_..."
-            }
-        ]
+        "videos": []
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -153,15 +153,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": [
-            {
-                "video_id": "Fso5EqaAg28",
-                "title": "【 スーパーマリオワールド 】完全初見！初めてのマリオワールドに挑戦！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "date": "2026/04/14 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Fso5EqaAg28/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzPZNJIyp4KYH5IpMNRhHLMF6BbA",
-                "description": "■綺々羅々ヴィヴィ 50万人記念グッズ\n■販売URL\nhttps://shop.hololivepro.com/products/kikiraravivi_subscribers_500k\n【販売期間】\n販売開始：2026年3月27日(金)..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -301,21 +293,21 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": [
-            {
-                "video_id": "UQoNq3KIwbQ",
-                "title": "【 BIOHAZARD RE:2 】本当に怖いバイオハザード２～クレア編～【 ２ 】",
-                "date": "2026/04/14 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/UQoNq3KIwbQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjpdMlAdfoRmEX2SE_SSpWu1mHSQ",
-                "description": "大変です。クレア編のレオンは窓をひとつも塞がずに進んでいます。\n\nサムネillustrator：PAISHENさん　https://x.com/INUTOBI21\n\nこの動画およびライブは株..."
-            }
-        ]
+        "videos": []
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "_N9ME8Zc1t4",
+                "title": "【#2】バイオハザードRe3やるしゅばあああああああああああああああああああああああああああああああ！！！！！！！：Resident Evil 3【ホロライブ/大空スバル】",
+                "date": "2026/04/14 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/_N9ME8Zc1t4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_ubw70gqA3XA4Z30VkqSbp4EhKw",
+                "description": "※グロテスクな表現が含まれますのでご注意ください。未成年の方は本配信をご覧いただけません。\nこの動画およびライブは株式会社カプコンの..."
+            }
+        ]
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -451,7 +443,15 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "xlbF79T-EYc",
+                "title": "【】はいしんよてい【轟はじめ/ReGLOSS】",
+                "date": "2026/04/14 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/xlbF79T-EYc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfj7ez5VzpPzQeVMyubPkMKojOrQ",
+                "description": "￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n✨オリジナル曲宣伝✨\nNEW！！🏀【Original】Dunk/轟はじめ🏀\nhttps://youtu.be/Gs9wZorLo40?si=PVMXQTBakgMnxaR7\n\n💜【Or..."
+            }
+        ]
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
@@ -463,7 +463,15 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch.Tokoyami Towa",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Xioq20SBUHU",
+                "title": "【 雑談 】すこしゆっくりしてきましたーーーー！！！っ✨️【常闇トワ/ホロライブ】",
+                "date": "2026/04/14 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Xioq20SBUHU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6EQImRSR5gBdypV_bVo-ltryLOw",
+                "description": "✼••┈┈┈┈┈┈┈┈┈┈┈┈••✼\n\n　📣お知らせ/ Notice\n\n　🆕『 シルベ 』official\n　📺動画\n　https://youtu.be/eUmwR0x55JU?si=GKqeX-wbDLwRERvY\n\n　💿️..."
+            }
+        ]
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
@@ -475,7 +483,15 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "eLhgWe1FJXQ",
+                "title": "【SPLIT FICTION】with kobobo",
+                "date": "2026/04/14 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/eLhgWe1FJXQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdefk9lLedrcfXaU3AQNnSED42Ew",
+                "description": "#vestiazeta #hololive #vtuber #gaming #splitfiction #holoid #hololiveindonesia \nwith @KoboKanaeru \n\nGame Title：Split Fiction\nStore Page：https://store.steampowered.com/app/2001120/Split_Fiction/..."
+            }
+        ]
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
