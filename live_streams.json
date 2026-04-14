@@ -126,20 +126,20 @@
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "SE42ztqJuaE",
+                "title": "高野菜",
+                "thumbnail": "https://i.ytimg.com/vi/SE42ztqJuaE/hqdefault.jpg?v=69de2a48&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0YRmkTwhgU9IwrFcpM_qazZ8vew",
+                "description": "タグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nころねTwitter▶https://twitter.com/inugamikorone\n\n-----------------------------..."
+            }
+        ]
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": [
-            {
-                "video_id": "djcdtlW3N34",
-                "title": "【#突発ホロREPO】参加させてくださああああああああああああああい【ホロライブ DEV_IS 響咲リオナ】",
-                "thumbnail": "https://i.ytimg.com/vi/djcdtlW3N34/hqdefault.jpg?v=69de26be&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDoHkX7Tqxvi_CmtZ83aFqDpuygw",
-                "description": "配信タイトル：R.E.P.O.\nストアページ：https://store.steampowered.com/app/3241660/REPO/\n‪@ShirakamiFubuki @HoshimachiSuisei    ‪@TokoyamiTowa  　\n∴∵∴ ୨୧ ∴∵∴..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -164,14 +164,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": [
-            {
-                "video_id": "Fso5EqaAg28",
-                "title": "【 スーパーマリオワールド 】完全初見！初めてのマリオワールドに挑戦！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "thumbnail": "https://i.ytimg.com/vi/Fso5EqaAg28/hqdefault.jpg?v=69ddb088&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzPZNJIyp4KYH5IpMNRhHLMF6BbA",
-                "description": "■綺々羅々ヴィヴィ 50万人記念グッズ\n■販売URL\nhttps://shop.hololivepro.com/products/kikiraravivi_subscribers_500k\n【販売期間】\n販売開始：2026年3月27日(金)..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -207,7 +200,14 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "5lmT6-YtLfM",
+                "title": "【ウマ娘プリティーダービー】season２完全初見アニメ同時視聴💙#3【水宮枢／ホロライブDEV_IS】",
+                "thumbnail": "https://i.ytimg.com/vi/5lmT6-YtLfM/hqdefault.jpg?v=69de20e8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXI-c_jZ8d9cAr3OVPH46y3_su4w",
+                "description": "▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸◂┄▹◃\n\n💙メンバーシップはこちらから ⬇️\nClick here for membership\nhttps://www.youtube.com/channel/UCjk2nKmHzgH5Xy-C5qYRd5A/j..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -255,14 +255,7 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
-        "videos": [
-            {
-                "video_id": "1S7O3vh1oTU",
-                "title": "【 マリオテニス 】新シーズン来ました🎾✦【 猫又おかゆ/ホロライブ 】",
-                "thumbnail": "https://i.ytimg.com/vi/1S7O3vh1oTU/hqdefault.jpg?v=69dd5683&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARL3KaWslhHVwK1rS1ZoUw9xuyoQ",
-                "description": "超絶久しぶりに遊びます😼ブランク埋めるぞ～～！🔥目指せS帯🔥\n❥・・ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ・・❥\n🍙にゃんぐこーん..."
-            }
-        ]
+        "videos": []
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -323,14 +316,7 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": [
-            {
-                "video_id": "o8nP6eHTtwE",
-                "title": "【Euro Truck Simulator 2】むごんどらいぶ【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "thumbnail": "https://i.ytimg.com/vi/o8nP6eHTtwE/hqdefault.jpg?v=69de2c61&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCaZvAcmZvHUi4mkbAk08qC7doDpg",
-                "description": "本ゲームは SCS Software に確認を得た上、SCS Software s.r.o. - VIDEO GAME CONTENT SHARING & MONETIZATION LICENCE (https://www.scssoft.com/video_sharing_licence.pdf) に基づいて配..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -366,14 +352,7 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": [
-            {
-                "video_id": "mkNXU0VQD-c",
-                "title": "【R.E.P.O.】#突発ホロREPO　で集まった者達【白上フブキ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/mkNXU0VQD-c/hqdefault.jpg?v=69de270b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVz_dNlndEy2DBgfWFDDuAOtu09g",
-                "description": "星街すいせい @HoshimachiSuisei  常闇トワ @TokoyamiTowa 　響咲リオナ @IsakiRiona \n━━━━━━━━━━━━━━━━━━━━━━━\n✨️NEW✨️\n🌽🍙にゃ..."
-            }
-        ]
+        "videos": []
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -403,20 +382,20 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "BdP9i0LvBVU",
+                "title": "【 ウマ娘 プリティーダービー 】アーモンドアイを初めて育成するぜ！！！【鷹嶺ルイ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/BdP9i0LvBVU/hqdefault.jpg?v=69de20e7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAm-y5YmgvQyLICC8PtuhAD4v-6fQ",
+                "description": "フサイチパンドラとロードカナロアの娘✨\n\n本ゲームは株式会社Cygamesの配信ガイドラインに則って配信・収益化を行なっております。\nhttps://umamusum..."
+            }
+        ]
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": [
-            {
-                "video_id": "xlbF79T-EYc",
-                "title": "＃６【ぽこ あポケモン】4つ目の街~！！どんなとこ！？【轟はじめ/ReGLOSS】",
-                "thumbnail": "https://i.ytimg.com/vi/xlbF79T-EYc/hqdefault.jpg?v=69de0360&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfj7ez5VzpPzQeVMyubPkMKojOrQ",
-                "description": "素敵なサムネお写真：志ノハラ様（@shino_s01）\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n✨オリジナル曲宣伝✨\nNEW！！🏀【Original】Dunk/轟はじめ..."
-            }
-        ]
+        "videos": []
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
@@ -440,14 +419,7 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
-        "videos": [
-            {
-                "video_id": "eLhgWe1FJXQ",
-                "title": "【SPLIT FICTION】with kobobo",
-                "thumbnail": "https://i.ytimg.com/vi/eLhgWe1FJXQ/hqdefault.jpg?v=69ddcb05&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdefk9lLedrcfXaU3AQNnSED42Ew",
-                "description": "#vestiazeta #hololive #vtuber #gaming #splitfiction #holoid #hololiveindonesia \nwith @KoboKanaeru \n\nGame Title：Split Fiction\nStore Page：https://store.steampowered.com/app/2001120/Split_Fiction/..."
-            }
-        ]
+        "videos": []
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
@@ -526,14 +498,7 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": [
-            {
-                "video_id": "kNX7vh93XS4",
-                "title": "【！？】三期生が主役のソウルライク『HOLO-KINGDOM』やってみる！ぺこ！【ホロライブ/兎田ぺこら】",
-                "thumbnail": "https://i.ytimg.com/vi/kNX7vh93XS4/hqdefault.jpg?v=69de1fa3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAglhYUEzppRpKCkjuxDdQodEAHVQ",
-                "description": "体験版はマリンで遊べるらしい(^^)/\n\nサムネイラスト：かにかまさん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter...."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
