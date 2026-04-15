@@ -93,14 +93,7 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": [
-            {
-                "video_id": "NLjjdznLo70",
-                "title": "【Starship Troopers: Ultimate Bug War】I'M FINALLY DOING MY PART",
-                "thumbnail": "https://i.ytimg.com/vi/NLjjdznLo70/hqdefault.jpg?v=69de971d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0HGUictjxGxfXQO_ntqivqNeNlg",
-                "description": "Would you like to know more?\n\nGame Title: Starship Troopers: Ultimate Bug War!\nStore Page: https://store.steampowered.com/app/2321780/Starship_Troopers_Ultimate_Bug_War/\nStarship Troopers ™..."
-            }
-        ]
+        "videos": []
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -136,7 +129,14 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "lA-xloTnvvM",
+                "title": "【 夜勤清掃 】怖すぎるビルの清掃します・・・！！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "thumbnail": "https://i.ytimg.com/vi/lA-xloTnvvM/hqdefault.jpg?v=69def6cc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCd57UR6EW5zPf_567Qiy90B0NOdg",
+                "description": "■綺々羅々ヴィヴィ 50万人記念グッズ\n■販売URL\nhttps://shop.hololivepro.com/products/kikiraravivi_subscribers_500k\n【販売期間】\n販売開始：2026年3月27日(金)..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -269,14 +269,7 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": [
-            {
-                "video_id": "z4B7kTpSbWc",
-                "title": "【House Flipper 2】Looks Like A Job For Me",
-                "thumbnail": "https://i.ytimg.com/vi/z4B7kTpSbWc/hqdefault.jpg?v=69deb206&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYo4jZrRlojqwV3LLVtn9MFecIUw",
-                "description": "Goddess Kronii's 2026 Birthday Merchandise Available Below (Available from 12:10 JST):\n🩵🩵 Illustrated by Wada Mama 🩵🩵\n▼hololive production OFFICIAL SHOP \nJP: https://shop.hololivepro...."
-            }
-        ]
+        "videos": []
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
@@ -324,7 +317,14 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "PkRqd5zzsDA",
+                "title": "【Leaf it Alone】落ち葉を拾ってお片付けして綺麗にする。【白上フブキ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/PkRqd5zzsDA/hqdefault.jpg?v=69df27e3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9zfH8IsCJN2Ga-rxuTOPqnyHrVg",
+                "description": "✨️NEW✨️\n🌽🍙にゃんぐこーん  オリジナル楽曲\n『けもももももも!』\n⭐️配信：https://cover.lnk.to/mpERIk\n━━━━━━━━━━━━━━━━━━..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
