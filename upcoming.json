@@ -37,15 +37,7 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": [
-            {
-                "video_id": "jqhAP6GHFyQ",
-                "title": "【 #DoZ 】ドズル社さんマイクラMMORPG『Doom or Zenith』DAY5【ホロライブ/アキロゼ】",
-                "date": "2026/04/15 15:59:23",
-                "thumbnail": "https://i.ytimg.com/vi/jqhAP6GHFyQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCb_eMoEZKIOx4x7STA7T9rcpSOVg",
-                "description": "ホロライブの切り抜き/二次創作ガイドライン\nhttps://hololivepro.com/terms/\n\n本企画を視聴する上でドズル社さんからの注意事項です！ご一読ください。..."
-            }
-        ]
+        "videos": []
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -95,15 +87,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "CkSd8u-sSvA",
-                "title": "【ポケモンチャンピオンズ】初日チャンピオン級いけるか挑戦！？Pokémon Championsがんばるぞ！！～現在マスボⅣ～【博衣こより/ホロライブ】",
-                "date": "2026/04/15 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/CkSd8u-sSvA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWnhOwXe88KfPIqIqrfnMndvPlpg",
-                "description": "ポケモンバトル楽しすぎる！まだまだ勉強の身だけど、頑張ってます！✨初日チャンピオン級いけるかな…？！（ランクマはサンムーンから触れ..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -130,10 +114,10 @@
         "videos": [
             {
                 "video_id": "H1Z96LzzG7k",
-                "title": "【】【ホロライブ/宝鐘マリン】",
+                "title": "宝鐘マリン、乱れる───【ホロライブ/宝鐘マリン】",
                 "date": "2026/04/15 18:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/H1Z96LzzG7k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCD2TxRwWktQlripwoAbh0t8azuBA",
-                "description": "｡.｡:+* ﾟ ゜ﾟ *+:｡.｡:+* ﾟ ゜ﾟ *+:｡.｡.｡:+*ﾟ ゜ﾟ *+:｡.｡:+*ﾟ ゜ﾟ *+:｡.｡.｡:+*+:｡.｡｡\n\n✨🏴‍☠️宝鐘マリン400万人記念グッズ🏴‍☠..."
+                "description": "控えてましたが飲酒して狂います\n｡.｡:+* ﾟ ゜ﾟ *+:｡.｡:+* ﾟ ゜ﾟ *+:｡.｡.｡:+*ﾟ ゜ﾟ *+:｡.｡:+*ﾟ ゜ﾟ *+:｡.｡.｡:+*+:｡.｡｡\n\n✨🏴‍☠️宝..."
             }
         ]
     },
@@ -199,7 +183,15 @@
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
         "channel_name": "Kobo Kanaeru Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "BuhKF9B2DB8",
+                "title": "【Split Fiction】SENGGGGGGGGGGGGGGGG",
+                "date": "2026/04/15 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/BuhKF9B2DB8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC25T0A4uhd7S0EV4QUr6l970qoWQ",
+                "description": "Bokobokobo- Kobo Kanaeru at your service! Let me be your sun to shine your day, ehe~ ;D ☔☔☔\n#OnAeru #Kobo_Kanaeru #holoID #holoid03 \n\nGame title: Split Fiction\nStore page: https://store.steam..."
+            }
+        ]
     },
     "@KoganeiNiko": {
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
@@ -249,7 +241,15 @@
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
         "channel_name": "Moona Hoshinova hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "NMjmFoIau7M",
+                "title": "【Heartopia】play with AREA15!【hololive | moona】",
+                "date": "2026/04/15 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/NMjmFoIau7M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUj8L19vGAZBPJveH82zG3yIQTBQ",
+                "description": "Streamlabs donation link here : https://streamlabs.com/moonahoshinovahololive-id/tip\nSociaBuzz donation link here : https://sociabuzz.com/moonahoshinova/tribe\n\n@ayundarisu @AiraniIofifteen..."
+            }
+        ]
     },
     "@MoriCalliope": {
         "channel_url": "https://www.youtube.com/@MoriCalliope",
@@ -386,15 +386,7 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": [
-            {
-                "video_id": "7K3Dm1JR0-U",
-                "title": "【ポケモン/リーフグリーン】#1 パラスと一緒に初見ポケモン！！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "date": "2026/04/15 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/7K3Dm1JR0-U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6jS1Qx2wXlyZT9UIguKGY9IFgfQ",
-                "description": "ぽこあより先にパラスと旅に出ることになりました\nまずはパラスを探しに行くぞ！！！\n\n配信タイトル：ポケットモンスター リーフグリーン..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -486,15 +478,7 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch.Tokoyami Towa",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": [
-            {
-                "video_id": "O884EWk51Ko",
-                "title": "【 STREET FIGHTER 6 】弟子旅企画👊第三弾：ももち【常闇トワ/ホロライブ】",
-                "date": "2026/04/15 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/O884EWk51Ko/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFsP-GEBSx8qr5BtEtC-2ZavuGmQ",
-                "description": "お久しぶりのこの企画。。。‼️\nこの方がくるということはついに開くのかもしれない。\n夢の世界を。\n\n師匠(借り）：立川さん（ミラーしている..."
-            }
-        ]
+        "videos": []
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
@@ -571,7 +555,22 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "5bSHkwCfSs0",
+                "title": "【MONGIL: STAR DIVE】diving into this world lookin for cuties #ad",
+                "date": "2026/04/16 04:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/5bSHkwCfSs0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFNS-E9zjKngY-dnX5piRgNauRlw",
+                "description": "Leap into a world of monsters, monster tamers, and a mysterious cat companion! Explore the world of MONGIL: STAR DIVE.✨\n▶ PLAY NOW: https://ntiny.link/STARDIVE_MURIN\n\nOfficial Website:..."
+            },
+            {
+                "video_id": "vF_BJEcRXuE",
+                "title": "【HYTALE】dig",
+                "date": "2026/04/16 07:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/vF_BJEcRXuE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcN6jD-nc42MU36EBq1pumk3fRLg",
+                "description": "thumbnail: https://x.com/_bambooz/status/2043884693943398727\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
