@@ -147,7 +147,14 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Y7Ji8_a3Kuw",
+                "title": "【Tomodachi Life: Living the Dream】TEAM TOMODACHI?",
+                "thumbnail": "https://i.ytimg.com/vi/Y7Ji8_a3Kuw/hqdefault.jpg?v=69dfd69a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4HSSv-3T4oUChrucnx563c5EI_A",
+                "description": "Thumbnail Art: @PhdPigeon\nhttps://x.com/PhdPigeon/status/2040257190402122086/photo/1\n\nMERCH\n\n▼hololive production OFFICIAL SHOP \nJP: https://shop.hololivepro.com/products/kosekibijou_birthday_202..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -405,14 +412,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "5bSHkwCfSs0",
-                "title": "【MONGIL: STAR DIVE】diving into this world lookin for cuties #ad",
-                "thumbnail": "https://i.ytimg.com/vi/5bSHkwCfSs0/hqdefault.jpg?v=69df5ac3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFNS-E9zjKngY-dnX5piRgNauRlw",
-                "description": "Leap into a world of monsters, monster tamers, and a mysterious cat companion! Explore the world of MONGIL: STAR DIVE.✨\n▶ PLAY NOW: https://ntiny.link/STARDIVE_MURIN\n\nOfficial Website:..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
