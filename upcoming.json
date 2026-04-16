@@ -337,7 +337,15 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "2drFZHY99xQ",
+                "title": "【ポケモン/リーフグリーン】#2 パラスと一緒に初見ポケモン！！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "date": "2026/04/19 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/2drFZHY99xQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBu62c43Mgw8cc_S0kIFcBAL1rs6w",
+                "description": "パラスと冒険はじまった！！！！！！！！\n\n配信タイトル：ポケットモンスター リーフグリーン\n公式サイト：https://www.pokemon.co.jp/game/gba/fl/\n\n..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -485,7 +493,36 @@
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "aMojzTRVbJM",
+                "title": "【ARCHIVED KARAOKE】Plus Announcement ~! 💄",
+                "date": "2026/04/17 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/aMojzTRVbJM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBchO_MvIJPUEgM7GTqveBI8-UHpQ",
+                "description": "Lets have a fun time singing some songs - then I have something special to tell you my beautiful Kingdom! \n\nThumbnail Art: Elisbian https://x.com/Elisbian_/status/2043496892613668943?s=20 (Beautifu..."
+            },
+            {
+                "video_id": "d9KEUxYutCY",
+                "title": "【MEMBERSHIP】Dirty Dancing Movie Watch-A-Long ~! 💄",
+                "date": "2026/04/23 01:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/d9KEUxYutCY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXd5geH9yCiuMu7pK_Sa58dgWsnQ",
+                "description": "Movie: Dirty Dancing\n[[ 1987 Movie  ]]\n▬▬ι════════ﺤ\n\n❣ Hashtags ❣\n♡ General: #BFKingdom \n♡ Live: #BloodflameLive\n♡ Art: #BloodflameArt \n\n▬▬ι══════..."
+            },
+            {
+                "video_id": "dXQDhbOMlE0",
+                "title": "【MEMBERSHIP】ET Movie Watch-A-Long ~! 💄",
+                "date": "2026/04/27 01:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/dXQDhbOMlE0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDuh-uB4k0PjjNQkztKNz_NQTe-Cw",
+                "description": "Movie: ET\n[[ 1982 Movie  ]]\n▬▬ι════════ﺤ\n\n❣ Hashtags ❣\n♡ General: #BFKingdom \n♡ Live: #BloodflameLive\n♡ Art: #BloodflameArt \n\n▬▬ι════════ﺤ..."
+            },
+            {
+                "video_id": "i43pR5GogAM",
+                "title": "【MEMBERSHIP】Say Anything Movie Watch-A-Long ~! 💄",
+                "date": "2026/04/20 01:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/i43pR5GogAM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDM_5SofhKEjWri5eX_OcCwrvcQzQ",
+                "description": "Movie: Say Anything\n[[ 1989 Movie  ]]\n▬▬ι════════ﺤ\n\n❣ Hashtags ❣\n♡ General: #BFKingdom \n♡ Live: #BloodflameLive\n♡ Art: #BloodflameArt \n\n▬▬ι══════..."
+            }
+        ]
     },
     "@holoen_gigimurin": {
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
@@ -515,15 +552,7 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": [
-            {
-                "video_id": "zmARkt5Bjj8",
-                "title": "【Tomodachi Life: Living the Dream】 My 2026 GOTY is here",
-                "date": "2026/04/17 05:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/zmARkt5Bjj8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5X6pZ2DyjS2tjSYi_gQEPiPtG5g",
-                "description": "And I couldn't be happier\n\nMerch: https://ohmonah.shop/collections/nimi-nightmare\n\n  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋\n\nKonbakuwa! I'm Nimi, the baku nurse VTuber of your nightmares~..."
-            }
-        ]
+        "videos": []
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
