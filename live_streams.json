@@ -147,14 +147,7 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": [
-            {
-                "video_id": "Y7Ji8_a3Kuw",
-                "title": "【Tomodachi Life: Living the Dream】TEAM TOMODACHI?",
-                "thumbnail": "https://i.ytimg.com/vi/Y7Ji8_a3Kuw/hqdefault.jpg?v=69dfd69a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4HSSv-3T4oUChrucnx563c5EI_A",
-                "description": "Thumbnail Art: @PhdPigeon\nhttps://x.com/PhdPigeon/status/2040257190402122086/photo/1\n\nMERCH\n\n▼hololive production OFFICIAL SHOP \nJP: https://shop.hololivepro.com/products/kosekibijou_birthday_202..."
-            }
-        ]
+        "videos": []
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -269,7 +262,14 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "2AkyKHRSyiE",
+                "title": "【Arknights: Endfield】Back To The Factory",
+                "thumbnail": "https://i.ytimg.com/vi/2AkyKHRSyiE/hqdefault.jpg?v=69e038d7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4QirJWoaYkU765B6QoPTbeD9ABA",
+                "description": "Game title: Arknights: Endfield\nStore page: https://endfield.gryphline.com/en-us\n\n[Twitter]\nhttps://twitter.com/ourokronii\n\n-------------------------------------------------------------------------..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
@@ -317,7 +317,14 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "WFvBqhlOb3Q",
+                "title": "【トモダチコレクション】ホロエンタメランドわくわくあじまりの新生活　【白上フブキ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/WFvBqhlOb3Q/hqdefault.jpg?v=69e05354&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAIje0bmUZEtNPG03w9JLu5EUq4qQ",
+                "description": "✨️NEW✨️\n🌽🍙にゃんぐこーん  オリジナル楽曲\n『けもももももも!』\n⭐️配信：https://cover.lnk.to/mpERIk\n━━━━━━━━━━━━━━━━━━..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -419,14 +426,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "vF_BJEcRXuE",
-                "title": "【HYTALE】dig",
-                "thumbnail": "https://i.ytimg.com/vi/vF_BJEcRXuE/hqdefault.jpg?v=69df576a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcN6jD-nc42MU36EBq1pumk3fRLg",
-                "description": "thumbnail: https://x.com/_bambooz/status/2043884693943398727\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
@@ -450,7 +450,14 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "d25P9FU1yzE",
+                "title": "【Tomodachi Life: Living the Dream】 RELEASE DAY (NIGHT) IS HERE!!!",
+                "thumbnail": "https://i.ytimg.com/vi/d25P9FU1yzE/hqdefault.jpg?v=69e04441&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAG93z32zUKxB-_aO5V5kI1Zo7nUQ",
+                "description": "Rare late night stream for Tomodachi Life's release!!\n\nMerch: https://ohmonah.shop/collections/nimi-nightmare\n\n  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋\n\nKonbakuwa! I'm Nimi, the baku nurse..."
+            }
+        ]
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
