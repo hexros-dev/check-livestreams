@@ -147,7 +147,14 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "BH4Ud-FZ43A",
+                "title": "【Tomodachi Life: Living the Dream】THE ISLAND",
+                "thumbnail": "https://i.ytimg.com/vi/BH4Ud-FZ43A/hqdefault.jpg?v=69e11524&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLByorEf_8_2OGORJbmKiHp-DGCMNg",
+                "description": "Thumbnail Art: @DDOLBANG11\nhttps://x.com/DDOLBANG11/status/2044628477652214246/photo/1\n\nMERCH\n\n▼hololive production OFFICIAL SHOP \nJP: https://shop.hololivepro.com/products/kosekibijou_birthday_2..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -327,14 +334,7 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": [
-            {
-                "video_id": "nPBZkannmKc",
-                "title": "【TOMODACHI LIFE 2】Living the Dream.. Wawa World!!!! #kfp #キアライブ",
-                "thumbnail": "https://i.ytimg.com/vi/nPBZkannmKc/hqdefault.jpg?v=69e02e05&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfMcsMguYO1k687PUEfc_jHPARpQ",
-                "description": "VOGELFREI 2nd Round Preorder!  https://shop.hololivepro.com/products/takanashikiara_2ndalbum_vogelfrei_secondaryorder\nCONCERT STREAMING TICKETS: https://drawn-to-dawn.hololivepro.com/ticket..."
-            }
-        ]
+        "videos": []
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
@@ -414,10 +414,10 @@
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
         "videos": [
             {
-                "video_id": "E2ORjayFTgs",
-                "title": "【GREMBERS】gigi murin yap and accountability stream",
-                "thumbnail": "https://i.ytimg.com/vi/E2ORjayFTgs/hqdefault.jpg?v=69e09086&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPqvK7xuYNn7TJ2bfyTi_FinqmGg",
-                "description": "actually have a lot to do...so change of plans to keep me accountable!!!\nand maybe a short grember karaoke later :3\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
+                "video_id": "Dqfcb-aMfGA",
+                "title": "【GREMBERSHIP UNARCHIVED】GREMBERS KARAOKEE FUNNNNNNN nostalgia",
+                "thumbnail": "https://i.ytimg.com/vi/Dqfcb-aMfGA/hqdefault.jpg?v=69e16e65&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYVd5rXdOe-pZV-WdVxRCMtxgbjQ",
+                "description": "‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n【Debut..."
             }
         ]
     },
