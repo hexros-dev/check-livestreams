@@ -120,27 +120,13 @@
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
-        "videos": [
-            {
-                "video_id": "PuNqI7oi0K4",
-                "title": "【いえのあじ】ご飯を残すと…ね？最恐ホラーゲームらしい…。【一条莉々華/hololive DEV_IS　ReGLOSS】",
-                "thumbnail": "https://i.ytimg.com/vi/PuNqI7oi0K4/hqdefault.jpg?v=69e0a785&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANrrDueP06HX7ZfR9AmFG7novJWQ",
-                "description": "久しぶりのホラーゲームです😭\n\n配信タイトル：いえのあじ | A taste of home\nストアページ：https://store.steampowered.com/app/4161930/__A_taste_of_home/\n\n୨୧┈┈..."
-            }
-        ]
+        "videos": []
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": [
-            {
-                "video_id": "z9EaXkYeF88",
-                "title": "きかんしゃトーマス！！！！！！！！",
-                "thumbnail": "https://i.ytimg.com/vi/z9EaXkYeF88/hqdefault.jpg?v=69e09dfc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB44OIyN42uIQRRFg21MFgne_DSQQ",
-                "description": "Play Game : Thomas & Friends™: Wonders of Sodor ( steam )\nタグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nころねTwitter▶http..."
-            }
-        ]
+        "videos": []
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
@@ -158,26 +144,33 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "nrloJsqS_DY",
+                "title": "【KuloNiku: Bowl Up!】pemaloe bakso 🖁🍜",
+                "thumbnail": "https://i.ytimg.com/vi/nrloJsqS_DY/hqdefault.jpg?v=69e0a18a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCaRekcZSkU5N2Ogp9175M5zNWitA",
+                "description": "【Donasi lokal】Traktir yang pahit-pahit kini sangat EZGGWP!~\nLink: https://sociabuzz.com/kaelakovalskia/tribe\n\n#Kaelaif #KaelaKovalskia #holoID #hololive #hololiveID \n∘₊✧──────..."
+            }
+        ]
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": [
-            {
-                "video_id": "qcgwSp6BxvM",
-                "title": "【 スーパーマリオワールド 】完全初見！初めてのマリオワールドに挑戦！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "thumbnail": "https://i.ytimg.com/vi/qcgwSp6BxvM/hqdefault.jpg?v=69e09c7b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATXb7okrDOTdqcmnEGeJWT9jQY2g",
-                "description": "■綺々羅々ヴィヴィ 50万人記念グッズ\n■販売URL\nhttps://shop.hololivepro.com/products/kikiraravivi_subscribers_500k\n【販売期間】\n販売開始：2026年3月27日(金)..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
         "channel_name": "Kobo Kanaeru Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "pHpqKlb38qA",
+                "title": "【I'm on Observation Duty】ANOMALI YANG BIKIN AKU GABISA TIDUR",
+                "thumbnail": "https://i.ytimg.com/vi/pHpqKlb38qA/hqdefault.jpg?v=69e0c27e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSMCsCVkx9uq-z4dNc2YLPKbwTfw",
+                "description": "Bokobokobo- Kobo Kanaeru at your service! Let me be your sun to shine your day, ehe~ ;D ☔☔☔\n#OnAeru #Kobo_Kanaeru #holoID #holoid03 \n\nThis game is being streamed and monetized after confirmin..."
+            }
+        ]
     },
     "@KoganeiNiko": {
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
@@ -195,14 +188,7 @@
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
-        "videos": [
-            {
-                "video_id": "jQ4HT0tP8gg",
-                "title": "【Tomodachi Life: Living the Dream】 Pt.1: WELCOME TO OLLIENESIA!! 【Kureiji Ollie】",
-                "thumbnail": "https://i.ytimg.com/vi/jQ4HT0tP8gg/hqdefault.jpg?v=69e0a36e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEP6dgo3Q5yUJoAciEJFoWSxQYFg",
-                "description": "❥・・───༅༚˳ . ୨୧ . ˳༚༅༚─── ・・❥\n\n#OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n────୨｡ ₊°༺❤︎༻°₊ ｡ৎ────\n\n Watch my..."
-            }
-        ]
+        "videos": []
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
@@ -214,7 +200,14 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "6UBfg_TGcJ4",
+                "title": "【ウマ娘プリティーダービー】完全初見#12 新人トレーナ✨️俺の女編【水宮枢／ホロライブDEV_IS】",
+                "thumbnail": "https://i.ytimg.com/vi/6UBfg_TGcJ4/hqdefault.jpg?v=69dfd41c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXQXVtz1i0UmgOou6FgiIztHDGdg",
+                "description": "本ゲームは株式会社Cygamesの配信ガイドラインに則って配信・収益化を行なっております。\nhttps://umamusume.jp/news/detail.php?id=107\n▹◃┄▸◂┄▹◃┄▸..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -226,7 +219,14 @@
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
         "channel_name": "Moona Hoshinova hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "3lPZIRzMN4s",
+                "title": "【Hytale】maybe learning... a little bit?【hololive | moona】",
+                "thumbnail": "https://i.ytimg.com/vi/3lPZIRzMN4s/hqdefault.jpg?v=69e0f5bf&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAriyor7-rj8impT03MG4iWJBCdSQ",
+                "description": "Streamlabs donation link here : https://streamlabs.com/moonahoshinovahololive-id/tip\nSociaBuzz donation link here : https://sociabuzz.com/moonahoshinova/tribe\n======================================..."
+            }
+        ]
     },
     "@MoriCalliope": {
         "channel_url": "https://www.youtube.com/@MoriCalliope",
@@ -299,7 +299,14 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "gzDaZtEyXzQ",
+                "title": "【#生スバル】トモダチコレクションわくわく生活やるしゅばああああああああああああああああああああ！！！！【ホロライブ/大空スバル】",
+                "thumbnail": "https://i.ytimg.com/vi/gzDaZtEyXzQ/hqdefault.jpg?v=69df95f4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1w-q9wTyfRQcaPmQbEhSwlx7U_w",
+                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントする..."
+            }
+        ]
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -317,27 +324,13 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": [
-            {
-                "video_id": "9TuF9VOYspM",
-                "title": "【Overwatch】Would you still love me if there was no feet on the thumbnail【Pavolia Reine/hololiveID】",
-                "thumbnail": "https://i.ytimg.com/vi/9TuF9VOYspM/hqdefault.jpg?v=69e0a4e6&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACpmc6qTtyAGvfuMKyzLRAxnHK7g",
-                "description": "Game Title: Overwatch 2\nThis stream has been approved by Blizzard Entertainment.\nThe views, information, or opinions expressed during the stream do not represent those of Blizzard Entertainment...."
-            }
-        ]
+        "videos": []
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": [
-            {
-                "video_id": "LH96HKaQ7qo",
-                "title": "【ギター練習】ゆるゆるぎた～～～～【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "thumbnail": "https://i.ytimg.com/vi/LH96HKaQ7qo/hqdefault.jpg?v=69e0ce98&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtYFZ8NF3p2SZ5e9d09-hVUXvPEw",
-                "description": "サムネイルイラスト：A-KAさま\nhttp://x.com/A_KA_sub\nありがとうございます！\n\n▼メンバーシップ加入はこちらから！\nhttps://www.youtube.com/channel/UCKMWFR6lAstLa7..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -409,7 +402,14 @@
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "zRjjiJqb9sg",
+                "title": "【メン限】晩酌しよ~！！【轟はじめ/ReGLOSS】",
+                "thumbnail": "https://i.ytimg.com/vi/zRjjiJqb9sg/hqdefault.jpg?v=69e0cf98&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCAFQmVzcfleaB-Kjb4v6RCqQnkgQ",
+                "description": "素敵なサムネお写真：いとちきん様（@itochicken2）\n\n\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n✨オリジナル曲宣伝✨\nNEW！！🏀【Original】Dunk/轟は..."
+            }
+        ]
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
@@ -470,7 +470,14 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "xaDFyWgL7Lk",
+                "title": "【HELLO JAPAN】Testing stream while I move slowly from side to side",
+                "thumbnail": "https://i.ytimg.com/vi/xaDFyWgL7Lk/hqdefault.jpg?v=69e0f172&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjp1d7ekSq6zdPfblZ6Xv0M4Vhww",
+                "description": "I'm jetlagged\n\n--------------------------\nHashtags\n📺 Livestream: #ImmerScreen \n🎨 Fanart: #Immergination\n🎻 Music: #ImmerPiece\n🤡 Memes: #ImmerMemes \n--------------------------\n\n\n---------..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
@@ -488,7 +495,14 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "gO3wMW_8K30",
+                "title": "【MONGIL: STAR DIVE】THEY ARE ALL MINEEEEE!!! hehhe~ ✨【Raora Panthera】",
+                "thumbnail": "https://i.ytimg.com/vi/gO3wMW_8K30/hqdefault.jpg?v=69df5f92&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlZFt2bDlok1gDNLzuKE-b47WAsw",
+                "description": "╭─⋆｡ﾟ♡ RAO ♡｡ﾟ⋆─╮\n\nLeap into a world of monsters, monster tamers, and a mysterious cat companion! Explore the world of MONGIL: STAR DIVE.✨\n▶ PLAY NOW: https://ntiny.link..."
+            }
+        ]
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
@@ -512,14 +526,7 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": [
-            {
-                "video_id": "g4wzsHr26oQ",
-                "title": "#3【初見】『機動戦士ガンダム Zガンダム』同時視聴！！ぺこ！【ホロライブ/兎田ぺこら】",
-                "thumbnail": "https://i.ytimg.com/vi/g4wzsHr26oQ/hqdefault.jpg?v=69dfdca1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBK-mKX4NS7ikq1gTosSHyp6P8RhA",
-                "description": "14話から開始！19か20話まで観るぺこ！！！！！！！！！！！！！！！！！！！！！！！\n\nサムネイラスト：vinhnyuさん\n\n⋈ －－－－－－－－－－－..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
