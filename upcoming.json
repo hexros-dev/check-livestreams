@@ -237,13 +237,6 @@
                 "date": "2026/04/17 07:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/GMjcHkwmWIQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNBSh-J_8DK3f5HypN5bk411VDCw",
                 "description": "DARK FANTASY GOODS AVAILABLE NOW!\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/moricalliope_birthday_2026\nEN: https://shop.hololivepro.com/en/products/moricalliope..."
-            },
-            {
-                "video_id": "rMSx6s9IO0s",
-                "title": "【HOLO HYTALE SERVER】big adventures or I'm suing #calliolive",
-                "date": "2026/04/16 08:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/rMSx6s9IO0s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1ObfvI3qXmWRlWdMsDAkW94tYgQ",
-                "description": "DARK FANTASY GOODS AVAILABLE NOW!\n\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/moricalliope_birthday_2026\nEN: https://shop.hololivepro.com/en/products/moricalliop..."
             }
         ]
     },
@@ -341,7 +334,15 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "2AkyKHRSyiE",
+                "title": "【Arknights: Endfield】Back To The Factory",
+                "date": "2026/04/16 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/2AkyKHRSyiE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4QirJWoaYkU765B6QoPTbeD9ABA",
+                "description": "Game title: Arknights: Endfield\nStore page: https://endfield.gryphline.com/en-us\n\n[Twitter]\nhttps://twitter.com/ourokronii\n\n-------------------------------------------------------------------------..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
@@ -353,22 +354,7 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": [
-            {
-                "video_id": "2drFZHY99xQ",
-                "title": "【ポケモン/リーフグリーン】#2 パラスと一緒に初見ポケモン！！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "date": "2026/04/19 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/2drFZHY99xQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBu62c43Mgw8cc_S0kIFcBAL1rs6w",
-                "description": "パラスと冒険はじまった！！！！！！！！\n\n配信タイトル：ポケットモンスター リーフグリーン\n公式サイト：https://www.pokemon.co.jp/game/gba/fl/\n\n..."
-            },
-            {
-                "video_id": "LH96HKaQ7qo",
-                "title": "【】よていち【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "date": "2026/04/16 17:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/LH96HKaQ7qo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtYFZ8NF3p2SZ5e9d09-hVUXvPEw",
-                "description": "▼メンバーシップ加入はこちらから！\nhttps://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig/join\n\n\n\n\n\nFLOWGLOW 1st Album『FLOW GLOW』\n2026.1.21 リリース\n🔽予約はこち..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -428,7 +414,15 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "nPBZkannmKc",
+                "title": "【TOMODACHI LIFE 2】Living the Dream.. Wawa World!!!! #kfp #キアライブ",
+                "date": "2026/04/16 22:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/nPBZkannmKc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfMcsMguYO1k687PUEfc_jHPARpQ",
+                "description": "VOGELFREI 2nd Round Preorder!  https://shop.hololivepro.com/products/takanashikiara_2ndalbum_vogelfrei_secondaryorder\nCONCERT STREAMING TICKETS: https://drawn-to-dawn.hololivepro.com/ticket..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
@@ -528,15 +522,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "vF_BJEcRXuE",
-                "title": "【HYTALE】dig",
-                "date": "2026/04/16 07:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/vF_BJEcRXuE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcN6jD-nc42MU36EBq1pumk3fRLg",
-                "description": "thumbnail: https://x.com/_bambooz/status/2043884693943398727\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
