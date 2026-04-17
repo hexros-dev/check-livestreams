@@ -190,7 +190,14 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "GMjcHkwmWIQ",
+                "title": "【Tomodachi Life: Living the Dream】playing god today #calliolive",
+                "thumbnail": "https://i.ytimg.com/vi/GMjcHkwmWIQ/hqdefault.jpg?v=69de02d7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNBSh-J_8DK3f5HypN5bk411VDCw",
+                "description": "DARK FANTASY GOODS AVAILABLE NOW!\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/moricalliope_birthday_2026\nEN: https://shop.hololivepro.com/en/products/moricalliope..."
+            }
+        ]
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
