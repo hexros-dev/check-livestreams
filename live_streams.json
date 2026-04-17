@@ -405,14 +405,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "I610XXrwM7w",
-                "title": "【ARKNIGHTS: ENDFIELD】NEW UPDATE!!!!! ZHUANG FANGYI!!!!",
-                "thumbnail": "https://i.ytimg.com/vi/I610XXrwM7w/hqdefault.jpg?v=69e1de19&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBrVupdEKqCb2HQbGxUNc7ia2ht0A",
-                "description": "Arknights: Endfield is available on PlayStation®5! Download the game now: https://store.playstation.com/concept/10009205/ \n\n#PR #PlayStation5 #ps5 #ps5games #ArknightsEndfield\n\n\n‐‐‐‐‐‐..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
@@ -436,7 +429,14 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "1IaCoFNRFOo",
+                "title": "【Tomodachi Life: Living the Dream】 Witnessing the aftermath of the most cursed love triangle",
+                "thumbnail": "https://i.ytimg.com/vi/1IaCoFNRFOo/hqdefault.jpg?v=69e289b5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAm_Tha1IPd-YJFsLRc8s3CebP5pw",
+                "description": "Tapir Island\n\nMerch: https://ohmonah.shop/collections/nimi-nightmare\n\n  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋\n\nKonbakuwa! I'm Nimi, the baku nurse VTuber of your nightmares~\n#VTuber #nimi..."
+            }
+        ]
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
