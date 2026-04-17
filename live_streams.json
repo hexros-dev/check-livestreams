@@ -93,7 +93,14 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "fLnDZ0zs7c8",
+                "title": "【Members Only・メン限】Multitask The Stream【Featuring my Potato PC's Revival】",
+                "thumbnail": "https://i.ytimg.com/vi/fLnDZ0zs7c8/hqdefault.jpg?v=69e1bc68&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsgY1fb-IJsLSqM_up2K8KWNkokQ",
+                "description": "I need to get stuff some done so guerilla\n\nSolo live confirmed for October 6 at SGC HALL ARIAKE, Japan! More details soon!\n10月6日、SGC HALL 有明でソロライブ開催決定！ 詳細は後..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -147,14 +154,7 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": [
-            {
-                "video_id": "BH4Ud-FZ43A",
-                "title": "【Tomodachi Life: Living the Dream】THE ISLAND",
-                "thumbnail": "https://i.ytimg.com/vi/BH4Ud-FZ43A/hqdefault.jpg?v=69e11524&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLByorEf_8_2OGORJbmKiHp-DGCMNg",
-                "description": "Thumbnail Art: @DDOLBANG11\nhttps://x.com/DDOLBANG11/status/2044628477652214246/photo/1\n\nMERCH\n\n▼hololive production OFFICIAL SHOP \nJP: https://shop.hololivepro.com/products/kosekibijou_birthday_2..."
-            }
-        ]
+        "videos": []
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -190,14 +190,7 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": [
-            {
-                "video_id": "GMjcHkwmWIQ",
-                "title": "【Tomodachi Life: Living the Dream】playing god today #calliolive",
-                "thumbnail": "https://i.ytimg.com/vi/GMjcHkwmWIQ/hqdefault.jpg?v=69de02d7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNBSh-J_8DK3f5HypN5bk411VDCw",
-                "description": "DARK FANTASY GOODS AVAILABLE NOW!\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/moricalliope_birthday_2026\nEN: https://shop.hololivepro.com/en/products/moricalliope..."
-            }
-        ]
+        "videos": []
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
