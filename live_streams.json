@@ -135,7 +135,14 @@
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
         "channel_name": "Kobo Kanaeru Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "BVyIhm5PQZs",
+                "title": "【Watchalong | LCS】SEN vs FLY #LCSCostream",
+                "thumbnail": "https://i.ytimg.com/vi/BVyIhm5PQZs/hqdefault.jpg?v=69e13bb5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQ_q8GZvJHeJxSxreK-2tNvsceZA",
+                "description": "Bokobokobo- Kobo Kanaeru at your service! Let me be your sun to shine your day, ehe~ ;D ☔☔☔\n#OnAeru #Kobo_Kanaeru #holoID #holoid03 #LCSCostream\n\n==================================\nDONASI..."
+            }
+        ]
     },
     "@KoganeiNiko": {
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
