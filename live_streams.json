@@ -3,7 +3,14 @@
         "channel_url": "https://www.youtube.com/@AZKi",
         "channel_name": "AZKi Channel",
         "avatar_url": "https://yt3.googleusercontent.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "NEt2RM1Xp2s",
+                "title": "【ぽこ あ ポケモン】はじめてのぽこポケ⚡️#9【ホロライブ / AZKi】",
+                "thumbnail": "https://i.ytimg.com/vi/NEt2RM1Xp2s/hqdefault.jpg?v=69e36a89&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQxKr7eKojt9oiUkUKZKBJ9DyEsQ",
+                "description": "まったりいそがしスローライフ\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\nサムネイラスト：おうや 様\nhttps://x.com/holouya\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈..."
+            }
+        ]
     },
     "@AiraniIofifteen": {
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
@@ -21,14 +28,7 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": [
-            {
-                "video_id": "ve4SC4CON2w",
-                "title": "【 #DoZ 】ドズル社さんマイクラMMORPG『Doom or Zenith』DAY8【ホロライブ/アキロゼ】",
-                "thumbnail": "https://i.ytimg.com/vi/ve4SC4CON2w/hqdefault.jpg?v=69e27d89&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqzj3QxD-dtsd-poXndf6XY7BPRQ",
-                "description": "ホロライブの切り抜き/二次創作ガイドライン\nhttps://hololivepro.com/terms/\n\n本企画を視聴する上でドズル社さんからの注意事項です！ご一読ください。..."
-            }
-        ]
+        "videos": []
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -130,27 +130,13 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w",
-        "videos": [
-            {
-                "video_id": "M0dYQv2r_i0",
-                "title": "【KuloNiku: Bowl Up!】last chapter???? what will happen to this town.... 🖁🍜",
-                "thumbnail": "https://i.ytimg.com/vi/M0dYQv2r_i0/hqdefault.jpg?v=69e368ad&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBd15UPcWg2U2M8DSgbUn_e0tSyIA",
-                "description": "【Donasi lokal】Traktir yang pahit-pahit kini sangat EZGGWP!~\nLink: https://sociabuzz.com/kaelakovalskia/tribe\n\n#Kaelaif #KaelaKovalskia #holoID #hololive #hololiveID \n∘₊✧──────..."
-            }
-        ]
+        "videos": []
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": [
-            {
-                "video_id": "LUUVMIrxdEU",
-                "title": "【PsychoBreak 2/サイコブレイク２】完全初見！精神崩壊大絶叫…【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "thumbnail": "https://i.ytimg.com/vi/LUUVMIrxdEU/hqdefault.jpg?v=69e35d7d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbnCii3z7fw3mh0fnbZuZ_yJW-YQ",
-                "description": "■綺々羅々ヴィヴィ 50万人記念グッズ\n■販売URL\nhttps://shop.hololivepro.com/products/kikiraravivi_subscribers_500k\n【販売期間】\n販売開始：2026年3月27日(金)..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -348,7 +334,14 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "IXDyabZdIII",
+                "title": "【ARKNIGHTS: ENDFIELD】NEW UPDATE IS OUT, LETS ROLL!  #kfp",
+                "thumbnail": "https://i.ytimg.com/vi/IXDyabZdIII/hqdefault.jpg?v=69e37e85&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCAk14cBmfJ5IHFvk8SIm7G2YqGnw",
+                "description": "Arknights: Endfield is available on PlayStation®5! Download the game now: https://store.playstation.com/concept/10009205/ \n\n\n#PR #PlayStation5 #ps5 #ps5games #arknightsendfield \n\n\nVOGELFREI..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
@@ -421,7 +414,14 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "A6zU1e2nwzA",
+                "title": "【PRAGMATA】MY DAUGHTER AND I !!!!!!!  #sponsored",
+                "thumbnail": "https://i.ytimg.com/vi/A6zU1e2nwzA/hqdefault.jpg?v=69e321d2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAuG-FFjUe7csV8OaEr5YI7RLQAoA",
+                "description": "Thank you to Capcom for sponsoring this stream! #pragmata #sponsored \nCheck PRAGMATA out here!! CLICK IT!  https://l.capcom.gg/c/s7znz4 hehe\n\n--------------------------\nHashtags\n📺 Livestream:..."
+            }
+        ]
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
@@ -469,13 +469,6 @@
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": [
-            {
-                "video_id": "gWKK7kSOYa0",
-                "title": "レート1800に行きたい５億年ぶりのポケモンレート戦",
-                "thumbnail": "https://i.ytimg.com/vi/gWKK7kSOYa0/hqdefault.jpg?v=69e2d55f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgSozBGrm1nyPux5U1xeN7wl67UQ",
-                "description": "マスターボール級になったよ✌\n\n🎀グッズ・ボイス販売はこちら🐾\nhttps://yuki-sakuna.stores.jp/\n\n🎀歌ってみた動画🐾\nhttps://youtube.com/playlist?list=PLErsMirG..."
-            }
-        ]
+        "videos": []
     }
 }
