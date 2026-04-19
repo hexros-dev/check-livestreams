@@ -357,14 +357,7 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": [
-            {
-                "video_id": "lHB9hYMAsAA",
-                "title": "【雑談＆お礼】お茶を飲んでる羊の性格は、なーんだ！！【角巻わため/ホロライブ４期生】",
-                "thumbnail": "https://i.ytimg.com/vi/lHB9hYMAsAA/hqdefault.jpg?v=69e3e97f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzPsYad4130C5h7dWGmzHHAcOxjg",
-                "description": "唐突ななぞなぞ🔍\nタグ：#ドドドライブ\n\n🐏アイドル活動ボイス 販売中📢\nhttps://shop.hololivepro.com/products/hololive_lifeasanidolvoice\n\n🐏わためぇの『-Art..."
-            }
-        ]
+        "videos": []
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -412,7 +405,14 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "z5cdYdocS8k",
+                "title": "【Justice Girls' Night】Truth or Lie? #holoJustice",
+                "thumbnail": "https://i.ytimg.com/vi/z5cdYdocS8k/hqdefault.jpg?v=69e0a63f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUEvzp-qAR_LIuxDihQjrRoKUPZw",
+                "description": "gorls night\n\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐  ⸜(｡˃ ᵕ ˂ )⸝♡ credits (˶ˆᗜˆ˵)  ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n⨯ opening screen & tabletop assets:..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
