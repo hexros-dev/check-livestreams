@@ -33,15 +33,7 @@
         "channel_url": "https://www.youtube.com/@AnyaMelfissa",
         "channel_name": "Anya Melfissa Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz",
-        "videos": [
-            {
-                "video_id": "YkGUUMX57wA",
-                "title": "【Hytale】HowlingRager36's Portal Service #holohytale【hololive ID 2nd Gen | Anya Melfissa】",
-                "date": "2026/04/19 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/YkGUUMX57wA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6YRKiFvuVw3RknKr0zt7BqjT0ZQ",
-                "description": "Support me here/ドネーション↓\nStreamlabs: https://streamlabs.com/anyamelfissachhololive-id/tip\nSociaBuzz(Local Donation): https://sociabuzz.com/anyamelfissa/tribe \n\n--\nGame title：Hytale..."
-            }
-        ]
+        "videos": []
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -117,21 +109,21 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": [
-            {
-                "video_id": "YgRGMmcfHO8",
-                "title": "【FREE CHAT】HiRyS!",
-                "date": "2026/04/30 10:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/YgRGMmcfHO8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCu08lLOoXHgMGX50HfLuVsfnY1dw",
-                "description": "Birthday Celebration 2026 NOW AVAILABLE\n\n▼hololive production OFFICIAL SHOP \n・JP: https://shop.hololivepro.com/products/irys_birthday_2026\n ・EN: https://shop.hololivepro.com/en/products/irys_..."
-            }
-        ]
+        "videos": []
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
         "channel_name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "4LDl8MwTb-M",
+                "title": "【定期雑談】都こんぶサワーを手に入れたら更新します！#32 【一条莉々華/hololive DEV_IS　ReGLOSS】",
+                "date": "2026/04/19 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/4LDl8MwTb-M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDrOWxtvIvvagjQiXfjE9vi79Zdw",
+                "description": "レポレポレポレポ～～！！！！！！！！！！！！！！\n\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧\n\n合言葉は「可愛い！ポジティブ！ジーニア..."
+            }
+        ]
     },
     "@InugamiKorone": {
         "channel_url": "https://www.youtube.com/@InugamiKorone",
@@ -193,7 +185,15 @@
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "91qJDmTzUX8",
+                "title": "【ZOMILY - FREETALK】 ZOMBIE CHILLING NIGHT 【Kureiji Ollie】",
+                "date": "2026/04/19 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/91qJDmTzUX8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqQM9hIDnu2AqvV9y3tROa9raBfw",
+                "description": "❥・・───༅༚˳ . ୨୧ . ˳༚༅༚─── ・・❥\n\n #OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n────୨｡ ₊°༺❤︎༻°₊ ｡ৎ────\n\n This is..."
+            }
+        ]
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
@@ -582,6 +582,13 @@
         "avatar_url": "https://yt3.googleusercontent.com/_bT74ettx8Ei9p0zHrSbKdAe1oyaCAbbbXa9teIsxgOtlPl2RADYotJ_kGKwHsNdtWh8D2Hu",
         "videos": [
             {
+                "video_id": "ljCrEXoRzKs",
+                "title": "【MEDULLA】なんと！究極の質問に二択で答えます！わくわく！",
+                "date": "2026/04/20 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ljCrEXoRzKs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAsojHjfeVpMB928Uvy4YtQBb3oTg",
+                "description": "#MEDULLA #メデュラ #PR\n【先着200名】\nみけねこ×MEDULLAコラボ！豪華特別パーフェクト5点セット！\nこのURL限定でお得に購入できるよ♪\nURL：https://x.gd/rR8..."
+            },
+            {
                 "video_id": "qyfjS13bAPI",
                 "title": "【メンバー限定】ここでしかできない最近のおはなしなどしたい！",
                 "date": "2026/04/19 20:00:00",
@@ -601,13 +608,6 @@
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
         "videos": [
-            {
-                "video_id": "ZrdFRHTBkUM",
-                "title": "＃神回【メンバー限定】緊急配信！カメラありでサインを書く！超重大！マル秘！いまだけ限定！初見さん歓迎！切り抜き禁止！7位以下即終了！激レア！3Dかも？アーカイブ残らないかも？【ホロライブ/兎田ぺこら】",
-                "date": "2026/04/19 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/ZrdFRHTBkUM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdBxEWyH_GAljgyGhQjJZxe_WAiw",
-                "description": "ぐぁっつり書きます★\n\nサムネイラスト：無人ちゃんさん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekor..."
-            },
             {
                 "video_id": "llEgIoc8ta4",
                 "title": "【モンギル：STAR DIVE】【兎田ぺこら/ホロライブ】",
