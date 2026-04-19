@@ -109,7 +109,15 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "YgRGMmcfHO8",
+                "title": "【FREE CHAT】HiRyS!",
+                "date": "2026/04/30 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/YgRGMmcfHO8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCu08lLOoXHgMGX50HfLuVsfnY1dw",
+                "description": "Birthday Celebration 2026 NOW AVAILABLE\n\n▼hololive production OFFICIAL SHOP \n・JP: https://shop.hololivepro.com/products/irys_birthday_2026\n ・EN: https://shop.hololivepro.com/en/products/irys_..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -119,7 +127,7 @@
             {
                 "video_id": "4LDl8MwTb-M",
                 "title": "【定期雑談】都こんぶサワーを手に入れたら更新します！#32 【一条莉々華/hololive DEV_IS　ReGLOSS】",
-                "date": "2026/04/19 20:00:00",
+                "date": "2026/04/20 20:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/4LDl8MwTb-M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDrOWxtvIvvagjQiXfjE9vi79Zdw",
                 "description": "レポレポレポレポ～～！！！！！！！！！！！！！！\n\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧\n\n合言葉は「可愛い！ポジティブ！ジーニア..."
             }
@@ -141,7 +149,15 @@
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "6t32AB8G8-o",
+                "title": "【メン限ASMR】芥川龍之介など【儒烏風亭らでん 】",
+                "date": "2026/04/19 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/6t32AB8G8-o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBAReidaYomDgLUObd4jKxPx0XtNA",
+                "description": "めんげんだよ！！\n\nこちらの配信をご視聴する際はヘッドフォンやイヤホンをしてお楽しみください\n\nサムネイル：芋紫ちょ｡様\nhttps://x.com/muratyooo_..."
+            }
+        ]
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
@@ -185,15 +201,7 @@
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
-        "videos": [
-            {
-                "video_id": "91qJDmTzUX8",
-                "title": "【ZOMILY - FREETALK】 ZOMBIE CHILLING NIGHT 【Kureiji Ollie】",
-                "date": "2026/04/19 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/91qJDmTzUX8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqQM9hIDnu2AqvV9y3tROa9raBfw",
-                "description": "❥・・───༅༚˳ . ୨୧ . ˳༚༅༚─── ・・❥\n\n #OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n────୨｡ ₊°༺❤︎༻°₊ ｡ৎ────\n\n This is..."
-            }
-        ]
+        "videos": []
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
@@ -341,15 +349,7 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": [
-            {
-                "video_id": "bhhcGf2r-ac",
-                "title": "【HoloEN/ID Hytale】Hytale! Hy Pavolia Reine!【Pavolia Reine/hololiveID】",
-                "date": "2026/04/19 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/bhhcGf2r-ac/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCCuxhHzlLaR4gTmHD6BQoNncpew",
-                "description": "Pavolia Reine Keyboard Collection Preorders: https://hololive-keyboards-shop.fourthwall.com/\nClosing on April 27th!\n\nGame title：Hytale\nOfficial site：https://hytale.com/\n\n@TakanashiKiara..."
-            }
-        ]
+        "videos": []
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -415,15 +415,7 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": [
-            {
-                "video_id": "bUfgO6X00OE",
-                "title": "【HOLO EN/ID HYTALE】forcing people to play hytale part 2 #kfp",
-                "date": "2026/04/19 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/bUfgO6X00OE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQUbw8BBMAGr8RF2UhiXi77rKfpw",
-                "description": "@PavoliaReine is my victim this time\nVOGELFREI 2nd Round Preorder!  https://shop.hololivepro.com/products/takanashikiara_2ndalbum_vogelfrei_secondaryorder\n\nGame title：Hytale\nOfficial site：https..."
-            }
-        ]
+        "videos": []
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
@@ -441,7 +433,15 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Xno4GEKG19c",
+                "title": "【ホロタイプ お宝ゾンビの島】わたしのタイピング能力は高いのか！？【ホロライブ/ときのそら】",
+                "date": "2026/04/19 21:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/Xno4GEKG19c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdXZqYtO609TuQGUJqOcTLgy3UuQ",
+                "description": "やっていくぞ～！！！\nおー！！！！\n\n配信タイトル：ホロタイプ お宝ゾンビの島\nストアページ：https://store.steampowered.com/app/4195460/_/\n\n✨お知らせ✨..."
+            }
+        ]
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
@@ -453,15 +453,7 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": [
-            {
-                "video_id": "lHB9hYMAsAA",
-                "title": "【雑談＆お礼】お茶を飲んでる羊の性格は、なーんだ！！【角巻わため/ホロライブ４期生】",
-                "date": "2026/04/19 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/lHB9hYMAsAA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzPsYad4130C5h7dWGmzHHAcOxjg",
-                "description": "唐突ななぞなぞ🔍\nタグ：#ドドドライブ\n\n🐏アイドル活動ボイス 販売中📢\nhttps://shop.hololivepro.com/products/hololive_lifeasanidolvoice\n\n🐏わためぇの『-Art..."
-            }
-        ]
+        "videos": []
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -479,15 +471,7 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": [
-            {
-                "video_id": "zB1w13hnfNg",
-                "title": "【鬼サザエトリ】海鮮が食べたい気分【雪花ラミィ /ホロライブ】",
-                "date": "2026/04/19 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/zB1w13hnfNg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCUcbiveto3Amc_SrQspC0-riy6g",
-                "description": "配信タイトル：鬼サザエトリ(Oni Sazae Tori)\nストアページ：https://store.steampowered.com/app/4373570/Oni_Sazae_Tori/\n\nサムネイルイラスト：いさぴさま\nhttps://x.com/..."
-            }
-        ]
+        "videos": []
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
@@ -564,7 +548,7 @@
             {
                 "video_id": "pTPX4PAk7Qw",
                 "title": "LETS CHAT BIG CAT WANTS TO YAP",
-                "date": "2026/04/19 21:00:00",
+                "date": "2026/04/19 21:05:00",
                 "thumbnail": "https://i.ytimg.com/vi/pTPX4PAk7Qw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkL8apPQZF6Ne1QwNuPxQc33-IYQ",
                 "description": "╭─⋆｡ﾟ♡ RAO ♡｡ﾟ⋆─╮\n\nMy first Original Song is OUT!\n˗ˏˋ 𝔾𝕒𝕔𝕙𝕒×𝔾𝕒𝕔𝕙𝕒 𝔸𝔻𝕍𝔼ℕ𝕋𝕌ℝ𝔼! ˎˊ˗\n🐱https://youtu.be/1BTd20qIf..."
             }
@@ -580,22 +564,7 @@
         "channel_url": "https://www.youtube.com/@mikenekoko",
         "channel_name": "みけねこch",
         "avatar_url": "https://yt3.googleusercontent.com/_bT74ettx8Ei9p0zHrSbKdAe1oyaCAbbbXa9teIsxgOtlPl2RADYotJ_kGKwHsNdtWh8D2Hu",
-        "videos": [
-            {
-                "video_id": "ljCrEXoRzKs",
-                "title": "【MEDULLA】なんと！究極の質問に二択で答えます！わくわく！",
-                "date": "2026/04/20 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/ljCrEXoRzKs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAsojHjfeVpMB928Uvy4YtQBb3oTg",
-                "description": "#MEDULLA #メデュラ #PR\n【先着200名】\nみけねこ×MEDULLAコラボ！豪華特別パーフェクト5点セット！\nこのURL限定でお得に購入できるよ♪\nURL：https://x.gd/rR8..."
-            },
-            {
-                "video_id": "qyfjS13bAPI",
-                "title": "【メンバー限定】ここでしかできない最近のおはなしなどしたい！",
-                "date": "2026/04/19 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/qyfjS13bAPI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDvgTSAOcJvP597YXv2CZAVdDIAdA",
-                "description": "『みけねこ』4周年記念スイーツ販売💓かわいくておいしい！\nhttps://cake.jp/entertainment/artist-talent/mikeneko/\n\n商品についてのお問い合わせ先\nCake.jpカス..."
-            }
-        ]
+        "videos": []
     },
     "@niminightmare": {
         "channel_url": "https://www.youtube.com/@niminightmare",
