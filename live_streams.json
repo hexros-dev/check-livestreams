@@ -147,7 +147,14 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "wp7SwSxhDhc",
+                "title": "【PRAGMATA】SHE PROTECC BUT SHE ALSO ATTACC #pragmata #sponsored",
+                "thumbnail": "https://i.ytimg.com/vi/wp7SwSxhDhc/hqdefault.jpg?v=69e69417&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsE5rNttiiUGo8t15Pm4S0sBHEBw",
+                "description": "Check out the game here! https://l.capcom.gg/c/mg478t\nAvailable on all platforms!\n\nThank you CAPCOM for sponsoring the stream!!\nOfficial Site: https://www.capcom-games.com/pragmata/en-us/\n..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
