@@ -92,7 +92,15 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "bIz2aRj6YRY",
+                "title": "【 R.E.P.O.コラボ 】【姫森ルーナ/ホロライブ】",
+                "date": "2026/04/21 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/bIz2aRj6YRY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEY32kOfn1xCKd89Hc-2sKGYWUjA",
+                "description": "姫森ルーナ@HimemoriLuna \n尾丸ポルカ@OmaruPolka \n轟はじめ@TodorokiHajime \n響咲リオナ  @IsakiRiona  \n\nR.E.P.O.再生リスト\nhttps://www.youtube.com/playlist?list=PL6gUpTCMieF6qdu..."
+            }
+        ]
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -230,6 +238,13 @@
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
         "videos": [
             {
+                "video_id": "ChFtYuknFrw",
+                "title": "【ウマ娘プリティーダービー】完全初見#13 新人トレーナ✨️俺の女編【水宮枢／ホロライブDEV_IS】",
+                "date": "2026/04/21 20:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/ChFtYuknFrw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABmxq_2dx_bu-lkZ9L0fGT8ApTAQ",
+                "description": "本ゲームは株式会社Cygamesの配信ガイドラインに則って配信・収益化を行なっております。\nhttps://umamusume.jp/news/detail.php?id=107\n▹◃┄▸◂┄▹◃┄▸..."
+            },
+            {
                 "video_id": "McqFmeL0dIQ",
                 "title": "【モンギル：STAR DIVE】モンギルの世界に遊びに行く…✨️【水宮枢／ホロライブDEV_IS】",
                 "date": "2026/04/21 17:00:00",
@@ -357,7 +372,15 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "tZ-CddFQOBY",
+                "title": "【#生スバル】トモダチコレクションわくわく生活やるしゅばああああああああああああああああああああ！！！！【ホロライブ/大空スバル】",
+                "date": "2026/04/21 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/tZ-CddFQOBY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3y4PFPT8FkChmJ971syo08JHC-g",
+                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントする..."
+            }
+        ]
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -425,15 +448,7 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": [
-            {
-                "video_id": "uUFOhSEntNQ",
-                "title": "【重大告知あり】#フブミオ重大告知  究極の２択クイズでお互いをより深く知ろう！！！　【白上フブキ/大神ミオ/ホロライブ】",
-                "date": "2026/04/21 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/uUFOhSEntNQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALnmRs-uFZTydrfwizNQPJp_S0hA",
-                "description": "#フブミオ重大告知 \n大神ミオ @OokamiMio \n━━━━━━━━━━━━━━━━━━━━━━━\n✨️NEW✨️\n🌽🍙にゃんぐこーん  オリジナル楽曲..."
-            }
-        ]
+        "videos": []
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
