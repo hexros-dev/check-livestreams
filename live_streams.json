@@ -93,14 +93,7 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": [
-            {
-                "video_id": "fsho0rqHO5c",
-                "title": "【CookieRun: Kingdom】Kpop Demon Hunters as Cookies?! #PR",
-                "thumbnail": "https://i.ytimg.com/vi/fsho0rqHO5c/hqdefault.jpg?v=69e4ef26&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGh8wfee8WBO1l1LXhYLte6Lh1_A",
-                "description": "HiRyS! We running with cookies again (along with my now whaled out account)\nGet the game here! → https://bit.ly/IRySCookie\n\nThanks to Devsisters for sponsoring this video! Earthbread needs..."
-            }
-        ]
+        "videos": []
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -226,14 +219,7 @@
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
         "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ",
-        "videos": [
-            {
-                "video_id": "_Gap2RGZ24E",
-                "title": "Making my island 💙 | Tomodachi Life: Living the Dream",
-                "thumbnail": "https://i.ytimg.com/vi/_Gap2RGZ24E/hqdefault.jpg?v=69e49a9c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3dA2s_Bkz2ctDG84zAjjCwCzxGQ",
-                "description": "∴∴🎶*┈┈┈┈┈┈┈┈┈┈┈┈┈*🎶∴∴\n\n🐦‍⬛twitter: https://x.com/nerissa_en\n🐦‍⬛spotify: https://open.spotify.com/artist/4uzAnzFMXarRPOBAG2lIIa\n🐦‍⬛insta:..."
-            }
-        ]
+        "videos": []
     },
     "@NinomaeInanis": {
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
@@ -365,7 +351,14 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch.Tokoyami Towa",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "pw7yfKkupAY",
+                "title": "【 STREET FIGHTER 6 】ゆめか、わーるどつあーか、カスタムか。【常闇トワ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/pw7yfKkupAY/hqdefault.jpg?v=69e5b848&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBrRmK_r4Ub9h7kYy-Xiqp4XKlSZw",
+                "description": "本日の素敵なサムネイラスト：\nhttps://x.com/harara_illust/status/2024076441399222307\n\nこの動画およびライブは株式会社カプコンの利用許諾を受けて配信して..."
+            }
+        ]
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
