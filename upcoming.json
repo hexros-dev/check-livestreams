@@ -404,15 +404,7 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": [
-            {
-                "video_id": "CM5ora5CHVY",
-                "title": "【ポケモン/リーフグリーン】#3 パラスと一緒に初見ポケモン！！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "date": "2026/04/25 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/CM5ora5CHVY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcOfbN-VeLFtLIxTcgPe2D1ddrvw",
-                "description": "パラスと冒険はじまった！！！！！！！！\n\n配信タイトル：ポケットモンスター リーフグリーン\n公式サイト：https://www.pokemon.co.jp/game/gba/fl/\n\n..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -448,7 +440,15 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "uUFOhSEntNQ",
+                "title": "【重大告知あり】#フブミオ重大告知  究極の２択クイズでお互いをより深く知ろう！！！　【白上フブキ/大神ミオ/ホロライブ】",
+                "date": "2026/04/21 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/uUFOhSEntNQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALnmRs-uFZTydrfwizNQPJp_S0hA",
+                "description": "#フブミオ重大告知 \n大神ミオ @OokamiMio \n━━━━━━━━━━━━━━━━━━━━━━━\n✨️NEW✨️\n🌽🍙にゃんぐこーん  オリジナル楽曲..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
