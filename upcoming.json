@@ -201,15 +201,7 @@
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
-        "videos": [
-            {
-                "video_id": "A_nGezJHkLE",
-                "title": "【Tomodachi Life: Living the Dream】 Pt.6: DO YOU THINK I COULD MAKE THEM FIGHT 【Kureiji Ollie】",
-                "date": "2026/04/21 09:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/A_nGezJHkLE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAB80wQxM4rMTvkcHUk70Q4XMgDjg",
-                "description": "❥・・───༅༚˳ . ୨୧ . ˳༚༅༚─── ・・❥\n\n#OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n────୨｡ ₊°༺❤︎༻°₊ ｡ৎ────\n\n Watch my..."
-            }
-        ]
+        "videos": []
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
@@ -525,7 +517,15 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "gvKYr1paX8Y",
+                "title": "【Tomodachi Life: Living the Dream】customizing to hell and back!!!!!!!!!!!!!【#1】日本語ver",
+                "date": "2026/04/21 22:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/gvKYr1paX8Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCORR0BLjqoKD_Rjny8JXqjEGUBZg",
+                "description": "#vestiazeta #hololive #vtuber #gaming #tomodachilife #holoid #hololiveindonesia \n\n\nNintendo properties used in this video and livestream are used with permission and under license by Nintendo..."
+            }
+        ]
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
