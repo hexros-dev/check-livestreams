@@ -190,7 +190,14 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "yTrD5DqLkow",
+                "title": "【NEW OUTFIT REVEAL】a killer new look...themed after Monster Hunter Stories 3!! #calliolive #ad",
+                "thumbnail": "https://i.ytimg.com/vi/yTrD5DqLkow/hqdefault.jpg?v=69e632d3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZLNdKokfJfV-C2yeDqfRtxu7KEQ",
+                "description": "Get the game now!! https://bit.ly/CalliMHS3\nThis stream is sponsored by Capcom USA\n\n#mhstories3 #monsterhunter #sponsored \n\nRequest from hololive Productions to underage viewers\nPlease search..."
+            }
+        ]
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -436,14 +443,7 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": [
-            {
-                "video_id": "lYiubr9rOa0",
-                "title": "【Sons Of The Forest】 This is where I threw a grenade at Kelvin, PaRappa with @Limealicious !!",
-                "thumbnail": "https://i.ytimg.com/vi/lYiubr9rOa0/hqdefault.jpg?v=69e66ad2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWaxQDnCfoKdHObhDCWH3JIRejHA",
-                "description": "yippee!! horrors beyond imagination!\n\n☁  Thumbnail Art  ☁\nhttps://x.com/NeonLuminous/status/2045577075717980600\nThank you so much!!\n\nMerch: https://ohmonah.shop/collections/nimi-nightmare..."
-            }
-        ]
+        "videos": []
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
