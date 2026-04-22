@@ -63,14 +63,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "YBxVEFPGcPY",
-                "title": "【 #朝こよ 】火曜日…は回線壊れたので水曜日振替！の朝こよ～！☀ #281 【博衣こより/hololive】",
-                "thumbnail": "https://i.ytimg.com/vi/YBxVEFPGcPY/hqdefault.jpg?v=69e747f1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBy2TH8bGPhccgUr92kx-M6Twk1Tg",
-                "description": "🎂博衣こより生誕グッズ2026発売中！(5/7まで)➡ https://shop.hololivepro.com/products/hakuikoyori_birthday_2026\n\n💗LINEスタンプ＆絵文字発売中📱💗\n👇🆕もふこ..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -197,7 +190,14 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "irFK1nb5aVE",
+                "title": "【member's only】finally spring, huh? #calliolive",
+                "thumbnail": "https://i.ytimg.com/vi/irFK1nb5aVE/hqdefault.jpg?v=69e6390f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYLxm_94a1LO9cwxzXt-OY6dgOsw",
+                "description": "DARK FANTASY GOODS RELEASED!\nーーーーーーーーー\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/moricalliope_birthday_2026\nEN: https://shop.hololivepro.com/e..."
+            }
+        ]
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
