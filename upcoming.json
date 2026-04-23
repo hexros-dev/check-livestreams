@@ -29,15 +29,7 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": [
-            {
-                "video_id": "LriFEExbkWk",
-                "title": "『#やりたいと思ってる自分磨き  』 #アキちょこナイパレ 第33回 ～ホロライブ深夜ラジオ～",
-                "date": "2026/04/27 21:40:00",
-                "thumbnail": "https://i.ytimg.com/vi/LriFEExbkWk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCMywnAHurLmHHP_crX4Kzd9BpVsA",
-                "description": "📰最新NEWS🌟\n🎧アキ・ローゼンタール6thオリジナル楽曲リリース開始！\n『モノポリー』https://cover.lnk.to/bF9eML\n\n🍎アキロゼ広告衣装スポンサー募..."
-            }
-        ]
+        "videos": []
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -49,7 +41,15 @@
         "channel_url": "https://www.youtube.com/@AnyaMelfissa",
         "channel_name": "Anya Melfissa Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ZhOP3uIDTf0",
+                "title": "【Supadonoreading】We Have Lots to Catch Up To ~ Part 1! #shorts【hololive ID 2nd Gen | Anya Melfissa】",
+                "date": "2026/04/24 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ZhOP3uIDTf0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9klunt_ZtC01DHnzM30UEqWQNfw",
+                "description": "Support me here/ドネーション↓\nStreamlabs: https://streamlabs.com/anyamelfissachhololive-id/tip\nSociaBuzz: https://sociabuzz.com/anyamelfissa/tribe\n\n--\n【ANYA MELFISSA 2026 BIRTHDAY..."
+            }
+        ]
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -154,7 +154,15 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "YgRGMmcfHO8",
+                "title": "【FREE CHAT】HiRyS!",
+                "date": "2026/04/30 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/YgRGMmcfHO8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCu08lLOoXHgMGX50HfLuVsfnY1dw",
+                "description": "Birthday Celebration 2026 NOW AVAILABLE\n\n▼hololive production OFFICIAL SHOP \n・JP: https://shop.hololivepro.com/products/irys_birthday_2026\n ・EN: https://shop.hololivepro.com/en/products/irys_..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -185,13 +193,6 @@
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w",
         "videos": [
-            {
-                "video_id": "P9QMwh2Yhsw",
-                "title": "【Collector's Cove】sail sail sail ⛵",
-                "date": "2026/04/23 20:15:00",
-                "thumbnail": "https://i.ytimg.com/vi/P9QMwh2Yhsw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3iOuAkRTOcgfg6gVmCjLDnG1gSA",
-                "description": "【Donasi lokal】Traktir yang pahit-pahit kini sangat EZGGWP!~\nLink: https://sociabuzz.com/kaelakovalskia/tribe\n\n#Kaelaif #KaelaKovalskia #holoID #hololive #hololiveID \n∘₊✧──────..."
-            },
             {
                 "video_id": "Ue6dPcJxAJo",
                 "title": "【holoVillage: Our Cozy Days】THE GAME IS FINALLY HERE?!?!?!?!?",
@@ -344,15 +345,7 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": [
-            {
-                "video_id": "29p_t7AVH7o",
-                "title": "【全体同時視聴】「近畿地方のある場所について」観ないか・・・【尾丸ポルカ/ホロライブ】",
-                "date": "2026/04/23 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/29p_t7AVH7o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDY2ZLoX9vm9BsZqVPvxnp9wG_GLw",
-                "description": "レンタルやネトフリやで観られます\n白石監督ワールドを楽しむんだ！！！！！！\n\n\n※尾丸ポルカへ頂いたスパチャは、基本的に毎週木曜日19時か..."
-            }
-        ]
+        "videos": []
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
@@ -365,13 +358,6 @@
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
         "videos": [
-            {
-                "video_id": "4rAspUpRpik",
-                "title": "【#生スバル】スバルの小屋：ゲスト まつり【ホロライブ/大空スバル】",
-                "date": "2026/04/23 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/4rAspUpRpik/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKmlBAn86l0PCBQBSrPFuX7JEXyA",
-                "description": "@NatsuiroMatsuri \n\n🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid..."
-            },
             {
                 "video_id": "yvBNM3WSX1Y",
                 "title": "【#6】ジョジョ第５部同時視聴みるしゅばあああああああああああああああああああああ！！！！：JoJo's Bizarre Adventure: Golden Wind【ホロライブ/大空スバル】",
@@ -501,29 +487,13 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": [
-            {
-                "video_id": "Fn1x0ifIWFU",
-                "title": "【 トモダチコレクション わくわく生活 】初めてのトモコレ生活！！！【角巻わため/ホロライブ４期生】",
-                "date": "2026/04/23 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Fn1x0ifIWFU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCO5xGKjuY3vlNg3WRmD-VP6ISMw",
-                "description": "わきあいあいランド爆誕？！\nタグ：#ドドドライブ \n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n🐏アイドル活..."
-            }
-        ]
+        "videos": []
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
-        "videos": [
-            {
-                "video_id": "aSLi92Chnuo",
-                "title": "【Tomodachi Life: Living the Dream】MORE FRIENDS!!!!!!【#2】日本語ver",
-                "date": "2026/04/23 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/aSLi92Chnuo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBO8Gab9mZ98qxO4D_XJ_-b2JrAow",
-                "description": "#vestiazeta #hololive #vtuber #gaming #tomodachilife #holoid #hololiveindonesia \n\n\nNintendo properties used in this video and livestream are used with permission and under license by Nintendo..."
-            }
-        ]
+        "videos": []
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
