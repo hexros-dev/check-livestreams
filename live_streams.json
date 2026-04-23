@@ -207,7 +207,14 @@
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "-xeBTPuQyvw",
+                "title": "おはよしてっ！",
+                "thumbnail": "https://i.ytimg.com/vi/-xeBTPuQyvw/hqdefault.jpg?v=69ea7c2b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfLmcoRhJ4ElG31ZfFJbNGiGcmTA",
+                "description": "...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\n\n素敵なサムネイル→げんたろ様\n@G_teaLL\n\n\n...｡oо○**○оo｡...｡oо○**○оo..."
+            }
+        ]
     },
     "@NekomataOkayu": {
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
@@ -399,14 +406,7 @@
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48",
-        "videos": [
-            {
-                "video_id": "d9KEUxYutCY",
-                "title": "【MEMBERSHIP】Dirty Dancing Movie Watch-A-Long ~! 💄",
-                "thumbnail": "https://i.ytimg.com/vi/d9KEUxYutCY/hqdefault.jpg?v=69db0072&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXd5geH9yCiuMu7pK_Sa58dgWsnQ",
-                "description": "Movie: Dirty Dancing\n[[ 1987 Movie  ]]\n▬▬ι════════ﺤ\n\n❣ Hashtags ❣\n♡ General: #BFKingdom \n♡ Live: #BloodflameLive\n♡ Art: #BloodflameArt \n\n▬▬ι══════..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_gigimurin": {
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
