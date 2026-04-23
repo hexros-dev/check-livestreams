@@ -21,7 +21,15 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "LriFEExbkWk",
+                "title": "『#やりたいと思ってる自分磨き  』 #アキちょこナイパレ 第33回 ～ホロライブ深夜ラジオ～",
+                "date": "2026/04/27 21:40:00",
+                "thumbnail": "https://i.ytimg.com/vi/LriFEExbkWk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCMywnAHurLmHHP_crX4Kzd9BpVsA",
+                "description": "📰最新NEWS🌟\n🎧アキ・ローゼンタール6thオリジナル楽曲リリース開始！\n『モノポリー』https://cover.lnk.to/bF9eML\n\n🍎アキロゼ広告衣装スポンサー募..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -137,15 +145,7 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": [
-            {
-                "video_id": "YgRGMmcfHO8",
-                "title": "【FREE CHAT】HiRyS!",
-                "date": "2026/04/30 10:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/YgRGMmcfHO8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCu08lLOoXHgMGX50HfLuVsfnY1dw",
-                "description": "Birthday Celebration 2026 NOW AVAILABLE\n\n▼hololive production OFFICIAL SHOP \n・JP: https://shop.hololivepro.com/products/irys_birthday_2026\n ・EN: https://shop.hololivepro.com/en/products/irys_..."
-            }
-        ]
+        "videos": []
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -183,29 +183,7 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w",
-        "videos": [
-            {
-                "video_id": "P9QMwh2Yhsw",
-                "title": "【Collector's Cove】sail sail sail ⛵",
-                "date": "2026/04/23 20:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/P9QMwh2Yhsw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3iOuAkRTOcgfg6gVmCjLDnG1gSA",
-                "description": "【Donasi lokal】Traktir yang pahit-pahit kini sangat EZGGWP!~\nLink: https://sociabuzz.com/kaelakovalskia/tribe\n\n#Kaelaif #KaelaKovalskia #holoID #hololive #hololiveID \n∘₊✧──────..."
-            },
-            {
-                "video_id": "Ue6dPcJxAJo",
-                "title": "【holoVillage: Our Cozy Days】THE GAME IS FINALLY HERE?!?!?!?!?",
-                "date": "2026/04/24 20:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/Ue6dPcJxAJo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKWoiFZ8njRkmhqD0t1WLbjrtGug",
-                "description": "【Donasi lokal】Traktir yang pahit-pahit kini sangat EZGGWP!~\nLink: https://sociabuzz.com/kaelakovalskia/tribe\n\n#Kaelaif #KaelaKovalskia #holoID #hololive #hololiveID \n∘₊✧──────..."
-            },
-            {
-                "video_id": "gMOz6E9lBV4",
-                "title": "【holoVillage: Our Cozy Days】slow living, peaceful life 😇 no Ckia is allowed here",
-                "date": "2026/04/25 20:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/gMOz6E9lBV4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdigPBUX1P9tAQ6TiKOaJaXgR4qA",
-                "description": "【Donasi lokal】Traktir yang pahit-pahit kini sangat EZGGWP!~\nLink: https://sociabuzz.com/kaelakovalskia/tribe\n\n#Kaelaif #KaelaKovalskia #holoID #hololive #hololiveID \n∘₊✧──────..."
-            }
-        ]
+        "videos": []
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
@@ -367,7 +345,15 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "29p_t7AVH7o",
+                "title": "【全体同時視聴】「近畿地方のある場所について」観ないか・・・【尾丸ポルカ/ホロライブ】",
+                "date": "2026/04/23 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/29p_t7AVH7o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDY2ZLoX9vm9BsZqVPvxnp9wG_GLw",
+                "description": "レンタルやネトフリやで観られます\n白石監督ワールドを楽しむんだ！！！！！！\n\n\n※尾丸ポルカへ頂いたスパチャは、基本的に毎週木曜日19時か..."
+            }
+        ]
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
@@ -482,7 +468,15 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "TbJodPWChyg",
+                "title": "【トモコレ】はじめてのトモコレ！わくわく生活あじまる！！【白銀ノエル/ホロライブ】",
+                "date": "2026/04/23 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/TbJodPWChyg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBNpluQ2s6ZTFrUEQvrweaNuE6yw",
+                "description": "ふふふ\n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n💚新曲「VAVAVA！バーチャル大分」MV公開中🌏\nhttps://youtu.be/..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -494,15 +488,7 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": [
-            {
-                "video_id": "-5P17BxVZTE",
-                "title": "【SLAY THE SPIRE 2】this thumbnail says i must play necrobinder #kfp #キアライブ",
-                "date": "2026/04/23 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/-5P17BxVZTE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2FPkoqWJrVTSEZpdHQoXuWmKjaA",
-                "description": "VOGELFREI 2nd Round Preorder!  https://shop.hololivepro.com/products/takanashikiara_2ndalbum_vogelfrei_secondaryorder\n\n\n🏵️[Twitter] 🏵️\nhttps://twitter.com/takanashikiara\n\n 🏵️[Hashtag..."
-            }
-        ]
+        "videos": []
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",

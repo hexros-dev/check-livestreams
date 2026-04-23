@@ -262,7 +262,14 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "RL8acX-1vBU",
+                "title": "【Pragmata】Good Parent I Am",
+                "thumbnail": "https://i.ytimg.com/vi/RL8acX-1vBU/hqdefault.jpg?v=69e97aa9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpQLK_fwJG9gWU1mEsAQP2dbNQOg",
+                "description": "🎶💿 Ouro Kronii’s FIRST EP [Way 2 U] LP + CD Pre-Order Release (Available from 13:00 JST) :\nJP: https://shop.hololivepro.com/products/ourokronii_1step_way2u \nEN: https://shop.hololivepro.com..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
@@ -358,14 +365,7 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch.Tokoyami Towa",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": [
-            {
-                "video_id": "HCumIb3P--g",
-                "title": "【 The Mr. Rabbit Magic Show 】クリックで謎解き【常闇トワ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/HCumIb3P--g/hqdefault.jpg?v=69e97dfa&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnLvtJVqlzIg5k_vdvNLMOLvLqdw",
-                "description": "配信タイトル：The Mr. Rabbit Magic Show\nストアページ：https://store.steampowered.com/app/3472550/The_Mr_Rabbit_Magic_Show/\n\n✼••┈┈┈┈┈┈┈┈┈┈┈┈••✼..."
-            }
-        ]
+        "videos": []
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
