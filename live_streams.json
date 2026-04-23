@@ -207,14 +207,7 @@
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
-        "videos": [
-            {
-                "video_id": "-xeBTPuQyvw",
-                "title": "おはよしてっ！",
-                "thumbnail": "https://i.ytimg.com/vi/-xeBTPuQyvw/hqdefault.jpg?v=69ea7c2b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfLmcoRhJ4ElG31ZfFJbNGiGcmTA",
-                "description": "...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\n\n素敵なサムネイル→げんたろ様\n@G_teaLL\n\n\n...｡oо○**○оo｡...｡oо○**○оo..."
-            }
-        ]
+        "videos": []
     },
     "@NekomataOkayu": {
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
@@ -436,7 +429,14 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "2XMWRpsHdYY",
+                "title": "【The Roottrees Are Dead DLC】 Continuing cozy community content!",
+                "thumbnail": "https://i.ytimg.com/vi/2XMWRpsHdYY/hqdefault.jpg?v=69ea82e4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATTlD4JEAK732RQimFBqJ8hkPjNQ",
+                "description": "Cozy members puzzling ahoy!\n\nMerch: https://ohmonah.shop/collections/nimi-nightmare\n\n  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋\n\nKonbakuwa! I'm Nimi, the baku nurse VTuber of your nightmares~..."
+            }
+        ]
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
