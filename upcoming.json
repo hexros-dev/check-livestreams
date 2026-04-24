@@ -82,13 +82,6 @@
                 "date": "2026/04/26 07:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/nlPYABsRG8o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDroBdKMJto4Sy84RY4bzY_5sS0QQ",
                 "description": "rain or shine, sickness or health, we're here side by side✨️\nlovely illustration by @yenkoes 💕\n\n🩵 FUWAMOCO 𝗡𝗘𝗪 𝗢𝗥𝗜𝗚𝗜𝗡𝗔𝗟 𝗦𝗢𝗡𝗚 \"Mekurumeku..."
-            },
-            {
-                "video_id": "o-agU3sJWBg",
-                "title": "【HOLOVILLAGE】癒されまっくす🌱 first look at the comfiest hololive farming game 🐾 【FUWAMOCO｜ぷちホロの村】",
-                "date": "2026/04/24 15:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/o-agU3sJWBg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnpkkOtUV0jEHUY3qbK8kQSBxRQA",
-                "description": "i (mococo) have been insanely excited for this ever since it was first announced ✨️\nfarming, and cooking, and exploring, and dress-up and more!!\n\n🩵 FUWAMOCO 𝗡𝗘𝗪 𝗢𝗥𝗜𝗚𝗜..."
             }
         ]
     },
@@ -234,15 +227,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": [
-            {
-                "video_id": "aOO06lRjhpI",
-                "title": "【ぷちホロの村 - 剣とお店と田舎暮らし】農業したり探検もできる！スローライフ始めます！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "date": "2026/04/24 16:10:00",
-                "thumbnail": "https://i.ytimg.com/vi/aOO06lRjhpI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDu3G6i3QbltmioA_Jg35hOm3ti6A",
-                "description": "■綺々羅々ヴィヴィ 50万人記念グッズ\n■販売URL\nhttps://shop.hololivepro.com/products/kikiraravivi_subscribers_500k\n【販売期間】\n販売開始：2026年3月27日(金)..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -266,7 +251,22 @@
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "YTAWeyM_YuM",
+                "title": "【hololive OCG UNBOXING】Handcam: WE'RE OPENING 50+ BOXES???【Kureiji Ollie】",
+                "date": "2026/04/25 15:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/YTAWeyM_YuM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBkB7VaWT-IXpZvFDpmsa6klgN7XA",
+                "description": "❥・・───༅༚˳ . ୨୧ . ˳༚༅༚─── ・・❥\n\n#OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n────୨｡ ₊°༺❤︎༻°₊ ｡ৎ────\n\n Watch my..."
+            },
+            {
+                "video_id": "nc6UtX5R35E",
+                "title": "【HYTALE - EN&ID Server】  Pt.3: I MAY HAVE BEEN A BIT DISTRACTED BUT I'M BACK 【Kureiji Ollie】",
+                "date": "2026/04/24 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/nc6UtX5R35E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWA5Y0CLc_ZPP7UlIL7AFj7dnEHg",
+                "description": "❥・・───༅༚˳ . ୨୧ . ˳༚༅༚─── ・・❥\n\n#OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n────୨｡ ₊°༺❤︎༻°₊ ｡ৎ────\n\n Watch my..."
+            }
+        ]
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
@@ -361,7 +361,15 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "QL6lUxXWBiU",
+                "title": "【Hytale】NO IDEA WHAT I'M DOING!!!! HELP",
+                "date": "2026/04/24 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/QL6lUxXWBiU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgy3r2yZUSuR0-II5nq4iX0RFu2w",
+                "description": "【Thumbnail Art】\nhttps://x.com/fcjfior/status/2038642621598593461\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\nGame title：Hytale\nOfficial site：https://hytale.com/\n#holohytale \n_________..."
+            }
+        ]
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -525,7 +533,15 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ZEBQVa3LGOI",
+                "title": "【メンバー限定/Member only】SSRB総会 2026/4月号【獅白ぼたん/ホロライブ】",
+                "date": "2026/04/24 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ZEBQVa3LGOI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyS4r2MzNbb-sLHv2l8a7KCf_SVg",
+                "description": "SSRB総会とは、SSRBにむけて月1回ししろんがいろんなこぼれ話をするメンバーシップ限定の配信です\n感想やお便りは #SSRB総会 またはマシュマロまで..."
+            }
+        ]
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
@@ -708,7 +724,7 @@
                 "title": "【テイルズ オブ ジ アビス】はじめてのテイルズシリーズ！生まれた意味を知るRPGやる！TALES OF THE ABYSS ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意",
                 "date": "2026/04/25 10:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/1pJ3WJ8QUaA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRvz9a00aPmZI_kxD488VTSK_2kw",
-                "description": "なんだこのギスギスパーティは（面白い）\n\nサムネイラスト：とうちさん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://t..."
+                "description": "ご主人様…元気出してですの\n\nサムネイラスト：とうちさん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadape..."
             },
             {
                 "video_id": "Yc2DMfXRm14",
