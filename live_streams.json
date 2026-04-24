@@ -28,7 +28,14 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "vs5F14UA-Wo",
+                "title": "【メンバー限定/Member】歌いながら歌リスト作ろ【ホロライブ/アキロゼ】",
+                "thumbnail": "https://i.ytimg.com/vi/vs5F14UA-Wo/hqdefault.jpg?v=69eb792e&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANTbxstGanjTpLXhN3GmAR71VXmQ",
+                "description": "メンバー限定配信タグ  #蔦の間\n▼人間は弱いTシャツの販売URL\nhttps://www.amazon.co.jp/dp/B0GRVR7TWT\n\n開催中イベント詳細はコチラをcheck\nアキ・ローゼンタ..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -40,14 +47,7 @@
         "channel_url": "https://www.youtube.com/@AnyaMelfissa",
         "channel_name": "Anya Melfissa Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz",
-        "videos": [
-            {
-                "video_id": "Yey0cW9RnPU",
-                "title": "【Pode】BEST TEAMWORK INCOMING! ゼーニャで協力プレイ！【hololive ID 2nd Generation | Anya Melfissa】",
-                "thumbnail": "https://i.ytimg.com/vi/Yey0cW9RnPU/hqdefault.jpg?v=69eae224&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcKOC3IehVTBiQZxP9z-FzVW46vg",
-                "description": "Support me here/ドネーション↓\nStreamlabs: https://streamlabs.com/anyamelfissachhololive-id/tip\nSociaBuzz(Local Donation): https://sociabuzz.com/anyamelfissa/tribe \n\n--\nGame Title: Pode..."
-            }
-        ]
+        "videos": []
     },
     "@CeresFauna": {
         "channel_url": "https://www.youtube.com/@CeresFauna",
@@ -59,14 +59,7 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": [
-            {
-                "video_id": "o-agU3sJWBg",
-                "title": "【HOLOVILLAGE】癒されまっくす🌱 first look at the comfiest hololive farming game 🐾 【FUWAMOCO｜ぷちホロの村】",
-                "thumbnail": "https://i.ytimg.com/vi/o-agU3sJWBg/hqdefault.jpg?v=69e99ad1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnpkkOtUV0jEHUY3qbK8kQSBxRQA",
-                "description": "i (mococo) have been insanely excited for this ever since it was first announced ✨️\nfarming, and cooking, and exploring, and dress-up and more!!\n\n🩵 FUWAMOCO 𝗡𝗘𝗪 𝗢𝗥𝗜𝗚𝗜..."
-            }
-        ]
+        "videos": []
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -84,7 +77,14 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "1SvVtoggBxw",
+                "title": "【Membership Only】holoXライブ直前！4月のまったり雑談.。☆*【博衣こより/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/1SvVtoggBxw/hqdefault.jpg?v=69e9c36a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBtyMoyJcNqz13N3NSPgg2F4kJgw",
+                "description": "メン限でまったりおしゃべりしよ～～～～～～～～(ᐡ  - ᴥ -  ᐡ)💗\n【大切なお約束！！！】\n⚠メンバー限定で発信している配信内容での発言や..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -151,20 +151,20 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Ue6dPcJxAJo",
+                "title": "【holoVillage: Our Cozy Days】THE GAME IS FINALLY HERE?!?!?!?!?",
+                "thumbnail": "https://i.ytimg.com/vi/Ue6dPcJxAJo/hqdefault.jpg?v=69e75e04&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKWoiFZ8njRkmhqD0t1WLbjrtGug",
+                "description": "【Donasi lokal】Traktir yang pahit-pahit kini sangat EZGGWP!~\nLink: https://sociabuzz.com/kaelakovalskia/tribe\n\n#Kaelaif #KaelaKovalskia #holoID #hololive #hololiveID \n∘₊✧──────..."
+            }
+        ]
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": [
-            {
-                "video_id": "aOO06lRjhpI",
-                "title": "【ぷちホロの村 - 剣とお店と田舎暮らし】農業したり探検もできる！スローライフ始めます！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "thumbnail": "https://i.ytimg.com/vi/aOO06lRjhpI/hqdefault.jpg?v=69ead08f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDu3G6i3QbltmioA_Jg35hOm3ti6A",
-                "description": "■綺々羅々ヴィヴィ 50万人記念グッズ\n■販売URL\nhttps://shop.hololivepro.com/products/kikiraravivi_subscribers_500k\n【販売期間】\n販売開始：2026年3月27日(金)..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -188,14 +188,7 @@
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
-        "videos": [
-            {
-                "video_id": "nc6UtX5R35E",
-                "title": "【HYTALE - EN&ID Server】  Pt.3: I MAY HAVE BEEN A BIT DISTRACTED BUT I'M BACK 【Kureiji Ollie】",
-                "thumbnail": "https://i.ytimg.com/vi/nc6UtX5R35E/hqdefault.jpg?v=69ea434d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWA5Y0CLc_ZPP7UlIL7AFj7dnEHg",
-                "description": "❥・・───༅༚˳ . ୨୧ . ˳༚༅༚─── ・・❥\n\n#OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n────୨｡ ₊°༺❤︎༻°₊ ｡ৎ────\n\n Watch my..."
-            }
-        ]
+        "videos": []
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
@@ -275,14 +268,7 @@
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
         "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ",
-        "videos": [
-            {
-                "video_id": "vNTicmHdDqk",
-                "title": "Quietly and politely doing my dailies | Tomodachi Life: Living the Dream",
-                "thumbnail": "https://i.ytimg.com/vi/vNTicmHdDqk/hqdefault.jpg?v=69eb4df7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzsef5sG2PgiYRxmoKyC8yb6GbIA",
-                "description": "∴∴🎶*┈┈┈┈┈┈┈┈┈┈┈┈┈*🎶∴∴\n\n🐦‍⬛twitter: https://x.com/nerissa_en\n🐦‍⬛spotify: https://open.spotify.com/artist/4uzAnzFMXarRPOBAG2lIIa\n🐦‍⬛insta:..."
-            }
-        ]
+        "videos": []
     },
     "@NinomaeInanis": {
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
@@ -306,14 +292,7 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": [
-            {
-                "video_id": "yvBNM3WSX1Y",
-                "title": "【#6】ジョジョ第５部同時視聴みるしゅばあああああああああああああああああああああ！！！！：JoJo's Bizarre Adventure: Golden Wind【ホロライブ/大空スバル】",
-                "thumbnail": "https://i.ytimg.com/vi/yvBNM3WSX1Y/hqdefault.jpg?v=69eb6a72&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBU_ZzNqIagdJas98KWMGTGm8kfsA",
-                "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n\n🔽楽曲各..."
-            }
-        ]
+        "videos": []
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -331,7 +310,14 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "dIXXRzyZBrE",
+                "title": "【Tomodachi Life】MAKING KOBO ZETA AND MORE DRAMA【Pavolia Reine/hololiveID】",
+                "thumbnail": "https://i.ytimg.com/vi/dIXXRzyZBrE/hqdefault.jpg?v=69eb6c96&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDe875sTeV0j4eFOwkyW07gXsbw-Q",
+                "description": "Pavolia Reine Keyboard Collection Preorders: https://hololive-keyboards-shop.fourthwall.com/\nClosing on April 27th!\n\nNintendo properties used in this video and livestream are used with permission..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -417,13 +403,27 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "CDk5B51_rGc",
+                "title": "【 定期雑談 】もうすぐholoXライブだね☺色々お話するでぇ！！！  #もう金ルイ 【鷹嶺ルイ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/CDk5B51_rGc/hqdefault.jpg?v=69eb44b3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCtTpge61zIGN9TcABiD85JlDIaw",
+                "description": "相談事あればマシュマロで教えてね☺\nhttps://marshmallow-qa.com/takanelui?t=GAGntZ&utm_medium=url_text&utm_source=promotion\n\nサムネ：みなづき。様 (@minaduki223)\nロゴデ..."
+            }
+        ]
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "IZVXxaL2KXo",
+                "title": "＃７【ぽこ あポケモン】まったりぽこあ✨【轟はじめ/ReGLOSS】",
+                "thumbnail": "https://i.ytimg.com/vi/IZVXxaL2KXo/hqdefault.jpg?v=69eb1a82&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANV6vfaQmfWbFh_cfEoBwVJ3DK_Q",
+                "description": "素敵なサムネお写真：おまんじゅう様（@manju_0083KRN）\n\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n✨オリジナル曲宣伝✨\nNEW！！🏀【Original】Dunk/轟..."
+            }
+        ]
     },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
@@ -502,7 +502,14 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "tD0qcZEvWjc",
+                "title": "【HYTALE】GO BIG OR GO HOME!!!【Raora Panthera】",
+                "thumbnail": "https://i.ytimg.com/vi/tD0qcZEvWjc/hqdefault.jpg?v=69eacd19&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPqCgYtpx_woDBT0gNF8pxApDF0g",
+                "description": "╭─⋆｡ﾟ♡ RAO ♡｡ﾟ⋆─╮\n\nMy first Original Song is OUT!\n˗ˏˋ 𝔾𝕒𝕔𝕙𝕒×𝔾𝕒𝕔𝕙𝕒 𝔸𝔻𝕍𝔼ℕ𝕋𝕌ℝ𝔼! ˎˊ˗\n🐱https://youtu.be/1BTd20qIf..."
+            }
+        ]
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
@@ -526,14 +533,7 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": [
-            {
-                "video_id": "Yc2DMfXRm14",
-                "title": "【初見】友達が少ないウサギが『トモダチコレクション わくわく生活』で最高の島を作る！ぺこ！【ホロライブ/兎田ぺこら】",
-                "thumbnail": "https://i.ytimg.com/vi/Yc2DMfXRm14/hqdefault.jpg?v=69eb37cf&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxgtwJZdRYosU2dOBQyAK2bVa4zQ",
-                "description": "サムネイラスト：()さん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ #ぺこらいぶ..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
