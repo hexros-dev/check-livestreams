@@ -21,7 +21,15 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "LriFEExbkWk",
+                "title": "『#やりたいと思ってる自分磨き  』 #アキちょこナイパレ 第33回 ～ホロライブ深夜ラジオ～",
+                "date": "2026/04/27 21:40:00",
+                "thumbnail": "https://i.ytimg.com/vi/LriFEExbkWk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCMywnAHurLmHHP_crX4Kzd9BpVsA",
+                "description": "📰最新NEWS🌟\n🎧アキ・ローゼンタール6thオリジナル楽曲リリース開始！\n『モノポリー』https://cover.lnk.to/bF9eML\n\n🍎アキロゼ広告衣装スポンサー募..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -88,7 +96,7 @@
         "videos": [
             {
                 "video_id": "PPO43lOYItI",
-                "title": "【プラグマタ】神ゲーと話題沸騰中！6年以上かかったカプコンさん渾身の完全新作、土日でクリアする！！！ #1 【博衣こより/ホロライブ】※ネタバレを含みます",
+                "title": "【プラグマタ】神ゲーと話題沸騰中！カプコンさん渾身の完全新作！土日でクリアする！！！ #1 【博衣こより/ホロライブ】※ネタバレを含みます",
                 "date": "2026/04/25 09:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/PPO43lOYItI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDshK2HVBLY5PwqCsdfcHWMCcp0ag",
                 "description": "TGSでやった体験版もめちゃめちゃ面白くて気になっていたカプコンさんの完全新作！ディアナちゃんにデレデレしながら土日でクリアします！🎮..."
@@ -106,15 +114,7 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": [
-            {
-                "video_id": "JcA7ZXQmajk",
-                "title": "【 モンスターハンターストーリーズ3 】初めてのモンハンストーリーズで遊んでみるのら！！！【姫森ルーナ/ホロライブ】",
-                "date": "2026/04/26 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/JcA7ZXQmajk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAIqEh4ITePZKeSzUZsosyG5Ui1Zg",
-                "description": "提供：株式会社カプコン\n\n『モンスターハンターストーリーズ3　～運命の双竜～』 好評発売中\n対応ハード：Nintendo Switch™ 2 、PlayStation®5、Xbox..."
-            }
-        ]
+        "videos": []
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -184,7 +184,15 @@
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "gMOz6E9lBV4",
+                "title": "【holoVillage: Our Cozy Days】slow living, peaceful life 😇 no Ckia is allowed here",
+                "date": "2026/04/25 20:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/gMOz6E9lBV4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdigPBUX1P9tAQ6TiKOaJaXgR4qA",
+                "description": "【Donasi lokal】Traktir yang pahit-pahit kini sangat EZGGWP!~\nLink: https://sociabuzz.com/kaelakovalskia/tribe\n\n#Kaelaif #KaelaKovalskia #holoID #hololive #hololiveID \n∘₊✧──────..."
+            }
+        ]
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
@@ -242,7 +250,29 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "06Pd0IJyDbg",
+                "title": "【BLEACH Rebirth of Souls】完全初見 どんな話なんだ…！#8【水宮枢／ホロライブDEV_IS】",
+                "date": "2026/04/25 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/06Pd0IJyDbg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCugwt-EDRcD2yWou7lJvuTPcMkRw",
+                "description": "このゲーム実況は「バンダイナムコエンターテインメント ゲーム実況ポリシー」に基づき制作・配信されています。\nhttps://www.bandainamcoent.co.jp/info/v..."
+            },
+            {
+                "video_id": "Lri_lJmao7c",
+                "title": "【ASMR】メン限お試し15分・微糖…？バイノーラルでお話☁️【水宮枢／ホロライブDEV_IS】",
+                "date": "2026/04/26 20:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/Lri_lJmao7c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRSlVLWcmvr1irvMDJcjpUKXdOTA",
+                "description": "▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸◂┄▹◃\n\n💙メンバーシップはこちらから ⬇️\nClick here for membership\nhttps://www.youtube.com/channel/UCjk2nKmHzgH5Xy-C5qYRd5A/j..."
+            },
+            {
+                "video_id": "uuR4XidyQfk",
+                "title": "【ASMR】メン限枠・甘々に囁き…今日は全肯定🩵【水宮枢／ホロライブDEV_IS】",
+                "date": "2026/04/26 20:50:00",
+                "thumbnail": "https://i.ytimg.com/vi/uuR4XidyQfk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1iDuCtmgX96_3CMCYM2n1ZoAa7g",
+                "description": "▹◃┄▸◂┄▹◃┄▸◂┄▹◃┄▸◂┄▹◃\n\n💙メンバーシップはこちらから ⬇️\nClick here for membership\nhttps://www.youtube.com/channel/UCjk2nKmHzgH5Xy-C5qYRd5A/j..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -260,7 +290,15 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "DTdqMWLP7BU",
+                "title": "【holoVillage: Our Cozy Days】they sent her to a farm upstate #calliolive",
+                "date": "2026/04/25 09:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/DTdqMWLP7BU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTjPk4a3tx4rs5B73eYZCYKc-jpw",
+                "description": "DARK FANTASY GOODS AVAILABLE NOW!\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/moricalliope_birthday_2026\nEN: https://shop.hololivepro.com/en/products/moricalliope..."
+            }
+        ]
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -325,7 +363,15 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "P35xVr65j1Y",
+                "title": "【Arknights: Endfield】Chubby Lung Enjoyers Unite!!!! New Content!!!!",
+                "date": "2026/04/25 07:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/P35xVr65j1Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-xfK7xCC9q0forh467BVROIzj5Q",
+                "description": "Arknights: Endfield is available on PlayStation®5! Download the game now: https://store.playstation.com/concept/10009205/ \n\n#PR #PlayStation5 #ps5 #ps5games #arknightsendfield \n\n【Twitter】..."
+            }
+        ]
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -454,7 +500,15 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "unOVkX7TbAQ",
+                "title": "【退院しました】生誕の次の日に急性虫垂炎で入院したってマジ？【不知火フレア/ホロライブ】",
+                "date": "2026/04/25 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/unOVkX7TbAQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFpWs4sZCHLWCUqeB_zdXPmh6iTQ",
+                "description": "🎂✨不知火フレア 誕生日記念2026グッズ✨🎂\n■販売ページURL\nhttps://shop.hololivepro.com/products/shiranuiflare_birthday_2026\n■グッズ販売期間（受注販売）..."
+            }
+        ]
     },
     "@ShiroganeNoel": {
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
@@ -514,15 +568,7 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": [
-            {
-                "video_id": "QTHO1h2Utbg",
-                "title": "【重大告知】ときのそら覚悟決めました。【ホロライブ/ときのそら】",
-                "date": "2026/04/27 17:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/QTHO1h2Utbg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxBnBFBy413Te4B3wtE5LnNxOz5A",
-                "description": "告知まではぬんぬん史について語るか・・・。\n\n✨お知らせ✨\n⭐4月22日(水)Live Blu-ray 『ときのそら 8th Anniversary Party「Starry Bl∞min’」』発売決定！..."
-            }
-        ]
+        "videos": []
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
@@ -577,13 +623,6 @@
                 "date": "2026/04/26 20:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/rQ8vgiY-alM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxa_oNFv161g6fDC-yllcHawnG_A",
                 "description": "brattea!\n--------------------------\nHashtags\n📺 Livestream: #ImmerScreen \n🎨 Fanart: #Immergination\n🎻 Music: #ImmerPiece\n🤡 Memes: #ImmerMemes \n--------------------------\n\n\n---------------..."
-            },
-            {
-                "video_id": "wc-51Z-2a7M",
-                "title": "【PRAGMATA】SHE HAS HER MOTHER'S EYES  #sponsored",
-                "date": "2026/04/25 01:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/wc-51Z-2a7M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQPvUO6ZVraylSkavjG2tKsxZCNQ",
-                "description": "Thank you to Capcom for sponsoring this stream! #pragmata #sponsored \nCheck PRAGMATA out here!! CLICK IT!  https://l.capcom.gg/c/s7znz4 hehe\n\n--------------------------\nHashtags\n📺 Livestream:..."
             }
         ]
     },
@@ -618,7 +657,15 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "AOYpCVCTzco",
+                "title": "【HYTALE】I DON'T KNOW HOW TO STOP【Raora Panthera】",
+                "date": "2026/04/25 09:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/AOYpCVCTzco/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCodfRe9GzFcf7lWokxFhFd5UUMg",
+                "description": "╭─⋆｡ﾟ♡ RAO ♡｡ﾟ⋆─╮\n\nMy first Original Song is OUT!\n˗ˏˋ 𝔾𝕒𝕔𝕙𝕒×𝔾𝕒𝕔𝕙𝕒 𝔸𝔻𝕍𝔼ℕ𝕋𝕌ℝ𝔼! ˎˊ˗\n🐱https://youtu.be/1BTd20qIf..."
+            }
+        ]
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
@@ -642,7 +689,15 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "1pJ3WJ8QUaA",
+                "title": "【テイルズ オブ ジ アビス】はじめてのテイルズシリーズ！生まれた意味を知るRPGやる！TALES OF THE ABYSS ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意",
+                "date": "2026/04/25 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/1pJ3WJ8QUaA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRvz9a00aPmZI_kxD488VTSK_2kw",
+                "description": "ご主人様…元気出してですの\n\nサムネイラスト：とうちさん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadape..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
