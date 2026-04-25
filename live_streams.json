@@ -181,14 +181,7 @@
         "channel_url": "https://www.youtube.com/@KureijiOllie",
         "channel_name": "Kureiji Ollie Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA",
-        "videos": [
-            {
-                "video_id": "YTAWeyM_YuM",
-                "title": "【hololive OCG UNBOXING】Handcam: WE'RE OPENING 50+ BOXES???【Kureiji Ollie】",
-                "thumbnail": "https://i.ytimg.com/vi/YTAWeyM_YuM/hqdefault.jpg?v=69e6584f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBkB7VaWT-IXpZvFDpmsa6klgN7XA",
-                "description": "❥・・───༅༚˳ . ୨୧ . ˳༚༅༚─── ・・❥\n\n#OLLIEginal #Kureiji_Ollie #holoID #hololive \n\n────୨｡ ₊°༺❤︎༻°₊ ｡ৎ────\n\n Watch my..."
-            }
-        ]
+        "videos": []
     },
     "@LaplusDarknesss": {
         "channel_url": "https://www.youtube.com/@LaplusDarknesss",
@@ -462,7 +455,14 @@
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
         "channel_name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "PGppUhILuP4",
+                "title": "【3D BIRTHDAY LIVE】NOW That's an 80s BOP! #ERBday2026",
+                "thumbnail": "https://i.ytimg.com/vi/PGppUhILuP4/hqdefault.jpg?v=69ea8887&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALLwZo2lE52GBa2wlJEHTzAq5K-A",
+                "description": "MY FIRST BIRTHDAY LIVE! HUZZAH! \n▬▬ι════════ﺤ\n❣ Special Guests on ERBtv ❣\n* Sora @TokinoSora \n* Marine @HoushouMarine  \n* Iroha @kazamairoha \n* Korone @InugamiKorone..."
+            }
+        ]
     },
     "@holoen_gigimurin": {
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
@@ -504,13 +504,6 @@
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": [
-            {
-                "video_id": "K-od-aY-ZI4",
-                "title": "【歌枠】おひさしぶりのアニソン老人会会場",
-                "thumbnail": "https://i.ytimg.com/vi/K-od-aY-ZI4/hqdefault.jpg?v=69ec79d1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBH073BVF4jcyN-dQf5vsNe2tmrnQ",
-                "description": "🎀グッズ・ボイス販売はこちら🐾\nhttps://yuki-sakuna.stores.jp/\n\n🎀歌ってみた動画🐾\nhttps://youtube.com/playlist?list=PLErsMirGq93vRw-CcRaaZfR4QVxl2uBsb&si=BRmEr8erE6aR-UJ..."
-            }
-        ]
+        "videos": []
     }
 }
