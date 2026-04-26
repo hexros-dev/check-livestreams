@@ -135,14 +135,7 @@
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
         "channel_name": "Kobo Kanaeru Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B",
-        "videos": [
-            {
-                "video_id": "z-iDg5HmikY",
-                "title": "【Watchalong | LCS】C9 cs SR, i’m supporting the blue one #LCSCostream",
-                "thumbnail": "https://i.ytimg.com/vi/z-iDg5HmikY/hqdefault.jpg?v=69ed185c&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTWIogS1eJssZpIbbKz2bXZ0hboQ",
-                "description": "Bokobokobo- Kobo Kanaeru at your service! Let me be your sun to shine your day, ehe~ ;D ☔☔☔\n#OnAeru #Kobo_Kanaeru #holoID #holoid03 #LCSCostream\n\n==================================\nDONASI..."
-            }
-        ]
+        "videos": []
     },
     "@KoganeiNiko": {
         "channel_url": "https://www.youtube.com/@KoganeiNiko",
@@ -239,7 +232,14 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Md7Fi0Na_PI",
+                "title": "【MEMBERS】Drawn to Dawn Watchalong!!!",
+                "thumbnail": "https://i.ytimg.com/vi/Md7Fi0Na_PI/hqdefault.jpg?v=69ed4987&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIXRQAl3KP-wmj4M5qjJYSBCvUsQ",
+                "description": "※ Live footage and audio from the main performance will not be streamed. Please ensure you have your \"Online Streaming Ticket\" ready before joining.\n\n▼ Purchase your streaming ticket here..."
+            }
+        ]
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -347,7 +347,14 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "duYIshsxbVE",
+                "title": "【 ドラゴンボールZ KAKAROT 】完全初見！そして10年後編・・・！！！【鷹嶺ルイ/ホロライブ】※ネタバレあり",
+                "thumbnail": "https://i.ytimg.com/vi/duYIshsxbVE/hqdefault.jpg?v=69ec87d4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGCuyPo5tcVkSKto0lT8GOsMXJOA",
+                "description": "10年後どうなっているんだ・・・！？\n\nこのゲーム実況は「バンダイナムコエンターテインメント ゲーム実況ポリシー」に基づき制作・配信されて..."
+            }
+        ]
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
