@@ -96,7 +96,7 @@
         "videos": [
             {
                 "video_id": "WqOQkIS_rLc",
-                "title": "【 鳴潮 】みんなとPV視聴会するのら！！第2章 Ver.2.8 ＃13【姫森ルーナ/ホロライブ】",
+                "title": "【 鳴潮 】みんなとPV鑑賞会するのら！！第2章 Ver.2.8 ＃13【姫森ルーナ/ホロライブ】",
                 "date": "2026/04/27 17:00:00",
                 "thumbnail": "https://i.ytimg.com/vi/WqOQkIS_rLc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAukroi4yrnciqvdBlCvH8nMs9-_Q",
                 "description": "第2章第11幕クリアまでクリア済み(・o・🍬)\n\n鳴潮再生リスト\nhttps://www.youtube.com/playlist?list=PL6gUpTCMieF5tt-S0Yty858pGwr-JUz_0\n\n鳴潮\nhttps://wutheringwaves.kurogames.c..."
@@ -125,7 +125,15 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "YgRGMmcfHO8",
+                "title": "【FREE CHAT】HiRyS!",
+                "date": "2026/04/30 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/YgRGMmcfHO8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCu08lLOoXHgMGX50HfLuVsfnY1dw",
+                "description": "Birthday Celebration 2026 NOW AVAILABLE\n\n▼hololive production OFFICIAL SHOP \n・JP: https://shop.hololivepro.com/products/irys_birthday_2026\n ・EN: https://shop.hololivepro.com/en/products/irys_..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -329,15 +337,7 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": [
-            {
-                "video_id": "5TjBUCjv64A",
-                "title": "【#朝ミオ 】月曜日だよ～！おはみぉーん！",
-                "date": "2026/04/27 05:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/5TjBUCjv64A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3hPjBoDKzYdtJgSNDDfPEAcoymQ",
-                "description": "わぁ～GW来る～～～\n\n#朝ミオおたより Twitter(X)で募集中です🌟\n今回紹介するお題は、『行って良かった観光地』です！\n\nサムネillustrator：いさぴさ..."
-            }
-        ]
+        "videos": []
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -361,15 +361,7 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": [
-            {
-                "video_id": "8WDjITW8Q80",
-                "title": "【Tomodachi Life】More Double D's: Drawing & Drama【Pavolia Reine/hololiveID】",
-                "date": "2026/04/26 21:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/8WDjITW8Q80/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxSUiJTNfhvXVDjMBMmQHYLs75SA",
-                "description": "Pavolia Reine Keyboard Collection Preorders: https://hololive-keyboards-shop.fourthwall.com/\nClosing on April 27th!\n\nNintendo properties used in this video and livestream are used with permission..."
-            }
-        ]
+        "videos": []
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
@@ -459,7 +451,15 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "G056d3IIO-M",
+                "title": "【TOMODACHI LIFE 2】MANY NEW ADDITIONS...!!! And surprising relations... #kfp #キアライブ",
+                "date": "2026/04/26 23:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/G056d3IIO-M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApTB5m_fc4HnTsfo3elmGcvmWcOw",
+                "description": "VOGELFREI 2nd Round Preorder!  https://shop.hololivepro.com/products/takanashikiara_2ndalbum_vogelfrei_secondaryorder\nCONCERT STREAMING TICKETS: https://drawn-to-dawn.hololivepro.com/ticket..."
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
@@ -477,15 +477,7 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": [
-            {
-                "video_id": "QTHO1h2Utbg",
-                "title": "【重大告知】ときのそら覚悟決めました。【ホロライブ/ときのそら】",
-                "date": "2026/04/27 17:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/QTHO1h2Utbg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxBnBFBy413Te4B3wtE5LnNxOz5A",
-                "description": "告知まではぬんぬん史について語るか・・・。\n\n✨お知らせ✨\n⭐4月22日(水)Live Blu-ray 『ときのそら 8th Anniversary Party「Starry Bl∞min’」』発売決定！..."
-            }
-        ]
+        "videos": []
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
