@@ -285,13 +285,27 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "wQzMISaoxLg",
+                "title": "【#スバなで見守り中】ココイチ食べながら奏を見守るしゅばああああああああああ！！！【ホロライブ/大空スバル】",
+                "thumbnail": "https://i.ytimg.com/vi/wQzMISaoxLg/hqdefault.jpg?v=69ea54e0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQzQX58OnsEKDmstcaETWGRqyLtA",
+                "description": "提供：株式会社壱番屋  \n\n店長 スバルと新米店員 奏による #ココイチホロライブ店\n■キャンペーン特設サイト\nhttps://www.ichibanya.co.jp/cp/hololive/..."
+            }
+        ]
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "zZEZQqNJZp4",
+                "title": "【#スバなで見守り中】ココイチ新米店員、初出勤だっ！！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+                "thumbnail": "https://i.ytimg.com/vi/zZEZQqNJZp4/hqdefault.jpg?v=69eaecd9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRhjldejpUwO1M0p0IBNDMfGNVHA",
+                "description": "提供：株式会社壱番屋  \n\n店長 スバルと新米店員 奏による #ココイチホロライブ店\n■キャンペーン特設サイト\nhttps://www.ichibanya.co.jp/cp/hololive/..."
+            }
+        ]
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
@@ -389,14 +403,7 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": [
-            {
-                "video_id": "oeQZuTW9JTA",
-                "title": "【 香港チャンピオンズデー 】ジョバンニ応援します！！！！！！！！【鷹嶺ルイ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/oeQZuTW9JTA/hqdefault.jpg?v=69ec89a9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZjnW0xN_6nym3IV53kbLwu5ledg",
-                "description": "チャンピオンズマイル：芝1,600m 16時45分（現地時間15時45分）発走予定\nクイーンエリザベスⅡ世カップ：芝2,000m 17時55分（現地時間16時55分）発走予..."
-            }
-        ]
+        "videos": []
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
