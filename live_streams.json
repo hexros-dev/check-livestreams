@@ -45,14 +45,7 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": [
-            {
-                "video_id": "0IosTcfAq6k",
-                "title": "【CHRONO TRIGGER OFF-COLLAB with CECILIA】cecilia promised no tickling me 🐾【SPOILER WARNING｜FUWAMOCO】",
-                "thumbnail": "https://i.ytimg.com/vi/0IosTcfAq6k/hqdefault.jpg?v=69e77b55&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAaVRPEzvdCsMtf0chUbE2zzsVdMQ",
-                "description": "this is (not) the part where we beat the game ✨️\n@holoen_ceciliaimmergreen \n\n🩵 FUWAMOCO 𝗡𝗘𝗪 𝗢𝗥𝗜𝗚𝗜𝗡𝗔𝗟 𝗦𝗢𝗡𝗚 \"Mekurumeku Rendezvous\" 🩷\nTV..."
-            }
-        ]
+        "videos": []
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -100,7 +93,14 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "NEYxXPg7hsQ",
+                "title": "【NEW OUTFIT REVEAL】Monster Hunter Stories 3 with Outfit & fighting more Monsters! #sponsored",
+                "thumbnail": "https://i.ytimg.com/vi/NEYxXPg7hsQ/hqdefault.jpg?v=69ee2a38&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCV3F2_JhvsJfgsjruYmS-yGB0IZA",
+                "description": "Buy the game here!! https://bit.ly/IRySMHS3\nWOOO I wonder what sort of outfit it's gonna be :o \n\nThank you so much for the sponsor Capcom USA and thank you so very much for helping making this..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
