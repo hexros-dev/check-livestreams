@@ -183,7 +183,14 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "7FJIAgWJb80",
+                "title": "【DARK SOULS: REMASTERED】hELP (level one challenge) #calliolive",
+                "thumbnail": "https://i.ytimg.com/vi/7FJIAgWJb80/hqdefault.jpg?v=69eddd31&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpEJXZoIRSgigtsZEJr8zpR6cEZA",
+                "description": "DARK FANTASY THEMED BIRTHDAY GOODS ARE HERE!\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/moricalliope_birthday_2026\nEN: https://shop.hololivepro.com/en/products/m..."
+            }
+        ]
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -297,14 +304,7 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": [
-            {
-                "video_id": "IhAxaTZeNqw",
-                "title": "Yapyap + Work Prep 【Members Only】",
-                "thumbnail": "https://i.ytimg.com/vi/IhAxaTZeNqw/hqdefault.jpg?v=69eea8e8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBj3NTadWYUrVUVRt-6gTcqmK73Tw",
-                "description": "My first original song 「Monsters and Men」OUT NOW!\n🎧Listen to it here: https://cover.lnk.to/Y6ZMPF\n📹Music Video here: https://www.youtube.com/watch?v=NX1ZCKJ67dc\n\n=========================..."
-            }
-        ]
+        "videos": []
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
