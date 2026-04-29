@@ -69,7 +69,14 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "7vXaumkwv3E",
+                "title": "【 ぷちホロの村 】どんなゲームか遊んでみるのら！！！🪓(・o・🍬)【姫森ルーナ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/7vXaumkwv3E/hqdefault.jpg?v=69f186dc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAD8yUETrY9YJUmBLAPYLd_9PmYRA",
+                "description": "サムネイラスト\n　Min-tiさん　https://twitter.com/Min__Ti\n\nぷちホロの村 - 剣とお店と田舎暮らし再生リスト\nhttps://www.youtube.com/playlist?list=PL6gUpTCMieF6Kg6oiukRCc..."
+            }
+        ]
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -136,14 +143,7 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": [
-            {
-                "video_id": "yRF7PCzeXwg",
-                "title": "【ぷちホロの村 - 剣とお店と田舎暮らし】農業したり探検もできる！スローライフ始めます！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-                "thumbnail": "https://i.ytimg.com/vi/yRF7PCzeXwg/hqdefault.jpg?v=69f1036f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFvxFfEvjM8riDoQn00ahas_KrmQ",
-                "description": "配信タイトル：ぷちホロの村 - 剣とお店と田舎暮らし\nストアページ：https://store.steampowered.com/app/3856280/_/\n\n素敵なサムネイル　みくみさん　https://x.c..."
-            }
-        ]
+        "videos": []
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
