@@ -21,7 +21,15 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "QOhx69w-X_Q",
+                "title": "『#子供に戻ったらやりたいこと 』 #アキちょこナイパレ 第34回 ～ホロライブ深夜ラジオ～",
+                "date": "2026/05/04 21:40:00",
+                "thumbnail": "https://i.ytimg.com/vi/QOhx69w-X_Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDT2VbfjNsoviFK0Z1re2Se4tLKqw",
+                "description": "📰最新NEWS🌟\n🎧アキ・ローゼンタール6thオリジナル楽曲リリース開始！\n『モノポリー』https://cover.lnk.to/bF9eML\n\n🍎アキロゼ広告衣装スポンサー募..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -78,7 +86,15 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "XbH_jTnKT3g",
+                "title": "【応援枠＆打ち上げ会場】秘密結社holoX Live 2026「First MISSION」是非観てね‼ #SSholoX世界リペイント計画 #SSholoX 【博衣こより/ホロライブ】",
+                "date": "2026/04/30 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/XbH_jTnKT3g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPTh5_dTsP4skWDYl-6tjja09H7Q",
+                "description": "✖ライブ詳細＆配信チケットはこちらから➡ https://ssholox-first-mission.hololivepro.com/\n🎂博衣こより生誕グッズ2026発売中！(5/7まで)➡ https://shop.hololivepro..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -108,15 +124,7 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": [
-            {
-                "video_id": "YgRGMmcfHO8",
-                "title": "【FREE CHAT】HiRyS!",
-                "date": "2026/04/30 10:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/YgRGMmcfHO8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCu08lLOoXHgMGX50HfLuVsfnY1dw",
-                "description": "Birthday Celebration 2026 NOW AVAILABLE\n\n▼hololive production OFFICIAL SHOP \n・JP: https://shop.hololivepro.com/products/irys_birthday_2026\n ・EN: https://shop.hololivepro.com/en/products/irys_..."
-            }
-        ]
+        "videos": []
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -134,15 +142,7 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": [
-            {
-                "video_id": "QfHnRTGYRbg",
-                "title": "【定期配信＃２９】木曜のお昼の１２時はリオナとランチ❤【ホロライブ DEV_IS 響咲リオナ】#リオナとランチ",
-                "date": "2026/04/30 10:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/QfHnRTGYRbg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAaFxRbZQgxvyILJqhjXQllR4KXXQ",
-                "description": "♡...本日のスパーチャットはお名前読み上げのみになります！！\n\nサムネイラスト　MIdukuさん @ midoku712さんにお借りしました♡ありがとうございま..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -314,7 +314,15 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "GC4_WX6erXU",
+                "title": "【ポケモン/リーフグリーン】#4 パラスと一緒に初見ポケモン！！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "date": "2026/04/30 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/GC4_WX6erXU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAIXky1ds0fiR4i_ABweMxu3B4LSg",
+                "description": "パラスと冒険はじまった！！！！！！！！\n\n配信タイトル：ポケットモンスター リーフグリーン\n公式サイト：https://www.pokemon.co.jp/game/gba/fl/\n\n..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -362,7 +370,15 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "GiZ5EjPKhm8",
+                "title": "【メンバー限定】お仕事前に団員さんとお喋り🍀【白銀ノエル/ホロライブ】",
+                "date": "2026/04/30 05:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/GiZ5EjPKhm8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6QEecpBSHRk05avchcLYnAzwQrQ",
+                "description": "1時間予定だよ💡\n\n💚新曲「VAVAVA！バーチャル大分」MV公開中🌏\nhttps://youtu.be/k6V5yGjakC8\n\n✥-------------------------------------------------------------------------✥..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -380,15 +396,7 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": [
-            {
-                "video_id": "yhV74Ax06Rc",
-                "title": "【応援枠】秘密結社holoX Live 2026「First MISSION」#SSholoX世界リペイント計画　#SSholoX 【鷹嶺ルイ/ホロライブ】",
-                "date": "2026/04/30 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/yhV74Ax06Rc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_-9mvFkX2KK38ogUJ1mv1lHmTIQ",
-                "description": "✖️LIVE詳細&ネットチケット✖️\n▶️https://ssholox-first-mission.hololivepro.com/\n\nたくさん応援よろしくね！！！\n\n✦••┈┈┈••┈┈┈••✦••┈┈..."
-            }
-        ]
+        "videos": []
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
@@ -452,7 +460,15 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "aXbhceIPDGg",
+                "title": "【アユート】Nintendo Switch 2をフルアーマー化！？まがまがーずでレビュー！【雪花ラミィ・桃鈴ねね/ホロライブ】",
+                "date": "2026/04/30 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/aXbhceIPDGg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnJ9SzxEq-eRFEIPIagYLgI7RCiA",
+                "description": "ねねさん@MomosuzuNene \n\n提供：株式会社アユート （AZLA / LEPIC GAMING）\n\nアユート直販「アキハバラe市場」では、\n配信中にご紹介した製品を始めとして..."
+            }
+        ]
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
@@ -482,7 +498,15 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "5OPhaxx81Xo",
+                "title": "【CREATURE KITCHEN】grems, we must cook",
+                "date": "2026/04/30 04:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/5OPhaxx81Xo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDIL6D95TC56LqwrzPYZ_BcvG6KNw",
+                "description": "Game Title: Creature Kitchen\nStore Page: https://store.steampowered.com/app/3097300/Creature_Kitchen/\n\n\nthumbnail: https://x.com/bingobongojango/status/2049345881737138492\n\n‐‐‐‐‐‐‐‐..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
@@ -494,15 +518,7 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
-        "videos": [
-            {
-                "video_id": "57R7UPufUUk",
-                "title": "【Frist MISSION】風真いろはさん応援会場🎙️🍃#SSholoX世界リペイント計画",
-                "date": "2026/04/30 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/57R7UPufUUk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBb1dVLIdztUsANzrdfU0oIWs86bQ",
-                "description": "いけめんすぎ注意！！\n\n*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――\n\n💚風真いろはからのおしらせ💚..."
-            }
-        ]
+        "videos": []
     },
     "@mikenekoko": {
         "channel_url": "https://www.youtube.com/@mikenekoko",
