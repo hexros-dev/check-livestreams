@@ -45,7 +45,22 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "UdojLtcdFAE",
+                "title": "【ZELDA: OCARINA OF TIME ENDURANCE 耐久配信】time has passed and now we are adult FWMC 🐾 【FUWAMOCO】",
+                "date": "2026/05/02 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/UdojLtcdFAE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-jD0LWBo6uYLmjn3K8Uyk21Irmw",
+                "description": "we're doing this (last played: oct. 15th 2023) ✨️\nlovely illustration by @_OrangeJuice13 💕\n\n🩵 FUWAMOCO 𝗡𝗘𝗪 𝗢𝗥𝗜𝗚𝗜𝗡𝗔𝗟 𝗦𝗢𝗡𝗚 \"Mekurumeku Rendezvou..."
+            },
+            {
+                "video_id": "wd5mfG9uiGA",
+                "title": "【ERONOCTOSIS COLLAB with SHIORI】save us from madness in this pixel co-op horror 🐾 【FUWAMOCO】",
+                "date": "2026/04/30 09:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/wd5mfG9uiGA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkwsrbCi3E3r2viYJS3ffJB_pNkw",
+                "description": "we're playing on streamer mode for extra safety ✨️\n@ShioriNovella \n\n🩵 FUWAMOCO 𝗡𝗘𝗪 𝗢𝗥𝗜𝗚𝗜𝗡𝗔𝗟 𝗦𝗢𝗡𝗚 \"Mekurumeku Rendezvous\" 🩷\nTV Anime \"Reborn..."
+            }
+        ]
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -63,15 +78,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "XbH_jTnKT3g",
-                "title": "【応援枠＆打ち上げ会場】秘密結社holoX Live 2026「First MISSION」是非観てね‼ #SSholoX世界リペイント計画 #SSholoX 【博衣こより/ホロライブ】",
-                "date": "2026/04/30 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/XbH_jTnKT3g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPTh5_dTsP4skWDYl-6tjja09H7Q",
-                "description": "✖ライブ詳細＆配信チケットはこちらから➡ https://ssholox-first-mission.hololivepro.com/\n🎂博衣こより生誕グッズ2026発売中！(5/7まで)➡ https://shop.hololivepro..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -89,15 +96,7 @@
         "channel_url": "https://www.youtube.com/@HoshimachiSuisei",
         "channel_name": "Suisei Channel",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU",
-        "videos": [
-            {
-                "video_id": "4S0B8hbqkd8",
-                "title": "【雑談】【星街すいせい】",
-                "date": "2026/04/29 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/4S0B8hbqkd8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAL5lMTZaxG-Mc4madZeh5prjC7kg",
-                "description": "◆ HOSHIMACHI SUISEI ARENA TOUR 2026 \nOnce Upon a Stellar\n\n09.08 (火) /09 (水) 横浜・Kアリーナ横浜\n10.21 (水) 神戸・GLION ARENA KOBE\n11.07 (土) 愛知・IGアリーナ\n11.12..."
-            }
-        ]
+        "videos": []
     },
     "@HoushouMarine": {
         "channel_url": "https://www.youtube.com/@HoushouMarine",
@@ -109,7 +108,15 @@
         "channel_url": "https://www.youtube.com/@IRyS",
         "channel_name": "IRyS Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "YgRGMmcfHO8",
+                "title": "【FREE CHAT】HiRyS!",
+                "date": "2026/04/30 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/YgRGMmcfHO8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCu08lLOoXHgMGX50HfLuVsfnY1dw",
+                "description": "Birthday Celebration 2026 NOW AVAILABLE\n\n▼hololive production OFFICIAL SHOP \n・JP: https://shop.hololivepro.com/products/irys_birthday_2026\n ・EN: https://shop.hololivepro.com/en/products/irys_..."
+            }
+        ]
     },
     "@IchijouRirika": {
         "channel_url": "https://www.youtube.com/@IchijouRirika",
@@ -127,7 +134,22 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "QfHnRTGYRbg",
+                "title": "【定期配信＃２９】木曜のお昼の１２時はリオナとランチ❤【ホロライブ DEV_IS 響咲リオナ】#リオナとランチ",
+                "date": "2026/04/30 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/QfHnRTGYRbg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAaFxRbZQgxvyILJqhjXQllR4KXXQ",
+                "description": "♡...本日のスパーチャットはお名前読み上げのみになります！！\n\nサムネイラスト　MIdukuさん @ midoku712さんにお借りしました♡ありがとうございま..."
+            },
+            {
+                "video_id": "yy8equ4mud8",
+                "title": "【ドラゴンボールZ KAKAROT】完全初見！ついに魔人ブウとご対面じゃっ🔥【ホロライブ DEV_IS 響咲リオナ】※ネタバレあり",
+                "date": "2026/04/29 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/yy8equ4mud8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBr1eoygYD8hdHvmEwG4UViRz-GAA",
+                "description": "サムネイラスト　あまねこそら(@ amaneko_sora)さん、\nにお借りしました！素敵なイラストありがとうございます！\n\n\nこのゲーム実況は「バンダイナム..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -181,15 +203,7 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": [
-            {
-                "video_id": "dZy-2opi6i4",
-                "title": "【BLEACH Rebirth of Souls】完全初見 どんな話なんだ…！#9【水宮枢／ホロライブDEV_IS】",
-                "date": "2026/04/29 20:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/dZy-2opi6i4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-iV1DgkeV4Mi5hXDztMhD2fzm-g",
-                "description": "このゲーム実況は「バンダイナムコエンターテインメント ゲーム実況ポリシー」に基づき制作・配信されています。\nhttps://www.bandainamcoent.co.jp/info/v..."
-            }
-        ]
+        "videos": []
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -207,22 +221,7 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": [
-            {
-                "video_id": "F-fqVoYovFE",
-                "title": "【Darksiders】up my alley game, probably (part 1) #calliolive",
-                "date": "2026/04/30 08:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/F-fqVoYovFE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDN_vXWG74wQ3epcwr1h2HynCJ8DA",
-                "description": "DARK FANTASY GOODS AVAILABLE NOW!\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/moricalliope_birthday_2026\nEN: https://shop.hololivepro.com/en/products/moricalliope..."
-            },
-            {
-                "video_id": "y0WsNvXOdns",
-                "title": "【Pragmata】you're my dad! boogie woogie woogie (part 2) #calliolive",
-                "date": "2026/04/29 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/y0WsNvXOdns/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfVqKyXvBmd8586sonSl1z0M-I1w",
-                "description": "DARK FANTASY GOODS RELEASED!\nーーーーーーーーー\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/moricalliope_birthday_2026\nEN: https://shop.hololivepro.com/e..."
-            }
-        ]
+        "videos": []
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -282,15 +281,7 @@
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": [
-            {
-                "video_id": "sbs4fauCXco",
-                "title": "【】メンバー限定！VRC配信～！！！！：member only【ホロライブ/大空スバル】",
-                "date": "2026/04/29 21:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/sbs4fauCXco/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClF5ag0dihTKuboUCQ0fDAT2LDng",
-                "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n\n🔽楽曲各..."
-            }
-        ]
+        "videos": []
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -314,22 +305,7 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": [
-            {
-                "video_id": "GC4_WX6erXU",
-                "title": "【ポケモン/リーフグリーン】#4 パラスと一緒に初見ポケモン！！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "date": "2026/04/28 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/GC4_WX6erXU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAIXky1ds0fiR4i_ABweMxu3B4LSg",
-                "description": "パラスと冒険はじまった！！！！！！！！\n\n配信タイトル：ポケットモンスター リーフグリーン\n公式サイト：https://www.pokemon.co.jp/game/gba/fl/\n\n..."
-            },
-            {
-                "video_id": "yIGc8fbw_Vw",
-                "title": "【メン限/ラジオ】輪堂千速のニックナイトガレーディオ #11【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "date": "2026/04/29 21:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/yIGc8fbw_Vw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3onahxn9mLz4rhIB-GURekpxEkA",
-                "description": "この配信でいただいたスーパーチャットなどは最後にお名前だけお呼びさせていただきます。\n\nBGM：トーマス大森音楽工房\nhttps://youtube.com/@FM_ThomasOo..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -395,7 +371,15 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "yhV74Ax06Rc",
+                "title": "【応援枠】秘密結社holoX Live 2026「First MISSION」#SSholoX世界リペイント計画　#SSholoX 【鷹嶺ルイ/ホロライブ】",
+                "date": "2026/04/30 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/yhV74Ax06Rc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_-9mvFkX2KK38ogUJ1mv1lHmTIQ",
+                "description": "✖️LIVE詳細&ネットチケット✖️\n▶️https://ssholox-first-mission.hololivepro.com/\n\nたくさん応援よろしくね！！！\n\n✦••┈┈┈••┈┈┈••✦••┈┈..."
+            }
+        ]
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
@@ -419,7 +403,15 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "c0MLy6bxJMs",
+                "title": "【 クロノ・トリガー 】完全初見！マルチエンド回収の旅！！ #番外編2【角巻わため/ホロライブ４期生】※ネタバレあり",
+                "date": "2026/04/29 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/c0MLy6bxJMs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDaz2V-D_eFcYqy3DMoa2oQx6HKaQ",
+                "description": "ED1、ED3～5まで回収済み！今日は、ED6から見るぞー！\nタグ：#ドドドライブ \n\n本動画のゲームプレイ映像は、株式会社スクウェア・エニックスの許..."
+            }
+        ]
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -466,22 +458,7 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": [
-            {
-                "video_id": "aXbhceIPDGg",
-                "title": "【アユート】Nintendo Switch 2をフルアーマー化！？まがまがーずでレビュー！【雪花ラミィ・桃鈴ねね/ホロライブ】",
-                "date": "2026/04/30 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/aXbhceIPDGg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnJ9SzxEq-eRFEIPIagYLgI7RCiA",
-                "description": "ねねさん@MomosuzuNene \n\n提供：株式会社アユート （AZLA / LEPIC GAMING）\n\nアユート直販「アキハバラe市場」では、\n配信中にご紹介した製品を始めとして..."
-            },
-            {
-                "video_id": "ua8QKKIXT2s",
-                "title": "【３D配信】ねぽらぼでお菓子パーティー！はしゃいじゃうぞっ！！【ねぽらぼ /ホロライブ】",
-                "date": "2026/04/29 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/ua8QKKIXT2s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8fGz0AY7oE71YTFZtxDQN9Qya6Q",
-                "description": "ねね@MomosuzuNene \nポルカ@OmaruPolka \nししろん@ShishiroBotan \n\n【所属会社からのお知らせ】\n現在弊社タレントに対し、配信中のチャット等によりセンシテ..."
-            }
-        ]
+        "videos": []
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
