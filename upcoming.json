@@ -163,15 +163,7 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": [
-            {
-                "video_id": "tZ9VnzM01xY",
-                "title": "【Bayonetta 2】WITCH TIME!",
-                "date": "2026/05/01 06:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/tZ9VnzM01xY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdN1DJL8Re9P283XWilJ4YnD6ggA",
-                "description": "Thumbnail Art: @banteu2626 THANK YOU!\nhttps://x.com/banteu2626/status/2048418093597401239/photo/11\n\nMERCH\n\n▼hololive production OFFICIAL SHOP \nJP: https://shop.hololivepro.com/products/kosekibijo..."
-            }
-        ]
+        "videos": []
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -243,7 +235,15 @@
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
         "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "E-b2HgzQyzs",
+                "title": "The Melancholy of Nerissa Ravencroft | Creating \"Blue World\"",
+                "date": "2026/05/02 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/E-b2HgzQyzs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBE9htANicUFwoLIVX4GuXuwpjuSg",
+                "description": "∴∴🎶*┈┈┈┈┈┈┈┈┈┈┈┈┈*🎶∴∴\n\n🐦‍⬛twitter: https://x.com/nerissa_en\n🐦‍⬛spotify: https://open.spotify.com/artist/4uzAnzFMXarRPOBAG2lIIa\n🐦‍⬛insta:..."
+            }
+        ]
     },
     "@NinomaeInanis": {
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
@@ -357,22 +357,7 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": [
-            {
-                "video_id": "QUQ7R-oS1Ac",
-                "title": "【 ドラゴンボールZ KAKAROT 】完全初見！GWだ～！！！DAIMA編だ～～～～～！！！【鷹嶺ルイ/ホロライブ】※ネタバレあり",
-                "date": "2026/05/01 10:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/QUQ7R-oS1Ac/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBf6_kXXYD4Wcpf9LOBwnJldugTiw",
-                "description": "DAIMA！？\n\nこのゲーム実況は「バンダイナムコエンターテインメント ゲーム実況ポリシー」に基づき制作・配信されています。\nhttps://www.bandainamcoent..."
-            },
-            {
-                "video_id": "T9FBeiJuG0k",
-                "title": "【 #ホロDTBトーナメント 】エンジョイ！ホロどうぶつタワーバトルトーナメント3rd抽選会✨【鷹嶺ルイ/ホロライブ】",
-                "date": "2026/05/01 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/T9FBeiJuG0k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-wKn9BTT8t3ZleIgVloxdRecQbg",
-                "description": "みんなでワイワイどうぶつタワーバトルトーナメント第三回目やるよ♪\n本戦：5月3日(日)18時～\n\n本ゲームは © Yabuzaki Company の確認を得た上で配信..."
-            }
-        ]
+        "videos": []
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
