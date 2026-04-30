@@ -21,7 +21,15 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "QOhx69w-X_Q",
+                "title": "『#子供に戻ったらやりたいこと 』 #アキちょこナイパレ 第34回 ～ホロライブ深夜ラジオ～",
+                "date": "2026/05/04 21:40:00",
+                "thumbnail": "https://i.ytimg.com/vi/QOhx69w-X_Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDT2VbfjNsoviFK0Z1re2Se4tLKqw",
+                "description": "📰最新NEWS🌟\n🎧アキ・ローゼンタール6thオリジナル楽曲リリース開始！\n『モノポリー』https://cover.lnk.to/bF9eML\n\n🍎アキロゼ広告衣装スポンサー募..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -45,7 +53,15 @@
         "channel_url": "https://www.youtube.com/@FUWAMOCOch",
         "channel_name": "FUWAMOCO Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "UdojLtcdFAE",
+                "title": "【ZELDA: OCARINA OF TIME ENDURANCE 耐久配信】time has passed and now we are adult FWMC 🐾 【FUWAMOCO】",
+                "date": "2026/05/02 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/UdojLtcdFAE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-jD0LWBo6uYLmjn3K8Uyk21Irmw",
+                "description": "we're doing this (last played: oct. 15th 2023) ✨️\nlovely illustration by @_OrangeJuice13 💕\n\n🩵 FUWAMOCO 𝗡𝗘𝗪 𝗢𝗥𝗜𝗚𝗜𝗡𝗔𝗟 𝗦𝗢𝗡𝗚 \"Mekurumeku Rendezvou..."
+            }
+        ]
     },
     "@GawrGura": {
         "channel_url": "https://www.youtube.com/@GawrGura",
@@ -227,15 +243,7 @@
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
         "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ",
-        "videos": [
-            {
-                "video_id": "E-b2HgzQyzs",
-                "title": "The Melancholy of Nerissa Ravencroft | Creating \"Blue World\"",
-                "date": "2026/05/02 08:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/E-b2HgzQyzs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBE9htANicUFwoLIVX4GuXuwpjuSg",
-                "description": "∴∴🎶*┈┈┈┈┈┈┈┈┈┈┈┈┈*🎶∴∴\n\n🐦‍⬛twitter: https://x.com/nerissa_en\n🐦‍⬛spotify: https://open.spotify.com/artist/4uzAnzFMXarRPOBAG2lIIa\n🐦‍⬛insta:..."
-            }
-        ]
+        "videos": []
     },
     "@NinomaeInanis": {
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
@@ -313,15 +321,13 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": [
-            {
-                "video_id": "5rB99r-ByJ8",
-                "title": "Teaching My AI Daughter about VTubing【PRAGMATA】#sponsored",
-                "date": "2026/05/01 03:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/5rB99r-ByJ8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAICTswQkVndj2K5baxU1OpjKaHsw",
-                "description": "This stream is sponsored by Capcom!\n \nBuy PRAGMATA here: https://bit.ly/Shiori-Pragmata\nAvailable on Steam, PS5, Nintendo Switch 2, XBOX Series X, XBOX Series S\n\n#pragmata \n========================..."
-            }
-        ]
+        "videos": []
+    },
+    "@ShirakamiFubuki": {
+        "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
+        "channel_name": "フブキCh。白上フブキ",
+        "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
+        "videos": []
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -351,15 +357,7 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": [
-            {
-                "video_id": "T9FBeiJuG0k",
-                "title": "【 #ホロDTBトーナメント 】エンジョイ！ホロどうぶつタワーバトルトーナメント3rd抽選会✨【鷹嶺ルイ/ホロライブ】",
-                "date": "2026/05/01 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/T9FBeiJuG0k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-wKn9BTT8t3ZleIgVloxdRecQbg",
-                "description": "みんなでワイワイどうぶつタワーバトルトーナメント第三回目やるよ♪\n本戦：5月3日(日)18時～\n\n本ゲームは © Yabuzaki Company の確認を得た上で配信..."
-            }
-        ]
+        "videos": []
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
@@ -389,7 +387,22 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "VmILxwQfTDE",
+                "title": "【Rebroadcast】random eepy karaoke",
+                "date": "2026/05/02 18:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/VmILxwQfTDE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPcdZbS_hfHJO2sk2xgIFx7JiuYw",
+                "description": "#vestiazeta #hololive #vtuber #karaoke #holoid #hololiveindonesia \n\nUnarchived Karaoke from 2026/04/14\n\n-----\nVestia Zeta's  2nd Original Song  ▶  [ Break It Down ]\n\nAll platform▶️ https://co..."
+            },
+            {
+                "video_id": "th_QVFAxYHs",
+                "title": "【PRAGMATA】Sci-fi here I come!!!",
+                "date": "2026/05/01 17:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/th_QVFAxYHs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBh1p_tk_FgfdNcX2OEWaJBf2wqzg",
+                "description": "#vestiazeta #hololive #vtuber #gaming #PRAGMATA #holoid #hololiveindonesia \n\nGame Title: PRAGMATA\nStore link: https://store.steampowered.com/app/3357650/PRAGMATA/\n\n\n-----\nVestia Zeta's  2nd..."
+            }
+        ]
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
@@ -419,15 +432,7 @@
         "channel_url": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "channel_name": "Cecilia Immergreen Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g",
-        "videos": [
-            {
-                "video_id": "FiI3G8eIC68",
-                "title": "【GUERILLA】If this aren't the consequences of my own actions the stream",
-                "date": "2026/05/01 02:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/FiI3G8eIC68/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZd3c8HR0m3MkuLuqFUyvE6W78iw",
-                "description": "let's play a game and chat!\n--------------------------\nHashtags\n📺 Livestream: #ImmerScreen \n🎨 Fanart: #Immergination\n🎻 Music: #ImmerPiece\n🤡 Memes: #ImmerMemes \n-------------------------..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_erbloodflame": {
         "channel_url": "https://www.youtube.com/@holoen_erbloodflame",
@@ -465,21 +470,21 @@
         "channel_url": "https://www.youtube.com/@mikenekoko",
         "channel_name": "みけねこch",
         "avatar_url": "https://yt3.googleusercontent.com/_bT74ettx8Ei9p0zHrSbKdAe1oyaCAbbbXa9teIsxgOtlPl2RADYotJ_kGKwHsNdtWh8D2Hu",
-        "videos": [
-            {
-                "video_id": "ke-ddySDKDM",
-                "title": "【WINTICKET】📸実写で初めての競輪やるよおおおおおお！！！！！！",
-                "date": "2026/05/01 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/ke-ddySDKDM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6yk5JDl2wbfAH2zIAURT7ScwMxQ",
-                "description": "提供：競輪・オートレースアプリ「WINTICKET」\nアプリインストールはこちら↓\nhttps://x.gd/pDUk9\n\n《みけねこのサイン入りTシャツがもらえるキャンペー..."
-            }
-        ]
+        "videos": []
     },
     "@niminightmare": {
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "rAqjGaV6Vs0",
+                "title": "I forgot to cancel my subscription again, so let's look at the Humble Choice games!",
+                "date": "2026/05/01 05:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/rAqjGaV6Vs0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsYqZYBoGUCNV2qvf649vJmotk1w",
+                "description": "this is not sponsored but it should be, please email me back humble bundle\nThe Procession to Calvary, Artisan TD, Planet of Lana, The Lord of the Rings: Return to Moria\n\nMerch: https://ohmonah.shop..."
+            }
+        ]
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
