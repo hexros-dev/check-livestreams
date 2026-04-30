@@ -297,14 +297,7 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": [
-            {
-                "video_id": "5rB99r-ByJ8",
-                "title": "Teaching My AI Daughter about VTubing【PRAGMATA】#sponsored",
-                "thumbnail": "https://i.ytimg.com/vi/5rB99r-ByJ8/hqdefault.jpg?v=69f29a9b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAICTswQkVndj2K5baxU1OpjKaHsw",
-                "description": "This stream is sponsored by Capcom!\n \nBuy PRAGMATA here: https://bit.ly/Shiori-Pragmata\nAvailable on Steam, PS5, Nintendo Switch 2, XBOX Series X, XBOX Series S\n\n#pragmata \n========================..."
-            }
-        ]
+        "videos": []
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
@@ -412,7 +405,14 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "bcCPZnvz6vA",
+                "title": "【The Elder Scrolls IV: Oblivion Remastered】i've had this horse open on my canvas for 6 months now",
+                "thumbnail": "https://i.ytimg.com/vi/bcCPZnvz6vA/hqdefault.jpg?v=69f30be7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHK_Be_DdxkB1wNHBe_HaqHXOqiw",
+                "description": "game title: The Elder Scrolls IV: Oblivion Remastered\nhttps://store.steampowered.com/app/2623190/The_Elder_Scrolls_IV_Oblivion_Remastered/\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",

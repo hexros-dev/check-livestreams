@@ -163,15 +163,7 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": [
-            {
-                "video_id": "tZ9VnzM01xY",
-                "title": "【Bayonetta 2】WITCH TIME!",
-                "date": "2026/05/01 06:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/tZ9VnzM01xY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdN1DJL8Re9P283XWilJ4YnD6ggA",
-                "description": "Thumbnail Art: @banteu2626 THANK YOU!\nhttps://x.com/banteu2626/status/2048418093597401239/photo/11\n\nMERCH\n\n▼hololive production OFFICIAL SHOP \nJP: https://shop.hololivepro.com/products/kosekibijo..."
-            }
-        ]
+        "videos": []
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -189,7 +181,15 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "oIcwg8EiL3k",
+                "title": "【ウマ娘プリティーダービー】完全初見#13 新人トレーナ✨️育成編【水宮枢／ホロライブDEV_IS】",
+                "date": "2026/05/01 20:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/oIcwg8EiL3k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZfz3FiaMUmQV_iqjbR6lxy8i2kQ",
+                "description": "本ゲームは株式会社Cygamesの配信ガイドラインに則って配信・収益化を行なっております。\nhttps://umamusume.jp/news/detail.php?id=107\n▹◃┄▸◂┄▹◃┄▸..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -357,7 +357,22 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "QUQ7R-oS1Ac",
+                "title": "【 ドラゴンボールZ KAKAROT 】完全初見！GWだ～！！！DAIMA編だ～～～～～！！！【鷹嶺ルイ/ホロライブ】※ネタバレあり",
+                "date": "2026/05/01 10:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/QUQ7R-oS1Ac/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBf6_kXXYD4Wcpf9LOBwnJldugTiw",
+                "description": "DAIMA！？\n\nこのゲーム実況は「バンダイナムコエンターテインメント ゲーム実況ポリシー」に基づき制作・配信されています。\nhttps://www.bandainamcoent..."
+            },
+            {
+                "video_id": "T9FBeiJuG0k",
+                "title": "【 #ホロDTBトーナメント 】エンジョイ！ホロどうぶつタワーバトルトーナメント3rd抽選会✨【鷹嶺ルイ/ホロライブ】",
+                "date": "2026/05/01 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/T9FBeiJuG0k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-wKn9BTT8t3ZleIgVloxdRecQbg",
+                "description": "みんなでワイワイどうぶつタワーバトルトーナメント第三回目やるよ♪\n本戦：5月3日(日)18時～\n\n本ゲームは © Yabuzaki Company の確認を得た上で配信..."
+            }
+        ]
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
@@ -387,22 +402,7 @@
         "channel_url": "https://www.youtube.com/@VestiaZeta",
         "channel_name": "Vestia Zeta Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw",
-        "videos": [
-            {
-                "video_id": "VmILxwQfTDE",
-                "title": "【Rebroadcast】random eepy karaoke",
-                "date": "2026/05/02 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/VmILxwQfTDE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPcdZbS_hfHJO2sk2xgIFx7JiuYw",
-                "description": "#vestiazeta #hololive #vtuber #karaoke #holoid #hololiveindonesia \n\nUnarchived Karaoke from 2026/04/14\n\n-----\nVestia Zeta's  2nd Original Song  ▶  [ Break It Down ]\n\nAll platform▶️ https://co..."
-            },
-            {
-                "video_id": "th_QVFAxYHs",
-                "title": "【PRAGMATA】Sci-fi here I come!!!",
-                "date": "2026/05/01 17:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/th_QVFAxYHs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBh1p_tk_FgfdNcX2OEWaJBf2wqzg",
-                "description": "#vestiazeta #hololive #vtuber #gaming #PRAGMATA #holoid #hololiveindonesia \n\nGame Title: PRAGMATA\nStore link: https://store.steampowered.com/app/3357650/PRAGMATA/\n\n\n-----\nVestia Zeta's  2nd..."
-            }
-        ]
+        "videos": []
     },
     "@WatsonAmelia": {
         "channel_url": "https://www.youtube.com/@WatsonAmelia",
@@ -444,15 +444,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "bcCPZnvz6vA",
-                "title": "【The Elder Scrolls IV: Oblivion Remastered】i've had this horse open on my canvas for 6 months now",
-                "date": "2026/05/01 04:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/bcCPZnvz6vA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHK_Be_DdxkB1wNHBe_HaqHXOqiw",
-                "description": "game title: The Elder Scrolls IV: Oblivion Remastered\nhttps://store.steampowered.com/app/2623190/The_Elder_Scrolls_IV_Oblivion_Remastered/\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
@@ -470,7 +462,15 @@
         "channel_url": "https://www.youtube.com/@mikenekoko",
         "channel_name": "みけねこch",
         "avatar_url": "https://yt3.googleusercontent.com/_bT74ettx8Ei9p0zHrSbKdAe1oyaCAbbbXa9teIsxgOtlPl2RADYotJ_kGKwHsNdtWh8D2Hu",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ke-ddySDKDM",
+                "title": "【WINTICKET】📸実写で初めての競輪やるよおおおおおお！！！！！！",
+                "date": "2026/05/01 16:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ke-ddySDKDM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6yk5JDl2wbfAH2zIAURT7ScwMxQ",
+                "description": "提供：競輪・オートレースアプリ「WINTICKET」\nアプリインストールはこちら↓\nhttps://x.gd/pDUk9\n\n《みけねこのサイン入りTシャツがもらえるキャンペー..."
+            }
+        ]
     },
     "@niminightmare": {
         "channel_url": "https://www.youtube.com/@niminightmare",
