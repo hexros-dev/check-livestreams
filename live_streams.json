@@ -147,14 +147,7 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": [
-            {
-                "video_id": "CTYHz4ftcH0",
-                "title": "【Tomodachi Life: Living the Dream】Making the rest of EN and then DRAMA!!!!",
-                "thumbnail": "https://i.ytimg.com/vi/CTYHz4ftcH0/hqdefault.jpg?v=69f22908&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCffXw-5bWqESjhsN8ravCkgLkLAw",
-                "description": "Thumbnail Art: @PhdPigeon Thank you!\nhttps://x.com/PhdPigeon/status/2047482089579409555\n\nMERCH\n\n▼hololive production OFFICIAL SHOP \nJP: https://shop.hololivepro.com/products/kosekibijou_birthday_..."
-            }
-        ]
+        "videos": []
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -190,14 +183,7 @@
         "channel_url": "https://www.youtube.com/@MoriCalliope",
         "channel_name": "Mori Calliope Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G",
-        "videos": [
-            {
-                "video_id": "F-fqVoYovFE",
-                "title": "【Darksiders】up my alley game, probably (part 1) #calliolive",
-                "thumbnail": "https://i.ytimg.com/vi/F-fqVoYovFE/hqdefault.jpg?v=69ef56c5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDN_vXWG74wQ3epcwr1h2HynCJ8DA",
-                "description": "DARK FANTASY GOODS AVAILABLE NOW!\n▼hololive production OFFICIAL SHOP\nJP: https://shop.hololivepro.com/products/moricalliope_birthday_2026\nEN: https://shop.hololivepro.com/en/products/moricalliope..."
-            }
-        ]
+        "videos": []
     },
     "@MurasakiShion": {
         "channel_url": "https://www.youtube.com/@MurasakiShion",
@@ -269,7 +255,14 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "1xtPvF4jvZU",
+                "title": "【Superchat Catchup】Reading Everything",
+                "thumbnail": "https://i.ytimg.com/vi/1xtPvF4jvZU/hqdefault.jpg?v=69f28954&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBf1LuC2ybf6tISSN3S1iHM9rH0qg",
+                "description": "🎶💿 *Ouro Kronii’s FIRST EP [Way 2 U] LP + CD Pre-Order Release*\nJP: https://shop.hololivepro.com/products/ourokronii_1step_way2u \nEN: https://shop.hololivepro.com/en/products/ourokronii_1st..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
