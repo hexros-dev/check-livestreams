@@ -147,7 +147,14 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "WIgPvzuNvnc",
+                "title": "【Portal】Using my one brain cell",
+                "thumbnail": "https://i.ytimg.com/vi/WIgPvzuNvnc/hqdefault.jpg?v=69f4c514&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABLXnaXBUl7rF97BIXWe9ByxWEMA",
+                "description": "Thumbnail Art: @holystars123 THANK YOU!\nhttps://x.com/holystars123/status/2043988067867058384/photo/1\n\nMERCH\n\n▼hololive production OFFICIAL SHOP \nJP: https://shop.hololivepro.com/products/kosekib..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -443,14 +450,7 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": [
-            {
-                "video_id": "gxNFbw7N8jo",
-                "title": "【Tomodachi Life: Living the Dream】 Playing with my dolls",
-                "thumbnail": "https://i.ytimg.com/vi/gxNFbw7N8jo/hqdefault.jpg?v=69f4fa4a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYR9CgXFwh6G_hYRF61R-2CqXFIw",
-                "description": "I love tomodachi life!!!\n\n☁  Thumbnail Art  ☁\nhttps://x.com/209cloud/status/2048942978203271541\nThank you so much!!\n\nMerch: https://ohmonah.shop/collections/nimi-nightmare\n\n  ‧₊ ˚..."
-            }
-        ]
+        "videos": []
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
