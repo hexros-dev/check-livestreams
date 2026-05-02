@@ -21,7 +21,15 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "QOhx69w-X_Q",
+                "title": "『#子供に戻ったらやりたいこと 』 #アキちょこナイパレ 第34回 ～ホロライブ深夜ラジオ～",
+                "date": "2026/05/04 21:40:00",
+                "thumbnail": "https://i.ytimg.com/vi/QOhx69w-X_Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDT2VbfjNsoviFK0Z1re2Se4tLKqw",
+                "description": "📰最新NEWS🌟\n🎧アキ・ローゼンタール6thオリジナル楽曲リリース開始！\n『モノポリー』https://cover.lnk.to/bF9eML\n\n🍎アキロゼ広告衣装スポンサー募..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -374,15 +382,7 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch.Tokoyami Towa",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": [
-            {
-                "video_id": "Cuqg1HafZFk",
-                "title": "【 Cursed Companions 】【常闇トワ視点/ホロライブ】",
-                "date": "2026/05/03 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Cuqg1HafZFk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5zNUcXlBj-TPBCFZ1mslWPeaupQ",
-                "description": "素敵なイラスト：https://x.com/kumarang_/status/2050557261014347840\n\n@SakuraMiko \n@HoshimachiSuisei \n@ShirakamiFubuki \n@OokamiMio \n@NakiriAyame \n@TokoyamiTowa \n@IsakiRiona \n@RindoChihaya..."
-            }
-        ]
+        "videos": []
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
@@ -436,21 +436,21 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "wdxBnET22Ds",
-                "title": "【CREATURE CREATOR】MAKIN THE GREMS #WERK",
-                "date": "2026/05/03 04:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/wdxBnET22Ds/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRGLTQrKdpY-Iui1OQn6qWOO2RUw",
-                "description": "Game title: Creature Creator\nStore page: https://store.steampowered.com/app/1990050/Creature_Creator/\n\n\nthumbnail: https://x.com/iamethanforreal\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "w37yVSXhV_c",
+                "title": "【3D LIVE CONCERT】Raora Panthera First Birthday Live Concert! #RaoraBday2026",
+                "date": "2026/05/10 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/w37yVSXhV_c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClyBhsOzfwNYwSkbzJEXSxdlA-FQ",
+                "description": "Stay tuned for exciting guest announcements and more surprises!!! \nRAOOOOO!!! 🎉🎂✨🍰🥳🎈\n\nThumbnail Illustration: RyotaH\nLogo Design: Spiritsnare\n\n『 X  』  \nhttps://x.com/raorapanth..."
+            }
+        ]
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
@@ -474,22 +474,7 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": [
-            {
-                "video_id": "OzcvI85xOx8",
-                "title": "#7【テイルズ オブ ジ アビス】はじめてのテイルズシリーズ！生まれた意味を知るRPGやる！TALES OF THE ABYSS ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意",
-                "date": "2026/05/03 14:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/OzcvI85xOx8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZhZfEsMjk1pLafjOvnV6CQEhLsA",
-                "description": "今までの俺とは、さよならだ。\n\nサムネイラスト：とうちさん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usad..."
-            },
-            {
-                "video_id": "krvadwrRfag",
-                "title": "【天皇賞(春)】2026年春の天皇賞で大勝する！！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
-                "date": "2026/05/03 12:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/krvadwrRfag/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8chmZYDKerPxfpxKJ1YtKznsH8A",
-                "description": "ありがとう、全てに。\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタグ #ぺこらいぶ..."
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
