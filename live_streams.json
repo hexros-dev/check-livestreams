@@ -147,14 +147,7 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": [
-            {
-                "video_id": "WIgPvzuNvnc",
-                "title": "【Portal】Using my one brain cell",
-                "thumbnail": "https://i.ytimg.com/vi/WIgPvzuNvnc/hqdefault.jpg?v=69f4c514&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABLXnaXBUl7rF97BIXWe9ByxWEMA",
-                "description": "Thumbnail Art: @holystars123 THANK YOU!\nhttps://x.com/holystars123/status/2043988067867058384/photo/1\n\nMERCH\n\n▼hololive production OFFICIAL SHOP \nJP: https://shop.hololivepro.com/products/kosekib..."
-            }
-        ]
+        "videos": []
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -274,7 +267,14 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "HPBPKx3jZVg",
+                "title": "【DARK SOULS III】#4 また火を継ぎにいくぞ！！！！！※ネタバレ禁止【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "thumbnail": "https://i.ytimg.com/vi/HPBPKx3jZVg/hqdefault.jpg?v=69f51c8f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxeq5nB0Ll7DOeHhODqc5Hxs88SA",
+                "description": "ダクソ3きちゃ！！！！！！！！！\n途中までやった記憶はあるけど全然おぼえてません！！！！！\nまだまだソウルシリーズやれるの嬉しすぎ！！..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -310,7 +310,14 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "HBNuE2Vx0Rs",
+                "title": "【FINAL FANTASY XIV】至天の座アルカディア踏破耐久予定地　※ネタバレあり※ 【ホロライブ/白上フブキ】",
+                "thumbnail": "https://i.ytimg.com/vi/HBNuE2Vx0Rs/hqdefault.jpg?v=69f565f7&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfxzAg7VCLZySVvATsgJYMZKVMTA",
+                "description": "✨️NEW✨️\n🌽フブミオロイヤルグッズ🌲\n▷https://shop.hololivepro.com/products/fubumio_royalmerch\n〆5月25日 18時00分まで\n\n🌽🍙にゃんぐこーん  オリジナル..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -412,14 +419,7 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "-VZxLwYOa-8",
-                "title": "【HYTALE】bald elves against portals",
-                "thumbnail": "https://i.ytimg.com/vi/-VZxLwYOa-8/hqdefault.jpg?v=69f4504a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFCYUHOBsV9jz98_sugDeb9VV0yg",
-                "description": "thumbnail: https://x.com/_bambooz/status/2043884693943398727\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
@@ -449,7 +449,14 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "E_ELTT9EHrw",
+                "title": "#6【テイルズ オブ ジ アビス】はじめてのテイルズシリーズ！生まれた意味を知るRPGやる！TALES OF THE ABYSS ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意",
+                "thumbnail": "https://i.ytimg.com/vi/E_ELTT9EHrw/hqdefault.jpg?v=69f3da3d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDk6E9cfWNJPxELb_d6N__oGcI-0g",
+                "description": "今までの俺とは、さよならだ。\n\nサムネイラスト：とうちさん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usad..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
