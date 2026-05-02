@@ -238,14 +238,7 @@
         "channel_url": "https://www.youtube.com/@OmaruPolka",
         "channel_name": "Polka Ch. 尾丸ポルカ",
         "avatar_url": "https://yt3.googleusercontent.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ",
-        "videos": [
-            {
-                "video_id": "I_pUQsQpGSQ",
-                "title": "【ケンタッキーダービー】競馬配信🔰全てを懸けた2分間、歴史が動く。【尾丸ポルカ/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/I_pUQsQpGSQ/hqdefault.jpg?v=69f663d3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6hxV2HF8n3jWPE8-NcoYL15LO7g",
-                "description": "狙え的中🎯👊\n\n\n※尾丸ポルカへ頂いたスパチャは、基本的に毎週木曜日19時から「ポルカの伝説」にて、動画の最後に名前を載せさせていただい..."
-            }
-        ]
+        "videos": []
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
@@ -419,7 +412,14 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "wdxBnET22Ds",
+                "title": "【CREATURE CREATOR】MAKIN THE GREMS #WERK",
+                "thumbnail": "https://i.ytimg.com/vi/wdxBnET22Ds/hqdefault.jpg?v=69f5c135&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRGLTQrKdpY-Iui1OQn6qWOO2RUw",
+                "description": "Game title: Creature Creator\nStore page: https://store.steampowered.com/app/1990050/Creature_Creator/\n\n\nthumbnail: https://x.com/iamethanforreal\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
