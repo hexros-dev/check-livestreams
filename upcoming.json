@@ -21,7 +21,15 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "QOhx69w-X_Q",
+                "title": "『#子供に戻ったらやりたいこと 』 #アキちょこナイパレ 第34回 ～ホロライブ深夜ラジオ～",
+                "date": "2026/05/04 21:40:00",
+                "thumbnail": "https://i.ytimg.com/vi/QOhx69w-X_Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDT2VbfjNsoviFK0Z1re2Se4tLKqw",
+                "description": "📰最新NEWS🌟\n🎧アキ・ローゼンタール6thオリジナル楽曲リリース開始！\n『モノポリー』https://cover.lnk.to/bF9eML\n\n🍎アキロゼ広告衣装スポンサー募..."
+            }
+        ]
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -63,21 +71,28 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "-tx9lixlJe4",
+                "title": "【 #朝こよ GWスペシャル】ゴールデンウィークの火曜日の朝は朝こよ・・・じゃなくて朝551！？朝こよ初の総集編だ！☀ #283 【尾丸ポルカ・一条莉々華・博衣こより/hololive】",
+                "date": "2026/05/05 05:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/-tx9lixlJe4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSbAY4fT7JQSYuF4oRPByrmi8qnw",
+                "description": "初めての「朝こよ！」総集編✨@OmaruPolka @IchijouRirika を(起きられたら)お迎えして、朝こよリークを振り返っちゃおう！\n✅みんなが選ぶ想い出に残..."
+            },
+            {
+                "video_id": "Y505e4FZ9dA",
+                "title": "【100年桃鉄ハンデ戦】はじめての54年ハンデ戦！～54年間最弱CPU豆鬼がプレイしたデータで最強CPU3人に逆転できるのか！？～ #1 【博衣こより/ホロライブ】",
+                "date": "2026/05/04 07:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Y505e4FZ9dA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCp9EsRDrr9R2qBR6rj3D4kkMvuuw",
+                "description": "#こより100年桃鉄ハンデ戦 でポスト❣　今年の5/4こよの日は桃鉄だ～！✨\n🍑桃鉄ハンデ戦とは🍑\n最強CPU（今回はさくま・エンマ・楊貴妃の3人）..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": [
-            {
-                "video_id": "KLbYXVXtn_A",
-                "title": "【 LEGO 】レゴのゲームボーイを組み立てるのら！！！Build with LEGO【姫森ルーナ/ホロライブ】",
-                "date": "2026/05/04 15:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/KLbYXVXtn_A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_iUIH2uxpN_y-gpHKDj3Lo74JDA",
-                "description": "LEGO® Game Boy™\nhttps://www.lego.com/ja-jp/product/game-boy-72046\n\nLEGOを作る再生リスト\nhttps://www.youtube.com/playlist?list=PL6gUpTCMieF41NOt0vJNEFgjYGyQh3uIk\n\n▷=====================..."
-            }
-        ]
+        "videos": []
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -113,7 +128,15 @@
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Zlnqxdwg5Io",
+                "title": "朝のぉぁょ~！",
+                "date": "2026/05/04 05:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Zlnqxdwg5Io/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAoR9k727cZ5AfqcUcvbTvfrZlHdg",
+                "description": "タグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nころねTwitter▶https://twitter.com/inugamikorone\n\n-----------------------------..."
+            }
+        ]
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
@@ -181,7 +204,15 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "f3pSug27sbE",
+                "title": "【BLEACH Rebirth of Souls】完全初見 どんな話なんだ…！#10【水宮枢／ホロライブDEV_IS】",
+                "date": "2026/05/04 20:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/f3pSug27sbE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtgjgpjZ2BTlxoz4iN28ZCeJDzFA",
+                "description": "このゲーム実況は「バンダイナムコエンターテインメント ゲーム実況ポリシー」に基づき制作・配信されています。\nhttps://www.bandainamcoent.co.jp/info/v..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -261,28 +292,21 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "P6JvmErYjVc",
+                "title": "【#朝ミオGW寝起き逆凸 】毎年恒例！２０２６年の寝起き逆凸です☀【ホロライブ】",
+                "date": "2026/05/04 06:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/P6JvmErYjVc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNXYdHEHvyZwm0XpaoqUgp3u8t_Q",
+                "description": "１０人ほどに逆凸する予定です！！！！\nド早朝にも関わらず、手を挙げてくれたみんなに感謝・・！\n\nサムネillustrator：にくにくにんにくさん..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
         "channel_name": "Subaru Ch. 大空スバル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28",
-        "videos": [
-            {
-                "video_id": "EPkpznRWp_Y",
-                "title": "【】先輩格付けランキング！【ホロライブ/大空スバル】",
-                "date": "2026/05/06 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/EPkpznRWp_Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtM2LGuTYiFAObUJeqJTe2kywyBw",
-                "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n\n🔽楽曲各..."
-            },
-            {
-                "video_id": "Y1KcVSZK-TA",
-                "title": "【】モノマネ凸待ち【ホロライブ/大空スバル】",
-                "date": "2026/05/04 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/Y1KcVSZK-TA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSeTqu_A8z_T4LXMACMAvX3yScww",
-                "description": "🐣おやくそく/Rule🐣\n・待機所でお喋りしないでね！コメントするなら待機で！\n・Do not conversation to other users in the waiting room to avoid trouble\n\n🔽楽曲各..."
-            }
-        ]
+        "videos": []
     },
     "@OtonoseKanade": {
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
@@ -354,7 +378,15 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "4se_7QogWcc",
+                "title": "【同時視聴】[14話～19話] 機動戦士ガンダム 鉄血のオルフェンズ 一緒に観ようッ！！【白銀ノエル/ホロライブ】",
+                "date": "2026/05/04 19:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/4se_7QogWcc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzBwgij6DET9Acq2izZOIYJB5jfQ",
+                "description": "だんちょはネットフリックスで見るよ！ミラーではないので各自準備お願いしまっする💪\n※同時視聴の性質上ちょいぐるったりカクカクしてもと..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -458,7 +490,15 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "w37yVSXhV_c",
+                "title": "【3D LIVE CONCERT】Raora Panthera First Birthday Live Concert! #RaoraBday2026",
+                "date": "2026/05/10 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/w37yVSXhV_c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClyBhsOzfwNYwSkbzJEXSxdlA-FQ",
+                "description": "Stay tuned for exciting guest announcements and more surprises!!! \nRAOOOOO!!! 🎉🎂✨🍰🥳🎈\n\nThumbnail Illustration: RyotaH\nLogo Design: Spiritsnare\n\n『 X  』  \nhttps://x.com/raorapanth..."
+            }
+        ]
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
@@ -476,7 +516,15 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "97n0J2LqxMM",
+                "title": "【Dark Souls II】 First playthrough of the most contentious Dark Souls",
+                "date": "2026/05/04 05:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/97n0J2LqxMM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCy0A5vMHFbEtwy3fmElNSLNDH-GQ",
+                "description": "New playthrough start!!\n\nMerch: https://ohmonah.shop/collections/nimi-nightmare\n\n  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋\n\nKonbakuwa! I'm Nimi, the baku nurse VTuber of your nightmares~\n#VTuber..."
+            }
+        ]
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
