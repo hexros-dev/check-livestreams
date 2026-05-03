@@ -79,7 +79,22 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "-tx9lixlJe4",
+                "title": "【 #朝こよ GWスペシャル】ゴールデンウィークの火曜日の朝は朝こよ・・・じゃなくて朝551！？朝こよ初の総集編だ！☀ #283 【尾丸ポルカ・一条莉々華・博衣こより/hololive】",
+                "date": "2026/05/05 05:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/-tx9lixlJe4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSbAY4fT7JQSYuF4oRPByrmi8qnw",
+                "description": "初めての「朝こよ！」総集編✨@OmaruPolka @IchijouRirika を(起きられたら)お迎えして、朝こよリークを振り返っちゃおう！\n✅みんなが選ぶ想い出に残..."
+            },
+            {
+                "video_id": "Y505e4FZ9dA",
+                "title": "【100年桃鉄ハンデ戦】はじめての54年ハンデ戦！～54年間最弱CPU豆鬼がプレイしたデータで最強CPU3人に逆転できるのか！？～ #1 【博衣こより/ホロライブ】",
+                "date": "2026/05/04 07:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/Y505e4FZ9dA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCp9EsRDrr9R2qBR6rj3D4kkMvuuw",
+                "description": "#こより100年桃鉄ハンデ戦 でポスト❣　今年の5/4こよの日は桃鉄だ～！✨\n🍑桃鉄ハンデ戦とは🍑\n最強CPU（今回はさくま・エンマ・楊貴妃の3人）..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -197,15 +212,7 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": [
-            {
-                "video_id": "f3pSug27sbE",
-                "title": "【BLEACH Rebirth of Souls】完全初見 どんな話なんだ…！#10【水宮枢／ホロライブDEV_IS】",
-                "date": "2026/05/04 20:30:00",
-                "thumbnail": "https://i.ytimg.com/vi/f3pSug27sbE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtgjgpjZ2BTlxoz4iN28ZCeJDzFA",
-                "description": "このゲーム実況は「バンダイナムコエンターテインメント ゲーム実況ポリシー」に基づき制作・配信されています。\nhttps://www.bandainamcoent.co.jp/info/v..."
-            }
-        ]
+        "videos": []
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -277,15 +284,7 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": [
-            {
-                "video_id": "P6JvmErYjVc",
-                "title": "【#朝ミオGW寝起き逆凸 】毎年恒例！２０２６年の寝起き逆凸です☀【ホロライブ】",
-                "date": "2026/05/04 06:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/P6JvmErYjVc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNXYdHEHvyZwm0XpaoqUgp3u8t_Q",
-                "description": "１０人ほどに逆凸する予定です！！！！\nド早朝にも関わらず、手を挙げてくれたみんなに感謝・・！\n\nサムネillustrator：にくにくにんにくさん..."
-            }
-        ]
+        "videos": []
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -386,7 +385,15 @@
         "channel_url": "https://www.youtube.com/@ShiroganeNoel",
         "channel_name": "Noel Ch. 白銀ノエル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "4se_7QogWcc",
+                "title": "【同時視聴】[14話～19話] 機動戦士ガンダム 鉄血のオルフェンズ 一緒に観ようッ！！【白銀ノエル/ホロライブ】",
+                "date": "2026/05/04 19:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/4se_7QogWcc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzBwgij6DET9Acq2izZOIYJB5jfQ",
+                "description": "だんちょはネットフリックスで見るよ！ミラーではないので各自準備お願いしまっする💪\n※同時視聴の性質上ちょいぐるったりカクカクしてもと..."
+            }
+        ]
     },
     "@ShishiroBotan": {
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
@@ -476,7 +483,15 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "42Ydy0GlKmo",
+                "title": "【GREMBERS WATCHALONG】The Good Place S2 EP1-7",
+                "date": "2026/05/04 04:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/42Ydy0GlKmo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEsagcCpSO9PuEPWV3L-OiJMQltg",
+                "description": "gremstax\n\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
