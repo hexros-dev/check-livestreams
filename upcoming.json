@@ -21,15 +21,7 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": [
-            {
-                "video_id": "QOhx69w-X_Q",
-                "title": "『#子供に戻ったらやりたいこと 』 #アキちょこナイパレ 第34回 ～ホロライブ深夜ラジオ～",
-                "date": "2026/05/04 21:40:00",
-                "thumbnail": "https://i.ytimg.com/vi/QOhx69w-X_Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDT2VbfjNsoviFK0Z1re2Se4tLKqw",
-                "description": "📰最新NEWS🌟\n🎧アキ・ローゼンタール6thオリジナル楽曲リリース開始！\n『モノポリー』https://cover.lnk.to/bF9eML\n\n🍎アキロゼ広告衣装スポンサー募..."
-            }
-        ]
+        "videos": []
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -237,7 +229,15 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "kYW2gLiX0EE",
+                "title": "【 FF7 】完全初見🔥星の未来をかけて頑張ります！#08【 猫又おかゆ/ホロライブ 】※ネタバレあり",
+                "date": "2026/05/03 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/kYW2gLiX0EE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdDQ7RCb9mQKZzsZd7JUEY-X-FSg",
+                "description": "インターナショナル版を遊んでいきます！\n❥・・ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ・・❥\n🍙にゃんぐこーん オリジナル楽曲🌽\n『けもも..."
+            }
+        ]
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -261,7 +261,15 @@
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
         "avatar_url": "https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "J18vAG198XI",
+                "title": "【Cursed Companions】魔法を唱えてクリアしよう！※NGワード有※【大神ミオ視点】",
+                "date": "2026/05/03 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/J18vAG198XI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXji69O1T_Ef927mTQ0Ndtx20CMw",
+                "description": "NGワードを言うと・・え？どうなるの？？？\n言葉で魔法を唱えて進むゲームらしい！ﾜｸﾜｸ\n\n🌟参加メンバー🌟\n白上フブキ @ShirakamiFubuki ..."
+            }
+        ]
     },
     "@OozoraSubaru": {
         "channel_url": "https://www.youtube.com/@OozoraSubaru",
@@ -327,7 +335,15 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "a2JWi6iywG0",
+                "title": "【Cursed Companions】NGワードを言うと仲間が次々と滅するゲーム　＃ホロコンパニオンズ　【ホロライブ/白上フブキ】",
+                "date": "2026/05/03 19:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/a2JWi6iywG0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAryMM9Fperx3AEcegRBZBwOtadQA",
+                "description": "＃ホロコンパニオンズ\nさくらみこ @SakuraMiko  星街すいせい @HoshimachiSuisei  大神ミオ @OokamiMio \n常闇トワ　@TokoyamiTowa  百鬼あやめ @NakiriAyame \n輪堂千速..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",

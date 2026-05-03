@@ -303,7 +303,14 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "CIl2-lTkucE",
+                "title": "【FINAL FANTASY XIV】続！極マウント周回で阿鼻叫喚しよう　※ネタバレあり※ 【ホロライブ/白上フブキ】",
+                "thumbnail": "https://i.ytimg.com/vi/CIl2-lTkucE/hqdefault.jpg?v=69f6c58b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBk22AcDL4I5iN9bJMbjc8AShD_bw",
+                "description": "✨️NEW✨️\n🌽フブミオロイヤルグッズ🌲\n▷https://shop.hololivepro.com/products/fubumio_royalmerch\n〆5月25日 18時00分まで\n\n🌽🍙にゃんぐこーん  オリジナル..."
+            }
+        ]
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -424,14 +431,7 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
-        "videos": [
-            {
-                "video_id": "4PGB9t4V5no",
-                "title": "【トモダチコレクション】～そうだ、楽園を作ろう～【風真いろは/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/4PGB9t4V5no/hqdefault.jpg?v=69f6b819&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLByTE3A5YKex7NBHWVzRs-hN8ooqA",
-                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*⇔*――*..."
-            }
-        ]
+        "videos": []
     },
     "@mikenekoko": {
         "channel_url": "https://www.youtube.com/@mikenekoko",
