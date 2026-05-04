@@ -76,7 +76,14 @@
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
         "channel_name": "Luna Ch. 姫森ルーナ",
         "avatar_url": "https://yt3.googleusercontent.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "KLbYXVXtn_A",
+                "title": "【 LEGO 】レゴのゲームボーイを組み立てるのら！！！Build with LEGO【姫森ルーナ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/KLbYXVXtn_A/hqdefault.jpg?v=69f72de2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_iUIH2uxpN_y-gpHKDj3Lo74JDA",
+                "description": "LEGO® Game Boy™\nhttps://www.lego.com/ja-jp/product/game-boy-72046\n\nLEGOを作る再生リスト\nhttps://www.youtube.com/playlist?list=PL6gUpTCMieF41NOt0vJNEFgjYGyQh3uIk\n\n▷=====================..."
+            }
+        ]
     },
     "@HiodoshiAo": {
         "channel_url": "https://www.youtube.com/@HiodoshiAo",
@@ -136,7 +143,14 @@
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
         "channel_name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "J0OSvcnEdZY",
+                "title": "【 スーパーマリオワールド 】完全初見！ついにクリア！？初めてのマリオワールドに挑戦！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+                "thumbnail": "https://i.ytimg.com/vi/J0OSvcnEdZY/hqdefault.jpg?v=69f82f7f&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCP7XaQgdyNf9JZ0TL56WgrqdbGVg",
+                "description": "この動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\nサムネイルの素敵なイラスト　ちゃぼさん　https://x.com/x_xhauntedx_x?s=..."
+            }
+        ]
     },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
@@ -214,7 +228,14 @@
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "_Wls4gK4xts",
+                "title": "【鳴潮2周年】2周年ってことはガチャから始めなきゃですよね！？【ホロライブ/夏色まつり】",
+                "thumbnail": "https://i.ytimg.com/vi/_Wls4gK4xts/hqdefault.jpg?v=69f76d4d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdj1d8LAg8BdLwsesxLmbcboldPg",
+                "description": "...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\n\n素敵なサムネイル→みなづき。様\n@minaduki223\n\n\n鳴潮はEpic Games Storeにて好..."
+            }
+        ]
     },
     "@NekomataOkayu": {
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
@@ -256,14 +277,7 @@
         "channel_url": "https://www.youtube.com/@OtonoseKanade",
         "channel_name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC",
-        "videos": [
-            {
-                "video_id": "uJwnyRcry28",
-                "title": "【リトルナイトメア #02 】この子を、化け物から守って見せるんだ！！完全初見！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS ※ネタバレあり",
-                "thumbnail": "https://i.ytimg.com/vi/uJwnyRcry28/hqdefault.jpg?v=69f837b3&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCrQMw0Bjav62QkIKV63AJt_bR0fg",
-                "description": "▽✨重大告知✨ ▽\n音乃瀬奏 2ndオリジナル曲「You＆合図」\n4/20(月) 24：00（4/21  0：00）リリース開始！\nhttps://cover.lnk.to/4RIBgl\n\n『音乃瀬奏 誕生日記念2..."
-            }
-        ]
+        "videos": []
     },
     "@OuroKronii": {
         "channel_url": "https://www.youtube.com/@OuroKronii",
@@ -335,7 +349,14 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "8z5Jz9Zx18M",
+                "title": "【Windrose / ウィンドローズ】海賊王に俺はなる！－話題の海賊オープンワールドクラフトゲー【獅白ぼたん/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/8z5Jz9Zx18M/hqdefault.jpg?v=69f7ddd0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsyPSMxFmMv1MCbmsbEMwR6UQ1Gw",
+                "description": "話題のオープンワールドサバイバルクラフトゲーム！\nまずは船をGETしたい\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n🔸新着情報/New!\n┈┈┈┈┈┈┈..."
+            }
+        ]
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
