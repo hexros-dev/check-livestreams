@@ -63,14 +63,7 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": [
-            {
-                "video_id": "Y505e4FZ9dA",
-                "title": "【100年桃鉄ハンデ戦】はじめての54年ハンデ戦！～54年間最弱CPU豆鬼がプレイしたデータで最強CPU3人に逆転できるのか！？～ #1 【博衣こより/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/Y505e4FZ9dA/hqdefault.jpg?v=69f72bf0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCp9EsRDrr9R2qBR6rj3D4kkMvuuw",
-                "description": "#こより100年桃鉄ハンデ戦 でポスト❣　今年の5/4こよの日は桃鉄だ～！✨\n🍑桃鉄ハンデ戦とは🍑\n最強CPU（今回はさくま・エンマ・楊貴妃の3人）..."
-            }
-        ]
+        "videos": []
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -125,7 +118,14 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "F9B7VI4uFMA",
+                "title": "【ARK: Survival Ascended】初見ARK！恐竜さん見てみたい✨【ホロライブ DEV_IS 響咲リオナ】",
+                "thumbnail": "https://i.ytimg.com/vi/F9B7VI4uFMA/hqdefault.jpg?v=69f76632&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjQhehOZ_WZoOBw5KFJi9J5sS58Q",
+                "description": "本ゲームは Studio Wildcard の確認を得た上で配信・収益化を行なっております。\n\nサムネイラスト　Bocoさん(@ decoboco_b0c0)にお借りしました♡素敵なイ..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -230,10 +230,10 @@
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
         "videos": [
             {
-                "video_id": "_Wls4gK4xts",
-                "title": "【鳴潮2周年】2周年ってことはガチャから始めなきゃですよね！？【ホロライブ/夏色まつり】",
-                "thumbnail": "https://i.ytimg.com/vi/_Wls4gK4xts/hqdefault.jpg?v=69f76d4d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdj1d8LAg8BdLwsesxLmbcboldPg",
-                "description": "...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\n\n素敵なサムネイル→みなづき。様\n@minaduki223\n\n\n鳴潮はEpic Games Storeにて好..."
+                "video_id": "CTSc8KFzMnI",
+                "title": "【歌枠】アイドル目指してすきを歌うッ♡【ホロライブ/夏色まつり】",
+                "thumbnail": "https://i.ytimg.com/vi/CTSc8KFzMnI/hqdefault.jpg?v=69f7e06b&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQfeo7vcGvC_RxFI6c2eK_YAfulA",
+                "description": "...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\n\n素敵なサムネイル→夏麦様\n@absentable655\n\n\n...｡oо○**○оo｡...｡oо○**○оo..."
             }
         ]
     },
@@ -295,7 +295,14 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "JHO8eUBTR9M",
+                "title": "【ポケモン/リーフグリーン】#5 パラスと一緒に初見ポケモン！！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+                "thumbnail": "https://i.ytimg.com/vi/JHO8eUBTR9M/hqdefault.jpg?v=69f7a08a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1iFTQHHgaVPmZJ99FidonWhFxmw",
+                "description": "パラスと冒険はじまった！！！！！！！！\n\n配信タイトル：ポケットモンスター リーフグリーン\n公式サイト：https://www.pokemon.co.jp/game/gba/fl/\n\n..."
+            }
+        ]
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -313,7 +320,14 @@
         "channel_url": "https://www.youtube.com/@SakuraMiko",
         "channel_name": "Miko Ch. さくらみこ",
         "avatar_url": "https://yt3.googleusercontent.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Pwtq8HB1KCY",
+                "title": "【#V最弱マリパ決定戦】Vマリパ最弱⁉な４人で決定戦マリパ‼🔥【ホロライブ/さくらみこ】",
+                "thumbnail": "https://i.ytimg.com/vi/Pwtq8HB1KCY/hqdefault.jpg?v=69f710fa&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhdKA6rgNZR7F-RCLcR0UJqzSyOQ",
+                "description": "まさか本当に実現するとはな･････\nにじさんじ @TakamiyaRion 個人勢 @ui_shig レジェンド @AIChannel \n\n\n🌸新曲⚡『ファッションビート』MV公開中🌸..."
+            }
+        ]
     },
     "@SamekoSaba": {
         "channel_url": "https://www.youtube.com/@SamekoSaba",
@@ -349,14 +363,7 @@
         "channel_url": "https://www.youtube.com/@ShishiroBotan",
         "channel_name": "Botan Ch.獅白ぼたん",
         "avatar_url": "https://yt3.googleusercontent.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu",
-        "videos": [
-            {
-                "video_id": "8z5Jz9Zx18M",
-                "title": "【Windrose / ウィンドローズ】海賊王に俺はなる！－話題の海賊オープンワールドクラフトゲー【獅白ぼたん/ホロライブ】",
-                "thumbnail": "https://i.ytimg.com/vi/8z5Jz9Zx18M/hqdefault.jpg?v=69f7ddd0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsyPSMxFmMv1MCbmsbEMwR6UQ1Gw",
-                "description": "話題のオープンワールドサバイバルクラフトゲーム！\nまずは船をGETしたい\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n🔸新着情報/New!\n┈┈┈┈┈┈┈..."
-            }
-        ]
+        "videos": []
     },
     "@TakanashiKiara": {
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
@@ -470,12 +477,26 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "iKLwRAIiblQ",
+                "title": "【Windrose/ウィンドローズ】話題の海賊サバイバルぼたんちゃんとやってみる！海賊王におれはなるっ!!!!!ぺこ！【ホロライブ/兎田ぺこら】",
+                "thumbnail": "https://i.ytimg.com/vi/iKLwRAIiblQ/hqdefault.jpg?v=69f86def&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAEA0XhuGr-P0ZcalLUT6QAodmXxQ",
+                "description": "@ShishiroBotan \n\nサムネイラスト：ポルネコさん\n\n⋈ －－－－－－－－－－－－－－－－－－－－－⋈\n\n🥕Twitter🥕\nhttps://twitter.com/usadapekora\n\nハッシュタ..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
         "channel_name": "Sakuna Ch. 結城さくな",
         "avatar_url": "https://yt3.googleusercontent.com/FMN1EFewgQi-NY9enoq_Z2jCizHUhRkKwXGo2FhvpEWUpK8wK2c2yjcP2rQiGWLYjostpvyj",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "FXmtLmaC2oE",
+                "title": "【メン限】雀魂のSAOコラボの絆レベルをあげたいの巻",
+                "thumbnail": "https://i.ytimg.com/vi/FXmtLmaC2oE/hqdefault.jpg?v=69f8379d&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB04es3bUBAP7EdbXOLLKQxma_6rg",
+                "description": "たぶん雑談多め　ランク戦やる\n🎀グッズ・ボイス販売はこちら🐾\nhttps://yuki-sakuna.stores.jp/\n\n🎀歌ってみた動画🐾\nhttps://youtube.com/playlist?list=PLErsMirGq..."
+            }
+        ]
     }
 }
