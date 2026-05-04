@@ -63,7 +63,14 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "-tx9lixlJe4",
+                "title": "【 #朝こよ GWスペシャル】ゴールデンウィークの火曜日の朝は朝こよ・・・じゃなくて朝551！？朝こよ初の総集編だ！☀ #283 【尾丸ポルカ・一条莉々華・博衣こより/hololive】",
+                "thumbnail": "https://i.ytimg.com/vi/-tx9lixlJe4/hqdefault.jpg?v=69f74410&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSbAY4fT7JQSYuF4oRPByrmi8qnw",
+                "description": "初めての「朝こよ！」総集編✨@OmaruPolka @IchijouRirika を(起きられたら)お迎えして、朝こよリークを振り返っちゃおう！\n✅みんなが選ぶ想い出に残..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -261,14 +268,7 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": [
-            {
-                "video_id": "SVvqOKTNk08",
-                "title": "【Tomodachi Life】Never Too Late For New Beginnings【Pavolia Reine/hololiveID】",
-                "thumbnail": "https://i.ytimg.com/vi/SVvqOKTNk08/hqdefault.jpg?v=69f8c105&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTyrtIqFcWUSHq7mbVwHAXH8_5Ww",
-                "description": "Pavolia Reine Keyboard Collection Preorders: https://hololive-keyboards-shop.fourthwall.com/\nClosing on April 27th!\n\nNintendo properties used in this video and livestream are used with permission..."
-            }
-        ]
+        "videos": []
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
