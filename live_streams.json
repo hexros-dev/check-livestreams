@@ -63,7 +63,14 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "W3f2-1mzGAk",
+                "title": "【 #こより100年桃鉄ハンデ戦 】はじめての54年ハンデ戦！～54年間最弱CPU豆鬼がプレイしたデータで最強CPU3人に逆転し、全物件買い占めできるのか！？～ #2 【博衣こより/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/W3f2-1mzGAk/hqdefault.jpg?v=69f89393&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_SGR7vSFFE8_weYydUmiuOaiMsg",
+                "description": "#こより100年桃鉄ハンデ戦 でポスト❣　今年の5/4こよの日は桃鉄だ～！✨逆転はしたので次の目標は【10兆一括払いの国会議事堂購入】【全物件買..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -147,7 +154,14 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "mKpHQPMkDSE",
+                "title": "【PowerWash Simulator 2】GET CLEAN WITH ADVENT! + ANNOUNCEMENT! #holoadvent",
+                "thumbnail": "https://i.ytimg.com/vi/mKpHQPMkDSE/hqdefault.jpg?v=69f8bfc5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDefX9y2co4MlUIsM4_GXeHZckwsw",
+                "description": "with @ShioriNovella and @NerissaRavencroft \n\nAdvent ASMR Pack:\nTrailer: https://www.youtube.com/watch?v=EV-iyA4g8oU\nEN: https://shop.hololivepro.com/en/products/hololiveenadvent_asmr_averyadventuro..."
+            }
+        ]
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -207,14 +221,7 @@
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
-        "videos": [
-            {
-                "video_id": "DX139lPvzv0",
-                "title": "【歌枠】GWって最強だ。【ホロライブ/夏色まつり】",
-                "thumbnail": "https://i.ytimg.com/vi/DX139lPvzv0/hqdefault.jpg?v=69f945ac&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7QAOa57ne95NWvuEGeoZ4cDe4Hw",
-                "description": "...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\n\n素敵なサムネイル→NIKUO様\n@nikuniku_nikuya\n\n\n...｡oо○**○оo｡...｡oо○**○о..."
-            }
-        ]
+        "videos": []
     },
     "@NekomataOkayu": {
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
@@ -226,14 +233,7 @@
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
         "channel_name": "Nerissa Ravencroft Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ",
-        "videos": [
-            {
-                "video_id": "nG8JZuZF9z8",
-                "title": "ADVENT CAR WASH! + ANNOUNCEMENT | PowerWash Simulator 2",
-                "thumbnail": "https://i.ytimg.com/vi/nG8JZuZF9z8/hqdefault.jpg?v=69f8289a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHt6wbDwndhUPQS3O5biwj_mpB0Q",
-                "description": "∴∴🎶*┈┈┈┈┈┈┈┈┈┈┈┈┈*🎶∴∴\n\n🐦‍⬛twitter: https://x.com/nerissa_en\n🐦‍⬛spotify: https://open.spotify.com/artist/4uzAnzFMXarRPOBAG2lIIa\n🐦‍⬛insta:..."
-            }
-        ]
+        "videos": []
     },
     "@NinomaeInanis": {
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
@@ -311,14 +311,7 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": [
-            {
-                "video_id": "1krRDpCE-J0",
-                "title": "Cleaning Your Ears With a Pressure Washer ASMR 【PowerWash Simulator 2】",
-                "thumbnail": "https://i.ytimg.com/vi/1krRDpCE-J0/hqdefault.jpg?v=69f7b0f0&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGfKWe8fty0V057jksCTxNR864zA",
-                "description": "My first original song 「Monsters and Men」OUT NOW!\n🎧Listen to it here: https://cover.lnk.to/Y6ZMPF\n📹Music Video here: https://www.youtube.com/watch?v=NX1ZCKJ67dc\n\n=========================..."
-            }
-        ]
+        "videos": []
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
