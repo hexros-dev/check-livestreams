@@ -21,15 +21,7 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": [
-            {
-                "video_id": "L6FFomCgriA",
-                "title": "『 #GWでうれしかったことは？ 』 #アキちょこナイパレ 第35回 ～ホロライブ深夜ラジオ～",
-                "date": "2026/05/11 21:40:00",
-                "thumbnail": "https://i.ytimg.com/vi/L6FFomCgriA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsFm9bz5NenZ3UQCP3047D6kfyXQ",
-                "description": "📰最新NEWS🌟\n🎧アキ・ローゼンタール6thオリジナル楽曲リリース開始！\n『モノポリー』https://cover.lnk.to/bF9eML\n\n🍎アキロゼ広告衣装スポンサー募..."
-            }
-        ]
+        "videos": []
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -71,7 +63,15 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "x_1OYadpwyc",
+                "title": "【 #こより100年桃鉄ハンデ戦 】初の54年ハンデ戦クリアまで！～54年間最弱CPU豆鬼がプレイしたデータで最強CPU3人相手に全物件買い占めできるのか！？～ #最終回 【博衣こより/ホロライブ】",
+                "date": "2026/05/06 09:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/x_1OYadpwyc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8knftMqFT0v2Qy5WdxXkHowCviQ",
+                "description": "#こより100年桃鉄ハンデ戦 でポスト❣　今年の5/4こよの日は桃鉄だ～！✨【逆転】【10兆一括払いの国会議事堂購入】は達成！あとは【全物件買い..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -237,7 +237,15 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ubKmGP1jC3M",
+                "title": "【 🟣言っちゃダメ 】禁句を喋ると命取り⁉️Cursed Companionで遊ぼう🤝✦【 猫又おかゆ視点/ホロライブ 】",
+                "date": "2026/05/06 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ubKmGP1jC3M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdriQF3nvEiBRU5s5oc4Fqjvae-Q",
+                "description": "@NatsuiroMatsuri 誘ってくれました🧡🏮\n@OozoraSubaru @TsunomakiWatame @IsakiRiona \n❥・・ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ・・❥\n🍙にゃんぐこーん..."
+            }
+        ]
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -279,7 +287,15 @@
         "channel_url": "https://www.youtube.com/@OuroKronii",
         "channel_name": "Ouro Kronii Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "esjpYSrvjB4",
+                "title": "【Resident Evil Requiem】Crying | #2",
+                "date": "2026/05/06 08:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/esjpYSrvjB4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApqpfNnxYNpV6lbPwjqASrjdicYA",
+                "description": "This video and livestream are being streamed with permission and under license by CAPCOM CO., LTD.\n※Please note that this video contains grotesque language. Minors are not allowed to view..."
+            }
+        ]
     },
     "@PavoliaReine": {
         "channel_url": "https://www.youtube.com/@PavoliaReine",
@@ -291,15 +307,7 @@
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": [
-            {
-                "video_id": "syZwNEHinxs",
-                "title": "【ポケモン/リーフグリーン】#6 パラスと一緒に初見ポケモン！！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "date": "2026/05/07 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/syZwNEHinxs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwpHeLD_aW00Vpg3AJp9zKC12FCw",
-                "description": "パラスと冒険はじまった！！！！！！！！\n\n配信タイトル：ポケットモンスター リーフグリーン\n公式サイト：https://www.pokemon.co.jp/game/gba/fl/\n\n..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -365,15 +373,7 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": [
-            {
-                "video_id": "gbShhPZnV08",
-                "title": "【 ドラゴンボールZ KAKAROT 】完全初見！残りのサブクエを楽しむ最終回✨【鷹嶺ルイ/ホロライブ】※ネタバレあり",
-                "date": "2026/05/06 10:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/gbShhPZnV08/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApyJppHDzjEmY6ZXFXv8TLSvmGng",
-                "description": "サブクエが面白い\n\nこのゲーム実況は「バンダイナムコエンターテインメント ゲーム実況ポリシー」に基づき制作・配信されています。\nhttps://www.b..."
-            }
-        ]
+        "videos": []
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
@@ -397,7 +397,15 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "2xyaIHRQIaI",
+                "title": "【 Cursed Companions 】NGワードを言ってはいけないよ、絶対だよ【角巻わため/ホロライブ４期生】",
+                "date": "2026/05/06 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/2xyaIHRQIaI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_4dsybcEvbbMahltKVjod8amaag",
+                "description": "NGワードを言うと仲間が爆散する？！\nタグ：#ドドドライブ \n\n✨仲間たち✨\n@NatsuiroMatsuri \n@OozoraSubaru \n@NekomataOkayu \n@TsunomakiWatame \n@IsakiRiona \n\n配信タイト..."
+            }
+        ]
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -457,15 +465,7 @@
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
-        "videos": [
-            {
-                "video_id": "UTcUiGWWIe4",
-                "title": "【#マイクラバーサス】初参戦🔥逃げ足だけははやいはず・・・!?がんばります✨【風真いろは/ホロライブ】",
-                "date": "2026/05/06 16:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/UTcUiGWWIe4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDe-00gVxb4-KlVUkPDcnz11FKT1w",
-                "description": "マイクラバーサス 〜 ハント・アンド・ラン 〜 赤ちゃんモブを見つけよう！\n30名のランナーたちは、3名のハンターに立ち向かうことはできるので..."
-            }
-        ]
+        "videos": []
     },
     "@mikenekoko": {
         "channel_url": "https://www.youtube.com/@mikenekoko",
