@@ -154,14 +154,7 @@
         "channel_url": "https://www.youtube.com/@KosekiBijou",
         "channel_name": "Koseki Bijou Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w",
-        "videos": [
-            {
-                "video_id": "mKpHQPMkDSE",
-                "title": "【PowerWash Simulator 2】GET CLEAN WITH ADVENT! + ANNOUNCEMENT! #holoadvent",
-                "thumbnail": "https://i.ytimg.com/vi/mKpHQPMkDSE/hqdefault.jpg?v=69f8bfc5&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDefX9y2co4MlUIsM4_GXeHZckwsw",
-                "description": "with @ShioriNovella and @NerissaRavencroft \n\nAdvent ASMR Pack:\nTrailer: https://www.youtube.com/watch?v=EV-iyA4g8oU\nEN: https://shop.hololivepro.com/en/products/hololiveenadvent_asmr_averyadventuro..."
-            }
-        ]
+        "videos": []
     },
     "@KureijiOllie": {
         "channel_url": "https://www.youtube.com/@KureijiOllie",
@@ -347,7 +340,14 @@
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ciEOEVZSY58",
+                "title": "【 ドラゴンボールZ KAKAROT 】完全初見！DAIMA編PART2。【鷹嶺ルイ/ホロライブ】※ネタバレあり",
+                "thumbnail": "https://i.ytimg.com/vi/ciEOEVZSY58/hqdefault.jpg?v=69f8e811&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC55y_SIzbjo4pNHNOH7qY2ycJdbQ",
+                "description": "ゴマーでかくね？\n\nこのゲーム実況は「バンダイナムコエンターテインメント ゲーム実況ポリシー」に基づき制作・配信されています。\nhttps://www.b..."
+            }
+        ]
     },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
