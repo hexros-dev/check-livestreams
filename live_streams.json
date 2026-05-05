@@ -47,6 +47,12 @@
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
         "videos": []
     },
+    "@GawrGura": {
+        "channel_url": "https://www.youtube.com/@GawrGura",
+        "channel_name": "Gawr Gura Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/6BCfAqi9yIpZbHLbw9BAWySvB3XZf9r8jFqudO5nSOsHoGzLhlKrm1M1uuMCRabi_pXGDzl7",
+        "videos": []
+    },
     "@HakosBaelz": {
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
@@ -112,7 +118,14 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "0Xeeb24jr08",
+                "title": "【無礼講Among us】ちーーっす！！ういーっす！・・・無礼講ってこんな感じ(;'∀')？【ホロライブ DEV_IS 響咲リオナ】",
+                "thumbnail": "https://i.ytimg.com/vi/0Xeeb24jr08/hqdefault.jpg?v=69f9a985&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsSapv6KqcfKi5guMfj8YYSY_jzA",
+                "description": "果たして、リオナさん無礼講できるのだろうか・・・・・\n\n本ゲームは InnerSloth に確認を得た上で配信・収益化を行っております\n\nまた、下記のMOD..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -178,14 +191,7 @@
         "channel_url": "https://www.youtube.com/@MoonaHoshinova",
         "channel_name": "Moona Hoshinova hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3",
-        "videos": [
-            {
-                "video_id": "cZcnLEma6P0",
-                "title": "【Tomodachi Life: Living the Dream】Continue my play~【hololive | moona】",
-                "thumbnail": "https://i.ytimg.com/vi/cZcnLEma6P0/hqdefault.jpg?v=69f992cf&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAyy-AgY7-d-sGVt64A-6zrFNaoQ",
-                "description": "Streamlabs donation link here : https://streamlabs.com/moonahoshinovahololive-id/tip\nSociaBuzz donation link here : https://sociabuzz.com/moonahoshinova/tribe\n======================================..."
-            }
-        ]
+        "videos": []
     },
     "@MoriCalliope": {
         "channel_url": "https://www.youtube.com/@MoriCalliope",
@@ -359,7 +365,14 @@
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
         "channel_name": "Towa Ch.Tokoyami Towa",
         "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "CBlvSHVoeuI",
+                "title": "【 STREET FIGHTER 6 】リスナー参加型カスタム‼️50勝したら告知‼️🔥【常闇トワ/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/CBlvSHVoeuI/hqdefault.jpg?v=69f965a9&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbjVF9wtiTkvYmuamjW7gETJejUA",
+                "description": "ルール\n\n1先\n1人1回でおねがいします！！\n\n50勝したら告知！！\n\n最初の1時間はメンバー限定でカスタムパスワードお伝えします！\nその後は全体公開..."
+            }
+        ]
     },
     "@TsunomakiWatame": {
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
@@ -443,7 +456,14 @@
         "channel_url": "https://www.youtube.com/@usadapekora",
         "channel_name": "Pekora Ch. 兎田ぺこら",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Yr4O3ol4Ib4",
+                "title": "【AmongUs】ゴールデンウィークは無礼講アモアスやるぞ！！！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
+                "thumbnail": "https://i.ytimg.com/vi/Yr4O3ol4Ib4/hqdefault.jpg?v=69f9aba2&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6_xgOFeO0Opq0KX_nkclSjOMPcQ",
+                "description": "愉快なメンバー\n@AZKi \n@IsakiRiona \n@KikiraraVivi \n@NekomataOkayu \n@JuufuuteiRaden \n@ShirakamiFubuki \n@ShiroganeNoel \n@usadapekora \n@YukihanaLamy \n\n⋈ －－－－－－－－－－－－－..."
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",

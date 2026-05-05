@@ -55,6 +55,12 @@
         "avatar_url": "https://yt3.googleusercontent.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA",
         "videos": []
     },
+    "@GawrGura": {
+        "channel_url": "https://www.youtube.com/@GawrGura",
+        "channel_name": "Gawr Gura Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/6BCfAqi9yIpZbHLbw9BAWySvB3XZf9r8jFqudO5nSOsHoGzLhlKrm1M1uuMCRabi_pXGDzl7",
+        "videos": []
+    },
     "@HakosBaelz": {
         "channel_url": "https://www.youtube.com/@HakosBaelz",
         "channel_name": "Hakos Baelz Ch. hololive-EN",
@@ -65,7 +71,15 @@
         "channel_url": "https://www.youtube.com/@HakuiKoyori",
         "channel_name": "Koyori ch. 博衣こより - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "x_1OYadpwyc",
+                "title": "【 #こより100年桃鉄ハンデ戦 】初の54年ハンデ戦クリアまで！～54年間最弱CPU豆鬼がプレイしたデータで最強CPU3人相手に全物件買い占めできるのか！？～ #最終回 【博衣こより/ホロライブ】",
+                "date": "2026/05/06 09:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/x_1OYadpwyc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8knftMqFT0v2Qy5WdxXkHowCviQ",
+                "description": "#こより100年桃鉄ハンデ戦 でポスト❣　今年の5/4こよの日は桃鉄だ～！✨【逆転】【10兆一括払いの国会議事堂購入】は達成！あとは【全物件買い..."
+            }
+        ]
     },
     "@HimemoriLuna": {
         "channel_url": "https://www.youtube.com/@HimemoriLuna",
@@ -113,43 +127,19 @@
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": [
-            {
-                "video_id": "0Xeeb24jr08",
-                "title": "【無礼講Among us】ちーーっす！！ういーっす！・・・無礼講ってこんな感じ(;'∀')？【ホロライブ DEV_IS 響咲リオナ】",
-                "date": "2026/05/05 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/0Xeeb24jr08/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsSapv6KqcfKi5guMfj8YYSY_jzA",
-                "description": "果たして、リオナさん無礼講できるのだろうか・・・・・\n\n本ゲームは InnerSloth に確認を得た上で配信・収益化を行っております\n\nまた、下記のMOD..."
-            }
-        ]
+        "videos": []
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
         "channel_name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
         "avatar_url": "https://yt3.googleusercontent.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW",
-        "videos": [
-            {
-                "video_id": "RYuEVKdB_bQ",
-                "title": "【＃無礼講アモアス 】らで畑任三郎枠【儒烏風亭らでん #ReGLOSS 】",
-                "date": "2026/05/05 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/RYuEVKdB_bQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDadhwkJNULm23d_3qg-9xMZHOuJA",
-                "description": "寄ってらっしゃい見てらっしゃい hololive DEV_ISからデビューしたReGLOSSの儒烏風亭らでんと申します！\n\n本ゲームは InnerSloth に確認を得た上で配信・..."
-            }
-        ]
+        "videos": []
     },
     "@KaelaKovalskia": {
         "channel_url": "https://www.youtube.com/@KaelaKovalskia",
         "channel_name": "Kaela Kovalskia Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w",
-        "videos": [
-            {
-                "video_id": "SvOR33bAdpk",
-                "title": "【very lmao Slay the Spire 2 stream】backseat me hard enough so i can pass this ironclad A0",
-                "date": "2026/05/05 21:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/SvOR33bAdpk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqsQczDo_E2s2LEgpKY-DjO0a2Mw",
-                "description": "【Donasi lokal】Traktir yang pahit-pahit kini sangat EZGGWP!~\nLink: https://sociabuzz.com/kaelakovalskia/tribe\n\n#Kaelaif #KaelaKovalskia #holoID #hololive #hololiveID \n∘₊✧──────..."
-            }
-        ]
+        "videos": []
     },
     "@KikiraraVivi": {
         "channel_url": "https://www.youtube.com/@KikiraraVivi",
@@ -191,7 +181,15 @@
         "channel_url": "https://www.youtube.com/@MizumiyaSu",
         "channel_name": "Su Ch. 水宮枢 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "Cv4IPLqU2xM",
+                "title": "【ウマ娘プリティーダービー】完全初見#1４ 新人トレーナ✨️メイン編【水宮枢／ホロライブDEV_IS】",
+                "date": "2026/05/05 20:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/Cv4IPLqU2xM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-XyOKxhlC1TJH-NzC9455JbHAJw",
+                "description": "本ゲームは株式会社Cygamesの配信ガイドラインに則って配信・収益化を行なっております。\nhttps://umamusume.jp/news/detail.php?id=107\n▹◃┄▸◂┄▹◃┄▸..."
+            }
+        ]
     },
     "@MomosuzuNene": {
         "channel_url": "https://www.youtube.com/@MomosuzuNene",
@@ -239,15 +237,7 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
-        "videos": [
-            {
-                "video_id": "i_LOysvDaR8",
-                "title": "【 AmongUs 】GWは無礼講🔥SUS!!SUS!!SUS!!【 猫又おかゆ視点/ホロライブ 】",
-                "date": "2026/05/05 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/i_LOysvDaR8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDK47oRl8s-_YaNhosdLflDyKyUfg",
-                "description": "​@usadapekora 誘ってくれた👯💙\n@ShirakamiFubuki @AZKi @ShiroganeNoel @JuufuuteiRaden \n@IsakiRiona @KikiraraVivi @YukihanaLamy \n❥・・ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈..."
-            }
-        ]
+        "videos": []
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -311,21 +301,21 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "UIh1DeZP8Bg",
+                "title": "【Tomodachi Life】Active ENID Complete! The rebirth of doomed yuri island【Pavolia Reine/hololiveID】",
+                "date": "2026/05/05 19:30:00",
+                "thumbnail": "https://i.ytimg.com/vi/UIh1DeZP8Bg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDoBWOMcstn5GP9IsNVRGt4nW_tNQ",
+                "description": "Pavolia Reine Keyboard Collection Preorders: https://hololive-keyboards-shop.fourthwall.com/\nClosing on April 27th!\n\nNintendo properties used in this video and livestream are used with permission..."
+            }
+        ]
     },
     "@RindoChihaya": {
         "channel_url": "https://www.youtube.com/@RindoChihaya",
         "channel_name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg",
-        "videos": [
-            {
-                "video_id": "syZwNEHinxs",
-                "title": "【ポケモン/リーフグリーン】#6 パラスと一緒に初見ポケモン！！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-                "date": "2026/05/07 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/syZwNEHinxs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwpHeLD_aW00Vpg3AJp9zKC12FCw",
-                "description": "パラスと冒険はじまった！！！！！！！！\n\n配信タイトル：ポケットモンスター リーフグリーン\n公式サイト：https://www.pokemon.co.jp/game/gba/fl/\n\n..."
-            }
-        ]
+        "videos": []
     },
     "@Robocosan": {
         "channel_url": "https://www.youtube.com/@Robocosan",
@@ -361,15 +351,7 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": [
-            {
-                "video_id": "2qhw3zMMsMU",
-                "title": "【AmongUS】＃無礼講アモアス で絶対にクルーになる白上フブキ(希望的観測)　【ホロライブ/白上フブキ】",
-                "date": "2026/05/05 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/2qhw3zMMsMU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBkciv7mEAtynMYIZWelBGMCXiglg",
-                "description": "＃無礼講アモアス\n猫又おかゆ @NekomataOkayu  兎田ぺこら @usadapekora  AZKi　@AZKi \n雪花ラミィ @YukihanaLamy  白銀ノエル　@ShiroganeNoel  儒烏風亭らでん @Juufuute..."
-            }
-        ]
+        "videos": []
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -479,7 +461,15 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ZTfupmtuPPs",
+                "title": "【13 SENTINELS: AEGIS RIM】IT BEGINS!! ※ spoiler warning",
+                "date": "2026/05/06 04:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ZTfupmtuPPs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKPKzAvNKaVNHEf15Av7_KzDkRcg",
+                "description": "This game is being streamed and monetized after confirming with ©ATLUS and based on the official livestreaming guidelines.\n©ATLUS ©SEGA\n\n\nthumbnail: https://x.com/Kinn_z001/status/20515318345135..."
+            }
+        ]
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
