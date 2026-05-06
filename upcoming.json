@@ -21,15 +21,7 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": [
-            {
-                "video_id": "L6FFomCgriA",
-                "title": "『 #GWでうれしかったことは？ 』 #アキちょこナイパレ 第35回 ～ホロライブ深夜ラジオ～",
-                "date": "2026/05/11 21:40:00",
-                "thumbnail": "https://i.ytimg.com/vi/L6FFomCgriA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsFm9bz5NenZ3UQCP3047D6kfyXQ",
-                "description": "📰最新NEWS🌟\n🎧アキ・ローゼンタール6thオリジナル楽曲リリース開始！\n『モノポリー』https://cover.lnk.to/bF9eML\n\n🍎アキロゼ広告衣装スポンサー募..."
-            }
-        ]
+        "videos": []
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -221,7 +213,15 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "ubKmGP1jC3M",
+                "title": "【 🟣言っちゃダメ 】禁句を喋ると命取り⁉️Cursed Companionで遊ぼう🤝✦【 猫又おかゆ視点/ホロライブ 】",
+                "date": "2026/05/06 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/ubKmGP1jC3M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdriQF3nvEiBRU5s5oc4Fqjvae-Q",
+                "description": "@NatsuiroMatsuri 誘ってくれました🧡🏮\n@OozoraSubaru @TsunomakiWatame @IsakiRiona \n❥・・ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ・・❥\n🍙にゃんぐこーん..."
+            }
+        ]
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -320,15 +320,7 @@
         "channel_url": "https://www.youtube.com/@ShioriNovella",
         "channel_name": "Shiori Novella Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA",
-        "videos": [
-            {
-                "video_id": "VbUImtn3sLs",
-                "title": "Smash or Pass: Australian Bug Edition w/ @HakosBaelz",
-                "date": "2026/05/07 08:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/VbUImtn3sLs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCOh0ZvEFUFf8SZp8qv_5e7geM89w",
-                "description": "My first original song 「Monsters and Men」OUT NOW!\n🎧Listen to it here: https://cover.lnk.to/Y6ZMPF\n📹Music Video here: https://www.youtube.com/watch?v=NX1ZCKJ67dc\n\n=========================..."
-            }
-        ]
+        "videos": []
     },
     "@ShirakamiFubuki": {
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
@@ -396,7 +388,15 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "2xyaIHRQIaI",
+                "title": "【 Cursed Companions 】NGワードを言ってはいけないよ、絶対だよ【角巻わため/ホロライブ４期生】",
+                "date": "2026/05/06 21:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/2xyaIHRQIaI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_4dsybcEvbbMahltKVjod8amaag",
+                "description": "NGワードを言うと仲間が爆散する？！\nタグ：#ドドドライブ \n\n✨仲間たち✨\n@NatsuiroMatsuri \n@OozoraSubaru \n@NekomataOkayu \n@TsunomakiWatame \n@IsakiRiona \n\n配信タイト..."
+            }
+        ]
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -450,15 +450,7 @@
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": [
-            {
-                "video_id": "w37yVSXhV_c",
-                "title": "【3D LIVE CONCERT】Raora Panthera First Birthday Live Concert! #RaoraBday2026",
-                "date": "2026/05/10 08:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/w37yVSXhV_c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClyBhsOzfwNYwSkbzJEXSxdlA-FQ",
-                "description": "Stay tuned for exciting guest announcements and more surprises!!! \nRAOOOOO!!! 🎉🎂✨🍰🥳🎈\n\nThumbnail Illustration: RyotaH\nLogo Design: Spiritsnare\n\n『 X  』  \nhttps://x.com/raorapanth..."
-            }
-        ]
+        "videos": []
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
