@@ -207,14 +207,7 @@
         "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
         "channel_name": "Matsuri Channel 夏色まつり",
         "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
-        "videos": [
-            {
-                "video_id": "hQU04JauXGs",
-                "title": "【朝活歌枠】GW明けの君へ！早起きえらいっ☀【ホロライブ/夏色まつり】",
-                "thumbnail": "https://i.ytimg.com/vi/hQU04JauXGs/hqdefault.jpg?v=69fba960&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYJB_WjdxNPI0WphbPaq1wPBEPGg",
-                "description": "...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡oо○**○оo｡...｡\n\n素敵なサムネイル→冬川2号様\n@5Q1F7A4QeMsaNnD\n\n\n...｡oо○**○оo｡...｡oо○**..."
-            }
-        ]
+        "videos": []
     },
     "@NekomataOkayu": {
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
@@ -436,7 +429,14 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "jqvFYtMSzOM",
+                "title": "【Miscellaneous】 They made this hot dog for me",
+                "thumbnail": "https://i.ytimg.com/vi/jqvFYtMSzOM/hqdefault.jpg?v=69fba903&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVw73QgK64dwXSRARu7qgFGTDg_w",
+                "description": "Doing the DLEs for one hour! DLEs = daily web games (wordle, scrandle, nyt connections, etc!)\n\nMerch: https://ohmonah.shop/collections/nimi-nightmare\n\n  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋..."
+            }
+        ]
     },
     "@usadapekora": {
         "channel_url": "https://www.youtube.com/@usadapekora",
