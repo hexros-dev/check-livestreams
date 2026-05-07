@@ -21,15 +21,7 @@
         "channel_url": "https://www.youtube.com/@AkiRosenthal",
         "channel_name": "AkiRosenthal Ch. hololive-JP",
         "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": [
-            {
-                "video_id": "L6FFomCgriA",
-                "title": "『 #GWでうれしかったことは？ 』 #アキちょこナイパレ 第35回 ～ホロライブ深夜ラジオ～",
-                "date": "2026/05/11 21:40:00",
-                "thumbnail": "https://i.ytimg.com/vi/L6FFomCgriA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsFm9bz5NenZ3UQCP3047D6kfyXQ",
-                "description": "📰最新NEWS🌟\n🎧アキ・ローゼンタール6thオリジナル楽曲リリース開始！\n『モノポリー』https://cover.lnk.to/bF9eML\n\n🍎アキロゼ広告衣装スポンサー募..."
-            }
-        ]
+        "videos": []
     },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
@@ -125,13 +117,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ",
         "videos": [
             {
-                "video_id": "6SRqM2kDdlE",
-                "title": "【Slay the Spire 2】#にじホロスレスパ✨初めましてでもクリアできる！？【一条莉々華/hololive DEV_IS　ReGLOSS】",
-                "date": "2026/05/07 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/6SRqM2kDdlE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEOH0p7hHh8lYzJO-ROGK4AjF_Qg",
-                "description": "@ShirakamiFubuki @HayamaMarin @AngeKatrina \nさんたちと一緒に✨\nれっつごおおおお！！！！\n\n🔽素敵なサムネイラスト大感謝です！\nくまらん様\n@kumarang_..."
-            },
-            {
                 "video_id": "74OhTenzzao",
                 "title": "【PRAGMATA】クリア後の世界！unknown signal編！高難易度らしい…。part4 ※ネタバレ注意【一条莉々華/hololive DEV_IS ReGLOSS】",
                 "date": "2026/05/09 18:00:00",
@@ -144,13 +129,29 @@
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "6S-Eku9KBIs",
+                "title": "【Cursed Companions】ころね支店はこちら～👇👉👆【#ホロコンパニオンズ】",
+                "date": "2026/05/07 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/6S-Eku9KBIs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyPEIN82YCc-YAqB2dwHxzxAAmFQ",
+                "description": "Play Game : Cursed Companions ( steam )\nタグ#ホロコンパニオンズ\n\n---------------------------------------------\n\n@HakuiKoyori サムネ作ってくれたサバンナ\n@AZKi 結構ご飯行..."
+            }
+        ]
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
         "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
         "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
-        "videos": []
+        "videos": [
+            {
+                "video_id": "aIn4WPYdAo0",
+                "title": "【メン限】サイン書きながら雑談🎵【ホロライブ DEV_IS 響咲リオナ】",
+                "date": "2026/05/07 20:00:00",
+                "thumbnail": "https://i.ytimg.com/vi/aIn4WPYdAo0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWE5TZ26VIjwu7n4hDVPXItHBLuw",
+                "description": "サムネイラスト　灼熱さん @ boboboburning\n  お借りしました♡ありがとうございます！\n\nピアノ伴奏お借りしました！→https://www.youtube.com/channel/UCWX2b3xI..."
+            }
+        ]
     },
     "@JuufuuteiRaden": {
         "channel_url": "https://www.youtube.com/@JuufuuteiRaden",
@@ -252,15 +253,7 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
-        "videos": [
-            {
-                "video_id": "41vOdMBNhiU",
-                "title": "【 DETROIT 】自分の選択が未来を変える⁉️アンドロイドと対話しよう✊#01【 猫又おかゆ/ホロライブ 】",
-                "date": "2026/05/07 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/41vOdMBNhiU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCI_yPzmyAPqo682jFpHsqsD4dnjg",
-                "description": "❥・・ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ・・❥\n🍙にゃんぐこーん オリジナル楽曲🌽\n『けもももももも！』\n‣ 配信：https://cover.lnk.to/mpERI..."
-            }
-        ]
+        "videos": []
     },
     "@NerissaRavencroft": {
         "channel_url": "https://www.youtube.com/@NerissaRavencroft",
@@ -272,15 +265,7 @@
         "channel_url": "https://www.youtube.com/@NinomaeInanis",
         "channel_name": "Ninomae Ina'nis Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ",
-        "videos": [
-            {
-                "video_id": "kZ66Ac2Bs8w",
-                "title": "【Tomodachi Life™: Living the Dream】Is This How You Make Friends",
-                "date": "2026/05/07 19:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/kZ66Ac2Bs8w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB7e6uZsf0EUe2_pXpSXVhs3XD8nA",
-                "description": "【Thumbnail Art】\n\n\n【Twitter】\nhttps://twitter.com/ninomaeinanis\n\nNintendo properties used in this video and livestream are used with permission and under license by Nintendo Co., Ltd...."
-            }
-        ]
+        "videos": []
     },
     "@OmaruPolka": {
         "channel_url": "https://www.youtube.com/@OmaruPolka",
@@ -366,15 +351,7 @@
         "channel_url": "https://www.youtube.com/@ShirakamiFubuki",
         "channel_name": "フブキCh。白上フブキ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ",
-        "videos": [
-            {
-                "video_id": "KhNGGP94WDU",
-                "title": "【 Slay the Spire 2 】　＃にじホロスレスパ　4人でテッペン目指すぞぉおおお！！！　【白上フブキ/ホロライブ】",
-                "date": "2026/05/07 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/KhNGGP94WDU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGOO46Lvk-pJGKJCna93V3GPy3bw",
-                "description": "＃にじホロスレスパ\n一条莉々華 @IchijouRirika \n葉山舞鈴　@HayamaMarin  アンジュ・カトリーナ @AngeKatrina \n\n━━━━━━━━━━━━━━━━━━━━..."
-            }
-        ]
+        "videos": []
     },
     "@ShiranuiFlare": {
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
@@ -416,15 +393,7 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
-        "videos": [
-            {
-                "video_id": "sflyOJD5y50",
-                "title": "【#ときのそらお披露目誕生日2026】１０年目に向けた最高のパフォーマンスを！～告知もあるよ～【ホロライブ/ときのそら】",
-                "date": "2026/05/15 18:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/sflyOJD5y50/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_7hf-acdF_ivSOGqgmYL0lqoL6g",
-                "description": "今年もたくさんライブしたい♪\n\n\n～SpecialThanks～\n★サムネイルイラスト\n信澤 収\nhttps://x.com/canvas2929\nもちぷよ\nhttps://x.com/Canvas_mochi\n\n\n★Love\nそらともの..."
-            }
-        ]
+        "videos": []
     },
     "@TokoyamiTowa": {
         "channel_url": "https://www.youtube.com/@TokoyamiTowa",
@@ -436,15 +405,7 @@
         "channel_url": "https://www.youtube.com/@TsunomakiWatame",
         "channel_name": "Watame Ch. 角巻わため",
         "avatar_url": "https://yt3.googleusercontent.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo",
-        "videos": [
-            {
-                "video_id": "g8ulCCpc6WU",
-                "title": "【雑談＆お礼】金ビキニの次は何ビキニが来るんだろう？？【角巻わため/ホロライブ４期生】",
-                "date": "2026/05/07 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/g8ulCCpc6WU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgHMmbQNqBZzfuDMWboiKrSSzhoQ",
-                "description": "お祝い事もあったので改めて今日はお礼をば！\nタグ：#ドドドライブ\n\n🐏アイドル活動ボイス 販売中📢\nhttps://shop.hololivepro.com/products/hololive_lifeasanid..."
-            }
-        ]
+        "videos": []
     },
     "@VestiaZeta": {
         "channel_url": "https://www.youtube.com/@VestiaZeta",
@@ -462,15 +423,7 @@
         "channel_url": "https://www.youtube.com/@YukihanaLamy",
         "channel_name": "Lamy Ch. 雪花ラミィ",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
-        "videos": [
-            {
-                "video_id": "8Xd_mJhlIYM",
-                "title": "【Cursed Companions】協力型ホラーゲーム！「禁句」に気をつけろ！【雪花ラミィ /ホロライブ】",
-                "date": "2026/05/07 20:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/8Xd_mJhlIYM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-sxPDFOVu-cVhrIFPSyBb05Pm-A",
-                "description": "主催：​@HakuiKoyori \n@AZKi \n@InugamiKorone \n@HoushouMarine \n\n配信タイトル：Cursed Companions\nストアページ：https://store.steampowered.com/app/3265230/Cursed_Companions/\n..."
-            }
-        ]
+        "videos": []
     },
     "@YuzukiChoco": {
         "channel_url": "https://www.youtube.com/@YuzukiChoco",
@@ -500,29 +453,13 @@
         "channel_url": "https://www.youtube.com/@holoen_gigimurin",
         "channel_name": "Gigi Murin Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA",
-        "videos": [
-            {
-                "video_id": "6i9fOuXKRYs",
-                "title": "【ROLLERCOASTER TYCOON® 2: TRIPLE THRILL PACK】watch me do a sick kickflip on this rail",
-                "date": "2026/05/08 04:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/6i9fOuXKRYs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_JyrMbxYDPOjDRL0xF1b3_RcTkQ",
-                "description": "Game Title: RollerCoaster Tycoon® 2: Triple Thrill Pack\nStore Page: https://store.steampowered.com/app/285330/RollerCoaster_Tycoon_2_Triple_Thrill_Pack/\n\n\nthumbnail: https://x.com/_nontann/status/..."
-            }
-        ]
+        "videos": []
     },
     "@holoen_raorapanthera": {
         "channel_url": "https://www.youtube.com/@holoen_raorapanthera",
         "channel_name": "Raora Panthera Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA",
-        "videos": [
-            {
-                "video_id": "w37yVSXhV_c",
-                "title": "【3D LIVE CONCERT】Raora Panthera First Birthday Live Concert! #RaoraBday2026",
-                "date": "2026/05/10 08:00:00",
-                "thumbnail": "https://i.ytimg.com/vi/w37yVSXhV_c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClyBhsOzfwNYwSkbzJEXSxdlA-FQ",
-                "description": "Stay tuned for exciting guest announcements and more surprises!!! \nRAOOOOO!!! 🎉🎂✨🍰🥳🎈\n\nThumbnail Illustration: RyotaH\nLogo Design: Spiritsnare\n\n『 X  』  \nhttps://x.com/raorapanth..."
-            }
-        ]
+        "videos": []
     },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
