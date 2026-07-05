@@ -1,4 +1,17 @@
 {
+    "@AiraniIofifteen": {
+        "channel_url": "https://www.youtube.com/@AiraniIofifteen",
+        "channel_name": "Airani Iofifteen Channel hololive-ID",
+        "avatar_url": "https://yt3.googleusercontent.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc",
+        "videos": [
+            {
+                "video_id": "dhlVxeJopPY",
+                "title": "【MHWilds】Learning Bow Day 2【 iofi / hololiveID 】",
+                "thumbnail": "https://i.ytimg.com/vi/dhlVxeJopPY/hqdefault.jpg?v=6a4a0ddd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCoTEMUQwVFLewLpRmbmnZ2E7tiw",
+                "description": null
+            }
+        ]
+    },
     "@AkaiHaato": {
         "channel_url": "https://www.youtube.com/@AkaiHaato",
         "channel_name": "HAACHAMA Ch 赤井はあと",
@@ -47,6 +60,19 @@
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
         "videos": []
     },
+    "@IsakiRiona": {
+        "channel_url": "https://www.youtube.com/@IsakiRiona",
+        "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+        "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
+        "videos": [
+            {
+                "video_id": "CFK65IXWIg4",
+                "title": "【 パワプロ2026 】実は野球好き！一年目冬✨栄冠ナイン３年モードを初見プレイ⚾✨【ホロライブ DEV_IS 響咲リオナ】",
+                "thumbnail": "https://i.ytimg.com/vi/CFK65IXWIg4/hqdefault.jpg?v=6a4a0443&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZoMzm_fPI_6_41Aqr6AnhBIybDA",
+                "description": null
+            }
+        ]
+    },
     "@KoboKanaeru": {
         "channel_url": "https://www.youtube.com/@KoboKanaeru",
         "channel_name": "Kobo Kanaeru Ch. hololive-ID",
@@ -89,6 +115,19 @@
         "avatar_url": "https://yt3.googleusercontent.com/ufO7pGRu0vUfA2FLPz7yN517i8wOYxAdcxB9nSTKKfiKhjec0ulSmwWmRA00KqVpOTIesgXhMA",
         "videos": []
     },
+    "@NekomataOkayu": {
+        "channel_url": "https://www.youtube.com/@NekomataOkayu",
+        "channel_name": "Okayu Ch. 猫又おかゆ",
+        "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
+        "videos": [
+            {
+                "video_id": "ah7H23Ibp6A",
+                "title": "【 FF7リメイク 】またみんなと冒険だああ!!💥#08 | FINAL FANTASY VII REMAKE INTERGRADE【 猫又おかゆ/ホロライブ 】※ネタバレあり",
+                "thumbnail": "https://i.ytimg.com/vi/ah7H23Ibp6A/hqdefault.jpg?v=6a492408&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnlw5o-HCr_F_Xw8l7G-pczG5m3A",
+                "description": null
+            }
+        ]
+    },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
@@ -125,6 +164,19 @@
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
         "videos": []
     },
+    "@TodorokiHajime": {
+        "channel_url": "https://www.youtube.com/@TodorokiHajime",
+        "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+        "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
+        "videos": [
+            {
+                "video_id": "gacJXDHpC_s",
+                "title": "【リズム天国ミラクルスターズ】最後までリズムに乗るぜっ！【轟はじめ/ReGLOSS】",
+                "thumbnail": "https://i.ytimg.com/vi/gacJXDHpC_s/hqdefault.jpg?v=6a48f286&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTsBVQ39b5fDbR2U3lKl-qdJUnFg",
+                "description": null
+            }
+        ]
+    },
     "@TokinoSora": {
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
@@ -160,6 +212,19 @@
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
         "videos": []
+    },
+    "@usadapekora": {
+        "channel_url": "https://www.youtube.com/@usadapekora",
+        "channel_name": "Pekora Ch. 兎田ぺこら",
+        "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
+        "videos": [
+            {
+                "video_id": "HQkN2AHtJIQ",
+                "title": "#11【SFC】完全初見！ドラゴンクエストVI 幻の大地 ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意",
+                "thumbnail": "https://i.ytimg.com/vi/HQkN2AHtJIQ/hqdefault.jpg?v=6a496205&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBX9IBE_aeZfdsf6DkSUGvqqct_wA",
+                "description": null
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
