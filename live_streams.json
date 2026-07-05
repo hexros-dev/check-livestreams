@@ -3,14 +3,7 @@
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
         "channel_name": "Airani Iofifteen Channel hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc",
-        "videos": [
-            {
-                "video_id": "dhlVxeJopPY",
-                "title": "【MHWilds】Learning Bow Day 2【 iofi / hololiveID 】",
-                "thumbnail": "https://i.ytimg.com/vi/dhlVxeJopPY/hqdefault.jpg?v=6a4a0ddd&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCoTEMUQwVFLewLpRmbmnZ2E7tiw",
-                "description": null
-            }
-        ]
+        "videos": []
     },
     "@AkaiHaato": {
         "channel_url": "https://www.youtube.com/@AkaiHaato",
@@ -152,12 +145,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/gNZv93GVlg3GAco7HTg2OXl_9s2Pm3lG6DxNfOXqPkLRNcM5BSEOAcQGpgQ8AejiEam5ElLG",
         "videos": []
     },
-    "@ShiranuiFlare": {
-        "channel_url": "https://www.youtube.com/@ShiranuiFlare",
-        "channel_name": "Flare Ch. 不知火フレア",
-        "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
-    },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -207,6 +194,19 @@
         "avatar_url": "https://yt3.googleusercontent.com/sOGyZgV9pPHQJCEvNe28NCOFC1y0KggsxUjrP5ecMAgBmdNT8p6ZNM24d_9SVgWFhBh0lKBL5Q",
         "videos": []
     },
+    "@kazamairoha": {
+        "channel_url": "https://www.youtube.com/@kazamairoha",
+        "channel_name": "Iroha ch. 風真いろは - holoX -",
+        "avatar_url": "https://yt3.googleusercontent.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG",
+        "videos": [
+            {
+                "video_id": "wsjGbcht2yw",
+                "title": "【リズム天国ミラクルスターズ】やっと遊べますね✌【風真いろは/ホロライブ】",
+                "thumbnail": "https://i.ytimg.com/vi/wsjGbcht2yw/hqdefault.jpg?v=6a49fb2a&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQ0MZXqAhuQAtuUH-VXlGgfc0LbQ",
+                "description": null
+            }
+        ]
+    },
     "@niminightmare": {
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
@@ -221,7 +221,7 @@
             {
                 "video_id": "HQkN2AHtJIQ",
                 "title": "#11【SFC】完全初見！ドラゴンクエストVI 幻の大地 ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意",
-                "thumbnail": "https://i.ytimg.com/vi/HQkN2AHtJIQ/hqdefault.jpg?v=6a496205&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBX9IBE_aeZfdsf6DkSUGvqqct_wA",
+                "thumbnail": "https://i.ytimg.com/vi/HQkN2AHtJIQ/hqdefault.jpg?v=6a496205&sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLANDTj7dPvjFZSqqk7X1NU5ETnhlw",
                 "description": null
             }
         ]
