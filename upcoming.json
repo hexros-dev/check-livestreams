@@ -17,12 +17,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/ecW_DT7IKBcfKJ1qioYiyU_Iq6EB4_bCZpaG4srWPkEZRsIAiYguEvh7_nELEJqPnbjAktVj6Q",
         "videos": []
     },
-    "@AkiRosenthal": {
-        "channel_url": "https://www.youtube.com/@AkiRosenthal",
-        "channel_name": "AkiRosenthal Ch. hololive-JP",
-        "avatar_url": "https://yt3.googleusercontent.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA",
-        "videos": []
-    },
     "@AmaneKanata": {
         "channel_url": "https://www.youtube.com/@AmaneKanata",
         "channel_name": "Kanata Ch. Kanata Amane",
@@ -57,12 +51,6 @@
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": []
-    },
-    "@IsakiRiona": {
-        "channel_url": "https://www.youtube.com/@IsakiRiona",
-        "channel_name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-        "avatar_url": "https://yt3.googleusercontent.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD",
         "videos": []
     },
     "@KoboKanaeru": {
@@ -131,10 +119,22 @@
         "avatar_url": "https://yt3.googleusercontent.com/gNZv93GVlg3GAco7HTg2OXl_9s2Pm3lG6DxNfOXqPkLRNcM5BSEOAcQGpgQ8AejiEam5ElLG",
         "videos": []
     },
+    "@ShiranuiFlare": {
+        "channel_url": "https://www.youtube.com/@ShiranuiFlare",
+        "channel_name": "Flare Ch. 不知火フレア",
+        "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
+        "videos": []
+    },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
         "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
         "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
+        "videos": []
+    },
+    "@TodorokiHajime": {
+        "channel_url": "https://www.youtube.com/@TodorokiHajime",
+        "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+        "avatar_url": "https://yt3.googleusercontent.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g",
         "videos": []
     },
     "@TokinoSora": {
