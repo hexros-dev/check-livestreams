@@ -51,14 +51,7 @@
         "channel_url": "https://www.youtube.com/@InugamiKorone",
         "channel_name": "Korone Ch. 戌神ころね",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
-        "videos": [
-            {
-                "video_id": "M6b3XEy5dgE",
-                "title": "【#おかころ】ころね支店【R.E.P.O】",
-                "thumbnail": "https://i.ytimg.com/vi/M6b3XEy5dgE/hqdefault.jpg?v=6a4e0ae8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCfla7lL8r1xEq4fZyvguM2e9lH-g",
-                "description": null
-            }
-        ]
+        "videos": []
     },
     "@IsakiRiona": {
         "channel_url": "https://www.youtube.com/@IsakiRiona",
@@ -112,14 +105,7 @@
         "channel_url": "https://www.youtube.com/@NekomataOkayu",
         "channel_name": "Okayu Ch. 猫又おかゆ",
         "avatar_url": "https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg",
-        "videos": [
-            {
-                "video_id": "bWK2juN5IJc",
-                "title": "【 🔴R.E.P.O. 】#おかころ で超久しぶりREPOやるよ～～💜🤝💛【 猫又おかゆ支店/ホロライブ 】",
-                "thumbnail": "https://i.ytimg.com/vi/bWK2juN5IJc/hqdefault.jpg?v=6a4d1be7&sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLB-ByHn1b3sXinpPQc26ErtLD0_vQ",
-                "description": null
-            }
-        ]
+        "videos": []
     },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
@@ -131,14 +117,7 @@
         "channel_url": "https://www.youtube.com/@PavoliaReine",
         "channel_name": "Pavolia Reine Ch. hololive-ID",
         "avatar_url": "https://yt3.googleusercontent.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc",
-        "videos": [
-            {
-                "video_id": "-QGVkuz1Aes",
-                "title": "【Overwatch】Playing more quick play【Pavolia Reine/hololiveID】",
-                "thumbnail": "https://i.ytimg.com/vi/-QGVkuz1Aes/hqdefault.jpg?v=6a4e5d89&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbWoPuTdmF-a-2vxaUq96_IYZG9w",
-                "description": null
-            }
-        ]
+        "videos": []
     },
     "@SakamataChloe": {
         "channel_url": "https://www.youtube.com/@SakamataChloe",
@@ -157,6 +136,19 @@
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
         "videos": []
+    },
+    "@TakanashiKiara": {
+        "channel_url": "https://www.youtube.com/@TakanashiKiara",
+        "channel_name": "Takanashi Kiara Ch. hololive-EN",
+        "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
+        "videos": [
+            {
+                "video_id": "vp0xomQIn5Y",
+                "title": "【ARKNIGHTS: ENDFIELD】the guy, i will get first try (a poem by takanashi kiara) ✨ #kfp",
+                "thumbnail": "https://i.ytimg.com/vi/vp0xomQIn5Y/hqdefault.jpg?v=6a4e6c90&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDIbxLKPqfiLRLI_g-ERWCRDEagwQ",
+                "description": null
+            }
+        ]
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
@@ -223,12 +215,6 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": []
-    },
-    "@usadapekora": {
-        "channel_url": "https://www.youtube.com/@usadapekora",
-        "channel_name": "Pekora Ch. 兎田ぺこら",
-        "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
         "videos": []
     },
     "@結城さくな": {
