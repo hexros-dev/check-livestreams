@@ -1,10 +1,4 @@
 {
-    "@AZKi": {
-        "channel_url": "https://www.youtube.com/@AZKi",
-        "channel_name": "AZKi Channel",
-        "avatar_url": "https://yt3.googleusercontent.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos",
-        "videos": []
-    },
     "@AiraniIofifteen": {
         "channel_url": "https://www.youtube.com/@AiraniIofifteen",
         "channel_name": "Airani Iofifteen Channel hololive-ID",
@@ -45,12 +39,6 @@
         "channel_url": "https://www.youtube.com/@HoushouMarine",
         "channel_name": "Marine Ch. 宝鐘マリン",
         "avatar_url": "https://yt3.googleusercontent.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk",
-        "videos": []
-    },
-    "@InugamiKorone": {
-        "channel_url": "https://www.youtube.com/@InugamiKorone",
-        "channel_name": "Korone Ch. 戌神ころね",
-        "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc",
         "videos": []
     },
     "@IsakiRiona": {
@@ -125,6 +113,19 @@
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
         "videos": []
     },
+    "@TakaneLui": {
+        "channel_url": "https://www.youtube.com/@TakaneLui",
+        "channel_name": "Lui ch. 鷹嶺ルイ - holoX -",
+        "avatar_url": "https://yt3.googleusercontent.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg",
+        "videos": [
+            {
+                "video_id": "rM_JNZ-Zqmc",
+                "title": "【 ドラゴンクエストヒーローズ 闇竜と世界樹の城 】完全初見！始原の里攻略へ・・・世界樹を助けることはできるのか⁉【鷹嶺ルイ/ホロライブ】ネタバレあり",
+                "thumbnail": "https://i.ytimg.com/vi/rM_JNZ-Zqmc/hqdefault.jpg?v=6a4dd9e1&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCP4VMa32mIyroDltDkBNoTrBiyGg",
+                "description": null
+            }
+        ]
+    },
     "@TodorokiHajime": {
         "channel_url": "https://www.youtube.com/@TodorokiHajime",
         "channel_name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -135,6 +136,12 @@
         "channel_url": "https://www.youtube.com/@TokinoSora",
         "channel_name": "SoraCh. ときのそらチャンネル",
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4",
+        "videos": []
+    },
+    "@TokoyamiTowa": {
+        "channel_url": "https://www.youtube.com/@TokoyamiTowa",
+        "channel_name": "Towa Ch.Tokoyami Towa",
+        "avatar_url": "https://yt3.googleusercontent.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ",
         "videos": []
     },
     "@WatsonAmelia": {
@@ -172,6 +179,19 @@
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
         "videos": []
+    },
+    "@usadapekora": {
+        "channel_url": "https://www.youtube.com/@usadapekora",
+        "channel_name": "Pekora Ch. 兎田ぺこら",
+        "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY",
+        "videos": [
+            {
+                "video_id": "Xpzr4D2PtMk",
+                "title": "【パワプロ2026】1年目夏！兎☆ダイナマイト高校 いくぞおおおおおおおおおおお！ぺこ！【ホロライブ/兎田ぺこら】＃パワプロケモミミリーグ",
+                "thumbnail": "https://i.ytimg.com/vi/Xpzr4D2PtMk/hqdefault.jpg?v=6a4d57b8&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCqMOQigOHZH8aSWK8xJgOzA0wYIA",
+                "description": null
+            }
+        ]
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
