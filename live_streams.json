@@ -102,6 +102,12 @@
         "avatar_url": "https://yt3.googleusercontent.com/ufO7pGRu0vUfA2FLPz7yN517i8wOYxAdcxB9nSTKKfiKhjec0ulSmwWmRA00KqVpOTIesgXhMA",
         "videos": []
     },
+    "@NatsuiroMatsuri": {
+        "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
+        "channel_name": "Matsuri Channel 夏色まつり",
+        "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
+        "videos": []
+    },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
@@ -136,14 +142,7 @@
         "channel_url": "https://www.youtube.com/@TakanashiKiara",
         "channel_name": "Takanashi Kiara Ch. hololive-EN",
         "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
-        "videos": [
-            {
-                "video_id": "vp0xomQIn5Y",
-                "title": "【ARKNIGHTS: ENDFIELD】the guy, i will get first try (a poem by takanashi kiara) ✨ #kfp",
-                "thumbnail": "https://i.ytimg.com/vi/vp0xomQIn5Y/hqdefault.jpg?v=6a4e6c90&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDIbxLKPqfiLRLI_g-ERWCRDEagwQ",
-                "description": null
-            }
-        ]
+        "videos": []
     },
     "@TakaneLui": {
         "channel_url": "https://www.youtube.com/@TakaneLui",
