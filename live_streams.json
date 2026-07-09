@@ -61,7 +61,7 @@
             {
                 "video_id": "Zp8bwA3j5lU",
                 "title": "【VALORANT】Hop on valo, let's play together",
-                "thumbnail": "https://i.ytimg.com/vi/Zp8bwA3j5lU/hqdefault.jpg?v=6a4ec3fc&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzfTp6dBDzxqq2N6F-TFNc9cIq1g",
+                "thumbnail": "https://i.ytimg.com/vi/Zp8bwA3j5lU/hqdefault.jpg?v=6a4ec3fc&sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLBkL-jWrl7MoqS0iU5_VdKUQkkZVQ",
                 "description": null
             }
         ]
@@ -102,12 +102,6 @@
         "avatar_url": "https://yt3.googleusercontent.com/ufO7pGRu0vUfA2FLPz7yN517i8wOYxAdcxB9nSTKKfiKhjec0ulSmwWmRA00KqVpOTIesgXhMA",
         "videos": []
     },
-    "@NatsuiroMatsuri": {
-        "channel_url": "https://www.youtube.com/@NatsuiroMatsuri",
-        "channel_name": "Matsuri Channel 夏色まつり",
-        "avatar_url": "https://yt3.googleusercontent.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ",
-        "videos": []
-    },
     "@OokamiMio": {
         "channel_url": "https://www.youtube.com/@OokamiMio",
         "channel_name": "Mio Channel 大神ミオ",
@@ -136,12 +130,6 @@
         "channel_url": "https://www.youtube.com/@ShiranuiFlare",
         "channel_name": "Flare Ch. 不知火フレア",
         "avatar_url": "https://yt3.googleusercontent.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4",
-        "videos": []
-    },
-    "@TakanashiKiara": {
-        "channel_url": "https://www.youtube.com/@TakanashiKiara",
-        "channel_name": "Takanashi Kiara Ch. hololive-EN",
-        "avatar_url": "https://yt3.googleusercontent.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA",
         "videos": []
     },
     "@TakaneLui": {
@@ -174,6 +162,19 @@
         "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc",
         "videos": []
     },
+    "@dooby3d": {
+        "channel_url": "https://www.youtube.com/@dooby3d",
+        "channel_name": "dooby",
+        "avatar_url": "https://yt3.googleusercontent.com/sOGyZgV9pPHQJCEvNe28NCOFC1y0KggsxUjrP5ecMAgBmdNT8p6ZNM24d_9SVgWFhBh0lKBL5Q",
+        "videos": [
+            {
+                "video_id": "hSyxYG5VhbE",
+                "title": "Beach Day ~ 🏖️ More Karaoke !",
+                "thumbnail": "https://i.ytimg.com/vi/hSyxYG5VhbE/hqdefault.jpg?v=6a4ea581&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDY7tVNT61lBF0TEiCTrg5mHRjiBw",
+                "description": null
+            }
+        ]
+    },
     "@kazamairoha": {
         "channel_url": "https://www.youtube.com/@kazamairoha",
         "channel_name": "Iroha ch. 風真いろは - holoX -",
@@ -190,14 +191,7 @@
         "channel_url": "https://www.youtube.com/@niminightmare",
         "channel_name": "Nimi Nightmare",
         "avatar_url": "https://yt3.googleusercontent.com/g2flqyDN97sd0jJ5P07uczkpw-9UJVl6oe4QPuT7tcGCQxauy4Ru2fzQ1WgGSqPsnqQIpLGINqg",
-        "videos": [
-            {
-                "video_id": "olRx4rQKwTo",
-                "title": "【Rhythm Heaven Groove】 Rhythm-less tapir plays rhythm game",
-                "thumbnail": "https://i.ytimg.com/vi/olRx4rQKwTo/hqdefault.jpg?v=6a4ea2d4&sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBhVJhKzYBsUWdTxj9c2mXiliVmg",
-                "description": null
-            }
-        ]
+        "videos": []
     },
     "@結城さくな": {
         "channel_url": "https://www.youtube.com/@結城さくな",
